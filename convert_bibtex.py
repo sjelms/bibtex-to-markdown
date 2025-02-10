@@ -1,8 +1,7 @@
 import os
 import bibtexparser
 
-# Load and parse the BibTeX file
-BIBTEX_FILE = "references.bib"  # Update if your file has a different name
+BIBTEX_FILE = "main.bib"  # Updated filename
 OUTPUT_DIR = "markdown_entries"  # Directory where Markdown files will be saved
 
 # Ensure the output directory exists
