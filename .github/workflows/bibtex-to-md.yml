@@ -1,0 +1,33 @@
+name: Convert BibTeX to Markdown
+
+on:
+  push:
+    paths:
+      - "references.bib"  # Run only when the BibTeX file is updated
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install bibtexparser
+
+      - name: Run BibTeX to Markdown script
+        run: python convert_bibtex.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add markdown_entries/
+          git commit -m "Auto-generate Markdown files from BibTeX" || echo "No changes to commit"
+          git push
