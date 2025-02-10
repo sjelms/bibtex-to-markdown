@@ -1,6 +1,5 @@
 ---
-title: The Technology Trap: Capital, Labor, and Power in the Age of
-Automation
+title: The Technology Trap: Capital, Labor, and Power in the Age of Automation
 year: 2019
 author - 1: "[[Frey, Carl Benedikt]]"
 key: "[[Frey2019-yf]]"
