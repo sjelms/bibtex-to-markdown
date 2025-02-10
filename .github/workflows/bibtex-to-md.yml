@@ -3,7 +3,7 @@ name: Convert BibTeX to Markdown
 on:
   push:
     paths:
-      - "references.bib"  # Run only when the BibTeX file is updated
+      - "main.bib"  # Updated to correct filename
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -29,9 +29,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install --upgrade --force-reinstall bibtexparser
 
-      # Debug: Check installed packages
-      - name: Verify installed packages
-        run: pip list
+      # Debug: Check if main.bib exists
+      - name: Debug: List files
+        run: ls -R
 
       - name: Run BibTeX to Markdown script
         run: python convert_bibtex.py
