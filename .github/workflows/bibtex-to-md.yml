@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Disable default token
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -27,9 +29,11 @@ jobs:
         run: python convert_bibtex.py
 
       - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add markdown_entries/
           git commit -m "Auto-generate Markdown files from BibTeX" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GH_PAT}@github.com/sjelms/bibtex-to-markdown.git main
