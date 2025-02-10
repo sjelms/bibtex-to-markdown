@@ -31,7 +31,8 @@ jobs:
 
       # Debug: Check if main.bib exists
       - name: Debug: List files
-        run: ls -R
+        run: |
+          ls -R
 
       - name: Run BibTeX to Markdown script
         run: python convert_bibtex.py
