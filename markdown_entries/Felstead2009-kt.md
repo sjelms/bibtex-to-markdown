@@ -1,11 +1,10 @@
 ---
 title: Improving Working as Learning
 year: 2009
-author - 1: "[[Felstead, Alan]]"
-author - 2: "[[Fuller, Alison]]"
-author - 3: "[[Jewson, Nick]]"
-author - 4: "[[Unwin,
-Lorna]]"
+author - 1st: "[[Alan Felstead]]"
+author - 2nd: "[[Alison Fuller]]"
+author - 3rd: "[[Nick Jewson]]"
+author - 4th: "[[Lorna Unwin]]"
 key: "[[Felstead2009-kt]]"
 tags:  # Tags field is included but left empty
 ---
