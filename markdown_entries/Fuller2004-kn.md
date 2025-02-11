@@ -13,17 +13,4 @@ Fuller, Alison, Unwin, Lorna. (2004). _Expansive Learning Environments -  Integr
 
 
 ## Abstract
-This chapter argues that learning environments that offer
-employees diverse forms of participation foster learning at work.
-Case-study evidence is used to illuminate the relationship
-between work and learning in relation to three participatory
-dimensions: (1) opportunities for engaging in multiple (and
-overlapping) communities of practice at and beyond the workplace;
-(2) access to a multidimensional approach to the acquisition of
-expertise through the organization of work and job design; and
-(3) the opportunity to pursue knowledge-based courses and
-qualifications relating to work. Our research indicates that
-where organizations have created ‘expansive learning
-environments’ and practise an expansive approach to learning,
-they also provide the basis for the integration of personal and
-organizational development.
+This chapter argues that learning environments that offer employees diverse forms of participation foster learning at work. Case-study evidence is used to illuminate the relationship between work and learning in relation to three participatory dimensions: (1) opportunities for engaging in multiple (and overlapping) communities of practice at and beyond the workplace; (2) access to a multidimensional approach to the acquisition of expertise through the organization of work and job design; and (3) the opportunity to pursue knowledge-based courses and qualifications relating to work. Our research indicates that where organizations have created ‘expansive learning environments’ and practise an expansive approach to learning, they also provide the basis for the integration of personal and organizational development.
