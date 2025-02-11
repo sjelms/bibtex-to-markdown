@@ -14,7 +14,7 @@ with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
     # Get title and replace colons with hyphens to avoid YAML errors
-    title = entry.get("title", "Untitled").replace(":", " - ")
+    title = entry.get("title", "Untitled").replace(":", " ; ")
     # Ensure the title is a single line (no unintended line breaks)
     title = " ".join(title.splitlines())
     year = entry.get("year", "Unknown Year")
