@@ -51,8 +51,11 @@ for entry in bib_database.entries:
     doi = entry.get("doi", "")
     publisher = entry.get("publisher", "Unknown Publisher")
 
-    # Get abstract if available, ensuring it has no line breaks
+    # Get abstract if available, remove extra spaces, and force single-line formatting
     abstract = entry.get("abstract", "").strip()
+    abstract = " ".join(abstract.split())  # This removes unwanted line breaks
+
+    # Add the abstract section only if an abstract exists
     abstract_section = f"\n## Abstract\n{abstract}" if abstract else ""
 
     # Markdown content format
