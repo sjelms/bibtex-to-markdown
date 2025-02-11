@@ -1,5 +1,5 @@
 ---
-title: Offsite Architecture - Constructing the Future
+title: Offsite Architecture; Constructing the Future
 year: 2017
 author - 1: "[[Smith, Ryan E]]"
 author - 2: "[[Quale, John D]]"
