@@ -1,8 +1,22 @@
+import os
+import bibtexparser
+
+# Define the file paths
+BIBTEX_FILE = "main.bib"  # Ensure this matches your actual filename
+OUTPUT_DIR = "markdown_entries"
+
+# Ensure the output directory exists
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Load the BibTeX file
+with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
+    bib_database = bibtexparser.load(bibfile)  # <-- This line was missing!
+
 # Function to format ordinal numbers (1st, 2nd, 3rd, etc.)
 def ordinal(n):
     return f"{n}{'st' if n == 1 else 'nd' if n == 2 else 'rd' if n == 3 else 'th'}"
 
-for entry in bib_database.entries:
+for entry in bib_database.entries:  # Ensure bib_database is defined!
     key = entry.get("ID", "unknown_key")
     
     # Get title, replace colons with hyphens, and remove line breaks
