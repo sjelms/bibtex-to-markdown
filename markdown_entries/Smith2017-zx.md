@@ -1,8 +1,8 @@
 ---
 title: Offsite Architecture ;  Constructing the Future
 year: 2017
-author - 1: "[[Smith, Ryan E]]"
-author - 2: "[[Quale, John D]]"
+author - 1st: "[[Ryan E. Smith]]"
+author - 2nd: "[[John D. Quale]]"
 key: "[[Smith2017-zx]]"
 tags:  # Tags field is included but left empty
 ---
