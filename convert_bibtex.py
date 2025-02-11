@@ -10,13 +10,22 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Load the BibTeX file
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
-    bib_database = bibtexparser.load(bibfile)  # <-- This line was missing!
+    bib_database = bibtexparser.load(bibfile)
 
 # Function to format ordinal numbers (1st, 2nd, 3rd, etc.)
 def ordinal(n):
     return f"{n}{'st' if n == 1 else 'nd' if n == 2 else 'rd' if n == 3 else 'th'}"
 
-for entry in bib_database.entries:  # Ensure bib_database is defined!
+# Function to map BibTeX entry types to formatted tags
+def format_reference_type(entry_type):
+    if entry_type.lower() == "book":
+        return "Book"
+    elif entry_type.lower() == "incollection":
+        return "Book_Chapter"
+    else:
+        return entry_type.title()  # Convert other types to Title Case
+
+for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
     
     # Get title, replace colons with hyphens, and remove line breaks
@@ -24,7 +33,10 @@ for entry in bib_database.entries:  # Ensure bib_database is defined!
     title = " ".join(title.splitlines())
 
     year = entry.get("year", "Unknown Year")
-    
+
+    # Get reference type and format as tag
+    ref_type = format_reference_type(entry.get("ENTRYTYPE", "Unknown"))
+
     # Get authors, ensuring "First Last" format and no line breaks
     raw_authors = entry.get("editor", entry.get("author", "Unknown Author"))
     authors_list = raw_authors.split(" and ") if raw_authors else []
@@ -39,17 +51,24 @@ for entry in bib_database.entries:  # Ensure bib_database is defined!
     doi = entry.get("doi", "")
     publisher = entry.get("publisher", "Unknown Publisher")
 
+    # Get abstract if available, ensuring it has no line breaks
+    abstract = entry.get("abstract", "").strip()
+    abstract_section = f"\n## Abstract\n{abstract}" if abstract else ""
+
     # Markdown content format
     markdown_content = f"""---
 title: {title}
 year: {year}
 {formatted_authors}
 key: "[[{key}]]"
-tags:  # Tags field is included but left empty
+tags:
+  - {ref_type}
 ---
 
 ## Bibliography
 {", ".join(authors_list)}. ({year}). _{title}_. {publisher}. {"https://doi.org/" + doi if doi else url}
+
+{abstract_section}
 """
 
     # Save as a Markdown file
