@@ -1,33 +1,29 @@
-import os
-import bibtexparser
-
-BIBTEX_FILE = "main.bib"  # Updated filename
-OUTPUT_DIR = "markdown_entries"  # Directory where Markdown files will be saved
-
-# Ensure the output directory exists
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# Read the BibTeX file
-with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
-    bib_database = bibtexparser.load(bibfile)
+# Function to format ordinal numbers (1st, 2nd, 3rd, etc.)
+def ordinal(n):
+    return f"{n}{'st' if n == 1 else 'nd' if n == 2 else 'rd' if n == 3 else 'th'}"
 
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    # Get title and replace colons with hyphens to avoid YAML errors
-    title = entry.get("title", "Untitled").replace(":", " ; ")
-    # Ensure the title is a single line (no unintended line breaks)
+    
+    # Get title, replace colons with hyphens, and remove line breaks
+    title = entry.get("title", "Untitled").replace(":", " - ")
     title = " ".join(title.splitlines())
+
     year = entry.get("year", "Unknown Year")
-    authors = entry.get("editor", entry.get("author", "Unknown Author"))
+    
+    # Get authors, ensuring "First Last" format and no line breaks
+    raw_authors = entry.get("editor", entry.get("author", "Unknown Author"))
+    authors_list = raw_authors.split(" and ") if raw_authors else []
+    
+    formatted_authors = "\n".join(
+        [f'author - {ordinal(i+1)}: "[[{name.split(", ")[1]} {name.split(", ")[0]}]]"'
+         if ", " in name else f'author - {ordinal(i+1)}: "[[{name}]]"'
+         for i, name in enumerate(authors_list)]
+    )
+
     url = entry.get("url", "")
     doi = entry.get("doi", "")
     publisher = entry.get("publisher", "Unknown Publisher")
-
-    # Convert authors to Markdown link format
-    authors_list = authors.split(" and ") if authors else []
-    formatted_authors = "\n".join(
-        [f'author - {i+1}: "[[{author}]]"' for i, author in enumerate(authors_list)]
-    )
 
     # Markdown content format
     markdown_content = f"""---
