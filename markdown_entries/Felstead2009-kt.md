@@ -4,7 +4,8 @@ year: 2009
 author - 1st: "[[Alan Felstead]]"
 author - 2nd: "[[Alison Fuller]]"
 author - 3rd: "[[Nick Jewson]]"
-author - 4th: "[[Lorna Unwin]]"
+author - 4th: "[[Unwin,
+Lorna]]"
 key: "[[Felstead2009-kt]]"
 tags:
   - Book
