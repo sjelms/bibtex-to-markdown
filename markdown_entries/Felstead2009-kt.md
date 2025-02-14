@@ -1,6 +1,6 @@
 ---
 title: Improving Working as Learning
-year: Unknown Year
+year: 2009
 author - 1st: "[[Alan Felstead]]"
 author - 2nd: "[[Alison Fuller]]"
 author - 3rd: "[[Nick Jewson]]"
@@ -13,7 +13,7 @@ tags:
 
 ## Bibliography
 Felstead, Alan, Fuller, Alison, Jewson, Nick, Unwin,
-Lorna. (Unknown Year). _Improving Working as Learning_. Routledge. https://www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469
+Lorna. (2009). _Improving Working as Learning_. Routledge. https://www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469
 
 
 ## Abstract

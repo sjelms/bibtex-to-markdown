@@ -1,6 +1,6 @@
 ---
 title: Automation and New Tasks -  How Technology Displaces and Reinstates Labor
-year: Unknown Year
+year: 2019
 author - 1st: "[[Daron Acemoglu]]"
 author - 2nd: "[[Pascual Restrepo]]"
 key: "[[Acemoglu2019-rl]]"
@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Bibliography
-Acemoglu, Daron, Restrepo, Pascual. (Unknown Year). _Automation and New Tasks -  How Technology Displaces and Reinstates Labor_. Unknown Publisher. https://doi.org/10.1257/jep.33.2.3
+Acemoglu, Daron, Restrepo, Pascual. (2019). _Automation and New Tasks -  How Technology Displaces and Reinstates Labor_. Unknown Publisher. https://doi.org/10.1257/jep.33.2.3
 
 
 ## Abstract
