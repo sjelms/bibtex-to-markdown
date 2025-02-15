@@ -8,6 +8,19 @@ author - 4: "[[Lorna Unwin]]"
 key: "[[Felstead2009-kt]]"
 publisher: [[Routledge]]
 tags:
+  - VET
+  - EPubs-Books
+  - WALF---Improving-Working-as-Learning
+  - 3_Upgrade-OCT-2023
+  - _BibTex-to-MD-Git
+  - _In-Notion
+  - _In-Readwise
+  - UCL
+  - VET
+  - Workplace-Learning
+  - ePub
+  - _Mark-Up
+  - Essential
 ---
 
 ## Bibliography
