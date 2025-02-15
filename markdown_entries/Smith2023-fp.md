@@ -3,8 +3,8 @@ title: Offsite Construction for Housing -  Research Roadmap
 year: 2023
 author - 1: "Ryan E Smith"
 author - 2: "Ivan Rupnik"
-author - 3: "Tyler and
-Barry Schmetterer"
+author - 3: "Schmetterer, Tyler and
+Barry, Kyle"
 author - 4: "{U.S. Department of Housing"
 author - 5: "Urban
 Development}"
@@ -36,8 +36,8 @@ tags:
 ---
 
 ## Bibliography
-Ryan E Smith, Ivan Rupnik, Tyler and
-Barry Schmetterer, {U.S. Department of Housing, Urban
-Development}, {Office of Policy Development, Research}. 2023. *Offsite Construction for Housing -  Research Roadmap*. https://www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
+Ryan E Smith, Ivan Rupnik, Schmetterer, Tyler and
+Barry, Kyle, {U.S. Department of Housing, Urban
+Development}, {Office of Policy Development, and Research}. 2023. “Offsite Construction for Housing -  Research Roadmap.” . https://www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
 ## Abstract
 Offsite construction of housing, which includes manufactured housing, modular homes, and prefabricated structural components, offers potential for production efficiencies, improved quality, and lower costs. Key knowledge gaps and research needs to be addressed to overcome the barriers and challenges of offsite construction and fulfill its potential. A literature review and industry consultation informed development of this research roadmap and recommended research priorities for the Department of Housing and Urban Development and broader public-private collaborations to advance offsite construction for housing. Research priorities are identified for six topical areas: Regulatory Framework; Standards and System Performance; Capital, Finance, and Insurance; Project Delivery and Contracts; Labor and Workforce Training and Management; and Business Models and Economic Performance.
