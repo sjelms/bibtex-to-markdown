@@ -6,6 +6,21 @@ author - 2: "[[John D Quale]]"
 key: "[[Smith2017-zx]]"
 publisher: [[Routledge]]
 tags:
+  - Construction-4
+  - Notion-Catalogued
+  - 2_Upgrade-MAY-2023
+  - 00_TO-READ
+  - Offsite-Architecture---Constructing-the-Future
+  - EPubs-Books
+  - AEC-Cited-Lit-for-Jacqui
+  - _BibTex-to-MD-Git
+  - AEC
+  - ePub
+  - Essential
+  - Important
+  - _Mark-Up
+  - _Cataloged
+  - _In-ClickUp
 ---
 
 ## Bibliography

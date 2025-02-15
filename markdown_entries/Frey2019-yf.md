@@ -5,6 +5,18 @@ author - 1: "[[Carl Benedikt Frey]]"
 key: "[[Frey2019-yf]]"
 publisher: [[Princeton University Press]]
 tags:
+  - Zotero-Import-(Feb-22)
+  - My-Library
+  - Frontiers-[2022]
+  - 2_Upgrade-MAY-2023
+  - EPubs-Books
+  - Supplement-Feedback-Document
+  - _BibTex-to-MD-Git
+  - Cited-for-Frontiers
+  - Book-(physical)
+  - Audiobook
+  - Economics
+  - ePub
 ---
 
 ## Bibliography

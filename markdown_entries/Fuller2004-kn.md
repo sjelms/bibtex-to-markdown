@@ -6,6 +6,19 @@ author - 2: "[[Lorna Unwin]]"
 key: "[[Fuller2004-kn]]"
 publisher: [[Routledge]]
 tags:
+  - Workplace-Learning-in-Context
+  - EPubs-Books
+  - 3_Upgrade-OCT-2023
+  - _BibTex-to-MD-Git
+  - _In-ClickUp
+  - _In-Notion
+  - _In-Readwise
+  - Cross-Ref-Chapter
+  - ePub
+  - VET
+  - Workplace-Learning
+  - _New-Literature
+  - UCL
 ---
 
 ## Bibliography
