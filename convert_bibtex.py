@@ -13,6 +13,33 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
+# Function to clean up text (removing braces and ensuring proper formatting)
+def clean_text(text):
+    if not text:
+        return ""
+    text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove all {braces}
+    text = text.replace(":", " - ")  # Replace colons with hyphens
+    text = " ".join(text.split())  # Remove unintended line breaks
+    return text.strip()
+
+# Function to properly format author names
+def format_authors(raw_authors):
+    if not raw_authors:
+        return ["Unknown Author"]
+
+    authors_list = raw_authors.split(" and ")
+    formatted_authors = []
+    
+    for name in authors_list:
+        name = clean_text(name)
+        name_parts = name.split(", ")
+        if len(name_parts) == 2:
+            formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
+        else:
+            formatted_authors.append(name)
+
+    return formatted_authors
+
 # Function to process keywords into YAML-friendly tags
 def process_keywords(keyword_str):
     if not keyword_str:
@@ -20,12 +47,10 @@ def process_keywords(keyword_str):
     keywords = keyword_str.replace("\\", "").split(";")
     cleaned_keywords = []
     for kw in keywords:
-        kw = kw.strip().lstrip("_")
-        kw = re.sub(r"\(.*?\)", "", kw)  # Remove text in parentheses
+        kw = clean_text(kw)  # Apply the clean_text function
         kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
         kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
-        kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens
-        kw = kw.replace(":", "-")  # Replace colons with hyphens
+        kw = re.sub(r"\s+", "-", kw)  # Replace spaces with hyphens
         kw = kw.rstrip("-")  # Remove trailing hyphens
         if kw:
             cleaned_keywords.append(kw)
@@ -40,35 +65,28 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
 # Process each entry in BibTeX
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    title = entry.get("title", "Untitled").replace(":", " - ")
-    title = re.sub(r"\{(.*?)\}", r"\1", title)  # Remove braces `{}` from title formatting
-    title = " ".join(title.splitlines())  # Ensure title is on one line
-
+    title = clean_text(entry.get("title", "Untitled"))
     year = entry.get("year", "Unknown Year")
 
-    # Processing Authors (Now handles 'editor' for books)
+    # Process authors (supports 'editor' as fallback)
     raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
-    authors_list = raw_authors.split(" and ") if raw_authors else []
-    
-    formatted_authors = []
-    for name in authors_list:
-        name = re.sub(r"^\{(.*?)\}$", r"\1", name)  # Remove `{}` from institutions
-        name_parts = name.split(", ")
-        if len(name_parts) == 2:
-            formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
-        else:
-            formatted_authors.append(name)
-
-    print(f"\nDEBUG: Processed Authors for {key}: {formatted_authors}")  # Debug output
+    formatted_authors = format_authors(raw_authors)
 
     # Remove `{}` from institution & affiliation
-    institution = re.sub(r"\{(.*?)\}", r"\1", entry.get("institution", ""))
-    affiliation = re.sub(r"\{(.*?)\}", r"\1", entry.get("affiliation", ""))
+    institution = clean_text(entry.get("institution", ""))
+    affiliation = clean_text(entry.get("affiliation", ""))
 
-    print(f"DEBUG: Institution: {institution}")
-    print(f"DEBUG: Affiliation: {affiliation}")
+    # Get other fields
+    publisher = clean_text(entry.get("publisher", ""))
+    url = clean_text(entry.get("url", ""))
+    
+    # Process keywords into valid YAML tags
+    keyword_tags = process_keywords(entry.get("keywords", ""))
 
-    # Debugging YAML Output Before Writing
+    # Format bibliography
+    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, url)
+
+    # **Ensure Correct YAML Formatting**
     yaml_lines = [
         "---",
         f"title: {title}",
@@ -86,22 +104,12 @@ for entry in bib_database.entries:
         yaml_lines.append(f"affiliation: {affiliation}")
 
     yaml_lines.append("tags:")
-    
-    # Process tags and print them for debugging
-    keyword_tags = process_keywords(entry.get("keywords", ""))
     for tag in keyword_tags:
         yaml_lines.append(f"  - {tag}")
 
     yaml_lines.append("---")
 
-    print("\nDEBUG: YAML Output Before Writing:")
-    print("\n".join(yaml_lines))
-
-    # Format bibliography
-    publisher = entry.get("publisher", "")
-    url = entry.get("url", "").strip()
-    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, url)
-
+    # Final Markdown output
     markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
 
     # Save the Markdown file
@@ -109,4 +117,4 @@ for entry in bib_database.entries:
     with open(md_filename, "w", encoding="utf-8") as md_file:
         md_file.write(markdown_content.strip())
 
-print(f"Markdown files created in {OUTPUT_DIR}/")
+print(f"✅ Markdown files successfully created in {OUTPUT_DIR}/")

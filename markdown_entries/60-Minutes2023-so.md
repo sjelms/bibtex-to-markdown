@@ -10,11 +10,10 @@ tags:
   - climate-change
   - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
-  - BibTex-to-MD-Git
+  - _BibTex-to-MD-Git
   - YouTube
   - AEC
-  - Training
 ---
 
 ## Bibliography
-60 Minutes. 2023. “Can 3D-Printed Homes Withstand a Changing Climate?.” Youtube. https://www.youtube.com/watch?v=kOZxvpVWBJ4
+60 Minutes. 2023. “Can 3D-Printed Homes Withstand a Changing Climate?.” Youtube. https - //www.youtube.com/watch?v=kOZxvpVWBJ4
