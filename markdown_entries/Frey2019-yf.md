@@ -1,9 +1,9 @@
 ---
 title: The Technology Trap -  Capital, Labor, and Power in the Age of Automation
 year: 2019
-author - 1: "[[Carl Benedikt]]"
+author - 1: "[[Carl Benedikt Frey]]"
 key: "[[Frey2019-yf]]"
-publisher: "[[Princeton University Press]]"
+publisher: [[Princeton University Press]]
 tags:
   - Zotero-Import-(Feb-22)
   - My-Library
@@ -20,4 +20,4 @@ tags:
 ---
 
 ## Bibliography
-Carl Benedikt. 2019. "The Technology Trap -  Capital, Labor, and Power in the Age of Automation." . https://www.jstor.org/stable/j.ctvc77cz1
+Frey, Carl Benedikt. 2019. “The Technology Trap -  Capital, Labor, and Power in the Age of Automation.” [[Princeton University Press]]. https://www.jstor.org/stable/j.ctvc77cz1
