@@ -13,111 +13,137 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
-# Function to clean up text (removes braces, ensures correct formatting)
 def clean_text(text):
     if not text:
         return ""
     text = text.strip()
-    text = text.replace("\n", " ")  # Ensure multiline text is on a single line
-    text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove braces `{}` while preserving content
+    text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with a single space
+    text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove braces while preserving content
     text = text.replace(":", " - ")  # Replace colons with hyphens
     return text.strip()
 
-# Function to correctly parse authors while keeping institutions together
 def format_authors(raw_authors):
     if not raw_authors:
         return ["Unknown Author"]
 
-    # Identify institutions inside `{}` and protect them
-    protected_authors = re.findall(r"\{.*?\}", raw_authors)  # Find `{}` enclosed text
-    temp_replacement = "INSTITUTION_PLACEHOLDER"
-    temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Temporarily replace institutions
-
-    # Split only on ` and ` outside `{}` to separate personal names
-    authors_list = [author.strip() for author in temp_authors.split(" and ")]
-
-    # Restore institution names in their correct positions
-    for i, author in enumerate(authors_list):
-        if temp_replacement in author:
-            authors_list[i] = protected_authors.pop(0)
+    # Split authors, preserving organizations in braces
+    authors = re.findall(r'\{[^}]+\}|\S+(?:\s+\S+)*(?=\s+and|\s*$)', raw_authors)
 
     formatted_authors = []
-    for name in authors_list:
-        name = clean_text(name)  # Remove `{}` after processing
-
-        # Ensure "Last, First" format for the first author, "First Last" for others
-        if "," in name:  
-            name_parts = name.split(", ")
-            if len(name_parts) == 2:
-                formatted_authors.append(f"[[{name_parts[1]} {name_parts[0]}]]")
-            else:
-                formatted_authors.append(f"[[{name}]]")  # Institutions remain unchanged
+    for author in authors:
+        author = author.strip()
+        if author.startswith('{') and author.endswith('}'):
+            # Organization
+            formatted_authors.append(f"[[{author[1:-1]}]]")
         else:
-            formatted_authors.append(f"[[{name}]]")  # Institutions remain unchanged
+            # Individual author
+            names = author.split(', ')
+            if len(names) == 2:
+                formatted_authors.append(f"[[{names[1]} {names[0]}]]")
+            else:
+                formatted_authors.append(f"[[{author}]]")
 
     return formatted_authors
 
-# Function to format bibliography in Chicago 17th Edition
-def format_chicago_bibliography(authors, year, title, publisher, url):
-    # Remove brackets before formatting the bibliography
-    authors = [author.replace("[[", "").replace("]]", "") for author in authors]
+def format_chicago_bibliography(authors, year, title, institution, url):
+    formatted_authors = []
+    for author in authors:
+        author = author.replace("[[", "").replace("]]", "")
+        if ',' in author:
+            names = author.split(', ')
+            formatted_authors.append(f"{names[0]}, {names[1]}")
+        else:
+            formatted_authors.append(author)
 
-    first_author = authors[0].split(" ")
-    if len(first_author) > 1:
-        first_author = f"{first_author[-1]}, {' '.join(first_author[:-1])}"  # Convert first author to "Last, First"
-    else:
-        first_author = authors[0]  # Keep institutions unchanged
+    author_string = ", ".join(formatted_authors)
+    bibliography = f'{author_string}. {year}. "{title}." {institution}. {url}'
+    return bibliography.strip().rstrip(".")
 
-    formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
-    bibliography = f'{", ".join(formatted_authors)}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
-    return bibliography.strip().rstrip(".")  # Remove trailing period
+def format_affiliations(affiliation_str):
+    if not affiliation_str:
+        return []
+    affiliations = [f"[[{clean_text(aff)}]]" for aff in affiliation_str.split(", ")]
+    return affiliations
+
+def process_keywords(keyword_str):
+    if not keyword_str:
+        return []
+    keywords = keyword_str.replace("\\", "").split(";")
+    cleaned_keywords = []
+    for kw in keywords:
+        kw = clean_text(kw)
+        kw = re.sub(r"[+]", "", kw)  # Remove plus signs
+        kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers
+        kw = re.sub(r"\s+", "-", kw)  # Replace spaces with hyphens
+        kw = kw.rstrip("-")  # Remove trailing hyphens
+        if kw:
+            cleaned_keywords.append(kw)
+    return cleaned_keywords
 
 # Process each entry in BibTeX
 for entry in bib_database.entries:
-    key = entry.get("ID", "unknown_key")
-    title = clean_text(entry.get("title", "Untitled"))
-    year = entry.get("year", "Unknown Year")
+    try:
+        key = entry.get("ID", "unknown_key")
+        title = clean_text(entry.get("title", "Untitled"))
+        year = entry.get("year", "Unknown Year")
 
-    # Process authors (supports 'editor' as fallback)
-    raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
-    formatted_authors = format_authors(raw_authors)
+        # Process authors (supports 'editor' as fallback)
+        raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
+        formatted_authors = format_authors(raw_authors)
 
-    # Get other fields and wrap them in [[ ]]
-    institution = f"[[{clean_text(entry.get('institution', ''))}]]" if entry.get('institution') else ""
-    publisher = f"[[{clean_text(entry.get('publisher', ''))}]]" if entry.get('publisher') else ""
-    journal = f"[[{clean_text(entry.get('journal', ''))}]]" if entry.get('journal') else ""
+        # Get other fields and wrap them in [[ ]]
+        institution = f"[[{clean_text(entry.get('institution', ''))}]]" if entry.get('institution') else ""
+        publisher = f"[[{clean_text(entry.get('publisher', ''))}]]" if entry.get('publisher') else ""
+        journal = f"[[{clean_text(entry.get('journal', ''))}]]" if entry.get('journal') else ""
 
-    # Format bibliography
-    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
+        # Process affiliations into separate indexed values
+        affiliations = format_affiliations(entry.get("affiliation", ""))
 
-    # Ensure Correct YAML Formatting
-    yaml_lines = [
-        "---",
-        f"title: {title}",
-        f"year: {year}",
-    ]
+        # Process keywords into valid YAML tags
+        keyword_tags = process_keywords(entry.get("keywords", ""))
 
-    for i, author in enumerate(formatted_authors, start=1):
-        yaml_lines.append(f'author - {i}: "{author}"')
+        # Format bibliography
+        bibliography = format_chicago_bibliography(formatted_authors, year, title, institution, entry.get("url", ""))
 
-    yaml_lines.append(f'key: "[[{key}]]"')
+        # Ensure Correct YAML Formatting
+        yaml_lines = [
+            "---",
+            f"title: {title}",
+            f"year: {year}",
+        ]
 
-    if institution:
-        yaml_lines.append(f"institution: {institution}")
-    if journal:
-        yaml_lines.append(f"journal: {journal}")
-    if publisher:
-        yaml_lines.append(f"publisher: {publisher}")
+        for i, author in enumerate(formatted_authors, start=1):
+            yaml_lines.append(f'author - {i}: "{author}"')
 
-    yaml_lines.append("tags:")
-    yaml_lines.append("---")
+        yaml_lines.append(f'key: "[[{key}]]"')
 
-    # Final Markdown output
-    markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
+        if institution:
+            yaml_lines.append(f"institution: {institution}")
+        if journal:
+            yaml_lines.append(f"journal: {journal}")
+        if publisher:
+            yaml_lines.append(f"publisher: {publisher}")
 
-    # Save the Markdown file
-    md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
-    with open(md_filename, "w", encoding="utf-8") as md_file:
-        md_file.write(markdown_content.strip())
+        for i, aff in enumerate(affiliations, start=1):
+            yaml_lines.append(f"affiliation - {i}: {aff}")
+
+        yaml_lines.append("tags:")
+        for tag in keyword_tags:
+            yaml_lines.append(f"  - {tag}")
+
+        yaml_lines.append("---")
+
+        # Final Markdown output
+        markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
+
+        # Save the Markdown file
+        md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
+        with open(md_filename, "w", encoding="utf-8") as md_file:
+            md_file.write(markdown_content.strip())
+
+        print(f"Processed entry: {key}")
+
+    except Exception as e:
+        print(f"Error processing entry {key}: {str(e)}")
 
 print(f"✅ Markdown files successfully created in {OUTPUT_DIR}/")
