@@ -37,7 +37,7 @@ def process_keywords(keyword_str):
     return cleaned_keywords
 
 # Function to format bibliography in Chicago 17th Edition
-def format_chicago_bibliography(authors, year, title, journal, volume, issue, pages, publisher, url, doi):
+def format_chicago_bibliography(authors, year, title, publisher, url, doi):
     formatted_authors = ", ".join(authors[:-1]) + ", and " + authors[-1] if len(authors) > 1 else authors[0]
     bibliography = f'{formatted_authors}. {year}. “{title}.” {publisher if publisher else ""}. {f"https://doi.org/{doi}" if doi else url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
@@ -66,12 +66,6 @@ for entry in bib_database.entries:
             formatted_authors.append(name)
 
     # Get metadata fields if available
-    journal = entry.get("journal", "").replace(":", " - ")
-    journal = " ".join(journal.splitlines())
-
-    volume = entry.get("volume", "")
-    issue = entry.get("number", "")
-    pages = entry.get("pages", "")
     publisher = entry.get("publisher", "")
     institution = entry.get("institution", "")
     affiliation = entry.get("affiliation", "")
@@ -83,46 +77,25 @@ for entry in bib_database.entries:
     keyword_tags = process_keywords(entry.get("keywords", ""))
 
     # Format bibliography
-    bibliography = format_chicago_bibliography(formatted_authors, year, title, journal, volume, issue, pages, publisher, url, doi)
+    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, url, doi)
 
-    # Get abstract if available
-    abstract = entry.get("abstract", "").strip()
-    abstract = " ".join(abstract.split())
-    abstract_section = f"\n## Abstract\n{abstract}" if abstract else ""
-
-    # **Ensure correct YAML formatting (handling any number of authors)**
-    yaml_lines = [
-        "---",
-        f"title: {title}",
-        f"year: {year}",
-    ]
-    
+    # **Ensure correct YAML formatting**
+    yaml_lines = ["---", f"title: {title}", f"year: {year}"]
     for i, author in enumerate(formatted_authors, start=1):
         yaml_lines.append(f'author - {i}: "{author}"')
 
     yaml_lines.append(f'key: "[[{key}]]"')
-
-    if journal:
-        yaml_lines.append(f"journal: {journal}")
-    if publisher:
-        yaml_lines.append(f"publisher: {publisher}")
-    if institution:
-        yaml_lines.append(f"institution: {institution}")
-    if affiliation:
-        yaml_lines.append(f"affiliation: {affiliation}")
-
+    if publisher: yaml_lines.append(f"publisher: {publisher}")
+    if institution: yaml_lines.append(f"institution: {institution}")
+    if affiliation: yaml_lines.append(f"affiliation: {affiliation}")
+    
     yaml_lines.append("tags:")
-    tag_lines = [f"  - {ref_type}"] + [f"  - {tag}" for tag in keyword_tags]
-    yaml_lines.extend(tag_lines)
-
+    yaml_lines.extend([f"  - {ref_type}"] + [f"  - {tag}" for tag in keyword_tags])
     yaml_lines.append("---")
 
-    # Combine everything for Markdown output
-    markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}{abstract_section}"
-
-    # Save as a Markdown file
-    md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
-    with open(md_filename, "w", encoding="utf-8") as md_file:
+    markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
+    
+    with open(os.path.join(OUTPUT_DIR, f"{key}.md"), "w", encoding="utf-8") as md_file:
         md_file.write(markdown_content.strip())
 
 print(f"Markdown files created in {OUTPUT_DIR}/")
