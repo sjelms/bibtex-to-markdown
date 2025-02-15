@@ -1,4 +1,5 @@
 import os
+import re
 import bibtexparser
 
 # Define the file paths
@@ -29,8 +30,21 @@ def format_reference_type(entry_type):
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
+    
+    # Remove special characters, split keywords, and clean them up
     keywords = keyword_str.replace("\\", "").split(";")  # Remove `\` and split by `;`
-    return [kw.strip().lstrip("_") for kw in keywords if kw.strip()]  # Trim spaces & remove `_`
+    cleaned_keywords = []
+    
+    for kw in keywords:
+        kw = kw.strip().lstrip("_")  # Trim spaces and remove leading underscores
+        kw = re.sub(r"\(.*?\)", "", kw)  # Remove text in parentheses
+        kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
+        kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
+        kw = kw.replace(" ", "-")  # Replace spaces with hyphens
+        if kw:  # Only add non-empty keywords
+            cleaned_keywords.append(kw)
+    
+    return cleaned_keywords
 
 # Function to format bibliography in Chicago 17th Edition
 def format_chicago_bibliography(authors, year, title, journal, volume, issue, pages, publisher, url, doi):
@@ -66,7 +80,9 @@ for entry in bib_database.entries:
     ]
 
     # Get metadata fields if available
-    journal = entry.get("journal", "")
+    journal = entry.get("journal", "").replace(":", " - ")  # Replace colons in journal names
+    journal = " ".join(journal.splitlines())  # Prevent unintended line breaks
+
     volume = entry.get("volume", "")
     issue = entry.get("number", "")
     pages = entry.get("pages", "")
