@@ -1,10 +1,10 @@
 ---
 title: Improving Working as Learning
 year: 2009
-author - 1st: "[[Alan Felstead]]"
-author - 2nd: "[[Alison Fuller]]"
-author - 3rd: "[[Nick Jewson]]"
-author - 4th: "[[Unwin,
+author - 1: "[[Alan Felstead]]"
+author - 2: "[[Alison Fuller]]"
+author - 3: "[[Nick Jewson]]"
+author - 4: "[[Unwin,
 Lorna]]"
 key: "[[Felstead2009-kt]]"
 publisher: Routledge
@@ -14,7 +14,7 @@ tags:
   - EPubs-Books
   - WALF---Improving-Working-as-Learning
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD
+  - BibTex-to-MD-Git
   - In-Notion
   - In-Readwise
   - UCL

@@ -1,8 +1,8 @@
 ---
 title: Offsite Architecture -  Constructing the Future
 year: 2017
-author - 1st: "[[Ryan E Smith]]"
-author - 2nd: "[[John D Quale]]"
+author - 1: "[[Ryan E Smith]]"
+author - 2: "[[John D Quale]]"
 key: "[[Smith2017-zx]]"
 publisher: Routledge
 tags:
@@ -14,7 +14,7 @@ tags:
   - Offsite-Architecture--Constructing-the-Future
   - EPubs-Books
   - AEC-Cited-Lit-for-Jacqui
-  - BibTex-to-MD
+  - BibTex-to-MD-Git
   - AEC
   - ePub
   - Essential
