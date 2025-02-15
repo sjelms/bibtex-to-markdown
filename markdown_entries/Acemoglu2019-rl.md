@@ -6,15 +6,6 @@ author - 2: "[[Pascual Restrepo]]"
 key: "[[Acemoglu2019-rl]]"
 journal: [[The journal of economic perspectives -  a journal of the American Economic Association]]
 tags:
-  - 3_Upgrade-OCT-2023
-  - _BibTex-to-MD-Git
-  - _In-Notion
-  - _In-Readwise
-  - Automation
-  - Labor
-  - Robots
-  - Economics
-  - Technological-change
 ---
 
 ## Bibliography
