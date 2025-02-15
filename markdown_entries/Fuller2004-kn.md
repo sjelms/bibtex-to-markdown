@@ -11,14 +11,14 @@ tags:
   - EPubs-Books
   - 3_Upgrade-OCT-2023
   - BibTex-to-MD-
-  - ClickUp
-  - Notion
-  - Readwise
+  - In-ClickUp
+  - In-Notion
+  - In-Readwise
   - Cross-Ref-Chapter
-  - ePub-|-Kindle
+  - ePub
   - VET
   - Workplace-Learning
-  - §New-Literature
+  - New-Literature
   - UCL
 ---
 

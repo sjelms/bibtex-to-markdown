@@ -16,12 +16,12 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - BibTex-to-MD-
   - AEC
-  - ePub-|-Kindle
+  - ePub
   - Essential
   - Important
-  - @_Mark-Up
-  - **CATALOGED
-  - ClickUp
+  - Mark-Up
+  - Cataloged
+  - In-ClickUp
 ---
 
 ## Bibliography
