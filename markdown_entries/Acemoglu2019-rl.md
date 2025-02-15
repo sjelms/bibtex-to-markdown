@@ -7,7 +7,7 @@ key: "[[Acemoglu2019-rl]]"
 journal: The journal of economic perspectives - a journal of the American Economic Association
 tags:
   - Journal
-  - 3.0_Upgrade OCT 2023
+  - 3.0_Upgrade-OCT-2023
   - BibTex to MD (GIT)
   - +Notion
   - +Readwise
