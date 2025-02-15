@@ -20,6 +20,7 @@ tags:
   - Mark-Up
   - Cataloged
   - In-ClickUp
+  - Training
 ---
 
 ## Bibliography

@@ -14,6 +14,7 @@ tags:
   - Robots
   - Economics
   - Technological-change
+  - Training
 ---
 
 ## Bibliography

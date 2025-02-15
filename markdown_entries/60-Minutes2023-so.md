@@ -13,6 +13,7 @@ tags:
   - BibTex-to-MD-Git
   - YouTube
   - AEC
+  - Training
 ---
 
 ## Bibliography
