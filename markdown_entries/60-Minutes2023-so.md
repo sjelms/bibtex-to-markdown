@@ -12,7 +12,7 @@ tags:
   - climate-change
   - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
-  - BibTex-to-MD-
+  - BibTex-to-MD
   - YouTube
   - AEC
 ---

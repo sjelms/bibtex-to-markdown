@@ -14,7 +14,7 @@ tags:
   - EPubs-Books
   - WALF---Improving-Working-as-Learning
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD-
+  - BibTex-to-MD
   - In-Notion
   - In-Readwise
   - UCL

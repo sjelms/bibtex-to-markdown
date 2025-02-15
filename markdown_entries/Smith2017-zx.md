@@ -11,10 +11,10 @@ tags:
   - Notion-Catalogued
   - 2_Upgrade-MAY-2023
   - 00_TO-READ
-  - Offsite-Architecture:-Constructing-the-Future
+  - Offsite-Architecture--Constructing-the-Future
   - EPubs-Books
   - AEC-Cited-Lit-for-Jacqui
-  - BibTex-to-MD-
+  - BibTex-to-MD
   - AEC
   - ePub
   - Essential
