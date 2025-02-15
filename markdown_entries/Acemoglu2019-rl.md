@@ -9,8 +9,8 @@ tags:
   - Journal
   - 3_Upgrade-OCT-2023
   - BibTex-to-MD-
-  - Notion
-  - Readwise
+  - In-Notion
+  - In-Readwise
   - Automation
   - Labor
   - Robots

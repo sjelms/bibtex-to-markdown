@@ -17,7 +17,7 @@ tags:
   - Book-
   - Audiobook
   - Economics
-  - ePub-|-Kindle
+  - ePub
 ---
 
 ## Bibliography

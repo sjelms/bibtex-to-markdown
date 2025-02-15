@@ -13,15 +13,15 @@ tags:
   - EPubs-Books
   - TCOT-2024
   - BibTex-to-MD-
-  - Readwise
-  - ePub-|-Kindle
+  - In-Readwise
+  - ePub
   - VET
   - Workplace-Learning
-  - §New-Literature
+  - New-Literature
   - UCL
-  - ClickUp
+  - In-ClickUp
   - Economics
-  - **CATALOGED
+  - Cataloged
 ---
 
 ## Bibliography
