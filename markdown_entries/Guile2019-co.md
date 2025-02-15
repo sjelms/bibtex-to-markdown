@@ -7,19 +7,16 @@ key: "[[Guile2019-co]]"
 publisher: John Wiley \& Sons
 tags:
   - Book
-  - Handbook-of-Vocational-Education-and-Training,-The-Wiley
-
+  - Handbook-of-Vocational-Education-and-Training,-The-Wiley-
   - 00_TO-READ
   - Notion-Catalogued
   - EPubs-Books
-  - TCOT
-2024
+  - TCOT-2024
   - BibTex-to-MD-
   - Readwise
   - ePub-|-Kindle
   - VET
-  - Workplace
-Learning
+  - Workplace-Learning
   - §New-Literature
   - UCL
   - ClickUp
