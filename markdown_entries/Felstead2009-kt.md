@@ -6,7 +6,7 @@ author - 2: "[[Alison Fuller]]"
 author - 3: "[[Nick Jewson]]"
 author - 4: "[[Lorna Unwin]]"
 key: "[[Felstead2009-kt]]"
-publisher: [[Routledge]]
+publisher: "[[Routledge]]"
 tags:
   - VET
   - EPubs-Books
@@ -24,4 +24,4 @@ tags:
 ---
 
 ## Bibliography
-Felstead, Alan, Alison Fuller, Nick Jewson, Lorna Unwin. 2009. “Improving Working as Learning.” [[Routledge]]. https://www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469
+Felstead, Alan, Alison Fuller, Nick Jewson, Lorna Unwin. 2009. “Improving Working as Learning.” "[[Routledge]]". https://www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469
