@@ -16,6 +16,7 @@ tags:
   - Audiobook
   - Economics
   - ePub
+  - Training
 ---
 
 ## Bibliography

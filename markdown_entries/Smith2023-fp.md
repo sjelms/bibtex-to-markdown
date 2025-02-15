@@ -32,6 +32,7 @@ tags:
   - In-ClickUp
   - Report
   - ePub
+  - Training
 ---
 
 ## Bibliography

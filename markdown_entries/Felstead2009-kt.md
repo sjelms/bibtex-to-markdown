@@ -21,6 +21,7 @@ tags:
   - ePub
   - Mark-Up
   - Essential
+  - Training
 ---
 
 ## Bibliography

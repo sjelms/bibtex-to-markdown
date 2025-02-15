@@ -20,6 +20,7 @@ tags:
   - In-ClickUp
   - Economics
   - Cataloged
+  - Training
 ---
 
 ## Bibliography

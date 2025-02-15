@@ -18,6 +18,7 @@ tags:
   - Workplace-Learning
   - New-Literature
   - UCL
+  - Training
 ---
 
 ## Bibliography
