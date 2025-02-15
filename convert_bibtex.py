@@ -2,7 +2,7 @@ import os
 import re
 import bibtexparser
 
-# Define the file paths
+# Define file paths
 BIBTEX_FILE = "main.bib"
 OUTPUT_DIR = "markdown_entries"
 
@@ -13,7 +13,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
-# Function to format ordinal numbers
+# Function to format ordinal numbers (1st, 2nd, 3rd, etc.)
 def ordinal(n):
     return f"{n}{'st' if n == 1 else 'nd' if n == 2 else 'rd' if n == 3 else 'th'}"
 
@@ -22,7 +22,7 @@ def format_reference_type(entry_type):
     ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter"}
     return ref_map.get(entry_type.lower(), entry_type.title())
 
-# Function to process keywords into tags
+# Function to process keywords into tags (correcting spacing issues)
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
@@ -30,10 +30,10 @@ def process_keywords(keyword_str):
     cleaned_keywords = []
     for kw in keywords:
         kw = kw.strip().lstrip("_")
-        kw = re.sub(r"\(.*?\)", "", kw)
-        kw = re.sub(r"[+]", "", kw)
-        kw = re.sub(r"(\.\d+)", "", kw)
-        kw = kw.replace(" ", "-")
+        kw = re.sub(r"\(.*?\)", "", kw)  # Remove text in parentheses
+        kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
+        kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
+        kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens for YAML compatibility
         if kw:
             cleaned_keywords.append(kw)
     return cleaned_keywords
@@ -85,9 +85,9 @@ for entry in bib_database.entries:
     # Get abstract if available
     abstract = entry.get("abstract", "").strip()
     abstract = " ".join(abstract.split())
-    abstract_section = "\n## Abstract\n{}".format(abstract) if abstract else ""
+    abstract_section = f"\n## Abstract\n{abstract}" if abstract else ""
 
-    # Ensure correct YAML formatting (avoid f-string issues)
+    # Ensure correct YAML formatting (avoiding blank lines in `tags:`)
     yaml_lines = [
         "---",
         f"title: {title}",
@@ -107,11 +107,10 @@ for entry in bib_database.entries:
         yaml_lines.append(f"affiliation: {affiliation}")
 
     yaml_lines.append("tags:")
-    yaml_lines.append(f"  - {ref_type}")
-    
-    if keyword_tags:
-        for tag in keyword_tags:
-            yaml_lines.append(f"  - {tag}")
+
+    # **Fix: Ensure no blank lines and all tags are single-line entries**
+    tag_lines = [f"  - {ref_type}"] + [f"  - {tag}" for tag in keyword_tags]
+    yaml_lines.extend(tag_lines)  # Ensures tags list is continuous
 
     yaml_lines.append("---")
 
