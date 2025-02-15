@@ -22,7 +22,7 @@ def format_reference_type(entry_type):
     ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter"}
     return ref_map.get(entry_type.lower(), entry_type.title())
 
-# Function to process keywords into tags (correcting spacing issues)
+# Function to process keywords into tags (correcting spacing & colons)
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
@@ -33,7 +33,9 @@ def process_keywords(keyword_str):
         kw = re.sub(r"\(.*?\)", "", kw)  # Remove text in parentheses
         kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
         kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
-        kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens for YAML compatibility
+        kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens
+        kw = kw.replace(":", "-")  # **Fix: Remove colons and replace with hyphens**
+        kw = kw.rstrip("-")  # Remove trailing hyphens
         if kw:
             cleaned_keywords.append(kw)
     return cleaned_keywords
