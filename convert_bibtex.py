@@ -27,7 +27,7 @@ def format_authors(raw_authors):
         return ["Unknown Author"]
 
     # Split authors, preserving organizations in braces
-    authors = re.findall(r'\{[^}]+\}|\S+(?:\s+\S+)*(?=\s+and|\s*$)', raw_authors)
+    authors = re.findall(r'\{[^}]+\}|[^,\s]+(?:\s+[^,\s]+)*(?=\s*(?:and|\Z))', raw_authors)
 
     formatted_authors = []
     for author in authors:
@@ -37,9 +37,9 @@ def format_authors(raw_authors):
             formatted_authors.append(f"[[{author[1:-1]}]]")
         else:
             # Individual author
-            names = author.split(', ')
-            if len(names) == 2:
-                formatted_authors.append(f"[[{names[1]} {names[0]}]]")
+            names = author.split()
+            if len(names) > 1:
+                formatted_authors.append(f"[[{' '.join(names[:-1])} {names[-1]}]]")
             else:
                 formatted_authors.append(f"[[{author}]]")
 
@@ -49,9 +49,9 @@ def format_chicago_bibliography(authors, year, title, institution, url):
     formatted_authors = []
     for author in authors:
         author = author.replace("[[", "").replace("]]", "")
-        if ',' in author:
-            names = author.split(', ')
-            formatted_authors.append(f"{names[0]}, {names[1]}")
+        names = author.split()
+        if len(names) > 1:
+            formatted_authors.append(f"{names[-1]}, {' '.join(names[:-1])}")
         else:
             formatted_authors.append(author)
 
@@ -118,14 +118,14 @@ for entry in bib_database.entries:
         yaml_lines.append(f'key: "[[{key}]]"')
 
         if institution:
-            yaml_lines.append(f"institution: {institution}")
+            yaml_lines.append(f'institution: "{institution}"')
         if journal:
-            yaml_lines.append(f"journal: {journal}")
+            yaml_lines.append(f'journal: "{journal}"')
         if publisher:
-            yaml_lines.append(f"publisher: {publisher}")
+            yaml_lines.append(f'publisher: "{publisher}"')
 
         for i, aff in enumerate(affiliations, start=1):
-            yaml_lines.append(f"affiliation - {i}: {aff}")
+            yaml_lines.append(f'affiliation - {i}: "{aff}"')
 
         yaml_lines.append("tags:")
         for tag in keyword_tags:
