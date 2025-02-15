@@ -14,4 +14,4 @@ tags:
 ---
 
 ## Bibliography
-Ryan E Smith, Ivan Rupnik, Schmetterer, Tyler and Barry, Kyle, {U.S. Department of Housing, Urban Development}, and Office of Policy Development and Research. 2023. “Offsite Construction for Housing -  Research Roadmap.” . https - //www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
+Smith, Ryan E, Ivan Rupnik, Schmetterer, Tyler and Barry, Kyle, {U.S. Department of Housing, Urban Development}, Office of Policy Development and Research. 2023. “Offsite Construction for Housing -  Research Roadmap.” . https - //www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
