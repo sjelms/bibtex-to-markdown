@@ -24,4 +24,4 @@ tags:
 ---
 
 ## Bibliography
-E, Ryan, D, John. 2017. "Offsite Architecture -  Constructing the Future." . https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale
+Ryan E, John D. 2017. "Offsite Architecture -  Constructing the Future." . https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale
