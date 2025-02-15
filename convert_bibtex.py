@@ -13,12 +13,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
-# Function to format BibTeX entry types as readable tags
-def format_reference_type(entry_type):
-    ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter", "techreport": "Techreport", "misc": "Misc"}
-    return ref_map.get(entry_type.lower(), entry_type.title())
-
-# Function to process keywords into tags (correcting spacing & colons)
+# Function to process keywords into tags
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
@@ -30,72 +25,87 @@ def process_keywords(keyword_str):
         kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
         kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
         kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens
-        kw = kw.replace(":", "-")  # **Fix: Remove colons and replace with hyphens**
+        kw = kw.replace(":", "-")  # Remove colons
         kw = kw.rstrip("-")  # Remove trailing hyphens
         if kw:
             cleaned_keywords.append(kw)
     return cleaned_keywords
 
 # Function to format bibliography in Chicago 17th Edition
-def format_chicago_bibliography(authors, year, title, publisher, url, doi):
+def format_chicago_bibliography(authors, year, title, publisher, url):
     formatted_authors = ", ".join(authors[:-1]) + ", and " + authors[-1] if len(authors) > 1 else authors[0]
-    bibliography = f'{formatted_authors}. {year}. “{title}.” {publisher if publisher else ""}. {f"https://doi.org/{doi}" if doi else url}'
+    bibliography = f'{formatted_authors}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
 
+# Process each entry in BibTeX
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    title = entry.get("title", "Untitled")
-    title = re.sub(r"\{(.*?)\}", r"\1", title)  # **Fix: Remove braces from capitalized words**
-    title = title.replace(":", " - ")  # Ensure colons are replaced
-    title = " ".join(title.splitlines())  # Remove line breaks
+    title = entry.get("title", "Untitled").replace(":", " - ")
+    title = re.sub(r"\{(.*?)\}", r"\1", title)  # Remove braces `{}` from title formatting
+    title = " ".join(title.splitlines())  # Ensure title is on one line
 
     year = entry.get("year", "Unknown Year")
-    ref_type = format_reference_type(entry.get("ENTRYTYPE", "Unknown"))
 
-    # **Get authors in "First Last" format and handle non-person names**
-    raw_authors = entry.get("editor", entry.get("author", "Unknown Author"))
+    # Processing Authors
+    raw_authors = entry.get("author", "Unknown Author")
     authors_list = raw_authors.split(" and ") if raw_authors else []
     
     formatted_authors = []
     for name in authors_list:
-        name = re.sub(r"^\{(.*?)\}$", r"\1", name)  # **Fix: Remove `{}` around institutional names**
+        name = re.sub(r"^\{(.*?)\}$", r"\1", name)  # Remove `{}` from institutions
         name_parts = name.split(", ")
         if len(name_parts) == 2:
             formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
         else:
             formatted_authors.append(name)
 
-    # Get metadata fields if available
-    publisher = entry.get("publisher", "")
+    print(f"\nDEBUG: Processed Authors for {key}: {formatted_authors}")  # Print to check formatting
+
     institution = entry.get("institution", "")
     affiliation = entry.get("affiliation", "")
 
-    url = entry.get("url", "").strip()
-    doi = entry.get("doi", "").strip()
+    print(f"DEBUG: Institution: {institution}")
+    print(f"DEBUG: Affiliation: {affiliation}")
 
-    # Process keywords into tags
-    keyword_tags = process_keywords(entry.get("keywords", ""))
+    # Debugging YAML Output Before Writing
+    yaml_lines = [
+        "---",
+        f"title: {title}",
+        f"year: {year}",
+    ]
 
-    # Format bibliography
-    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, url, doi)
-
-    # **Ensure correct YAML formatting**
-    yaml_lines = ["---", f"title: {title}", f"year: {year}"]
     for i, author in enumerate(formatted_authors, start=1):
         yaml_lines.append(f'author - {i}: "{author}"')
 
     yaml_lines.append(f'key: "[[{key}]]"')
-    if publisher: yaml_lines.append(f"publisher: {publisher}")
-    if institution: yaml_lines.append(f"institution: {institution}")
-    if affiliation: yaml_lines.append(f"affiliation: {affiliation}")
-    
+
+    if institution:
+        yaml_lines.append(f"institution: {institution}")
+    if affiliation:
+        yaml_lines.append(f"affiliation: {affiliation}")
+
     yaml_lines.append("tags:")
-    yaml_lines.extend([f"  - {ref_type}"] + [f"  - {tag}" for tag in keyword_tags])
+    
+    # Process tags and print them for debugging
+    keyword_tags = process_keywords(entry.get("keywords", ""))
+    for tag in keyword_tags:
+        yaml_lines.append(f"  - {tag}")
+
     yaml_lines.append("---")
 
+    print("\nDEBUG: YAML Output Before Writing:")
+    print("\n".join(yaml_lines))
+
+    # Format bibliography
+    publisher = entry.get("publisher", "")
+    url = entry.get("url", "").strip()
+    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, url)
+
     markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
-    
-    with open(os.path.join(OUTPUT_DIR, f"{key}.md"), "w", encoding="utf-8") as md_file:
+
+    # Save the Markdown file
+    md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
+    with open(md_filename, "w", encoding="utf-8") as md_file:
         md_file.write(markdown_content.strip())
 
 print(f"Markdown files created in {OUTPUT_DIR}/")

@@ -7,9 +7,7 @@ author - 3: "Nick Jewson"
 author - 4: "Unwin,
 Lorna"
 key: "[[Felstead2009-kt]]"
-publisher: Routledge
 tags:
-  - Book
   - VET
   - EPubs-Books
   - WALF---Improving-Working-as-Learning

@@ -15,7 +15,6 @@ institution: U.S. Department of Housing and Urban Development
 affiliation: U.S. Department of Housing and Urban Development, National
 Institute of Building Sciences
 tags:
-  - Techreport
   - Construction-4
   - Notion-Catalogued
   - UCL-Poster-Q1-2023
