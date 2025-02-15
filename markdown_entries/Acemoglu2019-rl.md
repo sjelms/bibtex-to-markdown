@@ -1,9 +1,10 @@
 ---
 title: Automation and New Tasks -  How Technology Displaces and Reinstates Labor
 year: 2019
-author - 1: "[[Acemoglu, Daron and Restrepo, Pascual]]"
+author - 1: "[[Daron]]"
+author - 2: "[[Pascual]]"
 key: "[[Acemoglu2019-rl]]"
-journal: [[The journal of economic perspectives -  a journal of the American Economic Association]]
+journal: "[[The journal of economic perspectives -  a journal of the American Economic Association]]"
 tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
@@ -17,4 +18,4 @@ tags:
 ---
 
 ## Bibliography
-Acemoglu, Daron and Restrepo. 2019. "Automation and New Tasks -  How Technology Displaces and Reinstates Labor." . https://pubs.aeaweb.org/doi/10.1257/jep.33.2.3
+Daron, Pascual. 2019. "Automation and New Tasks -  How Technology Displaces and Reinstates Labor." . https://pubs.aeaweb.org/doi/10.1257/jep.33.2.3

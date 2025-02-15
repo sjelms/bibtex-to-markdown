@@ -1,13 +1,14 @@
 ---
 title: Offsite Construction for Housing -  Research Roadmap
 year: 2023
-author - 1: "[[Smith, Ryan E and Rupnik, Ivan and Schmetterer, Tyler and
-Barry, Kyle and {U.S. Department of Housing and Urban
-Development} and {Office of Policy Development and Research}]]"
+author - 1: "[[Ryan E]]"
+author - 2: "[[Ivan]]"
+author - 3: "[[Tyler]]"
+author - 4: "[[Kyle and {U.S. Department of Housing and Urban Development} and {Office of Policy Development and Research}]]"
 key: "[[Smith2023-fp]]"
-institution: [[U.S. Department of Housing and Urban Development]]
-affiliation - 1: [[U.S. Department of Housing and Urban Development]]
-affiliation - 2: [[National Institute of Building Sciences]]
+institution: "[[U.S. Department of Housing and Urban Development]]"
+affiliation - 1: "[[U.S. Department of Housing and Urban Development]]"
+affiliation - 2: "[[National Institute of Building Sciences]]"
 tags:
   - Construction-4
   - Notion-Catalogued
@@ -29,4 +30,4 @@ tags:
 ---
 
 ## Bibliography
-Smith, Ryan E and Rupnik. 2023. "Offsite Construction for Housing -  Research Roadmap." [[U.S. Department of Housing and Urban Development]]. https://www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
+E, Ryan, Ivan, Tyler, Research}, Kyle and {U.S. Department of Housing and Urban Development} and {Office of Policy Development and. 2023. "Offsite Construction for Housing -  Research Roadmap." [[U.S. Department of Housing and Urban Development]]. https://www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
