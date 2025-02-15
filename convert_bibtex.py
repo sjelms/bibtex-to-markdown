@@ -37,10 +37,12 @@ def format_authors(raw_authors):
             formatted_authors.append(f"[[{author[1:-1]}]]")
         else:
             # Individual author
-            names = author.split()
-            if len(names) > 1:
-                formatted_authors.append(f"[[{' '.join(names[:-1])} {names[-1]}]]")
+            names = author.split(',')
+            if len(names) == 2:
+                # Last, First format
+                formatted_authors.append(f"[[{names[1].strip()} {names[0].strip()}]]")
             else:
+                # First Last format or single name
                 formatted_authors.append(f"[[{author}]]")
 
     return formatted_authors
@@ -49,9 +51,9 @@ def format_chicago_bibliography(authors, year, title, institution, url):
     formatted_authors = []
     for author in authors:
         author = author.replace("[[", "").replace("]]", "")
-        names = author.split()
-        if len(names) > 1:
-            formatted_authors.append(f"{names[-1]}, {' '.join(names[:-1])}")
+        if ',' in author:
+            names = author.split(',')
+            formatted_authors.append(f"{names[0].strip()}, {names[1].strip()}")
         else:
             formatted_authors.append(author)
 
