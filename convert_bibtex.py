@@ -13,10 +13,6 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
-# Function to format ordinal numbers (1st, 2nd, 3rd, etc.)
-def ordinal(n):
-    return f"{n}{'st' if n == 1 else 'nd' if n == 2 else 'rd' if n == 3 else 'th'}"
-
 # Function to format BibTeX entry types as readable tags
 def format_reference_type(entry_type):
     ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter"}
@@ -58,11 +54,12 @@ for entry in bib_database.entries:
     year = entry.get("year", "Unknown Year")
     ref_type = format_reference_type(entry.get("ENTRYTYPE", "Unknown"))
 
-    # Get authors in "First Last" format
+    # **Get authors in "First Last" format**
     raw_authors = entry.get("editor", entry.get("author", "Unknown Author"))
     authors_list = raw_authors.split(" and ") if raw_authors else []
     formatted_authors = [
-        f"{name.split(', ')[1]} {name.split(', ')[0]}" if ", " in name else name for name in authors_list
+        f"{name.split(', ')[1]} {name.split(', ')[0]}" if ", " in name else name
+        for name in authors_list
     ]
 
     # Get metadata fields if available
@@ -89,15 +86,15 @@ for entry in bib_database.entries:
     abstract = " ".join(abstract.split())
     abstract_section = f"\n## Abstract\n{abstract}" if abstract else ""
 
-    # Ensure correct YAML formatting (avoiding blank lines in `tags:`)
+    # **Ensure correct YAML formatting (handling any number of authors)**
     yaml_lines = [
         "---",
         f"title: {title}",
         f"year: {year}",
     ]
     
-    for i, author in enumerate(formatted_authors):
-        yaml_lines.append(f'author - {ordinal(i+1)}: "[[{author}]]"')
+    for i, author in enumerate(formatted_authors, start=1):
+        yaml_lines.append(f'author - {i}: "[[{author}]]"')
 
     yaml_lines.append(f'key: "[[{key}]]"')
 
