@@ -89,6 +89,7 @@ def process_keywords(keyword_str):
         kw = clean_text(kw)  # Apply the clean_text function
         kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
         kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
+        kw = re.sub(r"[\(\)\[\]\{\}]", "", kw)  # Remove parentheses, brackets, and curly braces
         kw = re.sub(r"\s+", "-", kw)  # Replace spaces with hyphens
         kw = kw.rstrip("-")  # Remove trailing hyphens
         if kw:
@@ -107,7 +108,7 @@ for entry in bib_database.entries:
 
     # Get other fields and wrap them in [[ ]]
     institution = f"[[{clean_text(entry.get('institution', ''))}]]" if entry.get('institution') else ""
-    publisher = f"[[{clean_text(entry.get('publisher', ''))}]]" if entry.get('publisher') else ""
+    publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") else ""
     journal = f"[[{clean_text(entry.get('journal', ''))}]]" if entry.get('journal') else ""
 
     # Process affiliations into separate indexed values
