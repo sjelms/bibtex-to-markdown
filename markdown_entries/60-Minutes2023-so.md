@@ -4,15 +4,6 @@ year: 2023
 author - 1: "60 Minutes"
 key: "[[60-Minutes2023-so]]"
 tags:
-  - 60-Minutes
-  - CBS-News
-  - 3D-printed-houses
-  - climate-change
-  - 3_Upgrade-OCT-2023
-  - AEC-Cited-Lit-for-Jacqui
-  - _BibTex-to-MD-Git
-  - YouTube
-  - AEC
 ---
 
 ## Bibliography
