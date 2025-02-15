@@ -76,7 +76,7 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
 def format_affiliations(affiliation_str):
     if not affiliation_str:
         return []
-    affiliations = [f"[[{clean_text(aff)}]]" for aff in affiliation_str.split(", ")]
+    affiliations = [f'"[[{clean_text(aff)}]]"' for aff in affiliation_str.split(", ")]  # Wrapped in quotes
     return affiliations
 
 # Function to process keywords into valid YAML tags
@@ -106,10 +106,10 @@ for entry in bib_database.entries:
     raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
     formatted_authors = format_authors(raw_authors)
 
-    # Get other fields and wrap them in [[ ]]
-    institution = f"[[{clean_text(entry.get('institution', ''))}]]" if entry.get('institution') else ""
+    # Get other fields and wrap them in [[ ]] and QUOTES
+    institution = f'"[[{clean_text(entry.get("institution", ""))}]]"' if entry.get("institution") else ""
     publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") else ""
-    journal = f"[[{clean_text(entry.get('journal', ''))}]]" if entry.get('journal') else ""
+    journal = f'"[[{clean_text(entry.get("journal", ""))}]]"' if entry.get("journal") else ""
 
     # Process affiliations into separate indexed values
     affiliations = format_affiliations(entry.get("affiliation", ""))
