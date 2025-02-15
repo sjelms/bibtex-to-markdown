@@ -13,7 +13,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
-# Function to process keywords into tags
+# Function to process keywords into YAML-friendly tags
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
@@ -25,7 +25,7 @@ def process_keywords(keyword_str):
         kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
         kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
         kw = re.sub(r"\s+", "-", kw)  # Replace all spaces with hyphens
-        kw = kw.replace(":", "-")  # Remove colons
+        kw = kw.replace(":", "-")  # Replace colons with hyphens
         kw = kw.rstrip("-")  # Remove trailing hyphens
         if kw:
             cleaned_keywords.append(kw)
@@ -46,8 +46,8 @@ for entry in bib_database.entries:
 
     year = entry.get("year", "Unknown Year")
 
-    # Processing Authors
-    raw_authors = entry.get("author", "Unknown Author")
+    # Processing Authors (Now handles 'editor' for books)
+    raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
     authors_list = raw_authors.split(" and ") if raw_authors else []
     
     formatted_authors = []
@@ -59,10 +59,11 @@ for entry in bib_database.entries:
         else:
             formatted_authors.append(name)
 
-    print(f"\nDEBUG: Processed Authors for {key}: {formatted_authors}")  # Print to check formatting
+    print(f"\nDEBUG: Processed Authors for {key}: {formatted_authors}")  # Debug output
 
-    institution = entry.get("institution", "")
-    affiliation = entry.get("affiliation", "")
+    # Remove `{}` from institution & affiliation
+    institution = re.sub(r"\{(.*?)\}", r"\1", entry.get("institution", ""))
+    affiliation = re.sub(r"\{(.*?)\}", r"\1", entry.get("affiliation", ""))
 
     print(f"DEBUG: Institution: {institution}")
     print(f"DEBUG: Affiliation: {affiliation}")
