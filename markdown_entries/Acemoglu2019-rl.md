@@ -1,5 +1,5 @@
 ---
-title: Automation and New Tasks -  How Technology Displaces and Reinstates Labor
+title: Automation and New Tasks - How Technology Displaces and Reinstates Labor
 year: 2019
 author - 1st: "[[Daron Acemoglu]]"
 author - 2nd: "[[Pascual Restrepo]]"
@@ -7,16 +7,15 @@ key: "[[Acemoglu2019-rl]]"
 journal: The journal of economic perspectives - a journal of the American Economic Association
 tags:
   - Journal
-  - 3.0_Upgrade-OCT-2023
-  - BibTex-to-MD-GIT
-  - +Notion
-  - +Readwise
+  - 3-Upgrade-OCT-2023
+  - BibTex-to-MD-Git
+  - Notion
+  - Readwise
   - Automation
   - Labor
   - Robots
   - Economics
-  - Technological change
-  - Construction 4.0
+  - Technological-change
 ---
 
 ## Bibliography
