@@ -15,7 +15,7 @@ with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
 
 # Function to format BibTeX entry types as readable tags
 def format_reference_type(entry_type):
-    ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter"}
+    ref_map = {"book": "Book", "article": "Journal", "incollection": "Book_Chapter", "techreport": "Techreport", "misc": "Misc"}
     return ref_map.get(entry_type.lower(), entry_type.title())
 
 # Function to process keywords into tags (correcting spacing & colons)
@@ -49,18 +49,25 @@ def format_chicago_bibliography(authors, year, title, journal, volume, issue, pa
 
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    title = entry.get("title", "Untitled").replace(":", " - ")
-    title = " ".join(title.splitlines())
+    title = entry.get("title", "Untitled")
+    title = re.sub(r"\{(.*?)\}", r"\1", title)  # **Fix: Remove braces from capitalized words**
+    title = title.replace(":", " - ")  # Ensure colons are replaced
+    title = " ".join(title.splitlines())  # Remove line breaks
+
     year = entry.get("year", "Unknown Year")
     ref_type = format_reference_type(entry.get("ENTRYTYPE", "Unknown"))
 
-    # **Get authors in "First Last" format**
+    # **Get authors in "First Last" format and handle non-person names**
     raw_authors = entry.get("editor", entry.get("author", "Unknown Author"))
     authors_list = raw_authors.split(" and ") if raw_authors else []
-    formatted_authors = [
-        f"{name.split(', ')[1]} {name.split(', ')[0]}" if ", " in name else name
-        for name in authors_list
-    ]
+    
+    formatted_authors = []
+    for name in authors_list:
+        name = re.sub(r"^\{(.*?)\}$", r"\1", name)  # **Fix: Remove `{}` around institutional names**
+        if ", " in name:
+            formatted_authors.append(f"{name.split(', ')[1]} {name.split(', ')[0]}")
+        else:
+            formatted_authors.append(name)
 
     # Get metadata fields if available
     journal = entry.get("journal", "").replace(":", " - ")
@@ -70,6 +77,7 @@ for entry in bib_database.entries:
     issue = entry.get("number", "")
     pages = entry.get("pages", "")
     publisher = entry.get("publisher", "")
+    institution = entry.get("institution", "")
     affiliation = entry.get("affiliation", "")
 
     url = entry.get("url", "").strip()
@@ -94,7 +102,7 @@ for entry in bib_database.entries:
     ]
     
     for i, author in enumerate(formatted_authors, start=1):
-        yaml_lines.append(f'author - {i}: "[[{author}]]"')
+        yaml_lines.append(f'author - {i}: "{author}"')
 
     yaml_lines.append(f'key: "[[{key}]]"')
 
@@ -102,14 +110,14 @@ for entry in bib_database.entries:
         yaml_lines.append(f"journal: {journal}")
     if publisher:
         yaml_lines.append(f"publisher: {publisher}")
+    if institution:
+        yaml_lines.append(f"institution: {institution}")
     if affiliation:
         yaml_lines.append(f"affiliation: {affiliation}")
 
     yaml_lines.append("tags:")
-
-    # **Fix: Ensure no blank lines and all tags are single-line entries**
     tag_lines = [f"  - {ref_type}"] + [f"  - {tag}" for tag in keyword_tags]
-    yaml_lines.extend(tag_lines)  # Ensures tags list is continuous
+    yaml_lines.extend(tag_lines)
 
     yaml_lines.append("---")
 
