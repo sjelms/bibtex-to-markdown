@@ -9,16 +9,16 @@ tags:
   - Journal
   - 3_Upgrade-OCT-2023
   - BibTex-to-MD
-
   - Notion
   - Readwise
   - Automation
   - Labor
   - Robots
   - Economics
-  - Technological
-change
+  - Technological change
 ---
+
+
 
 ## Bibliography
 Daron Acemoglu, Pascual Restrepo. 2019. “Automation and New Tasks -  How Technology Displaces and Reinstates Labor.” *The journal of economic perspectives -  a journal of the American Economic Association* 33 (2): 3--30. https://doi.org/10.1257/jep.33.2.3
