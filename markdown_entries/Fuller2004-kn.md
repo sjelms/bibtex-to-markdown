@@ -10,7 +10,7 @@ tags:
   - Workplace-Learning-in-Context
   - EPubs-Books
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD-
+  - BibTex-to-MD
   - In-ClickUp
   - In-Notion
   - In-Readwise

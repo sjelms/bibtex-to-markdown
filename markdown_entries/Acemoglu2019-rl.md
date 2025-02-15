@@ -8,7 +8,7 @@ journal: The journal of economic perspectives -  a journal of the American Econo
 tags:
   - Journal
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD-
+  - BibTex-to-MD
   - In-Notion
   - In-Readwise
   - Automation
