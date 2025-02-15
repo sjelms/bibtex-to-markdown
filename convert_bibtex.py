@@ -33,7 +33,7 @@ def format_authors(raw_authors):
     temp_replacement = "UNIQUE_PLACEHOLDER"
     temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Replace institutions with placeholder
 
-    # Now safely split individual authors
+    # Now safely split individual authors (only when `and` is outside `{}`)
     authors_list = [author.strip() for author in temp_authors.split(" and ")]
 
     # Restore institution names in their correct positions
@@ -59,6 +59,9 @@ def format_authors(raw_authors):
 
 # Function to format bibliography in Chicago 17th Edition
 def format_chicago_bibliography(authors, year, title, publisher, url):
+    # Remove brackets before formatting the bibliography
+    authors = [author.replace("[[", "").replace("]]", "") for author in authors]
+
     first_author = authors[0].split(" ")
     if len(first_author) > 1:
         first_author = f"{first_author[-1]}, {' '.join(first_author[:-1])}"  # Convert first author to "Last, First"
@@ -68,29 +71,6 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
     formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
     bibliography = f'{", ".join(formatted_authors)}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
-
-# Function to split affiliations correctly
-def format_affiliations(affiliation_str):
-    if not affiliation_str:
-        return []
-    affiliations = [f"[[{clean_text(aff)}]]" for aff in affiliation_str.split(", ")]
-    return affiliations
-
-# Function to process keywords into valid YAML tags
-def process_keywords(keyword_str):
-    if not keyword_str:
-        return []
-    keywords = keyword_str.replace("\\", "").split(";")
-    cleaned_keywords = []
-    for kw in keywords:
-        kw = clean_text(kw)  # Apply the clean_text function
-        kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
-        kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
-        kw = re.sub(r"\s+", "-", kw)  # Replace spaces with hyphens
-        kw = kw.rstrip("-")  # Remove trailing hyphens
-        if kw:
-            cleaned_keywords.append(kw)
-    return cleaned_keywords
 
 # Process each entry in BibTeX
 for entry in bib_database.entries:
@@ -106,12 +86,6 @@ for entry in bib_database.entries:
     institution = f"[[{clean_text(entry.get('institution', ''))}]]" if entry.get('institution') else ""
     publisher = f"[[{clean_text(entry.get('publisher', ''))}]]" if entry.get('publisher') else ""
     journal = f"[[{clean_text(entry.get('journal', ''))}]]" if entry.get('journal') else ""
-
-    # Process affiliations into separate indexed values
-    affiliations = format_affiliations(entry.get("affiliation", ""))
-
-    # Process keywords into valid YAML tags
-    keyword_tags = process_keywords(entry.get("keywords", ""))
 
     # Format bibliography
     bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
@@ -135,13 +109,7 @@ for entry in bib_database.entries:
     if publisher:
         yaml_lines.append(f"publisher: {publisher}")
 
-    for i, aff in enumerate(affiliations, start=1):
-        yaml_lines.append(f"affiliation - {i}: {aff}")
-
     yaml_lines.append("tags:")
-    for tag in keyword_tags:
-        yaml_lines.append(f"  - {tag}")
-
     yaml_lines.append("---")
 
     # Final Markdown output
