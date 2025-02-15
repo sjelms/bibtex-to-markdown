@@ -1,8 +1,8 @@
 ---
 title: Expansive Learning Environments -  Integrating Organizational and Personal Development
 year: 2004
-author - 1: "[[Alison Fuller]]"
-author - 2: "[[Lorna Unwin]]"
+author - 1: "Alison Fuller"
+author - 2: "Lorna Unwin"
 key: "[[Fuller2004-kn]]"
 publisher: Routledge
 tags:

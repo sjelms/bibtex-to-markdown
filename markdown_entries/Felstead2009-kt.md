@@ -1,11 +1,11 @@
 ---
 title: Improving Working as Learning
 year: 2009
-author - 1: "[[Alan Felstead]]"
-author - 2: "[[Alison Fuller]]"
-author - 3: "[[Nick Jewson]]"
-author - 4: "[[Unwin,
-Lorna]]"
+author - 1: "Alan Felstead"
+author - 2: "Alison Fuller"
+author - 3: "Nick Jewson"
+author - 4: "Unwin,
+Lorna"
 key: "[[Felstead2009-kt]]"
 publisher: Routledge
 tags:

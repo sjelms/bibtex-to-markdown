@@ -1,8 +1,8 @@
 ---
 title: The Wiley Handbook of Vocational Education and Training
 year: 2019
-author - 1: "[[David Guile]]"
-author - 2: "[[Lorna Unwin]]"
+author - 1: "David Guile"
+author - 2: "Lorna Unwin"
 key: "[[Guile2019-co]]"
 publisher: John Wiley \& Sons
 tags:
