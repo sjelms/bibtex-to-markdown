@@ -4,23 +4,18 @@ year: 2019
 author - 1st: "[[Daron Acemoglu]]"
 author - 2nd: "[[Pascual Restrepo]]"
 key: "[[Acemoglu2019-rl]]"
-journal: The journal of economic perspectives: a journal of the American
-Economic Association
-
-
+journal: The journal of economic perspectives - a journal of the American Economic Association
 tags:
   - Journal
-  +3.0_Upgrade OCT 2023
-  - BibTex to MD
-(Git)
+  - 3.0_Upgrade OCT 2023
+  - BibTex to MD (GIT)
   - +Notion
   - +Readwise
   - Automation
   - Labor
   - Robots
   - Economics
-  - Technological
-change
+  - Technological change
 ---
 
 ## Bibliography
