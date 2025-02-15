@@ -10,4 +10,4 @@ tags:
 ---
 
 ## Bibliography
-Alan Felstead, Alison Fuller, Nick Jewson, and Lorna Unwin. 2009. “Improving Working as Learning.” Routledge. https - //www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469
+Felstead, Alan, Alison Fuller, Nick Jewson, Lorna Unwin. 2009. “Improving Working as Learning.” Routledge. https - //www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469

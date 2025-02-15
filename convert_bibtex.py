@@ -23,30 +23,35 @@ def clean_text(text):
     text = text.replace(":", " - ")  # Replace colons with hyphens
     return text.strip()
 
-# Function to properly format author/editor names while keeping institutions together
+# Function to correctly split authors while keeping institutions together
 def format_authors(raw_authors):
     if not raw_authors:
         return ["Unknown Author"]
 
-    # Identify institutional names inside braces and keep them together
+    # Find institutional names inside `{}` and protect them
     protected_authors = re.findall(r"\{.*?\}", raw_authors)  # Find all `{}` enclosed text
     temp_replacement = "UNIQUE_PLACEHOLDER"
-    temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Temporarily replace institutions
+    temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Replace institutions with placeholder
 
-    # Split on `and` now that institutions are protected
+    # Now safely split individual authors
     authors_list = [author.strip() for author in temp_authors.split(" and ")]
 
-    # Replace placeholders back with institution names
+    # Restore institution names in their correct positions
     for i, author in enumerate(authors_list):
         if temp_replacement in author:
             authors_list[i] = protected_authors.pop(0)
 
     formatted_authors = []
     for name in authors_list:
-        name = clean_text(name)  # Remove `{}` after protecting institutions
-        name_parts = name.split(", ")
-        if len(name_parts) == 2:  # Standard "Last, First" format
-            formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
+        name = clean_text(name)  # Remove `{}` after processing
+
+        # Ensure "Last, First" format for people (skip institutions)
+        if "," in name:  
+            name_parts = name.split(", ")
+            if len(name_parts) == 2:
+                formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
+            else:
+                formatted_authors.append(name)  # Institutions remain unchanged
         else:
             formatted_authors.append(name)  # Institutions remain unchanged
 
@@ -54,8 +59,14 @@ def format_authors(raw_authors):
 
 # Function to format bibliography in Chicago 17th Edition
 def format_chicago_bibliography(authors, year, title, publisher, url):
-    formatted_authors = ", ".join(authors[:-1]) + ", and " + authors[-1] if len(authors) > 1 else authors[0]
-    bibliography = f'{formatted_authors}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
+    first_author = authors[0].split(" ")
+    if len(first_author) > 1:
+        first_author = f"{first_author[-1]}, {' '.join(first_author[:-1])}"  # Convert first author to "Last, First"
+    else:
+        first_author = authors[0]  # Keep institutions unchanged
+
+    formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
+    bibliography = f'{", ".join(formatted_authors)}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
 
 # Process each entry in BibTeX
