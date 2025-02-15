@@ -9,12 +9,10 @@ tags:
   - 60-Minutes
   - CBS-News
   - 3D-printed-houses
-  - climate
-change
+  - climate-change
   - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
-  - BibTex
-to-MD-
+  - BibTex-to-MD-
   - YouTube
   - AEC
 ---

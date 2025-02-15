@@ -9,14 +9,12 @@ tags:
   - Book_Chapter
   - Workplace-Learning-in-Context
   - EPubs-Books
-  - 3_Upgrade-OCT
-2023
+  - 3_Upgrade-OCT-2023
   - BibTex-to-MD-
   - ClickUp
   - Notion
   - Readwise
-  - Cross-Ref
-Chapter
+  - Cross-Ref-Chapter
   - ePub-|-Kindle
   - VET
   - Workplace-Learning

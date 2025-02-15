@@ -10,16 +10,13 @@ tags:
   - Construction-4
   - Notion-Catalogued
   - 2_Upgrade-MAY-2023
-  - 00_TO
-READ
+  - 00_TO-READ
   - Offsite-Architecture:-Constructing-the-Future
-  - EPubs
-Books
+  - EPubs-Books
   - AEC-Cited-Lit-for-Jacqui
   - BibTex-to-MD-
   - AEC
-  - ePub-|
-Kindle
+  - ePub-|-Kindle
   - Essential
   - Important
   - @_Mark-Up

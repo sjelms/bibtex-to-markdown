@@ -14,15 +14,13 @@ tags:
   - EPubs-Books
   - WALF---Improving-Working-as-Learning
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD
-
+  - BibTex-to-MD-
   - Notion
   - Readwise
   - UCL
   - VET
   - Workplace-Learning
-  - ePub-|
-Kindle
+  - ePub-|-Kindle
   - @_Mark-Up
   - Essential
 ---
