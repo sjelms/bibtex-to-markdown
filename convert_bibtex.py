@@ -38,14 +38,9 @@ def process_keywords(keyword_str):
 
 # Function to format bibliography in Chicago 17th Edition
 def format_chicago_bibliography(authors, year, title, journal, volume, issue, pages, publisher, url, doi):
-    formatted_authors = ", ".join(authors)
-    if journal:
-        bibliography = f'{formatted_authors}. {year}. “{title}.” *{journal}* {volume} ({issue}): {pages}. {f"https://doi.org/{doi}" if doi else url}'
-    elif publisher:
-        bibliography = f'{formatted_authors}. {year}. *{title}*. {publisher}. {f"https://doi.org/{doi}" if doi else url}'
-    else:
-        bibliography = f'{formatted_authors}. {year}. *{title}*. {f"https://doi.org/{doi}" if doi else url}'
-    return bibliography.rstrip(".")
+    formatted_authors = ", ".join(authors[:-1]) + ", and " + authors[-1] if len(authors) > 1 else authors[0]
+    bibliography = f'{formatted_authors}. {year}. “{title}.” {publisher if publisher else ""}. {f"https://doi.org/{doi}" if doi else url}'
+    return bibliography.strip().rstrip(".")  # Remove trailing period
 
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
@@ -64,8 +59,9 @@ for entry in bib_database.entries:
     formatted_authors = []
     for name in authors_list:
         name = re.sub(r"^\{(.*?)\}$", r"\1", name)  # **Fix: Remove `{}` around institutional names**
-        if ", " in name:
-            formatted_authors.append(f"{name.split(', ')[1]} {name.split(', ')[0]}")
+        name_parts = name.split(", ")
+        if len(name_parts) == 2:
+            formatted_authors.append(f"{name_parts[1]} {name_parts[0]}")
         else:
             formatted_authors.append(name)
 
