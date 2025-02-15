@@ -20,4 +20,4 @@ tags:
 ---
 
 ## Bibliography
-Benedikt, Carl. 2019. "The Technology Trap -  Capital, Labor, and Power in the Age of Automation." . https://www.jstor.org/stable/j.ctvc77cz1
+Carl Benedikt. 2019. "The Technology Trap -  Capital, Labor, and Power in the Age of Automation." . https://www.jstor.org/stable/j.ctvc77cz1
