@@ -1,8 +1,8 @@
 ---
 title: The Wiley Handbook of Vocational Education and Training
 year: 2019
-author - 1st: "[[David Guile]]"
-author - 2nd: "[[Lorna Unwin]]"
+author - 1: "[[David Guile]]"
+author - 2: "[[Lorna Unwin]]"
 key: "[[Guile2019-co]]"
 publisher: John Wiley \& Sons
 tags:
@@ -12,7 +12,7 @@ tags:
   - Notion-Catalogued
   - EPubs-Books
   - TCOT-2024
-  - BibTex-to-MD
+  - BibTex-to-MD-Git
   - In-Readwise
   - ePub
   - VET

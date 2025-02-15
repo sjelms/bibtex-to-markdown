@@ -1,14 +1,14 @@
 ---
 title: Automation and New Tasks -  How Technology Displaces and Reinstates Labor
 year: 2019
-author - 1st: "[[Daron Acemoglu]]"
-author - 2nd: "[[Pascual Restrepo]]"
+author - 1: "[[Daron Acemoglu]]"
+author - 2: "[[Pascual Restrepo]]"
 key: "[[Acemoglu2019-rl]]"
 journal: The journal of economic perspectives -  a journal of the American Economic Association
 tags:
   - Journal
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD
+  - BibTex-to-MD-Git
   - In-Notion
   - In-Readwise
   - Automation

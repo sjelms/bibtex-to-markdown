@@ -1,8 +1,8 @@
 ---
 title: Expansive Learning Environments -  Integrating Organizational and Personal Development
 year: 2004
-author - 1st: "[[Alison Fuller]]"
-author - 2nd: "[[Lorna Unwin]]"
+author - 1: "[[Alison Fuller]]"
+author - 2: "[[Lorna Unwin]]"
 key: "[[Fuller2004-kn]]"
 publisher: Routledge
 tags:
@@ -10,7 +10,7 @@ tags:
   - Workplace-Learning-in-Context
   - EPubs-Books
   - 3_Upgrade-OCT-2023
-  - BibTex-to-MD
+  - BibTex-to-MD-Git
   - In-ClickUp
   - In-Notion
   - In-Readwise
