@@ -1,9 +1,10 @@
 ---
 title: Expansive Learning Environments -  Integrating Organizational and Personal Development
 year: 2004
-author - 1: "[[Fuller, Alison and Unwin, Lorna]]"
+author - 1: "[[Alison]]"
+author - 2: "[[Lorna]]"
 key: "[[Fuller2004-kn]]"
-publisher: [[Routledge]]
+publisher: "[[Routledge]]"
 tags:
   - Workplace-Learning-in-Context
   - EPubs-Books
@@ -21,4 +22,4 @@ tags:
 ---
 
 ## Bibliography
-Fuller, Alison and Unwin. 2004. "Expansive Learning Environments -  Integrating Organizational and Personal Development." . https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin
+Alison, Lorna. 2004. "Expansive Learning Environments -  Integrating Organizational and Personal Development." . https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin

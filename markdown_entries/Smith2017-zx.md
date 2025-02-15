@@ -1,9 +1,10 @@
 ---
 title: Offsite Architecture -  Constructing the Future
 year: 2017
-author - 1: "[[Smith, Ryan E and Quale, John D]]"
+author - 1: "[[Ryan E]]"
+author - 2: "[[John D]]"
 key: "[[Smith2017-zx]]"
-publisher: [[Routledge]]
+publisher: "[[Routledge]]"
 tags:
   - Construction-4
   - Notion-Catalogued
@@ -23,4 +24,4 @@ tags:
 ---
 
 ## Bibliography
-Smith, Ryan E and Quale. 2017. "Offsite Architecture -  Constructing the Future." . https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale
+E, Ryan, D, John. 2017. "Offsite Architecture -  Constructing the Future." . https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale
