@@ -6,7 +6,7 @@ author - 2: "[[Lorna Unwin]]"
 key: "[[Guile2019-co]]"
 publisher: "[[John Wiley and Sons]]"
 tags:
-  - Handbook-of-Vocational-Education-and-Training,-The-Wiley-2019
+  - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - 00_TO-READ
   - Notion-Catalogued
   - EPubs-Books
