@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence -  A Modern Approach
 year: 2021
-author - 1: "[[Stuart Russell]]"
+author - 1: "[[Stuart J Russell]]"
 author - 2: "[[Peter Norvig]]"
 key: "[[Russell2021-vx]]"
 publisher: "[[Pearson Education Limited]]"
