@@ -17,4 +17,4 @@ tags:
 ---
 
 ## Bibliography
-Russell, Stuart, Peter Norvig. 2021. “Artificial Intelligence -  A Modern Approach.” "[[Pearson Education Limited]]"
+Russell, Stuart J, Peter Norvig. 2021. “Artificial Intelligence -  A Modern Approach.” "[[Pearson Education Limited]]"
