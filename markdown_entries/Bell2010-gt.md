@@ -3,8 +3,9 @@ title: Performance Gains from Speech-enhanced Simulation in Military Flying Trai
 year: 2010
 author - 1: "[[Benjamin Bell]]"
 author - 2: "[[Stacie Billington]]"
-author - 3: "[[Bennett, Jr, Winston and Billington, Ian]]"
-author - 4: "[[Joan Ryder]]"
+author - 3: "[[Bennett, Jr, Winston]]
+author - 4: "[[Billington, Ian]]"
+author - 5: "[[Joan Ryder]]"
 key: "[[Bell2010-gt]]"
 journal: "[[The Journal of Defense Modeling and Simulation]]"
 tags:
