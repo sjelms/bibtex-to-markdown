@@ -117,6 +117,9 @@ for entry in bib_database.entries:
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(entry.get("keywords", ""))
 
+    # Extract abstract and clean it
+    abstract = clean_text(entry.get("abstract", ""))
+
     # Format bibliography
     bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
 
@@ -148,8 +151,12 @@ for entry in bib_database.entries:
 
     yaml_lines.append("---")
 
-    # Final Markdown output
+    # Assemble final Markdown content
     markdown_content = "\n".join(yaml_lines) + f"\n\n## Bibliography\n{bibliography}"
+
+    # Add abstract section if available
+    if abstract:
+        markdown_content += f"\n\n## Abstract\n{abstract}"
 
     # Save the Markdown file
     md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
