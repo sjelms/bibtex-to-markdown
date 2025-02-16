@@ -11,4 +11,7 @@ tags:
 ---
 
 ## Bibliography
-Technologies, Unity. 2022. “What is a digital twin?.”
+Technologies, Unity. 2022. “What is a digital twin?.” 
+
+## Abstract
+Digital twins connect and visualize real-world assets and data, creating virtual representations of nearly anything. Read more to find out how it all works.

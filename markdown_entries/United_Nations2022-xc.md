@@ -13,3 +13,6 @@ tags:
 
 ## Bibliography
 Nations, United. 2022. “Population | United Nations.” "[[United Nations]]"
+
+## Abstract
+In 1950, five years after the founding of the United Nations, world population was estimated at around 2.6 billion people. It reached 5 billion in 1987 and 6 in 1999. In October 2011, the global population was estimated to be 7 billion.

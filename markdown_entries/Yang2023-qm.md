@@ -19,3 +19,6 @@ tags:
 
 ## Bibliography
 Yang, Mary. 2023. “Where did the workers go? Construction jobs are plentiful, but workers are scarce.” "[[NPR]]". https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce
+
+## Abstract
+Biden administration stimulus money pledged billions in funding for public works projects across the U.S. But contractors say they can't find enough workers to fix all the roads and bridges.

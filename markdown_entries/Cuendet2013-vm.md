@@ -17,3 +17,6 @@ tags:
 
 ## Bibliography
 Cuendet, Sébastien, Quentin Bonnard, Do-Lenh, Son and Dillenbourg, Pierre. 2013. “Designing Augmented Reality for the Classroom.” "[[Elsevier BV]]". http://dx.doi.org/10.1016/j.compedu.2013.02.015
+
+## Abstract
+Augmented reality (AR) has recently received a lot of attention in education. Multiple AR systems for learning have been developed and tested through empirical studies often conducted in lab settings. While lab studies can be insightful, they leave out the complexity of a classroom environment. We developed three AR learning environments that have been used in genuine classroom contexts, some of them being now part of classroom regular practices. These systems and the learning activities they provide have been co-designed with teachers, for their own classrooms, through multiple cycles of prototyping and testing. We present here the features that emerged from these co-design cycles and abstract them into design principles.

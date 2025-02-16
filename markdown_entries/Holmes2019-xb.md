@@ -16,3 +16,6 @@ tags:
 
 ## Bibliography
 Holmes, Wayne, Maya Bialik, Charles Fadel. 2019. “Artificial Intelligence in Education -  Promises and Implications for Teaching and Learning.” "[[Center for Curriculum Redesign]]". https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf
+
+## Abstract
+Artificial intelligence (AI) is arguably the driving technological force of the first half of this century, and will transform virtually every industry, if not human endeavors at large. 1 …

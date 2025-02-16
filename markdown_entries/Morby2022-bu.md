@@ -14,4 +14,7 @@ tags:
 ---
 
 ## Bibliography
-Morby, Aaron. 2022. “Construction Forecast to Fall by Nearly 4\% Next Year.”
+Morby, Aaron. 2022. “Construction Forecast to Fall by Nearly 4\% Next Year.” 
+
+## Abstract
+Crystal ball gazers sharply downgrade construction output forecast. Construction output is now expected to fall by 3.9\% in 2023 after economists at the Construction Products Association sharply downgraded forecasts

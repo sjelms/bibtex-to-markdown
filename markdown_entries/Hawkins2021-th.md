@@ -13,4 +13,7 @@ tags:
 ---
 
 ## Bibliography
-Hawkins, Will. 2021. “Timber and carbon sequestration.”
+Hawkins, Will. 2021. “Timber and carbon sequestration.” 
+
+## Abstract
+Will Hawkins discusses carbon sequestration and end-of-life processes in timber structures, and the implications for sustainable decision-making in structural design.

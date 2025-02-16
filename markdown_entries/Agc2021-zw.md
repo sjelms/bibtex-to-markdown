@@ -10,4 +10,7 @@ tags:
 ---
 
 ## Bibliography
-AGC. 2021. “Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects \& Disrupt Supply Chains.”
+AGC. 2021. “Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects \& Disrupt Supply Chains.” 
+
+## Abstract
+Eighty-Nine Percent of Contractors Are Having a Hard Time Finding Craft Workers, While 88 Percent of Firms Are Experiencing Project Delays and 93 Percent Are Affected by Rising Materials Prices

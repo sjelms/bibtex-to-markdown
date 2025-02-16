@@ -12,4 +12,7 @@ tags:
 ---
 
 ## Bibliography
-Cheshire, Paul, Christian Hilber, Olivier Schöni. 2021. “Why central London has seen the biggest rises in house prices, despite COVID.”
+Cheshire, Paul, Christian Hilber, Olivier Schöni. 2021. “Why central London has seen the biggest rises in house prices, despite COVID.” 
+
+## Abstract
+As many predicted, the pandemic led to a demand for bigger homes and gardens. But with supply limited by Britain’s strict planning regulations, and the market propped up by a stamp duty waive…

@@ -21,3 +21,6 @@ tags:
 
 ## Bibliography
 LaViola, J, B Williamson, Conner Brooks, Sergiu Veazanchin, Robert Sottilare, Pat Garrity. 2015. “Using augmented reality to tutor military tasks in the wild.” "[[gifttutoring.org]]". https://gifttutoring.org/attachments/download/1414/15050.pdf
+
+## Abstract
+… The goal is to more closely align intelligently guided instruction with … of Authoring Simulation and Game-based Intelligent Tutoring Workshop at the Artificial Intelligence in Education …
