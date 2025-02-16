@@ -1,0 +1,19 @@
+---
+title: A process for adaptive instruction of tasks in the psychomotor domain
+year: 2016
+author - 1: "[[Robert A Sottilare]]"
+author - 2: "[[Joseph LaViola]]"
+key: "[[Sottilare2016-md]]"
+journal: "[[Design recommendations for intelligent tutoring systems]]"
+publisher: "[[researchgate.net]]"
+tags:
+  - Frontiers-2022
+  - 2_Upgrade-MAY-2023
+  - Journal-Articles
+  - _BibTex-to-MD-Git
+  - _XR-&-MR
+  - Cited-for-Frontiers
+---
+
+## Bibliography
+Sottilare, Robert A, Joseph LaViola. 2016. “A process for adaptive instruction of tasks in the psychomotor domain.” "[[researchgate.net]]". https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf
