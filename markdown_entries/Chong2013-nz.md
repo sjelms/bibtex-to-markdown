@@ -1,0 +1,18 @@
+---
+title: The ‘Russian Doll’ Approach -  Developing Nested Case-studies to Support International Comparative Research in Education
+year: 2013
+author - 1: "[[Pei Wen Chong]]"
+author - 2: "[[Linda J Graham]]"
+key: "[[Chong2013-nz]]"
+journal: "[[International Journal of Research \& Method in Education]]"
+publisher: "[[Routledge]]"
+tags:
+  - Rapid-Qualitative-Research
+  - 3_Upgrade-OCT-2023
+  - _BibTex-to-MD-Git
+  - Research-Methods
+  - Fieldwork-Methodology
+---
+
+## Bibliography
+Chong, Pei Wen, Linda J Graham. 2013. “The ‘Russian Doll’ Approach -  Developing Nested Case-studies to Support International Comparative Research in Education.” "[[Routledge]]". https://doi.org/10.1080/1743727X.2012.675555
