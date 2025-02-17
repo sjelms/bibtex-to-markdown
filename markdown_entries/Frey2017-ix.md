@@ -2,7 +2,7 @@
 title: The Future of Employment -  How Susceptible Are Jobs to Computerisation?
 year: 2017
 author - 1: "[[Carl Benedikt Frey]]"
-author - 2: "[[Michael A Osborne]]"
+author - 2: "[[Michael A. Osborne|Michael A Osborne]]"
 key: "[[Frey2017-ix]]"
 journal: "[[Technological Forecasting and Social Change]]"
 tags:
