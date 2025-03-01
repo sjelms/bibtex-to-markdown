@@ -7,10 +7,6 @@ author - 3: "[[Christoph Stahl]]"
 author - 4: "[[Alexandre Baudet]]"
 key: "[[Ras2017-fv]]"
 publisher: "[[ACM]]"
-affiliation - 1: "[[Luxembourg Institute of Science and Technology, Esch-sur-Alzette]]"
-affiliation - 2: "[[Luxembourg; Department of Computing and Communications Technologies]]"
-affiliation - 3: "[[Oxford Brookes University]]"
-affiliation - 4: "[[Oxford, United Kingdom]]"
 tags:
   - Construction-4
   - UCL-Poster-Q1-2023

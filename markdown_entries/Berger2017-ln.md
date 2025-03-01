@@ -6,14 +6,6 @@ author - 2: "[[Carl Benedikt Frey]]"
 key: "[[Berger2017-ln]]"
 journal: "[[Regional Studies]]"
 publisher: "[[Informa UK Limited]]"
-affiliation - 1: "[[Department of Economic History]]"
-affiliation - 2: "[[School of Economics and Management]]"
-affiliation - 3: "[[Lund University]]"
-affiliation - 4: "[[Lund]]"
-affiliation - 5: "[[Sweden.; Oxford Martin School]]"
-affiliation - 6: "[[University of Oxford]]"
-affiliation - 7: "[[Oxford]]"
-affiliation - 8: "[[UK.]]"
 tags:
   - _BibTex-to-MD-Git
   - Workplace-Learning

@@ -8,8 +8,6 @@ author - 4: "[[Tyler Schmetterer]]"
 author - 5: "[[US Department of Housing and Urban Development]]"
 key: "[[Smith2023-fp]]"
 institution: "[[U.S. Department of Housing and Urban Development]]"
-affiliation - 1: "[[U.S. Department of Housing and Urban Development]]"
-affiliation - 2: "[[National Institute of Building Sciences]]"
 tags:
   - Construction-4
   - Notion-Catalogued

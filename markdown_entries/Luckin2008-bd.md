@@ -3,7 +3,7 @@ title: The learner centric ecology of resources -  A framework for using technol
 year: 2008
 author - 1: "[[Rosemary Luckin]]"
 key: "[[Luckin2008-bd]]"
-journal: "[[Computers \& education]]"
+journal: "[[Computers \and education]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

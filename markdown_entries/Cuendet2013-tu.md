@@ -7,7 +7,7 @@ publisher: "[[Lausanne, EPFL]]"
 tags:
   - VET
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - Training
   - VET
 ---

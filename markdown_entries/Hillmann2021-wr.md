@@ -9,7 +9,7 @@ tags:
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise
-  - _XR-&-MR
+  - _XR-and-MR
   - ePub
 ---
 

@@ -5,10 +5,10 @@ author - 1: "[[Cindy Louise Poortman]]"
 author - 2: "[[Knud Illeris]]"
 author - 3: "[[Loek Nieuwenhuis]]"
 key: "[[Poortman2011-zl]]"
-journal: "[[Journal of Vocational Education \& Training]]"
+journal: "[[Journal of Vocational Education \and Training]]"
 publisher: "[[Routledge]]"
 tags:
-  - Contemporary-Apprenticeship-Fuller-&-Unwin
+  - Contemporary-Apprenticeship-Fuller-and-Unwin
   - VET
   - 00_TO-READ
   - Notion-Catalogued

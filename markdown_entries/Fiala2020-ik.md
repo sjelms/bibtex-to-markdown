@@ -10,7 +10,7 @@ tags:
   - TCOT-2024
   - _BibTex-to-MD-Git
   - _In-Readwise
-  - _XR-&-MR
+  - _XR-and-MR
   - AEC
   - Workplace-Learning
   - _New-Literature

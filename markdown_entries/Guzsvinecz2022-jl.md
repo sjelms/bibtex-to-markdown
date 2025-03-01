@@ -13,7 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - Sensory-Processing
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - _Cataloged
 ---

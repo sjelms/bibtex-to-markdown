@@ -4,7 +4,6 @@ year: 2021
 author - 1: "[[Bureau of Labor Statistics]]"
 key: "[[Bureau_of_Labor_Statistics2021-ge]]"
 publisher: "[[United States Department of Labor]]"
-affiliation - 1: "[[Bureau of Labor Statistics]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

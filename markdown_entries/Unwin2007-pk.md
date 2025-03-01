@@ -9,7 +9,7 @@ author - 5: "[[Tracey Lee]]"
 author - 6: "[[Nick Jewson]]"
 author - 7: "[[Peter Butler]]"
 key: "[[Unwin2007-pk]]"
-journal: "[[Pedagogy, Culture \& Society]]"
+journal: "[[Pedagogy, Culture \and Society]]"
 publisher: "[[Routledge]]"
 tags:
   - Rapid-Qualitative-Research

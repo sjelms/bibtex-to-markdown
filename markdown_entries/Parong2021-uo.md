@@ -15,7 +15,7 @@ tags:
   - Multimedia-completed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - Multimedia
   - _Mark-Up
   - _Cataloged

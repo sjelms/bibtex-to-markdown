@@ -5,7 +5,6 @@ author - 1: "[[Edward W Taylor]]"
 key: "[[Taylor2006-hm]]"
 journal: "[[Adult education quarterly (American Association for Adult and Continuing Education)]]"
 publisher: "[[SAGE Publications]]"
-affiliation - 1: "[[Penn State University-Harrisburg]]"
 tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git

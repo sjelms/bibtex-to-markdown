@@ -8,7 +8,7 @@ publisher: "[[Oxford University Press]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - ePub
 ---
 

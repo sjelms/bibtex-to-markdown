@@ -5,11 +5,6 @@ author - 1: "[[Chris Dede]]"
 key: "[[Dede2009-ro]]"
 journal: "[[Science (New York, N.Y.)]]"
 publisher: "[[American Association for the Advancement of Science (AAAS)]]"
-affiliation - 1: "[[Graduate School of Education]]"
-affiliation - 2: "[[Harvard University]]"
-affiliation - 3: "[[Cambridge]]"
-affiliation - 4: "[[MA 02138]]"
-affiliation - 5: "[[USA. chris\_dede@harvard.edu]]"
 tags:
   - Frontiers-2022
   - XR-Reviewed
@@ -19,7 +14,7 @@ tags:
   - TCOT-2024
   - _BibTex-to-MD-Git
   - Intelligent-Tutoring-Systems-ITS
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - DONE
   - Cited-for-Frontiers

@@ -5,9 +5,6 @@ author - 1: "[[Svein Michelsen]]"
 author - 2: "[[Marja-Leena Stenström]]"
 key: "[[Michelsen2018-zg]]"
 publisher: "[[Routledge]]"
-affiliation - 1: "[[University of Bergen]]"
-affiliation - 2: "[[Norway; University of Jyvaskyla]]"
-affiliation - 3: "[[Finland]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git

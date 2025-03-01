@@ -5,11 +5,9 @@ author - 1: "[[Nikolche Vasilevski]]"
 author - 2: "[[James Birt]]"
 key: "[[Vasilevski2019-cl]]"
 publisher: "[[ACM]]"
-affiliation - 1: "[[Bond University]]"
-affiliation - 2: "[[Australia; Bond University]]"
 tags:
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - HCI
 ---
 

@@ -5,11 +5,8 @@ author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
 key: "[[Fuller2014-ea]]"
 publisher: "[[Routledge]]"
-affiliation - 1: "[[University of Southampton]]"
-affiliation - 2: "[[UK; Institute of Education, University of London]]"
-affiliation - 3: "[[UK]]"
 tags:
-  - Contemporary-Apprenticeship-Fuller-&-Unwin
+  - Contemporary-Apprenticeship-Fuller-and-Unwin
   - _BibTex-to-MD-Git
   - Cross-Ref-Chapter
 ---

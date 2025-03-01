@@ -9,24 +9,6 @@ author - 5: "[[Sophie Lumley]]"
 author - 6: "[[Delacroix, Sylvie and Pan, Xueni]]"
 key: "[[Fertleman2018-vt]]"
 journal: "[[Frontiers in public health]]"
-affiliation - 1: "[[UCL Medical School]]"
-affiliation - 2: "[[London]]"
-affiliation - 3: "[[United Kingdom. Whittington Hospital]]"
-affiliation - 4: "[[London]]"
-affiliation - 5: "[[United Kingdom. The Heron Practice]]"
-affiliation - 6: "[[London, United Kingdom. Department of Microbiology]]"
-affiliation - 7: "[[Whittington Hospital]]"
-affiliation - 8: "[[London]]"
-affiliation - 9: "[[United Kingdom. National Medical Director's Clinical Fellow Scheme]]"
-affiliation - 10: "[[Faculty of Medical Leadership and Management]]"
-affiliation - 11: "[[London]]"
-affiliation - 12: "[[United Kingdom. Faculty of Laws]]"
-affiliation - 13: "[[University College London]]"
-affiliation - 14: "[[London]]"
-affiliation - 15: "[[United Kingdom. Department of Computer Science]]"
-affiliation - 16: "[[Goldsmiths University of London]]"
-affiliation - 17: "[[London]]"
-affiliation - 18: "[[United Kingdom.]]"
 tags:
   - antibacterial-resistance
   - antibiotic-stewardship
@@ -37,7 +19,7 @@ tags:
   - Healthcare-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - UCL
   - _Mark-Up
   - Training

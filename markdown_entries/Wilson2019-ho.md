@@ -5,7 +5,6 @@ author - 1: "[[James Wilson]]"
 key: "[[Wilson2019-ho]]"
 institution: "[[American Institute of Architects]]"
 publisher: "[[American Institute of Architects]]"
-affiliation - 1: "[[National Institute of Building Sciences]]"
 tags:
   - Construction-4
   - 2_Upgrade-MAY-2023

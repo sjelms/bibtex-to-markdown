@@ -9,7 +9,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - ePub
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - Cited-for-Frontiers
 ---

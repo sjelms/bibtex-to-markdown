@@ -21,7 +21,7 @@ tags:
   - Journal-Articles
   - TCOT-2024
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - AEC
   - Workplace-Learning
   - _In-Readwise

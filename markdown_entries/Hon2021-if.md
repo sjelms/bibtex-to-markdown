@@ -9,7 +9,7 @@ tags:
   - VET
   - _BibTex-to-MD-Git
   - _Cataloged
-  - _XR-&-MR
+  - _XR-and-MR
   - VET
 ---
 

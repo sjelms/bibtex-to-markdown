@@ -9,7 +9,7 @@ publisher: "[[ACM Press]]"
 tags:
   - ACM_Association-for-Computing-Machinery
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - Cited-for-Frontiers
   - ACM

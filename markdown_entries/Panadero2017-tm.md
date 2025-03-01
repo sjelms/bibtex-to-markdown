@@ -4,8 +4,6 @@ year: 2017
 author - 1: "[[Ernesto Panadero]]"
 key: "[[Panadero2017-tm]]"
 journal: "[[Frontiers in psychology]]"
-affiliation - 1: "[[Departamento de Psicología Evolutiva y de la Educación, Facultad de Psicología]]"
-affiliation - 2: "[[Universidad Autónoma de MadridMadrid, Spain.]]"
 tags:
   - emotion-regulation
   - learning-strategies

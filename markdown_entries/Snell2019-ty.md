@@ -3,7 +3,7 @@ title: Vocational education and the revitalisation of manufacturing in the Unite
 year: 2019
 author - 1: "[[Darryn Snell]]"
 key: "[[Snell2019-ty]]"
-journal: "[[Journal of Vocational Education \& Training]]"
+journal: "[[Journal of Vocational Education \and Training]]"
 publisher: "[[Routledge]]"
 tags:
   - 2_Upgrade-MAY-2023

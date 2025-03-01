@@ -5,7 +5,6 @@ author - 1: "[[Parliament. House of Lords]]"
 key: "[[Parliament_House_of_Lords2018-wl]]"
 institution: "[[Science and Technology Select Committee]]"
 publisher: "[[Parliament of the United Kingdom]]"
-affiliation - 1: "[[Science and Technology Select Committee]]"
 tags:
   - Construction-4
   - Notion-Catalogued

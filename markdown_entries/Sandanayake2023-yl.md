@@ -24,7 +24,7 @@ tags:
   - Labor
   - Workplace-Learning
   - _New-Literature
-  - _XR-&-MR
+  - _XR-and-MR
 ---
 
 ## Bibliography

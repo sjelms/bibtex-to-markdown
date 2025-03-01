@@ -3,7 +3,7 @@ title: Constructing Vocational Knowledge -  History, Communities and Ontogeny
 year: 1996
 author - 1: "[[Stephen Billett]]"
 key: "[[Billett1996-pa]]"
-journal: "[[Journal of Vocational Education \& Training]]"
+journal: "[[Journal of Vocational Education \and Training]]"
 publisher: "[[Routledge]]"
 tags:
   - VET

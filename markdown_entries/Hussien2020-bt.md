@@ -17,7 +17,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - _Mark-Up
-  - _XR-&-MR
+  - _XR-and-MR
 ---
 
 ## Bibliography

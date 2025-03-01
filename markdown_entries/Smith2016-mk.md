@@ -4,7 +4,6 @@ year: 2016
 author - 1: "[[Ryan E Smith]]"
 key: "[[Smith2016-mk]]"
 publisher: "[[National Institute of Building Sciences]]"
-affiliation - 1: "[[National Institute of Building Sciences]]"
 tags:
   - Construction-4
   - Notion-Catalogued

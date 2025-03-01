@@ -5,7 +5,6 @@ author - 1: "[[Greg Rosalsky]]"
 author - 2: "[[Planet Money]]"
 key: "[[Rosalsky2021-iu]]"
 journal: "[[Planet Money]]"
-affiliation - 1: "[[National Public Radio]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

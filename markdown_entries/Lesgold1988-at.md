@@ -7,7 +7,6 @@ author - 3: "[[Marilyn Bunzo]]"
 author - 4: "[[Gary Eggan]]"
 key: "[[Lesgold1988-at]]"
 publisher: "[[Lawrence Erlbaum Associates]]"
-affiliation - 1: "[[University of Pittsburgh]]"
 tags:
   - Journal-Articles
   - Notion-Catalogued

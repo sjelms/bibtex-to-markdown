@@ -5,10 +5,10 @@ author - 1: "[[Rachel Maddow]]"
 key: "[[Maddow2020-tg]]"
 publisher: "[[Vintage Digital]]"
 tags:
-  - Politics-&-Society
+  - Politics-and-Society
   - _BibTex-to-MD-Git
   - ePub
-  - Politics-&-Society
+  - Politics-and-Society
 ---
 
 ## Bibliography

@@ -28,7 +28,7 @@ tags:
   - _In-Readwise
   - Research-Methods
   - Sensory-Processing
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - _Cataloged
 ---

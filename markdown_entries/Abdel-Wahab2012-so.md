@@ -3,7 +3,7 @@ title: Rethinking Apprenticeship Training in the British Construction Industry
 year: 2012
 author - 1: "[[Mohamed Abdel-Wahab]]"
 key: "[[Abdel-Wahab2012-so]]"
-journal: "[[Journal of Vocational Education \& Training]]"
+journal: "[[Journal of Vocational Education \and Training]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

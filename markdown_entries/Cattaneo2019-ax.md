@@ -8,18 +8,6 @@ author - 4: "[[Carmen Zahn]]"
 key: "[[Cattaneo2019-ax]]"
 journal: "[[Interactive learning environments]]"
 publisher: "[[Informa UK Limited]]"
-affiliation - 1: "[[Research and Development Department]]"
-affiliation - 2: "[[Swiss Federal Institute for Vocational Education and Training]]"
-affiliation - 3: "[[Lugano]]"
-affiliation - 4: "[[Switzerland; Faculty of Behavioural]]"
-affiliation - 5: "[[Management and Social Sciences, Department of Educational Science and Technology]]"
-affiliation - 6: "[[University of Twente]]"
-affiliation - 7: "[[Enschede]]"
-affiliation - 8: "[[the Netherlands; School of Economics and Business Administration]]"
-affiliation - 9: "[[Friedrich-Schiller-University Jena, Jena]]"
-affiliation - 10: "[[Germany; School of Applied Psychology]]"
-affiliation - 11: "[[University of Applied Sciences and Arts Northwestern Switzerland]]"
-affiliation - 12: "[[Olten, Switzerland]]"
 tags:
   - VET
   - 00_TO-READ

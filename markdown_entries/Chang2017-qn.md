@@ -8,22 +8,10 @@ author - 4: "[[Michael Nitsche]]"
 author - 5: "[[Welsh, Timothy and Mazalek, Ali]]"
 key: "[[Chang2017-qn]]"
 publisher: "[[ACM]]"
-affiliation - 1: "[[Ryerson University]]"
-affiliation - 2: "[[Toronto]]"
-affiliation - 3: "[[ON]]"
-affiliation - 4: "[[Canada and Purdue University; Ryerson University]]"
-affiliation - 5: "[[Toronto]]"
-affiliation - 6: "[[ON]]"
-affiliation - 7: "[[Canada; Ryerson University, Toronto]]"
-affiliation - 8: "[[ON]]"
-affiliation - 9: "[[Canada and Digital Media; Digital Media; University of Toronto]]"
-affiliation - 10: "[[Toronto]]"
-affiliation - 11: "[[ON]]"
-affiliation - 12: "[[Canada]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - Sensory-Processing
   - _Mark-Up
   - Read

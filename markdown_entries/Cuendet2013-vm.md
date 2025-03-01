@@ -5,12 +5,12 @@ author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Quentin Bonnard]]"
 author - 3: "[[Do-Lenh, Son and Dillenbourg, Pierre]]"
 key: "[[Cuendet2013-vm]]"
-journal: "[[Computers \& education]]"
+journal: "[[Computers \and education]]"
 publisher: "[[Elsevier BV]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - HCI
   - _Mark-Up
 ---

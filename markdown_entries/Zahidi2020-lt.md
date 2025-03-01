@@ -8,7 +8,6 @@ author - 4: "[[S Brown]]"
 key: "[[Zahidi2020-lt]]"
 institution: "[[World Economic Forum Platform for Shaping the Future of the New Economy and Society]]"
 publisher: "[[World Economic Forum]]"
-affiliation - 1: "[[World Economic Forum Platform for Shaping the Future of the New Economy and Society]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

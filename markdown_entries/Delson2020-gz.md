@@ -6,7 +6,6 @@ author - 2: "[[Lelli Van Den Einde]]"
 author - 3: "[[Tuazon, Jessica and Yang, Daniel]]"
 key: "[[Delson2020-gz]]"
 publisher: "[[ASEE Conferences]]"
-affiliation - 1: "[[UC San Diego; UC San Diego and eGrove Education Inc.]]"
 tags:
   - Notion-Catalogued
   - Reviewed-on-Theory

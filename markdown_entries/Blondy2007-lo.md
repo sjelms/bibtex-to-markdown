@@ -4,8 +4,6 @@ year: 2007
 author - 1: "[[Laurie C Blondy]]"
 key: "[[Blondy2007-lo]]"
 journal: "[[Journal of interactive online learning]]"
-affiliation - 1: "[[University of Michigan]]"
-affiliation - 2: "[[Ann Arbor]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git

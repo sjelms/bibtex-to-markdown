@@ -9,7 +9,7 @@ tags:
   - XR-Reviewed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - Readwise-Reader
   - _Cataloged

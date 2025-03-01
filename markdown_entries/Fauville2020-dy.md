@@ -10,7 +10,7 @@ tags:
   - Experience-on-Demand-Related-Work
   - _BibTex-to-MD-Git
   - _In-Notion
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - _Cataloged
 ---

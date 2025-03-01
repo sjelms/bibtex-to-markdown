@@ -15,7 +15,7 @@ tags:
   - TCOT-2024
   - _BibTex-to-MD-Git
   - AEC
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - _In-Notion
 ---

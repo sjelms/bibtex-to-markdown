@@ -4,7 +4,7 @@ year: 2013
 author - 1: "[[Pei Wen Chong]]"
 author - 2: "[[Linda J Graham]]"
 key: "[[Chong2013-nz]]"
-journal: "[[International Journal of Research \& Method in Education]]"
+journal: "[[International Journal of Research \and Method in Education]]"
 publisher: "[[Routledge]]"
 tags:
   - Rapid-Qualitative-Research

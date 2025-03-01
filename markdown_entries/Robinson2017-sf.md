@@ -4,8 +4,6 @@ year: 2017
 author - 1: "[[Ken Robinson]]"
 key: "[[Robinson2017-sf]]"
 publisher: "[[Capstone Publishing]]"
-affiliation - 1: "[[Los Angeles]]"
-affiliation - 2: "[[CA]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git

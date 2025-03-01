@@ -10,7 +10,7 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - YouTube
-  - _XR-&-MR
+  - _XR-and-MR
   - _Cataloged
 ---
 

@@ -4,7 +4,6 @@ year: 2018
 author - 1: "[[Alex Davies]]"
 key: "[[Davies2018-ai]]"
 institution: "[[Royal Institution of Chartered Surveyors]]"
-affiliation - 1: "[[RICS]]"
 tags:
   - Construction-4
   - 2_Upgrade-MAY-2023

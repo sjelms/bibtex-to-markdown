@@ -6,13 +6,6 @@ author - 2: "[[David Dorn]]"
 key: "[[Autor2013-ht]]"
 journal: "[[American Economic Review]]"
 publisher: "[[American Economic Association]]"
-affiliation - 1: "[[Department of Economics]]"
-affiliation - 2: "[[MIT]]"
-affiliation - 3: "[[50 Memorial Drive]]"
-affiliation - 4: "[[E52-371, Cambridge]]"
-affiliation - 5: "[[MA 02142.; CEMFI]]"
-affiliation - 6: "[[Casado del Alisal 5]]"
-affiliation - 7: "[[28014 Madrid, Spain.]]"
 tags:
   - Journal-Articles
   - Notion-Catalogued

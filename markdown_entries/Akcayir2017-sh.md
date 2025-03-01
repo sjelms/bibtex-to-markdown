@@ -13,7 +13,7 @@ tags:
   - Notion-Catalogued
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - _Cataloged
 ---

@@ -5,11 +5,6 @@ author - 1: "[[Fiona Murphy]]"
 author - 2: "[[Fiona Timmins]]"
 key: "[[Murphy2009-fx]]"
 journal: "[[Nurse education in practice]]"
-affiliation - 1: "[[School of Nursing and Midwifery]]"
-affiliation - 2: "[[24 D'Olier Street]]"
-affiliation - 3: "[[Trinity College Dublin]]"
-affiliation - 4: "[[Dublin 2]]"
-affiliation - 5: "[[Ireland.]]"
 tags:
   - Notion-Catalogued
   - Healthcare-CME

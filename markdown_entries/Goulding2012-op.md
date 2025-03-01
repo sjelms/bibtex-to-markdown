@@ -14,7 +14,7 @@ tags:
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - AEC
   - Knowledge---Skill-Acquisition
   - Workplace-Learning

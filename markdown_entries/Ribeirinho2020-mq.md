@@ -9,7 +9,7 @@ author - 5: "[[Timmy Anderson]]"
 author - 6: "[[Jose Luis Blanco]]"
 author - 7: "[[Rob Palter]]"
 key: "[[Ribeirinho2020-mq]]"
-institution: "[[McKinsey \& Company]]"
+institution: "[[McKinsey \and Company]]"
 publisher: "[[McKinsey Insights]]"
 tags:
   - Construction-4

@@ -11,12 +11,12 @@ journal: "[[International journal of environmental research and public health]]"
 publisher: "[[MDPI AG]]"
 tags:
   - XR-Reviewed
-  - VR-Ref-via-Ceja-&-Price
+  - VR-Ref-via-Ceja-and-Price
   - Notion-Catalogued
   - Journal-Articles
   - TCOT-2024
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - Training
   - Read
   - _Mark-Up

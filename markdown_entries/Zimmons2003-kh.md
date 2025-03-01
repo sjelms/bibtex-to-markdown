@@ -9,7 +9,7 @@ tags:
   - The-VR-Book-|-Jason-Jerald
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - DONE
   - _Cataloged

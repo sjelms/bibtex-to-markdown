@@ -6,7 +6,6 @@ author - 2: "[[Manuel Zafra Solas]]"
 key: "[[Renz2016-br]]"
 institution: "[[World Economic Forum]]"
 publisher: "[[World Economic Forum]]"
-affiliation - 1: "[[The Boston Consulting Group]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Deloitte---McKinsey---EY---PWC

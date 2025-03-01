@@ -6,7 +6,7 @@ author - 2: "[[Barrett Ens]]"
 author - 3: "[[Weerasinghe, Amali and Billinghurst, Mark]]"
 author - 4: "[[Grant Wigley]]"
 key: "[[Herbert2018-la]]"
-journal: "[[Computers \& graphics]]"
+journal: "[[Computers \and graphics]]"
 publisher: "[[Elsevier]]"
 tags:
   - Intelligent-tutoring-systems
@@ -21,7 +21,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Intelligent-Tutoring-Systems-ITS
-  - _XR-&-MR
+  - _XR-and-MR
   - _Mark-Up
   - Cited-for-Frontiers
 ---

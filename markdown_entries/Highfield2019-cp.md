@@ -8,7 +8,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC
-  - _XR-&-MR
+  - _XR-and-MR
   - Website
 ---
 

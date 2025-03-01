@@ -3,7 +3,7 @@ title: John Dewey and Experiential Learning -  Developing the Theory of Youth Wo
 year: 2012
 author - 1: "[[Jon Ord]]"
 key: "[[Ord2012-tv]]"
-journal: "[[Journal of Youth \& Policy]]"
+journal: "[[Journal of Youth \and Policy]]"
 tags:
   - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git

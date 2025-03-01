@@ -5,9 +5,6 @@ author - 1: "[[M J Brosnan]]"
 key: "[[Brosnan1998-tu]]"
 journal: "[[Perceptual and motor skills]]"
 publisher: "[[SAGE Publications]]"
-affiliation - 1: "[[School of Social Sciences]]"
-affiliation - 2: "[[University of Greenwich]]"
-affiliation - 3: "[[London, England.]]"
 tags:
   - XR-Reviewed
   - Notion-Catalogued

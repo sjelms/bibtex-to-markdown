@@ -6,7 +6,6 @@ author - 2: "[[Planet Money]]"
 key: "[[Rosalsky2021-id]]"
 journal: "[[Planet Money]]"
 publisher: "[[NPR]]"
-affiliation - 1: "[[National Public Radio]]"
 tags:
   - _BibTex-to-MD-Git
   - Economics

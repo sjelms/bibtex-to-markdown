@@ -12,7 +12,7 @@ tags:
   - Healthcare-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-&-MR
+  - _XR-and-MR
   - Cited-for-Frontiers
 ---
 

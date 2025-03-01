@@ -8,7 +8,7 @@ author - 4: "[[Robert Palter]]"
 author - 5: "[[Gernot Strube]]"
 author - 6: "[[Jonathan Woetzel]]"
 key: "[[Bertram2019-rb]]"
-journal: "[[McKinsey \& Company -  Capital Projects \& Infrastructure]]"
+journal: "[[McKinsey \and Company -  Capital Projects \and Infrastructure]]"
 publisher: "[[ivvd.nl]]"
 tags:
   - Construction-4

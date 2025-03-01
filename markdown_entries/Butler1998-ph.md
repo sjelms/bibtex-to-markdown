@@ -4,7 +4,7 @@ year: 1998
 author - 1: "[[Jim Butler]]"
 author - 2: "[[Ross Brooker]]"
 key: "[[Butler1998-ph]]"
-journal: "[[Journal of Vocational Education \& Training]]"
+journal: "[[Journal of Vocational Education \and Training]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

@@ -4,8 +4,6 @@ year: 2023
 author - 1: "[[Stephen J Dubner]]"
 key: "[[Dubner2023-jy]]"
 publisher: "[[Freakonomics Radio]]"
-affiliation - 1: "[[Renbud Radio]]"
-affiliation - 2: "[[LLC]]"
 tags:
   - Freakonomics-Radio
   - AEC-Cited-Lit-for-Jacqui

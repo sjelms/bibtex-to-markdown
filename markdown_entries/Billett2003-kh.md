@@ -5,9 +5,6 @@ author - 1: "[[Stephen Billett]]"
 key: "[[Billett2003-kh]]"
 journal: "[[European educational research journal]]"
 publisher: "[[SAGE Publications]]"
-affiliation - 1: "[[Griffith University]]"
-affiliation - 2: "[[Nathan]]"
-affiliation - 3: "[[Australia]]"
 tags:
   - Education
   - Journal-article

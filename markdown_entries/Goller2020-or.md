@@ -7,10 +7,6 @@ author - 3: "[[Gijbels, David and Donche, Vincent]]"
 key: "[[Goller2020-or]]"
 journal: "[[Journal of Engineering Education]]"
 publisher: "[[Wiley]]"
-affiliation - 1: "[[Department of Economics and Business Education University of Bamberg Bamberg Germany; Institute of Educational Science, Department of Educational Management and Research in Further Education University of Paderborn Paderborn Germany; Institute of Educational Science]]"
-affiliation - 2: "[[Department of Educational Management and Research in Further Education University of Paderborn Paderborn Germany; Faculty of Social Sciences]]"
-affiliation - 3: "[[Department of Training and Education]]"
-affiliation - 4: "[[EduBROn Research Group University of Antwerp Antwerpen Belgium]]"
 tags:
   - Notion-Catalogued
   - Journal-Articles

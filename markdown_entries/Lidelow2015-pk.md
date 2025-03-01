@@ -11,8 +11,6 @@ tags:
   - Construction-4
   - _BibTex-to-MD-Git
   - AEC
-aliases:
-  - Industriellt husbyggande
 ---
 
 ## Bibliography
