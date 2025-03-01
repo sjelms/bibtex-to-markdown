@@ -21,6 +21,7 @@ def clean_text(text):
     text = text.replace("\n", " ")  # Ensure multiline text is on a single line
     text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove braces `{}` while preserving content
     text = text.replace(":", " - ")  # Replace colons with hyphens
+    text = text.replace("&", "and")  # Replace ampersands with "and"
     return text.strip()
 
 # Function to correctly parse authors while keeping institutions together
@@ -72,13 +73,6 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
     bibliography = f'{", ".join(formatted_authors)}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
 
-# Function to split affiliations correctly
-def format_affiliations(affiliation_str):
-    if not affiliation_str:
-        return []
-    affiliations = [f'"[[{clean_text(aff)}]]"' for aff in affiliation_str.split(", ")]  # Wrapped in quotes
-    return affiliations
-
 # Function to process keywords into valid YAML tags
 def process_keywords(keyword_str):
     if not keyword_str:
@@ -111,9 +105,6 @@ for entry in bib_database.entries:
     publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") else ""
     journal = f'"[[{clean_text(entry.get("journal", ""))}]]"' if entry.get("journal") else ""
 
-    # Process affiliations into separate indexed values
-    affiliations = format_affiliations(entry.get("affiliation", ""))
-
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(entry.get("keywords", ""))
 
@@ -141,9 +132,6 @@ for entry in bib_database.entries:
         yaml_lines.append(f"journal: {journal}")
     if publisher:
         yaml_lines.append(f"publisher: {publisher}")
-
-    for i, aff in enumerate(affiliations, start=1):
-        yaml_lines.append(f"affiliation - {i}: {aff}")
 
     yaml_lines.append("tags:")
     for tag in keyword_tags:
