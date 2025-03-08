@@ -10,6 +10,7 @@ tags:
   - Oxford-Handbook-of-Skills-and-Training
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Cross-Ref-Chapter
   - ePub
   - _In-Notion

@@ -8,6 +8,7 @@ publisher: "[[Routledge]]"
 tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Fieldwork-Methodology
   - Research-Methods

@@ -10,6 +10,7 @@ publisher: "[[Springer International Publishing]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - AIEd
   - UCL
   - _Cataloged

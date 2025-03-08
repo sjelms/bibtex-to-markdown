@@ -7,6 +7,7 @@ publisher: "[[Vintage Digital]]"
 tags:
   - Politics-and-Society
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Politics-and-Society
 ---

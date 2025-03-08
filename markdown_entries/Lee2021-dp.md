@@ -8,6 +8,7 @@ publisher: "[[Random House]]"
 tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-physical
   - Artificial-Intelligence-AI
   - ePub

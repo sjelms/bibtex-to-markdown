@@ -7,6 +7,7 @@ key: "[[Addis2018-be]]"
 publisher: "[[John Wiley \and Sons]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Philosophy-of-Education
   - VET

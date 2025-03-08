@@ -11,6 +11,7 @@ tags:
   - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise

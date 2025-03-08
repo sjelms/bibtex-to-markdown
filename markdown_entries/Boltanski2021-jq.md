@@ -7,6 +7,7 @@ key: "[[Boltanski2021-jq]]"
 publisher: "[[Princeton University Press]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Economics
   - ePub
   - Labor

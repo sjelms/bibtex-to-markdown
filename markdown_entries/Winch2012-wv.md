@@ -6,6 +6,7 @@ key: "[[Winch2012-wv]]"
 publisher: "[[A\andC Black]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Philosophy-of-Education
   - VET

@@ -7,6 +7,7 @@ publisher: "[[W.W. Norton]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-physical
   - _Cataloged
   - Audiobook

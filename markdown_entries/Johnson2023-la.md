@@ -8,6 +8,7 @@ publisher: "[[Hachette UK]]"
 tags:
   - Future-of-Work
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Audiobook
   - Economics
   - ePub

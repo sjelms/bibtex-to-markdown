@@ -7,6 +7,7 @@ key: "[[Rudestam2014-yd]]"
 publisher: "[[SAGE Publications]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Research-Methods
 ---
