@@ -8,6 +8,9 @@ key: "[[Ashraf2025-rf]]"
 publisher: "[[National Bureau of Economic Research]]"
 tags:
   - _BibTex-to-MD-Git
+  - Future-of-Work
+  - Workplace-Learning
+  - Essential
 ---
 
 ## Bibliography
