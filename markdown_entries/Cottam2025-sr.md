@@ -1,5 +1,5 @@
 ---
-title: The Work We Need
+title: The Work We Need -  A 21st Century Imagining
 year: 2025
 author - 1: "[[Hilary Cottam]]"
 key: "[[Cottam2025-sr]]"
@@ -10,7 +10,8 @@ tags:
   - ePub
   - Economics
   - UCL
+  - Audiobook
 ---
 
 ## Bibliography
-Cottam, Hilary. 2025. “The Work We Need.” "[[Virago Press]]"
+Cottam, Hilary. 2025. “The Work We Need -  A 21st Century Imagining.” "[[Virago Press]]"
