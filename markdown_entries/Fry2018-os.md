@@ -8,6 +8,7 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - Audible
   - Book-physical
   - _Cataloged
   - Audiobook

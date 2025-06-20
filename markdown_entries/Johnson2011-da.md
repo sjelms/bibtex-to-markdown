@@ -7,6 +7,7 @@ publisher: "[[Penguin UK]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Audible
   - _In-Notion
   - _In-Readwise
   - ePub
