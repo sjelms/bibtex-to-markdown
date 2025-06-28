@@ -10,7 +10,7 @@ tags:
   - Frontiers-2022
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
-  - General-Interest-Periodicals–United-States
+  - General-Interest-Periodicals-United-States
   - Cited-for-Frontiers
 ---
 
