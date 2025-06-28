@@ -25,5 +25,5 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
-> Barbosa, Filipe, Jonathan Woetzel, Mischke, Jan and Ribeirinho, Maria João, Mukund Sridhar, Parsons, Matthew and Bertram, Nick, Stephanie Brown. 2017. “Reinventing construction through a productivity revolution.” . https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution
+## Bibliography
+Barbosa, Filipe, Jonathan Woetzel, Mischke, Jan and Ribeirinho, Maria João, Mukund Sridhar, Parsons, Matthew and Bertram, Nick, Stephanie Brown. 2017. “Reinventing construction through a productivity revolution.” . https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution
