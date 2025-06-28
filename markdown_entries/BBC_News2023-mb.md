@@ -6,7 +6,6 @@ key: "[[BBC_News2023-mb]]"
 journal: "[[BBC]]"
 tags:
   - _BibTex-to-MD-Git
-  - General-Interest-Periodicals–United-States
   - Website
   - Readwise-Reader
 ---
