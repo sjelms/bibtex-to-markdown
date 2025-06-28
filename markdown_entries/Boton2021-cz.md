@@ -22,5 +22,5 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Boton, Conrad, Louis Rivest, Oussama Ghnaya, Moataz Chouchen. 2021. “What is at the root of construction 4.0 -  A systematic review of the recent research effort.” "[[Springer Science and Business Media LLC]]". https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort
+> [!Bibliography]
+> Boton, Conrad, Louis Rivest, Oussama Ghnaya, Moataz Chouchen. 2021. “What is at the root of construction 4.0 -  A systematic review of the recent research effort.” "[[Springer Science and Business Media LLC]]". https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort

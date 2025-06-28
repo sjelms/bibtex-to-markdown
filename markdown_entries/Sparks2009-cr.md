@@ -21,5 +21,5 @@ tags:
   - Workplace-Learning
 ---
 
-## Bibliography
-Sparks, Alan, Hadyn Ingram, Sunny Phillips. 2009. “Advanced Entry Adult Apprenticeship Training Scheme -  A Case Study.” . http://dx.doi.org/10.1108/00400910910960722
+> [!Bibliography]
+> Sparks, Alan, Hadyn Ingram, Sunny Phillips. 2009. “Advanced Entry Adult Apprenticeship Training Scheme -  A Case Study.” . http://dx.doi.org/10.1108/00400910910960722

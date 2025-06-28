@@ -10,5 +10,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Conniff, Richard. 2011. “What the Luddites Really Fought Against.”
+> [!Bibliography]
+> Conniff, Richard. 2011. “What the Luddites Really Fought Against.”

@@ -14,5 +14,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-ACG. 2019. “Eighty Percent Of Contractors Report Difficulty Finding Qualified Craft Workers To Hire As Firms Give Low Marks To Quality Of New Worker Pipeline.” . https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0
+> [!Bibliography]
+> ACG. 2019. “Eighty Percent Of Contractors Report Difficulty Finding Qualified Craft Workers To Hire As Firms Give Low Marks To Quality Of New Worker Pipeline.” . https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0

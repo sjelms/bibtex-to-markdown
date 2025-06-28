@@ -13,5 +13,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Bolpagni, Marzia, Rui Gavina, Diogo Ribeiro. 2021. “Industry 4.0 for the Built Environment.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-82430-3
+> [!Bibliography]
+> Bolpagni, Marzia, Rui Gavina, Diogo Ribeiro. 2021. “Industry 4.0 for the Built Environment.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-82430-3

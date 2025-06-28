@@ -10,5 +10,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Lawson, Bryan. 2018. “The design student's journey -  Understanding how designers think.” "[[Routledge]]". https://books.google.com/books?id=k2N8DwAAQBAJ&newbks=1
+> [!Bibliography]
+> Lawson, Bryan. 2018. “The design student's journey -  Understanding how designers think.” "[[Routledge]]". https://books.google.com/books?id=k2N8DwAAQBAJ&newbks=1

@@ -16,5 +16,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Corporation, USG, United States Chamber of Commerce. 2019. “Q4 2019 Commercial Construction Index.”
+> [!Bibliography]
+> Corporation, USG, United States Chamber of Commerce. 2019. “Q4 2019 Commercial Construction Index.”

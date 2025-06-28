@@ -13,5 +13,5 @@ tags:
   - Technological-change
 ---
 
-## Bibliography
-Goldin, Claudia, Lawrence F Katz. 2009. “The race between education and technology.” "[[Belknap Press]]"
+> [!Bibliography]
+> Goldin, Claudia, Lawrence F Katz. 2009. “The race between education and technology.” "[[Belknap Press]]"

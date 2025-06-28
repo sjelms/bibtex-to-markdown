@@ -12,5 +12,5 @@ tags:
   - Research-Methods
 ---
 
-## Bibliography
-Ryan, G W, H R Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"
+> [!Bibliography]
+> Ryan, G W, H R Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"

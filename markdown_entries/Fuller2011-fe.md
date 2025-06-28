@@ -18,5 +18,5 @@ tags:
   - _In-ClickUp
 ---
 
-## Bibliography
-Fuller, Alison, Lorna Unwin. 2011. “Apprenticeship as an Evolving Model of Learning.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/13636820.2011.602220
+> [!Bibliography]
+> Fuller, Alison, Lorna Unwin. 2011. “Apprenticeship as an Evolving Model of Learning.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/13636820.2011.602220

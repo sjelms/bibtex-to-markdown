@@ -19,5 +19,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Wolf, Mario, Jochen Teizer, J H Ruse. 2019. “Case study on mobile virtual reality construction training.” "[[International Association for Automation and Robotics in Construction (IAARC)]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html
+> [!Bibliography]
+> Wolf, Mario, Jochen Teizer, J H Ruse. 2019. “Case study on mobile virtual reality construction training.” "[[International Association for Automation and Robotics in Construction (IAARC)]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html

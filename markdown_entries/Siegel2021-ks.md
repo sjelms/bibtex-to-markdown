@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Siegel, Bj. 2021. “Juno Design -  Throwing Out the Playbook - juno living.” . https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd
+> [!Bibliography]
+> Siegel, Bj. 2021. “Juno Design -  Throwing Out the Playbook - juno living.” . https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd

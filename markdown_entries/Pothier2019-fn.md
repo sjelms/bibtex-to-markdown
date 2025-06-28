@@ -14,5 +14,5 @@ tags:
   - Report
 ---
 
-## Bibliography
-Pothier, Debra, Anil Sawhney. 2019. “Industrialized Construction in Academia.”
+> [!Bibliography]
+> Pothier, Debra, Anil Sawhney. 2019. “Industrialized Construction in Academia.”

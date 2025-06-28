@@ -21,5 +21,5 @@ tags:
   - _In-ClickUp
 ---
 
-## Bibliography
-Schober, Kai-Stefan, Philipp Hoff. 2016. “Digitization in the Construction Industry -  Building Europe's Road to ``Construction 4.0''.” "[[Roland Berger GmbH Civil Economics, Energy \and Infrastructure Competence Center]]"
+> [!Bibliography]
+> Schober, Kai-Stefan, Philipp Hoff. 2016. “Digitization in the Construction Industry -  Building Europe's Road to ``Construction 4.0''.” "[[Roland Berger GmbH Civil Economics, Energy \and Infrastructure Competence Center]]"

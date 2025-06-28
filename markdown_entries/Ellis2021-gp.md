@@ -11,5 +11,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Ellis, Grace. 2021. “100+ Construction Industry Statistics.” . https://constructionblog.autodesk.com/construction-industry-statistics/
+> [!Bibliography]
+> Ellis, Grace. 2021. “100+ Construction Industry Statistics.” . https://constructionblog.autodesk.com/construction-industry-statistics/

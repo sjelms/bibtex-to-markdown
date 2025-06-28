@@ -11,5 +11,5 @@ tags:
   - Labor
 ---
 
-## Bibliography
-Clarke, S N, B J Boyd. 2011. “Youths’ perception of the construction industry -  An analysis at the elementary, middle, and high school levels.”
+> [!Bibliography]
+> Clarke, S N, B J Boyd. 2011. “Youths’ perception of the construction industry -  An analysis at the elementary, middle, and high school levels.”

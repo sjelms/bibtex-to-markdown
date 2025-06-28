@@ -12,8 +12,8 @@ tags:
   - Research-Methods
 ---
 
-## Bibliography
-Burns, R B. 1997. “Introduction to Research Methods.” "[[Addison Wesley Longman]]". https://play.google.com/store/books/details?id=aP3tAAAAMAAJ
+> [!Bibliography]
+> Burns, R B. 1997. “Introduction to Research Methods.” "[[Addison Wesley Longman]]". https://play.google.com/store/books/details?id=aP3tAAAAMAAJ
 
 ## Abstract
 First published in 1990, this third edition of a text for students of education and the social sciences now includes new chapters on ethics, correlational techniques, analysis of variance, and historical research. Emphasises the use of computers in research. Provides additional self-test questions for instructors, and answers. Includes index. The author teaches in the Faculty of Education at the University of Brunei.

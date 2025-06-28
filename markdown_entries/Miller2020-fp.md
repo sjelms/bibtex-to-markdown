@@ -16,5 +16,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Miller, Tim. 2020. “Fine Margins -  Delivering Financial Sustainability in UK Construction.” . https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf
+> [!Bibliography]
+> Miller, Tim. 2020. “Fine Margins -  Delivering Financial Sustainability in UK Construction.” . https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf

@@ -17,5 +17,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. “Prefabrication and Modular Construction 2020.”
+> [!Bibliography]
+> Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. “Prefabrication and Modular Construction 2020.”

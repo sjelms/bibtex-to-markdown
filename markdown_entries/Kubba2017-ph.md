@@ -23,8 +23,8 @@ tags:
   - _In-Notion
 ---
 
-## Bibliography
-Kubba, Sam. 2017. “Chapter Three - The Green Design and Construction Process.” "[[Butterworth-Heinemann]]". https://www.sciencedirect.com/science/article/pii/B9780128104330000034
+> [!Bibliography]
+> Kubba, Sam. 2017. “Chapter Three - The Green Design and Construction Process.” "[[Butterworth-Heinemann]]". https://www.sciencedirect.com/science/article/pii/B9780128104330000034
 
 ## Abstract
 This chapter essentially explains Green Building Principles and the primary components of green building. It also highlights the main characteristics of high performance and smart/intelligent buildings and the use of an integrated design approach and the importance of putting together an integrated multidisciplinary project team to achieve the desired objectives. Additionally, the fundamental differences between the integrated design process approach to design and the conventional design approach are explained. Various green project delivery systems (e.g., Traditional Green Design-Bid-Build, Green-Design-Build, at-risk construction manager (CM) delivery approach, etc.) are also examined, and the advantages and disadvantages of each are delineated. Likewise, the most important green design strategies that are recommended for adoption are discussed. Also explained here is why the greatest value of engaging a Project Manager/CM as Advisor occurs when engaged very early in the design process. At the end of the chapter, the factors that impact the decision to choose design-build numerated.

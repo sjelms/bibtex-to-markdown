@@ -13,5 +13,5 @@ tags:
   - Website
 ---
 
-## Bibliography
-Rosalsky, Greg, Planet Money. 2021. “How California Homelessness Became A Crisis.” . https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis
+> [!Bibliography]
+> Rosalsky, Greg, Planet Money. 2021. “How California Homelessness Became A Crisis.” . https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis

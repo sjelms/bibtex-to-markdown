@@ -10,5 +10,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Robinson, Ken. 2017. “Out of Our Minds -  The Power of Being Creative.” "[[Capstone Publishing]]"
+> [!Bibliography]
+> Robinson, Ken. 2017. “Out of Our Minds -  The Power of Being Creative.” "[[Capstone Publishing]]"

@@ -12,5 +12,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Peña, Adolfo. 2010. “The Dreyfus model of clinical problem-solving skills acquisition -  a critical perspective.” . https://doi.org/10.3402/meo.v15i0.4846
+> [!Bibliography]
+> Peña, Adolfo. 2010. “The Dreyfus model of clinical problem-solving skills acquisition -  a critical perspective.” . https://doi.org/10.3402/meo.v15i0.4846

@@ -10,5 +10,5 @@ tags:
   - Readwise-Reader
 ---
 
-## Bibliography
-Morley, Jack Balderrama. 2020. “Production Line -  How Sweden Is Pioneering Automated, Prefab Timber Construction.”
+> [!Bibliography]
+> Morley, Jack Balderrama. 2020. “Production Line -  How Sweden Is Pioneering Automated, Prefab Timber Construction.”

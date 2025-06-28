@@ -12,5 +12,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Benner, Patricia. 1984. “From Novice to Expert -  Excellence and Power in Clinical Nursing Practice.” "[[Prentice Hall]]"
+> [!Bibliography]
+> Benner, Patricia. 1984. “From Novice to Expert -  Excellence and Power in Clinical Nursing Practice.” "[[Prentice Hall]]"

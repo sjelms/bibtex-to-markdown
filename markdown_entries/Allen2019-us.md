@@ -10,5 +10,5 @@ tags:
   - _In-Notion
 ---
 
-## Bibliography
-Allen, Nichol. 2019. “Standard Oil’s Company Housing in Wood River, Illinois.”
+> [!Bibliography]
+> Allen, Nichol. 2019. “Standard Oil’s Company Housing in Wood River, Illinois.”

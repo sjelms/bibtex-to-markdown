@@ -11,8 +11,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Fry, Richard, Jeffrey S Passel, D'vera Cohn. 2020. “A majority of young adults in the U.S. live with their parents for the first time since the Great Depression.” 
+> [!Bibliography]
+> Fry, Richard, Jeffrey S Passel, D'vera Cohn. 2020. “A majority of young adults in the U.S. live with their parents for the first time since the Great Depression.” 
 
 ## Abstract
 The share of 18- to 29-year-olds living with their parents has become a majority since U.S. coronavirus cases began spreading early this year.

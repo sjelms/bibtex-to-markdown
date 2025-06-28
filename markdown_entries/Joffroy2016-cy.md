@@ -13,8 +13,8 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Joffroy, Thierry. 2016. “Learning from local building cultures to improve housing project sustainability.” "[[United Nations Publications]]". https://www.un-ilibrary.org/content/journals/15643913/53/3/7
+> [!Bibliography]
+> Joffroy, Thierry. 2016. “Learning from local building cultures to improve housing project sustainability.” "[[United Nations Publications]]". https://www.un-ilibrary.org/content/journals/15643913/53/3/7
 
 ## Abstract
 The history of construction shows that builders have always been creative in adapting and upgrading housing structures by making the best use of locally available resources to meet their needs, while taking into account local economic, social and climatic constraints. Societies worldwide have developed building cultures that result in ‘contextual’ architecture, corresponding to unique construction methods and specific ways of life. Local building cultures, however, are not static. They evolve as societies do, particularly when exchanges with other countries and cultures take place, introducing new knowledge, building materials and techniques.

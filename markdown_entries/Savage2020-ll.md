@@ -9,5 +9,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Savage, Adam. 2020. “How To Build in 2030.”
+> [!Bibliography]
+> Savage, Adam. 2020. “How To Build in 2030.”

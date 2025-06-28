@@ -12,5 +12,5 @@ tags:
   - Economics
 ---
 
-## Bibliography
-Worrall, Simon, M Ford. 2015. “Will the Rise of The Robots Implode the World Economy?.” . https://www.nationalgeographic.com/science/article/150603-science-technology-robots-economics-unemployment-automation-ngbooktalk
+> [!Bibliography]
+> Worrall, Simon, M Ford. 2015. “Will the Rise of The Robots Implode the World Economy?.” . https://www.nationalgeographic.com/science/article/150603-science-technology-robots-economics-unemployment-automation-ngbooktalk

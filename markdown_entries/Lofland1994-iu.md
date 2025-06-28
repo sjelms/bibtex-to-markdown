@@ -11,5 +11,5 @@ tags:
   - Fieldwork-Methodology
 ---
 
-## Bibliography
-Lofland, John, Lyn H Lofland. 1994. “Analyzing Social Settings -  A Guide to Qualitative Observation and Analysis.” "[[Wadsworth Publishing]]"
+> [!Bibliography]
+> Lofland, John, Lyn H Lofland. 1994. “Analyzing Social Settings -  A Guide to Qualitative Observation and Analysis.” "[[Wadsworth Publishing]]"

@@ -14,5 +14,5 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Davies, Alex. 2018. “Modern Methods of Construction -  A Forward-Thinking Solution to the Housing Crisis?.”
+> [!Bibliography]
+> Davies, Alex. 2018. “Modern Methods of Construction -  A Forward-Thinking Solution to the Housing Crisis?.”

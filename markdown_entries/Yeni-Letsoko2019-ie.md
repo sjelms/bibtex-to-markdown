@@ -16,5 +16,5 @@ tags:
   - Skill-demand
 ---
 
-## Bibliography
-Yeni-Letsoko, Vuyiswa, Nischolan Pillay. 2019. “Industry 4.0 and its impact on skills development on built environment professionals -  A South African perspective.”
+> [!Bibliography]
+> Yeni-Letsoko, Vuyiswa, Nischolan Pillay. 2019. “Industry 4.0 and its impact on skills development on built environment professionals -  A South African perspective.”

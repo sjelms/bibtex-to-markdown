@@ -12,8 +12,8 @@ tags:
   - Readwise-Reader
 ---
 
-## Bibliography
-Lowe, Tom, Daniel Gayne, Tom Lane. 2023. “The RAAC Schools Crisis -  What We Know So Far.” 
+> [!Bibliography]
+> Lowe, Tom, Daniel Gayne, Tom Lane. 2023. “The RAAC Schools Crisis -  What We Know So Far.” 
 
 ## Abstract
 More than 100 schools containing cheap concrete told to immediately close after collapse of beam previously thought to be safe

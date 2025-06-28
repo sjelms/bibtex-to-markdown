@@ -11,5 +11,5 @@ tags:
   - Website
 ---
 
-## Bibliography
-Ritchie, Hannah, Max Roser. 2017. “Technology Adoption.” . https://ourworldindata.org/technology-adoption
+> [!Bibliography]
+> Ritchie, Hannah, Max Roser. 2017. “Technology Adoption.” . https://ourworldindata.org/technology-adoption

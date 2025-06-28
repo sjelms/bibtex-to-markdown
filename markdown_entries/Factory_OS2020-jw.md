@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-OS, Factory. 2020. “Factory\_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis.” . https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/
+> [!Bibliography]
+> OS, Factory. 2020. “Factory\_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis.” . https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/

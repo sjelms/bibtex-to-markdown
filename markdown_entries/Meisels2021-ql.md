@@ -21,5 +21,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Meisels, Michelle, Paul Wellener, Kate Hardin. 2021. “2022 Engineering and Construction Industry Outlook.”
+> [!Bibliography]
+> Meisels, Michelle, Paul Wellener, Kate Hardin. 2021. “2022 Engineering and Construction Industry Outlook.”

@@ -13,5 +13,5 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-## Bibliography
-History, Department of Economic, H Ivins. 2017. “Tacit Knowledge -  Making It Explicit.” . https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/FACTS/reports/tacit.pdf
+> [!Bibliography]
+> History, Department of Economic, H Ivins. 2017. “Tacit Knowledge -  Making It Explicit.” . https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/FACTS/reports/tacit.pdf

@@ -16,5 +16,5 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Michelsen, Svein, Marja-Leena Stenström. 2018. “Vocational Education in the Nordic Countries -  the Historical Evolution.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.4324/9781315411811/vocational-education-nordic-countries-svein-michelsen-marja-leena-stenstr%C3%B6m
+> [!Bibliography]
+> Michelsen, Svein, Marja-Leena Stenström. 2018. “Vocational Education in the Nordic Countries -  the Historical Evolution.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.4324/9781315411811/vocational-education-nordic-countries-svein-michelsen-marja-leena-stenstr%C3%B6m

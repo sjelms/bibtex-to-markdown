@@ -14,5 +14,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Hirschman, Charles, Elizabeth Mogford. 2009. “Immigration and the American industrial revolution from 1880 to 1920.” . http://dx.doi.org/10.1016/j.ssresearch.2009.04.001
+> [!Bibliography]
+> Hirschman, Charles, Elizabeth Mogford. 2009. “Immigration and the American industrial revolution from 1880 to 1920.” . http://dx.doi.org/10.1016/j.ssresearch.2009.04.001

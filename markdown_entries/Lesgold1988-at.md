@@ -16,8 +16,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Lesgold, Alan, Susanne Lajoie, Marilyn Bunzo, Gary Eggan. 1988. “Sherlock -  A Coached Practice Environment for an Electronics Troubleshooting Job.” "[[Lawrence Erlbaum Associates]]". https://files.eric.ed.gov/fulltext/ED299450.pdf
+> [!Bibliography]
+> Lesgold, Alan, Susanne Lajoie, Marilyn Bunzo, Gary Eggan. 1988. “Sherlock -  A Coached Practice Environment for an Electronics Troubleshooting Job.” "[[Lawrence Erlbaum Associates]]". https://files.eric.ed.gov/fulltext/ED299450.pdf
 
 ## Abstract
 ``Sherlock'' is a computer-based, supported practice environment for a complex troubleshooting job in Air Force electronics. The program was developed to raise the level of troubleshooting knowledge of avionics technicians. This describes that training problem for which Sherlock was developed, the principles behind its development, and its implementation. It leads the reader through the Sherlock program, with drawings of some of the various screens displayed during use of the program. A glossary and list of references are included.

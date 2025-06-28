@@ -14,5 +14,5 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-## Bibliography
-Costley, Carol. 2013. “Workplace learning and higher education.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n29
+> [!Bibliography]
+> Costley, Carol. 2013. “Workplace learning and higher education.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n29

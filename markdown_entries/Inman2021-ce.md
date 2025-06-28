@@ -12,8 +12,8 @@ tags:
   - _In-Notion
 ---
 
-## Bibliography
-Inman, Phillip. 2021. “UK enjoys property sales boom amid Covid-19 pandemic.” "[[The Guardian]]". http://www.theguardian.com/money/2021/sep/03/uk-enjoys-property-sales-boom-amid-covid-19-pandemic
+> [!Bibliography]
+> Inman, Phillip. 2021. “UK enjoys property sales boom amid Covid-19 pandemic.” "[[The Guardian]]". http://www.theguardian.com/money/2021/sep/03/uk-enjoys-property-sales-boom-amid-covid-19-pandemic
 
 ## Abstract
 Britain’s real estate market defies predictions of a house price crash despite coronavirus crisis

@@ -10,8 +10,8 @@ tags:
   - Statistics
 ---
 
-## Bibliography
-Leaker, Debra. 2023. “Labour market overview, UK - Office for National Statistics.” "[[Office for National Statistics]]"
+> [!Bibliography]
+> Leaker, Debra. 2023. “Labour market overview, UK - Office for National Statistics.” "[[Office for National Statistics]]"
 
 ## Abstract
 Estimates of employment, unemployment, economic inactivity and other employment-related statistics for the UK.

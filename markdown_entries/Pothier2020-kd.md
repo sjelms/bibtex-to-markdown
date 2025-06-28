@@ -14,5 +14,5 @@ tags:
   - Report
 ---
 
-## Bibliography
-Pothier, Debra, Anil Sawhney. 2020. “Future of Work in Construction.”
+> [!Bibliography]
+> Pothier, Debra, Anil Sawhney. 2020. “Future of Work in Construction.”

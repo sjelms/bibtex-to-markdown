@@ -13,8 +13,8 @@ tags:
   - Economics
 ---
 
-## Bibliography
-Ngo, Madeleine. 2021. “Skilled Workers Are Scarce, Posing a Challenge for Biden’s Infrastructure Plan.” "[[The New York Times]]". https://www.nytimes.com/2021/09/09/us/politics/biden-infrastructure-plan.html
+> [!Bibliography]
+> Ngo, Madeleine. 2021. “Skilled Workers Are Scarce, Posing a Challenge for Biden’s Infrastructure Plan.” "[[The New York Times]]". https://www.nytimes.com/2021/09/09/us/politics/biden-infrastructure-plan.html
 
 ## Abstract
 One estimate says the bill would add \$1.4 trillion to the U.S. economy over eight years, but without enough workers, efforts to strengthen roads and public transit could be set back.

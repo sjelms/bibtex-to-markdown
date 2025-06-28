@@ -11,5 +11,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Christensen, Clayton. 2020. “Managing Disruption -  An Interview with Clayton Christensen.” "[[Routledge]]". https://doi.org/10.1080/08956308.2020.1733890
+> [!Bibliography]
+> Christensen, Clayton. 2020. “Managing Disruption -  An Interview with Clayton Christensen.” "[[Routledge]]". https://doi.org/10.1080/08956308.2020.1733890

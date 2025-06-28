@@ -15,5 +15,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Yudelson, Michael V, Kenneth R Koedinger, Geoffrey J Gordon. 2013. “Individualized Bayesian knowledge tracing models.” "[[Springer Berlin Heidelberg]]". http://dx.doi.org/10.1007/978-3-642-39112-5_18
+> [!Bibliography]
+> Yudelson, Michael V, Kenneth R Koedinger, Geoffrey J Gordon. 2013. “Individualized Bayesian knowledge tracing models.” "[[Springer Berlin Heidelberg]]". http://dx.doi.org/10.1007/978-3-642-39112-5_18

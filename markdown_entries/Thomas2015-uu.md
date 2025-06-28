@@ -14,5 +14,5 @@ tags:
   - Research-Methods
 ---
 
-## Bibliography
-Thomas, Gary, Kevin Myers. 2015. “The Anatomy of the Case Study.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781473920156
+> [!Bibliography]
+> Thomas, Gary, Kevin Myers. 2015. “The Anatomy of the Case Study.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781473920156

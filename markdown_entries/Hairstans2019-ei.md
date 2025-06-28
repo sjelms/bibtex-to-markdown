@@ -18,5 +18,5 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-## Bibliography
-Hairstans, Robert, Tsvetomila A Duncheva. 2019. “Core Offsite Manufacture Industry Drivers.” "[[Routledge]]". http://dx.doi.org/10.1201/9781315147321-11
+> [!Bibliography]
+> Hairstans, Robert, Tsvetomila A Duncheva. 2019. “Core Offsite Manufacture Industry Drivers.” "[[Routledge]]". http://dx.doi.org/10.1201/9781315147321-11

@@ -20,5 +20,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Dubberly, Hugh, Shelley Evenson. 2011. “Design as learning—or ``knowledge creation''—the SECI model.” . http://dx.doi.org/10.1145/1897239.1897256
+> [!Bibliography]
+> Dubberly, Hugh, Shelley Evenson. 2011. “Design as learning—or ``knowledge creation''—the SECI model.” . http://dx.doi.org/10.1145/1897239.1897256

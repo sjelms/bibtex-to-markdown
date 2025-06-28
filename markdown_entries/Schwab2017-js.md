@@ -18,5 +18,5 @@ tags:
   - Audiobook
 ---
 
-## Bibliography
-Schwab, Klaus. 2017. “The Fourth Industrial Revolution.” "[[Adfo Books]]"
+> [!Bibliography]
+> Schwab, Klaus. 2017. “The Fourth Industrial Revolution.” "[[Adfo Books]]"

@@ -11,8 +11,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Pailliez, Caroline. 2017. “You're hired! France's Macron targets apprentices in labor market shake-up.” "[[Reuters]]". https://www.reuters.com/article/us-france-reform-apprencticeships-idUSKBN1D30Z5
+> [!Bibliography]
+> Pailliez, Caroline. 2017. “You're hired! France's Macron targets apprentices in labor market shake-up.” "[[Reuters]]". https://www.reuters.com/article/us-france-reform-apprencticeships-idUSKBN1D30Z5
 
 ## Abstract
 In a warehouse outside Paris, university drop-out Celine Galland stacks palettes and fills out an inventory sheet, part of a logistics apprenticeship she hopes will put a decade of short-term contracts and unemployment behind her.

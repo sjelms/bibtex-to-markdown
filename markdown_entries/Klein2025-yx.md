@@ -13,5 +13,5 @@ tags:
   - Book-physical
 ---
 
-## Bibliography
-Klein, Ezra, Derek Thompson. 2025. “Abundance -  How we build a better future.” "[[Profile Books]]". https://books.google.com/books/about/Abundance.html?id=pskwEQAAQBAJ
+> [!Bibliography]
+> Klein, Ezra, Derek Thompson. 2025. “Abundance -  How we build a better future.” "[[Profile Books]]". https://books.google.com/books/about/Abundance.html?id=pskwEQAAQBAJ

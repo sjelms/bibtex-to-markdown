@@ -18,5 +18,5 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. “Does Apprenticeship Work for Adults?.”
+> [!Bibliography]
+> Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. “Does Apprenticeship Work for Adults?.”

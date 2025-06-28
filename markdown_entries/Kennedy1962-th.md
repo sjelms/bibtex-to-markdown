@@ -9,5 +9,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Kennedy, John F. 1962. “January 11, 1962 -  State of the Union Address.” . https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address
+> [!Bibliography]
+> Kennedy, John F. 1962. “January 11, 1962 -  State of the Union Address.” . https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address

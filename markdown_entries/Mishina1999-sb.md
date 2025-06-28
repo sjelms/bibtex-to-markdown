@@ -10,8 +10,8 @@ tags:
   - VET
 ---
 
-## Bibliography
-Mishina, K. 1999. “Learning by new experiences -  Revisiting the flying fortress learning curve.” "[[National Bureau of Economic Research, Inc]]". https://ideas.repec.org/h/nbr/nberch/10232.html
+> [!Bibliography]
+> Mishina, K. 1999. “Learning by new experiences -  Revisiting the flying fortress learning curve.” "[[National Bureau of Economic Research, Inc]]". https://ideas.repec.org/h/nbr/nberch/10232.html
 
 ## Abstract
 Downloadable! No abstract is available for this item.

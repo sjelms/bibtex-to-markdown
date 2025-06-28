@@ -23,5 +23,5 @@ tags:
   - Technological-change
 ---
 
-## Bibliography
-Autor, D, D Mindell, E Reynolds, MIT Task Force on the Work of the Future. 2020. “The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines.”
+> [!Bibliography]
+> Autor, D, D Mindell, E Reynolds, MIT Task Force on the Work of the Future. 2020. “The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines.”

@@ -16,8 +16,8 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Charmaz, Kathy. 2005. “Grounded Theory in the 21st Century -  Applications for Advancing Social Justice Studies.” . https://psycnet.apa.org/fulltext/2005-07735-020.pdf
+> [!Bibliography]
+> Charmaz, Kathy. 2005. “Grounded Theory in the 21st Century -  Applications for Advancing Social Justice Studies.” . https://psycnet.apa.org/fulltext/2005-07735-020.pdf
 
 ## Abstract
 Discusses grounded theory methods of the 20th century and concludes that a turn toward qualitative social justice studies promotes combining critical inquiry and grounded theory in novel and productive ways. An interpretive, constructivist grounded theory supports this turn by building on its Chicago school antecedents. Grounded theory can sharpen the analytic edge of social justice studies. Simultaneously, the critical inquiry inherent in social justice research can enlarge the focus and deepen the significance of grounded theory analyses. Combining the two approaches enhances the power of each. (PsycInfo Database Record (c) 2022 APA, all rights reserved)

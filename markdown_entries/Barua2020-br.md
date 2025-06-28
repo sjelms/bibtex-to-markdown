@@ -15,5 +15,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Barua, A. 2020. “The Construction Workforce -  Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html
+> [!Bibliography]
+> Barua, A. 2020. “The Construction Workforce -  Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html

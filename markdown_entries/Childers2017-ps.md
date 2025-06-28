@@ -11,5 +11,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Childers, Erskine. 2017. “The riddle of the Sands.” "[[Macmillan Collector's Library]]"
+> [!Bibliography]
+> Childers, Erskine. 2017. “The riddle of the Sands.” "[[Macmillan Collector's Library]]"

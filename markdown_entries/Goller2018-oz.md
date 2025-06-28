@@ -16,5 +16,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Goller, Michael, Bianca Steffen, Christian Harteis. 2018. “Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home.” . http://dx.doi.org/10.1007/s12186-018-9209-z
+> [!Bibliography]
+> Goller, Michael, Bianca Steffen, Christian Harteis. 2018. “Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home.” . http://dx.doi.org/10.1007/s12186-018-9209-z

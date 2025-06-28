@@ -9,8 +9,8 @@ tags:
   - Website
 ---
 
-## Bibliography
-Willcocks, Leslie. 2019. “Hidden in plain sight -  the ghost in the automation and future of work debate.” 
+> [!Bibliography]
+> Willcocks, Leslie. 2019. “Hidden in plain sight -  the ghost in the automation and future of work debate.” 
 
 ## Abstract
 Looking at the big picture it is not easy to pick your way through the media representations of the debate around automation, robots and the future of work. Sources and multiple studies are, in fac…

@@ -19,5 +19,5 @@ tags:
   - _In-ClickUp
 ---
 
-## Bibliography
-Ménacère, Karim. 2016. “When More Does Not Mean Better -  Selecting a Research Methodology and Methods.” "[[Routledge]]"
+> [!Bibliography]
+> Ménacère, Karim. 2016. “When More Does Not Mean Better -  Selecting a Research Methodology and Methods.” "[[Routledge]]"

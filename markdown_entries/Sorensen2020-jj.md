@@ -11,5 +11,5 @@ tags:
   - _In-Notion
 ---
 
-## Bibliography
-Sorensen, Peter. 2020. “What Is the Fourth Industrial Revolution?.”
+> [!Bibliography]
+> Sorensen, Peter. 2020. “What Is the Fourth Industrial Revolution?.”

@@ -21,5 +21,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Zhang, Youyi, Zhen Lei, Sanghyeok Han, Ahmed Bouferguene, Mohamed Al-Hussein. 2020. “Process-oriented framework to improve modular and offsite construction manufacturing performance.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909
+> [!Bibliography]
+> Zhang, Youyi, Zhen Lei, Sanghyeok Han, Ahmed Bouferguene, Mohamed Al-Hussein. 2020. “Process-oriented framework to improve modular and offsite construction manufacturing performance.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909

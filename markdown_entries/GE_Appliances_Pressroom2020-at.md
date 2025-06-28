@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Pressroom, GE Appliances. 2020. “GE Appliances to Hire 150 employees at Appliance Park for part-time GEA2Day program expansion.” . https://pressroom.geappliances.com/news/ge-appliances-to-hire-150-employees-at-appliance-park-for-part-time-gea2day-program-expansion
+> [!Bibliography]
+> Pressroom, GE Appliances. 2020. “GE Appliances to Hire 150 employees at Appliance Park for part-time GEA2Day program expansion.” . https://pressroom.geappliances.com/news/ge-appliances-to-hire-150-employees-at-appliance-park-for-part-time-gea2day-program-expansion

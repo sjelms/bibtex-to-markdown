@@ -16,8 +16,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Randow, Jana, Eleni Chrepa, Peter Flanagan, Carolynn Look, Stefan Nicola, Andra Timu, Ummelas, Ott and Schneeweiss, Zoe. 2021. “Berliners Are Angry About Housing. And So Is Much of Europe.” . https://www.bloomberg.com/news/articles/2021-10-03/berliners-are-angry-about-housing-and-so-is-much-of-europe
+> [!Bibliography]
+> Randow, Jana, Eleni Chrepa, Peter Flanagan, Carolynn Look, Stefan Nicola, Andra Timu, Ummelas, Ott and Schneeweiss, Zoe. 2021. “Berliners Are Angry About Housing. And So Is Much of Europe.” . https://www.bloomberg.com/news/articles/2021-10-03/berliners-are-angry-about-housing-and-so-is-much-of-europe
 
 ## Abstract
 Soaring rents and out-of-reach prices have fueled property inequality

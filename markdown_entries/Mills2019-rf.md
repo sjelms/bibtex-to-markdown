@@ -10,8 +10,8 @@ tags:
   - YouTube
 ---
 
-## Bibliography
-Mills, Fred. 2019. “Construction's Digital Manufacturing Revolution.” "[[The B1M]]". https://www.youtube.com/watch?v=6-mxc9KBgbo
+> [!Bibliography]
+> Mills, Fred. 2019. “Construction's Digital Manufacturing Revolution.” "[[The B1M]]". https://www.youtube.com/watch?v=6-mxc9KBgbo
 
 ## Abstract
 Construction is embracing rapid advances in digital technologies and making a bold shift towards the world of manufacturing, merging the two to usher in a new dawn.

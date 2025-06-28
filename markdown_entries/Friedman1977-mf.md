@@ -10,5 +10,5 @@ tags:
   - Economics
 ---
 
-## Bibliography
-Friedman, Andrew L. 1977. “Industry and labour -  Class struggle at work and monopoly capitalism.” "[[Palgrave Macmillan]]". https://link.springer.com/book/10.1007/978-1-349-15845-4
+> [!Bibliography]
+> Friedman, Andrew L. 1977. “Industry and labour -  Class struggle at work and monopoly capitalism.” "[[Palgrave Macmillan]]". https://link.springer.com/book/10.1007/978-1-349-15845-4

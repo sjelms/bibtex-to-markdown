@@ -14,5 +14,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Chudley, Roy, Roger Greeno, Karl Kovac. 2020. “Chudley and greeno's building construction handbook.” "[[Routledge]]". https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0
+> [!Bibliography]
+> Chudley, Roy, Roger Greeno, Karl Kovac. 2020. “Chudley and greeno's building construction handbook.” "[[Routledge]]". https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0

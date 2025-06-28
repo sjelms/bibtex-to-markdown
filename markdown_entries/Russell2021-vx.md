@@ -16,5 +16,5 @@ tags:
   - Course-Assignment
 ---
 
-## Bibliography
-Russell, Stuart J, Peter Norvig. 2021. “Artificial Intelligence -  A Modern Approach.” "[[Pearson Education Limited]]"
+> [!Bibliography]
+> Russell, Stuart J, Peter Norvig. 2021. “Artificial Intelligence -  A Modern Approach.” "[[Pearson Education Limited]]"

@@ -10,8 +10,8 @@ tags:
   - Employment
 ---
 
-## Bibliography
-Gardiner, Joey. 2023. “Ilke Homes goes into administration.” 
+> [!Bibliography]
+> Gardiner, Joey. 2023. “Ilke Homes goes into administration.” 
 
 ## Abstract
 'All activities to cease' as loss-making modular housebuilder fails to find a buyer

@@ -19,5 +19,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Meisels, M. 2020. “2021 Engineering and Construction Industry Outlook.”
+> [!Bibliography]
+> Meisels, M. 2020. “2021 Engineering and Construction Industry Outlook.”

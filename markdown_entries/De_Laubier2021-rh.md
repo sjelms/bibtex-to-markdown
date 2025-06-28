@@ -14,5 +14,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Laubier, Romain de, Arne Burfeind, Arnold, Sebastien and Witthöft, Sven, Marius Wunder. 2021. “The Offsite Revolution in Construction.” . https://www.bcg.com/en-gb/publications/2019/offsite-revolution-construction
+> [!Bibliography]
+> Laubier, Romain de, Arne Burfeind, Arnold, Sebastien and Witthöft, Sven, Marius Wunder. 2021. “The Offsite Revolution in Construction.” . https://www.bcg.com/en-gb/publications/2019/offsite-revolution-construction

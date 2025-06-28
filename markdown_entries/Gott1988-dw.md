@@ -15,5 +15,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Gott, Sherrie P. 1988. “Chapter 3 -  Apprenticeship Instruction for Real-World Tasks -  The Coordination of Procedures, Mental Models, and Strategies.” . https://doi.org/10.3102/0091732X015001097
+> [!Bibliography]
+> Gott, Sherrie P. 1988. “Chapter 3 -  Apprenticeship Instruction for Real-World Tasks -  The Coordination of Procedures, Mental Models, and Strategies.” . https://doi.org/10.3102/0091732X015001097

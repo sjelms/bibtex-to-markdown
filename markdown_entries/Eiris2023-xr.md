@@ -21,5 +21,5 @@ tags:
   - _XR-and-MR
 ---
 
-## Bibliography
-Eiris, Ricardo, Masoud Gheisari. 2023. “Applying 360-degree virtual reality for construction safety training.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-9/applying-360-degree-virtual-reality-construction-safety-training-ricardo-eiris-masoud-gheisari?context=ubx&refId=3363a1af-2681-4eac-9782-9959d63434b9
+> [!Bibliography]
+> Eiris, Ricardo, Masoud Gheisari. 2023. “Applying 360-degree virtual reality for construction safety training.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-9/applying-360-degree-virtual-reality-construction-safety-training-ricardo-eiris-masoud-gheisari?context=ubx&refId=3363a1af-2681-4eac-9782-9959d63434b9

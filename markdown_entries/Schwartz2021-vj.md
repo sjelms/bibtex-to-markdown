@@ -17,8 +17,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Schwartz, Jeff, Kraig Eaton, David Mallon, Yves Van Durme, Maren Hauptmann, Poynton, Shannon and Scoble-Williams, Nic. 2021. “The Worker-employer Relationship Disrupted -  if We're Not a Family, What Are We?.” "[[Deloitte]]". https://www2.deloitte.com/global/en/insights/focus/human-capital-trends/2021/the-evolving-employer-employee-relationship.html
+> [!Bibliography]
+> Schwartz, Jeff, Kraig Eaton, David Mallon, Yves Van Durme, Maren Hauptmann, Poynton, Shannon and Scoble-Williams, Nic. 2021. “The Worker-employer Relationship Disrupted -  if We're Not a Family, What Are We?.” "[[Deloitte]]". https://www2.deloitte.com/global/en/insights/focus/human-capital-trends/2021/the-evolving-employer-employee-relationship.html
 
 ## Abstract
 The pandemic strained and tested the worker-employer relationship beyond anyone’s anticipation. Going forward, thriving in an uncertain future depends on having a compelling vision for where that relationship should go.

@@ -15,5 +15,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Institute, McKinsey Global, J Woetzel, Mischke, J and Peloquin, S, D Weisfield. 2016. “A tool kit to close California’s housing gap -  3.5 million homes by 2025.”
+> [!Bibliography]
+> Institute, McKinsey Global, J Woetzel, Mischke, J and Peloquin, S, D Weisfield. 2016. “A tool kit to close California’s housing gap -  3.5 million homes by 2025.”

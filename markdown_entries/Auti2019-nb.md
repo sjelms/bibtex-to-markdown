@@ -15,8 +15,8 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Auti, Shubham D, Jalindar R Patil. 2019. “Prefabrication Technology - A Promising Alternative in Construction Industry.” . https://www.ijsr.net/get_abstract.php?paper_id=ART2020213
+> [!Bibliography]
+> Auti, Shubham D, Jalindar R Patil. 2019. “Prefabrication Technology - A Promising Alternative in Construction Industry.” . https://www.ijsr.net/get_abstract.php?paper_id=ART2020213
 
 ## Abstract
 The construction industry is growing exponentially day by day and it makes a remarkable contribution in escalating the pace of development of the nati

@@ -16,5 +16,5 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-## Bibliography
-Lajoie, Susanne P. 2005. “Extending the Scaffolding Metaphor.” . http://dx.doi.org/10.1007/s11251-005-1279-2
+> [!Bibliography]
+> Lajoie, Susanne P. 2005. “Extending the Scaffolding Metaphor.” . http://dx.doi.org/10.1007/s11251-005-1279-2

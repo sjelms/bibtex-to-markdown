@@ -13,5 +13,5 @@ tags:
   - YouTube
 ---
 
-## Bibliography
-Redshift. 2019. “The History of Prefabrication, From Roman Forts to Modern Modular Housing.” "[[Redshift Video]]". https://redshift.autodesk.com/history-of-prefabrication/
+> [!Bibliography]
+> Redshift. 2019. “The History of Prefabrication, From Roman Forts to Modern Modular Housing.” "[[Redshift Video]]". https://redshift.autodesk.com/history-of-prefabrication/

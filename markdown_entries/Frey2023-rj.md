@@ -18,5 +18,5 @@ tags:
   - Economics
 ---
 
-## Bibliography
-Frey, Carl Benedikt, Michael Osborne. 2023. “Generative AI and the Future of Work -  A Reappraisal.” "[[Brown University]]". https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae
+> [!Bibliography]
+> Frey, Carl Benedikt, Michael Osborne. 2023. “Generative AI and the Future of Work -  A Reappraisal.” "[[Brown University]]". https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae

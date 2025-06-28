@@ -16,5 +16,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Gott, S P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks.”
+> [!Bibliography]
+> Gott, S P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks.”

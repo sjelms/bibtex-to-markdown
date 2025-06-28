@@ -18,5 +18,5 @@ tags:
   - VET
 ---
 
-## Bibliography
-Abdel-Wahab, Mohamed. 2012. “Rethinking Apprenticeship Training in the British Construction Industry.” . https://doi.org/10.1080/13636820.2011.622450
+> [!Bibliography]
+> Abdel-Wahab, Mohamed. 2012. “Rethinking Apprenticeship Training in the British Construction Industry.” . https://doi.org/10.1080/13636820.2011.622450

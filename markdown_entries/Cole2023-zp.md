@@ -17,5 +17,5 @@ tags:
   - Labor
 ---
 
-## Bibliography
-Cole, Steve, James Broun. 2023. “Modular Labour Report 2023.” . https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis
+> [!Bibliography]
+> Cole, Steve, James Broun. 2023. “Modular Labour Report 2023.” . https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis

@@ -14,5 +14,5 @@ tags:
   - Audiobook
 ---
 
-## Bibliography
-Cottam, Hilary. 2025. “The Work We Need -  A 21st Century Imagining.” "[[Virago Press]]"
+> [!Bibliography]
+> Cottam, Hilary. 2025. “The Work We Need -  A 21st Century Imagining.” "[[Virago Press]]"

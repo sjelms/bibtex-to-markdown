@@ -13,8 +13,8 @@ tags:
   - VET
 ---
 
-## Bibliography
-Hon, Carol, Buser Say, Kourosh Khoshelham. 2021. “\#12 VR/AR technologies in vocational education and training (scoping study).” 
+> [!Bibliography]
+> Hon, Carol, Buser Say, Kourosh Khoshelham. 2021. “\#12 VR/AR technologies in vocational education and training (scoping study).” 
 
 ## Abstract
 This scoping study will help to define desirable extended reality technologies for design and development/evaluation of appropriate skill training platforms in building construction.

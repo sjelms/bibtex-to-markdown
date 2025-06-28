@@ -12,8 +12,8 @@ tags:
   - Workplace-Learning
 ---
 
-## Bibliography
-Solman, P. 2021. “The manufacturing sector needs workers. Training high schoolers could help fill that void.” "[[PBS]]". https://www.pbs.org/newshour/show/the-manufacturing-sector-needs-workers-training-high-schoolers-could-help-fill-that-void
+> [!Bibliography]
+> Solman, P. 2021. “The manufacturing sector needs workers. Training high schoolers could help fill that void.” "[[PBS]]". https://www.pbs.org/newshour/show/the-manufacturing-sector-needs-workers-training-high-schoolers-could-help-fill-that-void
 
 ## Abstract
 Even as the U.S. labor picture improves, the manufacturing sector is still struggling with a shortage of workers and raw materials. An analysis by Deloitte found that over two million manufacturing jobs will be unfilled through 2030. Economic correspondent Paul Solman looks at a program that's preparing inner city high school students for high-skill, high-paying factory jobs.

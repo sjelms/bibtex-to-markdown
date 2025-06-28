@@ -12,5 +12,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Ledewitz, Stefani. 1985. “Models of Design in Studio Teaching.” . http://dx.doi.org/10.1080/10464883.1985.10758354
+> [!Bibliography]
+> Ledewitz, Stefani. 1985. “Models of Design in Studio Teaching.” . http://dx.doi.org/10.1080/10464883.1985.10758354

@@ -11,5 +11,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Smith, Ryan E. 2010. “Prefab Architecture A Guide to Modular Design and Construction.” "[[Wiley \and Sons, Incorporated, John]]". https://openlibrary.org/books/OL29056327M.opds
+> [!Bibliography]
+> Smith, Ryan E. 2010. “Prefab Architecture A Guide to Modular Design and Construction.” "[[Wiley \and Sons, Incorporated, John]]". https://openlibrary.org/books/OL29056327M.opds

@@ -22,5 +22,5 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-## Bibliography
-Guile, David, Lorna Unwin. 2019. “Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry.” "[[John Wiley \and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch1
+> [!Bibliography]
+> Guile, David, Lorna Unwin. 2019. “Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry.” "[[John Wiley \and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch1

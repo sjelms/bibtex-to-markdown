@@ -14,5 +14,5 @@ tags:
   - Audiobook
 ---
 
-## Bibliography
-Maddow, Rachel. 2020. “Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth.” "[[Vintage Digital]]"
+> [!Bibliography]
+> Maddow, Rachel. 2020. “Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth.” "[[Vintage Digital]]"

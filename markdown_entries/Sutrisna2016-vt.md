@@ -17,8 +17,8 @@ tags:
   - _In-ClickUp
 ---
 
-## Bibliography
-Sutrisna, M, W Setiawan. 2016. “The Application of Grounded Theory Methodology in Built Environment Research.” . https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae
+> [!Bibliography]
+> Sutrisna, M, W Setiawan. 2016. “The Application of Grounded Theory Methodology in Built Environment Research.” . https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae
 
 ## Abstract
 Semantic Scholar extracted view of ``The application of grounded theory methodology in built environment research'' by M. Sutrisna et al.

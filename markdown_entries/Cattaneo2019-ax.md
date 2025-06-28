@@ -24,5 +24,5 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Cattaneo, Alberto A P, Hans van der Meij, Aprea, Carmela and Sauli, Florinda, Carmen Zahn. 2019. “A Model for Designing Hypervideo-based Instructional Scenarios.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10494820.2018.1486860
+> [!Bibliography]
+> Cattaneo, Alberto A P, Hans van der Meij, Aprea, Carmela and Sauli, Florinda, Carmen Zahn. 2019. “A Model for Designing Hypervideo-based Instructional Scenarios.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10494820.2018.1486860

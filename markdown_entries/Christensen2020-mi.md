@@ -10,8 +10,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Christensen, Clayton M. 2020. “Disruption 2020 -  An Interview With Clayton M. Christensen.” . https://www.proquest.com/scholarly-journals/disruption-2020-interview-with-clayton-m/docview/2381632425/se-2?accountid=14511
+> [!Bibliography]
+> Christensen, Clayton M. 2020. “Disruption 2020 -  An Interview With Clayton M. Christensen.” . https://www.proquest.com/scholarly-journals/disruption-2020-interview-with-clayton-m/docview/2381632425/se-2?accountid=14511
 
 ## Abstract
 With technology and capital rapidly increasing the pace of innovation, Christensen's thinking is more relevant today than ever. What do we know now about the power of disruption and where it's taking us?

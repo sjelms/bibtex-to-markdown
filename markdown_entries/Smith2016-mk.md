@@ -16,5 +16,5 @@ tags:
   - Website
 ---
 
-## Bibliography
-Smith, Ryan E. 2016. “Off-Site and Modular Construction Explained.” "[[National Institute of Building Sciences]]"
+> [!Bibliography]
+> Smith, Ryan E. 2016. “Off-Site and Modular Construction Explained.” "[[National Institute of Building Sciences]]"

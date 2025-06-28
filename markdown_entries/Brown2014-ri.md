@@ -17,8 +17,8 @@ tags:
   - Audiobook
 ---
 
-## Bibliography
-Brown, Peter C, Roediger, III, Henry L, Mark A McDaniel. 2014. “Make it stick -  The science of successful learning.” "[[Harvard University Press]]"
+> [!Bibliography]
+> Brown, Peter C, Roediger, III, Henry L, Mark A McDaniel. 2014. “Make it stick -  The science of successful learning.” "[[Harvard University Press]]"
 
 ## Abstract
 Discusses the best methods of learning, describing how rereading and rote repetition are counterproductive and how such techniques as self-testing, spaced retrieval, and finding additional layers of information in new material can enhance learning.

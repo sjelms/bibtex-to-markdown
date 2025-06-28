@@ -17,5 +17,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Smith, Stanley G, Bruce Arne Sherwood. 1976. “Educational Uses of the PLATO Computer System.” . http://www.jstor.org/stable/1742096
+> [!Bibliography]
+> Smith, Stanley G, Bruce Arne Sherwood. 1976. “Educational Uses of the PLATO Computer System.” . http://www.jstor.org/stable/1742096

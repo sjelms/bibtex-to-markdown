@@ -21,5 +21,5 @@ tags:
   - _New-Literature
 ---
 
-## Bibliography
-Sherratt, Fred, Chris Ivory, Simon Sherratt. 2023. “The digitalization of UK construction labour.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-25/digitalization-uk-construction-labour-fred-sherratt-chris-ivory-simon-sherratt?context=ubx&refId=b8360279-864a-46db-96e4-15be5e87fe21
+> [!Bibliography]
+> Sherratt, Fred, Chris Ivory, Simon Sherratt. 2023. “The digitalization of UK construction labour.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-25/digitalization-uk-construction-labour-fred-sherratt-chris-ivory-simon-sherratt?context=ubx&refId=b8360279-864a-46db-96e4-15be5e87fe21

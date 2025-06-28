@@ -14,5 +14,5 @@ tags:
   - Report
 ---
 
-## Bibliography
-User, HUD. 2022. “Operation breakthrough -  Striving through struggles for success by teaming.”
+> [!Bibliography]
+> User, HUD. 2022. “Operation breakthrough -  Striving through struggles for success by teaming.”

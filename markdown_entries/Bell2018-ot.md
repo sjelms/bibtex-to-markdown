@@ -21,5 +21,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Bell, Richard, Barry Cooper, Judith Glaesser, Jane Martin, Stewart Martin, Carmel O'Sullivan, Harsh Suri. 2018. “Research Methods in Education.” "[[Routledge]]"
+> [!Bibliography]
+> Bell, Richard, Barry Cooper, Judith Glaesser, Jane Martin, Stewart Martin, Carmel O'Sullivan, Harsh Suri. 2018. “Research Methods in Education.” "[[Routledge]]"

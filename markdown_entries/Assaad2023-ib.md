@@ -19,5 +19,5 @@ tags:
   - Important
 ---
 
-## Bibliography
-Assaad, Rayan H, Islam H El-adaway, Hastak, Makarand and LaScola Needy, Kim. 2023. “Opportunities and Challenges of Offsite Construction.” "[[Springer Nature Singapore]]". http://dx.doi.org/10.1007/978-981-19-1029-6_42
+> [!Bibliography]
+> Assaad, Rayan H, Islam H El-adaway, Hastak, Makarand and LaScola Needy, Kim. 2023. “Opportunities and Challenges of Offsite Construction.” "[[Springer Nature Singapore]]". http://dx.doi.org/10.1007/978-981-19-1029-6_42

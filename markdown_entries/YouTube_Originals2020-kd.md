@@ -11,5 +11,5 @@ tags:
   - YouTube
 ---
 
-## Bibliography
-Originals, YouTube. 2020. “Will a robot take my job? | The Age of A.I. S1 • E6.” . https://youtu.be/f2aocKWrPG8
+> [!Bibliography]
+> Originals, YouTube. 2020. “Will a robot take my job? | The Age of A.I. S1 • E6.” . https://youtu.be/f2aocKWrPG8

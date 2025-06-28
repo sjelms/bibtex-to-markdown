@@ -23,5 +23,5 @@ tags:
   - _XR-and-MR
 ---
 
-## Bibliography
-Trinh, Minh Tri, Peng Zhang, Matt Stevens, Yingbin Feng. 2023. “Delivering construction safety training and education using immersive learning technology.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-10/delivering-construction-safety-training-education-using-immersive-learning-technology-minh-tri-trinh-peng-zhang-matt-stevens-yingbin-feng?context=ubx&refId=46eb560f-29b9-477e-9d44-5d690f964024
+> [!Bibliography]
+> Trinh, Minh Tri, Peng Zhang, Matt Stevens, Yingbin Feng. 2023. “Delivering construction safety training and education using immersive learning technology.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-10/delivering-construction-safety-training-education-using-immersive-learning-technology-minh-tri-trinh-peng-zhang-matt-stevens-yingbin-feng?context=ubx&refId=46eb560f-29b9-477e-9d44-5d690f964024

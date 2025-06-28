@@ -19,8 +19,8 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Vogel-Heuser, Birgit, Dieter Hess. 2016. “Guest Editorial Industry 4.0–Prerequisites and Visions.” . http://dx.doi.org/10.1109/TASE.2016.2523639
+> [!Bibliography]
+> Vogel-Heuser, Birgit, Dieter Hess. 2016. “Guest Editorial Industry 4.0–Prerequisites and Visions.” . http://dx.doi.org/10.1109/TASE.2016.2523639
 
 ## Abstract
 The papers in this special section focus on the concept of Industry 4.0. From its origin, Industry 4.0–derived from the German term Industrie 4.0–is used as a synonym for Cyber-Physical Production Systems (CPPS), i.e., Cyber-Physical Systems applied in the domain of manufacturing/production. To enable CPPS their automation systems need to be enabled to fulfill the requirements. The term Industrie 4.0 was first used in 2011 at the Hannover Fair and the topic has grown every year not only on the fair. There are still several definitions of Industrie 4.0 (I4.0).

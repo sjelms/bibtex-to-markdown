@@ -21,5 +21,5 @@ tags:
   - _In-ClickUp
 ---
 
-## Bibliography
-Jones, K, L Mosca, J Whyte, A Davies, J Glass. 2021. “The Role of Industry – University Collaboration in Construction.” "[[Transforming Construction Network Plus, Digest Series]]". https://www.ucl.ac.uk/bartlett/construction/sites/bartlett/files/digest-the-role-of-industry-university-collaboration-in-the-transformation-of-construction.pdf
+> [!Bibliography]
+> Jones, K, L Mosca, J Whyte, A Davies, J Glass. 2021. “The Role of Industry – University Collaboration in Construction.” "[[Transforming Construction Network Plus, Digest Series]]". https://www.ucl.ac.uk/bartlett/construction/sites/bartlett/files/digest-the-role-of-industry-university-collaboration-in-the-transformation-of-construction.pdf

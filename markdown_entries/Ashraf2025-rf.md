@@ -13,5 +13,5 @@ tags:
   - Essential
 ---
 
-## Bibliography
-Ashraf, Nava, Oriana Bandiera, Minni, Virginia and Zingales, Luigi. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843
+> [!Bibliography]
+> Ashraf, Nava, Oriana Bandiera, Minni, Virginia and Zingales, Luigi. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843

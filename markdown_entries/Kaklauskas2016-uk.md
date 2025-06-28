@@ -16,5 +16,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Kaklauskas, Artūras, Renaldas Gudauskas. 2016. “Intelligent decision-support systems and the Internet of Things for the smart built environment.” . http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0
+> [!Bibliography]
+> Kaklauskas, Artūras, Renaldas Gudauskas. 2016. “Intelligent decision-support systems and the Internet of Things for the smart built environment.” . http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0

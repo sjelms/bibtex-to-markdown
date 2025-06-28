@@ -17,5 +17,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Roll, Ido, Danielle McNamara, Sosnovsky, Sergey and Luckin, Rose, Vania Dimitrova. 2021. “Artificial Intelligence in Education.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-78292-4
+> [!Bibliography]
+> Roll, Ido, Danielle McNamara, Sosnovsky, Sergey and Luckin, Rose, Vania Dimitrova. 2021. “Artificial Intelligence in Education.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-78292-4

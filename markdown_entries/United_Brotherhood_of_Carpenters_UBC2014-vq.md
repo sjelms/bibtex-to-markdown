@@ -14,8 +14,8 @@ tags:
   - Training
 ---
 
-## Bibliography
-(UBC), United Brotherhood of Carpenters. 2014. “Math for the Trades.” "[[Keystone Mountain Lakes Carpenters Training Fund]]"
+> [!Bibliography]
+> (UBC), United Brotherhood of Carpenters. 2014. “Math for the Trades.” "[[Keystone Mountain Lakes Carpenters Training Fund]]"
 
 ## Abstract
 Carpenters must have a

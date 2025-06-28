@@ -21,5 +21,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-H., Han Seung, Park Sang H., Jin Eui J., Kim Hyoungkwan, Seong Yeon K.. 2008. “Critical Issues and Possible Solutions for Motivating Foreign Construction Workers.” "[[American Society of Civil Engineers]]". https://doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)
+> [!Bibliography]
+> H., Han Seung, Park Sang H., Jin Eui J., Kim Hyoungkwan, Seong Yeon K.. 2008. “Critical Issues and Possible Solutions for Motivating Foreign Construction Workers.” "[[American Society of Civil Engineers]]". https://doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)

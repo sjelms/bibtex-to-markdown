@@ -11,5 +11,5 @@ tags:
   - Economics
 ---
 
-## Bibliography
-Pursell, Carroll. 2007. “The Machine in America -  A Social History of Technology.” "[[Johns Hopkins University Press]]"
+> [!Bibliography]
+> Pursell, Carroll. 2007. “The Machine in America -  A Social History of Technology.” "[[Johns Hopkins University Press]]"

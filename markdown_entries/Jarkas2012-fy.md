@@ -14,5 +14,5 @@ tags:
   - AEC
 ---
 
-## Bibliography
-Jarkas, Abdulaziz M, Camille G Bitar. 2012. “Factors Affecting Construction Labor Productivity in Kuwait.” . http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501
+> [!Bibliography]
+> Jarkas, Abdulaziz M, Camille G Bitar. 2012. “Factors Affecting Construction Labor Productivity in Kuwait.” . http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501

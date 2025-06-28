@@ -11,5 +11,5 @@ tags:
   - Workplace-Learning
 ---
 
-## Bibliography
-(Ofqual), Office of Qualifications and Examinations Regulation. 2014. “What qualification levels mean.” . https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels
+> [!Bibliography]
+> (Ofqual), Office of Qualifications and Examinations Regulation. 2014. “What qualification levels mean.” . https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels

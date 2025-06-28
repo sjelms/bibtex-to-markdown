@@ -11,8 +11,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-contributors, Wikipedia. 2022. “SECI model of knowledge dimensions.” 
+> [!Bibliography]
+> contributors, Wikipedia. 2022. “SECI model of knowledge dimensions.” 
 
 ## Abstract
 The SECI model of knowledge dimensions (or the Nonaka-Takeuchi model) is a model of knowledge creation that explains how tacit and explicit knowledge are converted into organizational knowledge.

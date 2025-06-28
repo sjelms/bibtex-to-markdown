@@ -24,5 +24,5 @@ tags:
   - Training
 ---
 
-## Bibliography
-Assaad, Rayan H, Islam H El-adaway, Hastak, Makarand and LaScola Needy, Kim. 2022. “The Impact of Offsite Construction on the Workforce -  Required Skillset and Prioritization of Training Needs.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314
+> [!Bibliography]
+> Assaad, Rayan H, Islam H El-adaway, Hastak, Makarand and LaScola Needy, Kim. 2022. “The Impact of Offsite Construction on the Workforce -  Required Skillset and Prioritization of Training Needs.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314

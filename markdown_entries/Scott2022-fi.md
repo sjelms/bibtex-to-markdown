@@ -14,8 +14,8 @@ tags:
   - _Cataloged
 ---
 
-## Bibliography
-Scott, Tom. 2022. “A working flight simulator, no computers necessary.” "[[Pad 26 Limited]]". https://youtu.be/RJAYZgOZS08
+> [!Bibliography]
+> Scott, Tom. 2022. “A working flight simulator, no computers necessary.” "[[Pad 26 Limited]]". https://youtu.be/RJAYZgOZS08
 
 ## Abstract
 There are only a few working Link Trainers left in the world -  but before microprocessors, before display screnes, half a million pilots learned the basics of...

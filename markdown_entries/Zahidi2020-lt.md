@@ -19,5 +19,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-## Bibliography
-Zahidi, S, V Ratcheva, G Hingel, S Brown. 2020. “The Future of Jobs Report 2020.” "[[World Economic Forum]]"
+> [!Bibliography]
+> Zahidi, S, V Ratcheva, G Hingel, S Brown. 2020. “The Future of Jobs Report 2020.” "[[World Economic Forum]]"

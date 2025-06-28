@@ -11,5 +11,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-## Bibliography
-Union, Council of the European. 2016. “Upskilling Pathways -  New Opportunities for Adults.”
+> [!Bibliography]
+> Union, Council of the European. 2016. “Upskilling Pathways -  New Opportunities for Adults.”

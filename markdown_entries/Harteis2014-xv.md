@@ -14,5 +14,5 @@ tags:
   - ePub
 ---
 
-## Bibliography
-Harteis, C, A Rausch, J Seifried. 2014. “Discourses on Professional Learning -  On the Boundary Between Learning and Working.” "[[Springer Netherlands]]". https://books.google.co.uk/books?id=nQ7vAwAAQBAJ
+> [!Bibliography]
+> Harteis, C, A Rausch, J Seifried. 2014. “Discourses on Professional Learning -  On the Boundary Between Learning and Working.” "[[Springer Netherlands]]". https://books.google.co.uk/books?id=nQ7vAwAAQBAJ
