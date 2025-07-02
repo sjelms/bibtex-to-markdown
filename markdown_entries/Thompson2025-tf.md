@@ -7,6 +7,8 @@ publisher: "[[Emerald Group Publishing]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - ePub
+  - AEC
 ---
 
 > [!Bibliography]
