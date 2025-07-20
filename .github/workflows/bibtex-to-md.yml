@@ -1,10 +1,11 @@
 name: Convert BibTeX to Markdown
 
-on:
-  push:
-    paths:
-      - "main.bib"  # Runs only when the BibTeX file is updated
-  workflow_dispatch:  # Allows manual trigger
+# Workflow disabled - uncomment the 'on:' section below to re-enable
+# on:
+#   push:
+#     paths:
+#       - "main.bib"  # Runs only when the BibTeX file is updated
+#   workflow_dispatch:  # Allows manual trigger
 
 jobs:
   convert:
