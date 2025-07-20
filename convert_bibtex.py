@@ -124,7 +124,7 @@ for entry in bib_database.entries:
     for i, author in enumerate(formatted_authors, start=1):
         yaml_lines.append(f'author - {i}: "{author}"')
 
-    yaml_lines.append(f'key: "[[{key}]]"')
+    yaml_lines.append(f'key: "[[@{key}]]"')
 
     if institution:
         yaml_lines.append(f"institution: {institution}")
