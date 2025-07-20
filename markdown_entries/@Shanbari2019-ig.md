@@ -3,7 +3,7 @@ title: Use of Video Games to Enhance Construction Management Education
 year: 2019
 author - 1: "[[Hamzah Shanbari]]"
 author - 2: "[[Raja R A Issa]]"
-key: "[[Shanbari2019-ig]]"
+key: "[[@Shanbari2019-ig]]"
 journal: "[[International Journal of Construction Management]]"
 tags:
   - My-Library

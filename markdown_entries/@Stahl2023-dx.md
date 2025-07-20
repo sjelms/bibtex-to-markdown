@@ -2,7 +2,7 @@
 title: Can 3D-Printed Homes Withstand a Changing Climate?
 year: 2023
 author - 1: "[[Lesley Stahl]]"
-key: "[[Stahl2023-dx]]"
+key: "[[@Stahl2023-dx]]"
 publisher: "[[CBS Broadcasting Inc.]]"
 tags:
   - 60-Minutes
