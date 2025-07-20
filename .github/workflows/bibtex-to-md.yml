@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - "main.bib"  # Runs only when the BibTeX file is updated
-  workflow_dispatch:  Allows manual trigger
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   convert:
