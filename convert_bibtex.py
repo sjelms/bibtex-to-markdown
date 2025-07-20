@@ -147,7 +147,7 @@ for entry in bib_database.entries:
         markdown_content += f"\n\n## Abstract\n{abstract}"
 
     # Save the Markdown file
-    md_filename = os.path.join(OUTPUT_DIR, f"{key}.md")
+    md_filename = os.path.join(OUTPUT_DIR, f"@{key}.md")
     with open(md_filename, "w", encoding="utf-8") as md_file:
         md_file.write(markdown_content.strip())
 
