@@ -6,7 +6,7 @@ author - 2: "[[Ivan Rupnik]]"
 author - 3: "[[Kyle Barry]]"
 author - 4: "[[Tyler Schmetterer]]"
 author - 5: "[[US Department of Housing and Urban Development]]"
-key: "[[Smith2023-fp]]"
+key: "[[@Smith2023-fp]]"
 institution: "[[U.S. Department of Housing and Urban Development]]"
 tags:
   - Construction-4
