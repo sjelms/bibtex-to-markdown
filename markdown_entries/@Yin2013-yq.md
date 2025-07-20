@@ -2,7 +2,7 @@
 title: Case Study Research -  Design and Methods
 year: 2013
 author - 1: "[[Robert K Yin]]"
-key: "[[Yin2013-yq]]"
+key: "[[@Yin2013-yq]]"
 publisher: "[[SAGE Publications]]"
 tags:
   - Rapid-Qualitative-Research

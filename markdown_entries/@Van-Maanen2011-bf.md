@@ -2,7 +2,7 @@
 title: Tales of the Field -  On Writing Ethnography
 year: 2011
 author - 1: "[[John Van Maanen]]"
-key: "[[Van-Maanen2011-bf]]"
+key: "[[@Van-Maanen2011-bf]]"
 publisher: "[[University of Chicago Press]]"
 tags:
   - EPubs-Books

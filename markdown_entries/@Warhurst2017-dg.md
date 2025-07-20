@@ -5,7 +5,7 @@ author - 1: "[[Chris Warhurst]]"
 author - 2: "[[Ken Mayhew]]"
 author - 3: "[[David Finegold]]"
 author - 4: "[[John Buchanan]]"
-key: "[[Warhurst2017-dg]]"
+key: "[[@Warhurst2017-dg]]"
 publisher: "[[Oxford University Press]]"
 tags:
   - Oxford-Handbook-of-Skills-and-Training

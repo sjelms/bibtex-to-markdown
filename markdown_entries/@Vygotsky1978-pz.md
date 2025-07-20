@@ -2,7 +2,7 @@
 title: Mind in Society -  Development of Higher Psychological Processes
 year: 1978
 author - 1: "[[L S Vygotsky]]"
-key: "[[Vygotsky1978-pz]]"
+key: "[[@Vygotsky1978-pz]]"
 publisher: "[[Harvard University Press]]"
 tags:
   - Theory-and-Methodology-in-Social-and-Educational-Research

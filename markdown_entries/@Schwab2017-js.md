@@ -2,7 +2,7 @@
 title: The Fourth Industrial Revolution
 year: 2017
 author - 1: "[[Klaus Schwab]]"
-key: "[[Schwab2017-js]]"
+key: "[[@Schwab2017-js]]"
 publisher: "[[Adfo Books]]"
 tags:
   - Zotero-Import-Feb-22

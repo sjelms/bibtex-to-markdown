@@ -2,7 +2,7 @@
 title: Conceptualizing Vocational Knowledge -  Some Theoretical Considerations
 year: 2004
 author - 1: "[[Michael Young]]"
-key: "[[Young2004-fs]]"
+key: "[[@Young2004-fs]]"
 publisher: "[[Routledge]]"
 tags:
   - Workplace-Learning-in-Context

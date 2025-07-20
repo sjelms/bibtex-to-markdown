@@ -3,7 +3,7 @@ title: The Future of the Professions -  How Technology Will Transform the Work o
 year: 2022
 author - 1: "[[Richard Susskind]]"
 author - 2: "[[Daniel Susskind]]"
-key: "[[Susskind2022-wh]]"
+key: "[[@Susskind2022-wh]]"
 publisher: "[[Oxford University Press]]"
 tags:
   - Future-of-Work

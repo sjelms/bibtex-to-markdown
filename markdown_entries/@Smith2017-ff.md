@@ -4,7 +4,7 @@ year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Jonathan W Elliott]]"
 author - 3: "[[Kevin Grosskopf]]"
-key: "[[Smith2017-ff]]"
+key: "[[@Smith2017-ff]]"
 publisher: "[[Routledge]]"
 tags:
   - Offsite-Architecture---Constructing-the-Future
