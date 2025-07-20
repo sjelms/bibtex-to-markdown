@@ -1,6 +1,7 @@
 name: Convert BibTeX to Markdown
 
-
+# Workflow to convert BibTeX entries to Markdown files
+# Triggered on push to main.bib or manually via workflow_dispatch
 on:
   push:
     paths:
