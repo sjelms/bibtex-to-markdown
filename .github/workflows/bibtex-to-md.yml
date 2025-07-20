@@ -1,11 +1,11 @@
 name: Convert BibTeX to Markdown
 
-# Workflow disabled - uncomment the 'on:' section below to re-enable
-# on:
-#   push:
-#     paths:
-#       - "main.bib"  # Runs only when the BibTeX file is updated
-#   workflow_dispatch:  # Allows manual trigger
+
+on:
+  push:
+    paths:
+      - "main.bib"  # Runs only when the BibTeX file is updated
+  workflow_dispatch:  Allows manual trigger
 
 jobs:
   convert:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Disable default token
+          persist-credentials: false  Disable default token
 
       - name: Set up Python
         uses: actions/setup-python@v3
