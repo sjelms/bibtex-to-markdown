@@ -3,11 +3,12 @@ title: The Next Normal in Construction -  How Disruption is Reshaping the World�
 year: 2020
 author - 1: "[[Maria João Ribeirinho]]"
 author - 2: "[[Jan Mischke]]"
-author - 3: "[[Strube, Gernot and Sjödin, Erik]]"
-author - 4: "[[Jonas Biörck]]"
-author - 5: "[[Timmy Anderson]]"
-author - 6: "[[Jose Luis Blanco]]"
-author - 7: "[[Rob Palter]]"
+author - 3: "[[Gernot Strube]]"
+author - 4: "[[Erik Sjödin]]"
+author - 5: "[[Jonas Biörck]]"
+author - 6: "[[Timmy Anderson]]"
+author - 7: "[[Jose Luis Blanco]]"
+author - 8: "[[Rob Palter]]"
 key: "[[@Ribeirinho2020-mq]]"
 institution: "[[McKinsey \and Company]]"
 publisher: "[[McKinsey Insights]]"
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Ribeirinho, Maria João, Jan Mischke, Strube, Gernot and Sjödin, Erik, Jonas Biörck, Timmy Anderson, Jose Luis Blanco, Rob Palter. 2020. “The Next Normal in Construction -  How Disruption is Reshaping the World’s Largest Ecosystem.” "[[McKinsey Insights]]"
+> Ribeirinho, Maria João, Jan Mischke, Gernot Strube, Erik Sjödin, Jonas Biörck, Timmy Anderson, Jose Luis Blanco, Rob Palter. 2020. “The Next Normal in Construction -  How Disruption is Reshaping the World’s Largest Ecosystem.” "[[McKinsey Insights]]"

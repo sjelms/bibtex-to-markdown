@@ -3,7 +3,8 @@ title: Meaning At Work
 year: 2025
 author - 1: "[[Nava Ashraf]]"
 author - 2: "[[Oriana Bandiera]]"
-author - 3: "[[Minni, Virginia and Zingales, Luigi]]"
+author - 3: "[[Virginia Minni]]"
+author - 4: "[[Luigi Zingales]]"
 key: "[[@Ashraf2025-rf]]"
 publisher: "[[National Bureau of Economic Research]]"
 tags:
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Ashraf, Nava, Oriana Bandiera, Minni, Virginia and Zingales, Luigi. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843
+> Ashraf, Nava, Oriana Bandiera, Virginia Minni, Luigi Zingales. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843

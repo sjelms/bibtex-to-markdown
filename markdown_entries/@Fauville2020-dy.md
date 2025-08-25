@@ -2,7 +2,8 @@
 title: Virtual Reality as a Promising Tool to Promote Climate Change Awareness
 year: 2020
 author - 1: "[[Géraldine Fauville]]"
-author - 2: "[[Queiroz, Anna Carolina Muller and Bailenson, Jeremy N]]"
+author - 2: "[[Anna Carolina Muller Queiroz]]"
+author - 3: "[[Jeremy N Bailenson]]"
 key: "[[@Fauville2020-dy]]"
 publisher: "[[Elsevier]]"
 tags:
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Fauville, Géraldine, Queiroz, Anna Carolina Muller and Bailenson, Jeremy N. 2020. “Virtual Reality as a Promising Tool to Promote Climate Change Awareness.” "[[Elsevier]]". http://dx.doi.org/10.1016/b978-0-12-816958-2.00005-8
+> Fauville, Géraldine, Anna Carolina Muller Queiroz, Jeremy N Bailenson. 2020. “Virtual Reality as a Promising Tool to Promote Climate Change Awareness.” "[[Elsevier]]". http://dx.doi.org/10.1016/b978-0-12-816958-2.00005-8

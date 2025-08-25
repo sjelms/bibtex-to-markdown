@@ -7,6 +7,7 @@ author - 3: "[[Mark Griffiths]]"
 author - 4: "[[Laurie Corcier]]"
 author - 5: "[[UCL Knowledge Lab]]"
 author - 6: "[[Pearson (Firm)]]"
+author - 7: "[[University College London]]"
 key: "[[@Luckin2016-lp]]"
 publisher: "[[Pearson]]"
 tags:
@@ -18,4 +19,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Luckin, Rose, Wayne Holmes, Mark Griffiths, Laurie Corcier, UCL Knowledge Lab, Pearson (Firm). 2016. “Intelligence Unleashed.” "[[Pearson]]"
+> Luckin, Rose, Wayne Holmes, Mark Griffiths, Laurie Corcier, UCL Knowledge Lab, Pearson (Firm), University College London. 2016. “Intelligence Unleashed.” "[[Pearson]]"

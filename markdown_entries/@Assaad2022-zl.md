@@ -3,8 +3,9 @@ title: The Impact of Offsite Construction on the Workforce -  Required Skillset 
 year: 2022
 author - 1: "[[Rayan H Assaad]]"
 author - 2: "[[Islam H El-adaway]]"
-author - 3: "[[Hastak, Makarand and LaScola Needy, Kim]]"
-key: "[[Assaad2022-zl@]]"
+author - 3: "[[Makarand Hastak]]"
+author - 4: "[[Kim LaScola Needy]]"
+key: "[[@Assaad2022-zl]]"
 journal: "[[Journal of construction engineering and management]]"
 publisher: "[[American Society of Civil Engineers (ASCE)]]"
 tags:
@@ -25,4 +26,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Assaad, Rayan H, Islam H El-adaway, Hastak, Makarand and LaScola Needy, Kim. 2022. “The Impact of Offsite Construction on the Workforce -  Required Skillset and Prioritization of Training Needs.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314
+> Assaad, Rayan H, Islam H El-adaway, Makarand Hastak, Kim LaScola Needy. 2022. “The Impact of Offsite Construction on the Workforce -  Required Skillset and Prioritization of Training Needs.” "[[American Society of Civil Engineers (ASCE)]]". http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314
