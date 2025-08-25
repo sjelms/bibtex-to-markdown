@@ -3,7 +3,7 @@ title: Transforming Construction -  the Multi-scale Challenges of Changing and I
 year: 2022
 author - 1: "[[Jacqueline Glass]]"
 author - 2: "[[Lena E Bygballe]]"
-author - 3: "[[Daniel Hall]]"
+author - 3: "[[Daniel M Hall]]"
 key: "[[@Glass2022-ms]]"
 journal: "[[Construction Management and Economics]]"
 publisher: "[[Routledge]]"
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Glass, Jacqueline, Lena E Bygballe, Daniel Hall. 2022. “Transforming Construction -  the Multi-scale Challenges of Changing and Innovating in Construction.” "[[Routledge]]". https://doi.org/10.1080/01446193.2022.2141432
+> Glass, Jacqueline, Lena E Bygballe, Daniel M Hall. 2022. “Transforming Construction -  the Multi-scale Challenges of Changing and Innovating in Construction.” "[[Routledge]]". http://dx.doi.org/10.1080/01446193.2022.2141432
