@@ -8,7 +8,7 @@ key: "[[@Brucker_Juricic2021-ba]]"
 journal: "[[Buildings]]"
 publisher: "[[MDPI AG]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui

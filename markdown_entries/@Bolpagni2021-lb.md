@@ -7,7 +7,7 @@ author - 3: "[[Diogo Ribeiro]]"
 key: "[[@Bolpagni2021-lb]]"
 publisher: "[[Springer International Publishing]]"
 tags:
-  - Industry-4-for-the-Built-Environment
+  - Industry-4-0-for-the-Built-Environment
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

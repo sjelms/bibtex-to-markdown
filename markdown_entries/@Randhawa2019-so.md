@@ -10,7 +10,7 @@ tags:
   - My-Library
   - 2021-12-03-Frontiers
   - EPubs-Books
-  - Healthcare-CME
+  - Healthcare-and-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Workplace-Learning

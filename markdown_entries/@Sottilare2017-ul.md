@@ -10,10 +10,10 @@ journal: "[[The Journal of Defense Modeling and Simulation]]"
 publisher: "[[SAGE Publications]]"
 tags:
   - Frontiers-2022
-  - Healthcare-CME
+  - Healthcare-and-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - Cited-for-Frontiers
 ---
 

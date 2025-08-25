@@ -14,7 +14,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Intelligent-Tutoring-Systems-ITS
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _Mark-Up
   - Cited-for-Frontiers
 ---

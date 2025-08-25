@@ -13,7 +13,7 @@ tags:
   - PESTEL-framework
   - Research-agenda
   - Construction-industry
-  - Construction-4
+  - Construction-4-0
   - Notion-Catalogued
   - 2_Upgrade-MAY-2023
   - 00_TO-READ

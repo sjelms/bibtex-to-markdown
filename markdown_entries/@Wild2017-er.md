@@ -12,7 +12,7 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - _Mark-Up
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _Cataloged
 ---
 

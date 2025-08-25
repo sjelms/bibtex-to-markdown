@@ -7,7 +7,7 @@ author - 3: "[[Chris Goodier]]"
 key: "[[@Lang2016-it]]"
 publisher: "[[Association of Researchers in Construction Management (ARCOM)]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC

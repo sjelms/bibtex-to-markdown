@@ -9,7 +9,7 @@ author - 5: "[[Daniel L Schwartz]]"
 key: "[[@Mylopoulos2016-cz]]"
 journal: "[[Medical education]]"
 tags:
-  - Healthcare-CME
+  - Healthcare-and-CME
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git

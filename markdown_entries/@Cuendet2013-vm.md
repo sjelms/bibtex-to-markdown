@@ -11,7 +11,7 @@ publisher: "[[Elsevier BV]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - HCI
   - _Mark-Up
 ---

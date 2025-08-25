@@ -14,7 +14,7 @@ tags:
   - Notion-Catalogued
   - TCOT-2024
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _Mark-Up
   - _In-Readwise
   - _In-Notion

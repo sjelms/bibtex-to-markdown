@@ -13,7 +13,7 @@ tags:
   - Notion-Catalogued
   - TCOT-2024
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - AEC
   - _Mark-Up
   - Training

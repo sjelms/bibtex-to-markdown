@@ -9,7 +9,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub
-  - Design-Design-Thinking
+  - Design-and-Design-Thinking
 ---
 
 > [!Bibliography]

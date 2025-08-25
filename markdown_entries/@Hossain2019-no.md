@@ -8,7 +8,7 @@ journal: "[[Proceedings of International Structural Engineering and Construction
 publisher: "[[ISEC Press]]"
 tags:
   - AEC
-  - Construction-4
+  - Construction-4-0
   - Notion-Catalogued
   - UCL-Poster-Q1-2023
   - 2_Upgrade-MAY-2023

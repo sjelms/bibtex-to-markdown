@@ -7,7 +7,7 @@ tags:
   - Notion-Catalogued
   - Experience-on-Demand-Related-Work
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - YouTube
   - _Cataloged
 ---

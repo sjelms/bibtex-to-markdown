@@ -8,7 +8,7 @@ key: "[[@King_Chun2012-rk]]"
 journal: "[[Construction innovation]]"
 publisher: "[[Emerald]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - XR-Reviewed
   - 2_Upgrade-MAY-2023
   - Journal-Articles

@@ -17,7 +17,7 @@ tags:
   - _Mark-Up
   - _In-Notion
   - Cited-for-Frontiers
-  - _XR-and-MR
+  - _XR-MR-VR-AR
 ---
 
 > [!Bibliography]

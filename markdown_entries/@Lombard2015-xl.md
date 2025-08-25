@@ -12,7 +12,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub
-  - _XR-and-MR
+  - _XR-MR-VR-AR
 ---
 
 > [!Bibliography]

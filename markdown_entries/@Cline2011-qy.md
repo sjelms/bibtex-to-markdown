@@ -9,7 +9,7 @@ tags:
   - _BibTex-to-MD-Git
   - Audible
   - ePub
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - Audiobook
 ---
 

@@ -7,7 +7,7 @@ key: "[[@Hairstans2018-zk]]"
 journal: "[[Architectural Engineering and Design Management]]"
 publisher: "[[Taylor \and Francis]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - 2_Upgrade-MAY-2023
   - 00_TO-READ
   - Journal-Articles

@@ -13,7 +13,7 @@ tags:
   - TCOT-2024
   - _BibTex-to-MD-Git
   - AEC
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _In-Readwise
   - _Mark-Up
   - _Cataloged
