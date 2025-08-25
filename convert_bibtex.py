@@ -14,14 +14,30 @@ with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
 
 # Function to clean up text (removes braces, ensures correct formatting)
-def clean_text(text):
+def clean_text(text, is_yaml=False):
     if not text:
         return ""
+    
     text = text.strip()
     text = text.replace("\n", " ")  # Ensure multiline text is on a single line
+    
+    # Handle escaped characters
+    if is_yaml:
+        # For YAML content, handle escaped characters differently
+        text = re.sub(r'\\&', 'and', text)  # Replace \& with 'and'
+        text = re.sub(r'\\_', '_', text)     # Remove escape from underscore
+        text = re.sub(r'\\([^&_])', r'\1', text)  # Remove other escapes but keep the character
+    else:
+        # For non-YAML content (like abstracts), preserve the original characters
+        text = text.replace('\\&', '&')
+        text = text.replace('\\_', '_')
+        
     text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove braces `{}` while preserving content
     text = text.replace(":", " - ")  # Replace colons with hyphens
-    text = text.replace("&", "and")  # Replace ampersands with "and"
+    
+    if is_yaml:
+        text = text.replace("&", "and")  # Replace unescaped ampersands with "and" in YAML
+        
     return text.strip()
 
 # Function to correctly parse authors while keeping institutions together
@@ -105,7 +121,7 @@ def process_keywords(keyword_str):
 # Process each entry in BibTeX
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    title = clean_text(entry.get("title", "Untitled"))
+    title = clean_text(entry.get("title", "Untitled"), is_yaml=True)
     year = entry.get("year", "Unknown Year")
 
     # Process authors (supports 'editor' as fallback)
@@ -113,15 +129,15 @@ for entry in bib_database.entries:
     formatted_authors = format_authors(raw_authors)
 
     # Get other fields and wrap them in [[ ]] and QUOTES, only if they exist
-    institution = f'"[[{clean_text(entry.get("institution", ""))}]]"' if entry.get("institution") and entry.get("institution").strip() else None
-    publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") and entry.get("publisher").strip() else None
-    journal = f'"[[{clean_text(entry.get("journal", ""))}]]"' if entry.get("journal") and entry.get("journal").strip() else None
+    institution = f'"[[{clean_text(entry.get("institution", ""), is_yaml=True)}]]"' if entry.get("institution") and entry.get("institution").strip() else None
+    publisher = f'"[[{clean_text(entry.get("publisher", ""), is_yaml=True)}]]"' if entry.get("publisher") and entry.get("publisher").strip() else None
+    journal = f'"[[{clean_text(entry.get("journal", ""), is_yaml=True)}]]"' if entry.get("journal") and entry.get("journal").strip() else None
 
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(entry.get("keywords", ""))
 
-    # Extract abstract and clean it
-    abstract = clean_text(entry.get("abstract", ""))
+    # Extract abstract and clean it (not YAML, so preserve original characters)
+    abstract = clean_text(entry.get("abstract", ""), is_yaml=False)
 
     # Format bibliography
     bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
