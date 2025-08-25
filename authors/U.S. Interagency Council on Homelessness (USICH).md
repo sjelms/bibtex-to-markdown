@@ -8,4 +8,4 @@ type:
 ## U.S. Interagency Council on Homelessness (USICH)
 #### Bibliography:
 
-![[@US_Interagency_Council_on_Homelessness_USICH_undated-bd]]
+![[@US-Interagency-Council-on-Homelessness-USICH-2019-bt]]
