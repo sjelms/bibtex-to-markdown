@@ -5,9 +5,25 @@ import bibtexparser
 # Define file paths
 BIBTEX_FILE = "main.bib"
 OUTPUT_DIR = "markdown_entries"
+AUTHORS_DIR = "authors"
 
-# Ensure the output directory exists
+# Ensure output directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(AUTHORS_DIR, exist_ok=True)
+
+# Dictionary to track authors and their metadata
+author_metadata = {}  # Will store citations, institutions, and other fields
+
+def get_safe_filename(name):
+    # Remove wiki-link brackets
+    name = name.replace("[[", "").replace("]]", "")
+    # Replace various special characters
+    name = re.sub(r'[<>:"/\\|?*]', '_', name)
+    # Replace multiple underscores with single one
+    name = re.sub(r'_+', '_', name)
+    # Remove leading/trailing underscores
+    name = name.strip('_')
+    return name
 
 # Load the BibTeX file
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
@@ -179,5 +195,64 @@ for entry in bib_database.entries:
     md_filename = os.path.join(OUTPUT_DIR, f"@{key}.md")
     with open(md_filename, "w", encoding="utf-8") as md_file:
         md_file.write(markdown_content.strip())
+    
+    # Track citations and metadata for each author
+    for author in formatted_authors:
+        clean_author = author.replace("[[", "").replace("]]", "")
+        if clean_author not in author_metadata:
+            author_metadata[clean_author] = {
+                'citations': [],
+                'institutions': set(),
+                'fields': set()
+            }
+        author_metadata[clean_author]['citations'].append(key)
+        
+        # Track institution if available
+        if institution:
+            inst = institution.replace('"[[', '').replace(']]"', '')
+            author_metadata[clean_author]['institutions'].add(inst)
 
-print(f"✅ Markdown files successfully created in {OUTPUT_DIR}/")
+# Generate author files
+for author, metadata in author_metadata.items():
+    # Create author file content
+    author_yaml = [
+        "---",
+        f'author: "{author}"'  # author already has [[ ]] from format_authors()
+    ]
+    
+    # Add institutions if any
+    if metadata['institutions']:
+        institutions = sorted(list(metadata['institutions']))
+        author_yaml.append(f'institution: "{institutions[0]}"')  # Use first institution as primary
+    else:
+        author_yaml.append("institution:")
+        
+    # Add other fields
+    author_yaml.extend([
+        "field:",
+        "type:",
+        "---",
+        "",
+        f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
+        "#### Bibliography:",
+        ""  # Empty line before citations for better readability
+    ])
+    
+    # Add citation embeds, one per line
+    for citation in sorted(metadata['citations']):
+        author_yaml.append(f"![[@{citation}]]")
+        author_yaml.append("")  # Add empty line between citations
+    
+    # Remove trailing empty line
+    if author_yaml[-1] == "":
+        author_yaml.pop()
+    
+    # Save the author file
+    filename = get_safe_filename(author) + ".md"
+    author_filename = os.path.join(AUTHORS_DIR, filename)
+    
+    with open(author_filename, "w", encoding="utf-8") as author_file:
+        author_file.write("\n".join(author_yaml))
+
+print(f"✅ Citation files created in {OUTPUT_DIR}/")
+print(f"✅ Author files created in {AUTHORS_DIR}/")
