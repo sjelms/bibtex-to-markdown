@@ -1,5 +1,5 @@
 ---
-title: Factory\_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis
+title: Factory_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis
 year: 2020
 author - 1: "[[Factory OS]]"
 key: "[[@Factory_OS2020-jw]]"
@@ -11,4 +11,4 @@ tags:
 ---
 
 > [!Bibliography]
-> OS, Factory. 2020. “Factory\_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis.” . https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/
+> OS, Factory. 2020. “Factory_OS Joins Forces With Technology and Finance Leaders to Solve the Housing Crisis.” . https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/

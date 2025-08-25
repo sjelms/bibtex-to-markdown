@@ -13,7 +13,7 @@ tags:
   - learning-theory
   - modeling-of-behavior
   - Knowledge-Management
-  - Training,-Development-and-Education
+  - Training,-Development-&-Education
   - Professional-Development-of-Staff
   - SAGE-Handbook-of-Workplace-Learning
   - EPubs-Books

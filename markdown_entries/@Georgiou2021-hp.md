@@ -5,7 +5,7 @@ author - 1: "[[Yiannis Georgiou]]"
 author - 2: "[[Olia Tsivitanidou]]"
 author - 3: "[[Andri Ioannou]]"
 key: "[[@Georgiou2021-hp]]"
-journal: "[[Educational technology research and development -  ETR \and D]]"
+journal: "[[Educational technology research and development -  ETR and D]]"
 tags:
   - AACE-UNC-Call-for-Papers
   - Journal-Articles

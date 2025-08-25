@@ -6,7 +6,7 @@ author - 2: "[[Lorna Unwin]]"
 key: "[[@Fuller2014-ea]]"
 publisher: "[[Routledge]]"
 tags:
-  - Contemporary-Apprenticeship-Fuller-and-Unwin
+  - Contemporary-Apprenticeship-Fuller-&-Unwin
   - _BibTex-to-MD-Git
   - Cross-Ref-Chapter
 ---

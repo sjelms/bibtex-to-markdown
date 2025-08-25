@@ -14,4 +14,4 @@ tags:
 > Hub, Global Infrastructure. 2020. “Global Infrastructure Outlook - A G20 INITIATIVE.” . https://outlook.gihub.org/
 
 ## Abstract
-The Global Infrastructure Outlook compare infrastructure investment forecasts for 56 countries \and 7 sectors
+The Global Infrastructure Outlook compare infrastructure investment forecasts for 56 countries & 7 sectors

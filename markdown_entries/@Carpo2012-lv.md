@@ -3,7 +3,7 @@ title: The Digital Turn in Architecture 1992 - 2012 -  AD reader
 year: 2012
 author - 1: "[[M Carpo]]"
 key: "[[@Carpo2012-lv]]"
-publisher: "[[John Wiley \and Sons]]"
+publisher: "[[John Wiley and Sons]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -12,4 +12,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Carpo, M. 2012. “The Digital Turn in Architecture 1992 - 2012 -  AD reader.” "[[John Wiley \and Sons]]". https://books.google.com/books?id=8_ftkxDvohoC&newbks=1
+> Carpo, M. 2012. “The Digital Turn in Architecture 1992 - 2012 -  AD reader.” "[[John Wiley and Sons]]". https://books.google.com/books?id=8_ftkxDvohoC&newbks=1

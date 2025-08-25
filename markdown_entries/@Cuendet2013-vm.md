@@ -6,7 +6,7 @@ author - 2: "[[Quentin Bonnard]]"
 author - 3: "[[Son Do-Lenh]]"
 author - 4: "[[Pierre Dillenbourg]]"
 key: "[[@Cuendet2013-vm]]"
-journal: "[[Computers \and education]]"
+journal: "[[Computers and education]]"
 publisher: "[[Elsevier BV]]"
 tags:
   - Journal-Articles

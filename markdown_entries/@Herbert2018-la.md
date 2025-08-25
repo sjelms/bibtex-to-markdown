@@ -7,7 +7,7 @@ author - 3: "[[Amali Weerasinghe]]"
 author - 4: "[[Mark Billinghurst]]"
 author - 5: "[[Grant Wigley]]"
 key: "[[@Herbert2018-la]]"
-journal: "[[Computers \and graphics]]"
+journal: "[[Computers and graphics]]"
 publisher: "[[Elsevier]]"
 tags:
   - Intelligent-tutoring-systems

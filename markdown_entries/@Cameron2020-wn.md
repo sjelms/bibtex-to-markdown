@@ -3,7 +3,7 @@ title: Data to the rescue -  Embodied carbon in buildings and the urgency of now
 year: 2020
 author - 1: "[[Lynelle Cameron]]"
 key: "[[@Cameron2020-wn]]"
-institution: "[[McKinsey \and Company]]"
+institution: "[[McKinsey and Company]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023

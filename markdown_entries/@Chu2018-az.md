@@ -6,7 +6,7 @@ author - 2: "[[Sven Gailus]]"
 author - 3: "[[Lisa Liu]]"
 author - 4: "[[Liumin Ni]]"
 key: "[[@Chu2018-az]]"
-publisher: "[[McKinsey \and Company]]"
+publisher: "[[McKinsey and Company]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!Bibliography]
-> Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. “The future of automated ports.” "[[McKinsey \and Company]]"
+> Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. “The future of automated ports.” "[[McKinsey and Company]]"
 
 ## Abstract
 Port automation poses significant problems, but careful planning and implementation can surmount them.

@@ -3,7 +3,7 @@ title: The Five-Stage Model of Adult Skill Acquisition
 year: 2004
 author - 1: "[[Stuart E Dreyfus]]"
 key: "[[@Dreyfus2004-ip]]"
-journal: "[[Bulletin of science, technology \and society]]"
+journal: "[[Bulletin of science, technology and society]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

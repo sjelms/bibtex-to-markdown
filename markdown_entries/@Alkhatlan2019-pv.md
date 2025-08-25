@@ -4,7 +4,7 @@ year: 2019
 author - 1: "[[Ali Alkhatlan]]"
 author - 2: "[[Jugal Kalita]]"
 key: "[[@Alkhatlan2019-pv]]"
-journal: "[[International Journal of Computers \and Applications]]"
+journal: "[[International Journal of Computers and Applications]]"
 publisher: "[[Foundation of Computer Science]]"
 tags:
   - Zotero-Import-Feb-22

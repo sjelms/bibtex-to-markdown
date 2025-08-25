@@ -11,7 +11,7 @@ key: "[[@Bishop2009-co]]"
 journal: "[[Journal of Education and Work]]"
 publisher: "[[Routledge]]"
 tags:
-  - Contemporary-Apprenticeship-Fuller-and-Unwin
+  - Contemporary-Apprenticeship-Fuller-&-Unwin
   - 00_TO-READ
   - Notion-Catalogued
   - 3_Upgrade-OCT-2023

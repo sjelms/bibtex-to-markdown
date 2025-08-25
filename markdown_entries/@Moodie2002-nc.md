@@ -3,7 +3,7 @@ title: Identifying Vocational Education and Training
 year: 2002
 author - 1: "[[Gavin Moodie]]"
 key: "[[@Moodie2002-nc]]"
-journal: "[[Journal of Vocational Education \and Training]]"
+journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Routledge]]"
 tags:
   - Notion-Catalogued

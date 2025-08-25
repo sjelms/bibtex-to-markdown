@@ -4,7 +4,7 @@ year: 2015
 author - 1: "[[Juanru Wang]]"
 author - 2: "[[Jin Yang]]"
 key: "[[@Wang2015-lz]]"
-journal: "[[International Journal of Information \and Systems Sciences]]"
+journal: "[[International Journal of Information and Systems Sciences]]"
 publisher: "[[De Gruyter]]"
 tags:
   - tacit-knowledge
