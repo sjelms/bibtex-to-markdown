@@ -8,7 +8,7 @@ key: "[[@Kozlovska2021-iz]]"
 journal: "[[Sustainability -  Science Practice and Policy]]"
 publisher: "[[Multidisciplinary Digital Publishing Institute]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui

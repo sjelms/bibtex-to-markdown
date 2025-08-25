@@ -7,7 +7,7 @@ key: "[[@Murphy2009-fx]]"
 journal: "[[Nurse education in practice]]"
 tags:
   - Notion-Catalogued
-  - Healthcare-CME
+  - Healthcare-and-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Knowledge---Skill-Acquisition

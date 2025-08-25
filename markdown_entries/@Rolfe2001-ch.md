@@ -8,7 +8,7 @@ key: "[[@Rolfe2001-ch]]"
 publisher: "[[Palgrave]]"
 tags:
   - Notion-Catalogued
-  - Healthcare-CME
+  - Healthcare-and-CME
   - _BibTex-to-MD-Git
   - _Cataloged
 ---

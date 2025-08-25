@@ -6,10 +6,10 @@ author - 2: "[[A Panter]]"
 key: "[[@Zimmons2003-kh]]"
 publisher: "[[IEEE Comput. Soc]]"
 tags:
-  - The-VR-Book-|-Jason-Jerald
+  - The-VR-Book---Jason-Jerald
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _Mark-Up
   - DONE
   - _Cataloged

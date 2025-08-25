@@ -21,7 +21,7 @@ tags:
   - construction-industry
   - building-renovation-passport
   - digital-building-logbooks
-  - Marco-Casini-Construction-4
+  - Marco-Casini-Construction-4-0
   - 2_Upgrade-MAY-2023
   - 00_TO-READ
   - 3_Upgrade-OCT-2023

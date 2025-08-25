@@ -17,10 +17,10 @@ tags:
   - medical-education
   - virtual-reality
   - Notion-Catalogued
-  - Healthcare-CME
+  - Healthcare-and-CME
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - UCL
   - _Mark-Up
   - Training

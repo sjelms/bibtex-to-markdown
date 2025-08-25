@@ -6,7 +6,7 @@ key: "[[@Johnsson2013-kb]]"
 journal: "[[Construction Management and Economics]]"
 publisher: "[[Routledge]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - 2_Upgrade-MAY-2023
   - 00_TO-READ
   - Journal-Articles

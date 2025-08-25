@@ -8,7 +8,7 @@ author - 4: "[[Alexandre Baudet]]"
 key: "[[@Ras2017-fv]]"
 publisher: "[[ACM]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - UCL-Poster-Q1-2023
   - 2_Upgrade-MAY-2023
   - Notion-Catalogued

@@ -11,7 +11,7 @@ tags:
   - Experience-on-Demand-Related-Work
   - _BibTex-to-MD-Git
   - _In-Notion
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - _Mark-Up
   - _Cataloged
 ---

@@ -10,7 +10,7 @@ key: "[[@Zhang2020-bk]]"
 journal: "[[Journal of construction engineering and management]]"
 publisher: "[[American Society of Civil Engineers (ASCE)]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - 00_TO-READ
   - Notion-Catalogued
   - _BibTex-to-MD-Git

@@ -12,7 +12,7 @@ tags:
   - Zotero-Import-Feb-22
   - My-Library
   - 2021-12-03-Frontiers
-  - Healthcare-CME
+  - Healthcare-and-CME
   - Deloitte---McKinsey---EY---PWC
   - _BibTex-to-MD-Git
   - Economics

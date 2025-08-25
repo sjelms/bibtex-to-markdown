@@ -13,7 +13,7 @@ publisher: "[[ACM]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - Sensory-Processing
   - _Mark-Up
   - Read

@@ -10,7 +10,7 @@ tags:
   - Neurodiversity
   - _BibTex-to-MD-Git
   - ePub
-  - Neurodivergent-ADHD
+  - Neurodivergent-and-ADHD
 ---
 
 > [!Bibliography]

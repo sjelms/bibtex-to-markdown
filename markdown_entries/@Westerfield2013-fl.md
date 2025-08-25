@@ -10,7 +10,7 @@ tags:
   - Frontiers-2022
   - _BibTex-to-MD-Git
   - Intelligent-Tutoring-Systems-ITS
-  - _XR-and-MR
+  - _XR-MR-VR-AR
 ---
 
 > [!Bibliography]

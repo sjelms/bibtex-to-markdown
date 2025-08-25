@@ -9,7 +9,7 @@ publisher: "[[Springer Singapore]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - ePub
 ---
 

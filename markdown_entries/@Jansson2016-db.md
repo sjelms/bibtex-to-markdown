@@ -8,7 +8,7 @@ key: "[[@Jansson2016-db]]"
 journal: "[[Automation in construction]]"
 publisher: "[[Elsevier BV]]"
 tags:
-  - Construction-4
+  - Construction-4-0
   - _BibTex-to-MD-Git
   - AEC
 ---

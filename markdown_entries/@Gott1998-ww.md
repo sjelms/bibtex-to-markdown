@@ -1,7 +1,7 @@
 ---
 title: Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks
 year: 1998
-author - 1: "[[S P Gott]]"
+author - 1: "[[Sherrie P Gott]]"
 author - 2: "[[Armstrong Laboratory Air Force Materiel Command]]"
 key: "[[@Gott1998-ww]]"
 institution: "[[United States Air Force]]"
@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Gott, S P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks.”
+> Gott, Sherrie P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks.”

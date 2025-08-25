@@ -10,7 +10,7 @@ tags:
   - AACE-UNC-Call-for-Papers
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _XR-and-MR
+  - _XR-MR-VR-AR
   - Read
   - _Mark-Up
 ---

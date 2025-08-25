@@ -4,7 +4,7 @@ year: 2022
 author - 1: "[[Jayzona Alberto]]"
 key: "[[@Alberto2022-nv]]"
 tags:
-  - Healthcare-CME
+  - Healthcare-and-CME
   - _BibTex-to-MD-Git
   - _Mark-Up
 ---

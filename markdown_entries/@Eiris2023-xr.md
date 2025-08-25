@@ -18,7 +18,7 @@ tags:
   - Labor
   - Workplace-Learning
   - _New-Literature
-  - _XR-and-MR
+  - _XR-MR-VR-AR
 ---
 
 > [!Bibliography]

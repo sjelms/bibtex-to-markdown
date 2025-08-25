@@ -8,7 +8,7 @@ key: "[[@Hussien2020-bt]]"
 publisher: "[[Routledge]]"
 tags:
   - 2_Upgrade-MAY-2023
-  - Construction-4---An-Innovation-Platform-for-the-Built-Environment
+  - Construction-4-0----An-Innovation-Platform-for-the-Built-Environment
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC
@@ -17,7 +17,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - _Mark-Up
-  - _XR-and-MR
+  - _XR-MR-VR-AR
 ---
 
 > [!Bibliography]
