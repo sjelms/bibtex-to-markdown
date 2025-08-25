@@ -1,7 +1,7 @@
 ---
 title: 2021 Engineering and Construction Industry Outlook
 year: 2020
-author - 1: "[[M Meisels]]"
+author - 1: "[[Michelle Meisels]]"
 key: "[[@Meisels2020-qt]]"
 institution: "[[Deloitte]]"
 tags:
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Meisels, M. 2020. “2021 Engineering and Construction Industry Outlook.”
+> Meisels, Michelle. 2020. “2021 Engineering and Construction Industry Outlook.”

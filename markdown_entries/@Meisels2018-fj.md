@@ -1,7 +1,7 @@
 ---
 title: 2019 Engineering and Construction Industry Outlook
 year: 2018
-author - 1: "[[M Meisels]]"
+author - 1: "[[Michelle Meisels]]"
 key: "[[@Meisels2018-fj]]"
 institution: "[[Deloitte]]"
 tags:
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Meisels, M. 2018. “2019 Engineering and Construction Industry Outlook.”
+> Meisels, Michelle. 2018. “2019 Engineering and Construction Industry Outlook.”
