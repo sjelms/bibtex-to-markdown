@@ -29,13 +29,25 @@ def format_authors(raw_authors):
     if not raw_authors:
         return ["Unknown Author"]
 
+    # Clean up newlines and extra spaces in the raw authors string
+    raw_authors = " ".join(raw_authors.split())
+
     # Identify institutions inside `{}` and preserve them
     protected_authors = re.findall(r"\{.*?\}", raw_authors)  # Find `{}` enclosed text
     temp_replacement = "INSTITUTION_PLACEHOLDER"
     temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Temporarily replace institutions
 
-    # Split only on ` and ` that is outside `{}` to separate personal names
-    authors_list = [author.strip() for author in temp_authors.split(" and ")]
+    # Split on ` and ` that is outside `{}` to separate personal names
+    authors_list = []
+    for author in temp_authors.split(" and "):
+        author = author.strip()
+        # If author contains multiple names (like "Hastak, Makarand and LaScola Needy, Kim")
+        if " and " in author.lower():  # Case insensitive check
+            # Split these into separate authors
+            sub_authors = [a.strip() for a in author.split(" and ")]
+            authors_list.extend(sub_authors)
+        else:
+            authors_list.append(author)
 
     # Restore institution names in their correct positions
     for i, author in enumerate(authors_list):
@@ -46,15 +58,15 @@ def format_authors(raw_authors):
     for name in authors_list:
         name = clean_text(name)  # Remove `{}` after processing
 
-        # Ensure "Last, First" format for the first author, "First Last" for others
-        if "," in name and not name.startswith("{"):  
+        # Handle author names in "Last, First" format
+        if "," in name and not name.startswith("{"):
             name_parts = name.split(", ")
             if len(name_parts) == 2:
                 formatted_authors.append(f"[[{name_parts[1]} {name_parts[0]}]]")
             else:
-                formatted_authors.append(f"[[{name}]]")  # Institutions remain unchanged
+                formatted_authors.append(f"[[{name}]]")  # Keep institutions unchanged
         else:
-            formatted_authors.append(f"[[{name}]]")  # Institutions remain unchanged
+            formatted_authors.append(f"[[{name}]]")  # Keep as is if no comma found
 
     return formatted_authors
 
@@ -100,10 +112,10 @@ for entry in bib_database.entries:
     raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
     formatted_authors = format_authors(raw_authors)
 
-    # Get other fields and wrap them in [[ ]] and QUOTES
-    institution = f'"[[{clean_text(entry.get("institution", ""))}]]"' if entry.get("institution") else ""
-    publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") else ""
-    journal = f'"[[{clean_text(entry.get("journal", ""))}]]"' if entry.get("journal") else ""
+    # Get other fields and wrap them in [[ ]] and QUOTES, only if they exist
+    institution = f'"[[{clean_text(entry.get("institution", ""))}]]"' if entry.get("institution") and entry.get("institution").strip() else None
+    publisher = f'"[[{clean_text(entry.get("publisher", ""))}]]"' if entry.get("publisher") and entry.get("publisher").strip() else None
+    journal = f'"[[{clean_text(entry.get("journal", ""))}]]"' if entry.get("journal") and entry.get("journal").strip() else None
 
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(entry.get("keywords", ""))
@@ -126,11 +138,12 @@ for entry in bib_database.entries:
 
     yaml_lines.append(f'key: "[[@{key}]]"')
 
-    if institution:
+    # Only add non-None fields
+    if institution is not None:
         yaml_lines.append(f"institution: {institution}")
-    if journal:
+    if journal is not None:
         yaml_lines.append(f"journal: {journal}")
-    if publisher:
+    if publisher is not None:
         yaml_lines.append(f"publisher: {publisher}")
 
     yaml_lines.append("tags:")

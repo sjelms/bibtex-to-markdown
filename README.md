@@ -39,7 +39,12 @@ The script performs the following actions:
 - Inside this folder:
   - Individual Markdown files named using the format: `@BibTeXKey.md`
   - Each file includes:
-    - YAML frontmatter (title, year, authors, key, tags)
+    - YAML frontmatter with:
+      - Title, year
+      - Authors (with Obsidian-style links `[[Author Name]]`)
+      - Key (in format `[[@BibTeXKey]]`)
+      - Optional fields: institution, journal, publisher (all as Obsidian links)
+      - Tags (from keywords)
     - Optional abstract
     - Chicago-style bibliography section
     - Pandoc-compatible filename for citation use (`[@BibTeXKey]`)
@@ -51,7 +56,7 @@ The script performs the following actions:
 - **Python 3.7+**
 - Dependencies:
   - `bibtexparser`
-  - Standard libraries: `os`, `re`, `datetime`, `unicodedata`
+  - Standard libraries: `os`, `re`
 
 Ensure dependencies are installed:
 ```bash
@@ -73,7 +78,7 @@ python convert_bibtex.py
 ✅ Use `[[@BibTeXKey]]` or `[@BibTeXKey]` depending on purpose
 
 ### 🟥 Problem: Non-Latin characters or accents appear incorrectly  
-✅ Unicode normalization is applied, but additional edge cases can be adjusted in `clean_text()` or `format_name()`
+✅ Text cleaning is applied, but additional edge cases can be adjusted in `clean_text()` or `format_authors()`
 
 ### 🟥 Problem: Markdown files overwrite each other  
 ✅ BibTeX keys must be unique; conflicts will silently overwrite existing files

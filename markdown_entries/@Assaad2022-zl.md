@@ -4,7 +4,7 @@ year: 2022
 author - 1: "[[Rayan H Assaad]]"
 author - 2: "[[Islam H El-adaway]]"
 author - 3: "[[Hastak, Makarand and LaScola Needy, Kim]]"
-key: "[[@Assaad2022-zl]]"
+key: "[[Assaad2022-zl@]]"
 journal: "[[Journal of construction engineering and management]]"
 publisher: "[[American Society of Civil Engineers (ASCE)]]"
 tags:
