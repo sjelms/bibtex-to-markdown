@@ -1,7 +1,7 @@
 ---
 title: The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines
 year: 2020
-author - 1: "[[David Autor]]"
+author - 1: "[[David H Autor]]"
 author - 2: "[[David A Mindell]]"
 author - 3: "[[Elisabeth B Reynolds]]"
 author - 4: "[[MIT Task Force on the Work of the Future]]"
@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!Bibliography]
-> Autor, David, David A Mindell, Elisabeth B Reynolds, MIT Task Force on the Work of the Future. 2020. “The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines.”
+> Autor, David H, David A Mindell, Elisabeth B Reynolds, MIT Task Force on the Work of the Future. 2020. “The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines.”
