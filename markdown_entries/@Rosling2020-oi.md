@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rosling, Hans. 2020. “How I Learned to Understand the World -  A Memoir.” "[[Flatiron Books]]". https://play.google.com/store/books/details?id=tQjLDwAAQBAJ
 
 ## Abstract

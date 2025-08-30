@@ -17,7 +17,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Loo, Sai, Brian Sutton. 2020. “Informal Learning, Practitioner Inquiry and Occupational Education -  An Epistemological Perspective.” "[[Routledge]]". https://play.google.com/store/books/details?id=H1LzDwAAQBAJ
 
 ## Abstract

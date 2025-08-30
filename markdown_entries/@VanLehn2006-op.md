@@ -14,7 +14,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > VanLehn, Kurt. 2006. “The behavior of tutoring systems.” "[[IOS Press]]". https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02
 
 ## Abstract

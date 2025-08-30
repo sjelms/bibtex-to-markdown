@@ -15,7 +15,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fry, Hannah. 2018. “Hello World -  Being Human in the Age of Algorithms.” "[[W.W. Norton]]". https://play.google.com/store/books/details?id=nBsvswEACAAJ
 
 ## Abstract

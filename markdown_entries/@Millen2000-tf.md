@@ -14,7 +14,7 @@ tags:
   - Fieldwork-Methodology
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Millen, David R. 2000. “Rapid Ethnography -  Time Deepening Strategies for HCI Field Research.” "[[Association for Computing Machinery]]". https://doi.org/10.1145/347642.347763
 
 ## Abstract

@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bialystok, Ellen. 1979. “Explicit and implicit judgements of l2 grammaticality.” "[[Wiley]]". https://onlinelibrary.wiley.com/doi/10.1111/j.1467-1770.1979.tb01053.x
 
 ## Abstract

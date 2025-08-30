@@ -12,7 +12,7 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cook, Scott D N, John Seely Brown. 1999. “Bridging Epistemologies -  The Generative Dance Between Organizational Knowledge and Organizational Knowing.” "[[INFORMS]]". https://doi.org/10.1287/orsc.10.4.381
 
 ## Abstract

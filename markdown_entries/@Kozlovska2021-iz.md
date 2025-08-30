@@ -19,7 +19,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kozlovska, Maria, Daria Klosova, Zuzana Strukova. 2021. “Impact of Industry 4.0 Platform on the Formation of Construction 4.0 Concept -  A Literature Review.” "[[Multidisciplinary Digital Publishing Institute]]". https://www.mdpi.com/2071-1050/13/5/2683
 
 ## Abstract

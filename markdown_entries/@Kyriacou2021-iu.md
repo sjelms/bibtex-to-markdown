@@ -14,7 +14,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kyriacou, Harrison, Anand Ramakrishnan, Jacob Whitehill. 2021. “Learning to Work in a Materials Recovery Facility -  Can Humans and Machines Learn from Each Other?.” "[[Association for Computing Machinery]]". https://doi.org/10.1145/3448139.3448183
 
 ## Abstract

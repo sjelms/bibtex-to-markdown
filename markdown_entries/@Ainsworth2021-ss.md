@@ -19,7 +19,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ainsworth, Shaaron. 2021. “The Multiple Representations Principle in Multimedia Learning.” "[[Cambridge University Press]]". https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/multiple-representations-principle-in-multimedia-learning/76814DA96D4A361FB5EDC055B46B3764
 
 ## Abstract

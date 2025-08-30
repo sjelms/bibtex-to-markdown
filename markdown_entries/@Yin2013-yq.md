@@ -15,5 +15,5 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Yin, Robert K. 2013. “Case Study Research -  Design and Methods.” "[[SAGE Publications]]"

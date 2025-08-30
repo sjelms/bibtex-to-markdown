@@ -9,7 +9,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > AGC. 2021. “Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects and Disrupt Supply Chains.” 
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vinayan, Gowrie, Davindran Harikirishanan, Siow May Ling. 2020. “Upskilling and reskilling the workforce via industry driven technical and vocational education and Training -  Strategies to initiate industry/institution partnership in Malaysia.” "[[Readers Insight Publisher]]". http://dx.doi.org/10.31580/jei.v7i2.1438
 
 ## Abstract

@@ -22,7 +22,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Lorna Unwin. 2003. “Learning as Apprentices in the Contemporary UK Workplace -  Creating and Managing Expansive and Restrictive Participation.” "[[Routledge]]". https://doi.org/10.1080/1363908032000093012
 
 ## Abstract

@@ -11,5 +11,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Finkelstein, L. 1982. “What is Not Measurable, Make Measurable.” "[[SAGE Publications Ltd]]". https://doi.org/10.1177/002029408201500104

@@ -17,7 +17,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chi, Michelene T H, Stephanie A Siler, Heisawn Jeong, Takashi Yamauchi, Robert G Hausmann. 2001. “Learning from Human Tutoring.” "[[Wiley]]". http://doi.wiley.com/10.1207/s15516709cog2504_1
 
 ## Abstract

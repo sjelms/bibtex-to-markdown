@@ -19,7 +19,7 @@ tags:
   - Statistics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hudson, Lisa. 2013. “Trends in CTE Coursetaking. Data Point. NCES 2014-901.” "[[National Center for Education Statistics. Available from -  ED Pubs. P.O. Box 1398, Jessup, MD 20794-1398. Tel -  877-433-7827; Web site -  http - //nces.ed.gov/]]". http://files.eric.ed.gov/fulltext/ED544453.pdf
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Warhurst, Chris, Chris Tilly, Mary Gatta. 2017. “A New Social Construction of Skill.” "[[Oxford University Press]]"
 
 ## Abstract

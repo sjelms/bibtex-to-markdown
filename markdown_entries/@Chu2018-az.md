@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. “The future of automated ports.” "[[McKinsey and Company]]"
 
 ## Abstract

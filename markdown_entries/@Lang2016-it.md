@@ -17,7 +17,7 @@ tags:
   - _In-Readwise
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lang, Aaron, Jacqueline Glass, Chris Goodier. 2016. “Are Housebuilders' Production Strategies a Barrier to Offsite Construction Uptake in The UK?.” "[[Association of Researchers in Construction Management (ARCOM)]]". https://play.google.com/store/books/details?id=pp_ZvQEACAAJ
 
 ## Abstract

@@ -12,5 +12,5 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Division, Berkeley Graduate. 2015. “Social Constructivism.” "[[University of California, Berkeley]]"

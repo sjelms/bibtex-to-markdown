@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rawsthorn, Alice. 2010. “Putting New Tools in Students' Hands.” "[[The New York Times]]". https://www.nytimes.com/2010/08/23/arts/23iht-design23.html
 
 ## Abstract

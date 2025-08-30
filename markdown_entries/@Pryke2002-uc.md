@@ -13,7 +13,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pryke, Stephen David. 2002. “UK Construction in Transition -  Developing a Social Network Approach to the Evaluation of New Procurement and Management Strategies.” "[[UCL (University College London)]]". https://discovery.ucl.ac.uk/id/eprint/10101695/
 
 ## Abstract

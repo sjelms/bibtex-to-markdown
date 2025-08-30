@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aksamija, Ajla. 2021. “Research Methods for the Architectural Profession.” "[[Routledge]]". https://play.google.com/store/books/details?id=4zIWEAAAQBAJ
 
 ## Abstract

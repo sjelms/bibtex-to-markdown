@@ -17,7 +17,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Taylor, Edward W. 2006. “Making Meaning of Local Nonformal Education -  Practitioner’s Perspective.” "[[SAGE Publications]]". http://dx.doi.org/10.1177/0741713606289122
 
 ## Abstract

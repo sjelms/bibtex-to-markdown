@@ -16,7 +16,7 @@ tags:
   - Future-of-Work
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Johnson, Simon, Daron Acemoglu. 2023. “Power and Progress -  Our Thousand-Year Struggle Over Technology and Prosperity.” "[[Hachette UK]]". https://play.google.com/store/books/details?id=4bumEAAAQBAJ
 
 ## Abstract

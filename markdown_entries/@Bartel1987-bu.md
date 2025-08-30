@@ -12,7 +12,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bartel, A, F Lichtenberg. 1987. “The comparative advantage of educated workers in implementing new technology.” "[[Elsevier Science Publishers BV (North-Holland)]]". http://dx.doi.org/10.2307/1937894
 
 ## Abstract

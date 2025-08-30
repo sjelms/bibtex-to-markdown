@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Goolsbee, Austan, Chad Syverson. 2023. “The Strange and Awful Path of Productivity in the U.S. Construction Sector.” "[[National Bureau of Economic Research]]". https://dx.doi.org/10.2139/ssrn.4328672
 
 ## Abstract

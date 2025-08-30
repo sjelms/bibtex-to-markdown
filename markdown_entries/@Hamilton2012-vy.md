@@ -14,7 +14,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hamilton, Lorna, Connie Corbett-Whittier. 2012. “Using Case Study in Education Research.” "[[SAGE]]". https://play.google.com/store/books/details?id=EyudEAAAQBAJ
 
 ## Abstract

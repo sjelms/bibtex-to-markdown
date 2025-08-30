@@ -26,7 +26,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wang, Peng, Peng Wu, Jun Wang, Hung-Lin Chi, Xiangyu Wang. 2018. “A critical review of the use of virtual reality in construction engineering education and training.” "[[MDPI AG]]". http://dx.doi.org/10.3390/ijerph15061204
 
 ## Abstract

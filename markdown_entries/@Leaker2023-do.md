@@ -10,7 +10,7 @@ tags:
   - Statistics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Leaker, Debra. 2023. “Labour market overview, UK - Office for National Statistics.” "[[Office for National Statistics]]"
 
 ## Abstract

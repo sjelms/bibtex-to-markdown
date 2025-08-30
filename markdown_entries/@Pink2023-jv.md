@@ -15,7 +15,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pink, Richard, Roxanne Emery. 2023. “Dirty Laundry -  Why Adults With ADHD Are So Ashamed and What We Can Do to Help.” "[[Random House]]"
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Akomah, Benjamin Boahene, Laud Kwamina Ahinaquah, Zakari Mustapha. 2020. “Skilled Labour Shortage in the Building Construction Industry Within the Central Region.” . https://www.sciendo.com/article/10.2478/bjreecm-2020-0006
 
 ## Abstract

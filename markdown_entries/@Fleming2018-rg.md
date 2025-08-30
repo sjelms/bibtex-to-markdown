@@ -15,7 +15,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fleming, Jenny, Karsten E Zegwaard. 2018. “Methodologies, Methods and Ethical Considerations for Conducting Research in Work-Integrated Learning.” . https://eric.ed.gov/?id=EJ1196755
 
 ## Abstract

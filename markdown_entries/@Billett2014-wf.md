@@ -16,7 +16,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 2014. “Mimetic Learning at Work -  Learning in the Circumstances of Practice.” "[[Springer]]". https://play.google.com/store/books/details?id=g_QuBAAAQBAJ
 
 ## Abstract

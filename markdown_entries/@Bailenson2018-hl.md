@@ -12,7 +12,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bailenson, Jeremy. 2018. “What is Virtual Reality?.” . https://youtu.be/HZKGde91Xfs
 
 ## Abstract

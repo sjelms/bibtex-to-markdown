@@ -16,7 +16,7 @@ tags:
   - Statistics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rosling, Hans, Ola Rosling, Anna Rosling Rönnlund. 2018. “Factfulness -  The Ten Reason We're Wrong About the World - and Why Things Are Better Than You Think.” "[[Sceptre]]". https://play.google.com/store/books/details?id=r5vxAQAACAAJ
 
 ## Abstract

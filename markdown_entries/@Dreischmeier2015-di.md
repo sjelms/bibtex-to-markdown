@@ -14,7 +14,7 @@ tags:
   - Statistics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dreischmeier, Ralf, Karalee Close, Philippe Trichet. 2015. “The Digital Imperative.” . https://www.bcg.com/publications/2015/digital-imperative
 
 ## Abstract

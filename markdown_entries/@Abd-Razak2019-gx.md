@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Razak, Diyana Syafiqah Binti Abd. 2019. “A Strategic Approach to Failure Mitigation -  A Study of Project and Quality Management in Five Projects.” . https://discovery.ucl.ac.uk/id/eprint/10070382/
 
 ## Abstract

@@ -10,5 +10,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Stoyanov, Stoyan. 2018. “Ikujiro Nonaka's A Dynamic Theory of Organisational Knowledge Creation.” "[[Routledge Cavendish]]". https://www.google.com/books/edition/An_Analysis_of_Ikujiro_Nonaka_s_A_Dynami/MEFNDwAAQBAJ?hl=en&gbpv=0

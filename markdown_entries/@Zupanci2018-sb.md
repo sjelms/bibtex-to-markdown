@@ -19,7 +19,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Zupanci, Till, Michael Buehler, Isidora Kosta, Hani Dakhil. 2018. “Future Scenarios and Implications for the Industry.” 
 
 ## Abstract

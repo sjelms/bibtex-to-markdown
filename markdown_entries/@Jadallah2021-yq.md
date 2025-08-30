@@ -23,7 +23,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jadallah, Hazem, Carol J Friedland, Isabelina Nahmens, Charles Pecquet, Charles Berryman, Yimin Zhu. 2021. “Educational Theory-integrated Construction Industry Training -  State-of-the-Art Review.” "[[Frontiers Media SA]]". https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full
 
 ## Abstract

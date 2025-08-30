@@ -10,7 +10,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Technologies, Unity. 2022. “What is a digital twin?.” 
 
 ## Abstract

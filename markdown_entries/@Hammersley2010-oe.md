@@ -13,7 +13,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hammersley, Martyn. 2010. “Methodology -  Who Needs It?.” "[[SAGE]]". https://play.google.com/store/books/details?id=l7X3AgAAQBAJ
 
 ## Abstract

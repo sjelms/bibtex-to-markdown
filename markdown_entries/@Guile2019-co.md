@@ -23,7 +23,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Guile, David, Lorna Unwin. 2019. “The Wiley Handbook of Vocational Education and Training.” "[[John Wiley and Sons]]". http://doi.wiley.com/10.1002/9781119098713
 
 ## Abstract

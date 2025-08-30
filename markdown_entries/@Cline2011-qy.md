@@ -13,7 +13,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cline, Ernest. 2011. “Ready Player One.” "[[Ballantine Books]]". https://books.google.com/books?id=FY_HWAcm10MC&newbks=1
 
 ## Abstract

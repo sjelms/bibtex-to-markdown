@@ -13,7 +13,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hillmann, Cornel. 2021. “UX for XR -  User Experience Design and Strategies for Immersive Technologies.” "[[Apress]]". https://play.google.com/store/books/details?id=Mj49zgEACAAJ
 
 ## Abstract

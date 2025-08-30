@@ -14,7 +14,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Reich, Robert B. 1991. “The Work of Nations -  Preparing Ourselves for 21st-Century Capitalism.” "[[A.A. Knopf]]". https://play.google.com/store/books/details?id=M-ayAAAAIAAJ
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Georgiou, Yiannis, Olia Tsivitanidou, Andri Ioannou. 2021. “Learning experience design with immersive virtual reality in physics education.” . https://doi.org/10.1007/s11423-021-10055-y
 
 ## Abstract

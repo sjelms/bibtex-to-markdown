@@ -28,7 +28,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Herod, A. 2009. “Labor Unionism.” "[[Elsevier]]". https://www.sciencedirect.com/science/article/pii/B978008044910400198X
 
 ## Abstract

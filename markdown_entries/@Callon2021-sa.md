@@ -11,7 +11,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Callon, Michel. 2021. “Markets in the Making -  Rethinking Competition, Goods, and Innovation.” "[[Princeton University Press]]". https://play.google.com/store/books/details?id=fecsEAAAQBAJ
 
 ## Abstract

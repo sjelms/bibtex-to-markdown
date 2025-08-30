@@ -19,7 +19,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Johnsson, Helena. 2013. “Production strategies for pre-engineering in house-building -  exploring product development platforms.” "[[Routledge]]". https://doi.org/10.1080/01446193.2013.828846
 
 ## Abstract

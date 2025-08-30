@@ -18,5 +18,5 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wood, David, Jerome S Bruner, Gail Ross. 1976. “The Role of Tutoring in Problem Solving.” . https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7610.1976.tb00381.x

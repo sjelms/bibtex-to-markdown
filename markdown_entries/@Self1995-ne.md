@@ -17,5 +17,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Self, John. 1995. “Computational Mathetics -  Towards a Science of Learning Systems Design.” "[[Drakkar Press]]"

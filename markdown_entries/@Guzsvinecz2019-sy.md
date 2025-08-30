@@ -34,7 +34,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Guzsvinecz, Tibor, Monika Szeles, Erika Perge, Cecilia Sik-Lanyi. 2019. “Preparing spatial ability tests in a virtual reality application.” . http://dx.doi.org/10.1109/CogInfoCom47531.2019.9089919
 
 ## Abstract

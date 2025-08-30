@@ -21,7 +21,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wang, Yinggang, Paul M Goodrum, Carl T Haas, Robert W Glover. 2008. “Craft training issues in American industrial and commercial construction.” "[[American Society of Civil Engineers (ASCE)]]". https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)
 
 ## Abstract

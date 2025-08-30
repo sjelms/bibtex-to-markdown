@@ -17,7 +17,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Smith, Ryan E, Talbot Rice. 2017. “Permanent Modular Construction -  Construction Performance.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-7
 
 ## Abstract

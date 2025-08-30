@@ -19,7 +19,7 @@ tags:
   - Fieldwork-Methodology
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Merriam, Sharan B, Elizabeth J Tisdell. 2015. “Qualitative Research -  A Guide to Design and Implementation.” "[[John Wiley and Sons]]". https://play.google.com/store/books/details?id=JFN_BwAAQBAJ
 
 ## Abstract

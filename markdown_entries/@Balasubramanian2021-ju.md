@@ -12,7 +12,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Balasubramanian, Sai. 2021. “The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market.” . https://www.forbes.com/sites/saibala/2021/04/27/the-covid-19-pandemic-has-fueled-a-crisis-in-the-housing-market/
 
 ## Abstract

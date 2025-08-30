@@ -31,7 +31,7 @@ tags:
   - Training
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Smith, Ryan E, Ivan Rupnik, Kyle Barry, Tyler Schmetterer, US Department of Housing and Urban Development, Office of Policy Development and Research. 2023. “Offsite Construction for Housing -  Research Roadmap.” . https://www.huduser.gov/portal/publications/Offsite-Construction-for-Housing-Research-Roadmap.html
 
 ## Abstract

@@ -16,5 +16,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison. 2016. “Developing Expertise -  Occupational Versus Job-based Approaches in Contemporary Labour Markets.” "[[Verlag Barbara Budrich]]". http://dx.doi.org/10.2307/j.ctvbkjztw.4

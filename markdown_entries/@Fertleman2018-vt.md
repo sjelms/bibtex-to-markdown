@@ -27,7 +27,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fertleman, Caroline, Phoebe Aubugeau-Williams, Carmel Sher, Ai-Nee Lim, Sophie Lumley, Sylvie Delacroix, Xueni Pan. 2018. “A Discussion of Virtual Reality As a New Tool for Training Healthcare Professionals.” . http://dx.doi.org/10.3389/fpubh.2018.00044
 
 ## Abstract

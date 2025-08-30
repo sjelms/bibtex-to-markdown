@@ -30,7 +30,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jelonek, Markus, Eileen Fiala, Thomas Herrmann, Jochen Teizer, Stephan Embers, Markus König, Arno Mathis. 2022. “Evaluating Virtual Reality Simulations for Construction Safety Training.” "[[Oldenbourg Wissenschaftsverlag]]". https://www.degruyter.com/document/doi/10.1515/icom-2022-0006/html
 
 ## Abstract

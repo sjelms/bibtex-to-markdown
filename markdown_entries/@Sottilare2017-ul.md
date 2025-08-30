@@ -17,7 +17,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sottilare, Robert, Matthew Hackett, William Pike, Joseph J LaViola. 2017. “Adaptive instruction for medical training in the psychomotor domain.” "[[SAGE Publications]]". http://journals.sagepub.com/doi/10.1177/1548512916668680
 
 ## Abstract

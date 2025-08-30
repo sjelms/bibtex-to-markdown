@@ -17,7 +17,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rice, Talbot, Ryan E Smith. 2017. “Offsite Construction Industry Meta-analysis -  Industry Survey Results.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-6
 
 ## Abstract

@@ -21,7 +21,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > D’Amico, Bernardino, Francesco Pomponi, Jim Hart. 2021. “Global potential for material substitution in building construction -  The case of cross laminated timber.” . https://www.sciencedirect.com/science/article/pii/S0959652620335320
 
 ## Abstract

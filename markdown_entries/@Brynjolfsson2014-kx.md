@@ -20,7 +20,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brynjolfsson, Erik, Andrew McAfee. 2014. “The Second Machine Age -  Work, Progress, and Prosperity in a Time of Brilliant Technologies.” "[[W. W. Norton and Company]]"
 
 ## Abstract

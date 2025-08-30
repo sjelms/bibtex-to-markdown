@@ -17,5 +17,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Randhawa, Gurprit K, Mary Jackson. 2019. “The role of artificial intelligence in learning and professional development for healthcare professionals.” . http://dx.doi.org/10.1177/0840470419869032

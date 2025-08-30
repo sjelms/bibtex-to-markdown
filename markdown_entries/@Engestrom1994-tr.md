@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Engeström, Yrjö, International Labour Office. 1994. “Training for Change -  New Approach to Instruction and Learning in Working Life.” "[[International Labour Office]]". https://play.google.com/store/books/details?id=g7Lj-noq-1oC
 
 ## Abstract

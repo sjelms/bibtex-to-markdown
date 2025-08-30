@@ -12,7 +12,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > IxDA, London. 2019. “Ruby Steel — Interaction Design Day @ IxDA London.” "[[Vimeo]]". https://vimeo.com/340527074
 
 ## Abstract

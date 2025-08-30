@@ -20,7 +20,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison. 2019. “Does Vocational Education Still Need the Concept of Occupation?.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch5
 
 ## Abstract

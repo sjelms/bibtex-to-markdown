@@ -11,7 +11,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Office, Prime Minister's. 2020. “Major expansion of post-18 education and training to level up and prepare workers for post-COVID economy.” 
 
 ## Abstract

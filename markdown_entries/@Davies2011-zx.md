@@ -12,7 +12,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Davies, Colin. 2011. “Thinking about architecture -  An introduction to architectural theory.” "[[Laurence King Publishing]]"
 
 ## Abstract

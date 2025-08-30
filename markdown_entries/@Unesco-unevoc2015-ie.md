@@ -12,5 +12,5 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > UNESCO-UNEVOC. 2015. “What is TVET?.”

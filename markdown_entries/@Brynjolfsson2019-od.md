@@ -13,7 +13,7 @@ tags:
   - Future-of-Work
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brynjolfsson, Erik, Daniel Rock, Chad Syverson. 2019. “Artificial intelligence and the modern productivity paradox -  A clash of expectations and statistics.” "[[University of Chicago Press]]". https://www.bibliovault.org/BV.landing.epl?ISBN=9780226613475&chapter=9780226613475001
 
 ## Abstract

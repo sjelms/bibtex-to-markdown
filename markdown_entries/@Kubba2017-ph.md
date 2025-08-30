@@ -23,7 +23,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kubba, Sam. 2017. “Chapter Three - The Green Design and Construction Process.” "[[Butterworth-Heinemann]]". https://www.sciencedirect.com/science/article/pii/B9780128104330000034
 
 ## Abstract

@@ -13,7 +13,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Epstein, David J. 2019. “Range -  Why Generalists Triumph in a Specialized World.” "[[Riverhead Books]]". https://play.google.com/store/books/details?id=TzG5wgEACAAJ
 
 ## Abstract

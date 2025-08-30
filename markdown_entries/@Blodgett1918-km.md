@@ -14,7 +14,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Blodgett, W K. 1918. “Doing Farm Work By Motor Tractor -  Agriculture Simplified And Food Supply Increased By Labor-saving Machinery;-stage School For Operators.” . https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511
 
 ## Abstract

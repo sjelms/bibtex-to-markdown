@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > University, Tallinn. 2014. “Tacit and Explicit Knowledge | Key Concepts in Information and Knowledge Management.” . https://www.tlu.ee/%7Esirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html

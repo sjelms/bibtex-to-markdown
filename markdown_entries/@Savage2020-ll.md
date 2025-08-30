@@ -9,5 +9,5 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Savage, Adam. 2020. “How To Build in 2030.”

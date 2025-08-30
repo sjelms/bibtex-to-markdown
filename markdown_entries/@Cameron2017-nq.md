@@ -15,7 +15,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cameron, Euan, Jon Andrews, Jonathan Gillham. 2017. “The Economic Impact of Artificial Intelligence on the UK Economy.” . https://www.pwc.co.uk/services/economics/insights/the-impact-of-artificial-intelligence-on-the-uk-economy.html
 
 ## Abstract

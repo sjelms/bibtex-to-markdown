@@ -14,7 +14,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Prensky, Marc. 2002. “The Motivation of Gameplay -  the Real 21st Century Learning Revolution.” "[[Emerald]]". https://www.emerald.com/insight/content/doi/10.1108/10748120210431349/full/html
 
 ## Abstract

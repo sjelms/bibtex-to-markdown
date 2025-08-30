@@ -10,5 +10,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nations, Department of Economic and Social Affairs United. 2015. “Population 2030 -  Demographic challenges and opportunities for sustainable development planning.”

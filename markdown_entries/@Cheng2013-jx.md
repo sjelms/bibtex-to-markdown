@@ -16,5 +16,5 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cheng, Jingli, Su Jin Son, Curtis J Bonk. 2013. “Technology and Knowledge Management.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n33

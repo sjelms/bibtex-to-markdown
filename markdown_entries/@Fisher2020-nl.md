@@ -9,7 +9,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fisher, Julia Freeland. 2020. “The next decade of disruption in education? Unlocking networks.” 
 
 ## Abstract

@@ -16,7 +16,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Susskind, Richard, Daniel Susskind. 2022. “The Future of the Professions -  How Technology Will Transform the Work of Human Experts, Updated Edition.” "[[Oxford University Press]]". https://play.google.com/store/books/details?id=sr9pEAAAQBAJ
 
 ## Abstract

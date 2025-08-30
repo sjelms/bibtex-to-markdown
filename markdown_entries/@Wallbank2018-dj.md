@@ -13,5 +13,5 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wallbank, Adrian J. 2018. “Academic Writing and Dyslexia A Visual Guide to Writing at University.” "[[Taylor and Francis Group]]". https://openlibrary.org/books/OL37308376M.opds

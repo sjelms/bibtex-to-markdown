@@ -11,5 +11,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ford, Martin. 2015. “Rise of the Robots -  Technology and the Threat of a Jobless Future.” "[[Basic Books]]"

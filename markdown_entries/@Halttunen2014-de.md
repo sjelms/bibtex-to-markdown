@@ -15,5 +15,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Halttunen, Timo, Mari Koivisto, Stephen Billett. 2014. “Promoting, Assessing, Recognizing and Certifying Lifelong Learning -  International Perspectives and Practices.” "[[Springer Netherlands]]". http://link.springer.com/10.1007/978-94-017-8694-2

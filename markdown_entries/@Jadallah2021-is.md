@@ -24,7 +24,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jadallah, Hazem, Carol J Friedland, Isabelina Nahmens, Charles Pecquet, Charles Berryman, Yimin Zhu. 2021. “Construction Industry Training Assessment Framework.” "[[Frontiers Media SA]]". https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full
 
 ## Abstract

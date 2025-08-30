@@ -24,7 +24,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bell, Benjamin, Stacie Billington, Winston Bennett, Ian Billington, Joan Ryder. 2010. “Performance Gains from Speech-enhanced Simulation in Military Flying Training.” . http://dx.doi.org/10.1177/1548512910365698
 
 ## Abstract

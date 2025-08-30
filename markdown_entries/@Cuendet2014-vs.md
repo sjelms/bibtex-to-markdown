@@ -24,7 +24,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cuendet, Sebastien, Jessica Dehler-Zufferey, Christoph Arn, Engin Bumbacher, Pierre Dillenbourg. 2014. “A Study of Carpenter Apprentices’ Spatial Skills.” "[[SpringerOpen]]". https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3
 
 ## Abstract

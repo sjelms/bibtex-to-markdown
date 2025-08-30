@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Richard, Roger-Bruno. 2017. “Industrialized Building System Categorization.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-1
 
 ## Abstract

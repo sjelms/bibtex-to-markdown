@@ -13,5 +13,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lords, Parliament. House of. 2018. “Off-site Manufacture for Construction -  Building for Change.” "[[Parliament of the United Kingdom]]". https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm

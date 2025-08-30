@@ -10,7 +10,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ryan-Collins, Josh. 2024. “The demand for housing as an investment -  Drivers, outcomes and policy interventions to enhance housing affordability in the UK.” . https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment
 
 ## Abstract

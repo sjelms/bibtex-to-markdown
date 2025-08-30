@@ -15,7 +15,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Muller, Jerry Z. 2019. “The Tyranny of Metrics.” "[[Princeton University Press]]". https://play.google.com/store/books/details?id=dil2DwAAQBAJ
 
 ## Abstract

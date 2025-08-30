@@ -20,7 +20,7 @@ tags:
   - Book-physical
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kumar, Ranjit. 2019. “Research Methodology -  A Step-by-Step Guide for Beginners.” "[[SAGE Publications]]". https://us.sagepub.com/en-us/nam/research-methodology/book257990
 
 ## Abstract

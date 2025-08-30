@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Quale, John D. 2017. “Onsite vs. Offsite -  Comparing Environmental Impacts.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-9
 
 ## Abstract

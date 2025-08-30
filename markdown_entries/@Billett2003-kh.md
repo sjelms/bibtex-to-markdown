@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 2003. “Vocational Curriculum and Pedagogy -  an Activity Theory Perspective.” "[[SAGE Publications]]". https://research-repository.griffith.edu.au/handle/10072/5875
 
 ## Abstract

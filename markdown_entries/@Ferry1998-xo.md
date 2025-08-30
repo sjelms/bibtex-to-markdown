@@ -18,7 +18,7 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ferry, Natalie M, Jovita M Ross-Gordon. 1998. “An Inquiry into Schön's Epistemology of Practice -  Exploring Links between Experience and Reflective Practice.” "[[SAGE Publications Inc]]". https://doi.org/10.1177/074171369804800205
 
 ## Abstract

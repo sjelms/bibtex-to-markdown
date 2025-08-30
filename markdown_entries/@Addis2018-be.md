@@ -13,7 +13,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Addis, Mark, Christopher Winch. 2018. “Education and Expertise.” "[[John Wiley and Sons]]". https://play.google.com/store/books/details?id=t3FuDwAAQBAJ
 
 ## Abstract

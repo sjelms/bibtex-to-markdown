@@ -11,5 +11,5 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Benson, Jeremy. 2015. “Explaining the RQF.” . https://ofqual.blog.gov.uk/2015/10/01/explaining-the-rqf/

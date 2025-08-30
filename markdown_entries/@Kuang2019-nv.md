@@ -12,7 +12,7 @@ tags:
   - Design-and-Design-Thinking
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kuang, Cliff, Robert Fabricant. 2019. “User Friendly -  How the Hidden Rules of Design are Changing the Way We Live, Work and Play.” "[[Random House]]". https://play.google.com/store/books/details?id=qM-QDAAAQBAJ
 
 ## Abstract

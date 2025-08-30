@@ -12,7 +12,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cuendet, Sébastien. 2013. “Tangible interfaces for learning - Training spatial skills in vocational classrooms.” "[[Lausanne, EPFL]]". https://infoscience.epfl.ch/record/190279/files/EPFL_TH5931.pdf
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > DeKorne, Clayton. 2023. “Untangling the Skilled Labor Knot.” . https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o
 
 ## Abstract

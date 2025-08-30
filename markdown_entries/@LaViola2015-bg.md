@@ -19,7 +19,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > LaViola, Joseph J, Brian M Williamson, Conner Brooks, Sergiu Veazanchin, Robert Sottilare, Pat Garrity. 2015. “Using augmented reality to tutor military tasks in the wild.” "[[gifttutoring.org]]". https://gifttutoring.org/attachments/download/1414/15050.pdf
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Lorna Unwin, Alan Felstead, Nick Jewson, Konstantinos Kakavelakis. 2012. “Creating and Using Knowledge.” "[[SensePublishers]]". https://doi.org/10.1007/978-94-6091-915-2_10
 
 ## Abstract

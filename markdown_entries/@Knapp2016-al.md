@@ -13,7 +13,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Knapp, Jake, John Zeratsky, Braden Kowitz. 2016. “Sprint -  How to Solve Big Problems and Test New Ideas in Just Five Days.” "[[Random House]]". https://openlibrary.org/books/OL33526762M/Sprint
 
 ## Abstract

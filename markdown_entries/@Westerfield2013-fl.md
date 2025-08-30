@@ -13,7 +13,7 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Westerfield, Giles, Antonija Mitrovic, Mark Billinghurst. 2013. “Intelligent Augmented Reality Training for Assembly Tasks.” "[[Springer Berlin Heidelberg]]". http://dx.doi.org/10.1007/978-3-642-39112-5_55
 
 ## Abstract

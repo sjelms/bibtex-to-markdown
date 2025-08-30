@@ -21,7 +21,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Guile, David, Lorna Unwin. 2019. “VET, Expertise, and Work -  Situating the Challenge for the Twenty-First Century.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch2
 
 ## Abstract

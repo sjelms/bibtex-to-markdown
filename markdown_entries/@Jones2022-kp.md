@@ -23,5 +23,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jones, Kell, Luigi Mosca, Jennifer K Whyte, Andrew Davies, Jacqueline Glass. 2022. “Addressing Specialization and Fragmentation -  Product Platform Development in Construction Consultancy Firms.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/01446193.2021.1983187

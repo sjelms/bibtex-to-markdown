@@ -13,7 +13,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hon, Carol, Buser Say, Kourosh Khoshelham. 2021. “#12 VR/AR technologies in vocational education and training (scoping study).” 
 
 ## Abstract

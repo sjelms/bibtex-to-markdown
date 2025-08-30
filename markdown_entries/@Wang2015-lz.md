@@ -20,7 +20,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wang, Juanru, Jin Yang. 2015. “An Empirical Study of Employees’ Tacit Knowledge Sharing Behavior.” "[[De Gruyter]]". https://www.degruyter.com/document/doi/10.1515/JSSI-2015-0264/html
 
 ## Abstract

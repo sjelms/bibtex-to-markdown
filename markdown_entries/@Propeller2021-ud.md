@@ -11,7 +11,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Propeller. 2021. “How to Adapt to the Skilled Labor Shortage in Construction.” 
 
 ## Abstract

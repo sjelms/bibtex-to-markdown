@@ -30,7 +30,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Oesterreich, Thuy Duong, Frank Teuteberg. 2016. “Understanding the Implications of Digitisation and Automation in the Context of Industry 4.0 -  A Triangulation Approach and Elements of a Research Agenda for the Construction Industry.” . https://www.sciencedirect.com/science/article/pii/S0166361516301944
 
 ## Abstract

@@ -19,7 +19,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pilz, Matthias, Bärbel Fürstenau. 2019. “Duality and Learning Fields in Vocational Education and Training -  Pedagogy, Curriculum, and Assessment.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch16
 
 ## Abstract

@@ -11,7 +11,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Labor, United States Department of. Unknown Year. “Worker Organizing Resource and Knowledge Center.” 
 
 ## Abstract

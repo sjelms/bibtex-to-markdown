@@ -12,5 +12,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Future, MIT Work of the. 2020. “About Us.”

@@ -11,7 +11,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > AGC. 2021. “Construction Adds 31,000 Jobs In November, With Gains In All Segments, But Industry Will Need Even More Workers As Demand Accelerates.” 
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Schneider, Bertrand. 2017. “Preparing Students for Future Learning with Mixed Reality Interfaces.” "[[Springer Singapore]]". https://doi.org/10.1007/978-981-10-5490-7_12
 
 ## Abstract

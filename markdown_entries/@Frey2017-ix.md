@@ -21,7 +21,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Frey, Carl Benedikt, Michael A Osborne. 2017. “The Future of Employment -  How Susceptible Are Jobs to Computerisation?.” . https://www.sciencedirect.com/science/article/pii/S0040162516302244
 
 ## Abstract

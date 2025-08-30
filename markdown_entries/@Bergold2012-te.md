@@ -13,7 +13,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bergold, Jarg, Stefan Thomas. 2012. “Participatory Research Methods -  A Methodological Approach in Motion.” . http://www.qualitative-research.net/index.php/fqs/article/view/1801/3335
 
 ## Abstract

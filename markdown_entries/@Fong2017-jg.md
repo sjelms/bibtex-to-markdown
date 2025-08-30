@@ -31,7 +31,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fong, Joss. 2017. “The Big Debate About the Future of Work, Explained.” "[[Vox Media]]". https://youtu.be/TUmyygCMMGA
 
 ## Abstract

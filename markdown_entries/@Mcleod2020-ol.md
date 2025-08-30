@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mcleod, Saul. 2020. “Maslow's Hierarchy of Needs.” . https://www.simplypsychology.org/maslow.html

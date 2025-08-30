@@ -27,7 +27,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Carbonell, Jaime R. 1970. “AI in CAI -  An Artificial-Intelligence Approach to Computer-Assisted Instruction.” . http://dx.doi.org/10.1109/TMMS.1970.299942
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sottilare, Robert A, Joseph J LaViola. 2016. “A process for adaptive instruction of tasks in the psychomotor domain.” "[[researchgate.net]]". https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf
 
 ## Abstract

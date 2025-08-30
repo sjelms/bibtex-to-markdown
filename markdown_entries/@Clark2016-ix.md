@@ -14,7 +14,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Clark, Ruth C, Richard E Mayer. 2016. “e-Learning and the Science of Instruction -  Proven Guidelines for Consumers and Designers of Multimedia Learning.” "[[John Wiley and Sons]]". https://play.google.com/store/books/details?id=c2OYCwAAQBAJ
 
 ## Abstract

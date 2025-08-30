@@ -22,7 +22,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hossain, Md Aslam, Abid Nadeem. 2019. “Towards digitizing the construction industry -  State of the art of construction 4.0.” "[[ISEC Press]]". http://dx.doi.org/10.14455/isec.res.2019.184
 
 ## Abstract

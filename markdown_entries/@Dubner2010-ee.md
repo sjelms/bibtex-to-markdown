@@ -12,7 +12,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dubner, Stephen J, Steven D Levitt. 2010. “Superfreakonomics -  Global Cooling, Patriotic Prostitutes and Why Suicide Bombers Should Buy Life Insurance.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=e_vYt9MEwKcC
 
 ## Abstract

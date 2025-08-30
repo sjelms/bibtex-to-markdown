@@ -13,7 +13,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wang, Yinggang. 2008. “A Quantitative Analysis of Training Outcomes and Strategies in the Construction Industry.” "[[uknowledge.uky.edu]]". https://uknowledge.uky.edu/gradschool_diss/600/
 
 ## Abstract

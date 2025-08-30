@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Schmidt, Henk G, Henny P A Boshuizen. 1993. “On acquiring expertise in medicine.” . https://doi.org/10.1007/BF01323044
 
 ## Abstract

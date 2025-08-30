@@ -10,7 +10,7 @@ tags:
   - Employment
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hilburg, Jonathan. 2021. “Prefab Startup Wunderkind Katerra is Shutting Down.” 
 
 ## Abstract

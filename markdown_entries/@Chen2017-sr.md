@@ -17,7 +17,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chen, Peng, Xiaolin Liu, Wei Cheng, Ronghuai Huang. 2017. “A review of using Augmented Reality in Education from 2011 to 2016.” "[[Springer Singapore]]". http://dx.doi.org/10.1007/978-981-10-2419-1_2
 
 ## Abstract

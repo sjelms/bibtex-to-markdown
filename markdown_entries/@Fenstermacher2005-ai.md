@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fenstermacher, K D. 2005. “The Tyranny of Tacit Knowledge -  What Artificial Intelligence Tells us About Knowledge Representation.” . http://dx.doi.org/10.1109/HICSS.2005.620
 
 ## Abstract

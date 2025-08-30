@@ -14,5 +14,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bransford, John D, Daniel L Schwartz. 1999. “Rethinking Transfer -  a Simple Proposal With Multiple Implications.”

@@ -14,7 +14,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chen, Chinchih, Carl Benedikt Frey, Giorgio Presidente. 2022. “Disrupting Science.” 
 
 ## Abstract

@@ -12,7 +12,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mazzucato, Mariana, Leilani Farha. 2023. “The right to housing -  A mission-oriented and human rights-based approach.” . https://www.ucl.ac.uk/bartlett/publications/2023/may/right-housing-mission-oriented-and-human-rights-based-approach
 
 ## Abstract

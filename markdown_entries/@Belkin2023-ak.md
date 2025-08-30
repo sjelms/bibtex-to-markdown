@@ -11,7 +11,7 @@ tags:
   - Readwise-Reader
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Belkin, Douglas. 2023. “Americans Are Losing Faith in College Education, WSJ-NORC Poll Finds.” 
 
 ## Abstract

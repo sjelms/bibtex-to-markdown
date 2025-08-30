@@ -18,7 +18,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Eraut, Michael. 2004. “Transfer of Knowledge Between Education and Workplace Settings.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-19/transfer-knowledge-education-workplace-settings-michael-eraut
 
 ## Abstract

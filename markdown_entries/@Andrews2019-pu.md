@@ -10,5 +10,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Andrews, Evan. 2019. “Who Were the Luddites?.”

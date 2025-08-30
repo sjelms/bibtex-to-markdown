@@ -11,5 +11,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Gross, Daniel. 2017. “Scale versus scope in the diffusion of new technology -  Evidence from the farm tractor.” "[[National Bureau of Economic Research]]". http://www.nber.org/papers/w24125.pdf

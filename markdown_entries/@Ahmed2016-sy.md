@@ -21,5 +21,5 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ahmed, Vian, Alex Opoku. 2016. “Getting Ready for Your Research -  Setting the Scene.” "[[Routledge]]". http://dx.doi.org/10.4324/9781315725529-2

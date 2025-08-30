@@ -18,7 +18,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lidelöw, Helena. 2017. “Offsite Construction in Sweden -  From Technology-driven to Integrated Processes.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-13
 
 ## Abstract

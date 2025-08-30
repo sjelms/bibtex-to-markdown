@@ -17,5 +17,5 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Amokrane, Kahina, Domitile Lourdeaux, Jean-Paul Barthès, Jean-Marie Burkhardt. 2008. “An intelligent tutoring system for training and learning in a virtual environment for high-risk sites.” "[[IEEE]]". http://dx.doi.org/10.1109/ictai.2008.151

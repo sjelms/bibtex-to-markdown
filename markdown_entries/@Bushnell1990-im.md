@@ -15,5 +15,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bushnell, David S. 1990. “Input, Process, Output -  a Model for Evaluating Training.” . https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e

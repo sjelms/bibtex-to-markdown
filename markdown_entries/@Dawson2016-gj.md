@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dawson, Catherine. 2016. “100 Activities for Teaching Research Methods.” "[[SAGE]]". https://play.google.com/store/books/details?id=qNTDDAAAQBAJ
 
 ## Abstract

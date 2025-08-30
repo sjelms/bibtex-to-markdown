@@ -15,7 +15,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brosnan, M J. 1998. “Spatial ability in children's play with Lego blocks.” "[[SAGE Publications]]". http://dx.doi.org/10.2466/pms.1998.87.1.19
 
 ## Abstract

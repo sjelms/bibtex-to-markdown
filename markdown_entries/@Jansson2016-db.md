@@ -13,7 +13,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jansson, Gustav, Emma Viklund, Helena Lidelöw. 2016. “Design management using knowledge innovation and visual planning.” "[[Elsevier BV]]". http://dx.doi.org/10.1016/j.autcon.2016.08.040
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Snell, Keith David Malcolm. 1996. “The apprenticeship system in British history -  the fragmentation of a cultural institution.” "[[Routledge]]". https://doi.org/10.1080/0046760960250401
 
 ## Abstract

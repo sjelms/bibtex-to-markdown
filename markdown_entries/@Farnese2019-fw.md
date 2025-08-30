@@ -16,5 +16,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Farnese, Maria Luisa, Barbara Barbieri, Antonio Chirumbolo, Gerardo Patriotta. 2019. “Managing Knowledge in Organizations -  A Nonaka’s SECI Model Operationalization.” . https://www.frontiersin.org/article/10.3389/fpsyg.2019.02730/full

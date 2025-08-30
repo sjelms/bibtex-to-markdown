@@ -15,7 +15,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Knapp, Jake, John Zeratsky. 2018. “Make Time -  How to Focus on What Matters Every Day.” "[[Random House]]". https://play.google.com/store/books/details?id=eaFHDwAAQBAJ
 
 ## Abstract

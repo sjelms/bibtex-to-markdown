@@ -11,5 +11,5 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Maanen, John Van. 2011. “Tales of the Field -  On Writing Ethnography.” "[[University of Chicago Press]]". https://books.google.com/books?id=V9hi269OD9cC&newbks=1

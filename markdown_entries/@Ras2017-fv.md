@@ -21,5 +21,5 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ras, Eric, Fridolin Wild, Christoph Stahl, Alexandre Baudet. 2017. “Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools.” "[[ACM]]". http://dx.doi.org/10.1145/3056540.3076192

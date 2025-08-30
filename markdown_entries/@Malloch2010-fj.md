@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Malloch, Margaret. 2010. “The SAGE Handbook of Workplace Learning.” "[[SAGE Publications]]". https://doi.org/10.4135/9781446200940
 
 ## Abstract

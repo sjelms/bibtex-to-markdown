@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Opwis, K. 2001. “Instructional Technology -  Cognitive Science Perspectives.” "[[Pergamon]]". https://www.sciencedirect.com/science/article/pii/B0080430767014765
 
 ## Abstract

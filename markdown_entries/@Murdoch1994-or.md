@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Murdoch, Jonathan, Andy C Pratt. 1994. “Rural studies of power and the power of rural studies -  a reply to Philo.” . https://www.sciencedirect.com/science/article/pii/0743016794900086
 
 ## Abstract

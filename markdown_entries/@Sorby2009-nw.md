@@ -17,7 +17,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sorby, Sheryl A. 2009. “Educational Research in Developing 3D Spatial Skills for Engineering Students.” "[[Routledge]]". https://doi.org/10.1080/09500690802595839
 
 ## Abstract

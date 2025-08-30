@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Flyvbjerg, Bent, Dan Gardner. 2023. “How Big Things Get Done -  The Surprising Factors Behind Every Successful Project, from Home Renovations to Space Exploration.” "[[Macmillan]]"
 
 ## Abstract

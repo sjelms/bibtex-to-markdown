@@ -11,7 +11,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Shewring, Margaret, Association of British Theatre Technicians (ABTT). 2024. “Theatre Buildings -  A Design Guide.” "[[Taylor and Francis]]"
 
 ## Abstract

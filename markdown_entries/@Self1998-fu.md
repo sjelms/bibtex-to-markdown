@@ -17,7 +17,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Self, John. 1998. “The defining characteristics of intelligent tutoring systems research -  ITSs care, precisely.” . https://telearn.archives-ouvertes.fr/hal-00197346
 
 ## Abstract

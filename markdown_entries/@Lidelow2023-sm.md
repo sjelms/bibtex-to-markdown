@@ -12,7 +12,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lidelöw, Helena. 2023. “Factory of the Future [Keynote address].” . https://cife.stanford.edu/events/industrialized-construction-forum-2023
 
 ## Abstract

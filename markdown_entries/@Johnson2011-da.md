@@ -14,7 +14,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Johnson, Steven. 2011. “Where Good Ideas Come from -  The Seven Patterns of Innovation.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=KsZVI9dfInsC
 
 ## Abstract

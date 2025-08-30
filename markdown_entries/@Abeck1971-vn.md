@@ -14,5 +14,5 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Abeck, Robert. 1971. “U.S. Steel Fabricates Rooms for Florida's Disney World.” "[[SAGE Publications]]". https://doi.org/10.1177/001088047101100409

@@ -11,7 +11,7 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ord, Jon. 2012. “John Dewey and Experiential Learning -  Developing the Theory of Youth Work.” . https://api.semanticscholar.org/CorpusID:150042620
 
 ## Abstract

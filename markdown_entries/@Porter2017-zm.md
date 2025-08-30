@@ -15,7 +15,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Porter, Michael E, James E Heppelmann. 2017. “Why Every Organization Needs an Augmented Reality Strategy.” . https://hbr.org/2017/11/why-every-organization-needs-an-augmented-reality-strategy
 
 ## Abstract

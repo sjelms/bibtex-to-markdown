@@ -20,7 +20,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wang, Xingheng, Weihan Lin, Tianwen Xue, Adam Green, Limin Gu, Yansheng He, Xiaoshan Huang, Zilu Jin, Yihua Wu. 2022. “Workplace Learning in China -  Transferring Training Into Practice to Improve Performance.” "[[Uni Bremen Campus GmbH]]". https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/view/900
 
 ## Abstract

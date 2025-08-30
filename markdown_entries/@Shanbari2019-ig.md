@@ -20,7 +20,7 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Shanbari, Hamzah, Raja R A Issa. 2019. “Use of Video Games to Enhance Construction Management Education.” . http://dx.doi.org/10.1080/15623599.2017.1423166
 
 ## Abstract

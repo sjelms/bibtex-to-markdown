@@ -10,7 +10,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Zuboff, Shoshana. 1988. “In the Age of the Smart Machine -  The Future of Work and Power.” "[[Basic Books]]". https://play.google.com/store/books/details?id=eYm3AAAAIAAJ
 
 ## Abstract

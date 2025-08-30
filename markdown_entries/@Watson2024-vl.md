@@ -12,7 +12,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Watson, Blake, Amelia Dicks. 2024. “Wind River Built's Mission to Bring Back The Starter Home in Style with Modular Home Construction.” . https://www.chattanoogarealestatepodcast.com/wind-river-builts-mission-to-bring-back-the-starter-home-in-style-with-modular-home-construction/
 
 ## Abstract

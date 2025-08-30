@@ -14,7 +14,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Klein, Ezra, Jenny Schuetz, ‘The Ezra Klein Show’. 2022. “Why Housing Is So Expensive — Particularly in Blue States.” "[[The New York Times]]". https://www.nytimes.com/2022/07/19/opinion/ezra-klein-podcast-jenny-schuetz.html
 
 ## Abstract

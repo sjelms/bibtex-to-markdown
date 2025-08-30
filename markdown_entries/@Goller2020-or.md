@@ -16,7 +16,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Goller, Michael, Christian Harteis, David Gijbels, Vincent Donche. 2020. “Engineering Students' Learning During Internships -  Exploring the Explanatory Power of the Job Demands‐control‐support Model.” "[[Wiley]]". https://onlinelibrary.wiley.com/doi/10.1002/jee.20308
 
 ## Abstract

@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Goller, Michael, Christian Harteis. 2014. “Employing Agency in Academic Settings -  Doctoral Students Shaping Their Own Experiences.” "[[Springer Netherlands]]". https://doi.org/10.1007/978-94-007-7012-6_11
 
 ## Abstract

@@ -22,7 +22,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Lorna Unwin, Dan Bishop, Alan Felstead, Nick Jewson, Kakavelakis Konstantinos, Tracey Lee. 2006. “Continuity, Change and Conflict -  the Role of Learning and Knowing in Different Productive Systems.” "[[Cardiff School of Social Sciences , Cardiff University]]". http://eprints.hud.ac.uk/8389/
 
 ## Abstract

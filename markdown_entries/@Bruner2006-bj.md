@@ -13,7 +13,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bruner, Jerome S. 2006. “The Act of Discovery.” "[[Routledge]]"
 
 ## Abstract

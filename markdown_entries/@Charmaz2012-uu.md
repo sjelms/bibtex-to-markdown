@@ -12,5 +12,5 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Charmaz, Kathy, Linda Liska Belgrave. 2012. “Qualitative interviewing and grounded theory analysis.” "[[SAGE Publications, Inc.]]". http://dx.doi.org/10.4135/9781452218403.n25

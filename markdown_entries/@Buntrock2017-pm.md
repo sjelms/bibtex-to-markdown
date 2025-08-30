@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Buntrock, Dana. 2017. “Prefabricated housing in Japan.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-12
 
 ## Abstract

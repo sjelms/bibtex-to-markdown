@@ -11,7 +11,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Thompson, Steve. 2025. “Automation and Manufacturing for the Built Environment.” "[[Emerald Group Publishing]]"
 
 ## Abstract

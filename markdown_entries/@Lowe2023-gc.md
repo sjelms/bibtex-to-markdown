@@ -12,7 +12,7 @@ tags:
   - Readwise-Reader
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lowe, Tom, Daniel Gayne, Tom Lane. 2023. “The RAAC Schools Crisis -  What We Know So Far.” 
 
 ## Abstract

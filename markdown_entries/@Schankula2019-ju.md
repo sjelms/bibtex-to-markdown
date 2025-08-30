@@ -12,5 +12,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Schankula, David. 2019. “The Future Of Work -  VICE Special Report.” "[[Home Box Office]]"

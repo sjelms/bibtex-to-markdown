@@ -18,7 +18,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Crayne, Jack. 2021. “Analyzing the Causes of Labor Shortage in the Commercial Carpentry Trades in the San Francisco Bay Area.” . https://digitalcommons.calpoly.edu/cmsp/456/
 
 ## Abstract

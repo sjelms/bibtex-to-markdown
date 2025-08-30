@@ -16,7 +16,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Lorna Unwin. 2016. “Applying an Apprenticeship Approach to HRD -  Why the Concepts of Occupation, Identity and the Organisation of Workplace Learning Still Matter.” "[[Palgrave Macmillan UK]]". https://doi.org/10.1057/9781137465191_5
 
 ## Abstract

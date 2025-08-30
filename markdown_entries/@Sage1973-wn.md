@@ -14,7 +14,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sage, Andrew P. 1973. “In Memoriam -  Jaime R. Carbonell.” . http://dx.doi.org/10.1109/TSMC.1973.4309240
 
 ## Abstract

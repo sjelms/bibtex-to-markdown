@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Daley, Barbara J. 1999. “Novice to Expert -  An Exploration of How Professionals Learn.” . https://doi.org/10.1177/074171369904900401
 
 ## Abstract

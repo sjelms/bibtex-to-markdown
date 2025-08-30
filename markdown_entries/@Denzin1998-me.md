@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Denzin, Norman K, Yvonna S Lincoln. 1998. “Strategies of Qualitative Inquiry.” "[[SAGE Publications]]". https://play.google.com/store/books/details?id=vxu2AAAAIAAJ
 
 ## Abstract

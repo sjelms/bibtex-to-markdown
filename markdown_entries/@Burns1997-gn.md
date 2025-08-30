@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Burns, R B. 1997. “Introduction to Research Methods.” "[[Addison Wesley Longman]]". https://play.google.com/store/books/details?id=aP3tAAAAMAAJ
 
 ## Abstract

@@ -16,7 +16,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vindrola-Padros, Cecilia. 2021. “Doing Rapid Qualitative Research.” "[[SAGE Publications, Limited]]". https://us.sagepub.com/en-us/nam/doing-rapid-qualitative-research/book269300
 
 ## Abstract

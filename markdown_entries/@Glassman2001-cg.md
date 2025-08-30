@@ -14,7 +14,7 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Glassman, Michael. 2001. “Dewey and Vygotsky -  Society, Experience, and Inquiry in Educational Practice.” "[[[American Educational Research Association, Sage Publications, Inc.]]]". http://www.jstor.org/stable/3594354
 
 ## Abstract

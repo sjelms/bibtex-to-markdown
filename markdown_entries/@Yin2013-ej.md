@@ -13,5 +13,5 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Yin, Robert K. 2013. “How to Know Whether and When to Use Case Studies as a Research Method.” "[[SAGE Publishing Ltd]]". https://www.sagepub.com/sites/default/files/upm-binaries/24735_Chapter1.pdf

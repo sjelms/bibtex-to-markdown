@@ -18,5 +18,5 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nunn, R, J Parsons, J Shambaugh, The Hamilton Project, The Brookings Institution. 2020. “A Dozen Facts about the Economics of the U.S. Health-Care System.”

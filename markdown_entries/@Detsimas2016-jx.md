@@ -28,7 +28,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Detsimas, Nicole, Vaughan Coffey, Zabihullah Sadiqi, Mei Li. 2016. “Workplace training and generic and technical skill development in the Australian construction industry.” "[[Emerald]]". http://dx.doi.org/10.1108/jmd-05-2015-0073
 
 ## Abstract

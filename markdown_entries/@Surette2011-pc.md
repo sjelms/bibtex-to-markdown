@@ -12,5 +12,5 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Surette, Cappy, Nicole Cantore, Eric Scott. 2011. “Histories of Disney's Contemporary and Polynesian Resorts.”

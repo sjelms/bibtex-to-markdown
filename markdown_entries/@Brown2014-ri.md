@@ -17,7 +17,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brown, Peter C, Roediger, III, Henry L, Mark A McDaniel. 2014. “Make it stick -  The science of successful learning.” "[[Harvard University Press]]"
 
 ## Abstract

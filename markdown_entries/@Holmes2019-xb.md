@@ -14,7 +14,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Holmes, Wayne, Maya Bialik, Charles Fadel. 2019. “Artificial Intelligence in Education -  Promises and Implications for Teaching and Learning.” "[[Center for Curriculum Redesign]]". https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf
 
 ## Abstract

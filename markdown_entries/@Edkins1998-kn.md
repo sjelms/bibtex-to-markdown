@@ -12,7 +12,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Edkins, Andrew John David. 1998. “Managing the design process in construction -  A cognitive approach.” "[[University of London]]". https://discovery.ucl.ac.uk/id/eprint/32848/
 
 ## Abstract

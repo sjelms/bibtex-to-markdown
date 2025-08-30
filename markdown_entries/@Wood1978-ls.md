@@ -16,7 +16,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wood, David, Heather Wood, David Middleton. 1978. “An Experimental Evaluation of Four Face-to-Face Teaching Strategies.” "[[SAGE Publications Ltd]]". https://doi.org/10.1177/016502547800100203
 
 ## Abstract

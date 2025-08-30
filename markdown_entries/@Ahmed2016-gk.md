@@ -19,7 +19,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ahmed, Vian, Alex Opoku, Julius Akotia. 2016. “Choosing an Appropriate Research Methodology and Method.” "[[Routledge]]"
 
 ## Abstract

@@ -19,7 +19,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Milkman, Ruth. 2020. “Union Decline And Labor Revival In The 21st Century United States.” "[[HeinOnline]]". https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/
 
 ## Abstract

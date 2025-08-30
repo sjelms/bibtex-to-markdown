@@ -16,7 +16,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brynjolfsson, Erik, Daniel Rock, Chad Syverson. 2021. “The Productivity J-Curve -  How Intangibles Complement General Purpose Technologies.” . https://pubs.aeaweb.org/doi/10.1257/mac.20180386
 
 ## Abstract

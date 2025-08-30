@@ -14,5 +14,5 @@ tags:
   - Fieldwork-Methodology
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sangaramoorthy, Thurka, Karen A Kroeger. 2020. “Rapid ethnographic assessments -  A practical approach and toolkit for collaborative community research.” "[[Routledge]]"

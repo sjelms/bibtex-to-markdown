@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pailliez, Caroline. 2017. “You're hired! France's Macron targets apprentices in labor market shake-up.” "[[Reuters]]". https://www.reuters.com/article/us-france-reform-apprencticeships-idUSKBN1D30Z5
 
 ## Abstract

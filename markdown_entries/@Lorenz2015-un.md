@@ -16,7 +16,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lorenz, Markus, Michael Rüßmann, Rainer Strack, Knud Lueth, Moritz Bolle. 2015. “Man and machine in industry 4.0.” 
 
 ## Abstract

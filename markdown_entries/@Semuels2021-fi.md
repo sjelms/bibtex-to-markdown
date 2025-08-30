@@ -10,7 +10,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Semuels, Alana. 2021. “Wildfires Are Getting Worse, So Why Is the U.S. Still Building Homes With Wood?.” . https://time.com/6046368/wood-steel-houses-fires/
 
 ## Abstract

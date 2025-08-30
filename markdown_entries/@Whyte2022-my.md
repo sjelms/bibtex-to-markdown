@@ -17,7 +17,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Whyte, Jennifer K, Alice Comi, Luigi Mosca. 2022. “Making Futures That Matter -  Future Making, Online Working and Organizing Remotely.” "[[SAGE Publications Ltd]]". https://journals.sagepub.com/doi/full/10.1177/26317877211069138
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Scott, Tom. 2022. “A working flight simulator, no computers necessary.” "[[Pad 26 Limited]]". https://youtu.be/RJAYZgOZS08
 
 ## Abstract

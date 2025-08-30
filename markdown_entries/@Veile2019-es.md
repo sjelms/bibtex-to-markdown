@@ -15,7 +15,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Veile, Johannes W, Daniel Kiel, Müller Julian Marius, Kai-Ingo Voigt. 2019. “Lessons Learned From Industry 4.0 Implementation in the German Manufacturing Industry.” "[[Emerald Publishing Limited]]". https://doi.org/10.1108/JMTM-08-2018-0270
 
 ## Abstract

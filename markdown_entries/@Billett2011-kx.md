@@ -17,7 +17,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 2011. “Vocational Education -  Purposes, Traditions and Prospects.” "[[Springer Science and Business Media]]". https://play.google.com/store/books/details?id=67uMALdMD-8C
 
 ## Abstract

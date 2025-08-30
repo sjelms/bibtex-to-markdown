@@ -13,5 +13,5 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Whitehouse, Mark, Mira Rojanasakul. 2017. “Find Out if Your Job Will Be Automated.” . https://www.bloomberg.com/graphics/2017-job-risk/

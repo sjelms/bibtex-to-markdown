@@ -14,7 +14,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Humble, Niklas, Peter Mozelius. 2019. “Artificial Intelligence in Education – A Promise, a Threat or a Hype?.” "[[unknown]]". http://dx.doi.org/10.34190/ECIAIR.19.005
 
 ## Abstract

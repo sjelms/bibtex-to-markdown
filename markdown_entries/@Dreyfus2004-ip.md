@@ -12,5 +12,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dreyfus, Stuart E. 2004. “The Five-Stage Model of Adult Skill Acquisition.” . http://dx.doi.org/10.1177/0270467604264992

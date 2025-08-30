@@ -27,7 +27,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Herbert, Bradley, Barrett Ens, Amali Weerasinghe, Mark Billinghurst, Grant Wigley. 2018. “Design considerations for combining augmented reality with intelligent tutors.” "[[Elsevier]]". https://www.sciencedirect.com/science/article/pii/S0097849318301523
 
 ## Abstract

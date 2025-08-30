@@ -13,7 +13,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Tegmark, Max. 2017. “Life 3.0 -  Being Human in the Age of Artificial Intelligence.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=3_otDwAAQBAJ
 
 ## Abstract

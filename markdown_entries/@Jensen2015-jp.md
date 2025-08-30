@@ -11,7 +11,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jensen, Patrik, Helena Lidelöw, Thomas Olofsson. 2015. “Product configuration in construction.” . https://www.inderscience.com/offers.php?id=69601
 
 ## Abstract

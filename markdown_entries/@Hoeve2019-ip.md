@@ -19,7 +19,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hoeve, Aimée, Wietske Kuijer-Siebelink, Loek Nieuwenhuis. 2019. “Innovative Work-Based Learning for Responsive Vocational Education and Training (VET) -  Lessons From Dutch Higher VET.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch21
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Charmaz, Kathy. 2014. “Constructing Grounded Theory.” "[[SAGE]]". https://play.google.com/store/books/details?id=y0ooAwAAQBAJ
 
 ## Abstract

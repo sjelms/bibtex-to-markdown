@@ -12,7 +12,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dreyfus, Hubert, Stuart E Dreyfus. 1988. “Mind Over Machine -  The Power of Human Intuition and Expertise in the Era of the Computer.” "[[Free Press]]". https://play.google.com/store/books/details?id=GHc-AQAAIAAJ
 
 ## Abstract

@@ -13,7 +13,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Goldratt, Eliyahu M, Jeff Cox, David Whitford. 2004. “The Goal -  A Process of Ongoing Improvement.” "[[Gower]]". https://play.google.com/store/books/details?id=B0Y9PgAACAAJ
 
 ## Abstract

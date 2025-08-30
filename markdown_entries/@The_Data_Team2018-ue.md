@@ -12,7 +12,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Team, The Data. 2018. “A study finds nearly half of jobs are vulnerable to automation.” "[[The Economist]]". https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation
 
 ## Abstract

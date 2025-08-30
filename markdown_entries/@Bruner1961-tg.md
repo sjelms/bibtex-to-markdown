@@ -12,7 +12,7 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bruner, Jerome S. 1961. “The Act of Discovery.” "[[Harvard Education Publishing Group]]"
 
 ## Abstract

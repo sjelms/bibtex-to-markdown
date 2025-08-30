@@ -14,7 +14,7 @@ tags:
   - Book-physical
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hyde, Rob, Filippos Filippidis. 2021. “Design Studio Vol. 2 -  Intelligent Control 2021 -  Disruptive Technologies.” "[[RIBA Publishing]]". https://play.google.com/store/books/details?id=jXRkzgEACAAJ
 
 ## Abstract

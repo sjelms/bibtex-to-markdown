@@ -11,7 +11,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bartel, Ann P. 2000. “Measuring the employer's return on investments in training -  Evidence from the literature.” "[[Wiley]]". http://dx.doi.org/10.1111/0019-8676.00178
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lee, Kai-Fu, Chen Qiufan. 2021. “AI 2041 -  Ten Visions for Our Future.” "[[Random House]]". https://play.google.com/store/books/details?id=tUASEAAAQBAJ
 
 ## Abstract

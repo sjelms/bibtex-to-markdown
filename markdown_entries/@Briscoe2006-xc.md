@@ -9,7 +9,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Briscoe, Bob. 2006. “Metcalfe’s law is wrong.” 
 
 ## Abstract

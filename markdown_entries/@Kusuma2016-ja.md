@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kusuma, I C. 2016. “The Evolution of Culture-Climate Interplay in Temporary Multi-Organisations -  The Case of Construction Alliancing Projects.” . https://discovery.ucl.ac.uk/id/eprint/1476944/
 
 ## Abstract

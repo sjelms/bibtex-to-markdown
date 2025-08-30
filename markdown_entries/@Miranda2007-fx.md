@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Miranda, Adán López. 2007. “Exploring the Relationship Between New Product Development, Concurrent Engineering, and Project Management to Improve Product Development.” . https://discovery.ucl.ac.uk/id/eprint/1446455/
 
 ## Abstract

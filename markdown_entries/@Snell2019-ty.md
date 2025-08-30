@@ -18,7 +18,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Snell, Darryn. 2019. “Vocational education and the revitalisation of manufacturing in the United States.” "[[Routledge]]". https://doi.org/10.1080/13636820.2018.1480520
 
 ## Abstract

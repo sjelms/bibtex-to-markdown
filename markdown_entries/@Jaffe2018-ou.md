@@ -9,7 +9,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jaffe, Eric. 2018. “When Affordable Housing Starts in a Factory.” 
 
 ## Abstract

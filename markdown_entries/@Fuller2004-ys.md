@@ -22,7 +22,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Anne Munro, Helen Rainbird. 2004. “Conclusion.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-25/conclusion-alison-fuller-anne-munro-helen-rainbird
 
 ## Abstract

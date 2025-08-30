@@ -20,7 +20,7 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hussien, Aseel, Atif Waraich, Daniel Paes. 2020. “A Review of Mixed-reality Applications in Construction 4.0.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry
 
 ## Abstract

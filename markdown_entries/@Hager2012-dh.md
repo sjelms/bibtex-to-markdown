@@ -15,7 +15,7 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hager, Paul, Alison Lee, Ann Reich. 2012. “Practice, Learning and Change -  Practice-Theory Perspectives on Professional Learning.” "[[Springer Science and Business Media]]". https://play.google.com/store/books/details?id=6jIKs4ujwR8C
 
 ## Abstract

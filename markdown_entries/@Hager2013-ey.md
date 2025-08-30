@@ -21,5 +21,5 @@ tags:
   - Readwise-Reader
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hager, Paul. 2013. “Theories of Workplace Learning.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n2

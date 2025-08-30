@@ -11,7 +11,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Siniavskaia, Natalia. 2021. “Most Homebuilders are Small Businesses.” "[[Eye On Housing]]"
 
 ## Abstract

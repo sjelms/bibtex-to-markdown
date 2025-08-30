@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. “The SECI Model -  Knowledge Creation in the Cycle of Subjectivity and Objectivity.” "[[Springer Singapore]]". https://doi.org/10.1007/978-981-16-6851-7_10
 
 ## Abstract

@@ -13,5 +13,5 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > OFQUAL. 2018. “Guidance to the General Conditions of Recognition.”

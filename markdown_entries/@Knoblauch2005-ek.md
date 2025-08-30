@@ -18,7 +18,7 @@ tags:
   - Fieldwork-Methodology
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Knoblauch, Hubert. 2005. “Focused Ethnography.” "[[qualitative-research.net]]". http://www.qualitative-research.net/index.php/fqs/article/view/20
 
 ## Abstract

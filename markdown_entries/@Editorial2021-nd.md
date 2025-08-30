@@ -19,5 +19,5 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Editorial. 2021. “Concrete needs to lose its colossal carbon footprint.” . http://dx.doi.org/10.1038/d41586-021-02612-5

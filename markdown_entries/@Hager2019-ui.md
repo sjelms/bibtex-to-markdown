@@ -14,7 +14,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hager, Paul, David Beckett. 2019. “The Emergence of Complexity -  Rethinking Education as a Social Science.” "[[Springer Nature]]". https://play.google.com/store/books/details?id=E8m1DwAAQBAJ
 
 ## Abstract

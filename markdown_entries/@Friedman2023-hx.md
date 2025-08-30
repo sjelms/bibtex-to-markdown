@@ -10,7 +10,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Friedman, Avi. 2023. “Fundamentals of Innovative Sustainable Homes Design and Construction.” "[[Springer Nature]]"
 
 ## Abstract

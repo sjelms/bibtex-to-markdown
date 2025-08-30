@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rudestam, Kjell Erik, Rae R Newton. 2014. “Surviving Your Dissertation -  A Comprehensive Guide to Content and Process.” "[[SAGE Publications]]". https://play.google.com/store/books/details?id=lzL7ngEACAAJ
 
 ## Abstract

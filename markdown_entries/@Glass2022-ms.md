@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Glass, Jacqueline, Lena E Bygballe, Daniel M Hall. 2022. “Transforming Construction -  the Multi-scale Challenges of Changing and Innovating in Construction.” "[[Routledge]]". http://dx.doi.org/10.1080/01446193.2022.2141432
 
 ## Abstract

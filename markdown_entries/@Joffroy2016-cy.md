@@ -13,7 +13,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Joffroy, Thierry. 2016. “Learning from local building cultures to improve housing project sustainability.” "[[United Nations Publications]]". https://www.un-ilibrary.org/content/journals/15643913/53/3/7
 
 ## Abstract

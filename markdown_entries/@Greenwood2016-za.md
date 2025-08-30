@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Greenwood, David, Oliver Jones. 2016. “Comparing Experience Through Visual Behaviour in Physical and Virtual Environments.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-7/comparing-experience-visual-behaviour-physical-virtual-environments-david-greenwood-oliver-jones?context=ubx&refId=9f22eb07-986d-42d0-a989-515c64f7414e
 
 ## Abstract

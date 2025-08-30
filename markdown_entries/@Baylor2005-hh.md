@@ -17,7 +17,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Baylor, Amy L, Yanghee Kim. 2005. “Simulating Instructional Roles Through Pedagogical Agents.” "[[IOS Press]]". https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02
 
 ## Abstract

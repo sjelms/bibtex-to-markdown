@@ -20,7 +20,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hairstans, Robert, Ryan E Smith. 2018. “Offsite HUB (Scotland) -  establishing a collaborative regional framework for knowledge exchange in the UK.” "[[Taylor and Francis]]". https://doi.org/10.1080/17452007.2017.1314858
 
 ## Abstract

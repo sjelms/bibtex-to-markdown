@@ -17,5 +17,5 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Leopold, T A, V Ratcheva, S Zahidi, World Economic Forum. 2018. “The Future of Jobs 2018.”

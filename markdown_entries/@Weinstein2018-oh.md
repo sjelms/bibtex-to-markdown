@@ -18,5 +18,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Weinstein, Yana, Christopher R Madan, Megan A Sumeracki. 2018. “Teaching the Science of Learning.” "[[Springer Science and Business Media LLC]]". http://dx.doi.org/10.1186/s41235-017-0087-y

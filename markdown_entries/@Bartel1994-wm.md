@@ -11,7 +11,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bartel, Ann P. 1994. “Productivity gains from the implementation of employee training programs.” "[[Blackwell Publishing Ltd]]". http://dx.doi.org/10.1111/j.1468-232x.1994.tb00349.x
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Emerson, Robert M, Rachel I Fretz, Linda L Shaw. 2011. “Writing ethnographic fieldnotes.” "[[University of Chicago Press]]"
 
 ## Abstract

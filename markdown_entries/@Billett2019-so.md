@@ -18,7 +18,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 2019. “Vocational Education and the Individual.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch3
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hall, Daniel M, Jerker Lessing, Jennifer K Whyte. 2022. “New Business Models for Industrialized Construction.” "[[Springer International Publishing]]". http://dx.doi.org/10.1007/978-3-030-82430-3_13
 
 ## Abstract

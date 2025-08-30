@@ -21,7 +21,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kuzmanovska, Ivana. 2020. “Building Design for Manufacture and Assembly (BDfMA) -  Reframing the Design-Production Relationship in Industrialised Construction.” "[[Monash University]]". https://bridges.monash.edu/articles/thesis/Building_Design_for_Manufacture_and_Assembly_BDfMA_Reframing_the_Design-Production_Relationship_in_Industrialised_Construction/13166543/1
 
 ## Abstract

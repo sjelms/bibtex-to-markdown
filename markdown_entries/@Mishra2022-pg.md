@@ -25,7 +25,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mishra, Abhijeet, Florian Humpenöder, Galina Churkina, Christopher P O Reyer, Felicitas Beier, Benjamin Leon Bodirsky, Hans Joachim Schellnhuber, Hermann Lotze-Campen, Alexander Popp. 2022. “Land Use Change and Carbon Emissions of a Transformation to Timber Cities.” "[[Springer Science and Business Media LLC]]". http://dx.doi.org/10.1038/s41467-022-32244-w
 
 ## Abstract

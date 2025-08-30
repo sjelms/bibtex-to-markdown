@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Goller, Michael, Stephen Billett. 2014. “Agentic Behaviour at Work -  Crafting Learning Experiences.” "[[Springer Netherlands]]". https://doi.org/10.1007/978-94-007-7012-6_3
 
 ## Abstract

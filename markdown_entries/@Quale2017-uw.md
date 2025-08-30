@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Quale, John D. 2017. “High-performance Affordable Modular Homes -  A University and Modular Industry Collaboration.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-10
 
 ## Abstract

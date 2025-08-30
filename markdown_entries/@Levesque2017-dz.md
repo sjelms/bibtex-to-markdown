@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Levesque, Hector J. 2017. “Common Sense, the Turing Test, and the Quest for Real AI.” "[[MIT Press]]". https://play.google.com/store/books/details?id=ZYA1DgAAQBAJ
 
 ## Abstract

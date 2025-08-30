@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ryan, T A, K A McCabe. 1993. “The Relationship Between Mandatory vs. Voluntary Participation In A Prison Literacy Program and Academic Achievement.” "[[Correctional Education Association]]". http://www.jstor.org/stable/41970968
 
 ## Abstract

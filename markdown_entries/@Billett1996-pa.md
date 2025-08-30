@@ -11,7 +11,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 1996. “Constructing Vocational Knowledge -  History, Communities and Ontogeny.” "[[Routledge]]". https://doi.org/10.1080/1363682960480203
 
 ## Abstract

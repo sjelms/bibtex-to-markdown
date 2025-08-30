@@ -23,7 +23,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lundberg, Mary, Helena Lidelöw. 2015. “Social Motivations for Knowledge Sharing in Construction Companies.” . https://www.sciencedirect.com/science/article/pii/S2212567115001719
 
 ## Abstract

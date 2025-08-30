@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Symons, Anne Wood. 2021. “Integrated Design, Design Management and the Delivery of Major Hospitals.” . https://discovery.ucl.ac.uk/id/eprint/10121086/
 
 ## Abstract

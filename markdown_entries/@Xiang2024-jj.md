@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Xiang, Ping, Liangdong Zuo. 2024. “Novel technology and whole-process management in prefabricated building -  Conference proceedings of the 5th international prefabricated building seminar on frontier technology and talent training.” "[[Springer Nature]]"
 
 ## Abstract

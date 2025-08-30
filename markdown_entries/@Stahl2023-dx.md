@@ -16,7 +16,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Stahl, Lesley. 2023. “Can 3D-Printed Homes Withstand a Changing Climate?.” "[[CBS Broadcasting Inc.]]". https://www.youtube.com/watch?v=kOZxvpVWBJ4
 
 ## Abstract

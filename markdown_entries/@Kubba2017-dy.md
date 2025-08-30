@@ -23,7 +23,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kubba, Sam. 2017. “Chapter Fourteen - Types of Building Contract Agreements.” "[[Butterworth-Heinemann]]". https://www.sciencedirect.com/science/article/pii/B9780128104330000149
 
 ## Abstract

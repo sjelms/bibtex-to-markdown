@@ -26,7 +26,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rybníček, Michal, Petr Kočár, Bernhard Muigg, Jaroslav Peška, Radko Sedláček, Willy Tegel, Tomáš Kolář. 2020. “World's oldest dendrochronologically dated archaeological wood construction.” . https://www.sciencedirect.com/science/article/pii/S0305440320300066
 
 ## Abstract

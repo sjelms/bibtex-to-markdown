@@ -12,7 +12,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Levitt, Steven D, Stephen J Dubner. 2014. “Think Like a Freak -  Secrets of the Rogue Economist.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=fqddAgAAQBAJ
 
 ## Abstract

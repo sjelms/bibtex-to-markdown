@@ -20,7 +20,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vasilevski, Nikolche, James Birt. 2020. “Analysing construction student experiences of mobile mixed reality enhanced learning in virtual and augmented reality environments.” "[[Association for Learning Technology]]". http://dx.doi.org/10.25304/rlt.v28.2329
 
 ## Abstract

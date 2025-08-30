@@ -9,7 +9,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Museum, Science. 2018. “Goodbye to the hello girls -  automating the telephone exchange.” 
 
 ## Abstract

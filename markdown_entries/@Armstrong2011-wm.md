@@ -13,7 +13,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Armstrong, Thomas. 2011. “The Power of Neurodiversity -  Unleashing the Advantages of Your Differently Wired Brain (published in hardcover as Neurodiversity).” "[[Hachette UK]]". https://play.google.com/store/books/details?id=zX9KDgAAQBAJ
 
 ## Abstract

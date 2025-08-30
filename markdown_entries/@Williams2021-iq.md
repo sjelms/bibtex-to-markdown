@@ -17,7 +17,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Williams, J, K Alexander, T Wilson, B Newton, C McNeil, C Jung. 2021. “A Better Future -  Transforming jobs and skills for young people post-pandemic.” "[[Institute for Employment Studies]]". https://www.employment-studies.co.uk/system/files/resources/files/A%20Better%20Future%20-%20Transforming%20jobs%20and%20skills%20for%20young%20people%20post-pandemic_2.pdf
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Frey, Carl Benedikt. 2019. “The Technology Trap -  Capital, Labor, and Power in the Age of Automation.” "[[Princeton University Press]]". https://www.jstor.org/stable/j.ctvc77cz1
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bailenson, Jeremy. 2018. “Experience on Demand -  What Virtual Reality Is, How It Works, and What It Can Do.” "[[W. W. Norton and Company]]". https://play.google.com/store/books/details?id=2fkqDwAAQBAJ
 
 ## Abstract

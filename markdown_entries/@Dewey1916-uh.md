@@ -15,5 +15,5 @@ tags:
   - Columbia-University
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dewey, John. 1916. “Democracy and Education -  An Introduction to the Philosophy of Education.” "[[Macmillan]]"

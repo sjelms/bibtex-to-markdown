@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > McKenney, Martin Joseph. 2019. “Identifying and Quantifying Personnel Skills Gaps.” "[[Old Dominion University Libraries]]". http://dx.doi.org/10.25777/39P3-8W95
 
 ## Abstract

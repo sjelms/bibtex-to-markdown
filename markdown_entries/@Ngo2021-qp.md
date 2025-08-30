@@ -13,7 +13,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ngo, Madeleine. 2021. “Skilled Workers Are Scarce, Posing a Challenge for Biden’s Infrastructure Plan.” "[[The New York Times]]". https://www.nytimes.com/2021/09/09/us/politics/biden-infrastructure-plan.html
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lazar, Jonathan, Jinjuan Heidi Feng, Harry Hochheiser. 2017. “Research Methods in human-Computer Interaction.” "[[Morgan Kaufmann]]"
 
 ## Abstract

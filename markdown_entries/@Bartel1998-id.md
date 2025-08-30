@@ -12,7 +12,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bartel, Ann P, Nachum Sicherman. 1998. “Technological change and the skill acquisition of young workers.” "[[University of Chicago Press]]". http://dx.doi.org/10.1086/209904
 
 ## Abstract

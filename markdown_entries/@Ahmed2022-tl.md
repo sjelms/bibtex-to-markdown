@@ -19,7 +19,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ahmed, Vian, Alex Opoku, Ayokunle Olanipekun, Monty Sutrisna. 2022. “Validity and Reliability in Built Environment Research -  A Selection of Case Studies.” "[[Routledge]]". https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803
 
 ## Abstract

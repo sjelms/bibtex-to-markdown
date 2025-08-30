@@ -20,7 +20,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dede, Chris. 2009. “Immersive interfaces for engagement and learning.” "[[American Association for the Advancement of Science (AAAS)]]". http://dx.doi.org/10.1126/science.1167311
 
 ## Abstract

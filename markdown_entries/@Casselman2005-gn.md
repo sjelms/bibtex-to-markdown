@@ -13,7 +13,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Casselman, R M, D Samson. 2005. “Moving Beyond Tacit and Explicit -  Four Dimensions of Knowledge.” . http://dx.doi.org/10.1109/HICSS.2005.446
 
 ## Abstract

@@ -19,7 +19,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Gill, Rebecca, Joshua Barbour, Marleah Dean. 2014. “Shadowing in/as Work -  Ten Recommendations for Shadowing Fieldwork Practice.” "[[Emerald Group Publishing Limited]]". https://doi.org/10.1108/QROM-09-2012-1100
 
 ## Abstract

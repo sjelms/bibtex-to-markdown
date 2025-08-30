@@ -27,7 +27,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Russ-Eft, Darlene. 2011. “Towards a Meta-Theory of Learning and Performance.” "[[SAGE Publications Ltd]]". https://sk.sagepub.com/reference/hdbk_workplacelearning/n9.xml
 
 ## Abstract

@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > contributors, Wikipedia. 2022. “SECI model of knowledge dimensions.” 
 
 ## Abstract

@@ -15,7 +15,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aurini, Janice D, Melanie Heath, Stephanie Howells. 2021. “The How To of Qualitative Research.” "[[SAGE]]". https://play.google.com/store/books/details?id=gto6EAAAQBAJ
 
 ## Abstract

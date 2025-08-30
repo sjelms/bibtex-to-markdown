@@ -17,7 +17,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Juricic, Belinda Brucker, Mario Galic, Sasa Marenjak. 2021. “Review of the construction labour demand and shortages in the EU.” "[[MDPI AG]]". http://dx.doi.org/10.3390/buildings11010017
 
 ## Abstract

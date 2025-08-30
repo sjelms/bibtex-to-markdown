@@ -15,7 +15,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Luckin, Rosemary, Benedict du Boulay. 2016. “Reflections on the Ecolab and the Zone of Proximal Development.” . https://doi.org/10.1007/s40593-015-0072-x
 
 ## Abstract

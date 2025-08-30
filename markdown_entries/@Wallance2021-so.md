@@ -11,5 +11,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wallance, David. 2021. “The Future of Modular Architecture.” "[[Routledge]]"

@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vygotsky, L S. 1978. “Mind in Society -  Development of Higher Psychological Processes.” "[[Harvard University Press]]". https://play.google.com/store/books/details?id=YvwkAQAAIAAJ
 
 ## Abstract

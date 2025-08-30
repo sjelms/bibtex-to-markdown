@@ -18,7 +18,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kadlub, Luanne. 1997. “Shortage of workers slams area contractors.” "[[BizWest Media LLC]]". https://www.proquest.com/trade-journals/shortage-workers-slams-area-contractors/docview/218501556/se-2
 
 ## Abstract

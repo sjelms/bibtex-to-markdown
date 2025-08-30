@@ -13,7 +13,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wiles, Rose. 2012. “What are Qualitative Research Ethics?.” "[[AandC Black]]". https://play.google.com/store/books/details?id=7vgxbhO4YXkC
 
 ## Abstract

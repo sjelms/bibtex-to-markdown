@@ -22,7 +22,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Moodie, Gavin. 2002. “Identifying Vocational Education and Training.” "[[Routledge]]". https://doi.org/10.1080/13636820200200197
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - Digital-Literacies
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Laurillard, Diana. 2012. “Teaching as a Design Science -  Building Pedagogical Patterns for Learning and Technology.” 
 
 ## Abstract

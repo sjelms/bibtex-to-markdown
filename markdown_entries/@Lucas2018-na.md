@@ -16,7 +16,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lucas, Patricia, Jenny Fleming, Julie Bhosale. 2018. “The Utility Of Case Study As A Methodology For Work-Integrated Learning Research.” . https://eric.ed.gov/?id=EJ1196748
 
 ## Abstract

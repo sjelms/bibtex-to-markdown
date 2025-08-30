@@ -14,7 +14,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Walker, Erin, Nikol Rummel, Kenneth R Koedinger. 2014. “Adaptive Intelligent Support to Improve Peer Tutoring in Algebra.” . https://doi.org/10.1007/s40593-013-0001-9
 
 ## Abstract

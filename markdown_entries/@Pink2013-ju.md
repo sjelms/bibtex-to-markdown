@@ -18,7 +18,7 @@ tags:
   - Fieldwork-Methodology
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pink, Sarah, Jennie Morgan. 2013. “Short-term ethnography -  Intense routes to knowing.” "[[Wiley]]". https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J
 
 ## Abstract

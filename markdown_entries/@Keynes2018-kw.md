@@ -8,7 +8,7 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Keynes, John Maynard. 2018. “The General Theory of Employment, Interest, and Money.” "[[Springer International Publishing]]". http://dx.doi.org/10.1007/978-3-319-70344-2
 
 ## Abstract

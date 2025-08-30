@@ -17,7 +17,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Weber-Lewerenz, Bianca Christina. 2022. “Accents of Added Value in Construction 4.0 -  Ethical Observations in Dealing With Digitization and AI.” "[[Springer Nature]]". https://play.google.com/store/books/details?id=-7KiEAAAQBAJ
 
 ## Abstract

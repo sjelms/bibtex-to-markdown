@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Stiglitz, Joseph E. 2025. “The Origins of Inequality and Policies to Contain It.” "[[Oxford University Press]]"
 
 ## Abstract

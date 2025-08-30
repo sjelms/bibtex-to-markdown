@@ -9,5 +9,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kirkpatrick, E A. 1894. “An Experimental Study of Memory.” "[[American Psychological Association (APA)]]". http://dx.doi.org/10.1037/h0068244

@@ -13,7 +13,7 @@ tags:
   - _In-Readwise
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bandura, Albert. 2021. “Psychological Modeling -  Conflicting Theories.” "[[Routledge]]". https://play.google.com/store/books/details?id=yhcoEAAAQBAJ
 
 ## Abstract

@@ -16,7 +16,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Charmaz, Kathy. 2005. “Grounded Theory in the 21st Century -  Applications for Advancing Social Justice Studies.” . https://psycnet.apa.org/fulltext/2005-07735-020.pdf
 
 ## Abstract

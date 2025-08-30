@@ -12,7 +12,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Levitt, Steven D, Stephen J Dubner. 2006. “Freakonomics -  A Rogue Economist Explores the Hidden Side of Everything.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=kxsQhM4D8uIC
 
 ## Abstract

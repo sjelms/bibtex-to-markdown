@@ -19,7 +19,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Smith, Ryan E, Jonathan W Elliott, Kevin Grosskopf. 2017. “Offsite Construction in Education -  A Survey of Prefabrication in Design and Construction Academia.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-8
 
 ## Abstract

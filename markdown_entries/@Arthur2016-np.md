@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Arthur, A C. 2016. “The Impact of Systems Differentiation and Affect Heuristics in Intuitive Construction Risk Management Decision Making Systems.” . https://discovery.ucl.ac.uk/id/eprint/1495997/
 
 ## Abstract

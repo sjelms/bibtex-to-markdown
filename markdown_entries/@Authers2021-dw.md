@@ -9,7 +9,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Authers, John. 2021. “If Your CEO Talks Like Kant, Think Twice Before Investing.” 
 
 ## Abstract

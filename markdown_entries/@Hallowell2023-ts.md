@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hallowell, Edward M, John J Ratey. 2023. “Delivered from Distraction -  Getting the most out of life with attention deficit disorder.” "[[Hachette UK]]"
 
 ## Abstract

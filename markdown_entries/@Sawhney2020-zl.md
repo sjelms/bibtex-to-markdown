@@ -20,7 +20,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sawhney, Anil, Mike Riley, Javier Irizarry, Cristina Toca Pérez. 2020. “A Proposed Framework for Construction 4.0 Based on a Review of Literature.” "[[EasyChair]]". http://dx.doi.org/10.29007/4nk3
 
 ## Abstract

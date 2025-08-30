@@ -14,7 +14,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hitchcock, Graham, David Hughes. 2002. “Research and the Teacher -  A Qualitative Introduction to School-based Research.” "[[Routledge]]". https://play.google.com/store/books/details?id=aL6IAgAAQBAJ
 
 ## Abstract

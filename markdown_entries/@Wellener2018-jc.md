@@ -16,5 +16,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wellener, P, S Pajula, B Dollar, L Monck, Deloitte. 2018. “2018 Deloitte Skills Gap and Future of Work in Manufacturing Study.”

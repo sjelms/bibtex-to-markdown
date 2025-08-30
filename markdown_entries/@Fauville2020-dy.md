@@ -16,5 +16,5 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fauville, Géraldine, Anna Carolina Muller Queiroz, Jeremy N Bailenson. 2020. “Virtual Reality as a Promising Tool to Promote Climate Change Awareness.” "[[Elsevier]]". http://dx.doi.org/10.1016/b978-0-12-816958-2.00005-8

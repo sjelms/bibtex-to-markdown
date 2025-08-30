@@ -13,7 +13,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Traylor, Scott. 2018. “Spatial Learning and STEM -  What are we missing?.” . http://www.360kid.com/blog/2018/03/
 
 ## Abstract

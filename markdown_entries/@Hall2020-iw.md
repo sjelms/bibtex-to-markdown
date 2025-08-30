@@ -17,7 +17,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hall, Daniel M, Jennifer K Whyte, Jerker Lessing. 2020. “Mirror-breaking Strategies to Enable Digital Manufacturing in Silicon Valley Construction Firms -  A Comparative Case Study.” "[[Routledge]]". https://doi.org/10.1080/01446193.2019.1656814
 
 ## Abstract

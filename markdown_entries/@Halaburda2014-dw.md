@@ -12,7 +12,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Halaburda, Hanna, Felix Oberholzer-Gee. 2014. “The Limits of Scale.” . https://hbr.org/2014/04/the-limits-of-scale
 
 ## Abstract

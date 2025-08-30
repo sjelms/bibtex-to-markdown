@@ -36,7 +36,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Casini, Marco. 2022. “Chapter 1 - Toward a new building era.” "[[Woodhead Publishing]]". https://www.sciencedirect.com/science/article/pii/B9780128217979000118
 
 ## Abstract

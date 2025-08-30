@@ -20,7 +20,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Manu, Patrick, Shang Gao (Lecturer in construction management), Paulo Bártolo, Valerie Francis (Professor in construction management), Anil Sawhney. 2023. “Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era.” "[[Routledge]]". https://play.google.com/store/books/details?id=3hrfzwEACAAJ
 
 ## Abstract

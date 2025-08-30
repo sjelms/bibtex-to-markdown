@@ -16,7 +16,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lesgold, Alan, Susanne Lajoie, Marilyn Bunzo, Gary Eggan. 1988. “Sherlock -  A Coached Practice Environment for an Electronics Troubleshooting Job.” "[[Lawrence Erlbaum Associates]]". https://files.eric.ed.gov/fulltext/ED299450.pdf
 
 ## Abstract

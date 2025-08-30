@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rebolledo-Mendez, Genaro, Rosemary Luckin, Benedict du Boulay. 2011. “Designing Adaptive Motivational Scaffolding for a Tutoring System.” "[[Springer New York]]". https://doi.org/10.1007/978-1-4419-9625-1_12
 
 ## Abstract

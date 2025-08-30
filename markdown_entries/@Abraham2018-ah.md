@@ -10,7 +10,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Abraham, A. 2018. “Engineering Applications of Artificial Intelligence.” "[[The International Journal of Intelligent Real-Time Automation]]". https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/vol/71/suppl/C
 
 ## Abstract

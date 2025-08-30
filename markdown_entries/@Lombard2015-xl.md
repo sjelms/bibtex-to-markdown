@@ -15,5 +15,5 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lombard, M, F Biocca, J Freeman, W IJsselsteijn, R J Schaevitz. 2015. “Immersed in media -  Telepresence theory, measurement and technology.” "[[Springer International Publishing]]". https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0

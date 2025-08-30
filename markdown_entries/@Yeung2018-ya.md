@@ -23,5 +23,5 @@ tags:
   - AIEd
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Yeung, C L, W M Wang, C F Cheung, Eric Tsui, Rossitza Setchi, Rongbin W B Lee. 2018. “Computational Narrative Mapping for the Acquisition and Representation of Lessons Learned Knowledge.” . https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320

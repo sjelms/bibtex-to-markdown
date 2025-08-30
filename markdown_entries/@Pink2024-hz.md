@@ -15,7 +15,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Pink, Richard, Roxanne Pink. 2024. “Small Talk -  10 ADHD Lies and How to Stop Believing Them.” "[[Random House]]"
 
 ## Abstract

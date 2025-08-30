@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vermeer, Daniel Marinus Maria. 2019. “Collective Learning in Strategic Public Private Partnership (PPP) Procurement Systems for Social Infrastructure.” . https://discovery.ucl.ac.uk/id/eprint/10086561/
 
 ## Abstract

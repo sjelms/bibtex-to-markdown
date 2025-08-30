@@ -12,7 +12,7 @@ tags:
   - Book-physical
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aitchison, Mathew. 2018. “Prefab Housing and the Future of Building -  Product to Process.” "[[Lund Humphries]]". https://www.lundhumphries.com/products/prefab-housing-and-the-future-of-building
 
 ## Abstract

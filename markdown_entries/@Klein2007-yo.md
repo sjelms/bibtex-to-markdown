@@ -9,7 +9,7 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Klein, Maury. 2007. “The Genesis of Industrial America, 1870-1920.” "[[Cambridge University Press]]". https://play.google.com/store/books/details?id=vKMgmQEACAAJ
 
 ## Abstract

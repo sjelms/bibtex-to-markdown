@@ -10,5 +10,5 @@ tags:
   - Education
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Trust, Froebel. 2020. “Froebel's Gifts.”

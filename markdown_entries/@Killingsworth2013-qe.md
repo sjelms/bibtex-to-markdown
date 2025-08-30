@@ -20,7 +20,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Killingsworth, John, Kevin R Grosskopf. 2013. “syNErgy -  A Case Study in Workforce Curriculum Development.” "[[SAGE Publications Inc]]". https://doi.org/10.1177/1045159513489111
 
 ## Abstract

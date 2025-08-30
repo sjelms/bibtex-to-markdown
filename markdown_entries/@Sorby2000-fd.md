@@ -17,7 +17,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sorby, Sheryl A, Beverly J Baartmans. 2000. “The development and assessment of a course for enhancing the 3-D spatial visualization skills of first year engineering students.” "[[Wiley]]". https://onlinelibrary.wiley.com/doi/10.1002/j.2168-9830.2000.tb00529.x
 
 ## Abstract

@@ -15,5 +15,5 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nonaka, Ikujiro. 2008. “The Knowledge-Creating Company.” "[[Reed Business Education]]"

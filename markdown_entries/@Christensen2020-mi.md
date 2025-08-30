@@ -10,7 +10,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Christensen, Clayton M. 2020. “Disruption 2020 -  An Interview With Clayton M. Christensen.” . https://www.proquest.com/scholarly-journals/disruption-2020-interview-with-clayton-m/docview/2381632425/se-2?accountid=14511
 
 ## Abstract

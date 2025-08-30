@@ -12,7 +12,7 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Zhou, Shanjing (alexander), Luigi Mosca, Jennifer K Whyte. 2023. “How the reliability of external competences shapes the modularization strategies of industrialized construction firms.” "[[Routledge]]". https://www.tandfonline.com/doi/full/10.1080/01446193.2023.2187071
 
 ## Abstract

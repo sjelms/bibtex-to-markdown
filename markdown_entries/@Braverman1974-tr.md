@@ -17,7 +17,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Braverman, Harry. 1974. “Labor and Monopoly Capital -  The Degradation of Work in the Twentieth Century.” "[[Monthly Review Press]]". https://play.google.com/store/books/details?id=ibwUCgAAQBAJ
 
 ## Abstract

@@ -19,7 +19,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Stuart, Mark. 2019. “The Industrial Relations of Training and Development.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch9
 
 ## Abstract

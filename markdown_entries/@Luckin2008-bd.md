@@ -17,7 +17,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Luckin, Rosemary. 2008. “The learner centric ecology of resources -  A framework for using technology to scaffold learning.” . https://www.sciencedirect.com/science/article/pii/S0360131507001091
 
 ## Abstract

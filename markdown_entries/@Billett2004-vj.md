@@ -18,7 +18,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Billett, Stephen. 2004. “Learning Through Work -  Workplace Participatory Practices.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-13/learning-work-stephen-billett
 
 ## Abstract

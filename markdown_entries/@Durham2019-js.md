@@ -19,7 +19,7 @@ tags:
   - Cross-Ref-Chapter
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Durham, Brian, Debra D Bragg. 2019. “The Contested Evolution and Future of Vocational Education in the United States.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch12
 
 ## Abstract

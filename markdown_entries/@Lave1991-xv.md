@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lave, Jean, Etienne Wenger. 1991. “Situated Learning -  Legitimate Peripheral Participation.” "[[Cambridge University Press]]". https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD
 
 ## Abstract

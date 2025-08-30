@@ -13,7 +13,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bartel, Ann, Casey Ichniowski, Kathryn Shaw. 2007. “How does information technology affect productivity? Plant-level comparisons of product innovation, process improvement, and worker skills.” "[[MIT Press]]". https://academic.oup.com/qje/article-lookup/doi/10.1162/qjec.2007.122.4.1721
 
 ## Abstract

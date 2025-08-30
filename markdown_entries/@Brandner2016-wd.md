@@ -18,7 +18,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brandner, R, G Flatscher, A Ringhofer, G Schickhofer, A Thiel. 2016. “Cross laminated timber (CLT) -  overview and development.” . https://doi.org/10.1007/s00107-015-0999-5
 
 ## Abstract

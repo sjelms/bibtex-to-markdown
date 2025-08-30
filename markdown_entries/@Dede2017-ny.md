@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Dede, Christopher J, Jeffrey Jacobson, John Richards. 2017. “Introduction -  Virtual, Augmented, and Mixed Realities in Education.” "[[Springer Singapore]]". https://doi.org/10.1007/978-981-10-5490-7_1
 
 ## Abstract

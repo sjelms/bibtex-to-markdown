@@ -13,7 +13,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hallowell, Edward M, John J Ratey. 2023. “ADHD 2.0 -  New Science and Essential Strategies for Thriving With Distraction - From Childhood Through Adulthood.” "[[Hachette UK]]"
 
 ## Abstract

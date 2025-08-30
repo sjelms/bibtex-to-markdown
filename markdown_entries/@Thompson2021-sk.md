@@ -16,5 +16,5 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Thompson, Matthew. 2021. “DfMA Overlay to the RIBA Plan of Work.” "[[Royal Institute of British Architects]]". https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work

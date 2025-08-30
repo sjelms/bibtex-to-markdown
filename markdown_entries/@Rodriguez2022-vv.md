@@ -11,7 +11,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rodriguez, Alvaro Lopez. 2022. “Untitled.” . https://www.ucl.ac.uk/bartlett/building-better-bartlett-podcast
 
 ## Abstract

@@ -13,7 +13,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Statistics, U.S. Department of Labor Bureau of Labor. 2023. “January 2023 jobs report -  More strong, steady growth.” 
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chun, Chan King, Heng Li, Martin Skitmore. 2012. “The use of virtual prototyping for hazard identification in the early design stage.” "[[Emerald]]". http://dx.doi.org/10.1108/14714171211197481
 
 ## Abstract

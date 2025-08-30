@@ -21,7 +21,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nassereddine, Hala, Dharmaraj Veeramani, Awad Hanna. 2019. “Augmented reality-enabled production strategy process.” "[[IAARC]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/augmented_reality_enabled_production_strategy_process.html
 
 ## Abstract

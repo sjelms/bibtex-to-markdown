@@ -12,7 +12,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Blondy, Laurie C. 2007. “Evaluation and application of andragogical assumptions to the adult online learning environment.” . http://www.ncolr.org/issues/jiol/v6/n2/index.html
 
 ## Abstract

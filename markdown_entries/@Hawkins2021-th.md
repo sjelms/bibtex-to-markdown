@@ -12,7 +12,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hawkins, Will. 2021. “Timber and carbon sequestration.” 
 
 ## Abstract

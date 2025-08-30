@@ -10,7 +10,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Popper, Karl R. 2020. “The Open Society and Its Enemies.” "[[Princeton University Press]]". https://doi.org/10.1515/9780691212067
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Christian, Brian, Tom Griffiths. 2016. “Algorithms to Live By -  The Computer Science of Human Decisions.” "[[HarperCollins UK]]"
 
 ## Abstract

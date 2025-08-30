@@ -10,7 +10,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rothstein, Robin. 2023. “Housing Market Predictions For 2023 -  When Will Home Prices Become Affordable?.” . https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/
 
 ## Abstract

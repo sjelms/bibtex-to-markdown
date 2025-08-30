@@ -23,7 +23,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Adepoju, Omoseni, Clinton Aigbavboa, Nnamdi Nwulu, Michael Onyia. 2022. “Re-skilling Human Resources for Construction 4.0 -  Implications for Industry, Academia and Government.” "[[Springer Nature]]". https://link.springer.com/book/10.1007/978-3-030-85973-2
 
 ## Abstract

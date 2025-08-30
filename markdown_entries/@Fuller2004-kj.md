@@ -22,7 +22,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison, Anne Munro, Helen Rainbird. 2004. “Workplace Learning in Context.” "[[Taylor and Francis]]". https://play.google.com/store/books/details?id=1VY4_egobYAC
 
 ## Abstract

@@ -12,7 +12,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Emmitt, Stephen. 2018. “Barry's Introduction to Construction of Buildings.” "[[John Wiley and Sons]]". https://play.google.com/store/books/details?id=5gtuDwAAQBAJ
 
 ## Abstract

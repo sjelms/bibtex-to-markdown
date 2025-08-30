@@ -19,7 +19,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Weber-Lewerenz, Bianca Christina. 2022. “Guest Chapter -  The Human in the Centre?! (Christian)—Ethical Reflections on the Anthropological and Ethical Challenges of AI.” "[[Springer Fachmedien Wiesbaden]]". https://doi.org/10.1007/978-3-658-39407-3_13
 
 ## Abstract

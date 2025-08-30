@@ -14,7 +14,7 @@ tags:
   - Future-of-Work
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Tomlinson, Kiran, Sonia Jaffe, Will Wang, Scott Counts, Siddharth Suri. 2025. “Working with AI -  Measuring the occupational implications of generative AI.” . http://arxiv.org/abs/2507.07935
 
 ## Abstract

@@ -18,5 +18,5 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Luckin, Rose, Wayne Holmes, Mark Griffiths, Laurie Corcier, UCL Knowledge Lab, Pearson (Firm), University College London. 2016. “Intelligence Unleashed.” "[[Pearson]]"

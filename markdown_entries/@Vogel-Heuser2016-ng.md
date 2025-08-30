@@ -19,7 +19,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vogel-Heuser, Birgit, Dieter Hess. 2016. “Guest Editorial Industry 4.0–Prerequisites and Visions.” . http://dx.doi.org/10.1109/TASE.2016.2523639
 
 ## Abstract

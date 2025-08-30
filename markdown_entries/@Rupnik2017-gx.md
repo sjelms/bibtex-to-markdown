@@ -17,7 +17,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Rupnik, Ivan. 2017. “Mapping the Modular Industry.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-4
 
 ## Abstract

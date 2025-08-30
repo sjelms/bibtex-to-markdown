@@ -17,7 +17,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aitchison, Mathew. 2016. “The Architecture of Industry -  Changing Paradigms in Industrial Building and Planning.” "[[Routledge]]". https://play.google.com/store/books/details?id=qeq_CwAAQBAJ
 
 ## Abstract

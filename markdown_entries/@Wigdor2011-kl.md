@@ -15,7 +15,7 @@ tags:
   - _In-Notion
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wigdor, Daniel, Dennis Wixon. 2011. “Brave NUI World -  Designing Natural User Interfaces for Touch and Gesture.” "[[Elsevier]]". https://play.google.com/store/books/details?id=ID0L0EI79-YC
 
 ## Abstract

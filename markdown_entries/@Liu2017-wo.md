@@ -13,7 +13,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Liu, Dejian, Chris Dede, Ronghuai Huang, John Richards. 2017. “Virtual, Augmented, and Mixed Realities in Education.” "[[Springer]]". https://play.google.com/store/books/details?id=uvM-DwAAQBAJ
 
 ## Abstract

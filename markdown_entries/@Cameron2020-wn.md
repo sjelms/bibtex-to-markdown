@@ -17,7 +17,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cameron, Lynelle. 2020. “Data to the rescue -  Embodied carbon in buildings and the urgency of now.” . https://www.mckinsey.com/capabilities/operations/our-insights/data-to-the-rescue-embodied-carbon-in-buildings-and-the-urgency-of-now
 
 ## Abstract

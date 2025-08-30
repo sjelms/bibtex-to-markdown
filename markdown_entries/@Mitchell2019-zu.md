@@ -13,7 +13,7 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mitchell, Melanie. 2019. “Artificial Intelligence -  A Guide for Thinking Humans.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=VfSIDwAAQBAJ
 
 ## Abstract

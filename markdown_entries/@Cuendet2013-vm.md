@@ -16,7 +16,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cuendet, Sébastien, Quentin Bonnard, Son Do-Lenh, Pierre Dillenbourg. 2013. “Designing Augmented Reality for the Classroom.” "[[Elsevier BV]]". http://dx.doi.org/10.1016/j.compedu.2013.02.015
 
 ## Abstract

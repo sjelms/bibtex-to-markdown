@@ -12,7 +12,7 @@ tags:
   - VET
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Winch, Christopher. 2012. “Dimensions of Expertise -  A Conceptual Exploration of Vocational Knowledge.” "[[AandC Black]]". https://play.google.com/store/books/details?id=ZfRGAQAAQBAJ
 
 ## Abstract

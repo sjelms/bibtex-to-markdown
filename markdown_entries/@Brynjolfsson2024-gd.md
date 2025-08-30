@@ -16,7 +16,7 @@ tags:
   - Artificial-Intelligence-AI
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Brynjolfsson, Erik, Alex Pentland, Nathaniel Persily, Condoleezza Rice, Angela Aristidou. 2024. “The Digitalist Papers -  Artificial Intelligence and Democracy in America.” "[[Stanford Digital Economy Lab]]". https://www.digitalistpapers.com/
 
 ## Abstract

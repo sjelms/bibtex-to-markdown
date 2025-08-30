@@ -13,7 +13,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > NCASI. 2021. “Forest Carbon from Young vs. Old Forests.” 
 
 ## Abstract

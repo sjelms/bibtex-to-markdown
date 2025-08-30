@@ -15,5 +15,5 @@ tags:
   - ACM
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Cuendet, Sébastien, Engin Bumbacher, Pierre Dillenbourg. 2012. “Tangible vs. virtual representations.” "[[ACM Press]]". http://dx.doi.org/10.1145/2399016.2399032

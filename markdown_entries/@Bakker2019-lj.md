@@ -14,7 +14,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bakker, Arthur, Sanne Akkerman. 2019. “The Learning Potential of Boundary Crossing in the Vocational Curriculum.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch18
 
 ## Abstract

@@ -10,7 +10,7 @@ tags:
   - UCL
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Tan, Tan. 2023. “Integrated Approaches to Digital-Enabled Design for Manufacture and Assembly -  A Modularity Perspective and Case Study of Huoshenshan Hospital in Wuhan, China.” . https://discovery.ucl.ac.uk/id/eprint/10174185/
 
 ## Abstract

@@ -19,5 +19,5 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Young, Michael. 2004. “Conceptualizing Vocational Knowledge -  Some Theoretical Considerations.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young

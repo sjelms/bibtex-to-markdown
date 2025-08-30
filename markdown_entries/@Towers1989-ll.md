@@ -15,7 +15,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Towers, Brian. 1989. “Running the Gauntlet -  British Trade Unions under Thatcher, 1979–1988.” "[[SAGE Publications Inc]]". https://doi.org/10.1177/001979398904200201
 
 ## Abstract

@@ -14,7 +14,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Eraut, Michael. 2004. “Informal learning in the workplace.” "[[Routledge]]". https://doi.org/10.1080/158037042000225245
 
 ## Abstract

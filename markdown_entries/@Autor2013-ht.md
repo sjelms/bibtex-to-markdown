@@ -17,7 +17,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Autor, David H, David Dorn. 2013. “The Growth of Low-skill Service Jobs and the Polarization of the US Labor Market.” "[[American Economic Association]]". http://dx.doi.org/10.1257/aer.103.5.1553
 
 ## Abstract

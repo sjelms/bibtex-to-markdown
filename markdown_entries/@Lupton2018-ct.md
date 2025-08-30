@@ -18,7 +18,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lupton, Ruth, Trudi Martin, Lorna Unwin. 2018. “The Construction Challenge in Greater Manchester -  Employment, Skills and Training.” "[[University of Manchester]]"
 
 ## Abstract

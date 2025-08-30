@@ -12,7 +12,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. “Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi -  “Bracketing” Management Science.” "[[Springer Singapore]]". https://doi.org/10.1007/978-981-16-6851-7_1
 
 ## Abstract

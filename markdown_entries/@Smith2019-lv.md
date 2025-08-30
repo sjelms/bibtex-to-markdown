@@ -14,7 +14,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Smith, Ryan E, Ivan Rupnik. 2019. “Productivity, Innovation and Disruption  -  A Study of Offsite Construction in the United States.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-10/productivity-innovation-disruption-ryan-smith-ivan-rupnik
 
 ## Abstract

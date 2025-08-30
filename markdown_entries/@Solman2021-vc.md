@@ -12,7 +12,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Solman, P. 2021. “The manufacturing sector needs workers. Training high schoolers could help fill that void.” "[[PBS]]". https://www.pbs.org/newshour/show/the-manufacturing-sector-needs-workers-training-high-schoolers-could-help-fill-that-void
 
 ## Abstract

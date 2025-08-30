@@ -23,7 +23,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lizop, Morgan, Matt Abbott. 2020. “Vygotsky's Theory of cognitive development in social relationships.” "[[Sprouts Learning Co., Ltd.]]". https://youtu.be/8I2hrSRbmHE
 
 ## Abstract

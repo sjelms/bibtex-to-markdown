@@ -12,7 +12,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hillinger, Charles. 1991. “Pulling the Plug  -  Phone Company to Replace Last Manual Switchboard.” "[[Los Angeles Times]]". https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html
 
 ## Abstract

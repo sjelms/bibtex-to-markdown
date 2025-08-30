@@ -11,7 +11,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kirby, Amanda, Theo Smith. 2021. “Neurodiversity at Work -  Drive Innovation, Performance, and Productivity with a Neurodiverse Workforce.” "[[Kogan Page]]"
 
 ## Abstract

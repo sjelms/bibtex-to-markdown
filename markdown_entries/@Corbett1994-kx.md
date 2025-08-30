@@ -13,7 +13,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Corbett, Albert T, John R Anderson. 1994. “Knowledge tracing -  Modeling the acquisition of procedural knowledge.” . https://doi.org/10.1007/BF01099821
 
 ## Abstract

@@ -18,7 +18,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jagannathan, Shanti, Dorothy Geronimo. 2021. “Reaping the benefits of industry 4.0 through skills development in Viet Nam.” "[[Asian Development Bank]]". http://dx.doi.org/10.22617/spr200308
 
 ## Abstract

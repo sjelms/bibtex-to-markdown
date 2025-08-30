@@ -22,7 +22,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Park, Christine, John Alderman. 2016. “What is multimodal design? An interview with John Alderman and Christine Park.” "[[O’Reilly]]". https://youtu.be/1ozqFwnU01E
 
 ## Abstract

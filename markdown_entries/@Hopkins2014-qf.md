@@ -12,7 +12,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hopkins, Owen. 2014. “Architectural Styles -  A Visual Guide.” "[[Laurence King Publishing]]"
 
 ## Abstract

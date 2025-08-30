@@ -34,7 +34,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mayer, Richard E, Logan Fiorella, Gino Camp, Tim Surma, Paul A Kirschner, David F Feldon, Soojeong Jeong, Richard E Clark, Halszka Jarodzka, Fred Paas, John Sweller, Wolfgang Schnotz, Liesbeth Kester, Jeroen J G van Merriënboer, Claudia Schrader, Slava Kalyuga, Jan L Plass, Roger Azevedo, Daryn Dever, Shaaron Ainsworth, Paul Ayres, Tamara van Gog. 2021. “The Cambridge Handbook of Multimedia Learning.” "[[Cambridge University Press]]". https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/C1C0B00FE70DC11AFDC1F9E1782B5B77
 
 ## Abstract

@@ -12,5 +12,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Gallace, Alberto, Charles Spence. 2014. “In Touch with the Future -  The sense of touch from cognitive neuroscience to virtual reality.” "[[Oxford University Press]]". http://dx.doi.org/10.1093/acprof:oso/9780199644469.001.0001

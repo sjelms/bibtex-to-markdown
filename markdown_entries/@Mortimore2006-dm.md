@@ -20,7 +20,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mortimore, Tilly, W Ray Crozier. 2006. “Dyslexia and difficulties with study skills in higher education.” "[[Routledge]]". https://doi.org/10.1080/03075070600572173
 
 ## Abstract

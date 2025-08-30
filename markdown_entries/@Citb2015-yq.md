@@ -12,7 +12,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > CITB. 2015. “Future of Jobs and Skills in the UK Construction Sector to 2030.” . https://www.citb.co.uk/about-citb/construction-industry-research-reports/search-our-construction-industry-research-reports/future-of-jobs-and-skills-in-the-uk-construction-sector-to-2030/
 
 ## Abstract

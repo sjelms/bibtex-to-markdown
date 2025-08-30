@@ -11,5 +11,5 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Steinicke, Frank. 2016. “Being really virtual -  Immersive natives and the future of virtual reality.” "[[Springer International Publishing]]". https://books.google.com/books?id=f-lODQAAQBAJ&newbks=1

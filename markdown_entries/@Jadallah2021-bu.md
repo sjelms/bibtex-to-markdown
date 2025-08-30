@@ -20,7 +20,7 @@ tags:
   - _In-ClickUp
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jadallah, Hazem. 2021. “Educational Theory-Embedded Training for Construction Industry Professionals.” . https://digitalcommons.lsu.edu/gradschool_dissertations/5487
 
 ## Abstract

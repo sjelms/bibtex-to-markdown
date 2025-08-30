@@ -21,7 +21,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Alkhatlan, Ali, Jugal Kalita. 2019. “Intelligent tutoring systems -  A comprehensive historical survey with recent developments.” "[[Foundation of Computer Science]]". http://www.ijcaonline.org/archives/volume181/number43/30402-2019918451
 
 ## Abstract

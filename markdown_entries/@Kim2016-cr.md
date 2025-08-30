@@ -17,7 +17,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kim, Yanghee, Amy L Baylor. 2016. “Research-based Design of Pedagogical Agent Roles -  a Review, Progress, and Recommendations.” "[[Springer Science and Business Media LLC]]". http://dx.doi.org/10.1007/s40593-015-0055-y
 
 ## Abstract

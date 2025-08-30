@@ -10,5 +10,5 @@ tags:
   - _BibTex-to-MD-Git
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Friesner, Tim, Mike Hart. 2005. “Learning Logs -  Assessment or Research Method?.”

@@ -14,5 +14,5 @@ tags:
   - Essential
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Ashraf, Nava, Oriana Bandiera, Virginia Minni, Luigi Zingales. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843

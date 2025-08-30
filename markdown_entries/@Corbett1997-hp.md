@@ -12,7 +12,7 @@ tags:
   - Intelligent-Tutoring-Systems-ITS
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Corbett, Albert T, Kenneth R Koedinger, John R Anderson. 1997. “Chapter 37 - Intelligent Tutoring Systems.” "[[North-Holland]]". https://www.sciencedirect.com/science/article/pii/B9780444818621501035
 
 ## Abstract

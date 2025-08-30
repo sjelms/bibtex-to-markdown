@@ -11,7 +11,7 @@ tags:
   - _XR-MR-VR-AR
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Jerald, Jason. 2015. “The VR Book -  Human-Centered Design for Virtual Reality.” "[[Association for Computing Machinery and Morgan and Claypool Publishers]]". https://books.google.co.uk/books?id=ZEBiDwAAQBAJ
 
 ## Abstract

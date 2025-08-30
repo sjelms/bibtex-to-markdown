@@ -19,7 +19,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Charmaz, Kathy. 2001. “Qualitative Interviewing and Grounded Theory Analysis.” "[[SAGE Publications, Inc.]]". https://methods.sagepub.com/book/handbook-of-interview-research
 
 ## Abstract

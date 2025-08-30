@@ -19,7 +19,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Guzsvinecz, Tibor, Éva Orbán-Mihálykó, Cecília Sik-Lányi, Erika Perge. 2022. “Investigation of spatial ability test completion times in virtual reality using a desktop display and the Gear VR.” . https://doi.org/10.1007/s10055-021-00509-2
 
 ## Abstract

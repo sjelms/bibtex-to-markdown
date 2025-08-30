@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Vibæk, Kasper Sánchez. 2017. “System Structures -  A Theory of Industrialised Architecture.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-2
 
 ## Abstract

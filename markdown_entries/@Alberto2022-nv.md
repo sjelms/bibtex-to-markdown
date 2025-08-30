@@ -9,5 +9,5 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Alberto, Jayzona. 2022. “Applying the Cognitive Theory of Multimedia Learning to Educational Animations and Explainer Videos in CME-CPD.”

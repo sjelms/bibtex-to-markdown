@@ -12,7 +12,7 @@ tags:
   - Website
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Highfield, Travis. 2019. “Future of Safety Training.” 
 
 ## Abstract

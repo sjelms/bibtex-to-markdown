@@ -15,7 +15,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Fuller, Alison. 2013. “Apprenticeship and the Concept of Occupation.” "[[Gatsby Charitable Foundation]]". http://hdl.voced.edu.au/10707/363067
 
 ## Abstract

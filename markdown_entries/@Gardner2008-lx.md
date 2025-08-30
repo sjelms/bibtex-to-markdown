@@ -12,7 +12,7 @@ tags:
   - _In-Readwise
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Gardner, Howard E. 2008. “Multiple Intelligences -  New Horizons in Theory and Practice.” "[[Hachette UK]]". https://play.google.com/store/books/details?id=7Gw4DgAAQBAJ
 
 ## Abstract

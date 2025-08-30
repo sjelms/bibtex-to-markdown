@@ -21,7 +21,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Panadero, Ernesto. 2017. “A Review of Self-regulated Learning -  Six Models and Four Directions for Research.” . http://dx.doi.org/10.3389/fpsyg.2017.00422
 
 ## Abstract

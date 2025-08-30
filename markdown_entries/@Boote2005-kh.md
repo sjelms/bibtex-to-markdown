@@ -14,7 +14,7 @@ tags:
   - _Mark-Up
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Boote, David N, Penny Beile. 2005. “Scholars Before Researchers -  On the Centrality of the Dissertation Literature Review in Research Preparation.” "[[American Educational Research Association]]". https://doi.org/10.3102/0013189X034006003
 
 ## Abstract

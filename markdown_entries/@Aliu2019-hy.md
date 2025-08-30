@@ -20,7 +20,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aliu, John, Clinton Aigbavboa. 2019. “Examining the Roles of Human Capital Theory. What next for Construction Industry?.” "[[IOP Publishing]]". https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta
 
 ## Abstract

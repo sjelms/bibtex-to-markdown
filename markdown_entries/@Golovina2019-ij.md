@@ -20,7 +20,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Golovina, Olga, Caner Kazanci, Jochen Teizer, Markus König. 2019. “Using Serious Games in Virtual Reality for Automated Close Call and Contact Collision Analysis in Construction Safety.” "[[International Association for Automation and Robotics in Construction (IAARC)]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/using_serious_games_in_virtual_reality_for_automated_close_call_and_contact_collision_analysis_in_construction_safety.html
 
 ## Abstract

@@ -12,7 +12,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Philip, Lorna J. 1998. “Combining Quantitative and Qualitative Approaches to Social Research in Human Geography—An Impossible Mixture?.” "[[SAGE Publications Ltd]]". https://doi.org/10.1068/a300261
 
 ## Abstract

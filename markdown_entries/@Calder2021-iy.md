@@ -10,7 +10,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Calder, Barnabas. 2021. “Architecture -  From Prehistory to Climate Emergency.” "[[Pelican]]"
 
 ## Abstract

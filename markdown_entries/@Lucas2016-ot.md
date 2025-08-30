@@ -13,7 +13,7 @@ tags:
   - Research-Methods
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lucas, Ray, Raymond Lucas. 2016. “Research Methods for Architecture.” "[[Hachette UK]]". https://play.google.com/store/books/details?id=K_YgEAAAQBAJ
 
 ## Abstract

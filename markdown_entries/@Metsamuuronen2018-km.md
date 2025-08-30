@@ -19,5 +19,5 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Metsämuuronen, Jari, Pekka Räsänen. 2018. “Cognitive–Linguistic and Constructivist Mnemonic Triggers in Teaching Based on Jerome Bruner’s Thinking.” . http://dx.doi.org/10.3389/fpsyg.2018.02543

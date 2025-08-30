@@ -16,7 +16,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bundgaard, Charlotte. 2017. “Constructing Dialogues -  On Architectural Potentials of Montage.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-3
 
 ## Abstract

@@ -20,7 +20,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Collins, Allan, Richard Halverson. 2018. “Rethinking Education in the Age of Technology -  The Digital Revolution and Schooling in America.” "[[Teachers College Press]]"
 
 ## Abstract

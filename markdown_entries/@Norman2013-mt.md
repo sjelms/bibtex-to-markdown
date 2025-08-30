@@ -13,5 +13,5 @@ tags:
   - Audiobook
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Norman, Don. 2013. “The Design of Everyday Things -  Revised and Expanded Edition.” "[[MIT Press]]"

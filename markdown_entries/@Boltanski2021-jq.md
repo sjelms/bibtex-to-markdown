@@ -13,7 +13,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Boltanski, Luc, Laurent Thévenot. 2021. “On Justification -  Economies of Worth.” "[[Princeton University Press]]". https://openlibrary.org/books/OL35891356M/On_Justification
 
 ## Abstract

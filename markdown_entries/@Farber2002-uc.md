@@ -13,7 +13,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Farber, Henry S, Bruce Western. 2002. “Ronald Reagan and the politics of declining union organization.” "[[Wiley]]". https://onlinelibrary.wiley.com/doi/10.1111/1467-8543.00240
 
 ## Abstract

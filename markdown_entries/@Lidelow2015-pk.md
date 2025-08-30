@@ -13,7 +13,7 @@ tags:
   - AEC
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Lidelöw, Helena, Lars Stehn, Jerker Lessing, Dan Engström. 2015. “Industriellt husbyggande.” "[[Studentlitteratur AB]]"
 
 ## Abstract

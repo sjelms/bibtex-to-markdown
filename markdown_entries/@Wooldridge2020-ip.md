@@ -13,7 +13,7 @@ tags:
   - Future-of-Work
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wooldridge, Michael. 2020. “The Road to Conscious Machines -  The Story of AI.” "[[Penguin UK]]". https://play.google.com/store/books/details?id=nnmtDwAAQBAJ
 
 ## Abstract

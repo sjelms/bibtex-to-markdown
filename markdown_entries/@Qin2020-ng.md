@@ -18,7 +18,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Qin, F, T Kochan. 2020. “The Learning System at IBM -  A Case Study.” "[[MIT Work of the Future]]"
 
 ## Abstract

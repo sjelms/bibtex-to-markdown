@@ -16,7 +16,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Warhurst, Chris, Ken Mayhew, David Finegold, John Buchanan. 2017. “The Oxford Handbook of Skills and Training.” "[[Oxford University Press]]". https://global.oup.com/academic/product/the-oxford-handbook-of-skills-and-training-9780199655366
 
 ## Abstract

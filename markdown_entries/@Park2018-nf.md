@@ -11,5 +11,5 @@ tags:
   - HCI
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Park, C W, J Alderman. 2018. “Designing Across Senses -  A Multimodal Approach to Product Design.” "[[O'Reilly Media]]". https://books.google.co.uk/books?id=GZVUDwAAQBAJ

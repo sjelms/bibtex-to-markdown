@@ -10,7 +10,7 @@ tags:
   - YouTube
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mills, Fred. 2019. “Construction's Digital Manufacturing Revolution.” "[[The B1M]]". https://www.youtube.com/watch?v=6-mxc9KBgbo
 
 ## Abstract

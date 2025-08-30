@@ -16,7 +16,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > VanLehn, Kurt. 2011. “The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems.” . https://doi.org/10.1080/00461520.2011.611369
 
 ## Abstract

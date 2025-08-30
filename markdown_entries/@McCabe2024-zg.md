@@ -14,7 +14,7 @@ tags:
   - Neurodivergent-and-ADHD
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > McCabe, Jessica. 2024. “How to ADHD -  An insider's guide to working with your brain (not against it).” "[[Rodale Books]]"
 
 ## Abstract

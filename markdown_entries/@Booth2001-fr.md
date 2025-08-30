@@ -12,7 +12,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Booth, A L. 2001. “Trade Unions, Economic Behavior of.” "[[Pergamon]]". https://www.sciencedirect.com/science/article/pii/B0080430767022877
 
 ## Abstract

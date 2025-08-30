@@ -21,7 +21,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Parong, Jocelyn. 2021. “Multimedia Learning in Virtual and Mixed Reality.” "[[Cambridge University Press]]". https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/multimedia-learning-in-virtual-and-mixed-reality/58F89329789676CDC830E3EE841299A1
 
 ## Abstract

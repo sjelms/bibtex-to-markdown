@@ -16,7 +16,7 @@ tags:
   - Cited-for-Frontiers
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Puntambekar, Sadhana. 2021. “Distributed Scaffolding -  Scaffolding Students in Classroom Environments.” . https://doi.org/10.1007/s10648-021-09636-3
 
 ## Abstract

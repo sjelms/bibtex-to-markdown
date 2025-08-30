@@ -16,7 +16,7 @@ tags:
   - Economics
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Berger, Thor, Carl Benedikt Frey. 2017. “Industrial Renewal in the 21st Century -  Evidence From US Cities.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/00343404.2015.1100288
 
 ## Abstract

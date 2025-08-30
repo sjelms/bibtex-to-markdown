@@ -18,7 +18,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Aitchison, Mathew, John Macarthur. 2017. “Prefabricated Housing in Architectural Culture.” "[[Routledge]]". https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5
 
 ## Abstract

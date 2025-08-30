@@ -14,5 +14,5 @@ tags:
   - Knowledge---Skill-Acquisition
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Kambhampati, Subbarao. 2021. “Polanyi's revenge and AI's new romance with tacit knowledge.” . http://dx.doi.org/10.1145/3446369

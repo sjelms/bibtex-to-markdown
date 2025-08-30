@@ -10,7 +10,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Chang, Ha-Joon. 2014. “Economics -  The User's Guide.” "[[Penguin UK]]"
 
 ## Abstract

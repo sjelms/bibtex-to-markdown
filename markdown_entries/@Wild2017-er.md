@@ -16,7 +16,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wild, Fridolin, Roland Klemke, Paul Lefrere, Mikhail Fominykh, Timo Kuula. 2017. “Technology Acceptance of Augmented Reality and Wearable Technologies.” "[[Springer International Publishing]]". http://dx.doi.org/10.1007/978-3-319-60633-0_11
 
 ## Abstract

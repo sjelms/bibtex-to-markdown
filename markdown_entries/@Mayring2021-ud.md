@@ -15,7 +15,7 @@ tags:
   - _In-Readwise
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Mayring, Philipp. 2021. “Qualitative Content Analysis -  A Step-by-Step Guide.” "[[SAGE]]". https://play.google.com/store/books/details?id=hCdLEAAAQBAJ
 
 ## Abstract

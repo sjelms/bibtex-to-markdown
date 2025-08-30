@@ -10,7 +10,7 @@ tags:
   - _Cataloged
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Hub, Global Infrastructure. 2020. “Global Infrastructure Outlook - A G20 INITIATIVE.” . https://outlook.gihub.org/
 
 ## Abstract

@@ -17,7 +17,7 @@ tags:
   - Workplace-Learning
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Collins, Allan, John Seely Brown, Susan E Newman. 1987. “Cognitive Apprenticeship -  Teaching the Crafts of Reading, Writing, and Mathematics.” . http://dx.doi.org/10.4324/9781315044408-14
 
 ## Abstract

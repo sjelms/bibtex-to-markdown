@@ -13,7 +13,7 @@ tags:
   - Labor
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Sutton, Robert I, Huggy Rao. 2024. “The Friction Project -  How Smart Leaders Make the Right Things Easier and the Wrong Things Harder.” "[[Penguin Books]]"
 
 ## Abstract

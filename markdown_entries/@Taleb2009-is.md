@@ -10,7 +10,7 @@ tags:
   - ePub
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Taleb, Nassim Nicholas. 2009. “The Black Swan -  The Impact of the Highly Improbable.” "[[Random House Digital]]". https://books.google.com/books?id=YdOYmYA2TJYC&newbks=1
 
 ## Abstract

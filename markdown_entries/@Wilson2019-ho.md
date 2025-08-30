@@ -19,7 +19,7 @@ tags:
   - _New-Literature
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Wilson, James. 2019. “Design for Modular Construction -  An Introduction for Architects.” "[[American Institute of Architects]]"
 
 ## Abstract
