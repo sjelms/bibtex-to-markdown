@@ -189,7 +189,7 @@ for entry in bib_database.entries:
 
     # Add abstract section if available
     if abstract:
-        markdown_content += f"\n\n## Abstract\n{abstract}"
+        markdown_content += f"\n\n> [!abstract]\n> {abstract}"
 
     # Save the Markdown file
     md_filename = os.path.join(OUTPUT_DIR, f"@{key}.md")
