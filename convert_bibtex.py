@@ -185,7 +185,7 @@ for entry in bib_database.entries:
     yaml_lines.append("---")
 
     # Assemble final Markdown content
-    markdown_content = "\n".join(yaml_lines) + f"\n\n> [!Bibliography]\n> {bibliography}"
+    markdown_content = "\n".join(yaml_lines) + f"\n\n> [!bibliography]\n> {bibliography}"
 
     # Add abstract section if available
     if abstract:
