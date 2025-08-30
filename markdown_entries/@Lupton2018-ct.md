@@ -21,5 +21,5 @@ tags:
 > [!bibliography]
 > Lupton, Ruth, Trudi Martin, Lorna Unwin. 2018. “The Construction Challenge in Greater Manchester -  Employment, Skills and Training.” "[[University of Manchester]]"
 
-## Abstract
-This report presents findings from a knowledge-exchange project focused on the employment, skills and training challenges facing the construction sector in Greater Manchester (GM).
+> [!abstract]
+> This report presents findings from a knowledge-exchange project focused on the employment, skills and training challenges facing the construction sector in Greater Manchester (GM).

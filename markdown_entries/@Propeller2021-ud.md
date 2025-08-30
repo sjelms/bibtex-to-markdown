@@ -14,5 +14,5 @@ tags:
 > [!bibliography]
 > Propeller. 2021. “How to Adapt to the Skilled Labor Shortage in Construction.” 
 
-## Abstract
-72\% of general contractors anticipate labor shortages to be the biggest hurdle this year. Here's how digital tools can help.
+> [!abstract]
+> 72\% of general contractors anticipate labor shortages to be the biggest hurdle this year. Here's how digital tools can help.

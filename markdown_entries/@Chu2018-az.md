@@ -16,5 +16,5 @@ tags:
 > [!bibliography]
 > Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. “The future of automated ports.” "[[McKinsey and Company]]"
 
-## Abstract
-Port automation poses significant problems, but careful planning and implementation can surmount them.
+> [!abstract]
+> Port automation poses significant problems, but careful planning and implementation can surmount them.

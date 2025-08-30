@@ -12,5 +12,5 @@ tags:
 > [!bibliography]
 > (USICH), U.S. Interagency Council on Homelessness. 2019. “Homelessness in California statistics 2019. Homeless Estimation by State.” . https://www.usich.gov/homelessness-statistics/ca/
 
-## Abstract
-Find out homeless population statistics for the state of California, get the data on families, veterans, chronic and youth...
+> [!abstract]
+> Find out homeless population statistics for the state of California, get the data on families, veterans, chronic and youth...

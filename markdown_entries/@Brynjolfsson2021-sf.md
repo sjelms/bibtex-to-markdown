@@ -19,5 +19,5 @@ tags:
 > [!bibliography]
 > Brynjolfsson, Erik, Daniel Rock, Chad Syverson. 2021. “The Productivity J-Curve -  How Intangibles Complement General Purpose Technologies.” . https://pubs.aeaweb.org/doi/10.1257/mac.20180386
 
-## Abstract
-The Productivity J-Curve -  How Intangibles Complement General Purpose Technologies by Erik Brynjolfsson, Daniel Rock and Chad Syverson. Published in volume 13, issue 1, pages 333-72 of American Economic Journal -  Macroeconomics, January 2021, Abstract -  General purpose technologies (GPTs) like AI enabl...
+> [!abstract]
+> The Productivity J-Curve -  How Intangibles Complement General Purpose Technologies by Erik Brynjolfsson, Daniel Rock and Chad Syverson. Published in volume 13, issue 1, pages 333-72 of American Economic Journal -  Macroeconomics, January 2021, Abstract -  General purpose technologies (GPTs) like AI enabl...

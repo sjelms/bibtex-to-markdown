@@ -18,5 +18,5 @@ tags:
 > [!bibliography]
 > DeKorne, Clayton. 2023. “Untangling the Skilled Labor Knot.” . https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o
 
-## Abstract
-Learn why large-scale investment aimed at improving worker skills is a better path to reducing the skilled labor shortage than advanced technological solutions such as robotics and offsite construction methods.
+> [!abstract]
+> Learn why large-scale investment aimed at improving worker skills is a better path to reducing the skilled labor shortage than advanced technological solutions such as robotics and offsite construction methods.

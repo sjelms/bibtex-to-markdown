@@ -14,5 +14,5 @@ tags:
 > [!bibliography]
 > News, BBC. 2023. “New RAAC Schools List of Buildings With Unsafe Concrete.” . https://www.bbc.co.uk/news/education-66681227
 
-## Abstract
-The government has published an updated list of schools in England with crumbling concrete.
+> [!abstract]
+> The government has published an updated list of schools in England with crumbling concrete.

@@ -14,5 +14,5 @@ tags:
 > [!bibliography]
 > Krugman, Paul. 2013. “An Ubernerd Weighs In.” . https://archive.nytimes.com/krugman.blogs.nytimes.com/2013/12/29/an-ubernerd-weighs-in/
 
-## Abstract
-It’s technically great, so it must be important, right?
+> [!abstract]
+> It’s technically great, so it must be important, right?

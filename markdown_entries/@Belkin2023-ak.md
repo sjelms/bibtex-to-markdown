@@ -14,5 +14,5 @@ tags:
 > [!bibliography]
 > Belkin, Douglas. 2023. “Americans Are Losing Faith in College Education, WSJ-NORC Poll Finds.” 
 
-## Abstract
-Confidence in the value of a college degree plunged among women and senior citizens during the pandemic.
+> [!abstract]
+> Confidence in the value of a college degree plunged among women and senior citizens during the pandemic.

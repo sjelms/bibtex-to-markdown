@@ -18,5 +18,5 @@ tags:
 > [!bibliography]
 > Rosalsky, Greg, Planet Money. 2021. “A New Way To Understand Automation.” "[[NPR]]". https://www.npr.org/sections/money/2021/06/22/1008354992/a-new-way-to-understand-automation
 
-## Abstract
-We speak with one of the leading scholars of automation about its evolving impacts on society.
+> [!abstract]
+> We speak with one of the leading scholars of automation about its evolving impacts on society.

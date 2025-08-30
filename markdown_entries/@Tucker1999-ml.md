@@ -24,5 +24,5 @@ tags:
 > [!bibliography]
 > Tucker, Richard L, Carl T Haas, Robert W Glover, Christine Alemany, Lynn Anne Carley, Ana Maria Rodriguez, David Shields. 1999. “Key Workforce Challenges Facing the American Construction Industry -  An Interim Assessment.” "[[Center for Construction Industry Studies, The University of Texas at Austin]]". https://repositories.lib.utexas.edu/handle/2152/114257
 
-## Abstract
-This report has three purposes. First, it serves as a primer on the nature and state of today's construction workforce and how it has developed over time. Second, it identifies key workforce issues of concern to industry leaders. Finally, it ,summarizes the findings of existing research and the research of the Workforce Group. This work is motivated by the identified key issues and the problems that they present, and it provides preliminary answers to some of the most important questions that are posed by these problems.
+> [!abstract]
+> This report has three purposes. First, it serves as a primer on the nature and state of today's construction workforce and how it has developed over time. Second, it identifies key workforce issues of concern to industry leaders. Finally, it ,summarizes the findings of existing research and the research of the Workforce Group. This work is motivated by the identified key issues and the problems that they present, and it provides preliminary answers to some of the most important questions that are posed by these problems.

@@ -13,5 +13,5 @@ tags:
 > [!bibliography]
 > Hilburg, Jonathan. 2021. “Prefab Startup Wunderkind Katerra is Shutting Down.” 
 
-## Abstract
-Six years after its founding, the SoftBank-backed (and owned) Katerra is shutting down, having run out of money
+> [!abstract]
+> Six years after its founding, the SoftBank-backed (and owned) Katerra is shutting down, having run out of money

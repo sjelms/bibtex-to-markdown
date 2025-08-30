@@ -13,5 +13,5 @@ tags:
 > [!bibliography]
 > Zuboff, Shoshana. 1988. “In the Age of the Smart Machine -  The Future of Work and Power.” "[[Basic Books]]". https://play.google.com/store/books/details?id=eYm3AAAAIAAJ
 
-## Abstract
-A noted Harvard social scientist documents the pitfalls and promises of computerized technology in business life.
+> [!abstract]
+> A noted Harvard social scientist documents the pitfalls and promises of computerized technology in business life.

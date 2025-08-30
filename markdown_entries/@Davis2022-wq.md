@@ -16,5 +16,5 @@ tags:
 > [!bibliography]
 > Davis, B, K Francis. 2022. “Expert–Novice -  Discourses on Learning in Education.” . https://learningdiscourses.com/discourse/expert-novice/
 
-## Abstract
-The Expert–Novice literature explores the realization that the main difference between expert and novice performance is principally a matter of knowing differently rather than knowing more. Most commentators attribute differences between an expert’s fluid competencies and a novice’s more tentative abilities to the fact that the expert’s are memory-based (and…
+> [!abstract]
+> The Expert–Novice literature explores the realization that the main difference between expert and novice performance is principally a matter of knowing differently rather than knowing more. Most commentators attribute differences between an expert’s fluid competencies and a novice’s more tentative abilities to the fact that the expert’s are memory-based (and…

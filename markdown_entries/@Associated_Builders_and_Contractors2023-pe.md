@@ -16,5 +16,5 @@ tags:
 > [!bibliography]
 > Contractors, Associated Builders and. 2023. “Construction Workforce Shortage Tops Half a Million in 2023, Says ABC.” "[[Associated Builders and Contractors, Inc.]]"
 
-## Abstract
-WASHINGTON, Feb. 9—The construction industry will need to attract an estimated 546,000 additional workers on top of the normal pace of hiring in 2023 to meet the demand for labor, according to a proprietary model developed by Associated Builders and
+> [!abstract]
+> WASHINGTON, Feb. 9—The construction industry will need to attract an estimated 546,000 additional workers on top of the normal pace of hiring in 2023 to meet the demand for labor, according to a proprietary model developed by Associated Builders and

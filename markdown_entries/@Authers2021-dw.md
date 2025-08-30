@@ -12,5 +12,5 @@ tags:
 > [!bibliography]
 > Authers, John. 2021. “If Your CEO Talks Like Kant, Think Twice Before Investing.” 
 
-## Abstract
-Quantitative research by Nomura shows companies whose executives use the most complex language on earnings calls produce lower returns.
+> [!abstract]
+> Quantitative research by Nomura shows companies whose executives use the most complex language on earnings calls produce lower returns.

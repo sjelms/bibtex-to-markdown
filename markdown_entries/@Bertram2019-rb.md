@@ -30,5 +30,5 @@ tags:
 > [!bibliography]
 > Bertram, Nick, Steffen Fuchs, Jan Mischke, Robert Palter, Gernot Strube, Jonathan Woetzel. 2019. “Modular Construction -  From Projects to Products.” "[[ivvd.nl]]". https://www.ivvd.nl/wp-content/uploads/2019/12/Modular-construction-from-projects-to-products-full-report-NEW.pdf
 
-## Abstract
-For decades, construction has lagged other sectors in productivity performance. Now there is an opportunity for a step change -  shifting many aspects of building activity away from traditional onsite projects to offsite manufacturing-style production. While modular (or prefabricated) construction is not a new concept, it is attracting a fresh wave of interest and investment on the back of changes in the technological and economic environment. This research quantifies the potential benefits, explores the challenges, and looks at whether, this …
+> [!abstract]
+> For decades, construction has lagged other sectors in productivity performance. Now there is an opportunity for a step change -  shifting many aspects of building activity away from traditional onsite projects to offsite manufacturing-style production. While modular (or prefabricated) construction is not a new concept, it is attracting a fresh wave of interest and investment on the back of changes in the technological and economic environment. This research quantifies the potential benefits, explores the challenges, and looks at whether, this …

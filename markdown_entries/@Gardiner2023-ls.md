@@ -13,5 +13,5 @@ tags:
 > [!bibliography]
 > Gardiner, Joey. 2023. “Ilke Homes goes into administration.” 
 
-## Abstract
-'All activities to cease' as loss-making modular housebuilder fails to find a buyer
+> [!abstract]
+> 'All activities to cease' as loss-making modular housebuilder fails to find a buyer

@@ -21,5 +21,5 @@ tags:
 > [!bibliography]
 > Jagannathan, Shanti, Dorothy Geronimo. 2021. “Reaping the benefits of industry 4.0 through skills development in Viet Nam.” "[[Asian Development Bank]]". http://dx.doi.org/10.22617/spr200308
 
-## Abstract
-This report explores the implications of the Fourth Industrial Revolution (41R) on the future of the job market in Viet Nam. It assesses how jobs, tasks, and skills are being transformed, particularly in logistics and agro-processing. These two industries are important for the country’s employment, economic growth, and international competitiveness and are also highly relevant for 4IR technologies. The report is part of series developed from an Asian Development Bank study on trends in skills demand in Cambodia, Indonesia, the Philippines, and Viet Nam.
+> [!abstract]
+> This report explores the implications of the Fourth Industrial Revolution (41R) on the future of the job market in Viet Nam. It assesses how jobs, tasks, and skills are being transformed, particularly in logistics and agro-processing. These two industries are important for the country’s employment, economic growth, and international competitiveness and are also highly relevant for 4IR technologies. The report is part of series developed from an Asian Development Bank study on trends in skills demand in Cambodia, Indonesia, the Philippines, and Viet Nam.

@@ -25,5 +25,5 @@ tags:
 > [!bibliography]
 > Ahmed, Vian, Alex Opoku, Zeeshan Aziz. 2016. “Research Methodology in the Built Environment.” "[[Routledge]]". http://dx.doi.org/10.4324/9781315725529
 
-## Abstract
-Built environment students are not always familiar with the range of different research approaches they could be using for their projects. Whether you are undertaking a postgraduate doctoral programme or facing an undergraduate or masters dissertation, this book provides general advice, as well as 13 detailed case studies from 16 universities in 7 countries, to help you get to grips with quantitative and qualitative methods, mixed methods of data collection, action research, and more.
+> [!abstract]
+> Built environment students are not always familiar with the range of different research approaches they could be using for their projects. Whether you are undertaking a postgraduate doctoral programme or facing an undergraduate or masters dissertation, this book provides general advice, as well as 13 detailed case studies from 16 universities in 7 countries, to help you get to grips with quantitative and qualitative methods, mixed methods of data collection, action research, and more.

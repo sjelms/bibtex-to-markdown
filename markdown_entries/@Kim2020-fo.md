@@ -24,5 +24,5 @@ tags:
 > [!bibliography]
 > Kim, Sungjin, Soowon Chang, Daniel Castro-Lacouture. 2020. “Dynamic modeling for analyzing impacts of skilled labor shortage on construction project management.” "[[American Society of Civil Engineers (ASCE)]]". http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720
 
-## Abstract
-… labor shortage in construction projects. A total of five scenarios were established to simulate shortages and construction … skilled labor shortage and its influence on construction projects. …
+> [!abstract]
+> … labor shortage in construction projects. A total of five scenarios were established to simulate shortages and construction … skilled labor shortage and its influence on construction projects. …

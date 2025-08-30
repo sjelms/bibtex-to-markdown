@@ -22,5 +22,5 @@ tags:
 > [!bibliography]
 > Durham, Brian, Debra D Bragg. 2019. “The Contested Evolution and Future of Vocational Education in the United States.” "[[John Wiley and Sons, Inc.]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch12
 
-## Abstract
-Summary This chapter provides historical context for the evolution of vocational education, now known as career and technical education, in the USA through career pathways supported by governments and private funders to enroll the nation's increasingly diverse students. The opportunities and challenges that these students face in progressing to and through college and into employment are also discussed.
+> [!abstract]
+> Summary This chapter provides historical context for the evolution of vocational education, now known as career and technical education, in the USA through career pathways supported by governments and private funders to enroll the nation's increasingly diverse students. The opportunities and challenges that these students face in progressing to and through college and into employment are also discussed.

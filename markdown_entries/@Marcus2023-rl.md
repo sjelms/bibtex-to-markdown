@@ -15,5 +15,5 @@ tags:
 > [!bibliography]
 > Marcus, Jon. 2023. “High-paying jobs that don't need a college degree? Thousands of them sit empty.” "[[The Hechinger Report]]". https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e
 
-## Abstract
-Trade jobs that require less education, at much lower cost, sit empty. But many parents remain wary of programs that don't lead to a four-year degree.
+> [!abstract]
+> Trade jobs that require less education, at much lower cost, sit empty. But many parents remain wary of programs that don't lead to a four-year degree.

@@ -14,5 +14,5 @@ tags:
 > [!bibliography]
 > Office, Prime Minister's. 2020. “Major expansion of post-18 education and training to level up and prepare workers for post-COVID economy.” 
 
-## Abstract
-Prime Minister Boris Johnson acts to boost productivity and help the country build back better from coronavirus.
+> [!abstract]
+> Prime Minister Boris Johnson acts to boost productivity and help the country build back better from coronavirus.

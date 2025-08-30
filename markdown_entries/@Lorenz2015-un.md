@@ -19,5 +19,5 @@ tags:
 > [!bibliography]
 > Lorenz, Markus, Michael Rüßmann, Rainer Strack, Knud Lueth, Moritz Bolle. 2015. “Man and machine in industry 4.0.” 
 
-## Abstract
-Industry 4.0, a digital industrial revolution, will require manufacturers and their employees to adapt to new ways of working. Read on to learn more about transforming the workplace.
+> [!abstract]
+> Industry 4.0, a digital industrial revolution, will require manufacturers and their employees to adapt to new ways of working. Read on to learn more about transforming the workplace.
