@@ -8,7 +8,7 @@ key: "[[@Poortman2011-zl]]"
 journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Routledge]]"
 tags:
-  - Contemporary-Apprenticeship-Fuller-&-Unwin
+  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - VET
   - 00_TO-READ
   - Notion-Catalogued
