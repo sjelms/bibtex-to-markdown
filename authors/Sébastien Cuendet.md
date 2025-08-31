@@ -15,3 +15,5 @@ type:
 ![[@Cuendet2013-tu]]
 
 ![[@Cuendet2013-vm]]
+
+![[@Cuendet2014-vs]]
