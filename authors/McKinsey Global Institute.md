@@ -8,4 +8,4 @@ type:
 ## McKinsey Global Institute
 #### Bibliography:
 
-![[@McKinsey_Global_Institute2016-wd]]
+![[@McKinsey-Global-Institute2016-xx]]

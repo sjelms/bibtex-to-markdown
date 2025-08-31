@@ -1,15 +1,11 @@
 ---
-author: "Jonathan Woetzel"
+author: "Daniel Weisfield"
 institution: "McKinsey Global Institute"
 field:
 type:
 ---
 
-## Jonathan Woetzel
+## Daniel Weisfield
 #### Bibliography:
-
-![[@Barbosa2017-rj]]
-
-![[@Bertram2019-rb]]
 
 ![[@McKinsey-Global-Institute2016-xx]]

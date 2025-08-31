@@ -1,15 +1,11 @@
 ---
-author: "Jonathan Woetzel"
+author: "Shannon Peloquin"
 institution: "McKinsey Global Institute"
 field:
 type:
 ---
 
-## Jonathan Woetzel
+## Shannon Peloquin
 #### Bibliography:
-
-![[@Barbosa2017-rj]]
-
-![[@Bertram2019-rb]]
 
 ![[@McKinsey-Global-Institute2016-xx]]
