@@ -16,6 +16,9 @@ tags:
   - Labor
   - Skill-demand
   - Economics
+author - 3: "[[A Ringhofer]]"
+author - 4: "[[Adam Green]]"
+author - 5: "[[A Thiel]]"
 ---
 
 > [!bibliography]
