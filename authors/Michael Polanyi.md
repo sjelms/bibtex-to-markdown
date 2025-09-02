@@ -8,8 +8,9 @@ born: 1891-03-11
 died: 1976-02-22
 ---
 
-# name
-Citation Key: 
+# Michael Polanyi
+#### Related Citation Key:
+![[@Autor2014-yj]]
 
 #### Bibliography:
 [Michael Polanyi](https://en.wikipedia.org/wiki/Michael_Polanyi "Michael Polanyi") was a Hungarian-British polymath, who made important theoretical contributions to physical chemistry, economics, and philosophy. He argued that positivism is a false account of knowing.
