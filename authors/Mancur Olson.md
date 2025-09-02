@@ -8,4 +8,4 @@ type:
 ## Mancur Olson
 #### Bibliography:
 
-![[@Olson2022-qw]]
+![[@Olson1982-xs]]
