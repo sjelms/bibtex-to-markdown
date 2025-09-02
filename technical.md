@@ -269,7 +269,7 @@ type:
 
 ---
 
-## 🧾 Planned Features for YAML & Alias Support
+## 🧾 Planned Features for YAML and Alias Support
 
 - [ ] **Add `aliases:` field to author YAML**
   - Include the author’s **surname** as an alias (e.g. `aliases: [Williams]`)
