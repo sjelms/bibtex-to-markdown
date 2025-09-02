@@ -267,6 +267,35 @@ type:
   - Enhanced error reporting
   - Configuration file support
 
+---
+
+## 🧾 Planned Features for YAML & Alias Support
+
+- [ ] **Add `aliases:` field to author YAML**
+  - Include the author’s **surname** as an alias (e.g. `aliases: [Williams]`)
+  - Enables Obsidian references to author notes using just the last name
+
+- [ ] **Add `aliases:` field to citation YAML**
+  - Add the **full title** and an optional **short title** (if detected)
+  - Example:
+    ```yaml
+    aliases:
+      - A Better Future - Transforming jobs and skills for young people post-pandemic
+      - A Better Future
+    ```
+
+- [ ] **Update author files to include a Map of Content (MOC)**
+  - In addition to existing `![[@CitationKey]]` transclusions
+  - Add Obsidian links with alias syntax:
+    ```markdown
+    [[@Williams2021-iq|A Better Future]]
+    ```
+  - This allows the author page to show a human-readable title while linking to the citation note
+
+--- 
+
+This action list defines YAML alias support and enhances author pages with more usable maps of content.
+
 -----
 
 ## 📚 References
