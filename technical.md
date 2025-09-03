@@ -280,7 +280,7 @@ type:
   - Example:
     ```yaml
     aliases:
-      - A Better Future - Transforming jobs and skills for young people post-pandemic
+      - A Better Future - Transforming Jobs And Skills For Young People Post-Pandemic
       - A Better Future
     ```
 
