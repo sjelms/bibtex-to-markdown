@@ -4,7 +4,8 @@ field:
 type:
 institution:
   - "[[Columbia University]]"
-	- "[[WEF|World Economic Forum]]"
+  - "[[University College London]]"
+  - "[[WEF|World Economic Forum]]"
 born:
 died:
 aliases:
