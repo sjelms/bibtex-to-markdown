@@ -1,5 +1,5 @@
 ---
-author: "Christine Park"
+author: "Christine W Park"
 institution:
 field:
 type:
