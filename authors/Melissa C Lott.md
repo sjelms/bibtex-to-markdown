@@ -1,12 +1,14 @@
 ---
 full name: Melissa C Lott
-field: 
+field:
 type:
 institution:
-born: 
-died: 
+	- "[[Columbia University]]" 
+	- "[[WEF|World Economic Forum]]"
+born:
+died:
 aliases:
-  - 
+  - Lott
 ---
 
 # name
