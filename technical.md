@@ -165,6 +165,9 @@ title: "Paper Title"
 year: "2023"
 author - 1: "[[Author Name]]"
 key: "[[@Citation-Key]]"
+aliases:
+  - Full Title Case
+  - Short Title Case
 tags:
   - keyword1
   - keyword2
@@ -186,9 +189,13 @@ author: "[[Author Name]]"
 field: 
 institution:
 type:
+aliases:
+  - Surname
 ---
 
 ## Author first last
+### Content:
+[[@Citation-Key|Short Title]]
 #### Bibliography:
 ![[@Citation-Key]]  # Embeds the bibliography callout from the citation file
 ```
@@ -271,11 +278,11 @@ type:
 
 ## 🧾 Planned Features for YAML and Alias Support
 
-- [ ] **Add `aliases:` field to author YAML**
+- [x] **Add `aliases:` field to author YAML**
   - Include the author’s **surname** as an alias (e.g. `aliases: [Williams]`)
   - Enables Obsidian references to author notes using just the last name
 
-- [ ] **Add `aliases:` field to citation YAML**
+- [x] **Add `aliases:` field to citation YAML**
   - Add the **full title** and an optional **short title** (if detected)
   - Example:
     ```yaml
@@ -284,7 +291,7 @@ type:
       - A Better Future
     ```
 
-- [ ] **Update author files to include a Map of Content (MOC)**
+- [x] **Update author files to include a Map of Content (MOC)**
   - In addition to existing `![[@CitationKey]]` transclusions
   - Add Obsidian links with alias syntax:
     ```markdown

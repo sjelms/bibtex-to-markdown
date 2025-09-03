@@ -22,6 +22,8 @@ The script performs the following actions:
 - Creates one Markdown file per BibTeX entry
 - Adds both a Pandoc-style filename (e.g., `@Smith2020-ab.md`) and Obsidian-style link in the frontmatter (`[[Smith2020-ab]]`)
 - Inserts a Chicago-style bibliography block and optional abstract into each file
+- Adds YAML `aliases` for citations (Full Title Case and optional Short Title Case)
+- Generates author pages with YAML `aliases` (surname) and a Map of Content (MOC) using `[[@key|Short Title]]`
 
 ---
 
@@ -43,11 +45,22 @@ The script performs the following actions:
       - Title, year
       - Authors (with Obsidian-style links `[[Author Name]]`)
       - Key (in format `[[@BibTeXKey]]`)
+      - Aliases (full title and optional short title)
       - Optional fields: institution, journal, publisher (all as Obsidian links)
       - Tags (from keywords)
     - Optional abstract
     - Chicago-style bibliography section
     - Pandoc-compatible filename for citation use (`[@BibTeXKey]`)
+
+- A folder called `authors/`:
+  - Individual Markdown files per author with:
+    - YAML frontmatter including:
+      - `author`: `"[[First Last]]"`
+      - `aliases`: surname (for quick `[[Surname]]` links)
+      - optional: `institution`, `field`, `type`
+    - Heading with author name
+    - `### Content:` section with MOC links of the form `[[@CitationKey|Short Title]]`
+    - `#### Bibliography:` with embedded transclusions `![[@CitationKey]]`
 
 ---
 
@@ -66,6 +79,41 @@ pip install bibtexparser
 Run the script:
 ```bash
 python convert_bibtex.py
+```
+
+---
+
+## ✨ Example
+
+Citation file (`markdown_entries/@Bryson2010-zi.md`):
+```markdown
+---
+title: At Home -  A Short History of private life
+year: 2010
+author - 1: "[[Bill Bryson]]"
+key: "[[@Bryson2010-zi]]"
+publisher: "[[Random House]]"
+aliases:
+  - At Home - A Short History Of Private Life
+  - At Home
+---
+```
+
+Author file (`authors/Bill Bryson.md`):
+```markdown
+---
+author: "[[Bill Bryson]]"
+aliases:
+  - Bryson
+---
+
+## Bill Bryson
+
+### Content:
+[[@Bryson2010-zi|At Home]]
+
+#### Bibliography:
+![[@Bryson2010-zi]]
 ```
 
 ---
