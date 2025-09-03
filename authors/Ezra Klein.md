@@ -8,7 +8,7 @@ aliases:
 ---
 
 ## Ezra Klein
-
+[[@Klein2022-xj|Why Housing Is So Expensive]]
 ### Content:
 [[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
 [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]

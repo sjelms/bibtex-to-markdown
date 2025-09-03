@@ -6,6 +6,7 @@ author - 2: "[[Jenny Schuetz]]"
 key: "[[@Klein2022-xj]]"
 aliases:
   - Why Housing Is So Expensive — Particularly In Blue States
+  - Why Housing Is So Expensive
 publisher: "[[The New York Times]]"
 tags:
   - Notion-Catalogued
