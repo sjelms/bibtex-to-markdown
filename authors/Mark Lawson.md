@@ -1,13 +1,11 @@
 ---
-author: "Chris Goodier"
+author: "Mark Lawson"
 institution:
 field:
 type:
 ---
 
-## Chris Goodier
+## Mark Lawson
 #### Bibliography:
-
-![[@Lang2016-it]]
 
 ![[@Lawson2019-tt]]

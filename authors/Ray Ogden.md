@@ -1,13 +1,11 @@
 ---
-author: "Chris Goodier"
+author: "Ray Ogden"
 institution:
 field:
 type:
 ---
 
-## Chris Goodier
+## Ray Ogden
 #### Bibliography:
-
-![[@Lang2016-it]]
 
 ![[@Lawson2019-tt]]
