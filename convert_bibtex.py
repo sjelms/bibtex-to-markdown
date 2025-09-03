@@ -223,6 +223,8 @@ for entry in bib_database.entries:
 
     # Build title aliases for citation YAML
     title_aliases = extract_title_aliases(raw_title)
+    # Choose display alias for author MOC: prefer short if present
+    display_alias = title_aliases[1] if len(title_aliases) > 1 else (title_aliases[0] if title_aliases else title)
 
     # Ensure Correct YAML Formatting
     yaml_lines = [
@@ -275,9 +277,11 @@ for entry in bib_database.entries:
             author_metadata[clean_author] = {
                 'citations': [],
                 'institutions': set(),
-                'fields': set()
+                'fields': set(),
+                'moc_display': {}
             }
         author_metadata[clean_author]['citations'].append(key)
+        author_metadata[clean_author]['moc_display'][key] = display_alias
         
         # Track institution if available
         if institution:
@@ -313,6 +317,20 @@ for author, metadata in author_metadata.items():
         surname = parts[-1]
         if surname:
             author_yaml.append(f"  - {surname}")
+
+    # Map of Content section (human-readable links)
+    if metadata['citations']:
+        author_yaml.extend([
+            "---",
+            "",
+            f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
+            "",
+            "### Content:",
+        ])
+        for citation in sorted(metadata['citations']):
+            disp = metadata['moc_display'].get(citation, citation)
+            author_yaml.append(f"[[@{citation}|{disp}]]")
+        author_yaml.append("")
 
     author_yaml.extend([
         "---",
