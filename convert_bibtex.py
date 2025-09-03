@@ -27,61 +27,29 @@ def get_safe_filename(name):
 
 
 def to_title_case(text: str) -> str:
-    # Basic English title case: capitalize major words; keep short words lower unless first/last
+    # Capitalize each word and hyphenated parts (simple Title Case)
     if not text:
         return ""
-    small_words = {
-        "a", "an", "the", "and", "or", "for", "nor", "but", "on", "at", "to", "from", "by", "of", "in", "with", "as"
-    }
+
     def cap(word: str) -> str:
         if not word:
             return word
         return word[0].upper() + word[1:].lower()
 
-    # Preserve separators while processing words
-    tokens = re.split(r"(\s+|[-–—]|:)", text)
-    words = []
-    for i, tok in enumerate(tokens):
-        if i % 2 == 0:  # word segments
-            if not tok:
-                words.append(tok)
-                continue
-            sub = tok
-            # Split further on slashes to maintain e.g., AI/ML
-            parts = re.split(r"(/)", sub)
-            for j in range(0, len(parts), 2):
-                if not parts[j]:
-                    continue
-                # Determine if this is first or last non-separator token
-                # Build a flat list of non-separator word tokens to test positions
-            words.append(tok)
-        else:
-            words.append(tok)
-
-    # Re-scan and apply rules (simpler approach for robustness)
-    raw_words = re.split(r"\s+", text.strip())
-    if not raw_words:
-        return text
+    words = re.split(r"\s+", text.strip())
     result = []
-    for idx, w in enumerate(raw_words):
-        core = w
-        # Handle hyphenated words by capitalizing both sides
-        if re.search(r"[-–—]", core):
-            pieces = re.split(r"([-–—])", core)
+    for w in words:
+        if re.search(r"[-–—]", w):
+            pieces = re.split(r"([-–—])", w)
             new_pieces = []
             for k, p in enumerate(pieces):
                 if k % 2 == 0:
                     new_pieces.append(cap(p))
                 else:
                     new_pieces.append(p)
-            core_tc = "".join(new_pieces)
+            result.append("".join(new_pieces))
         else:
-            # Lowercase small words unless at beginning or end
-            if 0 < idx < (len(raw_words) - 1) and w.lower() in small_words:
-                core_tc = w.lower()
-            else:
-                core_tc = cap(w)
-        result.append(core_tc)
+            result.append(cap(w))
     return " ".join(result)
 
 
