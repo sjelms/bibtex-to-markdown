@@ -1,8 +1,8 @@
 ---
 title: Designing Across Senses -  A Multimodal Approach to Product Design
 year: 2018
-author - 1: "[[C W Park]]"
-author - 2: "[[J Alderman]]"
+author - 1: "[[Christine W Park]]"
+author - 2: "[[John Alderman]]"
 key: "[[@Park2018-nf]]"
 aliases:
   - Designing Across Senses - A Multimodal Approach To Product Design
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Park, C W, J Alderman. 2018. “Designing Across Senses -  A Multimodal Approach to Product Design.” "[[O'Reilly Media]]". https://books.google.co.uk/books?id=GZVUDwAAQBAJ
+> Park, Christine W, John Alderman. 2018. “Designing Across Senses -  A Multimodal Approach to Product Design.” "[[O'Reilly Media]]". https://books.google.co.uk/books?id=GZVUDwAAQBAJ

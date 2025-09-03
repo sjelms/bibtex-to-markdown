@@ -1,13 +1,13 @@
 ---
-author: "John Alderman"
+author: "Christine W Park"
 institution:
 field:
 type:
 aliases:
-  - Alderman
+  - Park
 ---
 
-## John Alderman
+## Christine W Park
 
 ### Content:
 [[@Park2016-wq|What Is Multimodal Design? An Interview With John Alderman And Christine Park]]
