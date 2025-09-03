@@ -318,24 +318,19 @@ for author, metadata in author_metadata.items():
         if surname:
             author_yaml.append(f"  - {surname}")
 
-    # Map of Content section (human-readable links)
-    if metadata['citations']:
-        author_yaml.extend([
-            "---",
-            "",
-            f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
-            "",
-            "### Content:",
-        ])
-        for citation in sorted(metadata['citations']):
-            disp = metadata['moc_display'].get(citation, citation)
-            author_yaml.append(f"[[@{citation}|{disp}]]")
-        author_yaml.append("")
-
+    # Close frontmatter and add content sections
     author_yaml.extend([
         "---",
         "",
         f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
+        "",
+        "### Content:",
+    ])
+    for citation in sorted(metadata['citations']):
+        disp = metadata['moc_display'].get(citation, citation)
+        author_yaml.append(f"[[@{citation}|{disp}]]")
+    author_yaml.extend([
+        "",
         "#### Bibliography:",
         ""  # Empty line before citations for better readability
     ])
