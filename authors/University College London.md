@@ -1,6 +1,7 @@
 ---
 author: "University College London"
 institution:
+location: "[[London]]"
 field:
 type:
 ---
