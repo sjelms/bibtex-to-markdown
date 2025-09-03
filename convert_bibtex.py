@@ -25,6 +25,100 @@ def get_safe_filename(name):
     name = name.strip('_')
     return name
 
+
+def to_title_case(text: str) -> str:
+    # Basic English title case: capitalize major words; keep short words lower unless first/last
+    if not text:
+        return ""
+    small_words = {
+        "a", "an", "the", "and", "or", "for", "nor", "but", "on", "at", "to", "from", "by", "of", "in", "with", "as"
+    }
+    def cap(word: str) -> str:
+        if not word:
+            return word
+        return word[0].upper() + word[1:].lower()
+
+    # Preserve separators while processing words
+    tokens = re.split(r"(\s+|[-–—]|:)", text)
+    words = []
+    for i, tok in enumerate(tokens):
+        if i % 2 == 0:  # word segments
+            if not tok:
+                words.append(tok)
+                continue
+            sub = tok
+            # Split further on slashes to maintain e.g., AI/ML
+            parts = re.split(r"(/)", sub)
+            for j in range(0, len(parts), 2):
+                if not parts[j]:
+                    continue
+                # Determine if this is first or last non-separator token
+                # Build a flat list of non-separator word tokens to test positions
+            words.append(tok)
+        else:
+            words.append(tok)
+
+    # Re-scan and apply rules (simpler approach for robustness)
+    raw_words = re.split(r"\s+", text.strip())
+    if not raw_words:
+        return text
+    result = []
+    for idx, w in enumerate(raw_words):
+        core = w
+        # Handle hyphenated words by capitalizing both sides
+        if re.search(r"[-–—]", core):
+            pieces = re.split(r"([-–—])", core)
+            new_pieces = []
+            for k, p in enumerate(pieces):
+                if k % 2 == 0:
+                    new_pieces.append(cap(p))
+                else:
+                    new_pieces.append(p)
+            core_tc = "".join(new_pieces)
+        else:
+            # Lowercase small words unless at beginning or end
+            if 0 < idx < (len(raw_words) - 1) and w.lower() in small_words:
+                core_tc = w.lower()
+            else:
+                core_tc = cap(w)
+        result.append(core_tc)
+    return " ".join(result)
+
+
+def extract_title_aliases(raw_title: str) -> list:
+    """Return list of aliases: [Full Title Case, Optional Short Title Case]"""
+    if not raw_title:
+        return []
+    # Clean braces but keep punctuation; we don't want YAML-specific replacements
+    t = raw_title.strip()
+    t = re.sub(r"\{(.*?)\}", r"\1", t)
+    t = t.replace("\n", " ")
+    # Normalize multi-spaces
+    t = re.sub(r"\s+", " ", t)
+
+    # Build full alias (convert ":" to " - " for nicer display consistency)
+    full_disp = t.replace(":", " - ")
+    full_tc = to_title_case(full_disp)
+
+    short_tc = None
+    # Prefer split on spaced dash, then colon
+    if " - " in full_tc:
+        short_tc = full_tc.split(" - ", 1)[0].strip()
+    elif ":" in t:
+        short_tc = to_title_case(t.split(":", 1)[0].strip())
+
+    aliases = [full_tc]
+    if short_tc and short_tc != full_tc:
+        aliases.append(short_tc)
+    # Deduplicate while preserving order
+    seen = set()
+    dedup = []
+    for a in aliases:
+        if a not in seen:
+            dedup.append(a)
+            seen.add(a)
+    return dedup
+
 # Load the BibTeX file
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
     bib_database = bibtexparser.load(bibfile)
@@ -137,7 +231,8 @@ def process_keywords(keyword_str):
 # Process each entry in BibTeX
 for entry in bib_database.entries:
     key = entry.get("ID", "unknown_key")
-    title = clean_text(entry.get("title", "Untitled"), is_yaml=True)
+    raw_title = entry.get("title", "Untitled")
+    title = clean_text(raw_title, is_yaml=True)
     year = entry.get("year", "Unknown Year")
 
     # Process authors (supports 'editor' as fallback)
@@ -158,6 +253,9 @@ for entry in bib_database.entries:
     # Format bibliography
     bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
 
+    # Build title aliases for citation YAML
+    title_aliases = extract_title_aliases(raw_title)
+
     # Ensure Correct YAML Formatting
     yaml_lines = [
         "---",
@@ -169,6 +267,12 @@ for entry in bib_database.entries:
         yaml_lines.append(f'author - {i}: "{author}"')
 
     yaml_lines.append(f'key: "[[@{key}]]"')
+
+    # Add aliases for the citation: full title and optional short title
+    if title_aliases:
+        yaml_lines.append("aliases:")
+        for a in title_aliases:
+            yaml_lines.append(f"  - {a}")
 
     # Only add non-None fields
     if institution is not None:
@@ -231,6 +335,18 @@ for author, metadata in author_metadata.items():
     author_yaml.extend([
         "field:",
         "type:",
+        "aliases:",
+    ])
+
+    # Add surname as alias (best-effort split on last token)
+    clean_author_no_brackets = author.replace("[[", "").replace("]]", "").strip()
+    if clean_author_no_brackets:
+        parts = clean_author_no_brackets.split()
+        surname = parts[-1]
+        if surname:
+            author_yaml.append(f"  - {surname}")
+
+    author_yaml.extend([
         "---",
         "",
         f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
