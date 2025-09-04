@@ -8,22 +8,6 @@ aliases:
   - Chapter 1
 publisher: "[[Woodhead Publishing]]"
 tags:
-  - Zero-energy-building
-  - green-building
-  - smart-building
-  - zero-carbon-ready-building
-  - green-building-rating-systems
-  - construction-4
-  - climate-change
-  - circular-economy
-  - cyber-physical-systems
-  - smart-city
-  - energy-policy
-  - energy-efficient-buildings
-  - level’s
-  - construction-industry
-  - building-renovation-passport
-  - digital-building-logbooks
   - Marco-Casini-Construction-4-0
   - 2_Upgrade-MAY-2023
   - 00_TO-READ
