@@ -159,7 +159,7 @@ GitHub Actions:
 ### Stage 3: Markdown Generation
 #### Citation Files:
 
-```YAML
+```markdown
 ---
 title: "Paper Title"
 year: "2023"
@@ -176,14 +176,15 @@ tags:
 > [!Bibliography]
 > Bibliography formatting in Chicago style
 
-## Abstract
+> [!abstract]
+> Abstract text
 ```
 
 Note: The bibliography callout format must be consistent as it will be embedded in author files.
 
 #### Author Files:
 
-```YAML
+```markdown
 ---
 author: "[[Author Name]]"
 field: 
