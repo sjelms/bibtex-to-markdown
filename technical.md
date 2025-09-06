@@ -161,19 +161,20 @@ GitHub Actions:
 
 ```markdown
 ---
-title: "Paper Title"
-year: "2023"
+title: Paper Title
+year: 2023
 author - 1: "[[Author Name]]"
 key: "[[@Citation-Key]]"
 aliases:
   - Full Title Case
   - Short Title Case
+publisher: "[[Publisher]]"
 tags:
   - keyword1
   - keyword2
 ---
 
-> [!Bibliography]
+> [!bibliography]
 > Bibliography formatting in Chicago style
 
 > [!abstract]
@@ -186,19 +187,20 @@ Note: The bibliography callout format must be consistent as it will be embedded 
 
 ```markdown
 ---
-author: "[[Author Name]]"
-field: 
+author: "Author Name"
 institution:
+field:
 type:
 aliases:
   - Surname
 ---
 
-## Author first last
+## Author Name
 ### Content:
 [[@Citation-Key|Short Title]]
 #### Bibliography:
-![[@Citation-Key]]  # Embeds the bibliography callout from the citation file
+
+![[@Citation-Key]]
 ```
 
 #### Interdependency:
