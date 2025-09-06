@@ -85,7 +85,7 @@ python convert_bibtex.py
 
 ## ✨ Example
 
-Citation file (`markdown_entries/@Bryson2010-zi.md`):
+Citation file (`markdown_entries/@Doyle1892-fj.md`):
 ```markdown
 ---
 title: The Adventures of Sherlock Holmes
@@ -105,21 +105,25 @@ tags:
 > Doyle, Arthur Conan. 1892. “The Adventures of Sherlock Holmes.” "[[George Newnes Ltd]]"
 ```
 
-Author file (`authors/Bill Bryson.md`):
+Author file (`authors/Arthur Conan Doyle.md`):
 ```markdown
 ---
-author: "[[Bill Bryson]]"
+author: "Arthur Conan Doyle"
+institution:
+field:
+type:
 aliases:
-  - Bryson
+  - Doyle
 ---
 
-## Bill Bryson
+## Arthur Conan Doyle
 
 ### Content:
-[[@Bryson2010-zi|At Home]]
+[[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]
 
 #### Bibliography:
-![[@Bryson2010-zi]]
+
+![[@Doyle1892-fj]]
 ```
 
 ---
