@@ -181,7 +181,7 @@ tags:
 > Abstract text
 ```
 
-Note: The bibliography callout format must be consistent as it will be embedded in author files.
+**Note:** The bibliography callout format must be consistent as it will be embedded in author files.
 
 #### Author Files:
 
