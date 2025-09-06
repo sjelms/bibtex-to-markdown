@@ -16,6 +16,5 @@ tags:
 > [!bibliography]
 > Engeström, Yrjö, Ritva Engeström, Tarja Vähäaho. 1999. “When the Center Does Not Hold -  The Importance of Knotworking.”
 
-
->[!memo]
+>[!key]
 >[[Knotworking]]
