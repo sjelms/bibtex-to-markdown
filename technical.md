@@ -159,7 +159,7 @@ GitHub Actions:
 ### Stage 3: Markdown Generation
 #### Citation Files:
 
-```
+```YAML
 ---
 title: "Paper Title"
 year: "2023"
@@ -183,7 +183,7 @@ Note: The bibliography callout format must be consistent as it will be embedded 
 
 #### Author Files:
 
-```
+```YAML
 ---
 author: "[[Author Name]]"
 field: 
