@@ -15,6 +15,7 @@ aliases:
 [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
 [[@Klein2025-yx|Abundance]]
 
+[[@Klein2025-yx]]
 #### Bibliography:
 
 ![[@Klein2022-xj]]
