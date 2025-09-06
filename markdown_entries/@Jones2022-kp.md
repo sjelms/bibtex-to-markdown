@@ -10,7 +10,7 @@ key: "[[@Jones2022-kp]]"
 aliases:
   - Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms
   - Addressing Specialization And Fragmentation
-journal: "[[Construction management and economics]]"
+journal: "[[Construction Management and Economics]]"
 publisher: "[[Informa UK Limited]]"
 tags:
   - Construction-4-0
