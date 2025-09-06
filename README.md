@@ -88,15 +88,21 @@ python convert_bibtex.py
 Citation file (`markdown_entries/@Bryson2010-zi.md`):
 ```markdown
 ---
-title: At Home -  A Short History of private life
-year: 2010
-author - 1: "[[Bill Bryson]]"
-key: "[[@Bryson2010-zi]]"
-publisher: "[[Random House]]"
+title: The Adventures of Sherlock Holmes
+year: 1892
+author - 1: "[[Arthur Conan Doyle]]"
+key: "[[@Doyle1892-fj]]"
 aliases:
-  - At Home - A Short History Of Private Life
-  - At Home
+  - The Adventures Of Sherlock Holmes
+publisher: "[[George Newnes Ltd]]"
+tags:
+  - EPubs-Books
+  - _BibTex-to-MD-Git
+  - ePub
 ---
+
+> [!bibliography]
+> Doyle, Arthur Conan. 1892. “The Adventures of Sherlock Holmes.” "[[George Newnes Ltd]]"
 ```
 
 Author file (`authors/Bill Bryson.md`):
