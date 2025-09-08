@@ -1,10 +1,11 @@
 ---
-author: "Lev S Vygotsky"
+author: Lev S Vygotsky
 institution:
 field:
 type:
 aliases:
   - Vygotsky
+  - Lev Vygotsky
 ---
 
 ## Lev S Vygotsky
