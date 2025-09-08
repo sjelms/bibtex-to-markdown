@@ -6,7 +6,7 @@ author - 2: "[[H R Bernard]]"
 key: "[[@Ryan2000-ql]]"
 aliases:
   - Data Management And Analysis Methods
-publisher: "[[SAGE Publications]]"
+publisher: "[[Sage Publications]]"
 tags:
   - Research-Methodology-in-the-Built-Environment---A-Selection-of-Case-Studies
   - 2_Upgrade-MAY-2023
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ryan, G W, H R Bernard. 2000. “Data management and analysis methods.” "[[SAGE Publications]]"
+> Ryan, G W, H R Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"

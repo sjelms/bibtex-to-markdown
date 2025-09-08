@@ -8,7 +8,7 @@ author - 4: "[[Roozbeh Rashedi]]"
 key: "[[@Hegazy2013-dm]]"
 aliases:
   - Hands-On Exercise For Enhancing Students’ Construction Management Skills
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers (ASCE)]]"
 tags:
   - Journal-Articles
