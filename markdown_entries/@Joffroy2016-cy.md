@@ -5,7 +5,7 @@ author - 1: "[[Thierry Joffroy]]"
 key: "[[@Joffroy2016-cy]]"
 aliases:
   - Learning From Local Building Cultures To Improve Housing Project Sustainability
-journal: "[[UN chronicle]]"
+journal: "[[UN Chronicle]]"
 publisher: "[[United Nations Publications]]"
 tags:
   - 2_Upgrade-MAY-2023
