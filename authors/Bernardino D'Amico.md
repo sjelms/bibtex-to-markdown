@@ -1,13 +1,13 @@
 ---
-author: "Francesco Pomponi"
+author: "Bernardino D'Amico"
 institution:
 field:
 type:
 aliases:
-  - Pomponi
+  - D'Amico
 ---
 
-## Francesco Pomponi
+## Bernardino D'Amico
 
 ### Content:
 [[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction]]

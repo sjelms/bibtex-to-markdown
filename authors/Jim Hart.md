@@ -10,8 +10,8 @@ aliases:
 ## Jim Hart
 
 ### Content:
-[[@DAmico2021-hj|Global Potential For Material Substitution In Building Construction]]
+[[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction]]
 
 #### Bibliography:
 
-![[@DAmico2021-hj]]
+![[@D-Amico2021-rh]]
