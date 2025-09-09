@@ -10,8 +10,8 @@ aliases:
 ## Daniel Weisfield
 
 ### Content:
-[[@McKinsey-Global-Institute2016-xx|A Tool Kit To Close California’s Housing Gap]]
+[[@Woetzel2016-gs|A Tool Kit To Close California’s Housing Gap]]
 
 #### Bibliography:
 
-![[@McKinsey-Global-Institute2016-xx]]
+![[@Woetzel2016-gs]]
