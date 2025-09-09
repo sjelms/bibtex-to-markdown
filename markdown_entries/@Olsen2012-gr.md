@@ -7,6 +7,7 @@ key: "[[@Olsen2012-gr]]"
 aliases:
   - Bad For Business - Skilled Labor Shortages In Alabama's Construction Industry
   - Bad For Business
+institution: "[[Associated General Contractors of America]]"
 tags:
   - Frontiers-2022
   - 2_Upgrade-MAY-2023
