@@ -1,6 +1,6 @@
 ---
 author: "Office of Policy Development and Research"
-institution: "U.S. Department of Housing and Urban Development"
+institution: "United States Department of Housing and Urban Development"
 field:
 type:
 aliases:

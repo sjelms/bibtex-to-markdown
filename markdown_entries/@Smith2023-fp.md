@@ -11,7 +11,7 @@ key: "[[@Smith2023-fp]]"
 aliases:
   - Offsite Construction For Housing - Research Roadmap
   - Offsite Construction For Housing
-institution: "[[U.S. Department of Housing and Urban Development]]"
+institution: "[[United States Department of Housing and Urban Development]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
