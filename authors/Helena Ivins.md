@@ -1,13 +1,13 @@
 ---
-author: "Department of Economic History"
+author: "Helena Ivins"
 institution: "London School of Economics and Political Science"
 field:
 type:
 aliases:
-  - History
+  - Ivins
 ---
 
-## Department of Economic History
+## Helena Ivins
 
 ### Content:
 [[@Department-of-Economic-History2017-nb|Tacit Knowledge]]
