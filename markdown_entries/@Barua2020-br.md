@@ -1,7 +1,7 @@
 ---
 title: The Construction Workforce -  Growing Again, but Not Changing Much
 year: 2020
-author - 1: "[[A Barua]]"
+author - 1: "[[Akrur Barua]]"
 key: "[[@Barua2020-br]]"
 aliases:
   - The Construction Workforce - Growing Again, But Not Changing Much
@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Barua, A. 2020. “The Construction Workforce -  Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html
+> Barua, Akrur. 2020. “The Construction Workforce -  Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html
