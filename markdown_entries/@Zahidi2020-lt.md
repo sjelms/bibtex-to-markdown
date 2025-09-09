@@ -1,10 +1,10 @@
 ---
 title: The Future of Jobs Report 2020
 year: 2020
-author - 1: "[[S Zahidi]]"
-author - 2: "[[V Ratcheva]]"
-author - 3: "[[G Hingel]]"
-author - 4: "[[S Brown]]"
+author - 1: "[[Saadia Zahidi]]"
+author - 2: "[[Vesselina Ratcheva]]"
+author - 3: "[[Guillaume Hingel]]"
+author - 4: "[[Sophie Brown]]"
 key: "[[@Zahidi2020-lt]]"
 aliases:
   - The Future Of Jobs Report 2020
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zahidi, S, V Ratcheva, G Hingel, S Brown. 2020. “The Future of Jobs Report 2020.” "[[World Economic Forum]]"
+> Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, Sophie Brown. 2020. “The Future of Jobs Report 2020.” "[[World Economic Forum]]"
