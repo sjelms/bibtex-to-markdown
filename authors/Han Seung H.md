@@ -1,13 +1,13 @@
 ---
-author: "Kim Hyoungkwan"
+author: "Han Seung H"
 institution:
 field:
 type:
 aliases:
-  - Hyoungkwan
+  - H
 ---
 
-## Kim Hyoungkwan
+## Han Seung H
 
 ### Content:
 [[@Han-Seung-H2008-wx|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
