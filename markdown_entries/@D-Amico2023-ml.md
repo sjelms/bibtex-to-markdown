@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> D'Amico, Leonardo, Edward L Glaeser, Joseph Gyourko, William R Kerr, Giacomo A M Ponzetto. 2023. “Why Has Construction Productivity Stagnated? The Role of Land‑Use Regulation.” . http://dx.doi.org/10.2139/ssrn.4679195
+> D'Amico, Leonardo, Edward L Glaeser, Joseph Gyourko, William R Kerr, Giacomo A M Ponzetto. 2023. “Why Has Construction Productivity Stagnated? The Role of Land‑Use Regulation.” . https://ssrn.com/abstract=4679195
