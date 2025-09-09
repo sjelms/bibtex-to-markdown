@@ -13,6 +13,7 @@ aliases:
 [[@Bishop2009-co|Constructing Learning]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
+[[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-dw|Introduction And Overview]]
@@ -39,6 +40,8 @@ aliases:
 ![[@Felstead2009-kt]]
 
 ![[@Felstead2011-az]]
+
+![[@Fuller2003-fs]]
 
 ![[@Fuller2003-fy]]
 

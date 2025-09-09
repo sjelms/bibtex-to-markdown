@@ -14,6 +14,7 @@ aliases:
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
+[[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
@@ -41,6 +42,8 @@ aliases:
 ![[@Felstead2011-az]]
 
 ![[@Felstead2016-ut]]
+
+![[@Fuller2003-fs]]
 
 ![[@Fuller2003-fy]]
 
