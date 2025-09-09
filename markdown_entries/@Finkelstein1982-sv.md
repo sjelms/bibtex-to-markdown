@@ -1,7 +1,7 @@
 ---
 title: What is Not Measurable, Make Measurable
 year: 1982
-author - 1: "[[L Finkelstein]]"
+author - 1: "[[Ludwik Finkelstein]]"
 key: "[[@Finkelstein1982-sv]]"
 aliases:
   - What Is Not Measurable, Make Measurable
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Finkelstein, L. 1982. “What is Not Measurable, Make Measurable.” "[[SAGE Publications Ltd]]". https://doi.org/10.1177/002029408201500104
+> Finkelstein, Ludwik. 1982. “What is Not Measurable, Make Measurable.” "[[SAGE Publications Ltd]]". http://journals.sagepub.com/doi/10.1177/002029408201500104
