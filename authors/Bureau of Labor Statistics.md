@@ -10,8 +10,11 @@ aliases:
 ## Bureau of Labor Statistics
 
 ### Content:
+[[@Bureau-of-Labor-Statistics2022-np|Consumer Price Index For All Urban Consumers, 12-Month Percent Change, By Expenditure Category, June 2022]]
 [[@Bureau_of_Labor_Statistics2021-ge|Unemployment Level – Construction (2000-2021)]]
 
 #### Bibliography:
+
+![[@Bureau-of-Labor-Statistics2022-np]]
 
 ![[@Bureau_of_Labor_Statistics2021-ge]]
