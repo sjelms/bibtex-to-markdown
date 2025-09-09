@@ -1,6 +1,6 @@
 ---
 author: "Cécilia Sik-Lányi"
-institution:
+institution: "Institute of Electrical and Electronics Engineers"
 field:
 type:
 aliases:
