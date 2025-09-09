@@ -14,6 +14,7 @@ aliases:
 [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 [[@Luckin2016-lp|Intelligence Unleashed]]
 [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
+[[@Roll2021-jb|Artificial Intelligence In Education]]
 
 #### Bibliography:
 
@@ -24,3 +25,5 @@ aliases:
 ![[@Luckin2016-lp]]
 
 ![[@Rebolledo-Mendez2011-mg]]
+
+![[@Roll2021-jb]]
