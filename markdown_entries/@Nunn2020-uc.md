@@ -1,11 +1,9 @@
 ---
 title: A Dozen Facts about the Economics of the U.S. Health-Care System
 year: 2020
-author - 1: "[[R Nunn]]"
-author - 2: "[[J Parsons]]"
-author - 3: "[[J Shambaugh]]"
-author - 4: "[[The Hamilton Project]]"
-author - 5: "[[The Brookings Institution]]"
+author - 1: "[[Ryan Nunn]]"
+author - 2: "[[Jana Parsons]]"
+author - 3: "[[Jay Shambaugh]]"
 key: "[[@Nunn2020-uc]]"
 aliases:
   - A Dozen Facts About The Economics Of The U.s. Health-Care System
@@ -21,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Nunn, R, J Parsons, J Shambaugh, The Hamilton Project, The Brookings Institution. 2020. “A Dozen Facts about the Economics of the U.S. Health-Care System.”
+> Nunn, Ryan, Jana Parsons, Jay Shambaugh. 2020. “A Dozen Facts about the Economics of the U.S. Health-Care System.”
