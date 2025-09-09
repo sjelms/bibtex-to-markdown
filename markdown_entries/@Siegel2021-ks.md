@@ -1,10 +1,10 @@
 ---
-title: Juno Design -  Throwing Out the Playbook - juno living
+title: Juno Design -  Throwing Out the Playbook
 year: 2021
 author - 1: "[[Bj Siegel]]"
 key: "[[@Siegel2021-ks]]"
 aliases:
-  - Juno Design - Throwing Out The Playbook - Juno Living
+  - Juno Design - Throwing Out The Playbook
   - Juno Design
 tags:
   - Zotero-Import-Feb-22
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Siegel, Bj. 2021. “Juno Design -  Throwing Out the Playbook - juno living.” . https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd
+> Siegel, Bj. 2021. “Juno Design -  Throwing Out the Playbook.”
