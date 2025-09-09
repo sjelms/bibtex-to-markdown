@@ -1,0 +1,17 @@
+---
+author: "Jayzona Alberto"
+institution:
+field:
+type:
+aliases:
+  - Alberto
+---
+
+## Jayzona Alberto
+
+### Content:
+[[@Alberto2022-nv|Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In Cme-Cpd]]
+
+#### Bibliography:
+
+![[@Alberto2022-nv]]
