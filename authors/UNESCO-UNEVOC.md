@@ -10,8 +10,8 @@ aliases:
 ## UNESCO-UNEVOC
 
 ### Content:
-[[@Unesco-unevoc2015-ie|What Is Tvet?]]
+[[@UNESCO-UNEVOC2015-ge|What Is Tvet?]]
 
 #### Bibliography:
 
-![[@Unesco-unevoc2015-ie]]
+![[@UNESCO-UNEVOC2015-ge]]
