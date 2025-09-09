@@ -1,0 +1,1 @@
+chore(references): clean author formatting and regenerate BibTeX export
