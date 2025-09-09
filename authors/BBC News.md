@@ -11,10 +11,10 @@ aliases:
 
 ### Content:
 [[@BBC-News2015-lz|Will A Robot Take Your Job?]]
-[[@BBC_News2023-mb|New Raac Schools List Of Buildings With Unsafe Concrete]]
+[[@BBC-News2023-wp|New Raac Schools List Of Buildings With Unsafe Concrete]]
 
 #### Bibliography:
 
 ![[@BBC-News2015-lz]]
 
-![[@BBC_News2023-mb]]
+![[@BBC-News2023-wp]]
