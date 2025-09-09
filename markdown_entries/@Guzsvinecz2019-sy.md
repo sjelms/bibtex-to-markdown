@@ -8,6 +8,7 @@ author - 4: "[[Cécilia Sik-Lányi]]"
 key: "[[@Guzsvinecz2019-sy]]"
 aliases:
   - Preparing Spatial Ability Tests In A Virtual Reality Application
+institution: "[[Institute of Electrical and Electronics Engineers]]"
 tags:
   - Color
   - Three-dimensional-displays
