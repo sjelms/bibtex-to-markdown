@@ -1,6 +1,6 @@
 ---
 author: "A Panter"
-institution:
+institution: "Institute of Electrical and Electronics Engineers"
 field:
 type:
 aliases:

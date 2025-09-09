@@ -6,6 +6,7 @@ author - 2: "[[A Panter]]"
 key: "[[@Zimmons2003-kh]]"
 aliases:
   - The Influence Of Rendering Quality On Presence And Task Performance In A Virtual Environment
+institution: "[[Institute of Electrical and Electronics Engineers]]"
 publisher: "[[IEEE Comput. Soc]]"
 tags:
   - The-VR-Book---Jason-Jerald
