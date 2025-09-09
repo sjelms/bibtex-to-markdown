@@ -10,8 +10,8 @@ aliases:
 ## HUD User
 
 ### Content:
-[[@HUD_User2022-lt|Operation Breakthrough]]
+[[@HUD-User2022-ip|Operation Breakthrough]]
 
 #### Bibliography:
 
-![[@HUD_User2022-lt]]
+![[@HUD-User2022-ip]]
