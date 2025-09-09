@@ -1,7 +1,7 @@
 ---
 title: Juno Design -  Throwing Out the Playbook
 year: 2021
-author - 1: "[[Bj Siegel]]"
+author - 1: "[[B J Siegel]]"
 key: "[[@Siegel2021-ks]]"
 aliases:
   - Juno Design - Throwing Out The Playbook
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Siegel, Bj. 2021. “Juno Design -  Throwing Out the Playbook.”
+> Siegel, B J. 2021. “Juno Design -  Throwing Out the Playbook.”
