@@ -10,8 +10,8 @@ aliases:
 ## OFQUAL
 
 ### Content:
-[[@Ofqual2018-cs|Guidance To The General Conditions Of Recognition]]
+[[@OFQUAL2018-an|Guidance To The General Conditions Of Recognition]]
 
 #### Bibliography:
 
-![[@Ofqual2018-cs]]
+![[@OFQUAL2018-an]]
