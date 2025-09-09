@@ -1,8 +1,8 @@
 ---
 title: Data management and analysis methods
 year: 2000
-author - 1: "[[G W Ryan]]"
-author - 2: "[[H R Bernard]]"
+author - 1: "[[Gery W Ryan]]"
+author - 2: "[[H Russell Bernard]]"
 key: "[[@Ryan2000-ql]]"
 aliases:
   - Data Management And Analysis Methods
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ryan, G W, H R Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"
+> Ryan, Gery W, H Russell Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"
