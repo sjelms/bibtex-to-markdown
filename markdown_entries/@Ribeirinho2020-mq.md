@@ -13,7 +13,7 @@ key: "[[@Ribeirinho2020-mq]]"
 aliases:
   - The Next Normal In Construction - How Disruption Is Reshaping The World’s Largest Ecosystem
   - The Next Normal In Construction
-institution: "[[Library Database/Institution Database/McKinsey and Company]]"
+institution: "[[McKinsey and Company]]"
 publisher: "[[McKinsey Insights]]"
 tags:
   - Construction-4-0

@@ -6,7 +6,7 @@ key: "[[@Cameron2020-wn]]"
 aliases:
   - Data To The Rescue - Embodied Carbon In Buildings And The Urgency Of Now
   - Data To The Rescue
-institution: "[[Library Database/Institution Database/McKinsey and Company]]"
+institution: "[[McKinsey and Company]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
