@@ -1,10 +1,10 @@
 ---
 author: "United Nations"
-institution:
+institution: "[[United Nations (UN)]]"
 field:
 type:
 aliases:
-  - Nations
+  - UN
 ---
 
 ## United Nations
