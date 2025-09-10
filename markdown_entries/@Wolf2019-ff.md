@@ -7,7 +7,7 @@ author - 3: "[[Jan-Hendrik Ruse]]"
 key: "[[@Wolf2019-ff]]"
 aliases:
   - Case Study On Mobile Virtual Reality Construction Training
-publisher: "[[International Association for Automation and Robotics in Construction (IAARC)]]"
+publisher: "[[IAARC]]"
 tags:
   - International-Association-for-Automation-and-Robotics-in-Construction-IAARC
   - XR-Reviewed
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wolf, Mario, Jochen Teizer, Jan-Hendrik Ruse. 2019. “Case study on mobile virtual reality construction training.” "[[International Association for Automation and Robotics in Construction (IAARC)]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html
+> Wolf, Mario, Jochen Teizer, Jan-Hendrik Ruse. 2019. “Case study on mobile virtual reality construction training.” "[[IAARC]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html
