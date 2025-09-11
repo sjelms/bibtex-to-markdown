@@ -10,7 +10,7 @@ key: "[[@Fuller2017-dj]]"
 aliases:
   - Better Apprenticeships - Access, Quality And Labour Market Outcomes In The English Apprenticeship System
   - Better Apprenticeships
-institution: "[[UCL|UCL Institute of Education]]"
+institution: "[[UCL Institute of Education]]"
 publisher: "[[Sutton Trust]]"
 tags:
   - 2_Upgrade-MAY-2023

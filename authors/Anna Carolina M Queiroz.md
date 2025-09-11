@@ -1,20 +1,17 @@
 ---
-author: "Géraldine Fauville"
+author: "Anna Carolina M Queiroz"
 institution:
 field:
 type:
 aliases:
-  - Fauville
+  - Queiroz
 ---
 
-## Géraldine Fauville
+## Anna Carolina M Queiroz
 
 ### Content:
-[[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
 [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
 
 #### Bibliography:
-
-![[@Fauville2020-dy]]
 
 ![[@Queiroz2022-wa]]
