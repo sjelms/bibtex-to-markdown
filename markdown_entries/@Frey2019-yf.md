@@ -1,7 +1,7 @@
 ---
 title: The Technology Trap -  Capital, Labor, and Power in the Age of Automation
 year: 2019
-author - 1: "[[Carl Benedikt Frey]]"
+author - 1: "[[Carl-Benedikt Frey]]"
 key: "[[@Frey2019-yf]]"
 aliases:
   - The Technology Trap - Capital, Labor, And Power In The Age Of Automation

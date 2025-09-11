@@ -1,7 +1,7 @@
 ---
 title: Generative AI and the Future of Work -  A Reappraisal
 year: 2023
-author - 1: "[[Carl Benedikt Frey]]"
+author - 1: "[[Carl-Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"
 key: "[[@Frey2023-rj]]"
 aliases:

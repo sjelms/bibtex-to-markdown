@@ -2,7 +2,7 @@
 title: Structural Transformation in the OECD -  Digitalisation, Deindustrialisation and the Future of Work
 year: 2016
 author - 1: "[[Thor Berger]]"
-author - 2: "[[Carl Benedikt Frey]]"
+author - 2: "[[Carl-Benedikt Frey]]"
 key: "[[@Berger2016-vc]]"
 aliases:
   - Structural Transformation In The Oecd - Digitalisation, Deindustrialisation And The Future Of Work

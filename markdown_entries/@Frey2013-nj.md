@@ -1,7 +1,7 @@
 ---
 title: The Future of Employment -  How Susceptible Are Jobs to Computerisation?
 year: 2013
-author - 1: "[[Carl Benedikt Frey]]"
+author - 1: "[[Carl-Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"
 key: "[[@Frey2013-nj]]"
 aliases:
