@@ -6,7 +6,7 @@ author - 2: "[[Felix Oberholzer-Gee]]"
 key: "[[@Halaburda2014-dw]]"
 aliases:
   - The Limits Of Scale
-journal: "[[Harvard Business Review]]"
+journal: "[[@Harvard Business Review]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git

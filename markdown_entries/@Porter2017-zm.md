@@ -6,7 +6,7 @@ author - 2: "[[James E Heppelmann]]"
 key: "[[@Porter2017-zm]]"
 aliases:
   - Why Every Organization Needs An Augmented Reality Strategy
-journal: "[[Harvard Business Review]]"
+journal: "[[@Harvard Business Review]]"
 tags:
   - XR-Reviewed
   - Notion-Catalogued
