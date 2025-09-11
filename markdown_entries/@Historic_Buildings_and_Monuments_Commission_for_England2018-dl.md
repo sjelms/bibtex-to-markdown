@@ -1,7 +1,7 @@
 ---
 title: 5 Things You Didn’t Know About Prefabs
 year: 2018
-author - 1: "[[Historic Buildings and Monuments Commission for England]]"
+author - 1: "[[bibtex-to-markdown/authors/Historic Buildings and Monuments Commission for England]]"
 key: "[[@Historic_Buildings_and_Monuments_Commission_for_England2018-dl]]"
 aliases:
   - 5 Things You Didn’t Know About Prefabs

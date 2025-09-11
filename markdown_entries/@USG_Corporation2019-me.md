@@ -2,8 +2,8 @@
 title: Q4 2019 Commercial Construction Index
 year: 2019
 author - 1: "[[USG Corporation]]"
-author - 2: "[[United States Chamber of Commerce]]"
-author - 3: "[[Dodge Data & Analytics]]"
+author - 2: "[[bibtex-to-markdown/authors/United States Chamber of Commerce]]"
+author - 3: "[[bibtex-to-markdown/authors/Dodge Data & Analytics]]"
 key: "[[@USG_Corporation2019-me]]"
 aliases:
   - Q4 2019 Commercial Construction Index
