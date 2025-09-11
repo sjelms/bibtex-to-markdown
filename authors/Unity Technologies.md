@@ -1,5 +1,5 @@
 ---
-author: Unity Technologies
+author: "Unity Technologies"
 institution:
 field:
 type:

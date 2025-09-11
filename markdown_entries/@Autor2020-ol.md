@@ -4,7 +4,7 @@ year: 2020
 author - 1: "[[David H Autor]]"
 author - 2: "[[David A Mindell]]"
 author - 3: "[[Elisabeth B Reynolds]]"
-author - 4: "[[bibtex-to-markdown/authors/MIT Task Force on the Work of the Future]]"
+author - 4: "[[MIT Task Force on the Work of the Future]]"
 key: "[[@Autor2020-ol]]"
 aliases:
   - The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines

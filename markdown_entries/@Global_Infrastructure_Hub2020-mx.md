@@ -1,12 +1,12 @@
 ---
 title: Global Infrastructure Outlook - A G20 INITIATIVE
 year: 2020
-author - 1: "[[bibtex-to-markdown/authors/Global Infrastructure Hub]]"
+author - 1: "[[Global Infrastructure Hub]]"
 key: "[[@Global_Infrastructure_Hub2020-mx]]"
 aliases:
   - Global Infrastructure Outlook - A G20 Initiative
   - Global Infrastructure Outlook
-institution: "[[bibtex-to-markdown/authors/Global Infrastructure Hub]]"
+institution: "[[Global Infrastructure Hub]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git

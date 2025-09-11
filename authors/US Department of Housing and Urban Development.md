@@ -4,7 +4,7 @@ institution: "United States Department of Housing and Urban Development"
 field:
 type:
 aliases:
-  - HUD
+  - Development
 ---
 
 ## US Department of Housing and Urban Development
