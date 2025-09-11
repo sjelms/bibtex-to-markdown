@@ -1,6 +1,7 @@
 ---
-author: "Unity Technologies"
+author: Unity Technologies
 institution:
+  - Unity Technologies
 field:
 type:
 aliases:
