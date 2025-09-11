@@ -2,7 +2,7 @@
 title: Disrupting Science
 year: 2022
 author - 1: "[[Chinchih Chen]]"
-author - 2: "[[Carl-Benedikt Frey]]"
+author - 2: "[[Carl Benedikt Frey]]"
 author - 3: "[[Giorgio Presidente]]"
 key: "[[@Chen2022-fx]]"
 aliases:
