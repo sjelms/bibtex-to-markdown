@@ -9,7 +9,7 @@ key: "[[@Bransford1999-ta]]"
 aliases:
   - Rethinking Transfer - A Simple Proposal With Multiple Implications
   - Rethinking Transfer
-journal: "[[Washington DC -  American Educational Research Association]]"
+journal: "[[American Educational Research Association]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
