@@ -7,11 +7,11 @@ aliases:
   - An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write
   - An Open Letter To Graduate Students And Other Procrastinators
 journal: "[[Nature biotechnology]]"
-publisher: "[[Springer Science and Business Media LLC]]"
+publisher: "[[Springer Science+Business Media]]"
 tags:
   - _BibTex-to-MD-Git
   - Readwise-Reader
 ---
 
 > [!bibliography]
-> Hazelett, Dennis J. 2025. “An open letter to graduate students and other procrastinators -  it's time to write.” "[[Springer Science and Business Media LLC]]". http://dx.doi.org/10.1038/s41587-025-02584-1
+> Hazelett, Dennis J. 2025. “An open letter to graduate students and other procrastinators -  it's time to write.” "[[Springer Science+Business Media]]". http://dx.doi.org/10.1038/s41587-025-02584-1
