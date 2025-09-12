@@ -7,7 +7,7 @@ key: "[[@Auti2019-nb]]"
 aliases:
   - Prefabrication Technology - A Promising Alternative In Construction Industry
   - Prefabrication Technology
-journal: "[[International Journal of Science and Research (IJSR)]]"
+journal: "[[International Journal of Science and Research]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
