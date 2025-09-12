@@ -16,6 +16,9 @@ tags:
   - AEC
   - Readwise-Reader
   - Website
+author - 3: "[[Achim Menges]]"
+author - 4: "[[Adam Green]]"
+author - 5: "[[Alexandra Thiel]]"
 ---
 
 > [!bibliography]
