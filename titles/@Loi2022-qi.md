@@ -5,7 +5,7 @@ author - 1: "[[Daria Loi]]"
 key: "[[@Loi2022-qi]]"
 aliases:
   - Designing The Unfinished
-journal: "[[interactions]]"
+journal: "[[Interactions]]"
 publisher: "[[Association for Computing Machinery]]"
 tags:
   - 00_TO-READ

@@ -5,7 +5,7 @@ author - 1: "[[Paul Krugman]]"
 key: "[[@Krugman2013-ut]]"
 aliases:
   - An Ubernerd Weighs In
-journal: "[[The New York times]]"
+journal: "[[The New York Times]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
