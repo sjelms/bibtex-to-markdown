@@ -1,5 +1,5 @@
 ---
-name: European educational research journal
+name: European Educational Research Journal
 aliases:
 see also:
 tags:
@@ -7,7 +7,8 @@ category:
   - journal
 ---
 
-## European educational research journal
+## European Educational Research Journal
 
 ### Content:
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
+[[@Fuller2003-gh|Fostering Workplace Learning]]
