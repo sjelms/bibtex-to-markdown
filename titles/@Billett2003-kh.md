@@ -6,7 +6,7 @@ key: "[[@Billett2003-kh]]"
 aliases:
   - Vocational Curriculum And Pedagogy - An Activity Theory Perspective
   - Vocational Curriculum And Pedagogy
-journal: "[[European educational research journal]]"
+journal: "[[European Educational Research Journal]]"
 publisher: "[[SAGE Publications]]"
 tags:
   - Education

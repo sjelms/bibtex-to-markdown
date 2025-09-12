@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Puntambekar2021-pm|Distributed Scaffolding]]
+[[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
