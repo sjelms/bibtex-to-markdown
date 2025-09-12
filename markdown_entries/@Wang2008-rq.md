@@ -9,7 +9,7 @@ key: "[[@Wang2008-rq]]"
 aliases:
   - Craft Training Issues In American Industrial And Commercial Construction
 journal: "[[Journal of construction engineering and management]]"
-publisher: "[[American Society of Civil Engineers (ASCE)]]"
+publisher: "[[American Society of Civil Engineers]]"
 tags:
   - Notion-Catalogued
   - 2_Upgrade-MAY-2023
@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Wang, Yinggang, Paul M Goodrum, Carl T Haas, Robert W Glover. 2008. “Craft training issues in American industrial and commercial construction.” "[[American Society of Civil Engineers (ASCE)]]". https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)
+> Wang, Yinggang, Paul M Goodrum, Carl T Haas, Robert W Glover. 2008. “Craft training issues in American industrial and commercial construction.” "[[American Society of Civil Engineers]]". https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)
 
 > [!abstract]
 > … Based on a nationwide survey of industry experts regarding craft training … of construction craft training via 93 respondents from a wide range of US industrial and commercial construction …

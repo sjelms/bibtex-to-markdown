@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Russell, Jeffrey S, Awad Hanna, Lawrence C Bank, Aviad Shapira. 2007. “Education in Construction Engineering and Management Built on Tradition -  Blueprint for Tomorrow.” "[[American Society of Civil Engineers]]". https://doi.org/10.1061/(ASCE)0733-9364(2007)133:9(661)
+> Russell, Jeffrey S, Awad Hanna, Lawrence C Bank, Aviad Shapira. 2007. “Education in Construction Engineering and Management Built on Tradition -  Blueprint for Tomorrow.” "[[American Society of Civil Engineers]]". https://ascelibrary.org/doi/10.1061/%28ASCE%290733-9364%282007%29133%3A9%28661%29
