@@ -5,7 +5,7 @@ author - 1: "[[Allison Arieff]]"
 key: "[[@Arieff2013-rp]]"
 aliases:
   - Prefab Lives!
-journal: "[[The New York times]]"
+journal: "[[The New York Times]]"
 tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
