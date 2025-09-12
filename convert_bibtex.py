@@ -408,59 +408,59 @@ if not args.only_with_editors and not args.no_author_files:
             "---",
             f'author: "{author}"'  # author already has [[ ]] from format_authors()
         ]
-    
-    # Add institutions if any
-    if metadata['institutions']:
-        institutions = sorted(list(metadata['institutions']))
-        author_yaml.append(f'institution: "{institutions[0]}"')  # Use first institution as primary
-    else:
-        author_yaml.append("institution:")
-        
-    # Add other fields
-    author_yaml.extend([
-        "field:",
-        "type:",
-        "aliases:",
-    ])
 
-    # Add surname as alias (best-effort split on last token)
-    clean_author_no_brackets = author.replace("[[", "").replace("]]", "").strip()
-    if clean_author_no_brackets:
-        parts = clean_author_no_brackets.split()
-        surname = parts[-1]
-        if surname:
-            author_yaml.append(f"  - {surname}")
+        # Add institutions if any
+        if metadata['institutions']:
+            institutions = sorted(list(metadata['institutions']))
+            author_yaml.append(f'institution: "{institutions[0]}"')  # Use first institution as primary
+        else:
+            author_yaml.append("institution:")
 
-    # Close frontmatter and add content sections
-    author_yaml.extend([
-        "---",
-        "",
-        f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
-        "",
-        "### Content:",
-    ])
-    for citation in sorted(metadata['citations']):
-        disp = metadata['moc_display'].get(citation, citation)
-        author_yaml.append(f"[[@{citation}|{disp}]]")
-    author_yaml.extend([
-        "",
-        "#### Bibliography:",
-        ""  # Empty line before citations for better readability
-    ])
-    
-    # Add citation embeds, one per line
-    for citation in sorted(metadata['citations']):
-        author_yaml.append(f"![[@{citation}]]")
-        author_yaml.append("")  # Add empty line between citations
-    
-    # Remove trailing empty line
-    if author_yaml[-1] == "":
-        author_yaml.pop()
-    
+        # Add other fields
+        author_yaml.extend([
+            "field:",
+            "type:",
+            "aliases:",
+        ])
+
+        # Add surname as alias (best-effort split on last token)
+        clean_author_no_brackets = author.replace("[[", "").replace("]]", "").strip()
+        if clean_author_no_brackets:
+            parts = clean_author_no_brackets.split()
+            surname = parts[-1]
+            if surname:
+                author_yaml.append(f"  - {surname}")
+
+        # Close frontmatter and add content sections
+        author_yaml.extend([
+            "---",
+            "",
+            f"## {author.replace('[[', '').replace(']]', '')}",  # Remove brackets only for heading
+            "",
+            "### Content:",
+        ])
+        for citation in sorted(metadata['citations']):
+            disp = metadata['moc_display'].get(citation, citation)
+            author_yaml.append(f"[[@{citation}|{disp}]]")
+        author_yaml.extend([
+            "",
+            "#### Bibliography:",
+            ""  # Empty line before citations for better readability
+        ])
+
+        # Add citation embeds, one per line
+        for citation in sorted(metadata['citations']):
+            author_yaml.append(f"![[@{citation}]]")
+            author_yaml.append("")  # Add empty line between citations
+
+        # Remove trailing empty line
+        if author_yaml[-1] == "":
+            author_yaml.pop()
+
         # Save the author file
         filename = get_safe_filename(author) + ".md"
         author_filename = os.path.join(AUTHORS_DIR, filename)
-        
+
         with open(author_filename, "w", encoding="utf-8") as author_file:
             author_file.write("\n".join(author_yaml))
 

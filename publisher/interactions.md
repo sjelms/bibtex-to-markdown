@@ -1,5 +1,5 @@
 ---
-name: interactions
+name: Interactions
 aliases:
 see also:
 tags:
@@ -7,7 +7,7 @@ category:
   - journal
 ---
 
-## interactions
+## Interactions
 
 ### Content:
-[[@Loi2022-qi|Designing The Unfinished]]
+[[@Dubberly2011-yu|Design As Learning—Or ``knowledge Creation''—The Seci Model]]
