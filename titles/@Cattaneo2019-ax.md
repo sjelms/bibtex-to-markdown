@@ -9,7 +9,7 @@ author - 5: "[[Carmen Zahn]]"
 key: "[[@Cattaneo2019-ax]]"
 aliases:
   - A Model For Designing Hypervideo-Based Instructional Scenarios
-journal: "[[Interactive learning environments]]"
+journal: "[[Interactive Learning Environments]]"
 publisher: "[[Informa UK Limited]]"
 tags:
   - VET

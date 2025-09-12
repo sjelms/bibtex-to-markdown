@@ -6,7 +6,7 @@ author - 2: "[[Beverly J Baartmans]]"
 key: "[[@Sorby2000-fd]]"
 aliases:
   - The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students
-journal: "[[Journal of engineering education]]"
+journal: "[[Journal of Engineering Education]]"
 publisher: "[[Wiley]]"
 tags:
   - Notion-Catalogued

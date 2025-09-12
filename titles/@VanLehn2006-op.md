@@ -5,7 +5,7 @@ author - 1: "[[Kurt VanLehn]]"
 key: "[[@VanLehn2006-op]]"
 aliases:
   - The Behavior Of Tutoring Systems
-journal: "[[International journal of artificial intelligence in education]]"
+journal: "[[International Journal of Artificial Intelligence in Education]]"
 publisher: "[[IOS Press]]"
 tags:
   - Frontiers-2022

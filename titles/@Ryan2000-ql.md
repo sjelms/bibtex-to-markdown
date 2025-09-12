@@ -8,7 +8,7 @@ editor - 2: "[[Yvonna S Lincoln]]"
 key: "[[@Ryan2000-ql]]"
 aliases:
   - Data Management And Analysis Methods
-publisher: "[[Sage Publications]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - Research-Methodology-in-the-Built-Environment---A-Selection-of-Case-Studies
   - 2_Upgrade-MAY-2023
@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ryan, Gery W, H Russell Bernard. 2000. “Data management and analysis methods.” "[[Sage Publications]]"
+> Ryan, Gery W, H Russell Bernard. 2000. “Data management and analysis methods.” "[[SAGE Publications]]"
