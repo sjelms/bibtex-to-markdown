@@ -1,5 +1,6 @@
 import os
 import re
+import argparse
 import bibtexparser
 
 # Define file paths
@@ -86,6 +87,24 @@ def extract_title_aliases(raw_title: str) -> list:
             dedup.append(a)
             seen.add(a)
     return dedup
+
+parser = argparse.ArgumentParser(description="Convert BibTeX to Markdown with YAML frontmatter.")
+parser.add_argument(
+    "--only-with-editors",
+    action="store_true",
+    help="Process only entries that have an 'editor' field."
+)
+parser.add_argument(
+    "--update-frontmatter-only",
+    action="store_true",
+    help="Replace only the YAML frontmatter in existing files; preserve body content."
+)
+parser.add_argument(
+    "--no-author-files",
+    action="store_true",
+    help="Do not regenerate per-author files (useful for partial updates)."
+)
+args = parser.parse_args()
 
 # Load the BibTeX file
 with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
@@ -197,7 +216,11 @@ def process_keywords(keyword_str):
     return cleaned_keywords
 
 # Process each entry in BibTeX
+processed_count = 0
 for entry in bib_database.entries:
+    # Optionally restrict to entries that include editors
+    if args.only_with_editors and not entry.get("editor"):
+        continue
     key = entry.get("ID", "unknown_key")
     raw_title = entry.get("title", "Untitled")
     title = clean_text(raw_title, is_yaml=True)
@@ -274,10 +297,30 @@ for entry in bib_database.entries:
     if abstract:
         markdown_content += f"\n\n> [!abstract]\n> {abstract}"
 
-    # Save the Markdown file
+    # Save or update the Markdown file
     md_filename = os.path.join(OUTPUT_DIR, f"@{key}.md")
-    with open(md_filename, "w", encoding="utf-8") as md_file:
-        md_file.write(markdown_content.strip())
+    new_frontmatter = "\n".join(yaml_lines)  # includes opening and closing --- lines
+    if args.update_frontmatter_only and os.path.exists(md_filename):
+        # Replace only the frontmatter block; preserve the body
+        with open(md_filename, "r", encoding="utf-8") as md_file:
+            existing = md_file.read()
+
+        # Match first frontmatter block and replace
+        fm_pattern = re.compile(r"^---\n.*?\n---", re.DOTALL | re.MULTILINE)
+        if fm_pattern.search(existing):
+            updated = fm_pattern.sub(new_frontmatter, existing, count=1)
+        else:
+            # If no existing frontmatter, prepend it
+            updated = new_frontmatter + "\n\n" + existing
+
+        with open(md_filename, "w", encoding="utf-8") as md_file:
+            md_file.write(updated.strip())
+    else:
+        # Write full content (frontmatter + generated sections)
+        with open(md_filename, "w", encoding="utf-8") as md_file:
+            md_file.write(markdown_content.strip())
+
+    processed_count += 1
     
     # Track citations and metadata for each author
     for author in formatted_authors:
@@ -297,13 +340,14 @@ for entry in bib_database.entries:
             inst = institution.replace('"[[', '').replace(']]"', '')
             author_metadata[clean_author]['institutions'].add(inst)
 
-# Generate author files
-for author, metadata in author_metadata.items():
-    # Create author file content
-    author_yaml = [
-        "---",
-        f'author: "{author}"'  # author already has [[ ]] from format_authors()
-    ]
+# Generate author files (skip if doing a targeted update unless explicitly requested)
+if not args.only_with_editors and not args.no_author_files:
+    for author, metadata in author_metadata.items():
+        # Create author file content
+        author_yaml = [
+            "---",
+            f'author: "{author}"'  # author already has [[ ]] from format_authors()
+        ]
     
     # Add institutions if any
     if metadata['institutions']:
@@ -353,12 +397,13 @@ for author, metadata in author_metadata.items():
     if author_yaml[-1] == "":
         author_yaml.pop()
     
-    # Save the author file
-    filename = get_safe_filename(author) + ".md"
-    author_filename = os.path.join(AUTHORS_DIR, filename)
-    
-    with open(author_filename, "w", encoding="utf-8") as author_file:
-        author_file.write("\n".join(author_yaml))
+        # Save the author file
+        filename = get_safe_filename(author) + ".md"
+        author_filename = os.path.join(AUTHORS_DIR, filename)
+        
+        with open(author_filename, "w", encoding="utf-8") as author_file:
+            author_file.write("\n".join(author_yaml))
 
-print(f"✅ Citation files created in {OUTPUT_DIR}/")
-print(f"✅ Author files created in {AUTHORS_DIR}/")
+print(f"✅ Processed {processed_count} entries into {OUTPUT_DIR}/")
+if not args.only_with_editors and not args.no_author_files:
+    print(f"✅ Author files created in {AUTHORS_DIR}/")
