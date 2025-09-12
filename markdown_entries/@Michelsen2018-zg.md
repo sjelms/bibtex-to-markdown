@@ -3,6 +3,8 @@ title: Vocational Education in the Nordic Countries -  the Historical Evolution
 year: 2018
 author - 1: "[[Svein Michelsen]]"
 author - 2: "[[Marja-Leena Stenström]]"
+editor - 1: "[[Svein Michelsen]]"
+editor - 2: "[[Marja-Leena Stenström]]"
 key: "[[@Michelsen2018-zg]]"
 aliases:
   - Vocational Education In The Nordic Countries - The Historical Evolution

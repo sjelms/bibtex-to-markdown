@@ -2,6 +2,8 @@
 title: Instructional Technology -  Cognitive Science Perspectives
 year: 2001
 author - 1: "[[Klaus Opwis]]"
+editor - 1: "[[Neil J Smelser]]"
+editor - 2: "[[Paul B Baltes]]"
 key: "[[@Opwis2001-vw]]"
 aliases:
   - Instructional Technology - Cognitive Science Perspectives

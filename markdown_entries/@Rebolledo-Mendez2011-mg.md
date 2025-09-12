@@ -4,6 +4,8 @@ year: 2011
 author - 1: "[[Genaro Rebolledo-Mendez]]"
 author - 2: "[[Rosemary Luckin]]"
 author - 3: "[[Benedict du Boulay]]"
+editor - 1: "[[Rafael A Calvo]]"
+editor - 2: "[[Sidney K D'Mello]]"
 key: "[[@Rebolledo-Mendez2011-mg]]"
 aliases:
   - Designing Adaptive Motivational Scaffolding For A Tutoring System

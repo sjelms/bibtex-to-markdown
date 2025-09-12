@@ -3,6 +3,8 @@ title: Offsite Construction Industry Meta-analysis -  Industry Survey Results
 year: 2017
 author - 1: "[[Talbot Rice]]"
 author - 2: "[[Ryan E Smith]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Rice2017-wn]]"
 aliases:
   - Offsite Construction Industry Meta-Analysis - Industry Survey Results

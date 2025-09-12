@@ -3,6 +3,8 @@ title: The Learning Potential of Boundary Crossing in the Vocational Curriculum
 year: 2019
 author - 1: "[[Arthur Bakker]]"
 author - 2: "[[Sanne Akkerman]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Bakker2019-lj]]"
 aliases:
   - The Learning Potential Of Boundary Crossing In The Vocational Curriculum

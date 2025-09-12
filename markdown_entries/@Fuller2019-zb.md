@@ -2,6 +2,8 @@
 title: Does Vocational Education Still Need the Concept of Occupation?
 year: 2019
 author - 1: "[[Alison Fuller]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Fuller2019-zb]]"
 aliases:
   - Does Vocational Education Still Need The Concept Of Occupation?

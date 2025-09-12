@@ -2,6 +2,8 @@
 title: Labor Unionism
 year: 2009
 author - 1: "[[Andrew Herod]]"
+editor - 1: "[[Rob Kitchin]]"
+editor - 2: "[[Nigel Thrift]]"
 key: "[[@Herod2009-pg]]"
 aliases:
   - Labor Unionism

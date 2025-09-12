@@ -4,6 +4,9 @@ year: 2020
 author - 1: "[[Aseel Hussien]]"
 author - 2: "[[Atif Waraich]]"
 author - 3: "[[Daniel Paes]]"
+editor - 1: "[[Anil Sawhney]]"
+editor - 2: "[[Michael Riley]]"
+editor - 3: "[[Javier Irizarry]]"
 key: "[[@Hussien2020-bt]]"
 aliases:
   - A Review Of Mixed-Reality Applications In Construction 4.0

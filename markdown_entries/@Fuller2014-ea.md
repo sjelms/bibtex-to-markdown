@@ -3,6 +3,8 @@ title: Contemporary Apprenticeship -  International Perspectives on an Evolving 
 year: 2014
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Fuller2014-ea]]"
 aliases:
   - Contemporary Apprenticeship - International Perspectives On An Evolving Model Of Learning

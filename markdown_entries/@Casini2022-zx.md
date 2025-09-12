@@ -2,6 +2,7 @@
 title: Chapter 1 - Toward a new building era
 year: 2022
 author - 1: "[[Marco Casini]]"
+editor - 1: "[[Marco Casini]]"
 key: "[[@Casini2022-zx]]"
 aliases:
   - Chapter 1 - Toward A New Building Era

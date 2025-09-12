@@ -6,6 +6,11 @@ author - 2: "[[Jonathan Freeman]]"
 author - 3: "[[Matthew Lombard]]"
 author - 4: "[[Rachel J Schaevitz]]"
 author - 5: "[[Wijnand IJsselsteijn]]"
+editor - 1: "[[Frank Biocca]]"
+editor - 2: "[[Jonathan Freeman]]"
+editor - 3: "[[Matthew Lombard]]"
+editor - 4: "[[Rachel J Schaevitz]]"
+editor - 5: "[[Wijnand IJsselsteijn]]"
 key: "[[@Biocca2015-km]]"
 aliases:
   - Immersed In Media - Telepresence Theory, Measurement \& Technology

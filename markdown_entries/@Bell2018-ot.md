@@ -8,6 +8,9 @@ author - 4: "[[Jane Martin]]"
 author - 5: "[[Stewart Martin]]"
 author - 6: "[[Carmel O'Sullivan]]"
 author - 7: "[[Harsh Suri]]"
+editor - 1: "[[Louis Cohen]]"
+editor - 2: "[[Lawrence Manion]]"
+editor - 3: "[[Keith Morrison]]"
 key: "[[@Bell2018-ot]]"
 aliases:
   - Research Methods In Education

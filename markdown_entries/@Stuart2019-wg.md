@@ -2,6 +2,8 @@
 title: The Industrial Relations of Training and Development
 year: 2019
 author - 1: "[[Mark Stuart]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Stuart2019-wg]]"
 aliases:
   - The Industrial Relations Of Training And Development

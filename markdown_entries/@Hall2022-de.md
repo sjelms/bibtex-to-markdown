@@ -4,6 +4,9 @@ year: 2022
 author - 1: "[[Daniel M Hall]]"
 author - 2: "[[Jerker Lessing]]"
 author - 3: "[[Jennifer K Whyte]]"
+editor - 1: "[[Marzia Bolpagni]]"
+editor - 2: "[[Rui Gavina]]"
+editor - 3: "[[Diogo Ribeiro]]"
 key: "[[@Hall2022-de]]"
 aliases:
   - New Business Models For Industrialized Construction

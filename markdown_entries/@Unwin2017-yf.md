@@ -2,6 +2,7 @@
 title: From Craftsmanship and Novices to 3D Printing and an Ageing Workforce – Is Vocational Education and Training (VET) Research Keeping Pace with Change as Well as Continuity in Work?
 year: 2017
 author - 1: "[[Lorna Unwin]]"
+editor - 1: "[[Matthias Pilz]]"
 key: "[[@Unwin2017-yf]]"
 aliases:
   - From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?

@@ -2,6 +2,8 @@
 title: Industrialized Building System Categorization
 year: 2017
 author - 1: "[[Roger-Bruno Richard]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Richard2017-jw]]"
 aliases:
   - Industrialized Building System Categorization

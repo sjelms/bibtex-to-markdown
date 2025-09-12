@@ -2,6 +2,8 @@
 title: Constructing Dialogues -  On Architectural Potentials of Montage
 year: 2017
 author - 1: "[[Charlotte Bundgaard]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Bundgaard2017-am]]"
 aliases:
   - Constructing Dialogues - On Architectural Potentials Of Montage

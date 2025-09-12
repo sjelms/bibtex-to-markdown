@@ -2,6 +2,10 @@
 title: Skill Development in Middle Level Occupations -  The Role of Apprenticeship Training
 year: 2017
 author - 1: "[[Robert I Lerman]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Lerman2017-ww]]"
 aliases:
   - Skill Development In Middle Level Occupations - The Role Of Apprenticeship Training

@@ -3,6 +3,8 @@ title: Wind River Built's Mission to Bring Back The Starter Home in Style with M
 year: 2024
 author - 1: "[[Blake Watson]]"
 author - 2: "[[Amelia Dicks]]"
+editor - 1: "[[Blake Watson]]"
+editor - 2: "[[Amelia Dicks]]"
 key: "[[@Watson2024-vl]]"
 aliases:
   - Wind River Built's Mission To Bring Back The Starter Home In Style With Modular Home Construction

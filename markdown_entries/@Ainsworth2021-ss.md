@@ -2,6 +2,8 @@
 title: The Multiple Representations Principle in Multimedia Learning
 year: 2021
 author - 1: "[[Shaaron Ainsworth]]"
+editor - 1: "[[Logan Fiorella]]"
+editor - 2: "[[Richard E Mayer]]"
 key: "[[@Ainsworth2021-ss]]"
 aliases:
   - The Multiple Representations Principle In Multimedia Learning

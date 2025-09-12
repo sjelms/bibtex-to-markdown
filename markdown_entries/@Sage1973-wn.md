@@ -2,6 +2,7 @@
 title: In Memoriam -  Jaime R. Carbonell
 year: 1973
 author - 1: "[[Andrew P Sage]]"
+editor - 1: "[[Andrew P Sage]]"
 key: "[[@Sage1973-wn]]"
 aliases:
   - In Memoriam - Jaime R. Carbonell

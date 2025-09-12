@@ -4,6 +4,8 @@ year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Jonathan W Elliott]]"
 author - 3: "[[Kevin Grosskopf]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Smith2017-ff]]"
 aliases:
   - Offsite Construction In Education - A Survey Of Prefabrication In Design And Construction Academia

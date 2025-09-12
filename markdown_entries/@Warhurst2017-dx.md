@@ -4,6 +4,10 @@ year: 2017
 author - 1: "[[Chris Warhurst]]"
 author - 2: "[[Chris Tilly]]"
 author - 3: "[[Mary Gatta]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Warhurst2017-dx]]"
 aliases:
   - A New Social Construction Of Skill

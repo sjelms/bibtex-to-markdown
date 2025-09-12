@@ -3,6 +3,8 @@ title: Registered apprenticeship training in the US construction industry
 year: 2005
 author - 1: "[[Robert W Glover]]"
 author - 2: "[[Cihan Bilginsoy]]"
+editor - 1: "[[Erica Smith]]"
+editor - 2: "[[Vikki Smith]]"
 key: "[[@Glover2005-ke]]"
 aliases:
   - Registered Apprenticeship Training In The Us Construction Industry

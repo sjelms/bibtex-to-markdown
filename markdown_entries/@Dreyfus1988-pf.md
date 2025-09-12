@@ -3,6 +3,7 @@ title: Mind Over Machine -  The Power of Human Intuition and Expertise in the Er
 year: 1988
 author - 1: "[[Hubert Dreyfus]]"
 author - 2: "[[Stuart E Dreyfus]]"
+editor - 1: "[[Tom Athanasiou]]"
 key: "[[@Dreyfus1988-pf]]"
 aliases:
   - Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer

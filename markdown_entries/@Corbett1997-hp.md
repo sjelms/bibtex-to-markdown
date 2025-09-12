@@ -4,6 +4,9 @@ year: 1997
 author - 1: "[[Albert T Corbett]]"
 author - 2: "[[Kenneth R Koedinger]]"
 author - 3: "[[John R Anderson]]"
+editor - 1: "[[Marting G Helander]]"
+editor - 2: "[[Thomas K Landauer]]"
+editor - 3: "[[Prasad V Prabhu]]"
 key: "[[@Corbett1997-hp]]"
 aliases:
   - Chapter 37 - Intelligent Tutoring Systems

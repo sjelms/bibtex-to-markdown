@@ -2,6 +2,8 @@
 title: Qualitative Interviewing and Grounded Theory Analysis
 year: 2001
 author - 1: "[[Kathy Charmaz]]"
+editor - 1: "[[Jaber F Gubrium]]"
+editor - 2: "[[James A Holstein]]"
 key: "[[@Charmaz2001-np]]"
 aliases:
   - Qualitative Interviewing And Grounded Theory Analysis

@@ -4,6 +4,9 @@ year: 2020
 author - 1: "[[Anil Sawhney]]"
 author - 2: "[[Mike Riley]]"
 author - 3: "[[Javier Irizarry]]"
+editor - 1: "[[Anil Sawhney]]"
+editor - 2: "[[Michael Riley]]"
+editor - 3: "[[Javier Irizarry]]"
 key: "[[@Sawhney2020-tm]]"
 aliases:
   - Construction 4.0 - An Innovation Platform For The Built Environment

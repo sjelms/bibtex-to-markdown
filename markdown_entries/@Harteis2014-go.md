@@ -3,6 +3,9 @@ title: New Skills for New Jobs -  Work Agency as a Necessary Condition for Succe
 year: 2014
 author - 1: "[[Christian Harteis]]"
 author - 2: "[[Michael Goller]]"
+editor - 1: "[[Timo Halttunen]]"
+editor - 2: "[[Mari Koivisto]]"
+editor - 3: "[[Stephen Billett]]"
 key: "[[@Harteis2014-go]]"
 aliases:
   - New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning

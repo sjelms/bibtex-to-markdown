@@ -6,6 +6,11 @@ author - 2: "[[Danielle McNamara]]"
 author - 3: "[[Sergey Sosnovsky]]"
 author - 4: "[[Rosemary Luckin]]"
 author - 5: "[[Vania Dimitrova]]"
+editor - 1: "[[Ido Roll]]"
+editor - 2: "[[Danielle McNamara]]"
+editor - 3: "[[Sergey Sosnovsky]]"
+editor - 4: "[[Rosemary Luckin]]"
+editor - 5: "[[Vania Dimitrova]]"
 key: "[[@Roll2021-jb]]"
 aliases:
   - Artificial Intelligence In Education

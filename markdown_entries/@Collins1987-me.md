@@ -4,6 +4,7 @@ year: 1987
 author - 1: "[[Allan Collins]]"
 author - 2: "[[John Seely Brown]]"
 author - 3: "[[Susan E Newman]]"
+editor - 1: "[[Lauren Resnick]]"
 key: "[[@Collins1987-me]]"
 aliases:
   - Cognitive Apprenticeship - Teaching The Crafts Of Reading, Writing, And Mathematics

@@ -2,6 +2,8 @@
 title: Multimedia Learning in Virtual and Mixed Reality
 year: 2021
 author - 1: "[[Jocelyn Parong]]"
+editor - 1: "[[Logan Fiorella]]"
+editor - 2: "[[Richard E Mayer]]"
 key: "[[@Parong2021-uo]]"
 aliases:
   - Multimedia Learning In Virtual And Mixed Reality

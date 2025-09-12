@@ -2,6 +2,10 @@
 title: Preparing Students for Future Learning with Mixed Reality Interfaces
 year: 2017
 author - 1: "[[Bertrand Schneider]]"
+editor - 1: "[[Dejian Liu]]"
+editor - 2: "[[Chris Dede]]"
+editor - 3: "[[Ronghuai Huang]]"
+editor - 4: "[[John Richards]]"
 key: "[[@Schneider2017-bz]]"
 aliases:
   - Preparing Students For Future Learning With Mixed Reality Interfaces

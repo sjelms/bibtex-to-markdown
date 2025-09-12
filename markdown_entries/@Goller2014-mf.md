@@ -3,6 +3,9 @@ title: Employing Agency in Academic Settings -  Doctoral Students Shaping Their 
 year: 2014
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Christian Harteis]]"
+editor - 1: "[[Christian Harteis]]"
+editor - 2: "[[Andreas Rausch]]"
+editor - 3: "[[Jürgen Seifried]]"
 key: "[[@Goller2014-mf]]"
 aliases:
   - Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences

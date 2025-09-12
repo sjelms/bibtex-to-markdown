@@ -3,6 +3,8 @@ title: Designing Technology-Enhanced Learning Environments in Vocational Educati
 year: 2019
 author - 1: "[[Carmela Aprea]]"
 author - 2: "[[Alberto A P Cattaneo]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Aprea2019-rf]]"
 aliases:
   - Designing Technology-Enhanced Learning Environments In Vocational Education And Training

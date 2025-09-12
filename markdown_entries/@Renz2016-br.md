@@ -3,6 +3,8 @@ title: Shaping the Future of Construction -  A Breakthrough in Mindset and Techn
 year: 2016
 author - 1: "[[Andreas Renz]]"
 author - 2: "[[Manuel Zafra Solas]]"
+editor - 1: "[[Pedro Rodrigues de Almeida]]"
+editor - 2: "[[Michael Bühler]]"
 key: "[[@Renz2016-br]]"
 aliases:
   - Shaping The Future Of Construction - A Breakthrough In Mindset And Technology

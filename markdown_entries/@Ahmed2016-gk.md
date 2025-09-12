@@ -4,6 +4,9 @@ year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"
 author - 3: "[[Julius Akotia]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Ahmed2016-gk]]"
 aliases:
   - Choosing An Appropriate Research Methodology And Method

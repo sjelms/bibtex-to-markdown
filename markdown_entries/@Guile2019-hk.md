@@ -3,6 +3,8 @@ title: VET, Expertise, and Work -  Situating the Challenge for the Twenty-First 
 year: 2019
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Guile2019-hk]]"
 aliases:
   - Vet, Expertise, And Work - Situating The Challenge For The Twenty-First Century

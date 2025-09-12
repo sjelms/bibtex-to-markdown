@@ -3,6 +3,8 @@ title: Offsite Architecture -  Constructing the Future
 year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[John D Quale]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Smith2017-zx]]"
 aliases:
   - Offsite Architecture - Constructing The Future

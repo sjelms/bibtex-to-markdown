@@ -6,6 +6,8 @@ author - 2: "[[Lorna Unwin]]"
 author - 3: "[[Alan Felstead]]"
 author - 4: "[[Nick Jewson]]"
 author - 5: "[[Konstantinos Kakavelakis]]"
+editor - 1: "[[D W Livingstone]]"
+editor - 2: "[[David Guile]]"
 key: "[[@Fuller2012-pz]]"
 aliases:
   - Creating And Using Knowledge

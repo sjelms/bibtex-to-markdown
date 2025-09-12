@@ -2,6 +2,8 @@
 title: System Structures -  A Theory of Industrialised Architecture
 year: 2017
 author - 1: "[[Kasper Sánchez Vibæk]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Vibaek2017-sw]]"
 aliases:
   - System Structures - A Theory Of Industrialised Architecture

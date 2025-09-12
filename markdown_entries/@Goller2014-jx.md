@@ -3,6 +3,9 @@ title: Agentic Behaviour at Work -  Crafting Learning Experiences
 year: 2014
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Stephen Billett]]"
+editor - 1: "[[Christian Harteis]]"
+editor - 2: "[[Andreas Rausch]]"
+editor - 3: "[[Jürgen Seifried]]"
 key: "[[@Goller2014-jx]]"
 aliases:
   - Agentic Behaviour At Work - Crafting Learning Experiences

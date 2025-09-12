@@ -4,6 +4,9 @@ year: 2019
 author - 1: "[[Erik Brynjolfsson]]"
 author - 2: "[[Daniel Rock]]"
 author - 3: "[[Chad Syverson]]"
+editor - 1: "[[Ajay Agrawal]]"
+editor - 2: "[[Joshua Gans]]"
+editor - 3: "[[Avi Goldfarb]]"
 key: "[[@Brynjolfsson2019-od]]"
 aliases:
   - Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics

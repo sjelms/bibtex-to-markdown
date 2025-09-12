@@ -4,6 +4,8 @@ year: 2019
 author - 1: "[[Aimée Hoeve]]"
 author - 2: "[[Wietske Kuijer-Siebelink]]"
 author - 3: "[[Loek Nieuwenhuis]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Hoeve2019-ip]]"
 aliases:
   - Innovative Work-Based Learning For Responsive Vocational Education And Training (vet) - Lessons From Dutch Higher Vet

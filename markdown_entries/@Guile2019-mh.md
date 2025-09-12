@@ -3,6 +3,8 @@ title: Introduction to the Handbook -  Vocational Education and Training (VET) T
 year: 2019
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Guile2019-mh]]"
 aliases:
   - Introduction To The Handbook - Vocational Education And Training (vet) Theory, Practice, And Policy For A Complex Field Of Inquiry

@@ -4,6 +4,8 @@ year: 2020
 author - 1: "[[Bruce Buckley]]"
 author - 2: "[[Katharine Logan]]"
 author - 3: "[[Timothy Schuler]]"
+editor - 1: "[[Stephen A Jones]]"
+editor - 2: "[[Donna Laquidara-Carr]]"
 key: "[[@Buckley2020-ir]]"
 aliases:
   - Prefabrication And Modular Construction 2020

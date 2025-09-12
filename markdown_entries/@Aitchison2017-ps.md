@@ -3,6 +3,8 @@ title: Prefabricated Housing in Architectural Culture
 year: 2017
 author - 1: "[[Mathew Aitchison]]"
 author - 2: "[[John Macarthur]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Aitchison2017-ps]]"
 aliases:
   - Prefabricated Housing In Architectural Culture

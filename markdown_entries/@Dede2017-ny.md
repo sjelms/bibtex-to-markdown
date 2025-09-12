@@ -4,6 +4,10 @@ year: 2017
 author - 1: "[[Christopher J Dede]]"
 author - 2: "[[Jeffrey Jacobson]]"
 author - 3: "[[John Richards]]"
+editor - 1: "[[Dejian Liu]]"
+editor - 2: "[[Chris Dede]]"
+editor - 3: "[[Ronghuai Huang]]"
+editor - 4: "[[John Richards]]"
 key: "[[@Dede2017-ny]]"
 aliases:
   - Introduction - Virtual, Augmented, And Mixed Realities In Education

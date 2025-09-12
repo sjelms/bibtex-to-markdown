@@ -3,6 +3,8 @@ title: Duality and Learning Fields in Vocational Education and Training -  Pedag
 year: 2019
 author - 1: "[[Matthias Pilz]]"
 author - 2: "[[Bärbel Fürstenau]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Pilz2019-py]]"
 aliases:
   - Duality And Learning Fields In Vocational Education And Training - Pedagogy, Curriculum, And Assessment

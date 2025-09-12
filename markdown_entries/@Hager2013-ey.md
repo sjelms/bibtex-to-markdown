@@ -2,6 +2,10 @@
 title: Theories of Workplace Learning
 year: 2013
 author - 1: "[[Paul Hager]]"
+editor - 1: "[[Margaret Malloch]]"
+editor - 2: "[[Len Cairns]]"
+editor - 3: "[[Karen Evans]]"
+editor - 4: "[[Bridget N O'Connor]]"
 key: "[[@Hager2013-ey]]"
 aliases:
   - Theories Of Workplace Learning

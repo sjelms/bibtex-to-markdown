@@ -5,6 +5,7 @@ author - 1: "[[Tom Clark]]"
 author - 2: "[[Alan Bryman]]"
 author - 3: "[[Liam Foster]]"
 author - 4: "[[Luke Sloan]]"
+editor - 1: "[[Elena Vacchelli]]"
 key: "[[@Clark2021-ef]]"
 aliases:
   - Bryman's Social Research Methods

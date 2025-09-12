@@ -2,6 +2,7 @@
 title: Introduction
 year: 2022
 author - 1: "[[Marco Casini]]"
+editor - 1: "[[Marco Casini]]"
 key: "[[@Casini2022-fn]]"
 aliases:
   - Introduction

@@ -3,6 +3,8 @@ title: Capturing the Elusive -  How Vocational Teachers Develop and Sustain Thei
 year: 2019
 author - 1: "[[Janet H Broad]]"
 author - 2: "[[Ann Lahiff]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Broad2019-rn]]"
 aliases:
   - Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise

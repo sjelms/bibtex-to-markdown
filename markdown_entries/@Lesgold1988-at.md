@@ -5,6 +5,9 @@ author - 1: "[[Alan Lesgold]]"
 author - 2: "[[Susanne Lajoie]]"
 author - 3: "[[Marilyn Bunzo]]"
 author - 4: "[[Gary Eggan]]"
+editor - 1: "[[J Larkin]]"
+editor - 2: "[[R Chabay]]"
+editor - 3: "[[C Scheftic]]"
 key: "[[@Lesgold1988-at]]"
 aliases:
   - Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job

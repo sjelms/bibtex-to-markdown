@@ -2,6 +2,9 @@
 title: When More Does Not Mean Better -  Selecting a Research Methodology and Methods
 year: 2016
 author - 1: "[[Karim Ménacère]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Menacere2016-fn]]"
 aliases:
   - When More Does Not Mean Better - Selecting A Research Methodology And Methods

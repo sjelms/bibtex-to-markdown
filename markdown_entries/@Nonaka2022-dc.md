@@ -3,6 +3,8 @@ title: Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi -  “Bracketing” 
 year: 2022
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Ichiro Yamaguchi]]"
+editor - 1: "[[Ikujiro Nonaka]]"
+editor - 2: "[[Ichiro Yamaguchi]]"
 key: "[[@Nonaka2022-dc]]"
 aliases:
   - Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science

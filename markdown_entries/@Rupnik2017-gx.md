@@ -2,6 +2,8 @@
 title: Mapping the Modular Industry
 year: 2017
 author - 1: "[[Ivan Rupnik]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Rupnik2017-gx]]"
 aliases:
   - Mapping The Modular Industry

@@ -2,6 +2,7 @@
 title: Chapter Three - The Green Design and Construction Process
 year: 2017
 author - 1: "[[Sam Kubba]]"
+editor - 1: "[[Sam Kubba]]"
 key: "[[@Kubba2017-ph]]"
 aliases:
   - Chapter Three - The Green Design And Construction Process

@@ -2,6 +2,7 @@
 title: U.S. Steel Fabricates Rooms for Florida's Disney World
 year: 1971
 author - 1: "[[Robert Abeck]]"
+editor - 1: "[[Robert Abeck]]"
 key: "[[@Abeck1971-vn]]"
 aliases:
   - U.s. Steel Fabricates Rooms For Florida's Disney World

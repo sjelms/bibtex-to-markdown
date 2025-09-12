@@ -2,6 +2,8 @@
 title: Vocational Education and the Individual
 year: 2019
 author - 1: "[[Stephen Billett]]"
+editor - 1: "[[David Guile]]"
+editor - 2: "[[Lorna Unwin]]"
 key: "[[@Billett2019-so]]"
 aliases:
   - Vocational Education And The Individual

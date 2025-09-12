@@ -3,6 +3,8 @@ title: Permanent Modular Construction -  Construction Performance
 year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Talbot Rice]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Smith2017-op]]"
 aliases:
   - Permanent Modular Construction - Construction Performance

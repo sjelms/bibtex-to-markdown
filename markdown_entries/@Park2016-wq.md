@@ -3,6 +3,7 @@ title: What is multimodal design? An interview with John Alderman and Christine 
 year: 2016
 author - 1: "[[Christine W Park]]"
 author - 2: "[[John Alderman]]"
+editor - 1: "[[Mac Slocum]]"
 key: "[[@Park2016-wq]]"
 aliases:
   - What Is Multimodal Design? An Interview With John Alderman And Christine Park

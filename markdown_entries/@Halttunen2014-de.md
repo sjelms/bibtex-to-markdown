@@ -4,6 +4,9 @@ year: 2014
 author - 1: "[[Timo Halttunen]]"
 author - 2: "[[Mari Koivisto]]"
 author - 3: "[[Stephen Billett]]"
+editor - 1: "[[Timo Halttunen]]"
+editor - 2: "[[Mari Koivisto]]"
+editor - 3: "[[Stephen Billett]]"
 key: "[[@Halttunen2014-de]]"
 aliases:
   - Promoting, Assessing, Recognizing And Certifying Lifelong Learning - International Perspectives And Practices

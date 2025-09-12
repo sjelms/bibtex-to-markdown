@@ -3,6 +3,8 @@ title: Novel technology and whole-process management in prefabricated building -
 year: 2024
 author - 1: "[[Ping Xiang]]"
 author - 2: "[[Liangdong Zuo]]"
+editor - 1: "[[Ping Xiang]]"
+editor - 2: "[[Liangdong Zuo]]"
 key: "[[@Xiang2024-jj]]"
 aliases:
   - Novel Technology And Whole-Process Management In Prefabricated Building - Conference Proceedings Of The 5th International Prefabricated Building Seminar On Frontier Technology And Talent Training

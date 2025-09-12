@@ -3,6 +3,8 @@ title: Data management and analysis methods
 year: 2000
 author - 1: "[[Gery W Ryan]]"
 author - 2: "[[H Russell Bernard]]"
+editor - 1: "[[Norman K Denzin]]"
+editor - 2: "[[Yvonna S Lincoln]]"
 key: "[[@Ryan2000-ql]]"
 aliases:
   - Data Management And Analysis Methods

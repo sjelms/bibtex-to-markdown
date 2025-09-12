@@ -2,6 +2,7 @@
 title: The Digital Turn in Architecture 1992 - 2012 -  AD reader
 year: 2012
 author - 1: "[[Mario Carpo]]"
+editor - 1: "[[Mario Carpo]]"
 key: "[[@Carpo2012-lv]]"
 aliases:
   - The Digital Turn In Architecture 1992 - 2012 - Ad Reader

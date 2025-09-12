@@ -2,6 +2,8 @@
 title: Prefabricated housing in Japan
 year: 2017
 author - 1: "[[Dana Buntrock]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Buntrock2017-pm]]"
 aliases:
   - Prefabricated Housing In Japan

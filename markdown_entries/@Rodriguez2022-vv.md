@@ -2,6 +2,7 @@
 title: Untitled
 year: 2022
 author - 1: "[[Alvaro Lopez Rodriguez]]"
+editor - 1: "[[Christoph Lindner]]"
 key: "[[@Rodriguez2022-vv]]"
 aliases:
   - Untitled

@@ -2,6 +2,7 @@
 title: Guest Chapter -  The Human in the Centre?! (Christian)—Ethical Reflections on the Anthropological and Ethical Challenges of AI
 year: 2022
 author - 1: "[[Bianca Christina Weber-Lewerenz]]"
+editor - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-zr]]"
 aliases:
   - Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of Ai

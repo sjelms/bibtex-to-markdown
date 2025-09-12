@@ -2,6 +2,8 @@
 title: Trade Unions, Economic Behavior of
 year: 2001
 author - 1: "[[Alison L Booth]]"
+editor - 1: "[[Neil J Smelser]]"
+editor - 2: "[[Paul B Baltes]]"
 key: "[[@Booth2001-fr]]"
 aliases:
   - Trade Unions, Economic Behavior Of

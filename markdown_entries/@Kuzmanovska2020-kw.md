@@ -2,6 +2,8 @@
 title: Building Design for Manufacture and Assembly (BDfMA) -  Reframing the Design-Production Relationship in Industrialised Construction
 year: 2020
 author - 1: "[[Ivana Kuzmanovska]]"
+editor - 1: "[[Mathew Aitchison]]"
+editor - 2: "[[Duncan Maxwell]]"
 key: "[[@Kuzmanovska2020-kw]]"
 aliases:
   - Building Design For Manufacture And Assembly (bdfma) - Reframing The Design-Production Relationship In Industrialised Construction

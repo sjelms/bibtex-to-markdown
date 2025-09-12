@@ -2,6 +2,7 @@
 title: Engineering Applications of Artificial Intelligence
 year: 2018
 author - 1: "[[Ajith Abraham]]"
+editor - 1: "[[Ajith Abraham]]"
 key: "[[@Abraham2018-ah]]"
 aliases:
   - Engineering Applications Of Artificial Intelligence

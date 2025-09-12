@@ -3,6 +3,8 @@ title: A Scottish Perspective on Timber Offsite Construction
 year: 2017
 author - 1: "[[Robert Hairstans]]"
 author - 2: "[[Fausto Sanna]]"
+editor - 1: "[[Ryan E Smith]]"
+editor - 2: "[[John D Quale]]"
 key: "[[@Hairstans2017-pe]]"
 aliases:
   - A Scottish Perspective On Timber Offsite Construction

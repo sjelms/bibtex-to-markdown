@@ -3,6 +3,7 @@ title: Digitization in the Construction Industry -  Building Europe's Road to ``
 year: 2016
 author - 1: "[[Kai-Stefan Schober]]"
 author - 2: "[[Philipp Hoff]]"
+editor - 1: "[[Katherine Nölling]]"
 key: "[[@Schober2016-eo]]"
 aliases:
   - Digitization In The Construction Industry - Building Europe's Road To ``construction 4.0''
