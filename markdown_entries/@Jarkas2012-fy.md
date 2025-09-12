@@ -6,7 +6,7 @@ author - 2: "[[Camille G Bitar]]"
 key: "[[@Jarkas2012-fy]]"
 aliases:
   - Factors Affecting Construction Labor Productivity In Kuwait
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

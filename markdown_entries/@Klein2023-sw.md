@@ -5,7 +5,7 @@ author - 1: "[[Ezra Klein]]"
 key: "[[@Klein2023-sw]]"
 aliases:
   - The Dystopia We Fear Is Keeping Us From The Utopia We Deserve
-journal: "[[The New York Times]]"
+journal: "[[The New York times]]"
 tags:
   - Abundance-–-How-We-Build-a-Better-Future-Footnotes
   - _BibTex-to-MD-Git

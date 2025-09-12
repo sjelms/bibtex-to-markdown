@@ -7,7 +7,7 @@ author - 3: "[[Thomas Olofsson]]"
 key: "[[@Jensen2015-jp]]"
 aliases:
   - Product Configuration In Construction
-journal: "[[International Journal of Mass Customisation (IJMASSC)]]"
+journal: "[[International Journal of Mass Customisation]]"
 tags:
   - _BibTex-to-MD-Git
   - AEC

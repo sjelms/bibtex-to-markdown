@@ -10,7 +10,7 @@ key: "[[@Lippert2020-ei]]"
 aliases:
   - Multiple Agent Designs In Conversational Intelligent Tutoring Systems
 journal: "[[Technology Knowledge and Learning]]"
-publisher: "[[Springer Science and Business Media LLC]]"
+publisher: "[[Springer Science+Business Media]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lippert, Anne, Keith Shubeck, Brent Morgan, Andrew Hampton, Arthur Graesser. 2020. “Multiple agent designs in conversational intelligent tutoring systems.” "[[Springer Science and Business Media LLC]]". http://dx.doi.org/10.1007/s10758-019-09431-8
+> Lippert, Anne, Keith Shubeck, Brent Morgan, Andrew Hampton, Arthur Graesser. 2020. “Multiple agent designs in conversational intelligent tutoring systems.” "[[Springer Science+Business Media]]". http://dx.doi.org/10.1007/s10758-019-09431-8

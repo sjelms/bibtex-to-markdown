@@ -5,7 +5,7 @@ author - 1: "[[Chris Dede]]"
 key: "[[@Dede2009-ro]]"
 aliases:
   - Immersive Interfaces For Engagement And Learning
-journal: "[[Science (New York, N.Y.)]]"
+journal: "[[Science]]"
 publisher: "[[American Association for the Advancement of Science (AAAS)]]"
 tags:
   - Frontiers-2022

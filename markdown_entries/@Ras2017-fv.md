@@ -8,7 +8,7 @@ author - 4: "[[Alexandre Baudet]]"
 key: "[[@Ras2017-fv]]"
 aliases:
   - Bridging The Skills Gap Of Workers In Industry 4.0 By Human Performance Augmentation Tools
-publisher: "[[ACM]]"
+publisher: "[[Association for Computing Machinery]]"
 tags:
   - Construction-4-0
   - UCL-Poster-Q1-2023
@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ras, Eric, Fridolin Wild, Christoph Stahl, Alexandre Baudet. 2017. “Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools.” "[[ACM]]". http://dx.doi.org/10.1145/3056540.3076192
+> Ras, Eric, Fridolin Wild, Christoph Stahl, Alexandre Baudet. 2017. “Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3056540.3076192

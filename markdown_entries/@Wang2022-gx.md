@@ -14,7 +14,7 @@ key: "[[@Wang2022-gx]]"
 aliases:
   - Workplace Learning In China - Transferring Training Into Practice To Improve Performance
   - Workplace Learning In China
-journal: "[[International journal for research in vocational education and training]]"
+journal: "[[International Journal of Artificial Intelligence in Education]]"
 publisher: "[[Uni Bremen Campus GmbH]]"
 tags:
   - Supplement-Feedback-Document

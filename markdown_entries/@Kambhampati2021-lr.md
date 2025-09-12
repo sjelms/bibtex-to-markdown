@@ -6,6 +6,7 @@ key: "[[@Kambhampati2021-lr]]"
 aliases:
   - Polanyi's Revenge And Ai's New Romance With Tacit Knowledge
 journal: "[[Communications of the ACM]]"
+publisher: "[[Association for Computing Machinery]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kambhampati, Subbarao. 2021. “Polanyi's revenge and AI's new romance with tacit knowledge.” . http://dx.doi.org/10.1145/3446369
+> Kambhampati, Subbarao. 2021. “Polanyi's revenge and AI's new romance with tacit knowledge.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3446369
