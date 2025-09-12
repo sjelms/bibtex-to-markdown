@@ -6,7 +6,7 @@ author - 2: "[[Yanghee Kim]]"
 key: "[[@Baylor2005-hh]]"
 aliases:
   - Simulating Instructional Roles Through Pedagogical Agents
-journal: "[[International journal of artificial intelligence in education]]"
+journal: "[[International Journal of Artificial Intelligence in Education]]"
 publisher: "[[IOS Press]]"
 tags:
   - 2_Upgrade-MAY-2023
