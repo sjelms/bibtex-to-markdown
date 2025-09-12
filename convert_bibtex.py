@@ -203,9 +203,13 @@ for entry in bib_database.entries:
     title = clean_text(raw_title, is_yaml=True)
     year = entry.get("year", "Unknown Year")
 
-    # Process authors (supports 'editor' as fallback)
+    # Process authors (supports 'editor' as fallback for author field)
     raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
     formatted_authors = format_authors(raw_authors)
+
+    # Process editors separately; include only if present
+    raw_editors = entry.get("editor")
+    formatted_editors = format_authors(raw_editors) if raw_editors else []
 
     # Get other fields and wrap them in [[ ]] and QUOTES, only if they exist
     institution = f'"[[{clean_text(entry.get("institution", ""), is_yaml=True)}]]"' if entry.get("institution") and entry.get("institution").strip() else None
@@ -235,6 +239,11 @@ for entry in bib_database.entries:
 
     for i, author in enumerate(formatted_authors, start=1):
         yaml_lines.append(f'author - {i}: "{author}"')
+
+    # Add editors to YAML if present
+    if formatted_editors:
+        for i, editor in enumerate(formatted_editors, start=1):
+            yaml_lines.append(f'editor - {i}: "{editor}"')
 
     yaml_lines.append(f'key: "[[@{key}]]"')
 
