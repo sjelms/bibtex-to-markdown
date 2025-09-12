@@ -233,6 +233,37 @@ aliases:
 ![[@Citation-Key]]
 ```
 
+#### Editor Notes
+- Editors are treated like authors for note generation to ensure every `[[Name]]` link resolves.
+- If a person appears only as an editor, they still get a note under `authors/`.
+
+#### Publisher/Journal Pages
+- A page is generated for each unique publisher and journal in `publisher/`.
+- Names are normalized by removing punctuation and collapsing spaces (e.g., `John Wiley and Sons, Inc.` → `John Wiley and Sons Inc`).
+- The normalized name is used both for the wiki-link `[[...]]` in citation YAML and as the filename.
+- If the same normalized name appears as both a publisher and a journal, a single page is created with both categories.
+
+Example YAML for a publisher/journal page:
+
+```markdown
+---
+name: John Wiley and Sons Inc
+aliases:
+see also:
+tags:
+category:
+  - publisher
+---
+
+## John Wiley and Sons Inc
+
+### Content:
+[[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
+[[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
+[[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
+[[@Klein2025-yx|Abundance]]
+```
+
 #### Interdependency:
 - Author files use `![[@Citation-Key]]` to embed the bibliography section from citation files
 - The `!` in the syntax causes Obsidian to display the actual bibliography content
