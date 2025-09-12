@@ -5,7 +5,7 @@ author - 1: "[[Mary Yang]]"
 key: "[[@Yang2023-qm]]"
 aliases:
   - Where Did The Workers Go? Construction Jobs Are Plentiful, But Workers Are Scarce
-journal: "[[NPR]]"
+journal: "[[National Public Radio]]"
 publisher: "[[NPR]]"
 tags:
   - 3_Upgrade-OCT-2023
