@@ -6,7 +6,7 @@ key: "[[@Sawchuk2013-ux]]"
 aliases:
   - Researching Workplace Learning - An Overview And Critique
   - Researching Workplace Learning
-publisher: "[[SAGE Publications Ltd]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - SAGE-Handbook-of-Workplace-Learning
   - EPubs-Books
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sawchuk, Peter H. 2013. “Researching Workplace Learning -  an Overview and Critique.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n12
+> Sawchuk, Peter H. 2013. “Researching Workplace Learning -  an Overview and Critique.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n12

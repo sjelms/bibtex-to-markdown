@@ -9,7 +9,7 @@ editor - 4: "[[Bridget N O'Connor]]"
 key: "[[@Hager2013-ey]]"
 aliases:
   - Theories Of Workplace Learning
-publisher: "[[SAGE Publications Ltd]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - SAGE-Handbook-of-Workplace-Learning
   - 00_TO-READ
@@ -28,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hager, Paul. 2013. “Theories of Workplace Learning.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n2
+> Hager, Paul. 2013. “Theories of Workplace Learning.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n2

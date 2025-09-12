@@ -5,7 +5,7 @@ author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2013-ty]]"
 aliases:
   - How Researching Learning At Work Can Lead To Tools For Enhancing Learning
-publisher: "[[SAGE Publications Ltd]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - SAGE-Handbook-of-Workplace-Learning
   - EPubs-Books
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Eraut, Michael. 2013. “How Researching Learning at Work Can Lead to Tools for Enhancing Learning.” "[[SAGE Publications Ltd]]". http://dx.doi.org/10.4135/9781446200940.n13
+> Eraut, Michael. 2013. “How Researching Learning at Work Can Lead to Tools for Enhancing Learning.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n13
