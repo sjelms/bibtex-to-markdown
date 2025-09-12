@@ -7,7 +7,7 @@ key: "[[@Christensen2020-mi]]"
 aliases:
   - Disruption 2020 - An Interview With Clayton M. Christensen
   - Disruption 2020
-journal: "[[MIT Sloan Management Review; Cambridge]]"
+journal: "[[MIT Sloan Management Review Cambridge]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git

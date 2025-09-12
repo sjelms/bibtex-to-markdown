@@ -7,7 +7,7 @@ editor - 2: "[[James A Holstein]]"
 key: "[[@Charmaz2001-np]]"
 aliases:
   - Qualitative Interviewing And Grounded Theory Analysis
-publisher: "[[SAGE Publications, Inc.]]"
+publisher: "[[SAGE Publications Inc]]"
 tags:
   - interviews
   - surveys

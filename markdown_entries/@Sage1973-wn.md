@@ -7,7 +7,7 @@ key: "[[@Sage1973-wn]]"
 aliases:
   - In Memoriam - Jaime R. Carbonell
   - In Memoriam
-journal: "[[IEEE transactions on systems, man, and cybernetics]]"
+journal: "[[IEEE transactions on systems man and cybernetics]]"
 tags:
   - Frontiers-2022
   - 2_Upgrade-MAY-2023

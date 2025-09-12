@@ -7,7 +7,7 @@ key: "[[@Kubba2017-ph]]"
 aliases:
   - Chapter Three - The Green Design And Construction Process
   - Chapter Three
-publisher: "[[Butterworth-Heinemann]]"
+publisher: "[[Butterworth Heinemann]]"
 tags:
   - Brownfield-sites
   - Building-commissioning

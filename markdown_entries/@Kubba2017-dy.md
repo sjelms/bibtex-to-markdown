@@ -7,7 +7,7 @@ key: "[[@Kubba2017-dy]]"
 aliases:
   - Chapter Fourteen - Types Of Building Contract Agreements
   - Chapter Fourteen
-publisher: "[[Butterworth-Heinemann]]"
+publisher: "[[Butterworth Heinemann]]"
 tags:
   - Bid-solicitation
   - Certificate-for-payment

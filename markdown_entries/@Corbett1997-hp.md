@@ -11,7 +11,7 @@ key: "[[@Corbett1997-hp]]"
 aliases:
   - Chapter 37 - Intelligent Tutoring Systems
   - Chapter 37
-publisher: "[[North-Holland]]"
+publisher: "[[North Holland]]"
 tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git

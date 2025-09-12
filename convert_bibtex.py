@@ -7,13 +7,16 @@ import bibtexparser
 BIBTEX_FILE = "main.bib"
 OUTPUT_DIR = "markdown_entries"
 AUTHORS_DIR = "authors"
+PUBLISHERS_DIR = "publisher"
 
 # Ensure output directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(AUTHORS_DIR, exist_ok=True)
+os.makedirs(PUBLISHERS_DIR, exist_ok=True)
 
 # Dictionary to track authors and their metadata
 author_metadata = {}  # Will store citations, institutions, and other fields
+entity_metadata = {}  # Will store publisher/journal pages and their citations
 
 def get_safe_filename(name):
     # Remove wiki-link brackets
@@ -25,6 +28,26 @@ def get_safe_filename(name):
     # Remove leading/trailing underscores
     name = name.strip('_')
     return name
+
+
+def normalize_entity_name(text: str) -> str:
+    """Normalize publisher/journal names for links and filenames.
+    - Remove braces/newlines via clean_text
+    - Remove punctuation (.,;:!-'"/&()[]{}-_ and slashes)
+    - Remove underscores
+    - Collapse multiple spaces
+    - Trim
+    """
+    if not text:
+        return ""
+    t = clean_text(text, is_yaml=True)
+    # Remove common punctuation and symbols
+    t = re.sub(r"[\._,;:!\-–—'\"/&()\[\]{}\\]", " ", t)
+    # Remove underscores explicitly (in case left by \w)
+    t = t.replace("_", " ")
+    # Collapse whitespace
+    t = re.sub(r"\s+", " ", t)
+    return t.strip()
 
 
 def to_title_case(text: str) -> str:
@@ -236,8 +259,13 @@ for entry in bib_database.entries:
 
     # Get other fields and wrap them in [[ ]] and QUOTES, only if they exist
     institution = f'"[[{clean_text(entry.get("institution", ""), is_yaml=True)}]]"' if entry.get("institution") and entry.get("institution").strip() else None
-    publisher = f'"[[{clean_text(entry.get("publisher", ""), is_yaml=True)}]]"' if entry.get("publisher") and entry.get("publisher").strip() else None
-    journal = f'"[[{clean_text(entry.get("journal", ""), is_yaml=True)}]]"' if entry.get("journal") and entry.get("journal").strip() else None
+    # Normalize publisher/journal names for linking and filenames
+    raw_publisher = entry.get("publisher", "")
+    raw_journal = entry.get("journal", "")
+    norm_publisher = normalize_entity_name(raw_publisher) if raw_publisher and raw_publisher.strip() else ""
+    norm_journal = normalize_entity_name(raw_journal) if raw_journal and raw_journal.strip() else ""
+    publisher = f'"[[{norm_publisher}]]"' if norm_publisher else None
+    journal = f'"[[{norm_journal}]]"' if norm_journal else None
 
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(entry.get("keywords", ""))
@@ -322,7 +350,7 @@ for entry in bib_database.entries:
 
     processed_count += 1
     
-    # Track citations and metadata for each author
+    # Track citations and metadata for each author (include editors too)
     for author in formatted_authors:
         clean_author = author.replace("[[", "").replace("]]", "")
         if clean_author not in author_metadata:
@@ -339,6 +367,38 @@ for entry in bib_database.entries:
         if institution:
             inst = institution.replace('"[[', '').replace(']]"', '')
             author_metadata[clean_author]['institutions'].add(inst)
+
+    # Also create pages for editors (so all [[names]] have files)
+    for editor in formatted_editors:
+        clean_editor = editor.replace("[[", "").replace("]]", "")
+        if clean_editor not in author_metadata:
+            author_metadata[clean_editor] = {
+                'citations': [],
+                'institutions': set(),
+                'fields': set(),
+                'moc_display': {}
+            }
+        author_metadata[clean_editor]['citations'].append(key)
+        author_metadata[clean_editor]['moc_display'][key] = display_alias
+
+    # Track publisher/journal entity pages
+    def ensure_entity(name: str, category: str):
+        if not name:
+            return
+        if name not in entity_metadata:
+            entity_metadata[name] = {
+                'categories': set(),
+                'citations': [],
+                'moc_display': {}
+            }
+        entity_metadata[name]['categories'].add(category)
+        entity_metadata[name]['citations'].append(key)
+        entity_metadata[name]['moc_display'][key] = display_alias
+
+    if norm_publisher:
+        ensure_entity(norm_publisher, 'publisher')
+    if norm_journal:
+        ensure_entity(norm_journal, 'journal')
 
 # Generate author files (skip if doing a targeted update unless explicitly requested)
 if not args.only_with_editors and not args.no_author_files:
@@ -404,6 +464,38 @@ if not args.only_with_editors and not args.no_author_files:
         with open(author_filename, "w", encoding="utf-8") as author_file:
             author_file.write("\n".join(author_yaml))
 
+# Generate publisher/journal entity files (full runs only by default)
+if not args.only_with_editors and not args.no_author_files:
+    for name, metadata in entity_metadata.items():
+        categories = sorted(list(metadata['categories']))
+        fm = [
+            "---",
+            f"name: {name}",
+            "aliases:",
+            "see also:",
+            "tags:",
+            "category:",
+        ]
+        for c in categories:
+            fm.append(f"  - {c}")
+        fm.append("---")
+
+        body = [
+            "",
+            f"## {name}",
+            "",
+            "### Content:",
+        ]
+        for citation in sorted(metadata['citations']):
+            disp = metadata['moc_display'].get(citation, citation)
+            body.append(f"[[@{citation}|{disp}]]")
+
+        content = "\n".join(fm + body)
+        filename = os.path.join(PUBLISHERS_DIR, f"{name}.md")
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(content)
+
 print(f"✅ Processed {processed_count} entries into {OUTPUT_DIR}/")
 if not args.only_with_editors and not args.no_author_files:
     print(f"✅ Author files created in {AUTHORS_DIR}/")
+    print(f"✅ Publisher/Journal files created in {PUBLISHERS_DIR}/")

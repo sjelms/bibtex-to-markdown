@@ -6,7 +6,7 @@ editor - 1: "[[Ajith Abraham]]"
 key: "[[@Abraham2018-ah]]"
 aliases:
   - Engineering Applications Of Artificial Intelligence
-publisher: "[[The International Journal of Intelligent Real-Time Automation]]"
+publisher: "[[The International Journal of Intelligent Real Time Automation]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git

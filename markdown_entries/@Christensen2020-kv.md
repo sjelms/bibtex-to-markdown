@@ -7,7 +7,7 @@ key: "[[@Christensen2020-kv]]"
 aliases:
   - Managing Disruption - An Interview With Clayton Christensen
   - Managing Disruption
-journal: "[[Research-Technology Management]]"
+journal: "[[Research Technology Management]]"
 publisher: "[[Routledge]]"
 tags:
   - Notion-Catalogued

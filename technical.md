@@ -26,7 +26,8 @@
 ├── convert_bibtex.py     # Main conversion script
 ├── main.bib             # Input BibTeX file
 ├── markdown_entries/    # Output directory for citation files
-├── authors/            # Output directory for author files
+├── authors/            # Output directory for author and editor files
+├── publisher/          # Output directory for publisher and journal files
 ├── technical.md        # Technical documentation
 └── README.md          # Project overview and usage instructions
 ```
@@ -34,7 +35,8 @@
 - **`convert_bibtex.py`**: Core script handling BibTeX parsing and markdown generation
 - **`main.bib`**: Input BibTeX file containing citations to be processed
 - **`markdown_entries/`**: Generated markdown files for each citation, with YAML frontmatter and formatted content
-- **`authors/`**: Generated markdown files for each author, containing cross-references to their publications
+- **`authors/`**: Generated markdown files for each author/editor, containing cross-references to their publications
+- **`publisher/`**: Generated markdown files for each publisher and journal, each listing related citations
 - **`technical.md`**: Detailed technical documentation of the project
 - **`README.md`**: Project overview, setup instructions, and basic usage guide
 
@@ -112,10 +114,13 @@ GitHub Actions:
    - Include abstracts when available
    - Create Obsidian-compatible wiki-links
 
-4. **Author File Generation**
-   - Create individual markdown files for each author
+4. **Author/Editor File Generation**
+   - Create individual markdown files for each author and editor name
    - Cross-reference all citations by the author
    - Maintain bidirectional links with citation files
+5. **Publisher/Journal Page Generation**
+   - Create a page per unique publisher and journal
+   - Track and list all citations associated with each entity
 
 ### 🧩 Core Components
 
@@ -181,6 +186,7 @@ aliases:
   - Full Title Case
   - Short Title Case
 publisher: "[[Publisher]]"
+journal: "[[Journal]]"
 tags:
   - keyword1
   - keyword2
