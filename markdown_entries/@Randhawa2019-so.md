@@ -6,7 +6,7 @@ author - 2: "[[Mary Jackson]]"
 key: "[[@Randhawa2019-so]]"
 aliases:
   - The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals
-journal: "[[Healthcare management forum / Canadian College of Health Service Executives = Forum gestion des soins de sante / College canadien des directeurs de services de sante]]"
+journal: "[[Forum gestion des soins de sante [Healthcare management forum]]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
