@@ -73,6 +73,17 @@ Local execution:
 python convert_bibtex.py
 ```
 
+#### Targeted updates (editors only)
+- Use these flags to update only YAML frontmatter for entries that include editors, preserving any custom content in existing files.
+  - `--only-with-editors`: process only entries with an `editor` field
+  - `--update-frontmatter-only`: replace only the `--- ... ---` YAML block in existing files
+  - `--no-author-files`: skip regenerating per-author MOCs during partial updates
+
+Example (recommended for existing notes in `markdown_entries/`):
+```bash
+python convert_bibtex.py --only-with-editors --update-frontmatter-only --no-author-files
+```
+
 GitHub Actions:
 - The script will run automatically when changes are pushed to the repository
 - Generated files will be committed back to the repository
@@ -164,6 +175,7 @@ GitHub Actions:
 title: Paper Title
 year: 2023
 author - 1: "[[Author Name]]"
+editor - 1: "[[Editor Name]]"  # Present only when BibTeX has `editor`
 key: "[[@Citation-Key]]"
 aliases:
   - Full Title Case
@@ -182,6 +194,18 @@ tags:
 ```
 
 **Note:** The bibliography callout format must be consistent as it will be embedded in author files.
+
+#### Editor Support
+- Editors are parsed and cleaned using the same logic as authors.
+- YAML includes `editor - N: "[[First Last]]"` lines when the BibTeX entry has an `editor` field.
+- If an entry has no authors, authors will continue to fall back to editors for author lines (existing behavior).
+- Duplicates between authors and editors are allowed and not deduplicated.
+
+#### Partial Update Flags
+- `--only-with-editors`: Processes only entries containing `editor`.
+- `--update-frontmatter-only`: Updates the YAML block in-place; preserves the note body.
+- `--no-author-files`: Skips regenerating per-author files during targeted updates.
+  - Useful to avoid truncating author MOCs when doing a subset update.
 
 #### Author Files:
 
