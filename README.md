@@ -37,7 +37,7 @@ The script performs the following actions:
 
 ## 📤 Output
 
-- A folder called `markdown_entries/` (if not present, it is created)
+- A folder called `titles/` (if not present, it is created)
 - Inside this folder:
   - Individual Markdown files named using the format: `@BibTeXKey.md`
   - Each file includes:
@@ -85,7 +85,7 @@ python convert_bibtex.py
 
 ## ✨ Example
 
-Citation file (`markdown_entries/@Doyle1892-fj.md`):
+Citation file (`titles/@Doyle1892-fj.md`):
 ```markdown
 ---
 title: The Adventures of Sherlock Holmes

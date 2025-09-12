@@ -1,0 +1,23 @@
+---
+title: UK Construction in Transition -  Developing a Social Network Approach to the Evaluation of New Procurement and Management Strategies
+year: 2002
+author - 1: "[[Stephen David Pryke]]"
+key: "[[@Pryke2002-uc]]"
+aliases:
+  - Uk Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies
+  - Uk Construction In Transition
+publisher: "[[UCL University College London]]"
+tags:
+  - Social-sciences
+  - Project-management
+  - BSSC-Thesis
+  - _BibTex-to-MD-Git
+  - Thesis
+  - UCL
+---
+
+> [!bibliography]
+> Pryke, Stephen David. 2002. “UK Construction in Transition -  Developing a Social Network Approach to the Evaluation of New Procurement and Management Strategies.” "[[UCL University College London]]". https://discovery.ucl.ac.uk/id/eprint/10101695/
+
+> [!abstract]
+> The aim of this thesis is to propose a new approach to the analysis and visualisation of reforms in procurement and project management systems within the UK construction industry. The subject matter chosen was inspired by the publication of the Latham Report (Latham, 1994) and personal experience within the construction industry within one of the roles currently in transition. Certain limitations within existing methodologies employed by those who have sought to analyse construction procurement and management (for example, Higgin and Jessop, 1965; Masterman, 1992; Franks, 1998 and Cleland and King, 1983), are identified. These limitations are associated with the interdependence of roles, appropriateness of detail, uniformity of presentation and the difficulty of quantification in the context of a non-linear, complex, iterative, interactive, non-hierarchical process that construction comprises. Conceptually the research draws together Winch's model of the construction project team as a temporary project coalition (Winch, 1983 - 36) and Williamson's nexus of treaties (in Aoki, 1992 - 1). The research proposes that current dramatic changes in procurement and management strategies might be observed and analysed if the construction project is conceptualised as a network of relationships existing between the firms that comprise the project coalition. These relationships are contractual, those associated with performance incentives and those associated with information exchanges (the latter classified into the main functions that the project team must perform - design development, cost and progress management). It is proposed that social network analysis (SNA) be used to investigate these networks. Following a pilot study involving the BAA ``Genesis'' project, four case studies were carried out. Two control studies involved traditional procurement; a further two represented projects utilising partnering, supply chain management and work clusters, and involving two of the UK's largest and most innovative clients. Analysis of the data focussed upon the use of centrality (a measure of prominence within a network), as a means of quantifying changing roles within the coalition and the relationships between the firms providing these roles. The research established that SNA is a very effective tool for research into procurement and management. Findings suggest that the changing prominence of existing roles and the evolution of certain hybrid roles are readily quantified and graphically represented using SNA; centrality is ideally suited to look into the leverage that project actors exert within the construction project supply chain; findings challenge some existing views on the desirability and nature of fragmentation within the UK construction industry; findings also suggest that the two new procurement projects deal with the governance of their respective coalitions in very different ways; a single, prominent actor is needed to manage the supply chain; traditional construction roles are changing rapidly - cost management, design dislocation and the new role of cluster leader are all important issues.

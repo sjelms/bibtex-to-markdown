@@ -25,7 +25,7 @@
 │
 ├── convert_bibtex.py     # Main conversion script
 ├── main.bib             # Input BibTeX file
-├── markdown_entries/    # Output directory for citation files
+├── titles/             # Output directory for citation files
 ├── authors/            # Output directory for author and editor files
 ├── publisher/          # Output directory for publisher and journal files
 ├── technical.md        # Technical documentation
@@ -34,7 +34,7 @@
 
 - **`convert_bibtex.py`**: Core script handling BibTeX parsing and markdown generation
 - **`main.bib`**: Input BibTeX file containing citations to be processed
-- **`markdown_entries/`**: Generated markdown files for each citation, with YAML frontmatter and formatted content
+- **`titles/`**: Generated markdown files for each citation, with YAML frontmatter and formatted content
 - **`authors/`**: Generated markdown files for each author/editor, containing cross-references to their publications
 - **`publisher/`**: Generated markdown files for each publisher and journal, each listing related citations
 - **`technical.md`**: Detailed technical documentation of the project
@@ -64,7 +64,7 @@ pip install bibtexparser
 1. Place your BibTeX file in the root directory as `main.bib`
 2. Ensure the file uses valid BibTeX formatting
 3. Directory Structure:
-   - The script will create `markdown_entries/` directory for citation files
+   - The script will create `titles/` directory for citation files
    - The script will create `authors/` directory for author files
    - Both directories will be created automatically if they don't exist
 
@@ -81,7 +81,7 @@ python convert_bibtex.py
   - `--update-frontmatter-only`: replace only the `--- ... ---` YAML block in existing files
   - `--no-author-files`: skip regenerating per-author MOCs during partial updates
 
-Example (recommended for existing notes in `markdown_entries/`):
+Example (recommended for existing notes in `titles/`):
 ```bash
 python convert_bibtex.py --only-with-editors --update-frontmatter-only --no-author-files
 ```
@@ -143,7 +143,7 @@ GitHub Actions:
 
 ### Sample Data
 - Example BibTeX entries are included in `main.bib`
-- Sample outputs can be found in `markdown_entries/` directory
+- Sample outputs can be found in `titles/` directory
 
 ### Known Limitations
 - Author names must be properly formatted in BibTeX

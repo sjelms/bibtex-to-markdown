@@ -5,7 +5,7 @@ import bibtexparser
 
 # Define file paths
 BIBTEX_FILE = "main.bib"
-OUTPUT_DIR = "markdown_entries"
+OUTPUT_DIR = "titles"
 AUTHORS_DIR = "authors"
 PUBLISHERS_DIR = "publisher"
 
