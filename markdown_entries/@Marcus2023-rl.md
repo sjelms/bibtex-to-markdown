@@ -5,7 +5,7 @@ author - 1: "[[Jon Marcus]]"
 key: "[[@Marcus2023-rl]]"
 aliases:
   - High-Paying Jobs That Don't Need A College Degree? Thousands Of Them Sit Empty
-journal: "[[NPR]]"
+journal: "[[National Public Radio]]"
 publisher: "[[The Hechinger Report]]"
 tags:
   - 2_Upgrade-MAY-2023
