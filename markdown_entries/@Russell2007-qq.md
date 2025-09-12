@@ -9,7 +9,7 @@ key: "[[@Russell2007-qq]]"
 aliases:
   - Education In Construction Engineering And Management Built On Tradition - Blueprint For Tomorrow
   - Education In Construction Engineering And Management Built On Tradition
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers]]"
 tags:
   - LSU-Supporting-Works

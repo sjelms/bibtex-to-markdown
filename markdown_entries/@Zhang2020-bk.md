@@ -9,7 +9,7 @@ author - 5: "[[Mohamed Al-Hussein]]"
 key: "[[@Zhang2020-bk]]"
 aliases:
   - Process-Oriented Framework To Improve Modular And Offsite Construction Manufacturing Performance
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers]]"
 tags:
   - Construction-4-0

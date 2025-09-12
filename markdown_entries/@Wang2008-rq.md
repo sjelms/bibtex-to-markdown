@@ -8,7 +8,7 @@ author - 4: "[[Robert W Glover]]"
 key: "[[@Wang2008-rq]]"
 aliases:
   - Craft Training Issues In American Industrial And Commercial Construction
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers]]"
 tags:
   - Notion-Catalogued

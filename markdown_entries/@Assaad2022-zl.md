@@ -9,7 +9,7 @@ key: "[[@Assaad2022-zl]]"
 aliases:
   - The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs
   - The Impact Of Offsite Construction On The Workforce
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers]]"
 tags:
   - Construction-4-0

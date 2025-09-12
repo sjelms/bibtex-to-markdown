@@ -6,7 +6,7 @@ author - 2: "[[Ehsan Eslamdoost]]"
 key: "[[@Heravi2015-fm]]"
 aliases:
   - Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity
-journal: "[[Journal of construction engineering and management]]"
+journal: "[[Journal of Construction Engineering and Management]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
