@@ -25,6 +25,7 @@ category:
 [[@Costley2013-sd|Workplace Learning And Higher Education]]
 [[@Dawson2016-gj|100 Activities For Teaching Research Methods]]
 [[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
+[[@Denzin2011-xr|The Sage Handbook Of Qualitative Research]]
 [[@Denzin2023-mp|The Sage Handbook Of Qualitative Research]]
 [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
