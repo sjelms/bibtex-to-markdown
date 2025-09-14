@@ -1,6 +1,8 @@
 ---
 name: Times London England 1788
 aliases:
+  - The Times
+  - The Times London
 see also:
 tags:
 category:
