@@ -10,8 +10,6 @@ category:
 ## SAGE Publications Ltd
 
 ### Content:
-[[@Engestrom2013-oq|Activity Theory And Learning At Work]]
-[[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
-[[@Philip1998-pd|Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?]]
-[[@Whyte2022-my|Making Futures That Matter]]
-[[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
+[[@Charmaz2001-wf|Grounded Theory In Ethnography]]
+[[@Hager2013-ey|Theories Of Workplace Learning]]
+[[@Sawchuk2013-ux|Researching Workplace Learning]]

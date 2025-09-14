@@ -1,11 +1,12 @@
 ---
-title: Academic Writing and Dyslexia A Visual Guide to Writing at University
+title: Academic writing and dyslexia -  A visual guide to writing at university
 year: 2018
 author - 1: "[[Adrian J Wallbank]]"
 key: "[[@Wallbank2018-dj]]"
 aliases:
-  - Academic Writing And Dyslexia A Visual Guide To Writing At University
-publisher: "[[SAGE Publications]]"
+  - Academic Writing And Dyslexia - A Visual Guide To Writing At University
+  - Academic Writing And Dyslexia
+publisher: "[[Routledge]]"
 tags:
   - EPubs-Books
   - PhD-Study-and-Support
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wallbank, Adrian J. 2018. “Academic Writing and Dyslexia A Visual Guide to Writing at University.” "[[SAGE Publications]]". https://openlibrary.org/books/OL37308376M.opds
+> Wallbank, Adrian J. 2018. “Academic writing and dyslexia -  A visual guide to writing at university.” "[[Routledge]]". https://openlibrary.org/books/OL37308376M.opds
