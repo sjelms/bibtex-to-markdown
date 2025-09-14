@@ -15,7 +15,6 @@ aliases:
 publisher: "[[SAGE Publications]]"
 tags:
   - _BibTex-to-MD-Git
-  - ePub
   - Research-Methods
 ---
 
