@@ -44,4 +44,5 @@ category:
 [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education]]
 [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 [[@Vindrola-Padros2021-eq|Doing Rapid Qualitative Research]]
+[[@Yin2013-ej|How To Know Whether And When To Use Case Studies As A Research Method]]
 [[@Yin2013-yq|Case Study Research]]
