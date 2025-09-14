@@ -175,4 +175,4 @@ cython_debug/
 bibtex-to-markdown.code-workspace
 
 # PyCharm
-/.idea/
+/.idea
