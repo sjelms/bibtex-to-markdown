@@ -5,7 +5,7 @@ author - 1: "[[Adrian J Wallbank]]"
 key: "[[@Wallbank2018-dj]]"
 aliases:
   - Academic Writing And Dyslexia A Visual Guide To Writing At University
-publisher: "[[Taylor and Francis Group]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - EPubs-Books
   - PhD-Study-and-Support
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wallbank, Adrian J. 2018. “Academic Writing and Dyslexia A Visual Guide to Writing at University.” "[[Taylor and Francis Group]]". https://openlibrary.org/books/OL37308376M.opds
+> Wallbank, Adrian J. 2018. “Academic Writing and Dyslexia A Visual Guide to Writing at University.” "[[SAGE Publications]]". https://openlibrary.org/books/OL37308376M.opds
