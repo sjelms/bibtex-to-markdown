@@ -6,7 +6,7 @@ author - 2: "[[Linda Liska Belgrave]]"
 key: "[[@Charmaz2012-uu]]"
 aliases:
   - Qualitative Interviewing And Grounded Theory Analysis
-publisher: "[[SAGE Publications Inc]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - Theory-and-Methods
   - Grounded-Theory
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Charmaz, Kathy, Linda Liska Belgrave. 2012. “Qualitative interviewing and grounded theory analysis.” "[[SAGE Publications Inc]]". http://dx.doi.org/10.4135/9781452218403.n25
+> Charmaz, Kathy, Linda Liska Belgrave. 2012. “Qualitative interviewing and grounded theory analysis.” "[[SAGE Publications]]". https://methods.sagepub.com/book/handbook-of-interview-research-2e/n25.xml

@@ -18,6 +18,8 @@ category:
 [[@Brosnan1998-tu|Spatial Ability In Children's Play With Lego Blocks]]
 [[@Charmaz2001-np|Qualitative Interviewing And Grounded Theory Analysis]]
 [[@Charmaz2001-wf|Grounded Theory In Ethnography]]
+[[@Charmaz2005-yn|Grounded Theory In The 21st Century]]
+[[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 [[@Charmaz2014-oe|Constructing Grounded Theory]]
 [[@Cheng2013-jx|Technology And Knowledge Management]]
 [[@Costley2013-sd|Workplace Learning And Higher Education]]
