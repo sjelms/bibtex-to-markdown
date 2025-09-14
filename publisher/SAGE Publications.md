@@ -10,7 +10,7 @@ category:
 ## SAGE Publications
 
 ### Content:
-[[@Abeck1971-vn|U.s. Steel Fabricates Rooms For Florida's Disney World]]
+[[@Abeck1971-vn|U.S. Steel Fabricates Rooms For Florida's Disney World]]
 [[@Aurini2021-vc|The How To Of Qualitative Research]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billups2020-od|Qualitative Data Collection Tools]]
