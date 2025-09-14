@@ -173,3 +173,6 @@ cython_debug/
 # Mac OS
 .DS_Store
 bibtex-to-markdown.code-workspace
+
+# PyCharm
+/.idea/
