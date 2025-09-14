@@ -7,7 +7,7 @@ key: "[[@Braun2021-ah]]"
 aliases:
   - Thematic Analysis - A Practical Guide
   - Thematic Analysis
-publisher: "[[SAGE]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - _BibTex-to-MD-Git
   - Research-Methods
@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Braun, Virginia, Victoria Clarke. 2021. “Thematic Analysis -  a Practical Guide.” "[[SAGE]]"
+> Braun, Virginia, Victoria Clarke. 2021. “Thematic Analysis -  a Practical Guide.” "[[SAGE Publications]]"
 
 > [!abstract]
 > This book is the definitive approach to thematic analysis, offering a highly accessible and practical discussion of doing TA.
