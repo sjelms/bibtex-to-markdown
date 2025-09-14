@@ -10,7 +10,6 @@ category:
 ## SAGE Publications Ltd
 
 ### Content:
-[[@Charmaz2001-wf|Grounded Theory In Ethnography]]
 [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
 [[@Philip1998-pd|Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?]]

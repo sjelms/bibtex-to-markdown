@@ -6,7 +6,7 @@ author - 2: "[[Richard G Mitchell]]"
 key: "[[@Charmaz2001-wf]]"
 aliases:
   - Grounded Theory In Ethnography
-publisher: "[[SAGE Publications Ltd]]"
+publisher: "[[SAGE Publications]]"
 tags:
   - Theory-and-Methods
   - 2_Upgrade-MAY-2023
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Charmaz, Kathy, Richard G Mitchell. 2001. “Grounded theory in ethnography.” "[[SAGE Publications Ltd]]". https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml
+> Charmaz, Kathy, Richard G Mitchell. 2001. “Grounded theory in ethnography.” "[[SAGE Publications]]". https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml
