@@ -1,26 +1,20 @@
 ---
-author: "Norman K Denzin"
+author: "Michael D Giardina"
 institution:
 field:
 type:
 aliases:
-  - Denzin
+  - Giardina
 ---
 
-## Norman K Denzin
+## Michael D Giardina
 
 ### Content:
-[[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
 [[@Denzin2023-mp|The Sage Handbook Of Qualitative Research]]
 [[@Denzin2023-mp|The Sage Handbook Of Qualitative Research]]
-[[@Ryan2000-ql|Data Management And Analysis Methods]]
 
 #### Bibliography:
 
-![[@Denzin1998-me]]
-
 ![[@Denzin2023-mp]]
 
 ![[@Denzin2023-mp]]
-
-![[@Ryan2000-ql]]
