@@ -17,6 +17,7 @@ aliases:
 [[@Frey2017-ix|The Future Of Employment]]
 [[@Frey2019-yf|The Technology Trap]]
 [[@Frey2023-rj|Generative Ai And The Future Of Work]]
+[[@Frey2025-re|How Progress Ends]]
 
 #### Bibliography:
 
@@ -33,3 +34,5 @@ aliases:
 ![[@Frey2019-yf]]
 
 ![[@Frey2023-rj]]
+
+![[@Frey2025-re]]

@@ -5,7 +5,7 @@ author - 1: "[[Robert Abeck]]"
 editor - 1: "[[Robert Abeck]]"
 key: "[[@Abeck1971-vn]]"
 aliases:
-  - U.S. Steel Fabricates Rooms For Florida's Disney World
+  - U.s. Steel Fabricates Rooms For Florida's Disney World
 journal: "[[Cornell Hotel and Restaurant Administration Quarterly]]"
 publisher: "[[SAGE Publications]]"
 tags:
