@@ -17,3 +17,4 @@ category:
 [[@Moodie2002-nc|Identifying Vocational Education And Training]]
 [[@Poortman2011-zl|Apprenticeship]]
 [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
+[[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
