@@ -23,3 +23,6 @@ tags:
 
 > [!abstract]
 > The deskilling/reskilling controversy within the labour process debate is considered within the context of the implementation of Computer Integrated Manufacturing (CIM). Effective implementation of CIM is shown to require an appreciation of the social and organizational issues associated with organizational change. As such the deskilling/reskilling issue is worthy of analysis within the CIM context and aspects of the labour process debate are examined. The effects of technological change on the skills of shopfloor oerators and supervisors are examined by analysing two dimensions of skill, technical complexity and discretion or autonomy. The paper concludes that the outcomes of technical change are framed by managerial perceptions and consequent decisions on how technology should be implemented in terms of work organisation.
+
+>[!cross-ref]
+> [[@Attewell1987-vr|The Deskilling Controversy]] and [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
