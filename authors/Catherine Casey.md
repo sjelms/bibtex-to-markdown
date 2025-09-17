@@ -10,8 +10,8 @@ aliases:
 ## Catherine Casey
 
 ### Content:
-[[@Casey2013-hz|Work, Self And Society]]
+[[@Casey1995-nc|Work, Self And Society]]
 
 #### Bibliography:
 
-![[@Casey2013-hz]]
+![[@Casey1995-nc]]
