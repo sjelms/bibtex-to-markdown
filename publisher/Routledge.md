@@ -94,6 +94,7 @@ category:
 [[@Trinh2023-ib|Delivering Construction Safety Training And Education Using Immersive Learning Technology]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Vibaek2017-sw|System Structures]]
+[[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
 [[@Wallance2021-so|The Future Of Modular Architecture]]
 [[@Wallbank2018-dj|Academic Writing And Dyslexia]]
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
