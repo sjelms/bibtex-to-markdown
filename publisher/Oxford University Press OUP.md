@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Autor2003-ju|The Skill Content Of Recent Technological Change]]
+[[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
