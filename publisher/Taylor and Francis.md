@@ -12,4 +12,5 @@ category:
 ### Content:
 [[@Fuller2004-kj|Workplace Learning In Context]]
 [[@Hairstans2018-zk|Offsite Hub (scotland)]]
+[[@Nadim2009-px|Offsite Production In The Uk]]
 [[@Shewring2024-wm|Theatre Buildings]]
