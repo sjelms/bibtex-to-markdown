@@ -14,5 +14,6 @@ category:
 [[@Callon2021-sa|Markets In The Making]]
 [[@Frey2019-yf|The Technology Trap]]
 [[@Frey2025-re|How Progress Ends]]
+[[@Levy2006-si|The New Division Of Labor]]
 [[@Muller2019-zm|The Tyranny Of Metrics]]
 [[@Popper2020-fy|The Open Society And Its Enemies]]
