@@ -30,5 +30,6 @@ category:
 [[@Merriam2015-vy|Qualitative Research]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Sacks2018-cv|Bim Handbook]]
+[[@Smith2012-oh|Instructional Design]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Williamson2021-sz|Case Studies In Retrofitting Suburbia]]
