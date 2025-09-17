@@ -29,7 +29,7 @@ category:
 [[@Bruner2006-bj|The Act Of Discovery]]
 [[@Bundgaard2017-am|Constructing Dialogues]]
 [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
-[[@Casey2013-hz|Work, Self And Society]]
+[[@Casey1995-nc|Work, Self And Society]]
 [[@Chong2013-nz|The ‘russian Doll’ Approach]]
 [[@Christensen2020-kv|Managing Disruption]]
 [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
