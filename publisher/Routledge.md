@@ -43,6 +43,7 @@ category:
 [[@Fuller2004-ys|Conclusion]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
 [[@Glass2022-ms|Transforming Construction]]
+[[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction]]
 [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
 [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
 [[@Hairstans2019-ei|Core Offsite Manufacture Industry Drivers]]
