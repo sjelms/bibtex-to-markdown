@@ -21,6 +21,7 @@ category:
 [[@Bandura2021-hp|Psychological Modeling]]
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 [[@Bell2018-ot|Research Methods In Education]]
+[[@Bernstein1999-cd|Vertical And Horizontal Discourse]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2020-yt|Learning In The Workplace]]
