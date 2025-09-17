@@ -62,6 +62,7 @@ category:
 [[@Lawson2006-pz|How Designers Think]]
 [[@Lawson2018-lk|The Design Student's Journey]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
+[[@Littlejohn2013-gj|Technology-Enhanced Professional Learning]]
 [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education]]
 [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education]]
 [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
