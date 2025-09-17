@@ -10,6 +10,7 @@ category:
 ## Oxford University Press
 
 ### Content:
+[[@Barbour2016-ki|Technical, Arcane, Interpersonal, And Embodied Expertise]]
 [[@Clark2021-ef|Bryman's Social Research Methods]]
 [[@Gallace2014-lu|In Touch With The Future]]
 [[@Lerman2017-ww|Skill Development In Middle Level Occupations]]
