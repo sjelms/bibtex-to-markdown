@@ -2,6 +2,7 @@
 
 A Python-based utility for converting BibTeX entries into Markdown notes compatible with Obsidian, Pandoc, and reference-based workflows.
 
+[![Convert BibTeX to Markdown](https://github.com/sjelms/bibtex-to-markdown/actions/workflows/bibtex-to-md.yml/badge.svg)](https://github.com/sjelms/bibtex-to-markdown/actions/workflows/bibtex-to-md.yml)
 ---
 
 ## 📌 Intent
