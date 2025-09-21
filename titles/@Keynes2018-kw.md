@@ -8,6 +8,7 @@ aliases:
 publisher: "[[Springer International Publishing]]"
 tags:
   - _BibTex-to-MD-Git
+  - Economics
 ---
 
 > [!bibliography]
