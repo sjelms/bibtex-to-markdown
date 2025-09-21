@@ -5,7 +5,7 @@ author - 1: "[[Austan Goolsbee]]"
 author - 2: "[[Chad Syverson]]"
 key: "[[@Goolsbee2023-cp]]"
 aliases:
-  - The Strange And Awful Path Of Productivity In The U.S. Construction Sector
+  - The Strange And Awful Path Of Productivity In The U.s. Construction Sector
 institution: "[[University of Chicago]]"
 publisher: "[[National Bureau of Economic Research]]"
 tags:
