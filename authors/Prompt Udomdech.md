@@ -1,6 +1,6 @@
 ---
 author: "Prompt Udomdech"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

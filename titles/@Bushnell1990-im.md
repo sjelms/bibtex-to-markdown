@@ -1,6 +1,6 @@
 ---
 title: Input, Process, Output -  a Model for Evaluating Training
-year: Unknown Year
+year: 1990
 author - 1: "[[David S Bushnell]]"
 key: "[[@Bushnell1990-im]]"
 aliases:
@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bushnell, David S. Unknown Year. “Input, Process, Output -  a Model for Evaluating Training.” . https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e
+> Bushnell, David S. 1990. “Input, Process, Output -  a Model for Evaluating Training.” . https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e

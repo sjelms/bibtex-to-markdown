@@ -1,6 +1,6 @@
 ---
 title: COP26 -  What is next for the built environment?
-year: Unknown Year
+year: 2021
 author - 1: "[[Steph Hazlegreaves]]"
 key: "[[@Hazlegreaves2021-mk]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hazlegreaves, Steph. Unknown Year. “COP26 -  What is next for the built environment?.” . https://www.pbctoday.co.uk/news/energy-news/cop26-the-built-environment/102381/
+> Hazlegreaves, Steph. 2021. “COP26 -  What is next for the built environment?.” . https://www.pbctoday.co.uk/news/energy-news/cop26-the-built-environment/102381/

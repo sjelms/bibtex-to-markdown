@@ -1,6 +1,6 @@
 ---
 title: Rise of the Robots -  Technology and the Threat of a Jobless Future
-year: Unknown Year
+year: 2015
 author - 1: "[[Martin Ford]]"
 key: "[[@Ford2015-sa]]"
 aliases:
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ford, Martin. Unknown Year. “Rise of the Robots -  Technology and the Threat of a Jobless Future.” "[[Basic Books]]"
+> Ford, Martin. 2015. “Rise of the Robots -  Technology and the Threat of a Jobless Future.” "[[Basic Books]]"

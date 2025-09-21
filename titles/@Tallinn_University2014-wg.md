@@ -1,6 +1,6 @@
 ---
 title: Tacit and Explicit Knowledge | Key Concepts in Information and Knowledge Management
-year: Unknown Year
+year: 2014
 author - 1: "[[Tallinn University]]"
 key: "[[@Tallinn_University2014-wg]]"
 aliases:
@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> University, Tallinn. Unknown Year. “Tacit and Explicit Knowledge | Key Concepts in Information and Knowledge Management.” . https://www.tlu.ee/%7Esirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html
+> University, Tallinn. 2014. “Tacit and Explicit Knowledge | Key Concepts in Information and Knowledge Management.” . https://www.tlu.ee/%7Esirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html

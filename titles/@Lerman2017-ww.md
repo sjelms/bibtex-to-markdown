@@ -1,6 +1,6 @@
 ---
 title: Skill Development in Middle Level Occupations -  The Role of Apprenticeship Training
-year: Unknown Year
+year: 2017
 author - 1: "[[Robert I Lerman]]"
 editor - 1: "[[Chris Warhurst]]"
 editor - 2: "[[Ken Mayhew]]"
@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lerman, Robert I. Unknown Year. “Skill Development in Middle Level Occupations -  The Role of Apprenticeship Training.” "[[Oxford University Press]]"
+> Lerman, Robert I. 2017. “Skill Development in Middle Level Occupations -  The Role of Apprenticeship Training.” "[[Oxford University Press]]"

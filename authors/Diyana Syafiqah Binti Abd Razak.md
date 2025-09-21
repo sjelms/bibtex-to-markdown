@@ -1,6 +1,6 @@
 ---
 author: "Diyana Syafiqah Binti Abd Razak"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: Building augmented reality experiences with Unity3D
-year: Unknown Year
+year: 2017
 author - 1: "[[Abhishek Singh]]"
 key: "[[@Singh2017-cu]]"
 aliases:
@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!bibliography]
-> Singh, Abhishek. Unknown Year. “Building augmented reality experiences with Unity3D.” . https://youtu.be/_xJBScA9mpw
+> Singh, Abhishek. 2017. “Building augmented reality experiences with Unity3D.” . https://youtu.be/_xJBScA9mpw
 
 > [!abstract]
-> CS50 presents... a tech talk on augmented reality (AR) by Abhishek Singh, Resident Researcher at NYU."Watch this guy play Super Mario Bros. IRL in Central Pa...
+> CS50 presents... a tech talk on augmented reality (AR) by Abhishek Singh, Resident Researcher at NYU.``Watch this guy play Super Mario Bros. IRL in Central Pa...

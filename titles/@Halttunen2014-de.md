@@ -1,6 +1,6 @@
 ---
 title: Promoting, Assessing, Recognizing and Certifying Lifelong Learning -  International Perspectives and Practices
-year: Unknown Year
+year: 2014
 author - 1: "[[Timo Halttunen]]"
 author - 2: "[[Mari Koivisto]]"
 author - 3: "[[Stephen Billett]]"
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Halttunen, Timo, Mari Koivisto, Stephen Billett. Unknown Year. “Promoting, Assessing, Recognizing and Certifying Lifelong Learning -  International Perspectives and Practices.” "[[Springer Netherlands]]". http://link.springer.com/10.1007/978-94-017-8694-2
+> Halttunen, Timo, Mari Koivisto, Stephen Billett. 2014. “Promoting, Assessing, Recognizing and Certifying Lifelong Learning -  International Perspectives and Practices.” "[[Springer Netherlands]]". http://link.springer.com/10.1007/978-94-017-8694-2

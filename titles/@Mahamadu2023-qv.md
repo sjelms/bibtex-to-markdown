@@ -1,6 +1,6 @@
 ---
 title: Safety risk factors in the use of construction robots
-year: Unknown Year
+year: 2023
 author - 1: "[[Abdul-Majeed Mahamadu]]"
 author - 2: "[[Abhinesh Prabhakaran]]"
 author - 3: "[[Patrick Manu]]"
@@ -27,4 +27,4 @@ tags:
 ---
 
 > [!bibliography]
-> Mahamadu, Abdul-Majeed, Abhinesh Prabhakaran, Patrick Manu, David Caparros Pérez, Mariusz Szóstak. Unknown Year. “Safety risk factors in the use of construction robots.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-22/safety-risk-factors-use-construction-robots-abdul-majeed-mahamadu-abhinesh-prabhakaran-patrick-manu-david-caparros-p%C3%A9rez-mariusz-sz%C3%B3stak?context=ubx&refId=03141c12-b7d2-43ac-9ef2-c37099df02ea
+> Mahamadu, Abdul-Majeed, Abhinesh Prabhakaran, Patrick Manu, David Caparros Pérez, Mariusz Szóstak. 2023. “Safety risk factors in the use of construction robots.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-22/safety-risk-factors-use-construction-robots-abdul-majeed-mahamadu-abhinesh-prabhakaran-patrick-manu-david-caparros-p%C3%A9rez-mariusz-sz%C3%B3stak?context=ubx&refId=03141c12-b7d2-43ac-9ef2-c37099df02ea

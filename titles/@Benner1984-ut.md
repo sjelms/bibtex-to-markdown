@@ -1,6 +1,6 @@
 ---
 title: From Novice to Expert -  Excellence and Power in Clinical Nursing Practice
-year: Unknown Year
+year: 1984
 author - 1: "[[Patricia Benner]]"
 key: "[[@Benner1984-ut]]"
 aliases:
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Benner, Patricia. Unknown Year. “From Novice to Expert -  Excellence and Power in Clinical Nursing Practice.” "[[Prentice Hall]]"
+> Benner, Patricia. 1984. “From Novice to Expert -  Excellence and Power in Clinical Nursing Practice.” "[[Prentice Hall]]"

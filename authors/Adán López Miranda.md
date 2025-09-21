@@ -1,6 +1,6 @@
 ---
 author: "Adán López Miranda"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

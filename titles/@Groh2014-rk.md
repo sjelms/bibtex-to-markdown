@@ -1,6 +1,6 @@
 ---
 title: Making Space -  How the Brain Knows Where Things Are
-year: Unknown Year
+year: 2014
 author - 1: "[[Jennifer M Groh]]"
 key: "[[@Groh2014-rk]]"
 aliases:
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Groh, Jennifer M. Unknown Year. “Making Space -  How the Brain Knows Where Things Are.” "[[Harvard University Press]]". https://books.google.co.uk/books?id=Kz8TBQAAQBAJ
+> Groh, Jennifer M. 2014. “Making Space -  How the Brain Knows Where Things Are.” "[[Harvard University Press]]". https://books.google.co.uk/books?id=Kz8TBQAAQBAJ

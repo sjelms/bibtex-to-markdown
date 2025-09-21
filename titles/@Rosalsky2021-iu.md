@@ -1,11 +1,12 @@
 ---
 title: How California Homelessness Became A Crisis
-year: Unknown Year
+year: 2021
 author - 1: "[[Greg Rosalsky]]"
 author - 2: "[[Planet Money]]"
 key: "[[@Rosalsky2021-iu]]"
 aliases:
   - How California Homelessness Became A Crisis
+journal: "[[Planet Money]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Rosalsky, Greg, Planet Money. Unknown Year. “How California Homelessness Became A Crisis.” . https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis
+> Rosalsky, Greg, Planet Money. 2021. “How California Homelessness Became A Crisis.” . https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis

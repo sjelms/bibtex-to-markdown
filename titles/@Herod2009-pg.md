@@ -1,6 +1,6 @@
 ---
 title: Labor Unionism
-year: Unknown Year
+year: 2009
 author - 1: "[[Andrew Herod]]"
 editor - 1: "[[Rob Kitchin]]"
 editor - 2: "[[Nigel Thrift]]"
@@ -33,7 +33,7 @@ tags:
 ---
 
 > [!bibliography]
-> Herod, Andrew. Unknown Year. “Labor Unionism.” "[[Elsevier]]". https://www.sciencedirect.com/science/article/pii/B978008044910400198X
+> Herod, Andrew. 2009. “Labor Unionism.” "[[Elsevier]]". https://www.sciencedirect.com/science/article/pii/B978008044910400198X
 
 > [!abstract]
 > This article explores how labor unions are structured geographically and how economic landscapes are implicated in, and produced through, their political and economic activities. The first section provides an historical overview of unions and how they have been organized spatially. Specifically, the section defines and contrasts different types of unionism – craft unionism, industrial unionism, geographical unionism – and also ponders some of the spatial implications of such different models – unions in which decision making is highly decentralized have quite different geographical structures and loci of power than do those which are more centralized, for instance. The second section focuses upon how geographers have sought to investigate unions as geographical actors. Specifically, it addresses four areas of research upon which geographers have concentrated, these being -  (1) how labor law and state regulation influence the ways in which unions are structured and operate geographically; (2) how unions have shaped the evolution of economic landscapes through their activities; (3) how spatial concerns shape the political geography of union organizing; and (4) how the particularities of place impact the nature of unionism.

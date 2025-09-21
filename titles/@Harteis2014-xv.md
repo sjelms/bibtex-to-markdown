@@ -1,6 +1,6 @@
 ---
 title: Discourses on Professional Learning -  On the Boundary Between Learning and Working
-year: Unknown Year
+year: 2014
 author - 1: "[[Christian Harteis]]"
 author - 2: "[[Andreas Rausch]]"
 author - 3: "[[Jürgen Seifried]]"
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Harteis, Christian, Andreas Rausch, Jürgen Seifried. Unknown Year. “Discourses on Professional Learning -  On the Boundary Between Learning and Working.” "[[Springer Netherlands]]". https://books.google.co.uk/books?id=nQ7vAwAAQBAJ
+> Harteis, Christian, Andreas Rausch, Jürgen Seifried. 2014. “Discourses on Professional Learning -  On the Boundary Between Learning and Working.” "[[Springer Netherlands]]". https://books.google.co.uk/books?id=nQ7vAwAAQBAJ

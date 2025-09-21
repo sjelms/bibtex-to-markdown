@@ -1,6 +1,6 @@
 ---
 title: A Model for Designing Hypervideo-based Instructional Scenarios
-year: Unknown Year
+year: 2019
 author - 1: "[[Alberto A P Cattaneo]]"
 author - 2: "[[Hans van der Meij]]"
 author - 3: "[[Carmela Aprea]]"
@@ -9,6 +9,7 @@ author - 5: "[[Carmen Zahn]]"
 key: "[[@Cattaneo2019-ax]]"
 aliases:
   - A Model For Designing Hypervideo-Based Instructional Scenarios
+journal: "[[Interactive Learning Environments]]"
 publisher: "[[Informa UK Limited]]"
 tags:
   - VET
@@ -27,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cattaneo, Alberto A P, Hans van der Meij, Carmela Aprea, Florinda Sauli, Carmen Zahn. Unknown Year. “A Model for Designing Hypervideo-based Instructional Scenarios.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10494820.2018.1486860
+> Cattaneo, Alberto A P, Hans van der Meij, Carmela Aprea, Florinda Sauli, Carmen Zahn. 2019. “A Model for Designing Hypervideo-based Instructional Scenarios.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10494820.2018.1486860

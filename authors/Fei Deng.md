@@ -1,6 +1,6 @@
 ---
 author: "Fei Deng"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

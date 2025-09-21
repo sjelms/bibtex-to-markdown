@@ -1,6 +1,6 @@
 ---
 title: New Skills for New Jobs -  Work Agency as a Necessary Condition for Successful Lifelong Learning
-year: Unknown Year
+year: 2014
 author - 1: "[[Christian Harteis]]"
 author - 2: "[[Michael Goller]]"
 editor - 1: "[[Timo Halttunen]]"
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Harteis, Christian, Michael Goller. Unknown Year. “New Skills for New Jobs -  Work Agency as a Necessary Condition for Successful Lifelong Learning.” "[[Springer Netherlands]]". http://link.springer.com/10.1007/978-94-017-8694-2_3
+> Harteis, Christian, Michael Goller. 2014. “New Skills for New Jobs -  Work Agency as a Necessary Condition for Successful Lifelong Learning.” "[[Springer Netherlands]]". http://link.springer.com/10.1007/978-94-017-8694-2_3

@@ -1,6 +1,6 @@
 ---
 title: Computational Mathetics -  Towards a Science of Learning Systems Design
-year: Unknown Year
+year: 1995
 author - 1: "[[John Self]]"
 key: "[[@Self1995-ne]]"
 aliases:
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Self, John. Unknown Year. “Computational Mathetics -  Towards a Science of Learning Systems Design.” "[[Drakkar Press]]"
+> Self, John. 1995. “Computational Mathetics -  Towards a Science of Learning Systems Design.” "[[Drakkar Press]]"

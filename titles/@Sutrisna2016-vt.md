@@ -1,6 +1,6 @@
 ---
 title: The Application of Grounded Theory Methodology in Built Environment Research
-year: Unknown Year
+year: 2016
 author - 1: "[[Monty Sutrisna]]"
 author - 2: "[[Wisnu Setiawan]]"
 editor - 1: "[[Vian Ahmed]]"
@@ -23,7 +23,7 @@ tags:
 ---
 
 > [!bibliography]
-> Sutrisna, Monty, Wisnu Setiawan. Unknown Year. “The Application of Grounded Theory Methodology in Built Environment Research.” . https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae
+> Sutrisna, Monty, Wisnu Setiawan. 2016. “The Application of Grounded Theory Methodology in Built Environment Research.” . https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae
 
 > [!abstract]
-> Semantic Scholar extracted view of "The application of grounded theory methodology in built environment research" by M. Sutrisna et al.
+> Semantic Scholar extracted view of ``The application of grounded theory methodology in built environment research'' by M. Sutrisna et al.

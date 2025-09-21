@@ -1,6 +1,6 @@
 ---
 title: Conceptualizing Vocational Knowledge -  Some Theoretical Considerations
-year: Unknown Year
+year: 2004
 author - 1: "[[Michael Young]]"
 key: "[[@Young2004-fs]]"
 aliases:
@@ -23,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Young, Michael. Unknown Year. “Conceptualizing Vocational Knowledge -  Some Theoretical Considerations.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young
+> Young, Michael. 2004. “Conceptualizing Vocational Knowledge -  Some Theoretical Considerations.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young

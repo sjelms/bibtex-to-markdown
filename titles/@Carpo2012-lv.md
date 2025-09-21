@@ -1,6 +1,6 @@
 ---
 title: The Digital Turn in Architecture 1992 - 2012 -  AD reader
-year: Unknown Year
+year: 2012
 author - 1: "[[Mario Carpo]]"
 editor - 1: "[[Mario Carpo]]"
 key: "[[@Carpo2012-lv]]"
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Carpo, Mario. Unknown Year. “The Digital Turn in Architecture 1992 - 2012 -  AD reader.” "[[John Wiley and Sons]]". https://books.google.com/books?id=8_ftkxDvohoC&newbks=1
+> Carpo, Mario. 2012. “The Digital Turn in Architecture 1992 - 2012 -  AD reader.” "[[John Wiley and Sons]]". https://books.google.com/books?id=8_ftkxDvohoC&newbks=1

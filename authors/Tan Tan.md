@@ -1,6 +1,6 @@
 ---
 author: "Tan Tan"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

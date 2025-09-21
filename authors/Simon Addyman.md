@@ -1,6 +1,6 @@
 ---
 author: "Simon Addyman"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

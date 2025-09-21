@@ -1,6 +1,6 @@
 ---
 title: The Design of Everyday Things -  Revised and Expanded Edition
-year: Unknown Year
+year: 2013
 author - 1: "[[Don Norman]]"
 key: "[[@Norman2013-mt]]"
 aliases:
@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Norman, Don. Unknown Year. “The Design of Everyday Things -  Revised and Expanded Edition.” "[[MIT Press]]"
+> Norman, Don. 2013. “The Design of Everyday Things -  Revised and Expanded Edition.” "[[MIT Press]]"

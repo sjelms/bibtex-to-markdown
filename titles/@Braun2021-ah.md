@@ -1,6 +1,6 @@
 ---
 title: Thematic analysis -  A practical guide
-year: Unknown Year
+year: 2021
 author - 1: "[[Virginia Braun]]"
 author - 2: "[[Victoria Clarke]]"
 key: "[[@Braun2021-ah]]"
@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Braun, Virginia, Victoria Clarke. Unknown Year. “Thematic analysis -  A practical guide.” "[[SAGE Publications]]"
+> Braun, Virginia, Victoria Clarke. 2021. “Thematic analysis -  A practical guide.” "[[SAGE Publications]]"
 
 > [!abstract]
 > This book is the definitive approach to thematic analysis, offering a highly accessible and practical discussion of doing TA.

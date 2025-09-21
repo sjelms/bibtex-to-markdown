@@ -1,11 +1,12 @@
 ---
 title: A New Way To Understand Automation
-year: Unknown Year
+year: 2021
 author - 1: "[[Greg Rosalsky]]"
 author - 2: "[[Planet Money]]"
 key: "[[@Rosalsky2021-id]]"
 aliases:
   - A New Way To Understand Automation
+journal: "[[National Public Radio]]"
 publisher: "[[National Public Radio]]"
 tags:
   - _BibTex-to-MD-Git
@@ -17,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Rosalsky, Greg, Planet Money. Unknown Year. “A New Way To Understand Automation.” "[[National Public Radio]]". https://www.npr.org/sections/money/2021/06/22/1008354992/a-new-way-to-understand-automation
+> Rosalsky, Greg, Planet Money. 2021. “A New Way To Understand Automation.” "[[National Public Radio]]". https://www.npr.org/sections/money/2021/06/22/1008354992/a-new-way-to-understand-automation
 
 > [!abstract]
 > We speak with one of the leading scholars of automation about its evolving impacts on society.

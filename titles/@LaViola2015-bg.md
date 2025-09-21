@@ -1,6 +1,6 @@
 ---
 title: Using augmented reality to tutor military tasks in the wild
-year: Unknown Year
+year: 2015
 author - 1: "[[Joseph J LaViola]]"
 author - 2: "[[Brian M Williamson]]"
 author - 3: "[[Conner Brooks]]"
@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> LaViola, Joseph J, Brian M Williamson, Conner Brooks, Sergiu Veazanchin, Robert Sottilare, Pat Garrity. Unknown Year. “Using augmented reality to tutor military tasks in the wild.” "[[gifttutoring org]]". https://gifttutoring.org/attachments/download/1414/15050.pdf
+> LaViola, Joseph J, Brian M Williamson, Conner Brooks, Sergiu Veazanchin, Robert Sottilare, Pat Garrity. 2015. “Using augmented reality to tutor military tasks in the wild.” "[[gifttutoring org]]". https://gifttutoring.org/attachments/download/1414/15050.pdf
 
 > [!abstract]
 > … The goal is to more closely align intelligently guided instruction with … of Authoring Simulation and Game-based Intelligent Tutoring Workshop at the Artificial Intelligence in Education …

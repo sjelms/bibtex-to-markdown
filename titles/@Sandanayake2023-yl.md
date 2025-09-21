@@ -1,6 +1,6 @@
 ---
 title: Key components of a VR-enabled interactive platform to facilitate effective construction risk and safety education
-year: Unknown Year
+year: 2023
 author - 1: "[[Malindu Sandanayake]]"
 author - 2: "[[Melissa Chan]]"
 author - 3: "[[Zora Vrcelj]]"
@@ -30,4 +30,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sandanayake, Malindu, Melissa Chan, Zora Vrcelj, Yuan Miao, Tim Law, Jun Zhao, Ayman Mukhaimar, Leon Yang. Unknown Year. “Key components of a VR-enabled interactive platform to facilitate effective construction risk and safety education.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-8/key-components-vr-enabled-interactive-platform-facilitate-effective-construction-risk-safety-education-malindu-sandanayake-melissa-chan-zora-vrcelj-yuan-miao-tim-law-jun-zhao-ayman-mukhaimar-leon-yang?context=ubx&refId=6b6c44ad-ee2a-44c0-8b1b-f7f0f444dedf
+> Sandanayake, Malindu, Melissa Chan, Zora Vrcelj, Yuan Miao, Tim Law, Jun Zhao, Ayman Mukhaimar, Leon Yang. 2023. “Key components of a VR-enabled interactive platform to facilitate effective construction risk and safety education.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-8/key-components-vr-enabled-interactive-platform-facilitate-effective-construction-risk-safety-education-malindu-sandanayake-melissa-chan-zora-vrcelj-yuan-miao-tim-law-jun-zhao-ayman-mukhaimar-leon-yang?context=ubx&refId=6b6c44ad-ee2a-44c0-8b1b-f7f0f444dedf

@@ -1,6 +1,6 @@
 ---
 title: Designing Adaptive Motivational Scaffolding for a Tutoring System
-year: Unknown Year
+year: 2011
 author - 1: "[[Genaro Rebolledo-Mendez]]"
 author - 2: "[[Rosemary Luckin]]"
 author - 3: "[[Benedict du Boulay]]"
@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Rebolledo-Mendez, Genaro, Rosemary Luckin, Benedict du Boulay. Unknown Year. “Designing Adaptive Motivational Scaffolding for a Tutoring System.” "[[Springer New York]]". https://doi.org/10.1007/978-1-4419-9625-1_12
+> Rebolledo-Mendez, Genaro, Rosemary Luckin, Benedict du Boulay. 2011. “Designing Adaptive Motivational Scaffolding for a Tutoring System.” "[[Springer New York]]". https://doi.org/10.1007/978-1-4419-9625-1_12
 
 > [!abstract]
 > Attribution Theory (Weiner, 1990) and Goal Orientation Theory (Ames, 1990) provide human teachers with useful guidelines to help them understand students’ motivation and personalize their choice of educational activities. Such theories can assist teachers by informing the way they may interact with students in real class settings. However, it is less obvious how these theories can aid the development of motivationally aware educational technology. One of the strengths of educational technology, for example, intelligent tutoring systems, is the use of learner models to adapt the learning activities to the student’s current abilities and needs. This adaptation has provided some degree of efficiency tailoring in educational content delivery but the resulting activities are not, necessarily, motivating for students.

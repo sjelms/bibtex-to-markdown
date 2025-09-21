@@ -1,6 +1,6 @@
 ---
 title: The use of immersive virtual reality in the learning sciences -  Digital transformations of teachers, students, and social context
-year: Unknown Year
+year: 2008
 author - 1: "[[Jeremy N Bailenson]]"
 author - 2: "[[Nick Yee]]"
 author - 3: "[[Jim Blascovich]]"
@@ -11,6 +11,7 @@ key: "[[@Bailenson2008-ye]]"
 aliases:
   - The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context
   - The Use Of Immersive Virtual Reality In The Learning Sciences
+journal: "[[Journal of the Learning Sciences]]"
 publisher: "[[Informa UK Limited]]"
 tags:
   - Experience-on-Demand-Related-Work
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bailenson, Jeremy N, Nick Yee, Jim Blascovich, Andrew C Beall, Nicole Lundblad, Michael Jin. Unknown Year. “The use of immersive virtual reality in the learning sciences -  Digital transformations of teachers, students, and social context.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10508400701793141
+> Bailenson, Jeremy N, Nick Yee, Jim Blascovich, Andrew C Beall, Nicole Lundblad, Michael Jin. 2008. “The use of immersive virtual reality in the learning sciences -  Digital transformations of teachers, students, and social context.” "[[Informa UK Limited]]". http://dx.doi.org/10.1080/10508400701793141

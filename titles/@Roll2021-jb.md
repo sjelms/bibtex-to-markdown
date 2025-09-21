@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence in Education
-year: Unknown Year
+year: 2021
 author - 1: "[[Ido Roll]]"
 author - 2: "[[Danielle McNamara]]"
 author - 3: "[[Sergey Sosnovsky]]"
@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Roll, Ido, Danielle McNamara, Sergey Sosnovsky, Rosemary Luckin, Vania Dimitrova. Unknown Year. “Artificial Intelligence in Education.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-78292-4
+> Roll, Ido, Danielle McNamara, Sergey Sosnovsky, Rosemary Luckin, Vania Dimitrova. 2021. “Artificial Intelligence in Education.” "[[Springer International Publishing]]". https://link.springer.com/book/10.1007/978-3-030-78292-4

@@ -1,6 +1,6 @@
 ---
 title: Core Offsite Manufacture Industry Drivers
-year: Unknown Year
+year: 2019
 author - 1: "[[Robert Hairstans]]"
 author - 2: "[[Tsvetomila A Duncheva]]"
 key: "[[@Hairstans2019-ei]]"
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hairstans, Robert, Tsvetomila A Duncheva. Unknown Year. “Core Offsite Manufacture Industry Drivers.” "[[Routledge]]". http://dx.doi.org/10.1201/9781315147321-11
+> Hairstans, Robert, Tsvetomila A Duncheva. 2019. “Core Offsite Manufacture Industry Drivers.” "[[Routledge]]". http://dx.doi.org/10.1201/9781315147321-11

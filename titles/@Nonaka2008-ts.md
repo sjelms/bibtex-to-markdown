@@ -1,6 +1,6 @@
 ---
 title: The Knowledge-Creating Company
-year: Unknown Year
+year: 2008
 author - 1: "[[Ikujiro Nonaka]]"
 key: "[[@Nonaka2008-ts]]"
 aliases:
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Nonaka, Ikujiro. Unknown Year. “The Knowledge-Creating Company.” "[[Reed Business Education]]"
+> Nonaka, Ikujiro. 2008. “The Knowledge-Creating Company.” "[[Reed Business Education]]"

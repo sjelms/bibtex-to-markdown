@@ -1,6 +1,6 @@
 ---
 author: "Huda Mohamed Ali Hasan Husain Almadhoob"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

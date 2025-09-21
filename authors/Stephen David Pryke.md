@@ -1,6 +1,6 @@
 ---
 author: "Stephen David Pryke"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

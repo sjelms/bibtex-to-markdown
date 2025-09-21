@@ -1,6 +1,6 @@
 ---
 title: The influence of rendering quality on presence and task performance in a virtual environment
-year: Unknown Year
+year: 2003
 author - 1: "[[P Zimmons]]"
 author - 2: "[[A Panter]]"
 key: "[[@Zimmons2003-kh]]"
@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zimmons, P, A Panter. Unknown Year. “The influence of rendering quality on presence and task performance in a virtual environment.” "[[IEEE Comput Soc]]". http://dx.doi.org/10.1109/vr.2003.1191170
+> Zimmons, P, A Panter. 2003. “The influence of rendering quality on presence and task performance in a virtual environment.” "[[IEEE Comput Soc]]". http://dx.doi.org/10.1109/vr.2003.1191170

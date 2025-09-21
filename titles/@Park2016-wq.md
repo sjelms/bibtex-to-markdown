@@ -1,6 +1,6 @@
 ---
 title: What is multimodal design? An interview with John Alderman and Christine Park
-year: Unknown Year
+year: 2016
 author - 1: "[[Christine W Park]]"
 author - 2: "[[John Alderman]]"
 editor - 1: "[[Mac Slocum]]"
@@ -26,7 +26,7 @@ tags:
 ---
 
 > [!bibliography]
-> Park, Christine W, John Alderman. Unknown Year. “What is multimodal design? An interview with John Alderman and Christine Park.” "[[O Reilly Media]]". https://youtu.be/1ozqFwnU01E
+> Park, Christine W, John Alderman. 2016. “What is multimodal design? An interview with John Alderman and Christine Park.” "[[O Reilly Media]]". https://youtu.be/1ozqFwnU01E
 
 > [!abstract]
 > Multimodal design is an approach that reflects how we use our senses together in the physical world. John Alderman and Christine Park discuss the application...

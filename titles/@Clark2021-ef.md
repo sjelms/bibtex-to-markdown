@@ -1,6 +1,6 @@
 ---
 title: Bryman's Social Research Methods
-year: Unknown Year
+year: 2021
 author - 1: "[[Tom Clark]]"
 author - 2: "[[Alan Bryman]]"
 author - 3: "[[Liam Foster]]"
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Clark, Tom, Alan Bryman, Liam Foster, Luke Sloan. Unknown Year. “Bryman's Social Research Methods.” "[[Oxford University Press]]"
+> Clark, Tom, Alan Bryman, Liam Foster, Luke Sloan. 2021. “Bryman's Social Research Methods.” "[[Oxford University Press]]"

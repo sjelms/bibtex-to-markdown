@@ -1,6 +1,6 @@
 ---
 author: "Anne Wood Symons"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

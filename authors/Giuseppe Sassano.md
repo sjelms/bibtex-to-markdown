@@ -1,6 +1,6 @@
 ---
 author: "Giuseppe Sassano"
-institution: "University College London"
+institution:
 field:
 type:
 aliases:

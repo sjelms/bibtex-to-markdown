@@ -1,6 +1,6 @@
 ---
 title: When More Does Not Mean Better -  Selecting a Research Methodology and Methods
-year: Unknown Year
+year: 2016
 author - 1: "[[Karim Ménacère]]"
 editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ménacère, Karim. Unknown Year. “When More Does Not Mean Better -  Selecting a Research Methodology and Methods.” "[[Routledge]]"
+> Ménacère, Karim. 2016. “When More Does Not Mean Better -  Selecting a Research Methodology and Methods.” "[[Routledge]]"

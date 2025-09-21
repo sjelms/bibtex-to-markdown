@@ -1,6 +1,6 @@
 ---
 title: Democracy and Education -  An Introduction to the Philosophy of Education
-year: Unknown Year
+year: 1916
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1916-uh]]"
 aliases:
@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Dewey, John. Unknown Year. “Democracy and Education -  An Introduction to the Philosophy of Education.” "[[Macmillan]]"
+> Dewey, John. 1916. “Democracy and Education -  An Introduction to the Philosophy of Education.” "[[Macmillan]]"
