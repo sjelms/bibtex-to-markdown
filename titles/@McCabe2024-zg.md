@@ -14,7 +14,7 @@ tags:
   - Audible
   - ePub
   - Audiobook
-  - Neurodivergent-and-ADHD
+  - Neurodiversity
 ---
 
 > [!bibliography]

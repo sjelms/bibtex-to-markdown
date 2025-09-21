@@ -15,7 +15,7 @@ tags:
   - ePub
   - Economics
   - Audiobook
-  - Neurodivergent-and-ADHD
+  - Neurodiversity
 ---
 
 > [!bibliography]
