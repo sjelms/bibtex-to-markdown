@@ -1,6 +1,6 @@
 ---
 title: Prefab Architecture A Guide to Modular Design and Construction
-year: 2010
+year: Unknown Year
 author - 1: "[[Ryan E Smith]]"
 key: "[[@Smith2010-we]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Smith, Ryan E. 2010. “Prefab Architecture A Guide to Modular Design and Construction.” "[[Wiley and Sons Incorporated John]]". https://openlibrary.org/books/OL29056327M.opds
+> Smith, Ryan E. Unknown Year. “Prefab Architecture A Guide to Modular Design and Construction.” "[[Wiley and Sons Incorporated John]]". https://openlibrary.org/books/OL29056327M.opds

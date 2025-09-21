@@ -1,6 +1,6 @@
 ---
 title: Bad for Business -  Skilled Labor Shortages in Alabama's Construction Industry
-year: 2012
+year: Unknown Year
 author - 1: "[[Darren Olsen]]"
 author - 2: "[[Mark C Tatum]]"
 key: "[[@Olsen2012-gr]]"
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Olsen, Darren, Mark C Tatum. 2012. “Bad for Business -  Skilled Labor Shortages in Alabama's Construction Industry.”
+> Olsen, Darren, Mark C Tatum. Unknown Year. “Bad for Business -  Skilled Labor Shortages in Alabama's Construction Industry.”

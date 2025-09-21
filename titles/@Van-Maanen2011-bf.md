@@ -1,6 +1,6 @@
 ---
 title: Tales of the Field -  On Writing Ethnography
-year: 2011
+year: Unknown Year
 author - 1: "[[John Van Maanen]]"
 key: "[[@Van-Maanen2011-bf]]"
 aliases:
@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Maanen, John Van. 2011. “Tales of the Field -  On Writing Ethnography.” "[[University of Chicago Press]]". https://books.google.com/books?id=V9hi269OD9cC&newbks=1
+> Maanen, John Van. Unknown Year. “Tales of the Field -  On Writing Ethnography.” "[[University of Chicago Press]]". https://books.google.com/books?id=V9hi269OD9cC&newbks=1

@@ -1,13 +1,12 @@
 ---
 title: Generative AI and the Future of Work -  A Reappraisal
-year: 2023
+year: Unknown Year
 author - 1: "[[Carl Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"
 key: "[[@Frey2023-rj]]"
 aliases:
   - Generative Ai And The Future Of Work - A Reappraisal
   - Generative Ai And The Future Of Work
-journal: "[[Brown Journal of World Affairs]]"
 publisher: "[[Brown University]]"
 tags:
   - _BibTex-to-MD-Git
@@ -22,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Frey, Carl Benedikt, Michael A Osborne. 2023. “Generative AI and the Future of Work -  A Reappraisal.” "[[Brown University]]". https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae
+> Frey, Carl Benedikt, Michael A Osborne. Unknown Year. “Generative AI and the Future of Work -  A Reappraisal.” "[[Brown University]]". https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae

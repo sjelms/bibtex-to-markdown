@@ -1,6 +1,6 @@
 ---
 title: Tangible vs. virtual representations
-year: 2012
+year: Unknown Year
 author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Engin Bumbacher]]"
 author - 3: "[[Pierre Dillenbourg]]"
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cuendet, Sébastien, Engin Bumbacher, Pierre Dillenbourg. 2012. “Tangible vs. virtual representations.” "[[ACM Press]]". http://dx.doi.org/10.1145/2399016.2399032
+> Cuendet, Sébastien, Engin Bumbacher, Pierre Dillenbourg. Unknown Year. “Tangible vs. virtual representations.” "[[ACM Press]]". http://dx.doi.org/10.1145/2399016.2399032

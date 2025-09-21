@@ -1,6 +1,6 @@
 ---
 title: January 11, 1962 -  State of the Union Address
-year: 1962
+year: Unknown Year
 author - 1: "[[John F Kennedy]]"
 key: "[[@Kennedy1962-th]]"
 aliases:
@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kennedy, John F. 1962. “January 11, 1962 -  State of the Union Address.” . https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address
+> Kennedy, John F. Unknown Year. “January 11, 1962 -  State of the Union Address.” . https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address

@@ -1,6 +1,6 @@
 ---
 title: Accents of Added Value in Construction 4.0 -  Ethical Observations in Dealing With Digitization and AI
-year: 2022
+year: Unknown Year
 author - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-ow]]"
 aliases:
@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Weber-Lewerenz, Bianca Christina. 2022. “Accents of Added Value in Construction 4.0 -  Ethical Observations in Dealing With Digitization and AI.” "[[Springer Nature]]". https://play.google.com/store/books/details?id=-7KiEAAAQBAJ
+> Weber-Lewerenz, Bianca Christina. Unknown Year. “Accents of Added Value in Construction 4.0 -  Ethical Observations in Dealing With Digitization and AI.” "[[Springer Nature]]". https://play.google.com/store/books/details?id=-7KiEAAAQBAJ
 
 > [!abstract]
 > The book wants to do justice to the complexity surrounding the Digital Transformation and AI in the Construction Industry. User practice experiences show how digital change can be shaped sensibly and constructively, what kind of methods and technologies do exist or can be developed, which fields of application can be explored, by keeping an eye on risks and opportunities.The book works out key factors and core competencies at all levels, which are decisive both for sustainably using innovative technologies and for setting the Seal of Quality of the Construction Industry at home and abroad.

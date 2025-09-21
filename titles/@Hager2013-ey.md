@@ -1,6 +1,6 @@
 ---
 title: Theories of workplace learning
-year: 2013
+year: Unknown Year
 author - 1: "[[Paul Hager]]"
 editor - 1: "[[Margaret Malloch]]"
 editor - 2: "[[Len Cairns]]"
@@ -28,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hager, Paul. 2013. “Theories of workplace learning.” "[[SAGE Publications]]". https://sk.sagepub.com/reference/hdbk_workplacelearning/n2.xml
+> Hager, Paul. Unknown Year. “Theories of workplace learning.” "[[SAGE Publications]]". https://sk.sagepub.com/reference/hdbk_workplacelearning/n2.xml

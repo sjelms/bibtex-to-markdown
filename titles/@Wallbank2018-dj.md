@@ -1,6 +1,6 @@
 ---
 title: Academic writing and dyslexia -  A visual guide to writing at university
-year: 2018
+year: Unknown Year
 author - 1: "[[Adrian J Wallbank]]"
 key: "[[@Wallbank2018-dj]]"
 aliases:
@@ -13,8 +13,8 @@ tags:
   - Neurodiversity
   - _BibTex-to-MD-Git
   - ePub
-  - Neurodivergent-and-ADHD
+  - Neurodiversity
 ---
 
 > [!bibliography]
-> Wallbank, Adrian J. 2018. “Academic writing and dyslexia -  A visual guide to writing at university.” "[[Routledge]]". https://openlibrary.org/books/OL37308376M.opds
+> Wallbank, Adrian J. Unknown Year. “Academic writing and dyslexia -  A visual guide to writing at university.” "[[Routledge]]". https://openlibrary.org/books/OL37308376M.opds

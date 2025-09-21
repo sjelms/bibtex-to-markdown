@@ -1,6 +1,6 @@
 ---
 title: Case study on mobile virtual reality construction training
-year: 2019
+year: Unknown Year
 author - 1: "[[Mario Wolf]]"
 author - 2: "[[Jochen Teizer]]"
 author - 3: "[[Jan-Hendrik Ruse]]"
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wolf, Mario, Jochen Teizer, Jan-Hendrik Ruse. 2019. “Case study on mobile virtual reality construction training.” "[[IAARC]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html
+> Wolf, Mario, Jochen Teizer, Jan-Hendrik Ruse. Unknown Year. “Case study on mobile virtual reality construction training.” "[[IAARC]]". http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/case_study_on_mobile_virtual_reality_construction_training.html

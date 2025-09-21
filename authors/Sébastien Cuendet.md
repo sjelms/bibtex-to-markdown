@@ -1,6 +1,6 @@
 ---
 author: "Sébastien Cuendet"
-institution:
+institution: "École Polytechnique Fédérale de Lausanne"
 field:
 type:
 aliases:

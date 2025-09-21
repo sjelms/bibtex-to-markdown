@@ -1,6 +1,6 @@
 ---
 title: Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools
-year: 2017
+year: Unknown Year
 author - 1: "[[Eric Ras]]"
 author - 2: "[[Fridolin Wild]]"
 author - 3: "[[Christoph Stahl]]"
@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ras, Eric, Fridolin Wild, Christoph Stahl, Alexandre Baudet. 2017. “Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3056540.3076192
+> Ras, Eric, Fridolin Wild, Christoph Stahl, Alexandre Baudet. Unknown Year. “Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3056540.3076192

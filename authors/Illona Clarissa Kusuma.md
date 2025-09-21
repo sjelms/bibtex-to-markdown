@@ -1,6 +1,6 @@
 ---
 author: "Illona Clarissa Kusuma"
-institution:
+institution: "University College London"
 field:
 type:
 aliases:

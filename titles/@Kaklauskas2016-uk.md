@@ -1,12 +1,11 @@
 ---
 title: Intelligent decision-support systems and the Internet of Things for the smart built environment
-year: 2016
+year: Unknown Year
 author - 1: "[[Artūras Kaklauskas]]"
 author - 2: "[[Renaldas Gudauskas]]"
 key: "[[@Kaklauskas2016-uk]]"
 aliases:
   - Intelligent Decision-Support Systems And The Internet Of Things For The Smart Built Environment
-journal: "[[Start Up Creation]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -19,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kaklauskas, Artūras, Renaldas Gudauskas. 2016. “Intelligent decision-support systems and the Internet of Things for the smart built environment.” . http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0
+> Kaklauskas, Artūras, Renaldas Gudauskas. Unknown Year. “Intelligent decision-support systems and the Internet of Things for the smart built environment.” . http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0

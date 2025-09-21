@@ -1,6 +1,6 @@
 ---
 title: Helping Doctoral Students Write -  Pedagogies for supervision
-year: 2014
+year: Unknown Year
 author - 1: "[[Barbara Kamler]]"
 author - 2: "[[Pat Thomson]]"
 key: "[[@Kamler2014-sz]]"
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kamler, Barbara, Pat Thomson. 2014. “Helping Doctoral Students Write -  Pedagogies for supervision.” "[[Routledge]]". https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0
+> Kamler, Barbara, Pat Thomson. Unknown Year. “Helping Doctoral Students Write -  Pedagogies for supervision.” "[[Routledge]]". https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0

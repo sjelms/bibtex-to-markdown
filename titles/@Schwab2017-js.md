@@ -1,6 +1,6 @@
 ---
 title: The Fourth Industrial Revolution
-year: 2017
+year: Unknown Year
 author - 1: "[[Klaus Schwab]]"
 key: "[[@Schwab2017-js]]"
 aliases:
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Schwab, Klaus. 2017. “The Fourth Industrial Revolution.” "[[Adfo Books]]"
+> Schwab, Klaus. Unknown Year. “The Fourth Industrial Revolution.” "[[Adfo Books]]"

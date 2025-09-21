@@ -1,6 +1,6 @@
 ---
 title: The Work We Need -  A 21st Century Imagining
-year: 2025
+year: Unknown Year
 author - 1: "[[Hilary Cottam]]"
 key: "[[@Cottam2025-sr]]"
 aliases:
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cottam, Hilary. 2025. “The Work We Need -  A 21st Century Imagining.” "[[Virago Press]]"
+> Cottam, Hilary. Unknown Year. “The Work We Need -  A 21st Century Imagining.” "[[Virago Press]]"

@@ -1,6 +1,6 @@
 ---
 title: Qualitative Data Collection Tools -  Design, Development, and Applications
-year: 2020
+year: Unknown Year
 author - 1: "[[Felice D Billups]]"
 key: "[[@Billups2020-od]]"
 aliases:
@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Billups, Felice D. 2020. “Qualitative Data Collection Tools -  Design, Development, and Applications.” "[[SAGE Publications]]"
+> Billups, Felice D. Unknown Year. “Qualitative Data Collection Tools -  Design, Development, and Applications.” "[[SAGE Publications]]"

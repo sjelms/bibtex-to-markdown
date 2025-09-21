@@ -1,11 +1,10 @@
 ---
 title: Extending the Scaffolding Metaphor
-year: 2005
+year: Unknown Year
 author - 1: "[[Susanne P Lajoie]]"
 key: "[[@Lajoie2005-xt]]"
 aliases:
   - Extending The Scaffolding Metaphor
-journal: "[[Instructional Science]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -19,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lajoie, Susanne P. 2005. “Extending the Scaffolding Metaphor.” . http://dx.doi.org/10.1007/s11251-005-1279-2
+> Lajoie, Susanne P. Unknown Year. “Extending the Scaffolding Metaphor.” . http://dx.doi.org/10.1007/s11251-005-1279-2

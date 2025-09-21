@@ -1,6 +1,6 @@
 ---
 title: Researching workplace learning -  An overview and critique
-year: 2013
+year: Unknown Year
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-ux]]"
 aliases:
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sawchuk, Peter H. 2013. “Researching workplace learning -  An overview and critique.” "[[SAGE Publications]]". https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml
+> Sawchuk, Peter H. Unknown Year. “Researching workplace learning -  An overview and critique.” "[[SAGE Publications]]". https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml

@@ -1,6 +1,6 @@
 ---
 title: Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth
-year: 2020
+year: Unknown Year
 author - 1: "[[Rachel Maddow]]"
 key: "[[@Maddow2020-tg]]"
 aliases:
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Maddow, Rachel. 2020. “Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth.” "[[Vintage Digital]]"
+> Maddow, Rachel. Unknown Year. “Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth.” "[[Vintage Digital]]"

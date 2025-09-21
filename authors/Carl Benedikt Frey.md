@@ -10,7 +10,6 @@ aliases:
 ## Carl Benedikt Frey
 
 ### Content:
-[[@Berger2016-vc|Structural Transformation In The Oecd]]
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]
 [[@Chen2022-fx|Disrupting Science]]
 [[@Frey2013-nj|The Future Of Employment]]
@@ -20,8 +19,6 @@ aliases:
 [[@Frey2025-re|How Progress Ends]]
 
 #### Bibliography:
-
-![[@Berger2016-vc]]
 
 ![[@Berger2017-ln]]
 

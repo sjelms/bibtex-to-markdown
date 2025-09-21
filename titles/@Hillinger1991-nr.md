@@ -1,12 +1,11 @@
 ---
 title: Pulling the Plug  -  Phone Company to Replace Last Manual Switchboard
-year: 1991
+year: Unknown Year
 author - 1: "[[Charles Hillinger]]"
 key: "[[@Hillinger1991-nr]]"
 aliases:
   - Pulling The Plug - Phone Company To Replace Last Manual Switchboard
   - Pulling The Plug
-journal: "[[Los Angeles Times]]"
 publisher: "[[Los Angeles Times]]"
 tags:
   - 2_Upgrade-MAY-2023
@@ -16,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Hillinger, Charles. 1991. “Pulling the Plug  -  Phone Company to Replace Last Manual Switchboard.” "[[Los Angeles Times]]". https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html
+> Hillinger, Charles. Unknown Year. “Pulling the Plug  -  Phone Company to Replace Last Manual Switchboard.” "[[Los Angeles Times]]". https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html
 
 > [!abstract]
 > The last of the old-fashioned manual telephone switchboards in California is being phased out and will be replaced in a few days with computerized equipment, marking the end of an era in this small farming town 15 miles west of Fresno.

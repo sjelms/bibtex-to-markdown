@@ -1,6 +1,6 @@
 ---
 title: Out of Our Minds -  The Power of Being Creative
-year: 2017
+year: Unknown Year
 author - 1: "[[Ken Robinson]]"
 key: "[[@Robinson2017-sf]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Robinson, Ken. 2017. “Out of Our Minds -  The Power of Being Creative.” "[[Capstone Publishing]]"
+> Robinson, Ken. Unknown Year. “Out of Our Minds -  The Power of Being Creative.” "[[Capstone Publishing]]"
