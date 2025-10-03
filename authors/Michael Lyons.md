@@ -1,20 +1,17 @@
 ---
-author: "Diane Coyle"
+author: "Michael Lyons"
 institution: "Ministry of Housing, Communities and Local Government"
 field:
 type:
 aliases:
-  - Coyle
+  - Lyons
 ---
 
-## Diane Coyle
+## Michael Lyons
 
 ### Content:
-[[@Coyle2025-yv|The Measure Of Progress]]
 [[@Lyons2025-oc|New Towns Taskforce]]
 
 #### Bibliography:
-
-![[@Coyle2025-yv]]
 
 ![[@Lyons2025-oc]]
