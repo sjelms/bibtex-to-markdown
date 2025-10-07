@@ -1,6 +1,6 @@
 ---
 title: Grounded theory in ethnography
-year: 2001
+year: Unknown Year
 author - 1: "[[Kathy Charmaz]]"
 author - 2: "[[Richard G Mitchell]]"
 key: "[[@Charmaz2001-wf]]"
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Charmaz, Kathy, Richard G Mitchell. 2001. “Grounded theory in ethnography.” "[[SAGE Publications]]". https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml
+> Charmaz, Kathy, Richard G Mitchell. Unknown Year. “Grounded theory in ethnography.” "[[SAGE Publications]]". https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml

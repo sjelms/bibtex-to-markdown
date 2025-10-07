@@ -1,11 +1,10 @@
 ---
 title: Designing the unfinished
-year: 2022
+year: Unknown Year
 author - 1: "[[Daria Loi]]"
 key: "[[@Loi2022-qi]]"
 aliases:
   - Designing The Unfinished
-journal: "[[Interactions]]"
 publisher: "[[Association for Computing Machinery]]"
 tags:
   - 00_TO-READ
@@ -19,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Loi, Daria. 2022. “Designing the unfinished.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3529163
+> Loi, Daria. Unknown Year. “Designing the unfinished.” "[[Association for Computing Machinery]]". http://dx.doi.org/10.1145/3529163

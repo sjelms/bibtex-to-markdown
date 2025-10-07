@@ -1,6 +1,6 @@
 ---
 author: "Andrew John David Edkins"
-institution:
+institution: "University of London"
 field:
 type:
 aliases:

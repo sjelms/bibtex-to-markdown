@@ -1,6 +1,6 @@
 ---
 title: GE Appliances to Hire 150 employees at Appliance Park for part-time GEA2Day program expansion
-year: 2020
+year: Unknown Year
 author - 1: "[[GE Appliances Pressroom]]"
 key: "[[@GE_Appliances_Pressroom2020-at]]"
 aliases:
@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> Pressroom, GE Appliances. 2020. “GE Appliances to Hire 150 employees at Appliance Park for part-time GEA2Day program expansion.” . https://pressroom.geappliances.com/news/ge-appliances-to-hire-150-employees-at-appliance-park-for-part-time-gea2day-program-expansion
+> Pressroom, GE Appliances. Unknown Year. “GE Appliances to Hire 150 employees at Appliance Park for part-time GEA2Day program expansion.” . https://pressroom.geappliances.com/news/ge-appliances-to-hire-150-employees-at-appliance-park-for-part-time-gea2day-program-expansion

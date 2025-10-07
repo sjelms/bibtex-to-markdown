@@ -1,6 +1,6 @@
 ---
 title: In Touch with the Future -  The sense of touch from cognitive neuroscience to virtual reality
-year: 2014
+year: Unknown Year
 author - 1: "[[Alberto Gallace]]"
 author - 2: "[[Charles Spence]]"
 key: "[[@Gallace2014-lu]]"
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Gallace, Alberto, Charles Spence. 2014. “In Touch with the Future -  The sense of touch from cognitive neuroscience to virtual reality.” "[[Oxford University Press]]". http://dx.doi.org/10.1093/acprof:oso/9780199644469.001.0001
+> Gallace, Alberto, Charles Spence. Unknown Year. “In Touch with the Future -  The sense of touch from cognitive neuroscience to virtual reality.” "[[Oxford University Press]]". http://dx.doi.org/10.1093/acprof:oso/9780199644469.001.0001

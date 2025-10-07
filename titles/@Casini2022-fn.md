@@ -1,6 +1,6 @@
 ---
 title: Introduction
-year: 2022
+year: Unknown Year
 author - 1: "[[Marco Casini]]"
 editor - 1: "[[Marco Casini]]"
 key: "[[@Casini2022-fn]]"
@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Casini, Marco. 2022. “Introduction.” "[[Woodhead Publishing]]". https://www.sciencedirect.com/science/article/pii/B9780128217979000106
+> Casini, Marco. Unknown Year. “Introduction.” "[[Woodhead Publishing]]". https://www.sciencedirect.com/science/article/pii/B9780128217979000106

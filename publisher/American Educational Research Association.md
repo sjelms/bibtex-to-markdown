@@ -4,7 +4,6 @@ aliases:
 see also:
 tags:
 category:
-  - journal
   - publisher
 ---
 
@@ -12,4 +11,3 @@ category:
 
 ### Content:
 [[@Boote2005-kh|Scholars Before Researchers]]
-[[@Bransford1999-ta|Rethinking Transfer]]

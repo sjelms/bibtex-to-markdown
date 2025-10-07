@@ -1,6 +1,6 @@
 ---
 title: Contemporary Apprenticeship -  International Perspectives on an Evolving Model of Learning
-year: 2014
+year: Unknown Year
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
 editor - 1: "[[Alison Fuller]]"
@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Fuller, Alison, Lorna Unwin. 2014. “Contemporary Apprenticeship -  International Perspectives on an Evolving Model of Learning.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.4324/9781315872919/contemporary-apprenticeship-alison-fuller-lorna-unwin
+> Fuller, Alison, Lorna Unwin. Unknown Year. “Contemporary Apprenticeship -  International Perspectives on an Evolving Model of Learning.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.4324/9781315872919/contemporary-apprenticeship-alison-fuller-lorna-unwin

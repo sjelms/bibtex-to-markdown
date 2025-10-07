@@ -1,6 +1,6 @@
 ---
 title: Rapid ethnographic assessments -  A practical approach and toolkit for collaborative community research
-year: 2020
+year: Unknown Year
 author - 1: "[[Thurka Sangaramoorthy]]"
 author - 2: "[[Karen A Kroeger]]"
 key: "[[@Sangaramoorthy2020-hi]]"
@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sangaramoorthy, Thurka, Karen A Kroeger. 2020. “Rapid ethnographic assessments -  A practical approach and toolkit for collaborative community research.” "[[Routledge]]"
+> Sangaramoorthy, Thurka, Karen A Kroeger. Unknown Year. “Rapid ethnographic assessments -  A practical approach and toolkit for collaborative community research.” "[[Routledge]]"

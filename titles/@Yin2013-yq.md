@@ -1,6 +1,6 @@
 ---
 title: Case Study Research -  Design and Methods
-year: 2013
+year: Unknown Year
 author - 1: "[[Robert K Yin]]"
 key: "[[@Yin2013-yq]]"
 aliases:
@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Yin, Robert K. 2013. “Case Study Research -  Design and Methods.” "[[SAGE Publications]]"
+> Yin, Robert K. Unknown Year. “Case Study Research -  Design and Methods.” "[[SAGE Publications]]"

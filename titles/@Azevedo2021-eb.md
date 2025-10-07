@@ -1,6 +1,6 @@
 ---
 title: With an Apple Store designer as a co-founder, Juno raises $20M to build apartments more sustainably
-year: 2021
+year: Unknown Year
 author - 1: "[[Mary Ann Azevedo]]"
 key: "[[@Azevedo2021-eb]]"
 aliases:
@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> Azevedo, Mary Ann. 2021. “With an Apple Store designer as a co-founder, Juno raises $20M to build apartments more sustainably.” . https://techcrunch.com/2021/09/09/juno-raises-20m/
+> Azevedo, Mary Ann. Unknown Year. “With an Apple Store designer as a co-founder, Juno raises $20M to build apartments more sustainably.” . https://techcrunch.com/2021/09/09/juno-raises-20m/

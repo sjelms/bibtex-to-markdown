@@ -1,6 +1,6 @@
 ---
 title: The Anti-Planner -  How to get sh*t done when you don't feel like it
-year: 2022
+year: Unknown Year
 author - 1: "[[Dani Donovan]]"
 key: "[[@Donovan2022-wg]]"
 aliases:
@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Donovan, Dani. 2022. “The Anti-Planner -  How to get sh*t done when you don't feel like it.” "[[Anti Boring Books]]"
+> Donovan, Dani. Unknown Year. “The Anti-Planner -  How to get sh*t done when you don't feel like it.” "[[Anti Boring Books]]"
 
 > [!abstract]
 > The Anti-Planner is an activity book specifically designed to help procrastinators - Try unique, entertaining ways of completing tasks...Untangle emotions that make it hard to get sh*t done...Smash through productivity roadblocks...300+ full-color pages (with over 100 activities)...

@@ -1,6 +1,6 @@
 ---
 author: "Ryan E Smith"
-institution: "United States Department of Housing and Urban Development"
+institution:
 field:
 type:
 aliases:
@@ -24,7 +24,6 @@ aliases:
 [[@Richard2017-jw|Industrialized Building System Categorization]]
 [[@Rupnik2017-gx|Mapping The Modular Industry]]
 [[@Smith2010-we|Prefab Architecture A Guide To Modular Design And Construction]]
-[[@Smith2016-mk|Off-Site And Modular Construction Explained]]
 [[@Smith2017-ff|Offsite Construction In Education]]
 [[@Smith2017-ff|Offsite Construction In Education]]
 [[@Smith2017-op|Permanent Modular Construction]]
@@ -32,7 +31,6 @@ aliases:
 [[@Smith2017-zx|Offsite Architecture]]
 [[@Smith2017-zx|Offsite Architecture]]
 [[@Smith2019-lv|Productivity, Innovation And Disruption]]
-[[@Smith2023-fp|Offsite Construction For Housing]]
 [[@Vibaek2017-sw|System Structures]]
 
 #### Bibliography:
@@ -65,8 +63,6 @@ aliases:
 
 ![[@Smith2010-we]]
 
-![[@Smith2016-mk]]
-
 ![[@Smith2017-ff]]
 
 ![[@Smith2017-ff]]
@@ -80,7 +76,5 @@ aliases:
 ![[@Smith2017-zx]]
 
 ![[@Smith2019-lv]]
-
-![[@Smith2023-fp]]
 
 ![[@Vibaek2017-sw]]

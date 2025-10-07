@@ -1,6 +1,6 @@
 ---
 author: "Sharon Marie Scollard"
-institution:
+institution: "University of Toronto"
 field:
 type:
 aliases:
