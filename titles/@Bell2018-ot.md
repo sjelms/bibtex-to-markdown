@@ -1,6 +1,6 @@
 ---
 title: Research Methods in Education
-year: 2018
+year: Unknown Year
 author - 1: "[[Richard Bell]]"
 author - 2: "[[Barry Cooper]]"
 author - 3: "[[Judith Glaesser]]"
@@ -27,4 +27,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bell, Richard, Barry Cooper, Judith Glaesser, Jane Martin, Stewart Martin, Carmel O'Sullivan, Harsh Suri. 2018. “Research Methods in Education.” "[[Routledge]]"
+> Bell, Richard, Barry Cooper, Judith Glaesser, Jane Martin, Stewart Martin, Carmel O'Sullivan, Harsh Suri. Unknown Year. “Research Methods in Education.” "[[Routledge]]"

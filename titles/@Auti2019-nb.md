@@ -1,13 +1,12 @@
 ---
 title: Prefabrication Technology - A Promising Alternative in Construction Industry
-year: 2019
+year: Unknown Year
 author - 1: "[[Shubham D Auti]]"
 author - 2: "[[Jalindar R Patil]]"
 key: "[[@Auti2019-nb]]"
 aliases:
   - Prefabrication Technology - A Promising Alternative In Construction Industry
   - Prefabrication Technology
-journal: "[[International Journal of Science and Research]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
@@ -19,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Auti, Shubham D, Jalindar R Patil. 2019. “Prefabrication Technology - A Promising Alternative in Construction Industry.” . https://www.ijsr.net/get_abstract.php?paper_id=ART2020213
+> Auti, Shubham D, Jalindar R Patil. Unknown Year. “Prefabrication Technology - A Promising Alternative in Construction Industry.” . https://www.ijsr.net/get_abstract.php?paper_id=ART2020213
 
 > [!abstract]
 > The construction industry is growing exponentially day by day and it makes a remarkable contribution in escalating the pace of development of the nati

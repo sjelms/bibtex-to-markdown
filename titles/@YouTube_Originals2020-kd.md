@@ -1,6 +1,6 @@
 ---
 title: Will a robot take my job? | The Age of A.I. S1 • E6
-year: 2020
+year: Unknown Year
 author - 1: "[[YouTube Originals]]"
 key: "[[@YouTube_Originals2020-kd]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Originals, YouTube. 2020. “Will a robot take my job? | The Age of A.I. S1 • E6.” . https://youtu.be/f2aocKWrPG8
+> Originals, YouTube. Unknown Year. “Will a robot take my job? | The Age of A.I. S1 • E6.” . https://youtu.be/f2aocKWrPG8

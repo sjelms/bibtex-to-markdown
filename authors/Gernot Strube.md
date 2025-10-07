@@ -1,6 +1,6 @@
 ---
 author: "Gernot Strube"
-institution: "McKinsey and Company"
+institution:
 field:
 type:
 aliases:
@@ -11,10 +11,7 @@ aliases:
 
 ### Content:
 [[@Bertram2019-rb|Modular Construction]]
-[[@Ribeirinho2020-mq|The Next Normal In Construction]]
 
 #### Bibliography:
 
 ![[@Bertram2019-rb]]
-
-![[@Ribeirinho2020-mq]]

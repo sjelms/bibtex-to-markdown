@@ -1,6 +1,6 @@
 ---
 title: Under Construction -  Work and Alienation in the Building Trades
-year: 1986
+year: Unknown Year
 author - 1: "[[Marc L Silver]]"
 key: "[[@Silver1986-dj]]"
 aliases:
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Silver, Marc L. 1986. “Under Construction -  Work and Alienation in the Building Trades.” "[[State University of New York Press]]"
+> Silver, Marc L. Unknown Year. “Under Construction -  Work and Alienation in the Building Trades.” "[[State University of New York Press]]"

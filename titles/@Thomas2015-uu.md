@@ -1,6 +1,6 @@
 ---
 title: The Anatomy of the Case Study
-year: 2015
+year: Unknown Year
 author - 1: "[[Gary Thomas]]"
 author - 2: "[[Kevin Myers]]"
 key: "[[@Thomas2015-uu]]"
@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Thomas, Gary, Kevin Myers. 2015. “The Anatomy of the Case Study.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781473920156
+> Thomas, Gary, Kevin Myers. Unknown Year. “The Anatomy of the Case Study.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781473920156

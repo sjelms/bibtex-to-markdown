@@ -1,6 +1,6 @@
 ---
 title: Rethinking Transfer -  a Simple Proposal With Multiple Implications
-year: 1999
+year: Unknown Year
 author - 1: "[[John D Bransford]]"
 author - 2: "[[Daniel L Schwartz]]"
 editor - 1: "[[A Iran-Nejad]]"
@@ -9,7 +9,6 @@ key: "[[@Bransford1999-ta]]"
 aliases:
   - Rethinking Transfer - A Simple Proposal With Multiple Implications
   - Rethinking Transfer
-journal: "[[American Educational Research Association]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
@@ -20,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bransford, John D, Daniel L Schwartz. 1999. “Rethinking Transfer -  a Simple Proposal With Multiple Implications.”
+> Bransford, John D, Daniel L Schwartz. Unknown Year. “Rethinking Transfer -  a Simple Proposal With Multiple Implications.”

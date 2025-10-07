@@ -1,6 +1,6 @@
 ---
 title: Environmental Lobbyist in California’s Capital, 1965–1984
-year: 1988
+year: Unknown Year
 author - 1: "[[John Zierold]]"
 key: "[[@Zierold1988-ae]]"
 aliases:
@@ -12,4 +12,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zierold, John. 1988. “Environmental Lobbyist in California’s Capital, 1965–1984.” "[[Regional Oral History Office]]"
+> Zierold, John. Unknown Year. “Environmental Lobbyist in California’s Capital, 1965–1984.” "[[Regional Oral History Office]]"

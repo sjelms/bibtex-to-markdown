@@ -1,12 +1,11 @@
 ---
 title: Find Out if Your Job Will Be Automated
-year: 2017
+year: Unknown Year
 author - 1: "[[Mark Whitehouse]]"
 author - 2: "[[Mira Rojanasakul]]"
 key: "[[@Whitehouse2017-pq]]"
 aliases:
   - Find Out If Your Job Will Be Automated
-journal: "[[Bloomberg]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
@@ -16,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Whitehouse, Mark, Mira Rojanasakul. 2017. “Find Out if Your Job Will Be Automated.” . https://www.bloomberg.com/graphics/2017-job-risk/
+> Whitehouse, Mark, Mira Rojanasakul. Unknown Year. “Find Out if Your Job Will Be Automated.” . https://www.bloomberg.com/graphics/2017-job-risk/

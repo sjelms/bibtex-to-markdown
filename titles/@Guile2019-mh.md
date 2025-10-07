@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry
-year: 2019
+year: Unknown Year
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"
 editor - 1: "[[David Guile]]"
@@ -28,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Guile, David, Lorna Unwin. 2019. “Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry.” "[[John Wiley and Sons]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch1
+> Guile, David, Lorna Unwin. Unknown Year. “Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry.” "[[John Wiley and Sons]]". https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch1

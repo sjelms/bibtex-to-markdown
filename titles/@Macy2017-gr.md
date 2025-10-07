@@ -1,6 +1,6 @@
 ---
 title: Factory Man -  How One Furniture Maker Battled Offshoring, Stayed Local – and Helped Save an American Town
-year: 2017
+year: Unknown Year
 author - 1: "[[Beth Macy]]"
 key: "[[@Macy2017-gr]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Macy, Beth. 2017. “Factory Man -  How One Furniture Maker Battled Offshoring, Stayed Local – and Helped Save an American Town.” "[[Picador]]"
+> Macy, Beth. Unknown Year. “Factory Man -  How One Furniture Maker Battled Offshoring, Stayed Local – and Helped Save an American Town.” "[[Picador]]"

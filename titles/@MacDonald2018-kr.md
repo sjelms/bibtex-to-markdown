@@ -1,6 +1,6 @@
 ---
 title: Active Learning Methods and the Development of Expertise
-year: 2018
+year: Unknown Year
 author - 1: "[[Joel MacDonald]]"
 key: "[[@MacDonald2018-kr]]"
 aliases:
@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> MacDonald, Joel. 2018. “Active Learning Methods and the Development of Expertise.” . https://medium.com/upeielo/active-learning-methods-and-the-development-of-expertis-676656cd33f2
+> MacDonald, Joel. Unknown Year. “Active Learning Methods and the Development of Expertise.” . https://medium.com/upeielo/active-learning-methods-and-the-development-of-expertis-676656cd33f2

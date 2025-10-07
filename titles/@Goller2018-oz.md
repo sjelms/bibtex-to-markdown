@@ -1,6 +1,6 @@
 ---
 title: Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home
-year: 2018
+year: Unknown Year
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Bianca Steffen]]"
 author - 3: "[[Christian Harteis]]"
@@ -8,7 +8,6 @@ key: "[[@Goller2018-oz]]"
 aliases:
   - Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home
   - Becoming A Nurse Aide
-journal: "[[Vocations and Learning]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Goller, Michael, Bianca Steffen, Christian Harteis. 2018. “Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home.” . http://dx.doi.org/10.1007/s12186-018-9209-z
+> Goller, Michael, Bianca Steffen, Christian Harteis. Unknown Year. “Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home.” . http://dx.doi.org/10.1007/s12186-018-9209-z

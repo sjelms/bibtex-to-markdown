@@ -1,6 +1,6 @@
 ---
 title: How to Know Whether and When to Use Case Studies as a Research Method
-year: 2013
+year: Unknown Year
 author - 1: "[[Robert K Yin]]"
 key: "[[@Yin2013-ej]]"
 aliases:
@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Yin, Robert K. 2013. “How to Know Whether and When to Use Case Studies as a Research Method.” "[[SAGE Publications]]". https://www.sagepub.com/sites/default/files/upm-binaries/24735_Chapter1.pdf
+> Yin, Robert K. Unknown Year. “How to Know Whether and When to Use Case Studies as a Research Method.” "[[SAGE Publications]]". https://www.sagepub.com/sites/default/files/upm-binaries/24735_Chapter1.pdf

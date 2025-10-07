@@ -1,12 +1,11 @@
 ---
 title: Design as learning—or “knowledge creation”—the SECI model
-year: 2011
+year: Unknown Year
 author - 1: "[[Hugh Dubberly]]"
 author - 2: "[[Shelley Evenson]]"
 key: "[[@Dubberly2011-yu]]"
 aliases:
   - Design As Learning—Or “knowledge Creation”—The Seci Model
-journal: "[[Interactions]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -23,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Dubberly, Hugh, Shelley Evenson. 2011. “Design as learning—or “knowledge creation”—the SECI model.” . http://dx.doi.org/10.1145/1897239.1897256
+> Dubberly, Hugh, Shelley Evenson. Unknown Year. “Design as learning—or “knowledge creation”—the SECI model.” . http://dx.doi.org/10.1145/1897239.1897256

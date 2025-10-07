@@ -1,6 +1,6 @@
 ---
 title: Why Most Economists' Predictions Are Wrong
-year: 1998
+year: Unknown Year
 author - 1: "[[Paul Krugman]]"
 key: "[[@Krugman1998-ue]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Krugman, Paul. 1998. “Why Most Economists' Predictions Are Wrong.” . https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html
+> Krugman, Paul. Unknown Year. “Why Most Economists' Predictions Are Wrong.” . https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html

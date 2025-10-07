@@ -1,6 +1,6 @@
 ---
 title: Activity Theory and Learning at Work
-year: 2013
+year: Unknown Year
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom2013-oq]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Engeström, Yrjö. 2013. “Activity Theory and Learning at Work.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n7
+> Engeström, Yrjö. Unknown Year. “Activity Theory and Learning at Work.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n7

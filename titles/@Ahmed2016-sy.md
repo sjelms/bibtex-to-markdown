@@ -1,6 +1,6 @@
 ---
 title: Getting Ready for Your Research -  Setting the Scene
-year: 2016
+year: Unknown Year
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"
 editor - 1: "[[Vian Ahmed]]"
@@ -28,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ahmed, Vian, Alex Opoku. 2016. “Getting Ready for Your Research -  Setting the Scene.” "[[Routledge]]". http://dx.doi.org/10.4324/9781315725529-2
+> Ahmed, Vian, Alex Opoku. Unknown Year. “Getting Ready for Your Research -  Setting the Scene.” "[[Routledge]]". http://dx.doi.org/10.4324/9781315725529-2

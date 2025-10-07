@@ -1,6 +1,6 @@
 ---
 title: The Future of Modular Architecture
-year: 2021
+year: Unknown Year
 author - 1: "[[David Wallance]]"
 key: "[[@Wallance2021-so]]"
 aliases:
@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wallance, David. 2021. “The Future of Modular Architecture.” "[[Routledge]]"
+> Wallance, David. Unknown Year. “The Future of Modular Architecture.” "[[Routledge]]"

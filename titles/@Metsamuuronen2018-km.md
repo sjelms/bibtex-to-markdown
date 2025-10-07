@@ -1,12 +1,11 @@
 ---
 title: Cognitive–Linguistic and Constructivist Mnemonic Triggers in Teaching Based on Jerome Bruner’s Thinking
-year: 2018
+year: Unknown Year
 author - 1: "[[Jari Metsämuuronen]]"
 author - 2: "[[Pekka Räsänen]]"
 key: "[[@Metsamuuronen2018-km]]"
 aliases:
   - Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking
-journal: "[[Frontiers in psychology]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -22,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Metsämuuronen, Jari, Pekka Räsänen. 2018. “Cognitive–Linguistic and Constructivist Mnemonic Triggers in Teaching Based on Jerome Bruner’s Thinking.” . http://dx.doi.org/10.3389/fpsyg.2018.02543
+> Metsämuuronen, Jari, Pekka Räsänen. Unknown Year. “Cognitive–Linguistic and Constructivist Mnemonic Triggers in Teaching Based on Jerome Bruner’s Thinking.” . http://dx.doi.org/10.3389/fpsyg.2018.02543

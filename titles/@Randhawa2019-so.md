@@ -1,12 +1,11 @@
 ---
 title: The role of artificial intelligence in learning and professional development for healthcare professionals
-year: 2019
+year: Unknown Year
 author - 1: "[[Gurprit K Randhawa]]"
 author - 2: "[[Mary Jackson]]"
 key: "[[@Randhawa2019-so]]"
 aliases:
   - The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals
-journal: "[[Forum gestion des soins de sante Healthcare management forum]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Randhawa, Gurprit K, Mary Jackson. 2019. “The role of artificial intelligence in learning and professional development for healthcare professionals.” . http://dx.doi.org/10.1177/0840470419869032
+> Randhawa, Gurprit K, Mary Jackson. Unknown Year. “The role of artificial intelligence in learning and professional development for healthcare professionals.” . http://dx.doi.org/10.1177/0840470419869032
