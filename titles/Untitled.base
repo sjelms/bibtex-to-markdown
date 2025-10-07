@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "bibtex-to-markdown/titles"
+    order:
+      - file.name
+      - type
+      - title
