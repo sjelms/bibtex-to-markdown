@@ -276,7 +276,7 @@ bibliography = format_chicago_bibliography(
 
 ---
 
-## 8) Before/after micro-diff (illustrative)
+## 8. Before/after micro-diff (illustrative)
 
 **Before**
 
@@ -313,7 +313,7 @@ for key, entry in bib_data.entries.items():
 
 ---
 
-## 9) Notes on editors & your citation style
+## 9. Notes on editors & your citation style
 
 - Keep editors in YAML as individual links; in your rendered bibliography line you can show:
   `Pedro Rodrigues de Almeida and Michael Bühler (Eds.)`
@@ -321,7 +321,7 @@ for key, entry in bib_data.entries.items():
 
 ---
 
-## 10) Summary
+## 10. Summary
 
 - Swap parser: **`bibtexparser` → `pybtex`**.
 - Add a tiny ISO-date helper and structured people formatter.
