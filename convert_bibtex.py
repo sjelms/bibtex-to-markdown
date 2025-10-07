@@ -303,10 +303,14 @@ for key, entry in bib_data.entries.items():
 
     raw_title_value = latex_to_unicode(get_field(fields, "title", "maintitle") or "Untitled")
     title = clean_text(raw_title_value, is_yaml=True)
+    raw_booktitle_value = latex_to_unicode(get_field(fields, "booktitle"))
+    booktitle = clean_text(raw_booktitle_value, is_yaml=True) if raw_booktitle_value else ""
     iso_date = get_iso_date(fields)
     year_value = fields.get("year")
     year = str(year_value) if year_value else (iso_date[:4] if iso_date else "Unknown Year")
     year = re.sub(r"[{}]", "", year).strip()
+    entry_type = entry.type.lower() if entry.type else ""
+    entry_type = re.sub(r"[{}]", "", entry_type).strip()
 
     # Process authors (supports 'editor' as fallback for author field)
     formatted_authors = format_persons(authors_persons)
@@ -383,6 +387,8 @@ for key, entry in bib_data.entries.items():
             yaml_lines.append(f'editor - {i}: "{editor}"')
 
     yaml_lines.append(f'key: "[[@{key}]]"')
+    if booktitle:
+        yaml_lines.append(f"booktitle: {booktitle}")
 
     # Add aliases for the citation: full title and optional short title
     if title_aliases:
@@ -397,6 +403,9 @@ for key, entry in bib_data.entries.items():
         yaml_lines.append(f"journal: {journal}")
     if publisher is not None:
         yaml_lines.append(f"publisher: {publisher}")
+
+    if entry_type:
+        yaml_lines.append(f'type: "[[@{entry_type}]]"')
 
     yaml_lines.append("tags:")
     for tag in keyword_tags:
