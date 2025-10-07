@@ -1,11 +1,11 @@
-# 🧭 technical.md — Migrate BibTeX → BibLaTeX using **pybtex** (CI-safe)
+# 🧭 Migrate BibTeX → BibLaTeX using **pybtex** (CI-safe)
 
 This document describes how to migrate your GitHub-Actions pipeline and `convert_bibtex.py` script from classic **BibTeX** (via `bibtexparser`) to **BibLaTeX** (via `pybtex`).  
 It preserves your workflow (reference manager → Git push → CI generates Markdown → Obsidian sync) while adding modern fields (ISO dates, editors, org authors, media types) and better Unicode handling.
 
 ---
 
-## 0) Goals & outcomes
+## 0. Goals & outcomes
 
 - Parse **BibLaTeX** `.bib` files natively (still accepts BibTeX).
 - Use **structured people parsing** (authors, editors, institutions).
@@ -15,7 +15,7 @@ It preserves your workflow (reference manager → Git push → CI generates Mark
 
 ---
 
-## 1) Update GitHub Actions workflow (CI)
+## 1. Update GitHub Actions workflow (CI)
 
 Edit `.github/workflows/<your-workflow>.yml` so the runner installs `pybtex` and runs your converter.
 
@@ -61,7 +61,7 @@ jobs:
 
 ---
 
-## 2) Minimal refactor of `convert_bibtex.py`
+## 2. Minimal refactor of `convert_bibtex.py`
 
 ### 2.1 Replace imports
 
@@ -203,7 +203,7 @@ else:
 
 ---
 
-## 3) Field mapping (what you gain automatically)
+## 3. Field mapping (what you gain automatically)
 
 | Concept                          | BibTeX (old)                   | BibLaTeX (new)               | Access in code                                           |
 |----------------------------------|--------------------------------|------------------------------|----------------------------------------------------------|
@@ -217,7 +217,7 @@ else:
 
 ---
 
-## 4) Keep existing helpers (with small tweaks)
+## 4. Keep existing helpers (with small tweaks)
 
 - **`clean_text()`**: keep it for YAML safety, but apply **after** `latex_to_unicode()` when you’re going to display text (title, publisher, abstract).
 - **`normalize_entity_name()`**: keep; great for Obsidian page names.
@@ -237,7 +237,7 @@ bibliography = format_chicago_bibliography(
 
 ---
 
-## 5) Optional enhancements
+## 5. Optional enhancements
 
 - Add `type:` to YAML for downstream processing:
   ```python
@@ -251,7 +251,7 @@ bibliography = format_chicago_bibliography(
 
 ---
 
-## 6) Testing checklist (CI + output)
+## 6. Testing checklist (CI + output)
 
 1. Create a **test branch**: `git checkout -b pybtex-migration`.
 2. Commit the workflow and script changes; push; confirm the Action runs.
@@ -265,7 +265,7 @@ bibliography = format_chicago_bibliography(
 
 ---
 
-## 7) Rollback & dual-compat safety
+## 7. Rollback & dual-compat safety
 
 - Keep a fallback branch using `bibtexparser`.
 - During transition, you can keep **both** `date:` and `year:` in YAML to avoid downstream breakage.
