@@ -4,6 +4,7 @@ year: Unknown Year
 author - 1: "[[Amy L Baylor]]"
 author - 2: "[[Yanghee Kim]]"
 key: "[[@Baylor2005-hh]]"
+type: "[[@article]]" 
 aliases:
   - Simulating Instructional Roles Through Pedagogical Agents
 publisher: "[[IOS Press]]"
