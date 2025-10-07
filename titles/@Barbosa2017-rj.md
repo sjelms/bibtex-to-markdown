@@ -13,6 +13,7 @@ key: "[[@Barbosa2017-rj]]"
 aliases:
   - Reinventing Construction Through A Productivity Revolution
 institution: "[[McKinsey Global Institute]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -30,4 +31,4 @@ tags:
 ---
 
 > [!bibliography]
-> Barbosa, Filipe, Jonathan Woetzel, Jan Mischke, Maria João Ribeirinho, Mukund Sridhar, Matthew Parsons, Nick Bertram, Stephanie Brown. 2017. “Reinventing construction through a productivity revolution.” . https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution
+> Barbosa, Filipe, Jonathan Woetzel, Jan Mischke, Maria João Ribeirinho, Mukund Sridhar, Matthew Parsons, Nick Bertram, Stephanie Brown. 2017. “Reinventing construction through a productivity revolution.” [[McKinsey Global Institute]]. https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution

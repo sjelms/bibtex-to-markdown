@@ -1,16 +1,18 @@
 ---
 title: Getting Ready for Your Research -  Setting the Scene
-year: Unknown Year
+year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"
 editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Ahmed2016-sy]]"
+booktitle: Research Methodology in the Built Environment
 aliases:
   - Getting Ready For Your Research - Setting The Scene
   - Getting Ready For Your Research
 publisher: "[[Routledge]]"
+type: "[[@inbook]]"
 tags:
   - Research-Methodology-in-the-Built-Environment---A-Selection-of-Case-Studies
   - Reviewed-on-Theory
@@ -28,4 +30,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ahmed, Vian, Alex Opoku. Unknown Year. “Getting Ready for Your Research -  Setting the Scene.” "[[Routledge]]". http://dx.doi.org/10.4324/9781315725529-2
+> Ahmed, Vian, Alex Opoku. 2016. “Getting Ready for Your Research: Setting the Scene.” [[Routledge]]. http://dx.doi.org/10.4324/9781315725529-2

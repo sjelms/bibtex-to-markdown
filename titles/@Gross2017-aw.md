@@ -8,6 +8,7 @@ aliases:
   - Scale Versus Scope In The Diffusion Of New Technology
 institution: "[[National Bureau of Economic Research]]"
 publisher: "[[National Bureau of Economic Research]]"
+type: "[[@report]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Gross, Daniel. 2017. “Scale versus scope in the diffusion of new technology -  Evidence from the farm tractor.” "[[National Bureau of Economic Research]]". http://www.nber.org/papers/w24125.pdf
+> Gross, Daniel. 2017. “Scale versus scope in the diffusion of new technology: Evidence from the farm tractor.” [[National Bureau of Economic Research]]. http://www.nber.org/papers/w24125.pdf

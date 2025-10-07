@@ -10,7 +10,7 @@ aliases:
 ## Aaron Morby
 
 ### Content:
-[[@Morby2022-bu|Construction Forecast To Fall By Nearly 4\% Next Year]]
+[[@Morby2022-bu|Construction Forecast To Fall By Nearly 4% Next Year]]
 
 #### Bibliography:
 

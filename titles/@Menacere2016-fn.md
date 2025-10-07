@@ -1,15 +1,17 @@
 ---
 title: When More Does Not Mean Better -  Selecting a Research Methodology and Methods
-year: Unknown Year
+year: 2016
 author - 1: "[[Karim Ménacère]]"
 editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Menacere2016-fn]]"
+booktitle: Research Methodology in the Built Environment
 aliases:
   - When More Does Not Mean Better - Selecting A Research Methodology And Methods
   - When More Does Not Mean Better
 publisher: "[[Routledge]]"
+type: "[[@inbook]]"
 tags:
   - Research-Methodology-in-the-Built-Environment---A-Selection-of-Case-Studies
   - Reviewed-on-Theory
@@ -26,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ménacère, Karim. Unknown Year. “When More Does Not Mean Better -  Selecting a Research Methodology and Methods.” "[[Routledge]]"
+> Ménacère, Karim. 2016. “When More Does Not Mean Better: Selecting a Research Methodology and Methods.” [[Routledge]]. https://doi.org/10.4324/9781315725529-3

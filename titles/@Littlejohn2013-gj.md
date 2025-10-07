@@ -1,6 +1,6 @@
 ---
 title: Technology-enhanced Professional Learning -  Processes, Practices, and Tools
-year: Unknown Year
+year: 2013
 author - 1: "[[Allison Littlejohn]]"
 author - 2: "[[Anoush Margaryan]]"
 editor - 1: "[[Allison Littlejohn]]"
@@ -10,10 +10,11 @@ aliases:
   - Technology-Enhanced Professional Learning - Processes, Practices, And Tools
   - Technology-Enhanced Professional Learning
 publisher: "[[Routledge]]"
+type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - UCL
 ---
 
 > [!bibliography]
-> Littlejohn, Allison, Anoush Margaryan. Unknown Year. “Technology-enhanced Professional Learning -  Processes, Practices, and Tools.” "[[Routledge]]"
+> Littlejohn, Allison, Anoush Margaryan. 2013. “Technology-enhanced Professional Learning: Processes, Practices, and Tools.” [[Routledge]]

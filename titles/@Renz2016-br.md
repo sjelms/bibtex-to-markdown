@@ -11,6 +11,7 @@ aliases:
   - Shaping The Future Of Construction
 institution: "[[World Economic Forum]]"
 publisher: "[[World Economic Forum]]"
+type: "[[@report]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Deloitte---McKinsey---EY---PWC
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Renz, Andreas, Manuel Zafra Solas. 2016. “Shaping the Future of Construction -  A Breakthrough in Mindset and Technology.” "[[World Economic Forum]]"
+> Renz, Andreas, Manuel Zafra Solas. 2016. “Shaping the Future of Construction: A Breakthrough in Mindset and Technology.” [[World Economic Forum]]

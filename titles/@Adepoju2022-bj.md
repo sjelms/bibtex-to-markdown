@@ -1,6 +1,6 @@
 ---
 title: Re-skilling Human Resources for Construction 4.0 -  Implications for Industry, Academia and Government
-year: Unknown Year
+year: 2022
 author - 1: "[[Omoseni Adepoju]]"
 author - 2: "[[Clinton Aigbavboa]]"
 author - 3: "[[Nnamdi Nwulu]]"
@@ -10,6 +10,7 @@ aliases:
   - Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government
   - Re-Skilling Human Resources For Construction 4.0
 publisher: "[[Springer Nature]]"
+type: "[[@book]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
@@ -27,7 +28,7 @@ tags:
 ---
 
 > [!bibliography]
-> Adepoju, Omoseni, Clinton Aigbavboa, Nnamdi Nwulu, Michael Onyia. Unknown Year. “Re-skilling Human Resources for Construction 4.0 -  Implications for Industry, Academia and Government.” "[[Springer Nature]]". https://link.springer.com/book/10.1007/978-3-030-85973-2
+> Adepoju, Omoseni, Clinton Aigbavboa, Nnamdi Nwulu, Michael Onyia. 2022. “Re-skilling Human Resources for Construction 4.0: Implications for Industry, Academia and Government.” [[Springer Nature]]. https://link.springer.com/book/10.1007/978-3-030-85973-2
 
 > [!abstract]
 > This book examines the burgeoning revolution in the construction industry known as Construction 4.0, the attendant need for re-skilling human resources, and key stakeholders' roles in developing the required skills for Construction 4.0. It views the lack of 21st-century skills and skills gap in the industry as significant challenges limiting the uptake and implementation of Construction 4.0 technologies, especially in developing countries. In order to determine the skills required, this book examines the critical technologies of Construction 4.0, such as building information modelling (BIM), robotic construction, 3D printing and drones, which have transformed the construction industry, thereby creating digital, intelligent and sustainable construction solutions. Furthermore, the book considers the benefits, risks and relevant skills required to implement Construction 4.0 technologies.

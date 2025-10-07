@@ -1,6 +1,6 @@
 ---
 title: Monthly New Residential Construction, June 2021
-year: Unknown Year
+year: 2021
 author - 1: "[[United States Census Bureau]]"
 author - 2: "[[Cheryl Cornish]]"
 author - 3: "[[Stephen Cooper]]"
@@ -9,6 +9,7 @@ key: "[[@United-States-Census-Bureau2021-zk]]"
 aliases:
   - Monthly New Residential Construction, June 2021
 publisher: "[[United States Census Bureau]]"
+type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -18,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bureau, United States Census, Cheryl Cornish, Stephen Cooper, Salima Jenkins. Unknown Year. “Monthly New Residential Construction, June 2021.” "[[United States Census Bureau]]". https://www.census.gov/construction/nrc/index.html
+> Bureau, United States Census, Cheryl Cornish, Stephen Cooper, Salima Jenkins. 2021. “Monthly New Residential Construction, June 2021.” [[United States Census Bureau]]. https://www.census.gov/construction/nrc/index.html

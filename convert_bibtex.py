@@ -1,7 +1,19 @@
 import os
 import re
 import argparse
-import bibtexparser
+from pybtex.database import parse_file
+import latexcodec
+
+def latex_to_unicode(text):
+    """Convert LaTeX encoded text to Unicode using latexcodec."""
+    if not text:
+        return ""
+    try:
+        # Convert string to bytes, then decode using latex+utf8 codec
+        return str(text).encode().decode('latex+utf8')
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        # Fallback to original text if decoding fails
+        return str(text)
 
 # Define file paths
 BIBTEX_FILE = "main.bib"
@@ -17,6 +29,74 @@ os.makedirs(PUBLISHERS_DIR, exist_ok=True)
 # Dictionary to track authors and their metadata
 author_metadata = {}  # Will store citations, institutions, and other fields
 entity_metadata = {}  # Will store publisher/journal pages and their citations
+
+MONTH_MAP = {
+    "jan": "01",
+    "feb": "02",
+    "mar": "03",
+    "apr": "04",
+    "may": "05",
+    "jun": "06",
+    "jul": "07",
+    "aug": "08",
+    "sep": "09",
+    "oct": "10",
+    "nov": "11",
+    "dec": "12",
+}
+
+
+def get_field(fields, *names, default=""):
+    """Return the first non-empty field value among names."""
+    for n in names:
+        value = fields.get(n)
+        if value:
+            return value
+    return default
+
+
+def normalize_month(value):
+    """Convert BibLaTeX month formats (textual or numeric) to MM."""
+    if not value:
+        return ""
+    value = value.strip()
+    lower = value.lower()
+    if lower in MONTH_MAP:
+        return MONTH_MAP[lower]
+    if lower.isdigit():
+        return lower.zfill(2)
+    # BibLaTeX may wrap the month in braces or quotes
+    cleaned = re.sub(r"[{}]", "", value)
+    if cleaned.lower() in MONTH_MAP:
+        return MONTH_MAP[cleaned.lower()]
+    if cleaned.isdigit():
+        return cleaned.zfill(2)
+    return ""
+
+
+def get_iso_date(fields):
+    """
+    Prefer the BibLaTeX 'date' field (YYYY, YYYY-MM, YYYY-MM-DD).
+    Fallback to 'year' + optional 'month'/'day'.
+    """
+    date_value = fields.get("date")
+    if date_value:
+        return date_value
+
+    year = fields.get("year")
+    if not year:
+        return ""
+    month = normalize_month(fields.get("month", ""))
+    day = fields.get("day")
+    day_str = ""
+    if day and str(day).isdigit():
+        day_str = str(day).zfill(2)
+
+    if month and day_str:
+        return f"{year}-{month}-{day_str}"
+    if month:
+        return f"{year}-{month}"
+    return str(year)
 
 def get_safe_filename(name):
     # Remove wiki-link brackets
@@ -129,9 +209,8 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-# Load the BibTeX file
-with open(BIBTEX_FILE, "r", encoding="utf-8") as bibfile:
-    bib_database = bibtexparser.load(bibfile)
+# Load the BibLaTeX/BibTeX database
+bib_data = parse_file(BIBTEX_FILE)
 
 # Function to clean up text (removes braces, ensures correct formatting)
 def clean_text(text, is_yaml=False):
@@ -160,51 +239,34 @@ def clean_text(text, is_yaml=False):
         
     return text.strip()
 
-# Function to correctly parse authors while keeping institutions together
-def format_authors(raw_authors):
-    if not raw_authors:
-        return ["Unknown Author"]
+def format_persons(persons):
+    """Convert pybtex Person objects to Obsidian-style wiki links."""
+    if not persons:
+        return []
 
-    # Clean up newlines and extra spaces in the raw authors string
-    raw_authors = " ".join(raw_authors.split())
+    formatted = []
+    for person in persons:
+        first_parts = person.first_names + person.middle_names + person.prelast_names
+        last_parts = person.last_names
+        lineage_parts = person.lineage_names
 
-    # Identify institutions inside `{}` and preserve them
-    protected_authors = re.findall(r"\{.*?\}", raw_authors)  # Find `{}` enclosed text
-    temp_replacement = "INSTITUTION_PLACEHOLDER"
-    temp_authors = re.sub(r"\{.*?\}", temp_replacement, raw_authors)  # Temporarily replace institutions
+        first = " ".join(latex_to_unicode(part) for part in first_parts if part).strip()
+        last = " ".join(latex_to_unicode(part) for part in last_parts if part).strip()
+        lineage = " ".join(latex_to_unicode(part) for part in lineage_parts if part).strip()
 
-    # Split on ` and ` that is outside `{}` to separate personal names
-    authors_list = []
-    for author in temp_authors.split(" and "):
-        author = author.strip()
-        # If author contains multiple names (like "Hastak, Makarand and LaScola Needy, Kim")
-        if " and " in author.lower():  # Case insensitive check
-            # Split these into separate authors
-            sub_authors = [a.strip() for a in author.split(" and ")]
-            authors_list.extend(sub_authors)
+        name_fragments = [fragment for fragment in (first, last, lineage) if fragment]
+        if name_fragments:
+            name = " ".join(name_fragments)
         else:
-            authors_list.append(author)
+            text = latex_to_unicode(person.text or "").strip()
+            name = text if text else "Unknown Author"
 
-    # Restore institution names in their correct positions
-    for i, author in enumerate(authors_list):
-        if temp_replacement in author:
-            authors_list[i] = protected_authors.pop(0)
+        # Remove lingering braces and collapse whitespace
+        name = re.sub(r"[{}]", "", name)
+        name = re.sub(r"\s+", " ", name).strip()
+        formatted.append(f"[[{name or 'Unknown Author'}]]")
 
-    formatted_authors = []
-    for name in authors_list:
-        name = clean_text(name)  # Remove `{}` after processing
-
-        # Handle author names in "Last, First" format
-        if "," in name and not name.startswith("{"):
-            name_parts = name.split(", ")
-            if len(name_parts) == 2:
-                formatted_authors.append(f"[[{name_parts[1]} {name_parts[0]}]]")
-            else:
-                formatted_authors.append(f"[[{name}]]")  # Keep institutions unchanged
-        else:
-            formatted_authors.append(f"[[{name}]]")  # Keep as is if no comma found
-
-    return formatted_authors
+    return formatted
 
 # Function to format bibliography in Chicago 17th Edition
 def format_chicago_bibliography(authors, year, title, publisher, url):
@@ -238,46 +300,85 @@ def process_keywords(keyword_str):
             cleaned_keywords.append(kw)
     return cleaned_keywords
 
-# Process each entry in BibTeX
+# Process each entry in BibLaTeX/BibTeX source
 processed_count = 0
-for entry in bib_database.entries:
+for key, entry in bib_data.entries.items():
+    fields = entry.fields
+
+    authors_persons = entry.persons.get("author", [])
+    editors_persons = entry.persons.get("editor", [])
+
     # Optionally restrict to entries that include editors
-    if args.only_with_editors and not entry.get("editor"):
+    if args.only_with_editors and not editors_persons:
         continue
-    key = entry.get("ID", "unknown_key")
-    raw_title = entry.get("title", "Untitled")
-    title = clean_text(raw_title, is_yaml=True)
-    year = entry.get("year", "Unknown Year")
+
+    raw_title_value = latex_to_unicode(get_field(fields, "title", "maintitle") or "Untitled")
+    title = clean_text(raw_title_value, is_yaml=True)
+    raw_booktitle_value = latex_to_unicode(get_field(fields, "booktitle"))
+    booktitle = clean_text(raw_booktitle_value, is_yaml=True) if raw_booktitle_value else ""
+    iso_date = get_iso_date(fields)
+    year_value = fields.get("year")
+    year = str(year_value) if year_value else (iso_date[:4] if iso_date else "Unknown Year")
+    year = re.sub(r"[{}]", "", year).strip()
+    entry_type = entry.type.lower() if entry.type else ""
+    entry_type = re.sub(r"[{}]", "", entry_type).strip()
 
     # Process authors (supports 'editor' as fallback for author field)
-    raw_authors = entry.get("author", entry.get("editor", "Unknown Author"))
-    formatted_authors = format_authors(raw_authors)
+    formatted_authors = format_persons(authors_persons)
+    if not formatted_authors:
+        formatted_authors = format_persons(editors_persons)
+    if not formatted_authors:
+        formatted_authors = ["[[Unknown Author]]"]
 
     # Process editors separately; include only if present
-    raw_editors = entry.get("editor")
-    formatted_editors = format_authors(raw_editors) if raw_editors else []
+    formatted_editors = format_persons(editors_persons)
 
-    # Get other fields and wrap them in [[ ]] and QUOTES, only if they exist
-    institution = f'"[[{clean_text(entry.get("institution", ""), is_yaml=True)}]]"' if entry.get("institution") and entry.get("institution").strip() else None
-    # Normalize publisher/journal names for linking and filenames
-    raw_publisher = entry.get("publisher", "")
-    raw_journal = entry.get("journal", "")
-    norm_publisher = normalize_entity_name(raw_publisher) if raw_publisher and raw_publisher.strip() else ""
-    norm_journal = normalize_entity_name(raw_journal) if raw_journal and raw_journal.strip() else ""
-    publisher = f'"[[{norm_publisher}]]"' if norm_publisher else None
-    journal = f'"[[{norm_journal}]]"' if norm_journal else None
+    # Get other fields and wrap them in [[ ]] and quotes, only if they exist
+    raw_institution = latex_to_unicode(get_field(fields, "institution", "organization"))
+    institution_clean = clean_text(raw_institution, is_yaml=True) if raw_institution else ""
+    institution_link = f"[[{institution_clean}]]" if institution_clean else ""
+    institution = f'"{institution_link}"' if institution_link else None
+
+    raw_publisher = latex_to_unicode(get_field(fields, "publisher"))
+    raw_journal = latex_to_unicode(get_field(fields, "journaltitle", "journal"))
+    norm_publisher = normalize_entity_name(raw_publisher) if raw_publisher else ""
+    norm_journal = normalize_entity_name(raw_journal) if raw_journal else ""
+    publisher_link = f"[[{norm_publisher}]]" if norm_publisher else ""
+    journal_link = f"[[{norm_journal}]]" if norm_journal else ""
+    publisher = f'"{publisher_link}"' if publisher_link else None
+    journal = f'"{journal_link}"' if journal_link else None
 
     # Process keywords into valid YAML tags
-    keyword_tags = process_keywords(entry.get("keywords", ""))
+    keyword_tags = process_keywords(latex_to_unicode(get_field(fields, "keywords")))
 
     # Extract abstract and clean it (not YAML, so preserve original characters)
-    abstract = clean_text(entry.get("abstract", ""), is_yaml=False)
+    abstract_raw = latex_to_unicode(get_field(fields, "abstract"))
+    abstract = clean_text(abstract_raw, is_yaml=False)
 
-    # Format bibliography
-    bibliography = format_chicago_bibliography(formatted_authors, year, title, publisher, entry.get("url", ""))
+    # Choose publisher/journal/institution for bibliography display
+    bibliography_source = ""
+    if publisher_link:
+        bibliography_source = publisher_link
+    elif journal_link:
+        bibliography_source = journal_link
+    elif institution_link:
+        bibliography_source = institution_link
+
+    url = get_field(fields, "url")
+    doi = get_field(fields, "doi")
+    if not url and doi:
+        url = f"https://doi.org/{doi}"
+
+    bibliography = format_chicago_bibliography(
+        formatted_authors,
+        year,
+        raw_title_value,
+        bibliography_source,
+        url or "",
+    )
 
     # Build title aliases for citation YAML
-    title_aliases = extract_title_aliases(raw_title)
+    title_aliases = extract_title_aliases(raw_title_value)
     # Choose display alias for author MOC: prefer short if present
     display_alias = title_aliases[1] if len(title_aliases) > 1 else (title_aliases[0] if title_aliases else title)
 
@@ -297,6 +398,8 @@ for entry in bib_database.entries:
             yaml_lines.append(f'editor - {i}: "{editor}"')
 
     yaml_lines.append(f'key: "[[@{key}]]"')
+    if booktitle:
+        yaml_lines.append(f"booktitle: {booktitle}")
 
     # Add aliases for the citation: full title and optional short title
     if title_aliases:
@@ -311,6 +414,9 @@ for entry in bib_database.entries:
         yaml_lines.append(f"journal: {journal}")
     if publisher is not None:
         yaml_lines.append(f"publisher: {publisher}")
+
+    if entry_type:
+        yaml_lines.append(f'type: "[[@{entry_type}]]"')
 
     yaml_lines.append("tags:")
     for tag in keyword_tags:
@@ -349,7 +455,7 @@ for entry in bib_database.entries:
             md_file.write(markdown_content.strip())
 
     processed_count += 1
-    
+
     # Track citations and metadata for each author (include editors too)
     for author in formatted_authors:
         clean_author = author.replace("[[", "").replace("]]", "")
@@ -362,7 +468,7 @@ for entry in bib_database.entries:
             }
         author_metadata[clean_author]['citations'].append(key)
         author_metadata[clean_author]['moc_display'][key] = display_alias
-        
+
         # Track institution if available
         if institution:
             inst = institution.replace('"[[', '').replace(']]"', '')
@@ -406,7 +512,7 @@ if not args.only_with_editors and not args.no_author_files:
         # Create author file content
         author_yaml = [
             "---",
-            f'author: "{author}"'  # author already has [[ ]] from format_authors()
+            f'author: "{author}"'  # author already has [[ ]] from format_persons()
         ]
 
         # Add institutions if any

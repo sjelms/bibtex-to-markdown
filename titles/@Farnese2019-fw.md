@@ -1,6 +1,6 @@
 ---
 title: Managing Knowledge in Organizations -  A Nonaka’s SECI Model Operationalization
-year: Unknown Year
+year: 2019
 author - 1: "[[Maria Luisa Farnese]]"
 author - 2: "[[Barbara Barbieri]]"
 author - 3: "[[Antonio Chirumbolo]]"
@@ -9,6 +9,8 @@ key: "[[@Farnese2019-fw]]"
 aliases:
   - Managing Knowledge In Organizations - A Nonaka’s Seci Model Operationalization
   - Managing Knowledge In Organizations
+journal: "[[Frontiers in psychology]]"
+type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -19,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Farnese, Maria Luisa, Barbara Barbieri, Antonio Chirumbolo, Gerardo Patriotta. Unknown Year. “Managing Knowledge in Organizations -  A Nonaka’s SECI Model Operationalization.” . https://www.frontiersin.org/article/10.3389/fpsyg.2019.02730/full
+> Farnese, Maria Luisa, Barbara Barbieri, Antonio Chirumbolo, Gerardo Patriotta. 2019. “Managing Knowledge in Organizations: A Nonaka’s {SECI} Model Operationalization.” [[Frontiers in psychology]]. https://www.frontiersin.org/article/10.3389/fpsyg.2019.02730/full

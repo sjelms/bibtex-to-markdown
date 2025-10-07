@@ -4,8 +4,10 @@ year: 2017
 author - 1: "[[Hannah Ritchie]]"
 author - 2: "[[Max Roser]]"
 key: "[[@Ritchie2017-jm]]"
+booktitle: Global Change Data Lab
 aliases:
   - Technology Adoption
+type: "[[@dataset]]"
 tags:
   - Data-Stats-Figures
   - 2_Upgrade-MAY-2023

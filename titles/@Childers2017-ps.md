@@ -1,11 +1,12 @@
 ---
 title: The riddle of the Sands
-year: Unknown Year
+year: 2017
 author - 1: "[[Erskine Childers]]"
 key: "[[@Childers2017-ps]]"
 aliases:
   - The Riddle Of The Sands
 publisher: "[[Macmillan Collector s Library]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Childers, Erskine. Unknown Year. “The riddle of the Sands.” "[[Macmillan Collector s Library]]"
+> Childers, Erskine. 2017. “The riddle of the Sands.” [[Macmillan Collector s Library]]

@@ -8,6 +8,7 @@ editor - 2: "[[Amelia Dicks]]"
 key: "[[@Watson2024-vl]]"
 aliases:
   - Wind River Built's Mission To Bring Back The Starter Home In Style With Modular Home Construction
+type: "[[@audio]]"
 tags:
   - _BibTex-to-MD-Git
   - Podcast

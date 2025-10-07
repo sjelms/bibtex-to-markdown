@@ -9,6 +9,7 @@ key: "[[@Ashraf2025-rf]]"
 aliases:
   - Meaning At Work
 publisher: "[[National Bureau of Economic Research]]"
+type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
   - Future-of-Work
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ashraf, Nava, Oriana Bandiera, Virginia Minni, Luigi Zingales. 2025. “Meaning At Work.” "[[National Bureau of Economic Research]]". http://dx.doi.org/10.3386/w33843
+> Ashraf, Nava, Oriana Bandiera, Virginia Minni, Luigi Zingales. 2025. “Meaning At Work.” [[National Bureau of Economic Research]]. http://dx.doi.org/10.3386/w33843

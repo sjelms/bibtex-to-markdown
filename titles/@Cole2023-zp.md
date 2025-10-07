@@ -7,6 +7,7 @@ key: "[[@Cole2023-zp]]"
 aliases:
   - Modular Labour Report 2023
 institution: "[[Make UK]]"
+type: "[[@report]]"
 tags:
   - Construction-4-0
   - 00_TO-READ
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cole, Steve, James Broun. 2023. “Modular Labour Report 2023.” . https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis
+> Cole, Steve, James Broun. 2023. “Modular Labour Report 2023.” [[Make UK]]. https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis

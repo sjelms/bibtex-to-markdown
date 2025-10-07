@@ -1,11 +1,13 @@
 ---
 title: Factors Affecting Construction Labor Productivity in Kuwait
-year: Unknown Year
+year: 2012
 author - 1: "[[Abdulaziz M Jarkas]]"
 author - 2: "[[Camille G Bitar]]"
 key: "[[@Jarkas2012-fy]]"
 aliases:
   - Factors Affecting Construction Labor Productivity In Kuwait
+journal: "[[Journal of Construction Engineering and Management]]"
+type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -16,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Jarkas, Abdulaziz M, Camille G Bitar. Unknown Year. “Factors Affecting Construction Labor Productivity in Kuwait.” . http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501
+> Jarkas, Abdulaziz M, Camille G Bitar. 2012. “Factors Affecting Construction Labor Productivity in Kuwait.” [[Journal of Construction Engineering and Management]]. http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501

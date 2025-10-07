@@ -10,7 +10,7 @@ aliases:
 ## Factory OS
 
 ### Content:
-[[@Factory_OS2020-jw|Factory\_os Joins Forces With Technology And Finance Leaders To Solve The Housing Crisis]]
+[[@Factory_OS2020-jw|Factory_os Joins Forces With Technology And Finance Leaders To Solve The Housing Crisis]]
 
 #### Bibliography:
 

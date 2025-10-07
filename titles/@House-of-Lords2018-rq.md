@@ -8,6 +8,7 @@ aliases:
   - Off-Site Manufacture For Construction
 institution: "[[Science and Technology Select Committee]]"
 publisher: "[[Parliament of the United Kingdom]]"
+type: "[[@report]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lords, House of. 2018. “Off-site Manufacture for Construction -  Building for Change.” "[[Parliament of the United Kingdom]]". https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm
+> Lords, House of. 2018. “Off-site Manufacture for Construction: Building for Change.” [[Parliament of the United Kingdom]]. https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm

@@ -1,6 +1,6 @@
 ---
 author: "Lorna Unwin"
-institution:
+institution: "Government Office for Science"
 field:
 type:
 aliases:
@@ -17,6 +17,9 @@ aliases:
 [[@Broad2019-rn|Capturing The Elusive]]
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 [[@Felstead2009-kt|Improving Working As Learning]]
+[[@Felstead2011-az|Praxis]]
+[[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
+[[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
@@ -25,7 +28,9 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
+[[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd]]
+[[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
@@ -34,6 +39,7 @@ aliases:
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (vet)]]
+[[@Lupton2018-ct|The Construction Challenge In Greater Manchester]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
@@ -56,6 +62,12 @@ aliases:
 
 ![[@Felstead2009-kt]]
 
+![[@Felstead2011-az]]
+
+![[@Felstead2016-ut]]
+
+![[@Fuller2003-fs]]
+
 ![[@Fuller2003-fy]]
 
 ![[@Fuller2003-gh]]
@@ -72,7 +84,11 @@ aliases:
 
 ![[@Fuller2014-ea]]
 
+![[@Fuller2015-wk]]
+
 ![[@Fuller2016-xl]]
+
+![[@Fuller2017-dj]]
 
 ![[@Fuller2019-zb]]
 
@@ -89,6 +105,8 @@ aliases:
 ![[@Guile2019-mh]]
 
 ![[@Hoeve2019-ip]]
+
+![[@Lupton2018-ct]]
 
 ![[@Pilz2019-py]]
 

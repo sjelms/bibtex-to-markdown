@@ -6,6 +6,7 @@ key: "[[@Barua2020-br]]"
 aliases:
   - The Construction Workforce - Growing Again, But Not Changing Much
   - The Construction Workforce
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Barua, Akrur. 2020. “The Construction Workforce -  Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html
+> Barua, Akrur. 2020. “The Construction Workforce: Growing Again, but Not Changing Much.” . https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html

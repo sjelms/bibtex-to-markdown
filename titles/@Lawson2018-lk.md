@@ -1,12 +1,13 @@
 ---
 title: The design student's journey -  Understanding how designers think
-year: Unknown Year
+year: 2018
 author - 1: "[[Bryan Lawson]]"
 key: "[[@Lawson2018-lk]]"
 aliases:
   - The Design Student's Journey - Understanding How Designers Think
   - The Design Student's Journey
 publisher: "[[Routledge]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lawson, Bryan. Unknown Year. “The design student's journey -  Understanding how designers think.” "[[Routledge]]". https://books.google.com/books?id=k2N8DwAAQBAJ&newbks=1
+> Lawson, Bryan. 2018. “The design student's journey: Understanding how designers think.” [[Routledge]]. https://books.google.com/books?id=k2N8DwAAQBAJ&newbks=1

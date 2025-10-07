@@ -1,10 +1,12 @@
 ---
 title: The Story Construction Tells About America’s Economy Is Disturbing
-year: Unknown Year
+year: 2023
 author - 1: "[[Ezra Klein]]"
 key: "[[@Klein2023-qs]]"
 aliases:
   - The Story Construction Tells About America’s Economy Is Disturbing
+journal: "[[The New York Times]]"
+type: "[[@misc]]"
 tags:
   - Abundance-–-How-We-Build-a-Better-Future-Footnotes
   - _BibTex-to-MD-Git
@@ -13,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Klein, Ezra. Unknown Year. “The Story Construction Tells About America’s Economy Is Disturbing.” . https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html
+> Klein, Ezra. 2023. “The Story Construction Tells About America’s Economy Is Disturbing.” [[The New York Times]]. https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html

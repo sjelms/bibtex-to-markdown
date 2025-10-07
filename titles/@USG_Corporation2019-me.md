@@ -8,6 +8,7 @@ key: "[[@USG_Corporation2019-me]]"
 aliases:
   - Q4 2019 Commercial Construction Index
 institution: "[[USG Corporation]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Corporation, USG, United States Chamber of Commerce, Dodge Data & Analytics. 2019. “Q4 2019 Commercial Construction Index.”
+> Corporation, USG, United States Chamber of Commerce, Dodge Data & Analytics. 2019. “{Q4} 2019 Commercial Construction Index.” [[USG Corporation]]

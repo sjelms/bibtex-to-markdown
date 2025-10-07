@@ -1,12 +1,13 @@
 ---
 title: The race between education and technology
-year: Unknown Year
+year: 2009
 author - 1: "[[Claudia Goldin]]"
 author - 2: "[[Lawrence F Katz]]"
 key: "[[@Goldin2009-sl]]"
 aliases:
   - The Race Between Education And Technology
 publisher: "[[Belknap Press]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Goldin, Claudia, Lawrence F Katz. Unknown Year. “The race between education and technology.” "[[Belknap Press]]"
+> Goldin, Claudia, Lawrence F Katz. 2009. “The race between education and technology.” [[Belknap Press]]

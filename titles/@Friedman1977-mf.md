@@ -1,12 +1,13 @@
 ---
 title: Industry and labour -  Class struggle at work and monopoly capitalism
-year: Unknown Year
+year: 1977
 author - 1: "[[Andrew L Friedman]]"
 key: "[[@Friedman1977-mf]]"
 aliases:
   - Industry And Labour - Class Struggle At Work And Monopoly Capitalism
   - Industry And Labour
 publisher: "[[Palgrave Macmillan]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Friedman, Andrew L. Unknown Year. “Industry and labour -  Class struggle at work and monopoly capitalism.” "[[Palgrave Macmillan]]". https://link.springer.com/book/10.1007/978-1-349-15845-4
+> Friedman, Andrew L. 1977. “Industry and labour: Class struggle at work and monopoly capitalism.” [[Palgrave Macmillan]]. https://link.springer.com/book/10.1007/978-1-349-15845-4

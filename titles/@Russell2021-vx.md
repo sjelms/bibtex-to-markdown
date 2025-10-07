@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence -  A Modern Approach
-year: Unknown Year
+year: 2021
 author - 1: "[[Stuart J Russell]]"
 author - 2: "[[Peter Norvig]]"
 key: "[[@Russell2021-vx]]"
@@ -8,6 +8,7 @@ aliases:
   - Artificial Intelligence - A Modern Approach
   - Artificial Intelligence
 publisher: "[[Pearson Education Limited]]"
+type: "[[@book]]"
 tags:
   - AIEd-CCME0123
   - EPubs-Books
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Russell, Stuart J, Peter Norvig. Unknown Year. “Artificial Intelligence -  A Modern Approach.” "[[Pearson Education Limited]]"
+> Russell, Stuart J, Peter Norvig. 2021. “Artificial Intelligence: A Modern Approach.” [[Pearson Education Limited]]

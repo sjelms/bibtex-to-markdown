@@ -16,4 +16,4 @@ category:
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
-[[@Mitchell2022-ds|Where Does All The ‘\textitknow How’ Go? The Role Of Tacit Knowledge In Research Impact]]
+[[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]

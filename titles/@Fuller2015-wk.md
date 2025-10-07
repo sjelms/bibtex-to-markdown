@@ -9,6 +9,7 @@ key: "[[@Fuller2015-wk]]"
 aliases:
   - Does Apprenticeship Work For Adults?
 institution: "[[UCL Institute of Education]]"
+type: "[[@report]]"
 tags:
   - WALF---Improving-Working-as-Learning
   - _BibTex-to-MD-Git
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. “Does Apprenticeship Work for Adults?.”
+> Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. “Does Apprenticeship Work for Adults?.” [[UCL Institute of Education]]

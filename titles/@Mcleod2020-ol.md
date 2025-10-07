@@ -1,10 +1,11 @@
 ---
 title: Maslow's Hierarchy of Needs
-year: Unknown Year
+year: 2020
 author - 1: "[[Saul Mcleod]]"
 key: "[[@Mcleod2020-ol]]"
 aliases:
   - Maslow's Hierarchy Of Needs
+type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -13,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Mcleod, Saul. Unknown Year. “Maslow's Hierarchy of Needs.” . https://www.simplypsychology.org/maslow.html
+> Mcleod, Saul. 2020. “Maslow's Hierarchy of Needs.” . https://www.simplypsychology.org/maslow.html

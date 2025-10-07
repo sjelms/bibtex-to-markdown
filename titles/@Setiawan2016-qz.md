@@ -1,14 +1,16 @@
 ---
 title: Grounded Theory Style Analysis in Action  -  Utilising Multi-layer Methods in Developing Built Environment Response to Social Conflicts in Indonesia
-year: Unknown Year
+year: 2016
 author - 1: "[[Wisnu Setiawan]]"
 author - 2: "[[Monty Sutrisna]]"
 author - 3: "[[Peter Barrett]]"
 key: "[[@Setiawan2016-qz]]"
+booktitle: Research Methodology in the Built Environment
 aliases:
   - Grounded Theory Style Analysis In Action - Utilising Multi-Layer Methods In Developing Built Environment Response To Social Conflicts In Indonesia
   - Grounded Theory Style Analysis In Action
 publisher: "[[Routledge]]"
+type: "[[@inbook]]"
 tags:
   - Research-Methodology-in-the-Built-Environment---A-Selection-of-Case-Studies
   - EPubs-Books
@@ -20,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Setiawan, Wisnu, Monty Sutrisna, Peter Barrett. Unknown Year. “Grounded Theory Style Analysis in Action  -  Utilising Multi-layer Methods in Developing Built Environment Response to Social Conflicts in Indonesia.” "[[Routledge]]". https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-21/grounded-theory-style-analysis-action-wisnu-setiawan-monty-sutrisna-peter-barrett?context=ubx&refId=f6bea6f2-24ec-4823-a84e-8d7f8386502a
+> Setiawan, Wisnu, Monty Sutrisna, Peter Barrett. 2016. “Grounded Theory Style Analysis in Action : Utilising Multi-layer Methods in Developing Built Environment Response to Social Conflicts in Indonesia.” [[Routledge]]. https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-21/grounded-theory-style-analysis-action-wisnu-setiawan-monty-sutrisna-peter-barrett?context=ubx&refId=f6bea6f2-24ec-4823-a84e-8d7f8386502a
 
 > [!abstract]
 > Grounded theory style analysis in action - 1 - Utilising multi-layer methods in developing built environment response to social conflicts in Indonesia

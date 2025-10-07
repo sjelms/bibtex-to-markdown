@@ -5,8 +5,10 @@ author - 1: "[[Cappy Surette]]"
 author - 2: "[[Nicole Cantore]]"
 author - 3: "[[Eric Scott]]"
 key: "[[@Surette2011-pc]]"
+booktitle: Disney Parks Blog
 aliases:
   - Histories Of Disney's Contemporary And Polynesian Resorts
+type: "[[@online]]"
 tags:
   - Frontiers-2022
   - _BibTex-to-MD-Git
@@ -15,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Surette, Cappy, Nicole Cantore, Eric Scott. 2011. “Histories of Disney's Contemporary and Polynesian Resorts.”
+> Surette, Cappy, Nicole Cantore, Eric Scott. 2011. “Histories of Disney's Contemporary and Polynesian Resorts.” . https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/

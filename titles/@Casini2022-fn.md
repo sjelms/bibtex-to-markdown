@@ -1,12 +1,14 @@
 ---
 title: Introduction
-year: Unknown Year
+year: 2022
 author - 1: "[[Marco Casini]]"
 editor - 1: "[[Marco Casini]]"
 key: "[[@Casini2022-fn]]"
+booktitle: Construction 4.0 -  Advanced Technology, Tools and Materials for the Digital Transformation of the Construction Industry
 aliases:
   - Introduction
 publisher: "[[Woodhead Publishing]]"
+type: "[[@inbook]]"
 tags:
   - Marco-Casini-Construction-4-0
   - 2_Upgrade-MAY-2023
@@ -22,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Casini, Marco. Unknown Year. “Introduction.” "[[Woodhead Publishing]]". https://www.sciencedirect.com/science/article/pii/B9780128217979000106
+> Casini, Marco. 2022. “Introduction.” [[Woodhead Publishing]]. https://www.sciencedirect.com/science/article/pii/B9780128217979000106

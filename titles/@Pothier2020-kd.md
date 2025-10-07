@@ -7,6 +7,7 @@ key: "[[@Pothier2020-kd]]"
 aliases:
   - Future Of Work In Construction
 institution: "[[Autodesk]]"
+type: "[[@report]]"
 tags:
   - Autodesk
   - 2_Upgrade-MAY-2023
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Pothier, Debra, Anil Sawhney. 2020. “Future of Work in Construction.”
+> Pothier, Debra, Anil Sawhney. 2020. “Future of Work in Construction.” [[Autodesk]]

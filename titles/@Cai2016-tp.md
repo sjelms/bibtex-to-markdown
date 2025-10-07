@@ -1,12 +1,14 @@
 ---
 title: The Labor Market Consequences of Regulating Similar Occupations -  The Licensing of Occupational and Physical Therapists
-year: Unknown Year
+year: 2016
 author - 1: "[[Jing Cai]]"
 author - 2: "[[Morris M Kleiner]]"
 key: "[[@Cai2016-tp]]"
 aliases:
   - The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists
   - The Labor Market Consequences Of Regulating Similar Occupations
+journal: "[[Upjohn Institute Working Paper]]"
+type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -16,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cai, Jing, Morris M Kleiner. Unknown Year. “The Labor Market Consequences of Regulating Similar Occupations -  The Licensing of Occupational and Physical Therapists.” . http://dx.doi.org/10.17848/wp16-259
+> Cai, Jing, Morris M Kleiner. 2016. “The Labor Market Consequences of Regulating Similar Occupations: The Licensing of Occupational and Physical Therapists.” [[Upjohn Institute Working Paper]]. http://dx.doi.org/10.17848/wp16-259

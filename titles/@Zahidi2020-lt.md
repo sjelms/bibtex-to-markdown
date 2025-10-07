@@ -10,6 +10,7 @@ aliases:
   - The Future Of Jobs Report 2020
 institution: "[[World Economic Forum Platform for Shaping the Future of the New Economy and Society]]"
 publisher: "[[World Economic Forum]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, Sophie Brown. 2020. “The Future of Jobs Report 2020.” "[[World Economic Forum]]"
+> Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, Sophie Brown. 2020. “The Future of Jobs Report 2020.” [[World Economic Forum]]
