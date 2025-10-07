@@ -7,6 +7,7 @@ aliases:
   - The Real Face Of Construction 2020 - Socio-Economic Analysis Of The True Value Of The Built Environment
   - The Real Face Of Construction 2020
 institution: "[[Chartered Institute of Building]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Green, Brian. 2020. “The Real Face of Construction 2020 -  Socio-economic Analysis of the True Value of the Built Environment.”
+> Green, Brian. 2020. “The Real Face of Construction 2020: Socio-economic Analysis of the True Value of the Built Environment.” [[Chartered Institute of Building]]

@@ -1,13 +1,14 @@
 ---
 title: Simulating Instructional Roles Through Pedagogical Agents
-year: Unknown Year
+year: 2005
 author - 1: "[[Amy L Baylor]]"
 author - 2: "[[Yanghee Kim]]"
 key: "[[@Baylor2005-hh]]"
-type: "[[@article]]" 
 aliases:
   - Simulating Instructional Roles Through Pedagogical Agents
+journal: "[[International Journal of Artificial Intelligence in Education]]"
 publisher: "[[IOS Press]]"
+type: "[[@article]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
@@ -20,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Baylor, Amy L, Yanghee Kim. Unknown Year. “Simulating Instructional Roles Through Pedagogical Agents.” "[[IOS Press]]". https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02
+> Baylor, Amy L, Yanghee Kim. 2005. “Simulating Instructional Roles Through Pedagogical Agents.” [[IOS Press]]. https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02
 
 > [!abstract]
 > This paper describes the design and empirical validation of three distinct pedagogical agent roles (Expert, Motivator, and Mentor) for college students within the MIMIC (Multiple Intelligent Mentors Instructing Collaboratively) agent-based research e

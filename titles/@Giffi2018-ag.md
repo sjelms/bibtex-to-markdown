@@ -11,6 +11,7 @@ key: "[[@Giffi2018-ag]]"
 aliases:
   - 2018 Deloitte Skills Gap And Future Of Work In Manufacturing Study
 institution: "[[Deloitte Insights]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Giffi, Craig, Paul Wellener, Ben Dollar, Heather Ashton Manolian, Luke Monck, Chad Moutray. 2018. “2018 Deloitte Skills Gap and Future of Work in Manufacturing Study.”
+> Giffi, Craig, Paul Wellener, Ben Dollar, Heather Ashton Manolian, Luke Monck, Chad Moutray. 2018. “2018 Deloitte Skills Gap and Future of Work in Manufacturing Study.” [[Deloitte Insights]]

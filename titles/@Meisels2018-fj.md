@@ -6,6 +6,7 @@ key: "[[@Meisels2018-fj]]"
 aliases:
   - 2019 Engineering And Construction Industry Outlook
 institution: "[[Deloitte]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Meisels, Michelle. 2018. “2019 Engineering and Construction Industry Outlook.”
+> Meisels, Michelle. 2018. “2019 Engineering and Construction Industry Outlook.” [[Deloitte]]

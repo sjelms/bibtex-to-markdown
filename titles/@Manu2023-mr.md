@@ -1,6 +1,6 @@
 ---
 title: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
-year: Unknown Year
+year: 2023
 author - 1: "[[Patrick Manu]]"
 author - 2: "[[Shang Gao (Lecturer in construction management)]]"
 author - 3: "[[Paulo Bártolo]]"
@@ -10,6 +10,7 @@ key: "[[@Manu2023-mr]]"
 aliases:
   - Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era
 publisher: "[[Routledge]]"
+type: "[[@book]]"
 tags:
   - Handbook-of-Construction-Safety,-Health-and-Well-being-in-the-Industry-4-Era
   - EPubs-Books
@@ -23,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Manu, Patrick, Shang Gao (Lecturer in construction management), Paulo Bártolo, Valerie Francis (Professor in construction management), Anil Sawhney. Unknown Year. “Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era.” "[[Routledge]]". https://play.google.com/store/books/details?id=3hrfzwEACAAJ
+> Manu, Patrick, Shang Gao (Lecturer in construction management), Paulo Bártolo, Valerie Francis (Professor in construction management), Anil Sawhney. 2023. “Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era.” [[Routledge]]. https://play.google.com/store/books/details?id=3hrfzwEACAAJ
 
 > [!abstract]
-> "This Handbook seeks to examine and advance current understanding of the confluence of construction health, safety and wellbeing and the broad range of Industry 4.0 technologies in use in the Architecture, Engineering and Construction (AEC) industry"--
+> "This Handbook seeks to examine and advance current understanding of the confluence of construction health, safety and wellbeing and the broad range of Industry 4.0 technologies in use in the Architecture, Engineering and Construction (AEC) industry"–

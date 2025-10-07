@@ -1,12 +1,13 @@
 ---
 title: Human Compatible -  Artificial Intelligence and the Problem of Control
-year: Unknown Year
+year: 2019
 author - 1: "[[Stuart J Russell]]"
 key: "[[@Russell2019-or]]"
 aliases:
   - Human Compatible - Artificial Intelligence And The Problem Of Control
   - Human Compatible
 publisher: "[[Penguin Publishing Group]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - Frontiers-2022
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Russell, Stuart J. Unknown Year. “Human Compatible -  Artificial Intelligence and the Problem of Control.” "[[Penguin Publishing Group]]". https://books.google.co.uk/books?id=M1eFDwAAQBAJ
+> Russell, Stuart J. 2019. “Human Compatible: Artificial Intelligence and the Problem of Control.” [[Penguin Publishing Group]]. https://books.google.co.uk/books?id=M1eFDwAAQBAJ

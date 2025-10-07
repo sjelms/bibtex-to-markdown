@@ -1,6 +1,6 @@
 ---
 title: A Review of Mixed-reality Applications in Construction 4.0
-year: Unknown Year
+year: 2020
 author - 1: "[[Aseel Hussien]]"
 author - 2: "[[Atif Waraich]]"
 author - 3: "[[Daniel Paes]]"
@@ -8,12 +8,14 @@ editor - 1: "[[Anil Sawhney]]"
 editor - 2: "[[Michael Riley]]"
 editor - 3: "[[Javier Irizarry]]"
 key: "[[@Hussien2020-bt]]"
+booktitle: Construction 4.0 -  An Innovation Platform for the Built Environment
 aliases:
   - A Review Of Mixed-Reality Applications In Construction 4.0
 publisher: "[[Routledge]]"
+type: "[[@inbook]]"
 tags:
   - 2_Upgrade-MAY-2023
-  - Construction-4-0----An-Innovation-Platform-for-the-Built-Environment
+  - Construction-4-0-–-An-Innovation-Platform-for-the-Built-Environment
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC
@@ -26,7 +28,7 @@ tags:
 ---
 
 > [!bibliography]
-> Hussien, Aseel, Atif Waraich, Daniel Paes. Unknown Year. “A Review of Mixed-reality Applications in Construction 4.0.” "[[Routledge]]". https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry
+> Hussien, Aseel, Atif Waraich, Daniel Paes. 2020. “A Review of Mixed-reality Applications in Construction 4.0.” [[Routledge]]. https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry
 
 > [!abstract]
 > To provide an overview of state-of-the-art mixed-reality technologies in the construction industry. To describe virtual reality and augmented reality technologies including their principles, differences, operation, latest devices, main applications and major impacts in the construction industry. To characterize current adoption levels and future expectations concerning mixed-reality applications in Construction 4.0.

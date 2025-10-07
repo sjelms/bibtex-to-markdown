@@ -1,6 +1,6 @@
 ---
 title: The Digitalist Papers -  Artificial Intelligence and Democracy in America
-year: Unknown Year
+year: 2024
 author - 1: "[[Erik Brynjolfsson]]"
 author - 2: "[[Alex Pentland]]"
 author - 3: "[[Nathaniel Persily]]"
@@ -11,6 +11,7 @@ aliases:
   - The Digitalist Papers - Artificial Intelligence And Democracy In America
   - The Digitalist Papers
 publisher: "[[Stanford Digital Economy Lab]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -20,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Brynjolfsson, Erik, Alex Pentland, Nathaniel Persily, Condoleezza Rice, Angela Aristidou. Unknown Year. “The Digitalist Papers -  Artificial Intelligence and Democracy in America.” "[[Stanford Digital Economy Lab]]". https://www.digitalistpapers.com/
+> Brynjolfsson, Erik, Alex Pentland, Nathaniel Persily, Condoleezza Rice, Angela Aristidou. 2024. “The Digitalist Papers: Artificial Intelligence and Democracy in America.” [[Stanford Digital Economy Lab]]. https://www.digitalistpapers.com/
 
 > [!abstract]
 > Rapid advances in AI are reshaping how we govern ourselves. Inspired by The Federalist Papers, which promoted the idea of a nation designed by intent rather than by accident, The Digitalist Papers series delves into the critical intersection of AI and democracy. This volume brings together scholars and industry leaders to explore the opportunities and challenges AI presents, offering a range of strategies for a democratic future. Instead of a one-size-fits-all solution, it champions a pluralistic, interdisciplinary approach to navigating this transformative era.

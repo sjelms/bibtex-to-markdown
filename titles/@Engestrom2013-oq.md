@@ -1,11 +1,13 @@
 ---
 title: Activity Theory and Learning at Work
-year: Unknown Year
+year: 2013
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom2013-oq]]"
+booktitle: The SAGE Handbook of Workplace Learning
 aliases:
   - Activity Theory And Learning At Work
 publisher: "[[SAGE Publications]]"
+type: "[[@inbook]]"
 tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
@@ -14,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Engeström, Yrjö. Unknown Year. “Activity Theory and Learning at Work.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781446200940.n7
+> Engeström, Yrjö. 2013. “Activity Theory and Learning at Work.” [[SAGE Publications]]. http://dx.doi.org/10.4135/9781446200940.n7

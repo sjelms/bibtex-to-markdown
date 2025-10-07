@@ -6,6 +6,7 @@ key: "[[@Dubner2023-jy]]"
 aliases:
   - Why Is It So Hard (and Expensive) To Build Anything In America?
 publisher: "[[Freakonomics Radio]]"
+type: "[[@audio]]"
 tags:
   - Freakonomics-Radio
   - AEC-Cited-Lit-for-Jacqui
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Dubner, Stephen J. 2023. “Why Is It So Hard (and Expensive) to Build Anything in America?.” "[[Freakonomics Radio]]". https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/
+> Dubner, Stephen J. 2023. “Why Is It So Hard (and Expensive) to Build Anything in America?.” [[Freakonomics Radio]]. https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/

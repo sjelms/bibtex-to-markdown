@@ -1,10 +1,12 @@
 ---
 title: Models of Design in Studio Teaching
-year: Unknown Year
+year: 1985
 author - 1: "[[Stefani Ledewitz]]"
 key: "[[@Ledewitz1985-qi]]"
 aliases:
   - Models Of Design In Studio Teaching
+journal: "[[Journal of Architectural Education]]"
+type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -14,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ledewitz, Stefani. Unknown Year. “Models of Design in Studio Teaching.” . http://dx.doi.org/10.1080/10464883.1985.10758354
+> Ledewitz, Stefani. 1985. “Models of Design in Studio Teaching.” [[Journal of Architectural Education]]. http://dx.doi.org/10.1080/10464883.1985.10758354

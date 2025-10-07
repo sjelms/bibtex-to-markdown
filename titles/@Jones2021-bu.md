@@ -10,6 +10,7 @@ key: "[[@Jones2021-bu]]"
 aliases:
   - The Role Of Industry – University Collaboration In Construction
 publisher: "[[Transforming Construction Network Plus Digest Series]]"
+type: "[[@report]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Jones, Kell, Luigi Mosca, Jennifer K Whyte, Andrew Davies, Jacqueline Glass. 2021. “The Role of Industry – University Collaboration in Construction.” "[[Transforming Construction Network Plus Digest Series]]". https://discovery.ucl.ac.uk/id/eprint/10129182/
+> Jones, Kell, Luigi Mosca, Jennifer K Whyte, Andrew Davies, Jacqueline Glass. 2021. “The Role of Industry – University Collaboration in Construction.” [[Transforming Construction Network Plus Digest Series]]. https://discovery.ucl.ac.uk/id/eprint/10129182/

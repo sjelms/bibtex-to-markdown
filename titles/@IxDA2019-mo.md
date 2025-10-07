@@ -6,6 +6,7 @@ key: "[[@IxDA2019-mo]]"
 aliases:
   - Ruby Steel — Interaction Design Day @ Ixda London
 publisher: "[[Vimeo]]"
+type: "[[@video]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
@@ -15,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> IxDA, London. 2019. “Ruby Steel — Interaction Design Day @ IxDA London.” "[[Vimeo]]". https://vimeo.com/340527074
+> IxDA, London. 2019. “Ruby Steel — Interaction Design Day @ {IxDA} London.” [[Vimeo]]. https://vimeo.com/340527074
 
 > [!abstract]
-> This is ``Ruby Steel — Interaction Design Day @ IxDA London'' by London IxDA on Vimeo, the home for high quality videos and the people who love them.
+> This is "Ruby Steel — Interaction Design Day @ IxDA London" by London IxDA on Vimeo, the home for high quality videos and the people who love them.

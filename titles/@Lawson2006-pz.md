@@ -1,11 +1,12 @@
 ---
 title: How Designers Think
-year: Unknown Year
+year: 2006
 author - 1: "[[Bryan Lawson]]"
 key: "[[@Lawson2006-pz]]"
 aliases:
   - How Designers Think
 publisher: "[[Routledge]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -13,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lawson, Bryan. Unknown Year. “How Designers Think.” "[[Routledge]]". https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0
+> Lawson, Bryan. 2006. “How Designers Think.” [[Routledge]]. https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0

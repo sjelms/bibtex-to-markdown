@@ -8,6 +8,7 @@ aliases:
   - Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks
   - Rediscovering Learning
 institution: "[[United States Air Force]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Gott, Sherrie P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks.”
+> Gott, Sherrie P, Armstrong Laboratory Air Force Materiel Command. 1998. “Rediscovering Learning: Acquiring Expertise in Real World Problem Solving Tasks.” [[United States Air Force]]

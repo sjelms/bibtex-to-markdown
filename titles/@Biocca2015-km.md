@@ -1,6 +1,6 @@
 ---
 title: Immersed in Media -  Telepresence Theory, Measurement and Technology
-year: Unknown Year
+year: 2015
 author - 1: "[[Frank Biocca]]"
 author - 2: "[[Jonathan Freeman]]"
 author - 3: "[[Matthew Lombard]]"
@@ -13,9 +13,10 @@ editor - 4: "[[Rachel J Schaevitz]]"
 editor - 5: "[[Wijnand IJsselsteijn]]"
 key: "[[@Biocca2015-km]]"
 aliases:
-  - Immersed In Media - Telepresence Theory, Measurement \& Technology
+  - Immersed In Media - Telepresence Theory, Measurement & Technology
   - Immersed In Media
 publisher: "[[Springer International Publishing]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Biocca, Frank, Jonathan Freeman, Matthew Lombard, Rachel J Schaevitz, Wijnand IJsselsteijn. Unknown Year. “Immersed in Media -  Telepresence Theory, Measurement and Technology.” "[[Springer International Publishing]]". https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0
+> Biocca, Frank, Jonathan Freeman, Matthew Lombard, Rachel J Schaevitz, Wijnand IJsselsteijn. 2015. “Immersed in Media: Telepresence Theory, Measurement & Technology.” [[Springer International Publishing]]. https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0

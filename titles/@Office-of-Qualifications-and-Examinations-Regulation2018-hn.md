@@ -6,6 +6,7 @@ key: "[[@Office-of-Qualifications-and-Examinations-Regulation2018-hn]]"
 aliases:
   - Guidance To The General Conditions Of Recognition
 institution: "[[Office of Qualifications and Examinations Regulation]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Regulation, Office of Qualifications and Examinations. 2018. “Guidance to the General Conditions of Recognition.”
+> Regulation, Office of Qualifications and Examinations. 2018. “Guidance to the General Conditions of Recognition.” [[Office of Qualifications and Examinations Regulation]]

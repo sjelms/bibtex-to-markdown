@@ -8,6 +8,7 @@ key: "[[@Meisels2021-ql]]"
 aliases:
   - 2022 Engineering And Construction Industry Outlook
 institution: "[[Deloitte]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Meisels, Michelle, Paul Wellener, Kate Hardin. 2021. “2022 Engineering and Construction Industry Outlook.”
+> Meisels, Michelle, Paul Wellener, Kate Hardin. 2021. “2022 Engineering and Construction Industry Outlook.” [[Deloitte]]

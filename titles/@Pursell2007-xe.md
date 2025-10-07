@@ -1,12 +1,13 @@
 ---
 title: The Machine in America -  A Social History of Technology
-year: Unknown Year
+year: 2007
 author - 1: "[[Carroll Pursell]]"
 key: "[[@Pursell2007-xe]]"
 aliases:
   - The Machine In America - A Social History Of Technology
   - The Machine In America
 publisher: "[[Johns Hopkins University Press]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Pursell, Carroll. Unknown Year. “The Machine in America -  A Social History of Technology.” "[[Johns Hopkins University Press]]"
+> Pursell, Carroll. 2007. “The Machine in America: A Social History of Technology.” [[Johns Hopkins University Press]]

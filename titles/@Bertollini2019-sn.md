@@ -1,10 +1,11 @@
 ---
 title: This Is What Trillions in Global-Infrastructure Investment Look Like
-year: Unknown Year
+year: 2019
 author - 1: "[[Vanessa Bertollini]]"
 key: "[[@Bertollini2019-sn]]"
 aliases:
   - This Is What Trillions In Global-Infrastructure Investment Look Like
+type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -13,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bertollini, Vanessa. Unknown Year. “This Is What Trillions in Global-Infrastructure Investment Look Like.” . https://redshift.autodesk.com/global-infrastructure/
+> Bertollini, Vanessa. 2019. “This Is What Trillions in Global-Infrastructure Investment Look Like.” . https://redshift.autodesk.com/global-infrastructure/

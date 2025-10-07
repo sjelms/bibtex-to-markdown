@@ -1,6 +1,6 @@
 ---
 title: Constructing Learning -  Adversarial and Collaborative Working in the British Construction Industry
-year: Unknown Year
+year: 2009
 author - 1: "[[Dan Bishop]]"
 author - 2: "[[Alan Felstead]]"
 author - 3: "[[Alison Fuller]]"
@@ -11,7 +11,9 @@ key: "[[@Bishop2009-co]]"
 aliases:
   - Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry
   - Constructing Learning
+journal: "[[Journal of Education and Work]]"
 publisher: "[[Routledge]]"
+type: "[[@article]]"
 tags:
   - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - 00_TO-READ
@@ -28,7 +30,7 @@ tags:
 ---
 
 > [!bibliography]
-> Bishop, Dan, Alan Felstead, Alison Fuller, Nick Jewson, Lorna Unwin, Konstantinos Kakavelakis. Unknown Year. “Constructing Learning -  Adversarial and Collaborative Working in the British Construction Industry.” "[[Routledge]]". https://doi.org/10.1080/13639080903290355
+> Bishop, Dan, Alan Felstead, Alison Fuller, Nick Jewson, Lorna Unwin, Konstantinos Kakavelakis. 2009. “Constructing Learning: Adversarial and Collaborative Working in the British Construction Industry.” [[Routledge]]. https://doi.org/10.1080/13639080903290355
 
 > [!abstract]
 > This paper examines two competing systems of work organisation in the British construction industry and their consequences for learning. Under the traditional ?adversarial? system, conflict, hostility and litigation between contractors are commonplace. Such a climate actively militates against collective learning and knowledge sharing between parties. Conversely, under ?collaborative working?, contractors share risks, pool knowledge and work together to solve problems at all stages and levels in the productive system ? a process conceptualised as ?knotworking? by some theorists. The paper argues that such learning theories fail to take adequately into account the heavy hand of history and the importance of understanding the nature of the productive systems in which ?knotworking? is expected to take root. Both place limits on making ?knotworking? a habitual and commonplace activity in construction.

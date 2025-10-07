@@ -1,11 +1,12 @@
 ---
 title: The Economics of John Maynard Keynes
-year: Unknown Year
+year: 2023
 author - 1: "[[Fabio Terra]]"
 key: "[[@Terra2023-js]]"
 aliases:
   - The Economics Of John Maynard Keynes
 publisher: "[[Taylor and Francis]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -13,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Terra, Fabio. Unknown Year. “The Economics of John Maynard Keynes.” "[[Taylor and Francis]]"
+> Terra, Fabio. 2023. “The Economics of John Maynard Keynes.” [[Taylor and Francis]]

@@ -10,6 +10,7 @@ key: "[[@D-Amico2023-ml]]"
 aliases:
   - Why Has Construction Productivity Stagnated? The Role Of Land‑use Regulation
 institution: "[[National Bureau of Economic Research]]"
+type: "[[@report]]"
 tags:
   - Abundance-–-How-We-Build-a-Better-Future-Footnotes
   - _BibTex-to-MD-Git
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> D'Amico, Leonardo, Edward L Glaeser, Joseph Gyourko, William R Kerr, Giacomo A M Ponzetto. 2023. “Why Has Construction Productivity Stagnated? The Role of Land‑Use Regulation.” . https://ssrn.com/abstract=4679195
+> D'Amico, Leonardo, Edward L Glaeser, Joseph Gyourko, William R Kerr, Giacomo A M Ponzetto. 2023. “Why Has Construction Productivity Stagnated? The Role of {Land‑Use} Regulation.” [[National Bureau of Economic Research]]. https://ssrn.com/abstract=4679195

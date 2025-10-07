@@ -3,8 +3,10 @@ title: Froebel's Gifts
 year: 2020
 author - 1: "[[Froebel Trust]]"
 key: "[[@Froebel_Trust2020-yl]]"
+booktitle: Froebel Trust
 aliases:
   - Froebel's Gifts
+type: "[[@online]]"
 tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
@@ -13,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Trust, Froebel. 2020. “Froebel's Gifts.”
+> Trust, Froebel. 2020. “Froebel's Gifts.” . https://www.froebel.org.uk/training-and-resources/froebels-gifts

@@ -9,9 +9,10 @@ aliases:
   - Race Against The Machine
 institution: "[[MIT Center for Digital Business]]"
 publisher: "[[MIT Sloan School of Management]]"
+type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
 ---
 
 > [!bibliography]
-> Brynjolfsson, Erik, Andrew McAfee. 2012. “Race Against The Machine -  How The Digital Revolution Is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and The Economy.” "[[MIT Sloan School of Management]]"
+> Brynjolfsson, Erik, Andrew McAfee. 2012. “Race Against The Machine: How The Digital Revolution Is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and The Economy.” [[MIT Sloan School of Management]]

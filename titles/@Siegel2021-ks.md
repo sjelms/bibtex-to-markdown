@@ -6,6 +6,7 @@ key: "[[@Siegel2021-ks]]"
 aliases:
   - Juno Design - Throwing Out The Playbook
   - Juno Design
+type: "[[@online]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Siegel, B J. 2021. “Juno Design -  Throwing Out the Playbook.”
+> Siegel, B J. 2021. “Juno Design: Throwing Out the Playbook.” . https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd

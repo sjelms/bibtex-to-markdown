@@ -1,12 +1,13 @@
 ---
 title: Biomimicry -  Innovation inspired by nature
-year: Unknown Year
+year: 2020
 author - 1: "[[Janine M Benyus]]"
 key: "[[@Benyus2020-id]]"
 aliases:
   - Biomimicry - Innovation Inspired By Nature
   - Biomimicry
 publisher: "[[HarperAudio]]"
+type: "[[@book]]"
 tags:
   - Audible
   - _BibTex-to-MD-Git
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Benyus, Janine M. Unknown Year. “Biomimicry -  Innovation inspired by nature.” "[[HarperAudio]]"
+> Benyus, Janine M. 2020. “Biomimicry: Innovation inspired by nature.” [[HarperAudio]]

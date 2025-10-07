@@ -1,6 +1,6 @@
 ---
 title: The Offsite Revolution in Construction
-year: Unknown Year
+year: 2021
 author - 1: "[[Romain de Laubier]]"
 author - 2: "[[Arne Burfeind]]"
 author - 3: "[[Sebastien Arnold]]"
@@ -9,6 +9,7 @@ author - 5: "[[Marius Wunder]]"
 key: "[[@De_Laubier2021-rh]]"
 aliases:
   - The Offsite Revolution In Construction
+type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -18,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Laubier, Romain de, Arne Burfeind, Sebastien Arnold, Sven Witthöft, Marius Wunder. Unknown Year. “The Offsite Revolution in Construction.” . https://www.bcg.com/en-gb/publications/2019/offsite-revolution-construction
+> Laubier, Romain de, Arne Burfeind, Sebastien Arnold, Sven Witthöft, Marius Wunder. 2021. “The Offsite Revolution in Construction.” . https://www.bcg.com/en-gb/publications/2019/offsite-revolution-construction

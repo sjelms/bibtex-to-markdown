@@ -7,6 +7,7 @@ aliases:
   - National Assessment Of Career And Technical Education - Final Report To Congress
   - National Assessment Of Career And Technical Education
 institution: "[[United States Department of Education]]"
+type: "[[@report]]"
 tags:
   - Government-Report
   - _BibTex-to-MD-Git
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Service, United States Department of Education, Office of Planning, Evaluation and Policy Development, Policy and Program Studies. 2014. “National Assessment of Career and Technical Education -  Final Report to Congress.” . http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte
+> Service, United States Department of Education, Office of Planning, Evaluation and Policy Development, Policy and Program Studies. 2014. “National Assessment of Career and Technical Education: Final Report to Congress.” [[United States Department of Education]]. http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte

@@ -8,6 +8,7 @@ key: "[[@Nunn2020-uc]]"
 aliases:
   - A Dozen Facts About The Economics Of The U.s. Health-Care System
 institution: "[[The Brookings Institution]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Nunn, Ryan, Jana Parsons, Jay Shambaugh. 2020. “A Dozen Facts about the Economics of the U.S. Health-Care System.”
+> Nunn, Ryan, Jana Parsons, Jay Shambaugh. 2020. “A Dozen Facts about the Economics of the {U}.{S}. Health-Care System.” [[The Brookings Institution]]

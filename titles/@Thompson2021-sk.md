@@ -7,6 +7,7 @@ aliases:
   - Dfma Overlay To The Riba Plan Of Work
 institution: "[[RIBA]]"
 publisher: "[[Royal Institute of British Architects]]"
+type: "[[@report]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Construction-4-0
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Thompson, Matthew. 2021. “DfMA Overlay to the RIBA Plan of Work.” "[[Royal Institute of British Architects]]". https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work
+> Thompson, Matthew. 2021. “{DfMA} Overlay to the {RIBA} Plan of Work.” [[Royal Institute of British Architects]]. https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work

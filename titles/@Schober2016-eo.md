@@ -1,15 +1,16 @@
 ---
-title: Digitization in the Construction Industry -  Building Europe's Road to ``Construction 4.0''
+title: Digitization in the Construction Industry -  Building Europe's Road to "Construction 4.0"
 year: 2016
 author - 1: "[[Kai-Stefan Schober]]"
 author - 2: "[[Philipp Hoff]]"
 editor - 1: "[[Katherine Nölling]]"
 key: "[[@Schober2016-eo]]"
 aliases:
-  - Digitization In The Construction Industry - Building Europe's Road To ``construction 4.0''
+  - Digitization In The Construction Industry - Building Europe's Road To "construction 4.0"
   - Digitization In The Construction Industry
 institution: "[[Roland Berger GmbH]]"
 publisher: "[[Roland Berger]]"
+type: "[[@report]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
@@ -26,4 +27,4 @@ tags:
 ---
 
 > [!bibliography]
-> Schober, Kai-Stefan, Philipp Hoff. 2016. “Digitization in the Construction Industry -  Building Europe's Road to ``Construction 4.0''.” "[[Roland Berger]]"
+> Schober, Kai-Stefan, Philipp Hoff. 2016. “Digitization in the Construction Industry: Building Europe's Road to "Construction 4.0".” [[Roland Berger]]

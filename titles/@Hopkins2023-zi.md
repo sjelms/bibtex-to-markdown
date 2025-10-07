@@ -1,12 +1,13 @@
 ---
 title: Reading Architecture -  A Visual Lexicon
-year: Unknown Year
+year: 2023
 author - 1: "[[Owen Hopkins]]"
 key: "[[@Hopkins2023-zi]]"
 aliases:
   - Reading Architecture - A Visual Lexicon
   - Reading Architecture
 publisher: "[[Laurence King Publishing]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hopkins, Owen. Unknown Year. “Reading Architecture -  A Visual Lexicon.” "[[Laurence King Publishing]]". https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1
+> Hopkins, Owen. 2023. “Reading Architecture: A Visual Lexicon.” [[Laurence King Publishing]]. https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1

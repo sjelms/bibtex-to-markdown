@@ -7,6 +7,7 @@ aliases:
   - Data To The Rescue - Embodied Carbon In Buildings And The Urgency Of Now
   - Data To The Rescue
 institution: "[[McKinsey and Company]]"
+type: "[[@report]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
@@ -21,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Cameron, Lynelle. 2020. “Data to the rescue -  Embodied carbon in buildings and the urgency of now.” . https://www.mckinsey.com/capabilities/operations/our-insights/data-to-the-rescue-embodied-carbon-in-buildings-and-the-urgency-of-now
+> Cameron, Lynelle. 2020. “Data to the rescue: Embodied carbon in buildings and the urgency of now.” [[McKinsey and Company]]. https://www.mckinsey.com/capabilities/operations/our-insights/data-to-the-rescue-embodied-carbon-in-buildings-and-the-urgency-of-now
 
 > [!abstract]
 > Building companies seeking to make informed materials-procurement choices may confront data that are either lacking or too complex. A precompetitive consortium has responded with a free, open-source tool that anyone can use to help fill in the gaps.

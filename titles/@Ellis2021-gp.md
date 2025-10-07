@@ -1,10 +1,11 @@
 ---
 title: 100+ Construction Industry Statistics
-year: Unknown Year
+year: 2021
 author - 1: "[[Grace Ellis]]"
 key: "[[@Ellis2021-gp]]"
 aliases:
   - 100+ Construction Industry Statistics
+type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -14,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ellis, Grace. Unknown Year. “100+ Construction Industry Statistics.” . https://constructionblog.autodesk.com/construction-industry-statistics/
+> Ellis, Grace. 2021. “{100+} Construction Industry Statistics.” . https://constructionblog.autodesk.com/construction-industry-statistics/

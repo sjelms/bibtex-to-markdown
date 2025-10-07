@@ -1,6 +1,6 @@
 ---
 title: Case studies in retrofitting suburbia -  Urban design strategies for urgent challenges
-year: Unknown Year
+year: 2021
 author - 1: "[[June Williamson]]"
 author - 2: "[[Ellen Dunham-Jones]]"
 key: "[[@Williamson2021-sz]]"
@@ -8,6 +8,7 @@ aliases:
   - Case Studies In Retrofitting Suburbia - Urban Design Strategies For Urgent Challenges
   - Case Studies In Retrofitting Suburbia
 publisher: "[[John Wiley and Sons]]"
+type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Williamson, June, Ellen Dunham-Jones. Unknown Year. “Case studies in retrofitting suburbia -  Urban design strategies for urgent challenges.” "[[John Wiley and Sons]]". https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1
+> Williamson, June, Ellen Dunham-Jones. 2021. “Case studies in retrofitting suburbia: Urban design strategies for urgent challenges.” [[John Wiley and Sons]]. https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1

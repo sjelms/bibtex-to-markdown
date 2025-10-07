@@ -2,7 +2,18 @@ import os
 import re
 import argparse
 from pybtex.database import parse_file
-from pybtex.textutils import latex_to_unicode
+import latexcodec
+
+def latex_to_unicode(text):
+    """Convert LaTeX encoded text to Unicode using latexcodec."""
+    if not text:
+        return ""
+    try:
+        # Convert string to bytes, then decode using latex+utf8 codec
+        return str(text).encode().decode('latex+utf8')
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        # Fallback to original text if decoding fails
+        return str(text)
 
 # Define file paths
 BIBTEX_FILE = "main.bib"

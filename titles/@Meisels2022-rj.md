@@ -8,6 +8,7 @@ key: "[[@Meisels2022-rj]]"
 aliases:
   - 2023 Engineering And Construction Industry Outlook
 institution: "[[Deloitte]]"
+type: "[[@report]]"
 tags:
   - Deloitte---McKinsey---EY---PWC
   - 3_Upgrade-OCT-2023
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Meisels, Michelle, Paul Wellener, Kate Hardin. 2022. “2023 Engineering and Construction Industry Outlook.”
+> Meisels, Michelle, Paul Wellener, Kate Hardin. 2022. “2023 Engineering and Construction Industry Outlook.” [[Deloitte]]

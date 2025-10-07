@@ -1,12 +1,13 @@
 ---
 title: Industry 4.0 and its impact on skills development on built environment professionals -  A South African perspective
-year: Unknown Year
+year: 2019
 author - 1: "[[Vuyiswa Yeni-Letsoko]]"
 author - 2: "[[Nischolan Pillay]]"
 key: "[[@Yeni-Letsoko2019-ie]]"
 aliases:
   - Industry 4.0 And Its Impact On Skills Development On Built Environment Professionals - A South African Perspective
   - Industry 4.0 And Its Impact On Skills Development On Built Environment Professionals
+type: "[[@inproceedings]]"
 tags:
   - Construction-4-0
   - 2_Upgrade-MAY-2023
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Yeni-Letsoko, Vuyiswa, Nischolan Pillay. Unknown Year. “Industry 4.0 and its impact on skills development on built environment professionals -  A South African perspective.”
+> Yeni-Letsoko, Vuyiswa, Nischolan Pillay. 2019. “Industry 4.0 and its impact on skills development on built environment professionals: A South African perspective.”

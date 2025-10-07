@@ -1,12 +1,13 @@
 ---
 title: The Anatomy of the Case Study
-year: Unknown Year
+year: 2015
 author - 1: "[[Gary Thomas]]"
 author - 2: "[[Kevin Myers]]"
 key: "[[@Thomas2015-uu]]"
 aliases:
   - The Anatomy Of The Case Study
 publisher: "[[SAGE Publications]]"
+type: "[[@book]]"
 tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
@@ -17,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Thomas, Gary, Kevin Myers. Unknown Year. “The Anatomy of the Case Study.” "[[SAGE Publications]]". http://dx.doi.org/10.4135/9781473920156
+> Thomas, Gary, Kevin Myers. 2015. “The Anatomy of the Case Study.” [[SAGE Publications]]. http://dx.doi.org/10.4135/9781473920156

@@ -7,6 +7,7 @@ aliases:
   - English Housing Survey Homes 2011 - Annual Report On England’s Housing Stock, 2011
   - English Housing Survey Homes 2011
 institution: "[[HM Government]]"
+type: "[[@report]]"
 tags:
   - 2_Upgrade-MAY-2023
   - Government-Report
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Government, Department for Communities and Local. 2013. “English Housing Survey Homes 2011 -  Annual report on England’s housing stock, 2011.”
+> Government, Department for Communities and Local. 2013. “English Housing Survey Homes 2011: Annual report on England’s housing stock, 2011.” [[HM Government]]

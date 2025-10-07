@@ -8,6 +8,7 @@ key: "[[@Dreischmeier2015-di]]"
 aliases:
   - The Digital Imperative
 institution: "[[Boston Consulting Group]]"
+type: "[[@report]]"
 tags:
   - Data-Stats-Figures
   - 2_Upgrade-MAY-2023
@@ -17,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Dreischmeier, Ralf, Karalee Close, Philippe Trichet. 2015. “The Digital Imperative.” . https://www.bcg.com/publications/2015/digital-imperative
+> Dreischmeier, Ralf, Karalee Close, Philippe Trichet. 2015. “The Digital Imperative.” [[Boston Consulting Group]]. https://www.bcg.com/publications/2015/digital-imperative
 
 > [!abstract]
 > As entire industries are disrupted by bold digital entrants and business models, more and more companies are at risk of extinction. Music, retailing, media, and travel are far along on this path, but we are also seeing similar patterns in more traditional industries, such as banking, agriculture, energy, health care, industrial goods, and manufacturing.

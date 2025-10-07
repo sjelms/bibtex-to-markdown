@@ -3,9 +3,11 @@ title: Unemployment Level – Construction (2000-2021)
 year: 2021
 author - 1: "[[Bureau of Labor Statistics]]"
 key: "[[@Bureau_of_Labor_Statistics2021-ge]]"
+booktitle: Labor Force Statistics from the Current Population Survey
 aliases:
   - Unemployment Level – Construction (2000-2021)
 publisher: "[[United States Department of Labor]]"
+type: "[[@dataset]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -22,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Statistics, Bureau of Labor. 2021. “Unemployment Level – Construction (2000-2021).” "[[United States Department of Labor]]". https://beta.bls.gov/dataViewer/view/timeseries/LNU03034450
+> Statistics, Bureau of Labor. 2021. “Unemployment Level – Construction (2000-2021).” [[United States Department of Labor]]. https://beta.bls.gov/dataViewer/view/timeseries/LNU03034450

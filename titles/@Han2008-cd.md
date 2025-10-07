@@ -1,6 +1,6 @@
 ---
 title: Critical Issues and Possible Solutions for Motivating Foreign Construction Workers
-year: Unknown Year
+year: 2008
 author - 1: "[[Seung H Han]]"
 author - 2: "[[Sang H Park]]"
 author - 3: "[[Eui J Jin]]"
@@ -9,7 +9,9 @@ author - 5: "[[Yeon K Seong]]"
 key: "[[@Han2008-cd]]"
 aliases:
   - Critical Issues And Possible Solutions For Motivating Foreign Construction Workers
+journal: "[[Journal of Management in Engineering]]"
 publisher: "[[American Society of Civil Engineers]]"
+type: "[[@article]]"
 tags:
   - Frontiers-2022
   - 2_Upgrade-MAY-2023
@@ -23,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Han, Seung H, Sang H Park, Eui J Jin, Hyoungkwan Kim, Yeon K Seong. Unknown Year. “Critical Issues and Possible Solutions for Motivating Foreign Construction Workers.” "[[American Society of Civil Engineers]]". http://dx.doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)
+> Han, Seung H, Sang H Park, Eui J Jin, Hyoungkwan Kim, Yeon K Seong. 2008. “Critical Issues and Possible Solutions for Motivating Foreign Construction Workers.” [[American Society of Civil Engineers]]. http://dx.doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)

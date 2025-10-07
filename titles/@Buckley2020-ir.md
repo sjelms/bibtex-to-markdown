@@ -10,6 +10,7 @@ key: "[[@Buckley2020-ir]]"
 aliases:
   - Prefabrication And Modular Construction 2020
 institution: "[[Prefabrication and Modular Construction 2020]]"
+type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. “Prefabrication and Modular Construction 2020.”
+> Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. “Prefabrication and Modular Construction 2020.” [[Prefabrication and Modular Construction 2020]]

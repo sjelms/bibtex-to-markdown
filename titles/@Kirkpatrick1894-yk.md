@@ -1,14 +1,16 @@
 ---
 title: An Experimental Study of Memory
-year: Unknown Year
+year: 1894
 author - 1: "[[Edwin A Kirkpatrick]]"
 key: "[[@Kirkpatrick1894-yk]]"
 aliases:
   - An Experimental Study Of Memory
+journal: "[[Psychological review]]"
 publisher: "[[American Psychological Association APA]]"
+type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
 ---
 
 > [!bibliography]
-> Kirkpatrick, Edwin A. Unknown Year. “An Experimental Study of Memory.” "[[American Psychological Association APA]]". http://dx.doi.org/10.1037/h0068244
+> Kirkpatrick, Edwin A. 1894. “An Experimental Study of Memory.” [[American Psychological Association APA]]. http://dx.doi.org/10.1037/h0068244
