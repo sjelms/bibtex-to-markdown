@@ -525,7 +525,8 @@ for key, entry in bib_data.entries.items():
         year_int = int(year) if year.isdigit() and len(year) == 4 else None
         type_metadata[entry_type].append({
             'key': key,
-            'display_alias': display_alias,
+            'display_alias_short': display_alias,
+            'display_alias_long': title_aliases[0] if title_aliases else title,
             'sort_author': primary_author_for_sort,
             'year': year,
             'year_int': year_int,
@@ -658,18 +659,20 @@ if not args.only_with_editors and not args.no_author_files:
                 type_lines.append(f"### {year_value}")
                 entries_for_year = sorted(
                     decade_map[decade_start][year_value],
-                    key=lambda e: (e['sort_author'].lower(), e['display_alias'].lower())
+                    key=lambda e: (e['sort_author'].lower(), (e['display_alias_short'] or "").lower())
                 )
                 for entry in entries_for_year:
-                    type_lines.append(f"- [[@{entry['key']}|{entry['display_alias']}]]")
+                    display_title = entry['display_alias_long'] or entry['display_alias_short']
+                    type_lines.append(f"- [[@{entry['key']}|{display_title}]]")
 
         if unknown_year_entries:
             type_lines.append("## Unknown Year")
             for entry in sorted(
                 unknown_year_entries,
-                key=lambda e: (e['sort_author'].lower(), e['display_alias'].lower())
+                key=lambda e: (e['sort_author'].lower(), (e['display_alias_short'] or "").lower())
             ):
-                type_lines.append(f"- [[@{entry['key']}|{entry['display_alias']}]]")
+                display_title = entry['display_alias_long'] or entry['display_alias_short']
+                type_lines.append(f"- [[@{entry['key']}|{display_title}]]")
 
         type_content = "\n".join(type_lines).strip() + "\n"
         type_filename = os.path.join(TYPES_DIR, f"@{entry_type}.md")
