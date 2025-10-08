@@ -2,19 +2,20 @@
 
 ## 📌 Project Overview
 
-- **Project Name**: BibTeX to Markdown Converter
-- **Description**: A Python utility that converts BibTeX entries into Markdown notes with YAML frontmatter, optimized for Obsidian's wiki-linking and academic citation workflows. It processes BibTeX files to create individual markdown files for both citations and authors, maintaining bidirectional links between them.
+- **Project Name**: BibLaTeX to Markdown Converter
+- **Description**: Python tooling that converts BibLaTeX (and legacy BibTeX) entries into Markdown notes with YAML frontmatter, tailored for Obsidian’s wiki-linking and academic citation workflows. The pipeline ingests a `.bib` database, produces per-citation Markdown with rich metadata, and maintains author/editor and publisher/journal maps of content (MOCs).
 - **Primary Technology Stack**: 
-  - Python 3.7+
-  - bibtexparser library
-  - GitHub Actions (for automation)
+  - Python 3.9+
+  - `pybtex` for BibLaTeX/BibTeX parsing
+  - `latexcodec` for robust LaTeX-to-Unicode decoding
+  - GitHub Actions (automation)
 - **Target Environment**: 
-  - Local development: Any OS with Python 3.7+
-  - Automation: GitHub Actions
+  - Local development: macOS/Linux/Windows with Python 3.9+
+  - Automation: GitHub Actions runner (Ubuntu)
 - **Prerequisites**: 
-  - Python 3.7 or higher
-  - bibtexparser library
-  - Valid BibTeX file input
+  - Python 3.9 or higher
+  - Python packages: `pybtex`, `latexcodec`
+  - Valid BibLaTeX-formatted input file (`main.bib`)
 
 ---
 
@@ -24,7 +25,7 @@
 /bibtex-to-markdown
 │
 ├── convert_bibtex.py     # Main conversion script
-├── main.bib             # Input BibTeX file
+├── main.bib             # Input BibLaTeX file
 ├── titles/             # Output directory for citation files
 ├── authors/            # Output directory for author and editor files
 ├── publisher/          # Output directory for publisher and journal files
@@ -32,8 +33,8 @@
 └── README.md          # Project overview and usage instructions
 ```
 
-- **`convert_bibtex.py`**: Core script handling BibTeX parsing and markdown generation
-- **`main.bib`**: Input BibTeX file containing citations to be processed
+- **`convert_bibtex.py`**: Core script handling BibLaTeX parsing, normalization, and markdown generation
+- **`main.bib`**: Input BibLaTeX file containing citations to be processed
 - **`titles/`**: Generated markdown files for each citation, with YAML frontmatter and formatted content
 - **`authors/`**: Generated markdown files for each author/editor, containing cross-references to their publications
 - **`publisher/`**: Generated markdown files for each publisher and journal, each listing related citations
@@ -54,19 +55,20 @@ cd bibtex-to-markdown
 
 ### 2. Install Dependencies
 
-Install the required Python package:
+Install the required Python packages:
 ```bash
-pip install bibtexparser
+pip install pybtex latexcodec
 ```
 
 ### 3. Configuration
 
-1. Place your BibTeX file in the root directory as `main.bib`
-2. Ensure the file uses valid BibTeX formatting
+1. Place your BibLaTeX/BibTeX file in the root directory as `main.bib`
+2. Ensure the file uses valid BibLaTeX/BibTeX formatting (fields such as `date`, `journaltitle`, `institution`, editors, etc. are supported)
 3. Directory Structure:
-   - The script will create `titles/` directory for citation files
-   - The script will create `authors/` directory for author files
-   - Both directories will be created automatically if they don't exist
+   - The script creates and updates `titles/` for citation files
+   - The script creates `authors/` for author/editor files
+   - The script creates `publisher/` for publisher and journal entity files
+   - All directories are created automatically if missing
 
 ### 4. Running the Script
 
@@ -97,128 +99,126 @@ GitHub Actions:
 ### 🌀 High-Level Workflow
 
 1. **Input Processing**
-   - Read BibTeX file using bibtexparser
-   - Parse entries into Python dictionary format
-   - Handle multi-line entries and special characters
+   - Parse the `.bib` database with `pybtex`, supporting BibLaTeX fields (`date`, `journaltitle`, `institution`, editors, aliases, etc.)
+   - Normalize entry type metadata, authors, and editors from structured `Person` objects
+   - Gracefully handle LaTeX-encoded characters via `latexcodec`
 
 2. **Text Processing & Cleaning**
-   - Clean and standardize text fields
-   - Process author names and institutions
-   - Handle escaped characters and special sequences
-   - Convert BibTeX-specific formatting
+   - Convert LaTeX-escaped sequences to Unicode (`latex_to_unicode`)
+   - Clean titles, institutions, and entity names for YAML and display contexts
+   - Generate ISO-formatted dates using BibLaTeX `date` or `year`/`month`/`day` fallbacks
+   - Normalize keywords into Obsidian-friendly tags
 
 3. **Citation File Generation**
-   - Create markdown files for each citation
-   - Generate YAML frontmatter with metadata
-   - Format bibliography in Chicago style
-   - Include abstracts when available
-   - Create Obsidian-compatible wiki-links
+   - Emit markdown files per citation with YAML frontmatter and callouts (`[!bibliography]`, `[!abstract]`)
+   - Populate aliases (full and short titles) for Obsidian searchability
+   - Link to institutions, journals, and publishers using wiki-links
+   - Produce Chicago-style bibliography strings (currently optimized for personal names)
 
 4. **Author/Editor File Generation**
-   - Create individual markdown files for each author and editor name
-   - Cross-reference all citations by the author
-   - Maintain bidirectional links with citation files
+   - Create individual markdown files for each author/editor name encountered
+   - Cross-reference all citations and embed bibliography callouts
+   - Track institutions the author is associated with (first institution captured in YAML)
+
 5. **Publisher/Journal Page Generation**
-   - Create a page per unique publisher and journal
-   - Track and list all citations associated with each entity
+   - Create pages for normalized publisher and journal entity names
+   - Track and list related citations for each entity, preserving display aliases
 
 ### 🧩 Core Components
 
 | Component | Purpose |
 | --- | --- |
-| `clean_text()` | Processes text fields, handling escaped characters, special sequences, and formatting. Supports both YAML and non-YAML contexts. |
-| `format_authors()` | Parses and formats author names, handling institutions, name order, and multi-line entries. Creates Obsidian-compatible author links. |
-| `format_chicago_bibliography()` | Formats citation data in Chicago style, handling author names, titles, and URLs appropriately. |
-| `process_keywords()` | Converts BibTeX keywords into Obsidian-compatible tags, cleaning special characters and formatting. |
-| `Main Script` | Orchestrates the overall process, handling file I/O, directory creation, and markdown generation. |
+| `latex_to_unicode()` | Converts LaTeX-encoded fields to Unicode using `latexcodec`, ensuring consistent handling of accented characters and math symbols. |
+| `clean_text()` | Normalizes text fields for YAML/non-YAML contexts, removing braces and dangerous characters while preserving content. |
+| `format_persons()` | Uses `pybtex` Person objects to create Obsidian `[[Wiki Links]]` for authors and editors, preserving institutions when no personal name is present. |
+| `format_chicago_bibliography()` | Produces a Chicago-style bibliography line for each citation (note: institutional names currently follow personal-name formatting). |
+| `process_keywords()` | Splits BibLaTeX keyword strings on commas/semicolons, cleans them, and emits lowercase slug-style tags. |
+| `normalize_entity_name()` | Cleans publisher/journal names for use as filenames and wiki-links. |
+| Main loop | Coordinates parsing, YAML generation, and the creation of title, author, and publisher markdown files. |
 
 -----
 
 ## 🧪 Testing & Validation
 
 ### Testing Strategy
-- Manual testing with sample BibTeX entries
-- Validation of output markdown files in Obsidian
-- GitHub Actions integration testing
+- Run the converter locally against `main.bib` after significant changes (`python convert_bibtex.py --no-author-files` is a fast smoke test).
+- Inspect generated Markdown within Obsidian to verify wiki-links, aliases, and callouts.
+- GitHub Actions workflow (`.github/workflows/bibtex-to-md.yml`) executes the script on pushes and surfaces any exceptions in CI logs.
 
 ### Sample Data
-- Example BibTeX entries are included in `main.bib`
-- Sample outputs can be found in `titles/` directory
+- Example BibLaTeX entries live in `main.bib` and exercise a wide range of fields (dates, DOIs, institutions, keywords, etc.).
+- Generated outputs can be reviewed inside `titles/`, `authors/`, and `publisher/` after a run.
 
 ### Known Limitations
-- Author names must be properly formatted in BibTeX
-- Special characters in BibTeX need proper escaping
-- Multi-line author entries require careful formatting
-- Institution names in author fields need proper bracketing
+- Chicago bibliography formatter currently treats institutional authors as personal names, resulting in awkward “Last, First” formatting for organizations.
+- Author and entity aggregation stores citation keys in lists; running the script multiple times without cleanup can introduce duplicate backlinks.
+- The generator assumes `pybtex` can parse the `.bib` file; heavily custom BibTeX macros may still require manual preprocessing.
+- Crossref’d or inherited fields (e.g., from `@InProceedings`/`@Proceedings`) rely on the merged record provided by `pybtex`; ensure the source file resolves these references.
 
 -----
 
 ## ✨ Core Logic & Processing Rules
 
-### Stage 1: BibTeX Processing
-- File is read using bibtexparser library
-- Entries are parsed into dictionary format
-- Basic validation of required fields
-- Empty fields are handled with default values
+### Stage 1: BibLaTeX Parsing
+- `pybtex.database.parse_file` parses the input and exposes `Entry`/`Person` objects with all BibLaTeX fields intact.
+- The converter prioritizes the BibLaTeX-native `date` field but falls back to `year`/`month`/`day` when necessary, normalizing months (e.g., `mar` → `03`).
+- Entry types and keys are preserved verbatim and surfaced in the YAML (`type: "[[@article]]"`, `key: "[[@Doe2024-ab]]"`).
 
-### Stage 2: Text Processing
-- Special character handling:
-  - Escaped characters (`\&`, `\_`) are processed appropriately
-  - Formatting is preserved where needed
-  - URLs are cleaned of trailing punctuation
-- Author name processing:
-  - Handles "Last, First" and "First Last" formats
-  - Preserves institutional authors in braces
-  - Splits multiple authors on " and "
-  - Handles multi-line author entries
+### Stage 2: Text Normalization
+- `latex_to_unicode` decodes LaTeX sequences using UTF-8 as the source encoding, ensuring consistent handling of accents and special symbols.
+- `clean_text` differentiates between YAML and body contexts, stripping braces, converting reserved characters (colons, ampersands), and collapsing whitespace only where required.
+- `normalize_entity_name` produces filesystem- and wiki-safe versions of publisher/journal names, while `get_safe_filename` ensures author filenames do not contain forbidden characters.
+- `process_keywords` splits on commas/semicolons, removes escape characters, and emits hyphenated tags (e.g., `Workplace Learning` → `Workplace-Learning`).
 
 ### Stage 3: Markdown Generation
-#### Citation Files:
+- **Citation files (`titles/@Key.md`)** include YAML frontmatter with ordered `author - n`/`editor - n` entries, aliases, entity links, tags, and the citation key. The body contains:
+  ```markdown
+  > [!bibliography]
+  > Felstead, Alan, Alison Fuller, Nick Jewson, and Lorna Unwin. 2011. “Praxis: Working to Learn, Learning to Work.” [[UK Commission for Employment and Skills]]. https://doi.org/10.xxxx.
 
+  > [!abstract]
+  > …
+  ```
+  Abstract callouts are added only when an `abstract` field exists.
+- **Author files (`authors/Name.md`)** collect all citation backlinks for a given `[[Name]]`, add optional institution metadata, and embed each bibliography using `![[...]]` so changes in the source citation propagate automatically.
+- **Publisher/Journal files (`publisher/Entity.md`)** follow the same MOC pattern, grouping related citations under “Content:” with display aliases derived from the citation’s title.
+- Optional CLI flags (`--only-with-editors`, `--update-frontmatter-only`, `--no-author-files`) allow incremental updates without regenerating the entire knowledge graph.
+
+#### Citation Files:
 ```markdown
 ---
 title: Paper Title
 year: 2023
 author - 1: "[[Author Name]]"
-editor - 1: "[[Editor Name]]"  # Present only when BibTeX has `editor`
+editor - 1: "[[Editor Name]]"  # Present only when BibLaTeX has `editor`
 key: "[[@Citation-Key]]"
+booktitle: Book Title  # Present only when BibLaTeX has `booktitle`
 aliases:
   - Full Title Case
   - Short Title Case
-publisher: "[[Publisher]]"
-journal: "[[Journal]]"
+publisher: "[[Publisher]]" # Optional, Present only when BibLaTeX has `publisher`
+journal: "[[Journal]]" # Optional, Present only when BibLaTeX has `journaltitle`
+type: "[[@type]]"
 tags:
   - keyword1
   - keyword2
 ---
 
 > [!bibliography]
-> Bibliography formatting in Chicago style
+> Bibliography formatting
 
 > [!abstract]
 > Abstract text
 ```
 
-**Note:** The bibliography callout format must be consistent as it will be embedded in author files.
-
-#### Editor Support
-- Editors are parsed and cleaned using the same logic as authors.
-- YAML includes `editor - N: "[[First Last]]"` lines when the BibTeX entry has an `editor` field.
-- If an entry has no authors, authors will continue to fall back to editors for author lines (existing behavior).
-- Duplicates between authors and editors are allowed and not deduplicated.
-
-#### Partial Update Flags
-- `--only-with-editors`: Processes only entries containing `editor`.
-- `--update-frontmatter-only`: Updates the YAML block in-place; preserves the note body.
-- `--no-author-files`: Skips regenerating per-author files during targeted updates.
-  - Useful to avoid truncating author MOCs when doing a subset update.
+>**Note:** The bibliography callout format must be consistent as it will be embedded in author files.
 
 #### Author Files:
 
 ```markdown
 ---
-author: "Author Name"
-institution:
+author: "[[Author Name]]"
+institution: "[[Institution Name]]"  # Optional, Present only when BibLaTeX has `institution`
 field:
 type:
 aliases:
@@ -232,6 +232,7 @@ aliases:
 
 ![[@Citation-Key]]
 ```
+
 
 #### Editor Notes
 - Editors are treated like authors for note generation to ensure every `[[Name]]` link resolves.
@@ -270,6 +271,12 @@ category:
 - Consistent formatting in citation files is crucial as their content is rendered in multiple places
 - This creates automatic updates: changes to a citation's bibliography are reflected everywhere it's embedded
 
+### Data Flow Summary
+1. Load entries from `main.bib`.
+2. For each entry, generate citation markdown, update author/editor aggregates, and track publisher/journal entities.
+3. After processing all entries, emit author and entity MOCs unless suppressed via CLI flags.
+4. Print a run summary indicating how many entries were processed and which directories were touched.
+
 -----
 
 ## 🛠️ Automation & Deployment
@@ -293,87 +300,49 @@ category:
 ## 🧾 Logs and Debugging
 
 ### Common Issues
-1. **BibTeX Parsing Errors**
-   - Check BibTeX syntax
-   - Ensure proper escaping of special characters
-   - Verify author name formatting
+1. **BibLaTeX Parsing Errors**
+   - Validate the source `.bib` file with a BibLaTeX-aware tool; unmatched braces or malformed macros will cause `pybtex` to abort.
+   - Confirm LaTeX commands used in fields are supported by `latexcodec` or pre-expand them.
 
-2. **Author Name Issues**
-   - Ensure consistent use of "Last, First" format
-   - Check for proper handling of institutions
-   - Verify multi-line author entries
+2. **Name/Institution Handling**
+   - Institutional authors without personal name parts rely on the `organization` field or braces around the full name; verify those constructs in the source entry.
+   - Duplicate backlinks can occur when a script run is repeated; clear the `authors/` and `publisher/` directories if a fresh rebuild is desired.
 
-3. **File Generation Issues**
-   - Check write permissions for output directories
-   - Verify file naming conflicts
-   - Ensure valid YAML formatting
+3. **Markdown Generation Issues**
+   - Ensure the repository allows writing to `titles/`, `authors/`, and `publisher/`.
+   - Use an Obsidian YAML linter or `yamllint` to confirm frontmatter validity if a run fails midway.
 
 ### Troubleshooting
-- Review BibTeX input file for formatting issues
-- Check generated markdown files for proper linking
-- Verify Obsidian compatibility of generated files
+- Re-run the converter with `--update-frontmatter-only` to refresh metadata without overwriting note bodies during debugging.
+- Inspect the console summary for the processed entry count; a sudden drop usually signals an upstream parsing failure.
+- Validate generated markdown in Obsidian or a Markdown preview to confirm wiki-links resolve as expected.
 
 -----
 
 ## 📦 Future Enhancements
 
-- [x] Author name parsing improvements
-  - Handle multi-line author entries
-  - Better institution handling
-  - Consistent name formatting
-
-- [x] Special character handling
-  - Proper escaping in YAML
-  - URL formatting
-  - BibTeX escape sequence handling
-
-- [ ] Author File Generation
-  - Create individual author pages
-  - Maintain citation cross-references
-  - Support additional metadata fields
-
-- [ ] Potential Improvements
-  - Support for additional BibTeX fields
-  - Custom citation styles
-  - Enhanced error reporting
-  - Configuration file support
+- [ ] Improve Chicago bibliography formatting for institutional authors (avoid forced “Last, First” ordering).
+- [ ] De-duplicate author/publisher citation lists when regenerating files multiple times in a row.
+- [ ] Expand test coverage with sample fixtures and golden-file comparisons in CI.
+- [ ] Externalize configuration (input filename, output directories, callout templates) to a `.toml` or `.yaml` file.
+- [ ] Optional CSL-based formatter to support additional citation styles beyond Chicago.
 
 ---
 
-## 🧾 Planned Features for YAML and Alias Support
+## 🧾 Alias Support Summary
 
-- [x] **Add `aliases:` field to author YAML**
-  - Include the author’s **surname** as an alias (e.g. `aliases: [Williams]`)
-  - Enables Obsidian references to author notes using just the last name
-
-- [x] **Add `aliases:` field to citation YAML**
-  - Add the **full title** and an optional **short title** (if detected)
-  - Example:
-    ```yaml
-    aliases:
-      - A Better Future - Transforming Jobs And Skills For Young People Post-Pandemic
-      - A Better Future
-    ```
-
-- [x] **Update author files to include a Map of Content (MOC)**
-  - In addition to existing `![[@CitationKey]]` transclusions
-  - Add Obsidian links with alias syntax:
-    ```markdown
-    [[@Williams2021-iq|A Better Future]]
-    ```
-  - This allows the author page to show a human-readable title while linking to the citation note
-
---- 
-
-This action list defines YAML alias support and enhances author pages with more usable maps of content.
+- Citation notes include an `aliases:` list containing a title-case full title and (when available) a short title truncated at the first colon or dash.
+- Author notes append the primary surname to their `aliases:` list, making `[[Surname]]` lookups possible inside Obsidian.
+- MOC sections in author and publisher pages use `[[@CitationKey|Display Title]]` link aliases alongside the embedded bibliography (`![[@CitationKey]]`) so readers see both a skim-friendly list and full references.
 
 -----
 
 ## 📚 References
 
-- [bibtexparser Documentation](https://bibtexparser.readthedocs.io/)
+- [`pybtex` Documentation](https://pybtex.org/)
+- [`latexcodec` Project](https://pypi.org/project/latexcodec/)
 - [Obsidian Markdown Format](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
-- [BibTeX Format Documentation](http://www.bibtex.org/Format/)
+- [BibLaTeX Format Guide](https://ctan.org/pkg/biblatex)
 - [Chicago Citation Style](https://www.chicagomanualofstyle.org/tools_citationguide.html)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 

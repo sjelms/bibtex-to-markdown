@@ -10,7 +10,7 @@ def latex_to_unicode(text):
         return ""
     try:
         # Convert string to bytes, then decode using latex+utf8 codec
-        return str(text).encode().decode('latex+utf8')
+        return str(text).encode("utf-8").decode('latex+utf8')
     except (UnicodeDecodeError, UnicodeEncodeError):
         # Fallback to original text if decoding fails
         return str(text)
@@ -232,11 +232,11 @@ def clean_text(text, is_yaml=False):
         text = text.replace('\\_', '_')
         
     text = re.sub(r"\{(.*?)\}", r"\1", text)  # Remove braces `{}` while preserving content
-    text = text.replace(":", " - ")  # Replace colons with hyphens
     
     if is_yaml:
+        text = text.replace(":", " - ")  # Replace colons with hyphens for YAML safety
         text = text.replace("&", "and")  # Replace unescaped ampersands with "and" in YAML
-        
+    
     return text.strip()
 
 def format_persons(persons):
@@ -272,6 +272,7 @@ def format_persons(persons):
 def format_chicago_bibliography(authors, year, title, publisher, url):
     # Remove brackets before formatting the bibliography
     authors = [author.replace("[[", "").replace("]]", "") for author in authors]
+    display_title = clean_text(title, is_yaml=False)
 
     first_author = authors[0].split(" ")
     if len(first_author) > 1:
@@ -280,22 +281,31 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
         first_author = authors[0]  # Keep institutions unchanged
 
     formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
-    bibliography = f'{", ".join(formatted_authors)}. {year}. “{title}.” {publisher if publisher else ""}. {url}'
+    bibliography = f'{", ".join(formatted_authors)}. {year}. “{display_title}.” {publisher if publisher else ""}. {url}'
     return bibliography.strip().rstrip(".")  # Remove trailing period
 
 # Function to process keywords into valid YAML tags
 def process_keywords(keyword_str):
     if not keyword_str:
         return []
-    keywords = keyword_str.replace("\\", "").split(";")
+    # Remove escape slashes that often appear in BibLaTeX keyword exports
+    sanitized = keyword_str.replace("\\", "")
+    # BibLaTeX commonly separates keywords with commas or semicolons; handle both
+    keywords = re.split(r"[;,]", sanitized)
     cleaned_keywords = []
     for kw in keywords:
-        kw = clean_text(kw)  # Apply the clean_text function
-        kw = re.sub(r"[+]", "", kw)  # Remove plus signs (`+`)
-        kw = re.sub(r"(\.\d+)", "", kw)  # Remove decimal numbers (e.g., "4.0" → "4")
-        kw = re.sub(r"[\(\)\[\]\{\}]", "", kw)  # Remove parentheses, brackets, and curly braces
-        kw = re.sub(r"\s+", "-", kw)  # Replace spaces with hyphens
-        kw = kw.rstrip("-")  # Remove trailing hyphens
+        kw = kw.strip()
+        if not kw:
+            continue
+
+        # Clean the keyword while preserving punctuation needed for slugs
+        kw = clean_text(kw, is_yaml=True)
+        kw = kw.replace("+", " plus ")   # Preserve meaning of '+' while keeping YAML safe
+        kw = kw.replace("/", " ")        # Treat slashes as separators
+        kw = kw.replace(".", " ")        # Avoid collapsing decimal digits (e.g., 4.0 -> 4-0 later)
+        kw = re.sub(r"[\(\)\[\]\{\}]", "", kw)  # Remove brackets
+        kw = re.sub(r"\s+", "-", kw)  # Replace whitespace runs with hyphens
+        kw = re.sub(r"-+", "-", kw).strip("-")  # Collapse multiple hyphens
         if kw:
             cleaned_keywords.append(kw)
     return cleaned_keywords
@@ -463,7 +473,6 @@ for key, entry in bib_data.entries.items():
             author_metadata[clean_author] = {
                 'citations': [],
                 'institutions': set(),
-                'fields': set(),
                 'moc_display': {}
             }
         author_metadata[clean_author]['citations'].append(key)
@@ -481,7 +490,6 @@ for key, entry in bib_data.entries.items():
             author_metadata[clean_editor] = {
                 'citations': [],
                 'institutions': set(),
-                'fields': set(),
                 'moc_display': {}
             }
         author_metadata[clean_editor]['citations'].append(key)
