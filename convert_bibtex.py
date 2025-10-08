@@ -1,6 +1,8 @@
 import os
 import re
 import argparse
+from collections import defaultdict
+from datetime import datetime
 from pybtex.database import parse_file
 import latexcodec
 
@@ -20,15 +22,18 @@ BIBTEX_FILE = "main.bib"
 OUTPUT_DIR = "titles"
 AUTHORS_DIR = "authors"
 PUBLISHERS_DIR = "publisher"
+TYPES_DIR = "type"
 
 # Ensure output directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(AUTHORS_DIR, exist_ok=True)
 os.makedirs(PUBLISHERS_DIR, exist_ok=True)
+os.makedirs(TYPES_DIR, exist_ok=True)
 
 # Dictionary to track authors and their metadata
 author_metadata = {}  # Will store citations, institutions, and other fields
 entity_metadata = {}  # Will store publisher/journal pages and their citations
+type_metadata = defaultdict(list)  # Will store entries grouped by BibLaTeX entry type
 
 MONTH_MAP = {
     "jan": "01",
@@ -514,6 +519,18 @@ for key, entry in bib_data.entries.items():
     if norm_journal:
         ensure_entity(norm_journal, 'journal')
 
+    # Track entries per BibLaTeX type for directory generation
+    if entry_type:
+        primary_author_for_sort = formatted_authors[0].replace("[[", "").replace("]]", "") if formatted_authors else "Unknown Author"
+        year_int = int(year) if year.isdigit() and len(year) == 4 else None
+        type_metadata[entry_type].append({
+            'key': key,
+            'display_alias': display_alias,
+            'sort_author': primary_author_for_sort,
+            'year': year,
+            'year_int': year_int,
+        })
+
 # Generate author files (skip if doing a targeted update unless explicitly requested)
 if not args.only_with_editors and not args.no_author_files:
     for author, metadata in author_metadata.items():
@@ -609,7 +626,58 @@ if not args.only_with_editors and not args.no_author_files:
         with open(filename, "w", encoding="utf-8") as f:
             f.write(content)
 
+    # Generate type-based directory files
+    timestamp = datetime.now().isoformat(timespec="seconds")
+    for entry_type, entries in type_metadata.items():
+        if not entries:
+            continue
+
+        decade_map = defaultdict(lambda: defaultdict(list))
+        unknown_year_entries = []
+
+        for item in entries:
+            if item['year_int'] is not None:
+                decade_start = (item['year_int'] // 10) * 10
+                decade_map[decade_start][item['year_int']].append(item)
+            else:
+                unknown_year_entries.append(item)
+
+        type_lines = [
+            "---",
+            f'type: "[[@{entry_type}]]"',
+            f"amended: {timestamp}",
+            "---",
+            "",
+            "# Directory",
+        ]
+
+        for decade_start in sorted(decade_map.keys(), reverse=True):
+            decade_end = decade_start + 9
+            type_lines.append(f"## {decade_start}-{decade_end}")
+            for year_value in sorted(decade_map[decade_start].keys(), reverse=True):
+                type_lines.append(f"### {year_value}")
+                entries_for_year = sorted(
+                    decade_map[decade_start][year_value],
+                    key=lambda e: (e['sort_author'].lower(), e['display_alias'].lower())
+                )
+                for entry in entries_for_year:
+                    type_lines.append(f"- [[@{entry['key']}|{entry['display_alias']}]]")
+
+        if unknown_year_entries:
+            type_lines.append("## Unknown Year")
+            for entry in sorted(
+                unknown_year_entries,
+                key=lambda e: (e['sort_author'].lower(), e['display_alias'].lower())
+            ):
+                type_lines.append(f"- [[@{entry['key']}|{entry['display_alias']}]]")
+
+        type_content = "\n".join(type_lines).strip() + "\n"
+        type_filename = os.path.join(TYPES_DIR, f"@{entry_type}.md")
+        with open(type_filename, "w", encoding="utf-8") as f:
+            f.write(type_content)
+
 print(f"✅ Processed {processed_count} entries into {OUTPUT_DIR}/")
 if not args.only_with_editors and not args.no_author_files:
     print(f"✅ Author files created in {AUTHORS_DIR}/")
     print(f"✅ Publisher/Journal files created in {PUBLISHERS_DIR}/")
+    print(f"✅ Type directories created in {TYPES_DIR}/")
