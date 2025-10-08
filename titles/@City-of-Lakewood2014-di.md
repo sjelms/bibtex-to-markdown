@@ -1,0 +1,17 @@
+---
+title: The Lakewood Story -  City of Tomorrow
+year: 2014
+author - 1: "[[City of Lakewood]]"
+key: "[[@City-of-Lakewood2014-di]]"
+booktitle: City of Lakewood
+aliases:
+  - The Lakewood Story - City Of Tomorrow
+  - The Lakewood Story
+type: "[[@online]]"
+tags:
+  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - _BibTex-to-MD-Git
+---
+
+> [!bibliography]
+> Lakewood, City of. 2014. “The Lakewood Story: City of Tomorrow.” . https://www.lakewoodca.gov/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow

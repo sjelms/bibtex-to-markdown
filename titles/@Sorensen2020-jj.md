@@ -1,0 +1,19 @@
+---
+title: What Is the Fourth Industrial Revolution?
+year: 2020
+author - 1: "[[Peter Sorensen]]"
+key: "[[@Sorensen2020-jj]]"
+booktitle: Salesforce, The 360 Blog
+aliases:
+  - What Is The Fourth Industrial Revolution?
+type: "[[@online]]"
+tags:
+  - Frontiers-2022
+  - 2_Upgrade-MAY-2023
+  - _BibTex-to-MD-Git
+  - Cited-for-Frontiers
+  - _In-Notion
+---
+
+> [!bibliography]
+> Sorensen, Peter. 2020. “What Is the Fourth Industrial Revolution?.” . https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/
