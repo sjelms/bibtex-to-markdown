@@ -29,6 +29,7 @@
 ├── titles/             # Output directory for citation files
 ├── authors/            # Output directory for author and editor files
 ├── publisher/          # Output directory for publisher and journal files
+├── type/               # Output directory for type/decade/year directories
 ├── technical.md        # Technical documentation
 └── README.md          # Project overview and usage instructions
 ```
@@ -38,6 +39,7 @@
 - **`titles/`**: Generated markdown files for each citation, with YAML frontmatter and formatted content
 - **`authors/`**: Generated markdown files for each author/editor, containing cross-references to their publications
 - **`publisher/`**: Generated markdown files for each publisher and journal, each listing related citations
+- **`type/`**: Generated directories summarizing citations per BibLaTeX entry type, grouped by decade/year
 - **`technical.md`**: Detailed technical documentation of the project
 - **`README.md`**: Project overview, setup instructions, and basic usage guide
 
@@ -68,6 +70,7 @@ pip install pybtex latexcodec
    - The script creates and updates `titles/` for citation files
    - The script creates `authors/` for author/editor files
    - The script creates `publisher/` for publisher and journal entity files
+   - The script creates `type/` for BibLaTeX type directories
    - All directories are created automatically if missing
 
 ### 4. Running the Script
@@ -182,6 +185,7 @@ GitHub Actions:
   Abstract callouts are added only when an `abstract` field exists.
 - **Author files (`authors/Name.md`)** collect all citation backlinks for a given `[[Name]]`, add optional institution metadata, and embed each bibliography using `![[...]]` so changes in the source citation propagate automatically.
 - **Publisher/Journal files (`publisher/Entity.md`)** follow the same MOC pattern, grouping related citations under “Content:” with display aliases derived from the citation’s title.
+- **Type directories (`type/@entrytype.md`)** provide decade → year rollups for each BibLaTeX entry type with bullet lists sorted by primary author and rendered using the long alias.
 - Optional CLI flags (`--only-with-editors`, `--update-frontmatter-only`, `--no-author-files`) allow incremental updates without regenerating the entire knowledge graph.
 
 #### Citation Files:
@@ -273,8 +277,8 @@ category:
 
 ### Data Flow Summary
 1. Load entries from `main.bib`.
-2. For each entry, generate citation markdown, update author/editor aggregates, and track publisher/journal entities.
-3. After processing all entries, emit author and entity MOCs unless suppressed via CLI flags.
+2. For each entry, generate citation markdown, update author/editor aggregates, track publisher/journal entities, and queue records for type directories.
+3. After processing all entries, emit author, entity, and type MOCs unless suppressed via CLI flags.
 4. Print a run summary indicating how many entries were processed and which directories were touched.
 
 -----

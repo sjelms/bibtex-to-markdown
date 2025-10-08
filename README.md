@@ -75,6 +75,7 @@ python convert_bibtex.py --only-with-editors --update-frontmatter-only --no-auth
 | `titles/` | One Markdown note per citation (frontmatter + bibliography/abstract callouts). |
 | `authors/` | Obsidian MOC pages for each author/editor, linking to every related citation. |
 | `publisher/` | Pages for publishers and journals, with grouped citation links. |
+| `type/` | Directories grouped by BibLaTeX entry type with decade/year breakdowns of citations. |
 
 The script auto-creates these folders if they do not exist.
 
@@ -168,6 +169,30 @@ category:
 ```
 
 Entity names are normalized (punctuation removed, whitespace collapsed) to produce stable filenames and wiki-links.
+
+---
+
+## Type Directory Template (`type/@type.md`)
+
+```markdown
+---
+type: "[[@report]]"
+amended: 2025-10-08T10:06:00
+---
+
+# Directory
+## 2020-2029
+### 2020
+- [[@Autor2020-ol|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
+- [[@Barua2020-br|The Construction Workforce - Growing Again, But Not Changing Much]]
+## 2010-2019
+### 2016
+- [[@Berger2016-vc|Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work]]
+```
+
+- Notes are grouped first by decade, then year, and sorted alphabetically by the primary author within each year.
+- The link text always uses the long/full alias; if absent, the short alias is used as a fallback.
+- `amended` records the generation timestamp so you can audit when the directory was last refreshed.
 
 ---
 
