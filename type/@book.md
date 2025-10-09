@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-10-09T12:20:40
+amended: 2025-10-09T12:22:23
 ---
 
 # Directory
@@ -224,6 +224,7 @@ amended: 2025-10-09T12:20:40
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
 ### 2004
 - [[@Fuller2004-kj|Workplace Learning In Context]]
+- [[@Warhurst2004-qq|The Skills That Matter]]
 - [[@Goldratt2004-gr|The Goal - A Process Of Ongoing Improvement]]
 ### 2002
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
