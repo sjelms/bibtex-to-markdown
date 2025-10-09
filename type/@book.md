@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-10-08T09:48:07
+amended: 2025-10-09T10:28:23
 ---
 
 # Directory
@@ -153,6 +153,7 @@ amended: 2025-10-08T09:48:07
 ### 2014
 - [[@Gallace2014-lu|In Touch With The Future - The Sense Of Touch From Cognitive Neuroscience To Virtual Reality]]
 - [[@Fuller2014-ea|Contemporary Apprenticeship - International Perspectives On An Evolving Model Of Learning]]
+- [[@Arnold2014-fm|A Six Step Guide To Using Recursive Abstraction Applied To The Qualitative Analysis Of Interview Data]]
 - [[@Kamler2014-sz|Helping Doctoral Students Write - Pedagogies For Supervision]]
 - [[@Harteis2014-xv|Discourses On Professional Learning - On The Boundary Between Learning And Working]]
 - [[@Evans2014-wm|How To Write A Better Thesis]]
