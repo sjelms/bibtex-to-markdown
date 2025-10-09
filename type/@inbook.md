@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2025-10-09T10:28:23
+amended: 2025-10-09T12:14:29
 ---
 
 # Directory
@@ -111,6 +111,7 @@ amended: 2025-10-09T10:28:23
 - [[@Fuller2004-ys|Conclusion]]
 - [[@Fuller2004-kn|Expansive Learning Environments - Integrating Organizational And Personal Development]]
 - [[@Fuller2004-dw|Introduction And Overview]]
+- [[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
 - [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession]]
 - [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 - [[@Young2004-fs|Conceptualizing Vocational Knowledge - Some Theoretical Considerations]]
