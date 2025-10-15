@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2025-10-09T12:22:23
+amended: 2025-10-15T14:04:39
 ---
 
 # Directory
@@ -8,6 +8,7 @@ amended: 2025-10-09T12:22:23
 ### 2025
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
+- [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can Ai Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With Ai - Measuring The Occupational Implications Of Generative Ai]]
 ### 2024
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
