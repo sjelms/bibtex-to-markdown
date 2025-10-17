@@ -14,6 +14,7 @@ tags:
   - UK-United-Kingdom
   - BBC-British-Broadcasting-Corporation
   - _BibTex-to-MD-Git
+  - Government-Report
   - Readwise-Reader
   - Future-of-Work
   - Labor
