@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2025-10-16T10:42:30
+amended: 2025-10-17T07:34:08
 ---
 
 # Directory
@@ -8,6 +8,8 @@ amended: 2025-10-16T10:42:30
 ### 2025
 - [[@Eccles2025-kq|Grim Times For Graduates Facing Worst Jobs Market In A Generation]]
 - [[@Basak2025-gu|How Wall Street Plans To Fix The Housing Crisis]]
+### 2024
+- [[@Race2024-vr|Uk 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]
 ### 2023
 - [[@BBC-News2023-wp|New Raac Schools List Of Buildings With Unsafe Concrete]]
 - [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
