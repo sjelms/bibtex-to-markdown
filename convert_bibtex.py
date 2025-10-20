@@ -480,7 +480,8 @@ for key, entry in bib_data.entries.items():
                 'institutions': set(),
                 'moc_display': {}
             }
-        author_metadata[clean_author]['citations'].append(key)
+        if key not in author_metadata[clean_author]['citations']:
+            author_metadata[clean_author]['citations'].append(key)
         author_metadata[clean_author]['moc_display'][key] = display_alias
 
         # Track institution if available
@@ -497,7 +498,8 @@ for key, entry in bib_data.entries.items():
                 'institutions': set(),
                 'moc_display': {}
             }
-        author_metadata[clean_editor]['citations'].append(key)
+        if key not in author_metadata[clean_editor]['citations']:
+            author_metadata[clean_editor]['citations'].append(key)
         author_metadata[clean_editor]['moc_display'][key] = display_alias
 
     # Track publisher/journal entity pages
@@ -511,7 +513,8 @@ for key, entry in bib_data.entries.items():
                 'moc_display': {}
             }
         entity_metadata[name]['categories'].add(category)
-        entity_metadata[name]['citations'].append(key)
+        if key not in entity_metadata[name]['citations']:
+            entity_metadata[name]['citations'].append(key)
         entity_metadata[name]['moc_display'][key] = display_alias
 
     if norm_publisher:
@@ -571,7 +574,7 @@ if not args.only_with_editors and not args.no_author_files:
             "",
             "### Content:",
         ])
-        for citation in sorted(metadata['citations']):
+        for citation in sorted(set(metadata['citations'])):
             disp = metadata['moc_display'].get(citation, citation)
             author_yaml.append(f"[[@{citation}|{disp}]]")
         author_yaml.extend([
@@ -581,7 +584,7 @@ if not args.only_with_editors and not args.no_author_files:
         ])
 
         # Add citation embeds, one per line
-        for citation in sorted(metadata['citations']):
+        for citation in sorted(set(metadata['citations'])):
             author_yaml.append(f"![[@{citation}]]")
             author_yaml.append("")  # Add empty line between citations
 
