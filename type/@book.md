@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-10-20T09:38:57
+amended: 2025-10-20T09:43:31
 ---
 
 # Directory
@@ -108,6 +108,7 @@ amended: 2025-10-20T09:38:57
 - [[@Fry2018-os|Hello World - Being Human In The Age Of Algorithms]]
 - [[@Rosling2018-nw|Factfulness - The Ten Reason We're Wrong About The World - And Why Things Are Better Than You Think]]
 - [[@Knapp2018-ku|Make Time - How To Focus On What Matters Every Day]]
+- [[@Clear2018-uq|Atomic Habits - Tiny Changes, Remarkable Results]]
 - [[@Bailenson2018-kb|Experience On Demand - What Virtual Reality Is, How It Works, And What It Can Do]]
 - [[@Keynes2018-kw|The General Theory Of Employment, Interest, And Money]]
 - [[@Bell2018-cz|Doing Your Research Project - A Guide For First-Time Researchers]]
