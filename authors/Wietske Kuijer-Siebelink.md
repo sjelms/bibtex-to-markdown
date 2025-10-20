@@ -10,7 +10,7 @@ aliases:
 ## Wietske Kuijer-Siebelink
 
 ### Content:
-[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (vet)]]
+[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
 
 #### Bibliography:
 

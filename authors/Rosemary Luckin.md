@@ -15,7 +15,6 @@ aliases:
 [[@Luckin2016-lp|Intelligence Unleashed]]
 [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
 [[@Roll2021-jb|Artificial Intelligence In Education]]
-[[@Roll2021-jb|Artificial Intelligence In Education]]
 
 #### Bibliography:
 
@@ -26,7 +25,5 @@ aliases:
 ![[@Luckin2016-lp]]
 
 ![[@Rebolledo-Mendez2011-mg]]
-
-![[@Roll2021-jb]]
 
 ![[@Roll2021-jb]]

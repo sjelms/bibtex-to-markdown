@@ -5,7 +5,7 @@ author - 1: "[[Lee Bryer]]"
 author - 2: "[[Ian Hill]]"
 key: "[[@Bryer2021-cn]]"
 aliases:
-  - Citb Construction Skills Network 5-Year Outlook 2021-2025
+  - CITB Construction Skills Network 5-Year Outlook 2021-2025
 institution: "[[Construction Industry Training Board]]"
 type: "[[@report]]"
 tags:

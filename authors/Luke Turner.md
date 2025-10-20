@@ -10,7 +10,7 @@ aliases:
 ## Luke Turner
 
 ### Content:
-[[@Turner2019-lv|The Role Of Smes In The Uk Construction Industry]]
+[[@Turner2019-lv|The Role Of Smes In The UK Construction Industry]]
 
 #### Bibliography:
 

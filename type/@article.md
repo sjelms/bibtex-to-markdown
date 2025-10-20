@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2025-10-19T11:38:37
+amended: 2025-10-20T09:35:12
 ---
 
 # Directory
@@ -8,12 +8,12 @@ amended: 2025-10-19T11:38:37
 ### 2025
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
-- [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can Ai Become A Research Assistant In Qualitative Research?]]
-- [[@Tomlinson2025-ou|Working With Ai - Measuring The Occupational Implications Of Generative Ai]]
+- [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
+- [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 ### 2024
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 ### 2023
-- [[@Frey2023-rj|Generative Ai And The Future Of Work - A Reappraisal]]
+- [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 ### 2022
@@ -28,12 +28,12 @@ amended: 2025-10-19T11:38:37
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
 - [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs]]
-- [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear Vr]]
+- [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
 - [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
 ### 2021
 - [[@Venkatesh2021-uz|Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions]]
-- [[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The Eu]]
+- [[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The EU]]
 - [[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction - The Case Of Cross Laminated Timber]]
 - [[@Boton2021-cz|What Is At The Root Of Construction 4.0 - A Systematic Review Of The Recent Research Effort]]
 - [[@Rawlings2021-tt|The City Of Tomorrow, Today]]
@@ -45,7 +45,7 @@ amended: 2025-10-19T11:38:37
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
 - [[@Puntambekar2021-pm|Distributed Scaffolding - Scaffolding Students In Classroom Environments]]
 - [[@Balasubramanian2021-ju|The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market]]
-- [[@Kambhampati2021-lr|Polanyi's Revenge And Ai's New Romance With Tacit Knowledge]]
+- [[@Kambhampati2021-lr|Polanyi's Revenge And AI's New Romance With Tacit Knowledge]]
 - [[@Georgiou2021-hp|Learning Experience Design With Immersive Virtual Reality In Physics Education]]
 ### 2020
 - [[@Lippert2020-ei|Multiple Agent Designs In Conversational Intelligent Tutoring Systems]]
@@ -71,7 +71,7 @@ amended: 2025-10-19T11:38:37
 - [[@Shanbari2019-ig|Use Of Video Games To Enhance Construction Management Education]]
 - [[@Veile2019-es|Lessons Learned From Industry 4.0 Implementation In The German Manufacturing Industry]]
 - [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
-- [[@Farnese2019-fw|Managing Knowledge In Organizations - A Nonaka’s Seci Model Operationalization]]
+- [[@Farnese2019-fw|Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization]]
 - [[@Hossain2019-no|Towards Digitizing The Construction Industry - State Of The Art Of Construction 4.0]]
 - [[@Bertram2019-rb|Modular Construction - From Projects To Products]]
 - [[@Barkokebas2019-eh|Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry]]
@@ -87,8 +87,8 @@ amended: 2025-10-19T11:38:37
 - [[@Goller2018-oz|Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home]]
 - [[@Lucas2018-na|The Utility Of Case Study As A Methodology For Work-Integrated Learning Research]]
 - [[@Wang2018-sj|A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training]]
-- [[@Hairstans2018-zk|Offsite Hub (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The Uk]]
-- [[@Traylor2018-hf|Spatial Learning And Stem - What Are We Missing?]]
+- [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
+- [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
@@ -96,7 +96,7 @@ amended: 2025-10-19T11:38:37
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
 - [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
-- [[@Berger2017-ln|Industrial Renewal In The 21st Century - Evidence From Us Cities]]
+- [[@Berger2017-ln|Industrial Renewal In The 21st Century - Evidence From US Cities]]
 ### 2016
 - [[@Kaklauskas2016-uk|Intelligent Decision-Support Systems And The Internet Of Things For The Smart Built Environment]]
 - [[@Vogel-Heuser2016-ng|Guest Editorial Industry 4.0–Prerequisites And Visions]]
@@ -105,7 +105,7 @@ amended: 2025-10-19T11:38:37
 - [[@Cai2016-tp|The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists]]
 - [[@Mylopoulos2016-cz|Preparation For Future Learning - A Missing Competency In Health Professions Education?]]
 - [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]
-- [[@Brandner2016-wd|Cross Laminated Timber (clt) - Overview And Development]]
+- [[@Brandner2016-wd|Cross Laminated Timber (CLT) - Overview And Development]]
 - [[@Sottilare2016-md|A Process For Adaptive Instruction Of Tasks In The Psychomotor Domain]]
 - [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 - [[@Joffroy2016-cy|Learning From Local Building Cultures To Improve Housing Project Sustainability]]
@@ -123,10 +123,10 @@ amended: 2025-10-19T11:38:37
 - [[@Cuendet2014-vs|A Study Of Carpenter Apprentices’ Spatial Skills]]
 ### 2013
 - [[@Frey2013-nj|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
-- [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The Us Labor Market]]
+- [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
 - [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building - Exploring Product Development Platforms]]
 - [[@Killingsworth2013-qe|Synergy - A Case Study In Workforce Curriculum Development]]
-- [[@Hudson2013-id|Trends In Cte Coursetaking. Data Point. Nces 2014-901]]
+- [[@Hudson2013-id|Trends In CTE Coursetaking. Data Point. NCES 2014-901]]
 - [[@Chong2013-nz|The ‘russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education]]
 - [[@Pink2013-ju|Short-Term Ethnography - Intense Routes To Knowing]]
 - [[@Ahn2013-of|The Effect Of Embodied Experiences On Self-Other Merging, Attitude, And Helping Behavior]]
@@ -143,9 +143,9 @@ amended: 2025-10-19T11:38:37
 - [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
 - [[@Poortman2011-zl|Apprenticeship - From Learning Theory To Practice]]
-- [[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The Seci Model]]
+- [[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
 - [[@VanLehn2011-cd|The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems]]
-- [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The Uk]]
+- [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The UK]]
 - [[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
 ### 2010
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
@@ -156,13 +156,13 @@ amended: 2025-10-19T11:38:37
 - [[@Hirschman2009-cs|Immigration And The American Industrial Revolution From 1880 To 1920]]
 - [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
 - [[@Bishop2009-co|Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry]]
-- [[@Murphy2009-fx|Experience Based Learning (ebl) - Exploring Professional Teaching Through Critical Reflection And Reflexivity]]
+- [[@Murphy2009-fx|Experience Based Learning (EBL) - Exploring Professional Teaching Through Critical Reflection And Reflexivity]]
 - [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
-- [[@Sorby2009-nw|Educational Research In Developing 3d Spatial Skills For Engineering Students]]
-- [[@Nadim2009-px|Offsite Production In The Uk - The Construction Industry And Academia]]
+- [[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
+- [[@Nadim2009-px|Offsite Production In The UK - The Construction Industry And Academia]]
 ### 2008
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
-- [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
+- [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
 - [[@Wang2008-rq|Craft Training Issues In American Industrial And Commercial Construction]]
@@ -184,7 +184,7 @@ amended: 2025-10-19T11:38:37
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]
-- [[@Glover2005-ke|Registered Apprenticeship Training In The Us Construction Industry]]
+- [[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
 - [[@Lajoie2005-xt|Extending The Scaffolding Metaphor]]
 - [[@Friesner2005-io|Learning Logs - Assessment Or Research Method?]]
 ### 2004
@@ -193,7 +193,7 @@ amended: 2025-10-19T11:38:37
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]
 ### 2003
 - [[@Fuller2003-gh|Fostering Workplace Learning - Looking Through The Lens Of Apprenticeship]]
-- [[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace - Creating And Managing Expansive And Restrictive Participation]]
+- [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace - Creating And Managing Expansive And Restrictive Participation]]
 - [[@Autor2003-ju|The Skill Content Of Recent Technological Change - An Empirical Exploration]]
 - [[@Billett2003-kh|Vocational Curriculum And Pedagogy - An Activity Theory Perspective]]
 ### 2002
@@ -204,7 +204,7 @@ amended: 2025-10-19T11:38:37
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
 ### 2000
-- [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large Uk Construction Companies]]
+- [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 - [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training - Evidence From The Literature]]
 - [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
 ## 1990-1999
@@ -256,13 +256,13 @@ amended: 2025-10-19T11:38:37
 - [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
 ### 1976
 - [[@Wood1976-cd|The Role Of Tutoring In Problem Solving]]
-- [[@Smith1976-wi|Educational Uses Of The Plato Computer System]]
+- [[@Smith1976-wi|Educational Uses Of The PLATO Computer System]]
 ### 1973
 - [[@Sage1973-wn|In Memoriam - Jaime R. Carbonell]]
 ### 1971
 - [[@Abeck1971-vn|U.s. Steel Fabricates Rooms For Florida's Disney World]]
 ### 1970
-- [[@Carbonell1970-ty|Ai In Cai - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
+- [[@Carbonell1970-ty|AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
 ## 1960-1969
 ### 1961
 - [[@Bruner1961-tg|The Act Of Discovery]]

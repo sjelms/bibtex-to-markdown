@@ -7,8 +7,8 @@ author - 3: "[[Ghang Lee]]"
 author - 4: "[[Paul Teicholz]]"
 key: "[[@Sacks2018-cv]]"
 aliases:
-  - Bim Handbook - A Guide To Building Information Modeling For Owners, Designers, Engineers, Contractors, And Facility Managers
-  - Bim Handbook
+  - BIM Handbook - A Guide To Building Information Modeling For Owners, Designers, Engineers, Contractors, And Facility Managers
+  - BIM Handbook
 publisher: "[[John Wiley and Sons]]"
 type: "[[@book]]"
 tags:

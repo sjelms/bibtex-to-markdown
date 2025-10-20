@@ -6,7 +6,7 @@ author - 2: "[[Jon Andrews]]"
 author - 3: "[[Jonathan Gillham]]"
 key: "[[@Cameron2017-nq]]"
 aliases:
-  - The Economic Impact Of Artificial Intelligence On The Uk Economy
+  - The Economic Impact Of Artificial Intelligence On The UK Economy
 institution: "[[PriceWaterhouseCoopers LLP]]"
 type: "[[@report]]"
 tags:

@@ -7,7 +7,7 @@ author - 3: "[[Simon Sherratt]]"
 key: "[[@Sherratt2023-ta]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:
-  - The Digitalization Of Uk Construction Labour
+  - The Digitalization Of UK Construction Labour
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:

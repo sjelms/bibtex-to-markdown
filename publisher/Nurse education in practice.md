@@ -10,4 +10,4 @@ category:
 ## Nurse education in practice
 
 ### Content:
-[[@Murphy2009-fx|Experience Based Learning (ebl)]]
+[[@Murphy2009-fx|Experience Based Learning (EBL)]]

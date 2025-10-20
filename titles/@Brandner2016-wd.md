@@ -8,8 +8,8 @@ author - 4: "[[Gerhard Schickhofer]]"
 author - 5: "[[Alexandra Thiel]]"
 key: "[[@Brandner2016-wd]]"
 aliases:
-  - Cross Laminated Timber (clt) - Overview And Development
-  - Cross Laminated Timber (clt)
+  - Cross Laminated Timber (CLT) - Overview And Development
+  - Cross Laminated Timber (CLT)
 journal: "[[European Journal of Wood and Wood Products]]"
 type: "[[@article]]"
 tags:

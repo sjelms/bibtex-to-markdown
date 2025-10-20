@@ -10,7 +10,7 @@ aliases:
 ## Paul Cheshire
 
 ### Content:
-[[@Cheshire2021-mh|Why Central London Has Seen The Biggest Rises In House Prices, Despite Covid]]
+[[@Cheshire2021-mh|Why Central London Has Seen The Biggest Rises In House Prices, Despite COVID]]
 
 #### Bibliography:
 

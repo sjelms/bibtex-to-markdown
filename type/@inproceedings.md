@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2025-10-19T11:38:37
+amended: 2025-10-20T09:35:12
 ---
 
 # Directory
@@ -15,7 +15,7 @@ amended: 2025-10-19T11:38:37
 - [[@Delson2020-gz|Development Of A Spatial Visualization Assessment Tool For Younger Students Using A Lego™ Assembly Task]]
 ## 2010-2019
 ### 2019
-- [[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of Aec Objects In Ifc]]
+- [[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC]]
 - [[@Wolf2019-ff|Case Study On Mobile Virtual Reality Construction Training]]
 - [[@Humble2019-rg|Artificial Intelligence In Education – A Promise, A Threat Or A Hype?]]
 - [[@Vasilevski2019-cl|Optimizing Augmented Reality Outcomes In A Gamified Place Experience Application Through Design Science Research]]
@@ -28,7 +28,7 @@ amended: 2025-10-19T11:38:37
 - [[@Chang2017-qn|Evaluating The Effect Of Tangible Virtual Reality On Spatial Perspective Taking Ability]]
 - [[@Chen2017-sr|A Review Of Using Augmented Reality In Education From 2011 To 2016]]
 ### 2016
-- [[@Lang2016-it|Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The Uk?]]
+- [[@Lang2016-it|Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The UK?]]
 ### 2015
 - [[@LaViola2015-bg|Using Augmented Reality To Tutor Military Tasks In The Wild]]
 ### 2013
@@ -49,7 +49,7 @@ amended: 2025-10-19T11:38:37
 ### 2003
 - [[@Zimmons2003-kh|The Influence Of Rendering Quality On Presence And Task Performance In A Virtual Environment]]
 ### 2000
-- [[@Millen2000-tf|Rapid Ethnography - Time Deepening Strategies For Hci Field Research]]
+- [[@Millen2000-tf|Rapid Ethnography - Time Deepening Strategies For HCI Field Research]]
 ## 1990-1999
 ### 1999
 - [[@Chini1999-tj|Causes Of The Construction Skilled Labor Shortage And Proposed Solutions]]

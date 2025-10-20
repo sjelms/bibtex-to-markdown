@@ -8,7 +8,7 @@ editor - 2: "[[Lorna Unwin]]"
 key: "[[@Guile2019-mh]]"
 booktitle: The Wiley Handbook of Vocational Education and Training
 aliases:
-  - Introduction To The Handbook - Vocational Education And Training (vet) Theory, Practice, And Policy For A Complex Field Of Inquiry
+  - Introduction To The Handbook - Vocational Education And Training (VET) Theory, Practice, And Policy For A Complex Field Of Inquiry
   - Introduction To The Handbook
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"

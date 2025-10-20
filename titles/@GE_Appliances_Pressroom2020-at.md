@@ -4,7 +4,7 @@ year: 2020
 author - 1: "[[GE Appliances Pressroom]]"
 key: "[[@GE_Appliances_Pressroom2020-at]]"
 aliases:
-  - Ge Appliances To Hire 150 Employees At Appliance Park For Part-Time Gea2day Program Expansion
+  - GE Appliances To Hire 150 Employees At Appliance Park For Part-Time Gea2day Program Expansion
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22

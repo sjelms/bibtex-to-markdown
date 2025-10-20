@@ -10,7 +10,7 @@ aliases:
 ## Tom Lane
 
 ### Content:
-[[@Lowe2023-gc|The Raac Schools Crisis]]
+[[@Lowe2023-gc|The RAAC Schools Crisis]]
 
 #### Bibliography:
 

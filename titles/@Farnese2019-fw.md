@@ -7,7 +7,7 @@ author - 3: "[[Antonio Chirumbolo]]"
 author - 4: "[[Gerardo Patriotta]]"
 key: "[[@Farnese2019-fw]]"
 aliases:
-  - Managing Knowledge In Organizations - A Nonaka’s Seci Model Operationalization
+  - Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization
   - Managing Knowledge In Organizations
 journal: "[[Frontiers in psychology]]"
 type: "[[@article]]"

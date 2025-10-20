@@ -4,8 +4,8 @@ year: 2018
 author - 1: "[[Scott Traylor]]"
 key: "[[@Traylor2018-hf]]"
 aliases:
-  - Spatial Learning And Stem - What Are We Missing?
-  - Spatial Learning And Stem
+  - Spatial Learning And STEM - What Are We Missing?
+  - Spatial Learning And STEM
 journal: "[[Children s Technology Review]]"
 type: "[[@article]]"
 tags:

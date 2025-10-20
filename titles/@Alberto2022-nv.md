@@ -4,7 +4,7 @@ year: 2022
 author - 1: "[[Jayzona Alberto]]"
 key: "[[@Alberto2022-nv]]"
 aliases:
-  - Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In Cme-Cpd
+  - Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In CME-CPD
 type: "[[@misc]]"
 tags:
   - Healthcare-and-CME

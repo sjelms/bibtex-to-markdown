@@ -4,7 +4,7 @@ year: 2025
 author - 1: "[[Kien Nguyen-Trung]]"
 key: "[[@Nguyen-Trung2025-au]]"
 aliases:
-  - Chatgpt In Thematic Analysis - Can Ai Become A Research Assistant In Qualitative Research?
+  - Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?
   - Chatgpt In Thematic Analysis
 journal: "[[Quality and quantity]]"
 publisher: "[[Springer Science and Business Media LLC]]"

@@ -10,4 +10,4 @@ category:
 ## IEEE Transactions on Man Machine Systems
 
 ### Content:
-[[@Carbonell1970-ty|Ai In Cai]]
+[[@Carbonell1970-ty|AI In CAI]]

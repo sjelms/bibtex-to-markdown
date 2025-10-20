@@ -4,8 +4,8 @@ year: 2021
 author - 1: "[[Cornel Hillmann]]"
 key: "[[@Hillmann2021-wr]]"
 aliases:
-  - Ux For Xr - User Experience Design And Strategies For Immersive Technologies
-  - Ux For Xr
+  - UX For XR - User Experience Design And Strategies For Immersive Technologies
+  - UX For XR
 publisher: "[[Apress]]"
 type: "[[@book]]"
 tags:

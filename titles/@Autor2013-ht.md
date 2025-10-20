@@ -5,7 +5,7 @@ author - 1: "[[David H Autor]]"
 author - 2: "[[David Dorn]]"
 key: "[[@Autor2013-ht]]"
 aliases:
-  - The Growth Of Low-Skill Service Jobs And The Polarization Of The Us Labor Market
+  - The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market
 journal: "[[American Economic Review]]"
 publisher: "[[American Economic Association]]"
 type: "[[@article]]"

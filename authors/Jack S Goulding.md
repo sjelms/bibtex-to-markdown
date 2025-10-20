@@ -11,12 +11,9 @@ aliases:
 
 ### Content:
 [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction]]
-[[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction]]
-[[@Nadim2009-px|Offsite Production In The Uk]]
+[[@Nadim2009-px|Offsite Production In The UK]]
 
 #### Bibliography:
-
-![[@Goulding2019-hp]]
 
 ![[@Goulding2019-hp]]
 

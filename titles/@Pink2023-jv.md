@@ -5,7 +5,7 @@ author - 1: "[[Richard Pink]]"
 author - 2: "[[Roxanne Emery]]"
 key: "[[@Pink2023-jv]]"
 aliases:
-  - Dirty Laundry - Why Adults With Adhd Are So Ashamed And What We Can Do To Help
+  - Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help
   - Dirty Laundry
 publisher: "[[Random House]]"
 type: "[[@book]]"

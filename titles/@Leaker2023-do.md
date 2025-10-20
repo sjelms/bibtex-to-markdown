@@ -4,8 +4,8 @@ year: 2023
 author - 1: "[[Debra Leaker]]"
 key: "[[@Leaker2023-do]]"
 aliases:
-  - Labour Market Overview, Uk - Office For National Statistics
-  - Labour Market Overview, Uk
+  - Labour Market Overview, UK - Office For National Statistics
+  - Labour Market Overview, UK
 publisher: "[[Office for National Statistics]]"
 type: "[[@online]]"
 tags:

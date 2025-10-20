@@ -11,7 +11,7 @@ category:
 
 ### Content:
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
-[[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large Uk Construction Companies]]
+[[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 [[@Glass2022-ms|Transforming Construction]]
 [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms]]
 [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building]]

@@ -10,7 +10,7 @@ aliases:
 ## Hugh Dubberly
 
 ### Content:
-[[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The Seci Model]]
+[[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
 
 #### Bibliography:
 

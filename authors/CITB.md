@@ -10,7 +10,7 @@ aliases:
 ## CITB
 
 ### Content:
-[[@Citb2015-yq|Future Of Jobs And Skills In The Uk Construction Sector To 2030]]
+[[@Citb2015-yq|Future Of Jobs And Skills In The UK Construction Sector To 2030]]
 
 #### Bibliography:
 

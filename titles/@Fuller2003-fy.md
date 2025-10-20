@@ -5,8 +5,8 @@ author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
 key: "[[@Fuller2003-fy]]"
 aliases:
-  - Learning As Apprentices In The Contemporary Uk Workplace - Creating And Managing Expansive And Restrictive Participation
-  - Learning As Apprentices In The Contemporary Uk Workplace
+  - Learning As Apprentices In The Contemporary UK Workplace - Creating And Managing Expansive And Restrictive Participation
+  - Learning As Apprentices In The Contemporary UK Workplace
 journal: "[[Journal of Education and Work]]"
 publisher: "[[Routledge]]"
 type: "[[@article]]"

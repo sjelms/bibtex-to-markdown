@@ -4,7 +4,7 @@ year: 2024
 author - 1: "[[Josh Ryan-Collins]]"
 key: "[[@Ryan-Collins2024-sw]]"
 aliases:
-  - The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The Uk
+  - The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The UK
   - The Demand For Housing As An Investment
 type: "[[@report]]"
 tags:

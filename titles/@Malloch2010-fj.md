@@ -4,7 +4,7 @@ year: 2010
 author - 1: "[[Margaret Malloch]]"
 key: "[[@Malloch2010-fj]]"
 aliases:
-  - The Sage Handbook Of Workplace Learning
+  - The SAGE Handbook Of Workplace Learning
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:

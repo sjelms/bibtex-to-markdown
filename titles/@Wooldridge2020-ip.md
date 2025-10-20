@@ -4,7 +4,7 @@ year: 2020
 author - 1: "[[Michael Wooldridge]]"
 key: "[[@Wooldridge2020-ip]]"
 aliases:
-  - The Road To Conscious Machines - The Story Of Ai
+  - The Road To Conscious Machines - The Story Of AI
   - The Road To Conscious Machines
 publisher: "[[Penguin UK]]"
 type: "[[@book]]"

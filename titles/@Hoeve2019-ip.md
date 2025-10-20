@@ -9,8 +9,8 @@ editor - 2: "[[Lorna Unwin]]"
 key: "[[@Hoeve2019-ip]]"
 booktitle: The Wiley Handbook of Vocational Education and Training
 aliases:
-  - Innovative Work-Based Learning For Responsive Vocational Education And Training (vet) - Lessons From Dutch Higher Vet
-  - Innovative Work-Based Learning For Responsive Vocational Education And Training (vet)
+  - Innovative Work-Based Learning For Responsive Vocational Education And Training (VET) - Lessons From Dutch Higher VET
+  - Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"
 tags:

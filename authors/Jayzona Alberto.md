@@ -10,7 +10,7 @@ aliases:
 ## Jayzona Alberto
 
 ### Content:
-[[@Alberto2022-nv|Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In Cme-Cpd]]
+[[@Alberto2022-nv|Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In CME-CPD]]
 
 #### Bibliography:
 

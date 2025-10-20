@@ -4,7 +4,7 @@ year: 2013
 author - 1: "[[Lisa Hudson]]"
 key: "[[@Hudson2013-id]]"
 aliases:
-  - Trends In Cte Coursetaking. Data Point. Nces 2014-901
+  - Trends In CTE Coursetaking. Data Point. NCES 2014-901
 journal: "[[National Center for Education Statistics]]"
 publisher: "[[National Center for Education Statistics]]"
 type: "[[@article]]"

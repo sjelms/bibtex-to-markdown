@@ -5,8 +5,8 @@ author - 1: "[[Wafaa Nadim]]"
 author - 2: "[[Jack S Goulding]]"
 key: "[[@Nadim2009-px]]"
 aliases:
-  - Offsite Production In The Uk - The Construction Industry And Academia
-  - Offsite Production In The Uk
+  - Offsite Production In The UK - The Construction Industry And Academia
+  - Offsite Production In The UK
 journal: "[[Architectural Engineering and Design Management]]"
 publisher: "[[Taylor and Francis]]"
 type: "[[@article]]"

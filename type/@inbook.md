@@ -1,25 +1,25 @@
 ---
 type: "[[@inbook]]"
-amended: 2025-10-19T11:38:37
+amended: 2025-10-20T09:35:12
 ---
 
 # Directory
 ## 2020-2029
 ### 2023
 - [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
-- [[@Sherratt2023-ta|The Digitalization Of Uk Construction Labour]]
-- [[@Sandanayake2023-yl|Key Components Of A Vr-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
+- [[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]
+- [[@Sandanayake2023-yl|Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
 - [[@Trinh2023-ib|Delivering Construction Safety Training And Education Using Immersive Learning Technology]]
 - [[@Assaad2023-ib|Opportunities And Challenges Of Offsite Construction]]
 - [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
 - [[@Sunindijo2023-kk|Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector]]
 - [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 ### 2022
-- [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of Ai]]
+- [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI]]
 - [[@Hall2022-de|New Business Models For Industrialized Construction]]
 - [[@Gu2022-hu|Carbon Impacts Of Engineered Wood Products In Construction]]
 - [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science]]
-- [[@Nonaka2022-du|The Seci Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]
+- [[@Nonaka2022-du|The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]
 - [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
 ### 2021
@@ -30,14 +30,14 @@ amended: 2025-10-19T11:38:37
 - [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
 ## 2010-2019
 ### 2019
-- [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (vet) - Lessons From Dutch Higher Vet]]
+- [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET) - Lessons From Dutch Higher VET]]
 - [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 - [[@Bakker2019-lj|The Learning Potential Of Boundary Crossing In The Vocational Curriculum]]
 - [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 - [[@Aprea2019-rf|Designing Technology-Enhanced Learning Environments In Vocational Education And Training]]
 - [[@Thuesen2019-fv|The Impact Of Organisational Learning And Change On Offsite Manufacturing]]
-- [[@Guile2019-mh|Introduction To The Handbook - Vocational Education And Training (vet) Theory, Practice, And Policy For A Complex Field Of Inquiry]]
-- [[@Guile2019-hk|Vet, Expertise, And Work - Situating The Challenge For The Twenty-First Century]]
+- [[@Guile2019-mh|Introduction To The Handbook - Vocational Education And Training (VET) Theory, Practice, And Policy For A Complex Field Of Inquiry]]
+- [[@Guile2019-hk|VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century]]
 - [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics]]
 - [[@Broad2019-rn|Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise]]
 - [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
@@ -57,7 +57,7 @@ amended: 2025-10-19T11:38:37
 - [[@Quale2017-wv|Onsite Vs. Offsite - Comparing Environmental Impacts]]
 - [[@Vibaek2017-sw|System Structures - A Theory Of Industrialised Architecture]]
 - [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
-- [[@Unwin2017-yf|From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?]]
+- [[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 - [[@Aitchison2017-ps|Prefabricated Housing In Architectural Culture]]
 - [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
 - [[@Lerman2017-ww|Skill Development In Middle Level Occupations - The Role Of Apprenticeship Training]]
@@ -69,7 +69,7 @@ amended: 2025-10-19T11:38:37
 - [[@Rice2017-wn|Offsite Construction Industry Meta-Analysis - Industry Survey Results]]
 - [[@Shute2017-lm|Assessment For Learning In Immersive Environments]]
 ### 2016
-- [[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter]]
+- [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter]]
 - [[@Fuller2016-el|Developing Expertise - Occupational Versus Job-Based Approaches In Contemporary Labour Markets]]
 - [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
 - [[@Barbour2016-ki|Technical, Arcane, Interpersonal, And Embodied Expertise]]

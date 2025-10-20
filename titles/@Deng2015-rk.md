@@ -4,7 +4,7 @@ year: 2015
 author - 1: "[[Fei Deng]]"
 key: "[[@Deng2015-rk]]"
 aliases:
-  - Performance Measurement System - Attributes, Effects And Context In Uk Construction Firms
+  - Performance Measurement System - Attributes, Effects And Context In UK Construction Firms
   - Performance Measurement System
 institution: "[[University College London]]"
 type: "[[@phdthesis]]"

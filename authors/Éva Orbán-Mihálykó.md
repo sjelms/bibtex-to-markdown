@@ -10,7 +10,7 @@ aliases:
 ## Éva Orbán-Mihálykó
 
 ### Content:
-[[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear Vr]]
+[[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
 
 #### Bibliography:
 

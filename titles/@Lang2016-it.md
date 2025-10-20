@@ -7,7 +7,7 @@ author - 3: "[[Chris Goodier]]"
 key: "[[@Lang2016-it]]"
 booktitle: Proceedings of the 32nd Annual ARCOM Conference
 aliases:
-  - Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The Uk?
+  - Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The UK?
 publisher: "[[Association of Researchers in Construction Management ARCOM]]"
 type: "[[@inproceedings]]"
 tags:

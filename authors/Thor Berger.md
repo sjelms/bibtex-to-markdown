@@ -10,7 +10,7 @@ aliases:
 ## Thor Berger
 
 ### Content:
-[[@Berger2016-vc|Structural Transformation In The Oecd]]
+[[@Berger2016-vc|Structural Transformation In The OECD]]
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]
 
 #### Bibliography:

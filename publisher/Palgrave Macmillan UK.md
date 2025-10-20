@@ -10,5 +10,5 @@ category:
 ## Palgrave Macmillan UK
 
 ### Content:
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd]]
+[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Potter2017-fz|Digital Media, Culture And Education]]

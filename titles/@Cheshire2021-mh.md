@@ -7,7 +7,7 @@ author - 3: "[[Olivier Schöni]]"
 key: "[[@Cheshire2021-mh]]"
 booktitle: London School of Economics and Political Science
 aliases:
-  - Why Central London Has Seen The Biggest Rises In House Prices, Despite Covid
+  - Why Central London Has Seen The Biggest Rises In House Prices, Despite COVID
 type: "[[@online]]"
 tags:
   - Frontiers-2022

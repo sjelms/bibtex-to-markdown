@@ -8,8 +8,8 @@ editor - 2: "[[Lorna Unwin]]"
 key: "[[@Guile2019-hk]]"
 booktitle: The Wiley Handbook of Vocational Education and Training
 aliases:
-  - Vet, Expertise, And Work - Situating The Challenge For The Twenty-First Century
-  - Vet, Expertise, And Work
+  - VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century
+  - VET, Expertise, And Work
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"
 tags:

@@ -4,7 +4,7 @@ year: 2021
 author - 1: "[[Mary Ann Azevedo]]"
 key: "[[@Azevedo2021-eb]]"
 aliases:
-  - With An Apple Store Designer As A Co-Founder, Juno Raises \$20m To Build Apartments More Sustainably
+  - With An Apple Store Designer As A Co-Founder, Juno Raises \$20M To Build Apartments More Sustainably
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22

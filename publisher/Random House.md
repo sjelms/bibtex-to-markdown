@@ -14,6 +14,6 @@ category:
 [[@Knapp2016-al|Sprint]]
 [[@Knapp2018-ku|Make Time]]
 [[@Kuang2019-nv|User Friendly]]
-[[@Lee2021-dp|Ai 2041]]
+[[@Lee2021-dp|AI 2041]]
 [[@Pink2023-jv|Dirty Laundry]]
 [[@Pink2024-hz|Small Talk]]

@@ -10,7 +10,7 @@ aliases:
 ## John Authers
 
 ### Content:
-[[@Authers2021-dw|If Your Ceo Talks Like Kant, Think Twice Before Investing]]
+[[@Authers2021-dw|If Your CEO Talks Like Kant, Think Twice Before Investing]]
 
 #### Bibliography:
 

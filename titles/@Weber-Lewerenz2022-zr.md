@@ -6,7 +6,7 @@ editor - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-zr]]"
 booktitle: Accents of added value in construction 4.0 -  Ethical observations in dealing with digitization and AI
 aliases:
-  - Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of Ai
+  - Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI
   - Guest Chapter
 publisher: "[[Springer Fachmedien Wiesbaden]]"
 type: "[[@inbook]]"

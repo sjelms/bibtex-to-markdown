@@ -10,7 +10,7 @@ aliases:
 ## Jessica McCabe
 
 ### Content:
-[[@McCabe2024-zg|How To Adhd]]
+[[@McCabe2024-zg|How To ADHD]]
 
 #### Bibliography:
 

@@ -10,7 +10,7 @@ aliases:
 ## Daniel Marinus Maria Vermeer
 
 ### Content:
-[[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (ppp) Procurement Systems For Social Infrastructure]]
+[[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 
 #### Bibliography:
 

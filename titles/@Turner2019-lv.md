@@ -5,7 +5,7 @@ author - 1: "[[Luke Turner]]"
 key: "[[@Turner2019-lv]]"
 booktitle: Royal Institution of Chartered Surveyors (RICS)
 aliases:
-  - The Role Of Smes In The Uk Construction Industry
+  - The Role Of Smes In The UK Construction Industry
 type: "[[@online]]"
 tags:
   - Construction-4-0

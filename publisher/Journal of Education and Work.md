@@ -11,4 +11,4 @@ category:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
-[[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
+[[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]

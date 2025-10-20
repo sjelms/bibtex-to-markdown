@@ -5,8 +5,8 @@ author - 1: "[[Kai-Fu Lee]]"
 author - 2: "[[Chen Qiufan]]"
 key: "[[@Lee2021-dp]]"
 aliases:
-  - Ai 2041 - Ten Visions For Our Future
-  - Ai 2041
+  - AI 2041 - Ten Visions For Our Future
+  - AI 2041
 publisher: "[[Random House]]"
 type: "[[@book]]"
 tags:

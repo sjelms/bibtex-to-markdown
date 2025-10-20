@@ -7,8 +7,8 @@ author - 3: "[[Tom Lane]]"
 key: "[[@Lowe2023-gc]]"
 booktitle: Building
 aliases:
-  - The Raac Schools Crisis - What We Know So Far
-  - The Raac Schools Crisis
+  - The RAAC Schools Crisis - What We Know So Far
+  - The RAAC Schools Crisis
 type: "[[@online]]"
 tags:
   - _BibTex-to-MD-Git

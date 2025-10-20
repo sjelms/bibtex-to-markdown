@@ -4,7 +4,7 @@ year: 2022
 author - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-ow]]"
 aliases:
-  - Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And Ai
+  - Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI
   - Accents Of Added Value In Construction 4.0
 publisher: "[[Springer Nature]]"
 type: "[[@book]]"

@@ -10,4 +10,4 @@ category:
 ## Association for Computing Machinery and Morgan and Claypool Publishers
 
 ### Content:
-[[@Jerald2015-dg|The Vr Book]]
+[[@Jerald2015-dg|The VR Book]]

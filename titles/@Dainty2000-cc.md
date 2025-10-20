@@ -6,7 +6,7 @@ author - 2: "[[Barbara M Bagilhole]]"
 author - 3: "[[Richard H Neale]]"
 key: "[[@Dainty2000-cc]]"
 aliases:
-  - A Grounded Theory Of Women's Career Under-Achievement In Large Uk Construction Companies
+  - A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies
 journal: "[[Construction Management and Economics]]"
 publisher: "[[Routledge]]"
 type: "[[@article]]"

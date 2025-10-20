@@ -5,7 +5,7 @@ author - 1: "[[Lesley Stahl]]"
 key: "[[@Stahl2023-dx]]"
 booktitle: 60 Minutes
 aliases:
-  - Can 3d-Printed Homes Withstand A Changing Climate?
+  - Can 3D-Printed Homes Withstand A Changing Climate?
 publisher: "[[CBS Broadcasting Inc]]"
 type: "[[@misc]]"
 tags:

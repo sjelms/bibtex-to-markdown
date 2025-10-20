@@ -4,7 +4,7 @@ year: 2009
 author - 1: "[[Sheryl A Sorby]]"
 key: "[[@Sorby2009-nw]]"
 aliases:
-  - Educational Research In Developing 3d Spatial Skills For Engineering Students
+  - Educational Research In Developing 3D Spatial Skills For Engineering Students
 journal: "[[International Journal Of Science Education]]"
 publisher: "[[Routledge]]"
 type: "[[@article]]"

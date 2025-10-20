@@ -11,7 +11,7 @@ editor - 3: "[[Michael D Giardina]]"
 editor - 4: "[[Gaile S Cannella]]"
 key: "[[@Denzin2023-mp]]"
 aliases:
-  - The Sage Handbook Of Qualitative Research
+  - The SAGE Handbook Of Qualitative Research
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:

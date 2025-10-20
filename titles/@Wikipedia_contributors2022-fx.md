@@ -5,7 +5,7 @@ author - 1: "[[Wikipedia contributors]]"
 key: "[[@Wikipedia_contributors2022-fx]]"
 booktitle: Wikipedia, The Free Encyclopedia
 aliases:
-  - Seci Model Of Knowledge Dimensions
+  - SECI Model Of Knowledge Dimensions
 type: "[[@online]]"
 tags:
   - Wikipedia

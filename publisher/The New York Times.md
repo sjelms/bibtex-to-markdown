@@ -18,6 +18,4 @@ category:
 [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
 [[@Krugman2013-ut|An Ubernerd Weighs In]]
 [[@Ngo2021-qp|Skilled Workers Are Scarce, Posing A Challenge For Biden’s Infrastructure Plan]]
-[[@Ngo2021-qp|Skilled Workers Are Scarce, Posing A Challenge For Biden’s Infrastructure Plan]]
-[[@Rawsthorn2010-ut|Putting New Tools In Students' Hands]]
 [[@Rawsthorn2010-ut|Putting New Tools In Students' Hands]]

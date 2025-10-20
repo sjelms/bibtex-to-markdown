@@ -9,8 +9,8 @@ author - 5: "[[Nick Jewson]]"
 author - 6: "[[Konstantinos Kakavelakis]]"
 key: "[[@Unwin2008-pi]]"
 aliases:
-  - Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector
-  - Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach
+  - Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector
+  - Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach
 journal: "[[Learning as Work Teaching and Learning Processes in Contemporary Work Organisations]]"
 publisher: "[[Cardiff School of Social Sciences Cardiff University]]"
 type: "[[@article]]"

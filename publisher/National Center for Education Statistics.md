@@ -11,5 +11,4 @@ category:
 ## National Center for Education Statistics
 
 ### Content:
-[[@Hudson2013-id|Trends In Cte Coursetaking. Data Point. Nces 2014-901]]
-[[@Hudson2013-id|Trends In Cte Coursetaking. Data Point. Nces 2014-901]]
+[[@Hudson2013-id|Trends In CTE Coursetaking. Data Point. NCES 2014-901]]

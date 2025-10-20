@@ -10,7 +10,7 @@ aliases:
 ## Phillip Inman
 
 ### Content:
-[[@Inman2021-ce|Uk Enjoys Property Sales Boom Amid Covid-19 Pandemic]]
+[[@Inman2021-ce|UK Enjoys Property Sales Boom Amid Covid-19 Pandemic]]
 
 #### Bibliography:
 

@@ -4,8 +4,8 @@ year: 2002
 author - 1: "[[Stephen David Pryke]]"
 key: "[[@Pryke2002-uc]]"
 aliases:
-  - Uk Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies
-  - Uk Construction In Transition
+  - UK Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies
+  - UK Construction In Transition
 institution: "[[University College London]]"
 publisher: "[[UCL University College London]]"
 type: "[[@phdthesis]]"

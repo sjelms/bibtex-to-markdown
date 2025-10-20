@@ -10,7 +10,7 @@ aliases:
 ## Richard H Neale
 
 ### Content:
-[[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large Uk Construction Companies]]
+[[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 
 #### Bibliography:
 

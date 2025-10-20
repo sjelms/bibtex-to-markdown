@@ -5,8 +5,8 @@ author - 1: "[[Fei Qin]]"
 author - 2: "[[Thomas Kochan]]"
 key: "[[@Qin2020-ng]]"
 aliases:
-  - The Learning System At Ibm - A Case Study
-  - The Learning System At Ibm
+  - The Learning System At IBM - A Case Study
+  - The Learning System At IBM
 institution: "[[Massachusetts Institute of Technology Industrial Performance Center]]"
 publisher: "[[MIT Work of the Future]]"
 type: "[[@report]]"

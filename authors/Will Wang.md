@@ -10,7 +10,7 @@ aliases:
 ## Will Wang
 
 ### Content:
-[[@Tomlinson2025-ou|Working With Ai]]
+[[@Tomlinson2025-ou|Working With AI]]
 
 #### Bibliography:
 

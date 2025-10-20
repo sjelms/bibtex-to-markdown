@@ -4,7 +4,7 @@ year: 2021
 author - 1: "[[Phillip Inman]]"
 key: "[[@Inman2021-ce]]"
 aliases:
-  - Uk Enjoys Property Sales Boom Amid Covid-19 Pandemic
+  - UK Enjoys Property Sales Boom Amid Covid-19 Pandemic
 journal: "[[The Guardian]]"
 publisher: "[[The Guardian]]"
 type: "[[@misc]]"

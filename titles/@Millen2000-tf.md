@@ -5,7 +5,7 @@ author - 1: "[[David R Millen]]"
 key: "[[@Millen2000-tf]]"
 booktitle: Proceedings of the 3rd conference on Designing interactive systems -  processes, practices, methods, and techniques
 aliases:
-  - Rapid Ethnography - Time Deepening Strategies For Hci Field Research
+  - Rapid Ethnography - Time Deepening Strategies For HCI Field Research
   - Rapid Ethnography
 publisher: "[[Association for Computing Machinery]]"
 type: "[[@inproceedings]]"

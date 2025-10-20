@@ -11,4 +11,4 @@ category:
 
 ### Content:
 [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
-[[@Smith1976-wi|Educational Uses Of The Plato Computer System]]
+[[@Smith1976-wi|Educational Uses Of The PLATO Computer System]]

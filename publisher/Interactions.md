@@ -10,5 +10,5 @@ category:
 ## Interactions
 
 ### Content:
-[[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The Seci Model]]
+[[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
 [[@Loi2022-qi|Designing The Unfinished]]

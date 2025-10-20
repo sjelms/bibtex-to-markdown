@@ -10,7 +10,7 @@ author - 6: "[[Wendy Wilson]]"
 key: "[[@Francis-Devine2023-er]]"
 booktitle: House of Commons Library
 aliases:
-  - Rising Cost Of Living In The Uk
+  - Rising Cost Of Living In The UK
 publisher: "[[House of Commons of the United Kingdom]]"
 type: "[[@online]]"
 tags:

@@ -6,7 +6,7 @@ editor - 1: "[[Matthias Pilz]]"
 key: "[[@Unwin2017-yf]]"
 booktitle: Vocational Education and Training in Times of Economic Crisis -  Lessons from Around the World
 aliases:
-  - From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?
+  - From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?
 publisher: "[[Springer International Publishing]]"
 type: "[[@inbook]]"
 tags:

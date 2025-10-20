@@ -4,7 +4,7 @@ year: 2023
 author - 1: "[[BBC News]]"
 key: "[[@BBC-News2023-wp]]"
 aliases:
-  - New Raac Schools List Of Buildings With Unsafe Concrete
+  - New RAAC Schools List Of Buildings With Unsafe Concrete
 journal: "[[British Broadcasting Corporation]]"
 type: "[[@misc]]"
 tags:

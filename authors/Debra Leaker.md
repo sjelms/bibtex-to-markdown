@@ -10,7 +10,7 @@ aliases:
 ## Debra Leaker
 
 ### Content:
-[[@Leaker2023-do|Labour Market Overview, Uk]]
+[[@Leaker2023-do|Labour Market Overview, UK]]
 
 #### Bibliography:
 

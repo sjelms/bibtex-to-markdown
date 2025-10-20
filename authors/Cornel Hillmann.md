@@ -10,7 +10,7 @@ aliases:
 ## Cornel Hillmann
 
 ### Content:
-[[@Hillmann2021-wr|Ux For Xr]]
+[[@Hillmann2021-wr|UX For XR]]
 
 #### Bibliography:
 

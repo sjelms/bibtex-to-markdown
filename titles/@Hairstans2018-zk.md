@@ -5,8 +5,8 @@ author - 1: "[[Robert Hairstans]]"
 author - 2: "[[Ryan E Smith]]"
 key: "[[@Hairstans2018-zk]]"
 aliases:
-  - Offsite Hub (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The Uk
-  - Offsite Hub (scotland)
+  - Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK
+  - Offsite HUB (scotland)
 journal: "[[Architectural Engineering and Design Management]]"
 publisher: "[[Taylor and Francis]]"
 type: "[[@article]]"

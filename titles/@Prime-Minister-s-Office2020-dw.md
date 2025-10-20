@@ -5,7 +5,7 @@ author - 1: "[[Prime Minister's Office]]"
 key: "[[@Prime-Minister-s-Office2020-dw]]"
 booktitle: GOV.UK
 aliases:
-  - Major Expansion Of Post-18 Education And Training To Level Up And Prepare Workers For Post-Covid Economy
+  - Major Expansion Of Post-18 Education And Training To Level Up And Prepare Workers For Post-COVID Economy
 type: "[[@online]]"
 tags:
   - Notion-Catalogued

@@ -5,8 +5,8 @@ author - 1: "[[Fiona Murphy]]"
 author - 2: "[[Fiona Timmins]]"
 key: "[[@Murphy2009-fx]]"
 aliases:
-  - Experience Based Learning (ebl) - Exploring Professional Teaching Through Critical Reflection And Reflexivity
-  - Experience Based Learning (ebl)
+  - Experience Based Learning (EBL) - Exploring Professional Teaching Through Critical Reflection And Reflexivity
+  - Experience Based Learning (EBL)
 journal: "[[Nurse education in practice]]"
 type: "[[@article]]"
 tags:

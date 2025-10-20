@@ -5,7 +5,7 @@ author - 1: "[[Stanley G Smith]]"
 author - 2: "[[Bruce Arne Sherwood]]"
 key: "[[@Smith1976-wi]]"
 aliases:
-  - Educational Uses Of The Plato Computer System
+  - Educational Uses Of The PLATO Computer System
 journal: "[[Science]]"
 type: "[[@article]]"
 tags:

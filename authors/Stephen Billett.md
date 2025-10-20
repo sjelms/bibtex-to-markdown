@@ -19,7 +19,6 @@ aliases:
 [[@Billett2020-yt|Learning In The Workplace]]
 [[@Goller2014-jx|Agentic Behaviour At Work]]
 [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning]]
-[[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning]]
 [[@Harteis2014-go|New Skills For New Jobs]]
 
 #### Bibliography:
@@ -39,8 +38,6 @@ aliases:
 ![[@Billett2020-yt]]
 
 ![[@Goller2014-jx]]
-
-![[@Halttunen2014-de]]
 
 ![[@Halttunen2014-de]]
 

@@ -7,7 +7,7 @@ author - 3: "[[Cecilia Sik-Lanyi]]"
 author - 4: "[[Erika Perge]]"
 key: "[[@Guzsvinecz2022-jl]]"
 aliases:
-  - Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear Vr
+  - Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR
 journal: "[[Virtual reality]]"
 type: "[[@article]]"
 tags:

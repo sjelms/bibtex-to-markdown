@@ -5,7 +5,7 @@ author - 1: "[[Richard Pink]]"
 author - 2: "[[Roxanne Pink]]"
 key: "[[@Pink2024-hz]]"
 aliases:
-  - Small Talk - 10 Adhd Lies And How To Stop Believing Them
+  - Small Talk - 10 ADHD Lies And How To Stop Believing Them
   - Small Talk
 publisher: "[[Random House]]"
 type: "[[@book]]"

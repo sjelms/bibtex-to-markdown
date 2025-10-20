@@ -4,7 +4,7 @@ year: 2021
 author - 1: "[[Matthew Thompson]]"
 key: "[[@Thompson2021-sk]]"
 aliases:
-  - Dfma Overlay To The Riba Plan Of Work
+  - Dfma Overlay To The RIBA Plan Of Work
 institution: "[[RIBA]]"
 publisher: "[[Royal Institute of British Architects]]"
 type: "[[@report]]"

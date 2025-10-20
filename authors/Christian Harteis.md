@@ -12,7 +12,6 @@ aliases:
 ### Content:
 [[@Goller2014-jx|Agentic Behaviour At Work]]
 [[@Goller2014-mf|Employing Agency In Academic Settings]]
-[[@Goller2014-mf|Employing Agency In Academic Settings]]
 [[@Goller2018-oz|Becoming A Nurse Aide]]
 [[@Goller2020-or|Engineering Students' Learning During Internships]]
 [[@Harteis2014-go|New Skills For New Jobs]]
@@ -21,8 +20,6 @@ aliases:
 #### Bibliography:
 
 ![[@Goller2014-jx]]
-
-![[@Goller2014-mf]]
 
 ![[@Goller2014-mf]]
 

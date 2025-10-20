@@ -4,8 +4,8 @@ year: 1970
 author - 1: "[[Jaime R Carbonell]]"
 key: "[[@Carbonell1970-ty]]"
 aliases:
-  - Ai In Cai - An Artificial-Intelligence Approach To Computer-Assisted Instruction
-  - Ai In Cai
+  - AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction
+  - AI In CAI
 journal: "[[IEEE Transactions on Man Machine Systems]]"
 publisher: "[[Institute of Electrical and Electronics Engineers]]"
 type: "[[@article]]"

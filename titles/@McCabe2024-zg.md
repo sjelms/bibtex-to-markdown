@@ -4,8 +4,8 @@ year: 2024
 author - 1: "[[Jessica McCabe]]"
 key: "[[@McCabe2024-zg]]"
 aliases:
-  - How To Adhd - An Insider's Guide To Working With Your Brain (not Against It)
-  - How To Adhd
+  - How To ADHD - An Insider's Guide To Working With Your Brain (not Against It)
+  - How To ADHD
 publisher: "[[Rodale Books]]"
 type: "[[@book]]"
 tags:

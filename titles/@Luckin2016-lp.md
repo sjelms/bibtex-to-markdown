@@ -7,7 +7,7 @@ author - 3: "[[Mark Griffiths]]"
 author - 4: "[[Laurie B Forcier]]"
 key: "[[@Luckin2016-lp]]"
 aliases:
-  - Intelligence Unleashed - An Argument For Ai In Education
+  - Intelligence Unleashed - An Argument For AI In Education
   - Intelligence Unleashed
 publisher: "[[Pearson Education]]"
 type: "[[@book]]"

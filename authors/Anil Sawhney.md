@@ -15,7 +15,6 @@ aliases:
 [[@Pothier2019-fn|Industrialized Construction In Academia]]
 [[@Pothier2020-kd|Future Of Work In Construction]]
 [[@Sawhney2020-tm|Construction 4.0]]
-[[@Sawhney2020-tm|Construction 4.0]]
 [[@Sawhney2020-zl|A Proposed Framework For Construction 4.0 Based On A Review Of Literature]]
 
 #### Bibliography:
@@ -27,8 +26,6 @@ aliases:
 ![[@Pothier2019-fn]]
 
 ![[@Pothier2020-kd]]
-
-![[@Sawhney2020-tm]]
 
 ![[@Sawhney2020-tm]]
 

@@ -5,7 +5,7 @@ author - 1: "[[Douglas Belkin]]"
 key: "[[@Belkin2023-ak]]"
 booktitle: WSJ Online
 aliases:
-  - Americans Are Losing Faith In College Education, Wsj-Norc Poll Finds
+  - Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds
 type: "[[@online]]"
 tags:
   - 2_Upgrade-MAY-2023

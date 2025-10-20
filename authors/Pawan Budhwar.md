@@ -10,7 +10,7 @@ aliases:
 ## Pawan Budhwar
 
 ### Content:
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd]]
+[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 
 #### Bibliography:
 

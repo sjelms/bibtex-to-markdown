@@ -4,8 +4,8 @@ year: 2021
 author - 1: "[[Steph Hazlegreaves]]"
 key: "[[@Hazlegreaves2021-mk]]"
 aliases:
-  - Cop26 - What Is Next For The Built Environment?
-  - Cop26
+  - COP26 - What Is Next For The Built Environment?
+  - COP26
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22

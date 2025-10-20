@@ -8,7 +8,7 @@ author - 4: "[[Luciana Debs]]"
 key: "[[@Zhang2019-bm]]"
 booktitle: Proceedings of the 36th International Symposium on Automation and Robotics in Construction (ISARC)
 aliases:
-  - Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of Aec Objects In Ifc
+  - Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC
 publisher: "[[IAARC]]"
 type: "[[@inproceedings]]"
 tags:

@@ -16,7 +16,7 @@ aliases:
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
-[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
+[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
 
 #### Bibliography:
 

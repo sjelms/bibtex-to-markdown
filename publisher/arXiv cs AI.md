@@ -10,4 +10,4 @@ category:
 ## arXiv cs AI
 
 ### Content:
-[[@Tomlinson2025-ou|Working With Ai]]
+[[@Tomlinson2025-ou|Working With AI]]

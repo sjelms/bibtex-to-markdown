@@ -7,7 +7,7 @@ editor - 1: "[[Erica Smith]]"
 editor - 2: "[[Vikki Smith]]"
 key: "[[@Glover2005-ke]]"
 aliases:
-  - Registered Apprenticeship Training In The Us Construction Industry
+  - Registered Apprenticeship Training In The US Construction Industry
 journal: "[[Education + Training]]"
 type: "[[@article]]"
 tags:

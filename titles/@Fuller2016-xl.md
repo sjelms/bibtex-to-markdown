@@ -10,8 +10,8 @@ editor - 4: "[[Alan Brown]]"
 key: "[[@Fuller2016-xl]]"
 booktitle: Human Resource Management, Innovation and Performance
 aliases:
-  - Applying An Apprenticeship Approach To Hrd - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter
-  - Applying An Apprenticeship Approach To Hrd
+  - Applying An Apprenticeship Approach To HRD - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter
+  - Applying An Apprenticeship Approach To HRD
 publisher: "[[Palgrave Macmillan UK]]"
 type: "[[@inbook]]"
 tags:

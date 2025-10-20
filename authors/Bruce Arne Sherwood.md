@@ -10,7 +10,7 @@ aliases:
 ## Bruce Arne Sherwood
 
 ### Content:
-[[@Smith1976-wi|Educational Uses Of The Plato Computer System]]
+[[@Smith1976-wi|Educational Uses Of The PLATO Computer System]]
 
 #### Bibliography:
 

@@ -7,7 +7,7 @@ editor - 1: "[[Norman K Denzin]]"
 editor - 2: "[[Yvonna S Lincoln]]"
 key: "[[@Denzin2011-xr]]"
 aliases:
-  - The Sage Handbook Of Qualitative Research
+  - The SAGE Handbook Of Qualitative Research
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:

@@ -14,8 +14,6 @@ aliases:
 [[@Lerman2017-ww|Skill Development In Middle Level Occupations]]
 [[@Warhurst2004-qq|The Skills That Matter]]
 [[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
-[[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
-[[@Warhurst2017-dx|A New Social Construction Of Skill]]
 [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 
 #### Bibliography:
@@ -27,9 +25,5 @@ aliases:
 ![[@Warhurst2004-qq]]
 
 ![[@Warhurst2017-dg]]
-
-![[@Warhurst2017-dg]]
-
-![[@Warhurst2017-dx]]
 
 ![[@Warhurst2017-dx]]

@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
-[[@Sorby2009-nw|Educational Research In Developing 3d Spatial Skills For Engineering Students]]
+[[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
 
 #### Bibliography:
 

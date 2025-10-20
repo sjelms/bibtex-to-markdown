@@ -4,7 +4,7 @@ year: 2019
 author - 1: "[[Daniel Marinus Maria Vermeer]]"
 key: "[[@Vermeer2019-xk]]"
 aliases:
-  - Collective Learning In Strategic Public Private Partnership (ppp) Procurement Systems For Social Infrastructure
+  - Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure
 institution: "[[University College London]]"
 type: "[[@phdthesis]]"
 tags:

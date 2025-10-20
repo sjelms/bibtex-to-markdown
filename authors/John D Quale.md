@@ -17,15 +17,12 @@ aliases:
 [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
 [[@Quale2017-uw|High-Performance Affordable Modular Homes]]
-[[@Quale2017-uw|High-Performance Affordable Modular Homes]]
-[[@Quale2017-wv|Onsite Vs. Offsite]]
 [[@Quale2017-wv|Onsite Vs. Offsite]]
 [[@Rice2017-wn|Offsite Construction Industry Meta-Analysis]]
 [[@Richard2017-jw|Industrialized Building System Categorization]]
 [[@Rupnik2017-gx|Mapping The Modular Industry]]
 [[@Smith2017-ff|Offsite Construction In Education]]
 [[@Smith2017-op|Permanent Modular Construction]]
-[[@Smith2017-zx|Offsite Architecture]]
 [[@Smith2017-zx|Offsite Architecture]]
 [[@Vibaek2017-sw|System Structures]]
 
@@ -45,10 +42,6 @@ aliases:
 
 ![[@Quale2017-uw]]
 
-![[@Quale2017-uw]]
-
-![[@Quale2017-wv]]
-
 ![[@Quale2017-wv]]
 
 ![[@Rice2017-wn]]
@@ -60,8 +53,6 @@ aliases:
 ![[@Smith2017-ff]]
 
 ![[@Smith2017-op]]
-
-![[@Smith2017-zx]]
 
 ![[@Smith2017-zx]]
 

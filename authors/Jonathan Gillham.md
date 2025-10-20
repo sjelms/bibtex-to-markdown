@@ -10,7 +10,7 @@ aliases:
 ## Jonathan Gillham
 
 ### Content:
-[[@Cameron2017-nq|The Economic Impact Of Artificial Intelligence On The Uk Economy]]
+[[@Cameron2017-nq|The Economic Impact Of Artificial Intelligence On The UK Economy]]
 
 #### Bibliography:
 

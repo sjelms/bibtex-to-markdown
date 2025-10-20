@@ -10,7 +10,7 @@ aliases:
 ## Fiona Murphy
 
 ### Content:
-[[@Murphy2009-fx|Experience Based Learning (ebl)]]
+[[@Murphy2009-fx|Experience Based Learning (EBL)]]
 
 #### Bibliography:
 

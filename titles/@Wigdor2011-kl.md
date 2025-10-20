@@ -5,8 +5,8 @@ author - 1: "[[Daniel Wigdor]]"
 author - 2: "[[Dennis Wixon]]"
 key: "[[@Wigdor2011-kl]]"
 aliases:
-  - Brave Nui World - Designing Natural User Interfaces For Touch And Gesture
-  - Brave Nui World
+  - Brave NUI World - Designing Natural User Interfaces For Touch And Gesture
+  - Brave NUI World
 publisher: "[[Elsevier]]"
 type: "[[@book]]"
 tags:

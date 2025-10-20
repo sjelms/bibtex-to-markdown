@@ -10,7 +10,7 @@ aliases:
 ## Sasa Marenjak
 
 ### Content:
-[[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The Eu]]
+[[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The EU]]
 
 #### Bibliography:
 

@@ -7,7 +7,7 @@ author - 3: "[[Nicolas Marine]]"
 author - 4: "[[Manuel Rodrigo de la O Cabrera]]"
 key: "[[@Lage2024-kt]]"
 aliases:
-  - Towards A New European Bauhaus—Challenges In Design Education - Eaae Annual Conference—Madrid 2022
+  - Towards A New European Bauhaus—Challenges In Design Education - EAAE Annual Conference—Madrid 2022
   - Towards A New European Bauhaus—Challenges In Design Education
 publisher: "[[Springer Nature]]"
 type: "[[@book]]"

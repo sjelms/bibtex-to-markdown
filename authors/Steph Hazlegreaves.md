@@ -10,7 +10,7 @@ aliases:
 ## Steph Hazlegreaves
 
 ### Content:
-[[@Hazlegreaves2021-mk|Cop26]]
+[[@Hazlegreaves2021-mk|COP26]]
 
 #### Bibliography:
 

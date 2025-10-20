@@ -5,7 +5,7 @@ author - 1: "[[UNESCO-UNEVOC]]"
 key: "[[@UNESCO-UNEVOC2015-ge]]"
 booktitle: International Centre for Technical and Vocational Education and Training
 aliases:
-  - What Is Tvet?
+  - What Is TVET?
 publisher: "[[United Nation Educational Scientific and Cultural Organisation]]"
 type: "[[@online]]"
 tags:

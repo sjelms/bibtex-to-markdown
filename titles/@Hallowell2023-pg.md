@@ -5,8 +5,8 @@ author - 1: "[[Edward M Hallowell]]"
 author - 2: "[[John J Ratey]]"
 key: "[[@Hallowell2023-pg]]"
 aliases:
-  - Adhd 2.0 - New Science And Essential Strategies For Thriving With Distraction - From Childhood Through Adulthood
-  - Adhd 2.0
+  - ADHD 2.0 - New Science And Essential Strategies For Thriving With Distraction - From Childhood Through Adulthood
+  - ADHD 2.0
 publisher: "[[Hachette UK]]"
 type: "[[@book]]"
 tags:

@@ -10,5 +10,5 @@ category:
 ## Architectural Engineering and Design Management
 
 ### Content:
-[[@Hairstans2018-zk|Offsite Hub (scotland)]]
-[[@Nadim2009-px|Offsite Production In The Uk]]
+[[@Hairstans2018-zk|Offsite HUB (scotland)]]
+[[@Nadim2009-px|Offsite Production In The UK]]

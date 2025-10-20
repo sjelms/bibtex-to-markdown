@@ -10,7 +10,7 @@ aliases:
 ## Wikipedia contributors
 
 ### Content:
-[[@Wikipedia_contributors2022-fx|Seci Model Of Knowledge Dimensions]]
+[[@Wikipedia_contributors2022-fx|SECI Model Of Knowledge Dimensions]]
 [[@Wikipedia_contributors2022-ot|Reflective Practice]]
 
 #### Bibliography:

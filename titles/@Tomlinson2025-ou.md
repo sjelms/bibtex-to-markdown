@@ -8,8 +8,8 @@ author - 4: "[[Scott Counts]]"
 author - 5: "[[Siddharth Suri]]"
 key: "[[@Tomlinson2025-ou]]"
 aliases:
-  - Working With Ai - Measuring The Occupational Implications Of Generative Ai
-  - Working With Ai
+  - Working With AI - Measuring The Occupational Implications Of Generative AI
+  - Working With AI
 journal: "[[arXiv cs AI]]"
 type: "[[@article]]"
 tags:

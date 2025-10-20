@@ -10,7 +10,7 @@ aliases:
 ## Wendy Wilson
 
 ### Content:
-[[@Francis-Devine2023-er|Rising Cost Of Living In The Uk]]
+[[@Francis-Devine2023-er|Rising Cost Of Living In The UK]]
 
 #### Bibliography:
 

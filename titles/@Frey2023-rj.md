@@ -5,8 +5,8 @@ author - 1: "[[Carl Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"
 key: "[[@Frey2023-rj]]"
 aliases:
-  - Generative Ai And The Future Of Work - A Reappraisal
-  - Generative Ai And The Future Of Work
+  - Generative AI And The Future Of Work - A Reappraisal
+  - Generative AI And The Future Of Work
 journal: "[[Brown Journal of World Affairs]]"
 publisher: "[[Brown University]]"
 type: "[[@article]]"

@@ -10,7 +10,7 @@ aliases:
 ## Jeremy Benson
 
 ### Content:
-[[@Benson2015-xz|Explaining The Rqf]]
+[[@Benson2015-xz|Explaining The RQF]]
 
 #### Bibliography:
 

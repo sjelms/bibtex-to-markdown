@@ -4,7 +4,7 @@ year: 2015
 author - 1: "[[Jeremy Benson]]"
 key: "[[@Benson2015-xz]]"
 aliases:
-  - Explaining The Rqf
+  - Explaining The RQF
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22

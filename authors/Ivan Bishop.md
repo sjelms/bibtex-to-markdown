@@ -10,7 +10,7 @@ aliases:
 ## Ivan Bishop
 
 ### Content:
-[[@Bishop2021-qh|Trade Union Membership, Uk 1995-2020]]
+[[@Bishop2021-qh|Trade Union Membership, UK 1995-2020]]
 
 #### Bibliography:
 

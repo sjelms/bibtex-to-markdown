@@ -10,7 +10,7 @@ aliases:
 ## Daniel Wigdor
 
 ### Content:
-[[@Wigdor2011-kl|Brave Nui World]]
+[[@Wigdor2011-kl|Brave NUI World]]
 
 #### Bibliography:
 

@@ -20,4 +20,4 @@ category:
 [[@Herod2009-pg|Labor Unionism]]
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
-[[@Wigdor2011-kl|Brave Nui World]]
+[[@Wigdor2011-kl|Brave NUI World]]

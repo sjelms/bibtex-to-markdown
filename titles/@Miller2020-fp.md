@@ -4,7 +4,7 @@ year: 2020
 author - 1: "[[Tim Miller]]"
 key: "[[@Miller2020-fp]]"
 aliases:
-  - Fine Margins - Delivering Financial Sustainability In Uk Construction
+  - Fine Margins - Delivering Financial Sustainability In UK Construction
   - Fine Margins
 institution: "[[Confederation of British Industry]]"
 type: "[[@report]]"

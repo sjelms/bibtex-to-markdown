@@ -10,7 +10,7 @@ aliases:
 ## Jason Jerald
 
 ### Content:
-[[@Jerald2015-dg|The Vr Book]]
+[[@Jerald2015-dg|The VR Book]]
 
 #### Bibliography:
 

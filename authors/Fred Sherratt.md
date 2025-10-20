@@ -10,7 +10,7 @@ aliases:
 ## Fred Sherratt
 
 ### Content:
-[[@Sherratt2023-ta|The Digitalization Of Uk Construction Labour]]
+[[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]
 
 #### Bibliography:
 

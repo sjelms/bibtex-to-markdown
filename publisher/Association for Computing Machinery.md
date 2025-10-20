@@ -11,7 +11,7 @@ category:
 
 ### Content:
 [[@Chang2017-qn|Evaluating The Effect Of Tangible Virtual Reality On Spatial Perspective Taking Ability]]
-[[@Kambhampati2021-lr|Polanyi's Revenge And Ai's New Romance With Tacit Knowledge]]
+[[@Kambhampati2021-lr|Polanyi's Revenge And AI's New Romance With Tacit Knowledge]]
 [[@Kyriacou2021-iu|Learning To Work In A Materials Recovery Facility]]
 [[@Loi2022-qi|Designing The Unfinished]]
 [[@Millen2000-tf|Rapid Ethnography]]

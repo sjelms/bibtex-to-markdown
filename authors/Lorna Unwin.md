@@ -20,31 +20,27 @@ aliases:
 [[@Felstead2011-az|Praxis]]
 [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
-[[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
+[[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
-[[@Fuller2014-ea|Contemporary Apprenticeship]]
 [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd]]
+[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
-[[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
-[[@Guile2019-hk|Vet, Expertise, And Work]]
-[[@Guile2019-hk|Vet, Expertise, And Work]]
+[[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
-[[@Guile2019-mh|Introduction To The Handbook]]
-[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (vet)]]
+[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
 [[@Lupton2018-ct|The Construction Challenge In Greater Manchester]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
-[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
-[[@Unwin2017-yf|From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?]]
+[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
+[[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 
 #### Bibliography:
 
@@ -82,8 +78,6 @@ aliases:
 
 ![[@Fuller2014-ea]]
 
-![[@Fuller2014-ea]]
-
 ![[@Fuller2015-wk]]
 
 ![[@Fuller2016-xl]]
@@ -94,13 +88,7 @@ aliases:
 
 ![[@Guile2019-co]]
 
-![[@Guile2019-co]]
-
 ![[@Guile2019-hk]]
-
-![[@Guile2019-hk]]
-
-![[@Guile2019-mh]]
 
 ![[@Guile2019-mh]]
 

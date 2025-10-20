@@ -14,7 +14,7 @@ aliases:
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
-[[@Fuller2003-fy|Learning As Apprentices In The Contemporary Uk Workplace]]
+[[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-dw|Introduction And Overview]]
 [[@Fuller2004-kj|Workplace Learning In Context]]
@@ -25,14 +25,13 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2013-sa|Apprenticeship And The Concept Of Occupation]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
-[[@Fuller2014-ea|Contemporary Apprenticeship]]
 [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 [[@Fuller2016-el|Developing Expertise]]
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To Hrd]]
+[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
-[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
+[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
 
 #### Bibliography:
 
@@ -63,8 +62,6 @@ aliases:
 ![[@Fuller2012-pz]]
 
 ![[@Fuller2013-sa]]
-
-![[@Fuller2014-ea]]
 
 ![[@Fuller2014-ea]]
 

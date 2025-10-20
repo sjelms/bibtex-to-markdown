@@ -4,7 +4,7 @@ year: 2021
 author - 1: "[[Subbarao Kambhampati]]"
 key: "[[@Kambhampati2021-lr]]"
 aliases:
-  - Polanyi's Revenge And Ai's New Romance With Tacit Knowledge
+  - Polanyi's Revenge And AI's New Romance With Tacit Knowledge
 journal: "[[Communications of the ACM]]"
 publisher: "[[Association for Computing Machinery]]"
 type: "[[@article]]"

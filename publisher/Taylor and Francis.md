@@ -11,7 +11,7 @@ category:
 
 ### Content:
 [[@Fuller2004-kj|Workplace Learning In Context]]
-[[@Hairstans2018-zk|Offsite Hub (scotland)]]
-[[@Nadim2009-px|Offsite Production In The Uk]]
+[[@Hairstans2018-zk|Offsite HUB (scotland)]]
+[[@Nadim2009-px|Offsite Production In The UK]]
 [[@Shewring2024-wm|Theatre Buildings]]
 [[@Terra2023-js|The Economics Of John Maynard Keynes]]

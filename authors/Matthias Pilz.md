@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
-[[@Unwin2017-yf|From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?]]
+[[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 
 #### Bibliography:
 

@@ -4,7 +4,7 @@ year: 2020
 author - 1: "[[Global Infrastructure Hub]]"
 key: "[[@Global_Infrastructure_Hub2020-mx]]"
 aliases:
-  - Global Infrastructure Outlook - A G20 Initiative
+  - Global Infrastructure Outlook - A G20 INITIATIVE
   - Global Infrastructure Outlook
 institution: "[[Global Infrastructure Hub]]"
 type: "[[@report]]"

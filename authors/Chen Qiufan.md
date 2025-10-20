@@ -10,7 +10,7 @@ aliases:
 ## Chen Qiufan
 
 ### Content:
-[[@Lee2021-dp|Ai 2041]]
+[[@Lee2021-dp|AI 2041]]
 
 #### Bibliography:
 

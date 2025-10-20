@@ -13,7 +13,7 @@ aliases:
 [[@Glass2022-ms|Transforming Construction]]
 [[@Jones2021-bu|The Role Of Industry – University Collaboration In Construction]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
-[[@Lang2016-it|Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The Uk?]]
+[[@Lang2016-it|Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The UK?]]
 
 #### Bibliography:
 

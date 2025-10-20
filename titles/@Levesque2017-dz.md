@@ -4,7 +4,7 @@ year: 2017
 author - 1: "[[Hector J Levesque]]"
 key: "[[@Levesque2017-dz]]"
 aliases:
-  - Common Sense, The Turing Test, And The Quest For Real Ai
+  - Common Sense, The Turing Test, And The Quest For Real AI
 publisher: "[[MIT Press]]"
 type: "[[@book]]"
 tags:

@@ -10,4 +10,4 @@ category:
 ## International Journal Of Science Education
 
 ### Content:
-[[@Sorby2009-nw|Educational Research In Developing 3d Spatial Skills For Engineering Students]]
+[[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]

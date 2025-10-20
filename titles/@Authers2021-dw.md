@@ -5,7 +5,7 @@ author - 1: "[[John Authers]]"
 key: "[[@Authers2021-dw]]"
 booktitle: Bloomberg
 aliases:
-  - If Your Ceo Talks Like Kant, Think Twice Before Investing
+  - If Your CEO Talks Like Kant, Think Twice Before Investing
 type: "[[@online]]"
 tags:
   - Notion-Catalogued

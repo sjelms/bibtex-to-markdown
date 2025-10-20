@@ -10,7 +10,7 @@ aliases:
 ## Vikki Smith
 
 ### Content:
-[[@Glover2005-ke|Registered Apprenticeship Training In The Us Construction Industry]]
+[[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
 
 #### Bibliography:
 

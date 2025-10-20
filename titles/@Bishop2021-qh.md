@@ -4,8 +4,8 @@ year: 2021
 author - 1: "[[Ivan Bishop]]"
 key: "[[@Bishop2021-qh]]"
 aliases:
-  - Trade Union Membership, Uk 1995-2020 - Statistical Bulletin
-  - Trade Union Membership, Uk 1995-2020
+  - Trade Union Membership, UK 1995-2020 - Statistical Bulletin
+  - Trade Union Membership, UK 1995-2020
 institution: "[[Department for Business, Energy, and Industrial Strategy]]"
 type: "[[@report]]"
 tags:

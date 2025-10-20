@@ -12,4 +12,3 @@ category:
 
 ### Content:
 [[@Hillinger1991-nr|Pulling The Plug]]
-[[@Hillinger1991-nr|Pulling The Plug]]

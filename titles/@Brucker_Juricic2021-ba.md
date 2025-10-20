@@ -6,7 +6,7 @@ author - 2: "[[Mario Galic]]"
 author - 3: "[[Sasa Marenjak]]"
 key: "[[@Brucker_Juricic2021-ba]]"
 aliases:
-  - Review Of The Construction Labour Demand And Shortages In The Eu
+  - Review Of The Construction Labour Demand And Shortages In The EU
 journal: "[[Buildings]]"
 publisher: "[[MDPI AG]]"
 type: "[[@article]]"

@@ -4,7 +4,7 @@ year: 2015
 author - 1: "[[CITB]]"
 key: "[[@Citb2015-yq]]"
 aliases:
-  - Future Of Jobs And Skills In The Uk Construction Sector To 2030
+  - Future Of Jobs And Skills In The UK Construction Sector To 2030
 institution: "[[Construction Industry Training Board]]"
 type: "[[@report]]"
 tags:

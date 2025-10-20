@@ -8,8 +8,8 @@ editor - 2: "[[Ichiro Yamaguchi]]"
 key: "[[@Nonaka2022-du]]"
 booktitle: Management by Eidetic Intuition -  A Dynamic Management Theory Predicated on the "Philosophy of Empathy"
 aliases:
-  - The Seci Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity
-  - The Seci Model
+  - The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity
+  - The SECI Model
 publisher: "[[Springer Singapore]]"
 type: "[[@inbook]]"
 tags:

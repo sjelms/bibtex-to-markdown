@@ -10,7 +10,7 @@ aliases:
 ## Rui Liu
 
 ### Content:
-[[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of Aec Objects In Ifc]]
+[[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC]]
 
 #### Bibliography:
 

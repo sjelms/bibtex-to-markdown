@@ -10,7 +10,7 @@ aliases:
 ## Jaime R Carbonell
 
 ### Content:
-[[@Carbonell1970-ty|Ai In Cai]]
+[[@Carbonell1970-ty|AI In CAI]]
 
 #### Bibliography:
 

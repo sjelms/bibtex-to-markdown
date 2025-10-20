@@ -10,7 +10,7 @@ aliases:
 ## Ghang Lee
 
 ### Content:
-[[@Sacks2018-cv|Bim Handbook]]
+[[@Sacks2018-cv|BIM Handbook]]
 
 #### Bibliography:
 

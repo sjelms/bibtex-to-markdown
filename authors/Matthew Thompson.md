@@ -10,7 +10,7 @@ aliases:
 ## Matthew Thompson
 
 ### Content:
-[[@Thompson2021-sk|Dfma Overlay To The Riba Plan Of Work]]
+[[@Thompson2021-sk|Dfma Overlay To The RIBA Plan Of Work]]
 
 #### Bibliography:
 

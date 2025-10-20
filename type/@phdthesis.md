@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2025-10-19T11:38:37
+amended: 2025-10-20T09:35:12
 ---
 
 # Directory
@@ -18,7 +18,7 @@ amended: 2025-10-19T11:38:37
 - [[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma) - Reframing The Design-Production Relationship In Industrialised Construction]]
 ## 2010-2019
 ### 2019
-- [[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (ppp) Procurement Systems For Social Infrastructure]]
+- [[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
 ### 2018
@@ -27,14 +27,14 @@ amended: 2025-10-19T11:38:37
 - [[@Arthur2016-np|The Impact Of Systems Differentiation And Affect Heuristics In Intuitive Construction Risk Management Decision Making Systems]]
 - [[@Kusuma2016-ja|The Evolution Of Culture-Climate Interplay In Temporary Multi-Organisations - The Case Of Construction Alliancing Projects]]
 ### 2015
-- [[@Deng2015-rk|Performance Measurement System - Attributes, Effects And Context In Uk Construction Firms]]
+- [[@Deng2015-rk|Performance Measurement System - Attributes, Effects And Context In UK Construction Firms]]
 ### 2013
 - [[@Cuendet2013-tu|Tangible Interfaces For Learning - Training Spatial Skills In Vocational Classrooms]]
 ## 2000-2009
 ### 2007
 - [[@Miranda2007-fx|Exploring The Relationship Between New Product Development, Concurrent Engineering, And Project Management To Improve Product Development]]
 ### 2002
-- [[@Pryke2002-uc|Uk Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies]]
+- [[@Pryke2002-uc|UK Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies]]
 ## 1990-1999
 ### 1998
 - [[@Edkins1998-kn|Managing The Design Process In Construction - A Cognitive Approach]]

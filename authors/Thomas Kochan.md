@@ -10,7 +10,7 @@ aliases:
 ## Thomas Kochan
 
 ### Content:
-[[@Qin2020-ng|The Learning System At Ibm]]
+[[@Qin2020-ng|The Learning System At IBM]]
 
 #### Bibliography:
 

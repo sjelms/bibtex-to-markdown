@@ -10,7 +10,7 @@ aliases:
 ## Moylan, D. M. G., Lord
 
 ### Content:
-[[@Moylan_D_M_G_Lord2024-lk|Letter From The Lord Moylan To Rt Hon. Michael Gove Mp, Secretary Of State, Department For Levelling Up, Housing And Communities]]
+[[@Moylan_D_M_G_Lord2024-lk|Letter From The Lord Moylan To Rt Hon. Michael Gove MP, Secretary Of State, Department For Levelling Up, Housing And Communities]]
 
 #### Bibliography:
 

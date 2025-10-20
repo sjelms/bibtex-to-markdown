@@ -5,7 +5,7 @@ author - 1: "[[Linda Ahlgren]]"
 author - 2: "[[Laura C Engel]]"
 key: "[[@Ahlgren2011-ye]]"
 aliases:
-  - Lifelong Learning Through Smes - Exploring Workplace Learning In The Uk
+  - Lifelong Learning Through Smes - Exploring Workplace Learning In The UK
   - Lifelong Learning Through Smes
 journal: "[[Journal of Workplace Learning]]"
 publisher: "[[Emerald Group Publishing Limited]]"

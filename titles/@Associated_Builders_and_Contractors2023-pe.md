@@ -5,7 +5,7 @@ author - 1: "[[Associated Builders and Contractors]]"
 key: "[[@Associated_Builders_and_Contractors2023-pe]]"
 booktitle: ABC Construction Economic Update - News Releases
 aliases:
-  - Construction Workforce Shortage Tops Half A Million In 2023, Says Abc
+  - Construction Workforce Shortage Tops Half A Million In 2023, Says ABC
 publisher: "[[Associated Builders and Contractors Inc]]"
 type: "[[@online]]"
 tags:

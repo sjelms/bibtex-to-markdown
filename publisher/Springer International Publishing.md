@@ -20,6 +20,6 @@ category:
 [[@Keynes2018-kw|The General Theory Of Employment, Interest, And Money]]
 [[@Roll2021-jb|Artificial Intelligence In Education]]
 [[@Steinicke2016-nh|Being Really Virtual]]
-[[@Unwin2017-yf|From Craftsmanship And Novices To 3d Printing And An Ageing Workforce – Is Vocational Education And Training (vet) Research Keeping Pace With Change As Well As Continuity In Work?]]
+[[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 [[@Wild2017-er|Technology Acceptance Of Augmented Reality And Wearable Technologies]]
 [[@Yu2020-ot|Green, Pervasive, And Cloud Computing]]

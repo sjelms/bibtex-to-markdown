@@ -5,8 +5,8 @@ author - 1: "[[Thor Berger]]"
 author - 2: "[[Carl Benedikt Frey]]"
 key: "[[@Berger2016-vc]]"
 aliases:
-  - Structural Transformation In The Oecd - Digitalisation, Deindustrialisation And The Future Of Work
-  - Structural Transformation In The Oecd
+  - Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work
+  - Structural Transformation In The OECD
 publisher: "[[Organisation for Economic Co operation and Development OECD]]"
 type: "[[@report]]"
 tags:

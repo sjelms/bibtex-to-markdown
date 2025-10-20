@@ -5,7 +5,7 @@ author - 1: "[[Hugh Dubberly]]"
 author - 2: "[[Shelley Evenson]]"
 key: "[[@Dubberly2011-yu]]"
 aliases:
-  - Design As Learning—Or “knowledge Creation”—The Seci Model
+  - Design As Learning—Or “knowledge Creation”—The SECI Model
 journal: "[[Interactions]]"
 type: "[[@article]]"
 tags:

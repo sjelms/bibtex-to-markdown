@@ -1,7 +1,7 @@
 ---
 title: Crafting a 21st-Century Workforce -  Vocational Education and Training for the Changing Landscape of Offsite Construction in the Digital Age
 year: 2023
-author - 1: "[[Stephen Elms]]"
+author - 1: "[[Stephen J Elms]]"
 key: "[[@Elms2023-am]]"
 aliases:
   - Crafting A 21st-Century Workforce - Vocational Education And Training For The Changing Landscape Of Offsite Construction In The Digital Age

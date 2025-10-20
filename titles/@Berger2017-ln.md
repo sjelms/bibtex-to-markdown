@@ -5,7 +5,7 @@ author - 1: "[[Thor Berger]]"
 author - 2: "[[Carl Benedikt Frey]]"
 key: "[[@Berger2017-ln]]"
 aliases:
-  - Industrial Renewal In The 21st Century - Evidence From Us Cities
+  - Industrial Renewal In The 21st Century - Evidence From US Cities
   - Industrial Renewal In The 21st Century
 journal: "[[Regional Studies]]"
 publisher: "[[Informa UK Limited]]"

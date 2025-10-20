@@ -10,7 +10,7 @@ aliases:
 ## Douglas Belkin
 
 ### Content:
-[[@Belkin2023-ak|Americans Are Losing Faith In College Education, Wsj-Norc Poll Finds]]
+[[@Belkin2023-ak|Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds]]
 
 #### Bibliography:
 

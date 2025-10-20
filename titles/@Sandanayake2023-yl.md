@@ -12,7 +12,7 @@ author - 8: "[[Leon Yang]]"
 key: "[[@Sandanayake2023-yl]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:
-  - Key Components Of A Vr-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education
+  - Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:

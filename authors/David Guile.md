@@ -18,12 +18,9 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
-[[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
-[[@Guile2019-hk|Vet, Expertise, And Work]]
-[[@Guile2019-hk|Vet, Expertise, And Work]]
+[[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
-[[@Guile2019-mh|Introduction To The Handbook]]
-[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (vet)]]
+[[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 
@@ -45,13 +42,7 @@ aliases:
 
 ![[@Guile2019-co]]
 
-![[@Guile2019-co]]
-
 ![[@Guile2019-hk]]
-
-![[@Guile2019-hk]]
-
-![[@Guile2019-mh]]
 
 ![[@Guile2019-mh]]
 

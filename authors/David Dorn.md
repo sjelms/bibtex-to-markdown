@@ -10,7 +10,7 @@ aliases:
 ## David Dorn
 
 ### Content:
-[[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The Us Labor Market]]
+[[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
 
 #### Bibliography:
 
