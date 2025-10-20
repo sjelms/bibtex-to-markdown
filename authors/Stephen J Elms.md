@@ -1,6 +1,6 @@
 ---
 author: "Stephen J Elms"
-institution: "University College London, Institute of Education, Department of Culture, Communication and Media"
+institution: "University College London"
 field:
 type:
 aliases:
