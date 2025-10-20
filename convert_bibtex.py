@@ -136,13 +136,20 @@ def normalize_entity_name(text: str) -> str:
 
 
 def to_title_case(text: str) -> str:
-    # Capitalize each word and hyphenated parts (simple Title Case)
+    # Capitalize each word and hyphenated parts (simple Title Case),
+    # but preserve acronyms/abbreviations (2+ consecutive uppercase letters or digits),
+    # optionally followed by a possessive 's or ’s.
     if not text:
         return ""
 
     def cap(word: str) -> str:
         if not word:
             return word
+        # Preserve tokens that are acronyms/abbreviations, possibly with punctuation around
+        # Example matches: "UK", "AI", "CAI", "3D", "UK's", "UK’s", and with surrounding punctuation like "(AI)" or "AI,".
+        if re.match(r"^[^A-Za-z0-9]*[A-Z0-9]{2,}(?:[’']s)?[^A-Za-z0-9]*$", word):
+            return word  # keep as-is
+        # Otherwise, simple title case for the token
         return word[0].upper() + word[1:].lower()
 
     words = re.split(r"\s+", text.strip())
