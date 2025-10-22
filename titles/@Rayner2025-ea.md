@@ -11,6 +11,7 @@ type: "[[@legislation]]"
 tags:
   - Government-Report
   - _BibTex-to-MD-Git
+  - Report
 ---
 
 > [!bibliography]

@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2025-10-22T09:03:00
+amended: 2025-10-22T09:14:35
 ---
 
 # Directory
@@ -51,6 +51,7 @@ amended: 2025-10-22T09:03:00
 - [[@Pothier2019-fn|Industrialized Construction In Academia]]
 - [[@European_Commission_Directorate-General_for_Education_Youth_Sport_and_Culture2019-gq|Key Competences For Lifelong Learning]]
 - [[@Wilson2019-ho|Design For Modular Construction - An Introduction For Architects]]
+- [[@Ministry-of-Housing-Communities-and-Local-Government2019-qd|Modern Methods Of Construction - Definition Framework]]
 - [[@USG_Corporation2019-me|Q4 2019 Commercial Construction Index]]
 ### 2018
 - [[@Davies2018-ai|Modern Methods Of Construction - A Forward-Thinking Solution To The Housing Crisis?]]
