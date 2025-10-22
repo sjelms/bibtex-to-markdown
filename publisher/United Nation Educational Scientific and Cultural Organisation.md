@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@UNESCO-UNEVOC2015-ge|What Is TVET?]]
+[[@UNESCO-UNEVOC2015-rd|Recommendation Concerning Technical And Vocational Education And Training (TVET)]]

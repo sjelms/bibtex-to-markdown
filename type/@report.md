@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2025-10-22T09:49:04
+amended: 2025-10-22T12:37:41
 ---
 
 # Directory
@@ -79,6 +79,7 @@ amended: 2025-10-22T09:49:04
 - [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 - [[@Citb2015-yq|Future Of Jobs And Skills In The UK Construction Sector To 2030]]
 - [[@Dreischmeier2015-di|The Digital Imperative]]
+- [[@UNESCO-UNEVOC2015-rd|Recommendation Concerning Technical And Vocational Education And Training (TVET)]]
 - [[@United_Nations_Department_of_Economic_and_Social_Affairs2015-tc|Population 2030 - Demographic Challenges And Opportunities For Sustainable Development Planning]]
 ### 2014
 - [[@Autor2014-yj|Polanyi's Paradox And The Shape Of Employment Growth]]
