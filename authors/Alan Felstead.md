@@ -14,6 +14,7 @@ aliases:
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
+[[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
@@ -29,6 +30,8 @@ aliases:
 ![[@Felstead2011-az]]
 
 ![[@Felstead2016-ut]]
+
+![[@Felstead2017-or]]
 
 ![[@Fuller2003-fs]]
 

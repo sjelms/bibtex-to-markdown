@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2025-10-23T07:09:54
+amended: 2025-10-23T07:18:15
 ---
 
 # Directory
@@ -46,6 +46,7 @@ amended: 2025-10-23T07:09:54
 - [[@Smith2019-lv|Productivity, Innovation And Disruption - A Study Of Offsite Construction In The United States]]
 - [[@Billett2019-so|Vocational Education And The Individual]]
 ### 2017
+- [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
@@ -57,7 +58,10 @@ amended: 2025-10-23T07:09:54
 - [[@Quale2017-wv|Onsite Vs. Offsite - Comparing Environmental Impacts]]
 - [[@Vibaek2017-sw|System Structures - A Theory Of Industrialised Architecture]]
 - [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
+- [[@Wheelahan2017-ln|Rethinking Skills Development - Moving Beyond Competency-Based Training]]
+- [[@Unwin2017-vo|Employer-Led In-Work Training And Skill Formation - The Challenges Of Multi-Varied And Contingent Phenomena]]
 - [[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
+- [[@Stuart2017-vq|Unions, The Skills Agenda, And Workforce Development]]
 - [[@Aitchison2017-ps|Prefabricated Housing In Architectural Culture]]
 - [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
 - [[@Lerman2017-ww|Skill Development In Middle Level Occupations - The Role Of Apprenticeship Training]]

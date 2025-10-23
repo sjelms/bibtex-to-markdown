@@ -40,6 +40,7 @@ aliases:
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
+[[@Unwin2017-vo|Employer-Led In-Work Training And Skill Formation]]
 [[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 
 #### Bibliography:
@@ -103,5 +104,7 @@ aliases:
 ![[@Unwin2007-pk]]
 
 ![[@Unwin2008-pi]]
+
+![[@Unwin2017-vo]]
 
 ![[@Unwin2017-yf]]

@@ -11,7 +11,10 @@ aliases:
 
 ### Content:
 [[@Scollard2018-go|Updating Vocational Curriculum In Two Year Diploma Programs At One Ontario College Of Applied Arts And Technology To Align With Current Industry Practices]]
+[[@Wheelahan2017-ln|Rethinking Skills Development]]
 
 #### Bibliography:
 
 ![[@Scollard2018-go]]
+
+![[@Wheelahan2017-ln]]
