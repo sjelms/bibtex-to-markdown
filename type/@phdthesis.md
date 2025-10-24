@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2025-10-23T07:21:19
+amended: 2025-10-24T14:21:32
 ---
 
 # Directory
@@ -20,6 +20,7 @@ amended: 2025-10-23T07:21:19
 ### 2019
 - [[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
+- [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
 ### 2018
 - [[@Scollard2018-go|Updating Vocational Curriculum In Two Year Diploma Programs At One Ontario College Of Applied Arts And Technology To Align With Current Industry Practices]]
