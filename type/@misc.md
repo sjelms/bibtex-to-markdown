@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2025-10-24T14:21:32
+amended: 2025-10-24T14:30:01
 ---
 
 # Directory
@@ -61,6 +61,7 @@ amended: 2025-10-24T14:21:32
 ### 2017
 - [[@Singh2017-cu|Building Augmented Reality Experiences With Unity3d]]
 - [[@Pailliez2017-av|You're Hired! France's Macron Targets Apprentices In Labor Market Shake-Up]]
+- [[@Derrick2017-wj|What Features Of Workplaces Support Practitioners And Teams To Learn And Innovate?]]
 - [[@Porter2017-zm|Why Every Organization Needs An Augmented Reality Strategy]]
 ### 2016
 - [[@Park2016-wq|What Is Multimodal Design? An Interview With John Alderman And Christine Park]]
