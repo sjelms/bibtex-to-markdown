@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2025-10-26T16:24:17
+amended: 2025-10-26T16:32:12
 ---
 
 # Directory
@@ -261,7 +261,7 @@ amended: 2025-10-26T16:24:17
 ### 1973
 - [[@Sage1973-wn|In Memoriam - Jaime R. Carbonell]]
 ### 1971
-- [[@Abeck1971-vn|U.s. Steel Fabricates Rooms For Florida's Disney World]]
+- [[@Abeck1971-vn|US Steel Fabricates Rooms For Florida's Disney World]]
 ### 1970
 - [[@Carbonell1970-ty|AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
 ## 1960-1969
