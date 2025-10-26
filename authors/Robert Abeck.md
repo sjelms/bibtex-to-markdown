@@ -10,7 +10,7 @@ aliases:
 ## Robert Abeck
 
 ### Content:
-[[@Abeck1971-vn|U.s. Steel Fabricates Rooms For Florida's Disney World]]
+[[@Abeck1971-vn|US Steel Fabricates Rooms For Florida's Disney World]]
 
 #### Bibliography:
 
