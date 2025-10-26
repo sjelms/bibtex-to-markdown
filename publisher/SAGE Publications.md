@@ -38,6 +38,7 @@ category:
 [[@Hamilton2012-vy|Using Case Study In Education Research]]
 [[@Hammersley2010-oe|Methodology]]
 [[@Killingsworth2013-qe|Synergy]]
+[[@King2019-nk|Template Analysis For Business And Management Students]]
 [[@Kumar2019-dp|Research Methodology]]
 [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 [[@Mayring2021-ud|Qualitative Content Analysis]]
