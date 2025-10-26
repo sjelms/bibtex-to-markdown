@@ -14,6 +14,8 @@ tags:
   - _BibTex-to-MD-Git
   - Artificial-Intelligence-AI
   - PhD-Support-and-Training
+  - Research-Methods
+  - Fieldwork-Methodology
 ---
 
 > [!bibliography]

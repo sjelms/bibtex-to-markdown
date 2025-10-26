@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-10-26T16:13:57
+amended: 2025-10-26T16:14:43
 ---
 
 # Directory
@@ -94,6 +94,7 @@ amended: 2025-10-26T16:13:57
 - [[@Lawson2019-tt|Design In Modular Construction]]
 - [[@Mitchell2019-zu|Artificial Intelligence - A Guide For Thinking Humans]]
 - [[@Lambert2019-qv|Practical Research Methods In Education - An Early Researcher's Critical Guide]]
+- [[@King2019-nk|Template Analysis For Business And Management Students]]
 - [[@Hager2019-ui|The Emergence Of Complexity - Rethinking Education As A Social Science]]
 - [[@Kumar2019-dp|Research Methodology - A Step-By-Step Guide For Beginners]]
 - [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education - Pathways, Knowledge, Identities, And Vocationalism]]
