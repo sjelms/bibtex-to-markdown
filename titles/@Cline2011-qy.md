@@ -14,6 +14,7 @@ tags:
   - ePub
   - _XR-MR-VR-AR
   - Audiobook
+  - Fiction
 ---
 
 > [!bibliography]
