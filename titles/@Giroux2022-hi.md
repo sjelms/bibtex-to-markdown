@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - RNIB
+  - Politics-and-Society
 ---
 
 > [!bibliography]
