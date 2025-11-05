@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-11-05T10:53:50
+amended: 2025-11-05T10:55:09
 ---
 
 # Directory
@@ -41,6 +41,7 @@ amended: 2025-11-05T10:53:50
 - [[@Weber-Lewerenz2022-ow|Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI]]
 - [[@Donovan2022-wg|The Anti-Planner - How To Get Sh*t Done When You Don't Feel Like It]]
 - [[@Autor2022-vv|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
+- [[@Giroux2022-hi|Pedagogy Of Resistance - Against Manufactured Ignorance]]
 - [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"]]
 - [[@Casini2022-yp|Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry]]
 - [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government]]
@@ -58,6 +59,7 @@ amended: 2025-11-05T10:53:50
 - [[@Aurini2021-vc|The How To Of Qualitative Research]]
 - [[@Williamson2021-sz|Case Studies In Retrofitting Suburbia - Urban Design Strategies For Urgent Challenges]]
 - [[@Lee2021-dp|AI 2041 - Ten Visions For Our Future]]
+- [[@Crawford2021-ae|The Atlas Of AI - Power, Politics, And The Planetary Costs Of Artificial Intelligence]]
 - [[@Boltanski2021-jq|On Justification - Economies Of Worth]]
 - [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
@@ -72,6 +74,7 @@ amended: 2025-11-05T10:53:50
 - [[@Sawhney2020-tm|Construction 4.0 - An Innovation Platform For The Built Environment]]
 - [[@Billups2020-od|Qualitative Data Collection Tools - Design, Development, And Applications]]
 - [[@Rosling2020-oi|How I Learned To Understand The World - A Memoir]]
+- [[@Giroux2020-sp|On Critical Pedagogy]]
 - [[@Benyus2020-id|Biomimicry - Innovation Inspired By Nature]]
 - [[@Popper2020-fy|The Open Society And Its Enemies]]
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
@@ -157,6 +160,7 @@ amended: 2025-11-05T10:53:50
 - [[@Fuller2014-ea|Contemporary Apprenticeship - International Perspectives On An Evolving Model Of Learning]]
 - [[@Arnold2014-fm|A Six Step Guide To Using Recursive Abstraction Applied To The Qualitative Analysis Of Interview Data]]
 - [[@Kamler2014-sz|Helping Doctoral Students Write - Pedagogies For Supervision]]
+- [[@Hooks2014-xi|Teaching To Transgress - Education As The Practice Of Freedom]]
 - [[@Harteis2014-xv|Discourses On Professional Learning - On The Boundary Between Learning And Working]]
 - [[@Evans2014-wm|How To Write A Better Thesis]]
 - [[@Brynjolfsson2014-kx|The Second Machine Age - Work, Progress, And Prosperity In A Time Of Brilliant Technologies]]
@@ -167,6 +171,7 @@ amended: 2025-11-05T10:53:50
 - [[@Charmaz2014-oe|Constructing Grounded Theory]]
 - [[@Rudestam2014-yd|Surviving Your Dissertation - A Comprehensive Guide To Content And Process]]
 - [[@Hopkins2014-qf|Architectural Styles - A Visual Guide]]
+- [[@Freire2014-dj|Pedagogy Of Hope - Reliving Pedagogy Of The Oppressed]]
 - [[@Brown2014-ri|Make It Stick - The Science Of Successful Learning]]
 - [[@Mayring2014-xu|Qualitative Content Analysis - Theoretical Foundation, Basic Procedures And Software Solution]]
 - [[@Billett2014-wf|Mimetic Learning At Work - Learning In The Circumstances Of Practice]]

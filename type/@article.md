@@ -1,12 +1,13 @@
 ---
 type: "[[@article]]"
-amended: 2025-11-05T10:53:50
+amended: 2025-11-05T10:55:09
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
+- [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]

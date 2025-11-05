@@ -10,4 +10,5 @@ category:
 ## Yale University Press
 
 ### Content:
+[[@Crawford2021-ae|The Atlas Of AI]]
 [[@Olson1982-xs|The Rise And Decline Of Nations]]
