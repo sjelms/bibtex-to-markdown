@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-11-05T10:55:09
+amended: 2025-11-05T10:59:34
 ---
 
 # Directory
@@ -240,6 +240,7 @@ amended: 2025-11-05T10:55:09
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
+- [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
 - [[@Engestrom1999-iv|When The Center Does Not Hold - The Importance Of Knotworking]]
