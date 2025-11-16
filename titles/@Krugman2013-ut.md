@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Krugman, Paul. 2013. “An Ubernerd Weighs In.” [[NY Times (tag)]]. https://archive.nytimes.com/krugman.blogs.nytimes.com/2013/12/29/an-ubernerd-weighs-in/
+> Krugman, Paul. 2013. “An Ubernerd Weighs In.” [[The New York Times]]. https://archive.nytimes.com/krugman.blogs.nytimes.com/2013/12/29/an-ubernerd-weighs-in/
 
 > [!abstract]
 > It’s technically great, so it must be important, right?

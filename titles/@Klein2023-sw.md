@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Klein, Ezra. 2023. “The Dystopia We Fear Is Keeping Us from the Utopia We Deserve.” [[NY Times (tag)]]. https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html
+> Klein, Ezra. 2023. “The Dystopia We Fear Is Keeping Us from the Utopia We Deserve.” [[The New York Times]]. https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html
