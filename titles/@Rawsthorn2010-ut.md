@@ -5,8 +5,8 @@ author - 1: "[[Alice Rawsthorn]]"
 key: "[[@Rawsthorn2010-ut]]"
 aliases:
   - Putting New Tools In Students' Hands
-journal: "[[NY Times (tag)]]"
-publisher: "[[NY Times (tag)]]"
+journal: "[[The New York Times]]"
+publisher: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Notion-Catalogued

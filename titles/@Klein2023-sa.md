@@ -5,7 +5,7 @@ author - 1: "[[Ezra Klein]]"
 key: "[[@Klein2023-sa]]"
 aliases:
   - The Problem With Everything-Bagel Liberalism
-journal: "[[NY Times (tag)]]"
+journal: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Abundance-–-How-We-Build-a-Better-Future-Footnotes

@@ -5,8 +5,8 @@ author - 1: "[[Madeleine Ngo]]"
 key: "[[@Ngo2021-qp]]"
 aliases:
   - Skilled Workers Are Scarce, Posing A Challenge For Biden’s Infrastructure Plan
-journal: "[[NY Times (tag)]]"
-publisher: "[[NY Times (tag)]]"
+journal: "[[The New York Times]]"
+publisher: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
