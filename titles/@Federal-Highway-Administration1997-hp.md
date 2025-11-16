@@ -8,7 +8,7 @@ aliases:
 publisher: "[[United States Department of Transportation]]"
 type: "[[@dataset]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
 ---
 

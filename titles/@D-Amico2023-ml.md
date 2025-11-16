@@ -12,7 +12,7 @@ aliases:
 institution: "[[National Bureau of Economic Research]]"
 type: "[[@report]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - AEC
   - Labor

@@ -8,7 +8,7 @@ aliases:
 journal: "[[LAist]]"
 type: "[[@article]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - Readwise-Reader
 ---

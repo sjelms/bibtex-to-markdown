@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2025-11-16T15:13:12
+amended: 2025-11-16T15:37:37
 ---
 
 # Directory
@@ -43,6 +43,7 @@ amended: 2025-11-16T15:13:12
 - [[@Sorensen2020-jj|What Is The Fourth Industrial Revolution?]]
 - [[@Prime-Minister-s-Office2020-dw|Major Expansion Of Post-18 Education And Training To Level Up And Prepare Workers For Post-COVID Economy]]
 - [[@Fry2020-da|A Majority Of Young Adults In The U.s. Live With Their Parents For The First Time Since The Great Depression]]
+- [[@Tipping-Point-Community2020-uy|Charles And Helen Schwab Invest \$65M In Groundbreaking Homelessness Solutions In SF]]
 ## 2010-2019
 ### 2019
 - [[@Andrews2019-pu|Who Were The Luddites?]]
