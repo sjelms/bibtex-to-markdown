@@ -7,7 +7,7 @@ key: "[[@Klein2022-xj]]"
 booktitle: The Ezra Klein Show
 aliases:
   - Why Housing Is So Expensive — Particularly In Blue States
-publisher: "[[NY Times (tag)]]"
+publisher: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Notion-Catalogued

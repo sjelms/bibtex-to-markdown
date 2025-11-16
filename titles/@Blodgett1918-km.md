@@ -6,7 +6,7 @@ key: "[[@Blodgett1918-km]]"
 aliases:
   - Doing Farm Work By Motor Tractor - Agriculture Simplified And Food Supply Increased By Labor-Saving Machinery;-Stage School For Operators
   - Doing Farm Work By Motor Tractor
-journal: "[[NY Times (tag)]]"
+journal: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22

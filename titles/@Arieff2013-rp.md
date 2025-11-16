@@ -5,7 +5,7 @@ author - 1: "[[Allison Arieff]]"
 key: "[[@Arieff2013-rp]]"
 aliases:
   - Prefab Lives!
-journal: "[[NY Times (tag)]]"
+journal: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Construction-4-0
