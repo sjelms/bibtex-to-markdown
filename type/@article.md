@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2025-11-16T15:13:12
+amended: 2025-11-16T15:37:37
 ---
 
 # Directory
@@ -25,6 +25,7 @@ amended: 2025-11-16T15:13:12
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished]]
+- [[@Knight2022-si|A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?]]
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]

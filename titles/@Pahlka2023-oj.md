@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Metropolitan Books Henry Holt and Company]]"
 type: "[[@book]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
 ---
 

@@ -8,7 +8,7 @@ aliases:
 journal: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - Readwise-Reader
 ---

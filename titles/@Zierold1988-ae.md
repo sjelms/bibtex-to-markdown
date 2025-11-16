@@ -8,7 +8,7 @@ aliases:
 publisher: "[[Regional Oral History Office]]"
 type: "[[@book]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
 ---
 

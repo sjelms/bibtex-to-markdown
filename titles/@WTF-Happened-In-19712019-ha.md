@@ -8,7 +8,7 @@ aliases:
   - How Long Does It Take To Save For A House?
 type: "[[@online]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
 ---
 

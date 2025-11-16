@@ -8,7 +8,7 @@ aliases:
 publisher: "[[TED Conferences LLC]]"
 type: "[[@video]]"
 tags:
-  - Abundance-–-How-We-Build-a-Better-Future-Footnotes
+  - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - YouTube
 ---
