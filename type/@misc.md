@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2025-11-12T09:27:40
+amended: 2025-11-16T14:25:54
 ---
 
 # Directory
@@ -13,6 +13,7 @@ amended: 2025-11-12T09:27:40
 ### 2023
 - [[@BBC-News2023-wp|New RAAC Schools List Of Buildings With Unsafe Concrete]]
 - [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
+- [[@Klein2023-sa|The Problem With Everything-Bagel Liberalism]]
 - [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
 - [[@Lidelow2023-sm|Factory Of The Future [keynote Address]]]
 - [[@Marcus2023-rl|High-Paying Jobs That Don't Need A College Degree? Thousands Of Them Sit Empty]]

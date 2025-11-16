@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-11-12T09:27:40
+amended: 2025-11-16T14:25:54
 ---
 
 # Directory
@@ -36,6 +36,7 @@ amended: 2025-11-12T09:27:40
 - [[@Hopkins2023-zi|Reading Architecture - A Visual Lexicon]]
 - [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]
 - [[@Pink2023-jv|Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help]]
+- [[@Rubin2023-ij|The Creative Act - A Way Of Being]]
 - [[@Johnson2023-la|Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity]]
 ### 2022
 - [[@Weber-Lewerenz2022-ow|Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI]]
@@ -179,6 +180,7 @@ amended: 2025-11-12T09:27:40
 - [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning - International Perspectives And Practices]]
 ### 2013
 - [[@Littlejohn2013-gj|Technology-Enhanced Professional Learning - Processes, Practices, And Tools]]
+- [[@Kelley2013-ne|Creative Confidence - Unleashing The Creative Potential Within Us All]]
 - [[@Mills2013-uv|Ethnography In Education]]
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
 - [[@Daniels2013-pa|Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies]]
