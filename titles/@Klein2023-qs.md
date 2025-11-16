@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Klein, Ezra. 2023. “The Story Construction Tells About America’s Economy Is Disturbing.” [[NY Times (tag)]]. https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html
+> Klein, Ezra. 2023. “The Story Construction Tells About America’s Economy Is Disturbing.” [[The New York Times]]. https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html
