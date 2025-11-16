@@ -6,7 +6,7 @@ key: "[[@Blodgett1918-km]]"
 aliases:
   - Doing Farm Work By Motor Tractor - Agriculture Simplified And Food Supply Increased By Labor-Saving Machinery;-Stage School For Operators
   - Doing Farm Work By Motor Tractor
-journal: "[[The New York Times]]"
+journal: "[[NY Times (tag)]]"
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
@@ -19,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Blodgett, W K. 1918. “Doing Farm Work By Motor Tractor: Agriculture Simplified And Food Supply Increased By Labor-saving Machinery;-stage School For Operators.” [[The New York Times]]. https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511
+> Blodgett, W K. 1918. “Doing Farm Work By Motor Tractor: Agriculture Simplified And Food Supply Increased By Labor-saving Machinery;-stage School For Operators.” [[NY Times (tag)]]. https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511
 
 > [!abstract]
 > During the coming season motor machinery will be a growing factor toward enabling the farmer to maintain production of foodstuffs at usual standards. With competent farm hands gone, in fact with help of any sort well nigh unobtainable, the farmer who has just ...

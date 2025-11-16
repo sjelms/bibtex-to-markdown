@@ -5,7 +5,7 @@ author - 1: "[[Allison Arieff]]"
 key: "[[@Arieff2013-rp]]"
 aliases:
   - Prefab Lives!
-journal: "[[The New York Times]]"
+journal: "[[NY Times (tag)]]"
 type: "[[@misc]]"
 tags:
   - Construction-4-0
@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Arieff, Allison. 2013. “Prefab Lives!.” [[The New York Times]]. https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/05/23/prefab-lives/
+> Arieff, Allison. 2013. “Prefab Lives!.” [[NY Times (tag)]]. https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/05/23/prefab-lives/
 
 > [!abstract]
 > Modular building, a design approach that once focused on single-family homes, is becoming increasingly popular for multi-unit residences.
