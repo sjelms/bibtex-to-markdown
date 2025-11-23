@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Book-physical
+  - Audiobook
 ---
 
 > [!bibliography]
