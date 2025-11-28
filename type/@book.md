@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-11-24T07:26:36
+amended: 2025-11-28T15:04:41
 ---
 
 # Directory
@@ -153,6 +153,7 @@ amended: 2025-11-24T07:26:36
 - [[@Biocca2015-km|Immersed In Media - Telepresence Theory, Measurement & Technology]]
 - [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 - [[@Lidelow2015-pk|Industriellt Husbyggande]]
+- [[@Bessen2015-qr|Learning By Doing - The Real Connection Between Innovation, Wages, And Wealth]]
 - [[@Jerald2015-dg|The VR Book - Human-Centered Design For Virtual Reality]]
 - [[@Ford2015-sa|Rise Of The Robots - Technology And The Threat Of A Jobless Future]]
 - [[@Merriam2015-vy|Qualitative Research - A Guide To Design And Implementation]]
