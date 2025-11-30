@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-11-28T15:04:41
+amended: 2025-11-30T18:02:41
 ---
 
 # Directory
@@ -155,6 +155,7 @@ amended: 2025-11-28T15:04:41
 - [[@Lidelow2015-pk|Industriellt Husbyggande]]
 - [[@Bessen2015-qr|Learning By Doing - The Real Connection Between Innovation, Wages, And Wealth]]
 - [[@Jerald2015-dg|The VR Book - Human-Centered Design For Virtual Reality]]
+- [[@Corbin2015-yj|Basics Of Qualitative Research - Techniques And Procedures For Developing Grounded Theory]]
 - [[@Ford2015-sa|Rise Of The Robots - Technology And The Threat Of A Jobless Future]]
 - [[@Merriam2015-vy|Qualitative Research - A Guide To Design And Implementation]]
 ### 2014
