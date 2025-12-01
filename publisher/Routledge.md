@@ -26,7 +26,7 @@ category:
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2020-yt|Learning In The Workplace]]
 [[@Bishop2009-co|Constructing Learning]]
-[[@Bruner2006-bj|The Act Of Discovery]]
+[[@Bruner2006-bj|The Act Of Discovery (1961)]]
 [[@Bundgaard2017-am|Constructing Dialogues]]
 [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 [[@Casey1995-nc|Work, Self And Society]]

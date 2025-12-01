@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2025-11-30T18:12:14
+amended: 2025-12-01T10:09:36
 ---
 
 # Directory
@@ -110,7 +110,7 @@ amended: 2025-11-30T18:12:14
 ### 2008
 - [[@Armstrong2008-wr|From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House]]
 ### 2006
-- [[@Bruner2006-bj|The Act Of Discovery]]
+- [[@Bruner2006-bj|The Act Of Discovery (1961)]]
 ### 2004
 - [[@Fuller2004-ys|Conclusion]]
 - [[@Fuller2004-kn|Expansive Learning Environments - Integrating Organizational And Personal Development]]
