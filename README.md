@@ -6,7 +6,7 @@
 ## 📌 Intent
 
 This tool automates the process of transforming academic references from a BibLaTeX `.bib` file into individual Markdown notes. Each note is formatted for compatibility with:
-- [Pandoc](https://pandoc.org) citation processing (`[@citation_key]`)
+- [Pandoc](https://pandoc.org) citation processing (`[[@citation_key]]`)
 - Obsidian-style `[[wikilinks]]` for internal navigation
 - Markdown-based academic writing workflows
 
