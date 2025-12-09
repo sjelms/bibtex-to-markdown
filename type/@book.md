@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-01T10:09:36
+amended: 2025-12-09T10:42:14
 ---
 
 # Directory
@@ -30,6 +30,7 @@ amended: 2025-12-01T10:09:36
 - [[@Hallowell2023-ts|Delivered From Distraction - Getting The Most Out Of Life With Attention Deficit Disorder]]
 - [[@Terra2023-js|The Economics Of John Maynard Keynes]]
 - [[@Pahlka2023-oj|Recoding America - Why Government Is Failing In The Digital Age And How We Can Do Better]]
+- [[@Williams2023-bn|Planning Your Dissertation]]
 - [[@Potseluyko2023-wx|Platform Based Design And Immersive Technologies For Manufacturing And Assembly In Offsite Construction - Applying Extended Reality And Game Applications To Pdfma]]
 - [[@Kluck2023-vg|Modularization - The Fine Art Of Offsite Preassembly For Capital Projects]]
 - [[@Denzin2023-mp|The SAGE Handbook Of Qualitative Research]]
@@ -78,6 +79,7 @@ amended: 2025-12-01T10:09:36
 - [[@Giroux2020-sp|On Critical Pedagogy]]
 - [[@Benyus2020-id|Biomimicry - Innovation Inspired By Nature]]
 - [[@Popper2020-fy|The Open Society And Its Enemies]]
+- [[@Williams2020-ck|Reflective Writing]]
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
@@ -171,6 +173,7 @@ amended: 2025-12-01T10:09:36
 - [[@Chang2014-xq|Economics - The User's Guide]]
 - [[@Groh2014-rk|Making Space - How The Brain Knows Where Things Are]]
 - [[@Rifkin2014-lx|The Zero Marginal Cost Society - The Internet Of Things, The Collaborative Commons, And The Eclipse Of Capitalism]]
+- [[@Williams2014-ci|Getting Critical]]
 - [[@Charmaz2014-oe|Constructing Grounded Theory]]
 - [[@Rudestam2014-yd|Surviving Your Dissertation - A Comprehensive Guide To Content And Process]]
 - [[@Hopkins2014-qf|Architectural Styles - A Visual Guide]]
@@ -204,6 +207,7 @@ amended: 2025-12-01T10:09:36
 - [[@Brynjolfsson2011-fg|Race Against The Machine - How The Digital Revolution Is Accelerating Innovation, Driving Productivity, And Irreversibly Transforming Employment And The Economy]]
 - [[@Cline2011-qy|Ready Player One]]
 - [[@Van-Maanen2011-bf|Tales Of The Field - On Writing Ethnography]]
+- [[@Williams2011-ov|Completing Your Phd]]
 - [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
 - [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
 - [[@Billett2011-kx|Vocational Education - Purposes, Traditions And Prospects]]
