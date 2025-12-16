@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-09T10:42:14
+amended: 2025-12-16T13:22:39
 ---
 
 # Directory
@@ -83,6 +83,7 @@ amended: 2025-12-09T10:42:14
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
+- [[@Bhaskar2020-ee|A Realist Theory Of Science]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]
 - [[@Billett2020-yt|Learning In The Workplace - Strategies For Effective Practice]]
