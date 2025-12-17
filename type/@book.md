@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-17T14:23:15
+amended: 2025-12-17T14:23:46
 ---
 
 # Directory
