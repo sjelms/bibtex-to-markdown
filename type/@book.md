@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-16T13:22:39
+amended: 2025-12-17T14:08:37
 ---
 
 # Directory
@@ -91,6 +91,7 @@ amended: 2025-12-16T13:22:39
 - [[@Yu2020-ot|Green, Pervasive, And Cloud Computing - 15th International Conference, GPC 2020, Xi'an, China, November 13–15, 2020, Proceedings]]
 ## 2010-2019
 ### 2019
+- [[@Danermark2019-uv|Explaining Society - Critical Realism In The Social Sciences]]
 - [[@Frey2019-yf|The Technology Trap - Capital, Labor, And Power In The Age Of Automation]]
 - [[@Kuang2019-nv|User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work & Play]]
 - [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
@@ -238,6 +239,8 @@ amended: 2025-12-16T13:22:39
 - [[@Lawson2006-pz|How Designers Think]]
 - [[@Levy2006-si|The New Division Of Labor - How Computers Are Creating The Next Job Market]]
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
+### 2005
+- [[@Danermark2005-wo|Explaining Society - An Introduction To Critical Realism In The Social Sciences]]
 ### 2004
 - [[@Fuller2004-kj|Workplace Learning In Context]]
 - [[@Bryson2004-sn|A Short History Of Nearly Everything]]

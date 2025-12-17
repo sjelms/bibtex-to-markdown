@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2025-12-16T13:22:39
+amended: 2025-12-17T14:08:37
 ---
 
 # Directory
@@ -14,6 +14,7 @@ amended: 2025-12-16T13:22:39
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 ### 2024
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
+- [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 ### 2023
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]

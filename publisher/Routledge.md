@@ -35,6 +35,8 @@ category:
 [[@Christensen2020-kv|Managing Disruption]]
 [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
+[[@Danermark2005-wo|Explaining Society]]
+[[@Danermark2019-uv|Explaining Society]]
 [[@Daniels2013-pa|Activity Theory In Practice]]
 [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
