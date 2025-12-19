@@ -148,7 +148,7 @@ aliases:
 
 ---
 
-### Publisher/Journal Template (`publisher/Entity.md`)
+## Publisher/Journal Template (`publisher/Entity.md`)
 
 ```markdown
 ---
