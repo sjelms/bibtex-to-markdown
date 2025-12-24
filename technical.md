@@ -5,7 +5,7 @@
 - **Project Name**: BibLaTeX to Markdown Converter
 - **Description**: Python tooling that converts BibLaTeX (and legacy BibTeX) entries into Markdown notes with YAML frontmatter, tailored for Obsidian’s wiki-linking and academic citation workflows. The pipeline ingests a `.bib` database, produces per-citation Markdown with rich metadata, and maintains author/editor and publisher/journal maps of content (MOCs).
 - **Primary Technology Stack**: 
-  - Python 3.9+
+  - Python 3.13
   - `pybtex` for BibLaTeX/BibTeX parsing
   - `latexcodec` for robust LaTeX-to-Unicode decoding
   - GitHub Actions (automation)
