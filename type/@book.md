@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-18T10:56:55
+amended: 2025-12-25T10:26:57
 ---
 
 # Directory
@@ -105,6 +105,7 @@ amended: 2025-12-18T10:56:55
 - [[@King2019-nk|Template Analysis For Business And Management Students]]
 - [[@Hager2019-ui|The Emergence Of Complexity - Rethinking Education As A Social Science]]
 - [[@Kumar2019-dp|Research Methodology - A Step-By-Step Guide For Beginners]]
+- [[@Sutherland2019-ue|Alchemy - The Surprising Power Of Ideas That Don't Make Sense]]
 - [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education - Pathways, Knowledge, Identities, And Vocationalism]]
 - [[@Russell2019-or|Human Compatible - Artificial Intelligence And The Problem Of Control]]
 - [[@Holmes2019-xb|Artificial Intelligence In Education - Promises And Implications For Teaching And Learning]]
