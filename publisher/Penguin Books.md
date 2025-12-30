@@ -10,4 +10,5 @@ category:
 ## Penguin Books
 
 ### Content:
+[[@Dehaene2020-vn|How We Learn]]
 [[@Sutton2024-pg|The Friction Project]]

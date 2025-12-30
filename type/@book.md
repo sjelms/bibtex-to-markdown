@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2025-12-25T10:26:57
+amended: 2025-12-30T07:52:57
 ---
 
 # Directory
@@ -86,6 +86,7 @@ amended: 2025-12-25T10:26:57
 - [[@Bhaskar2020-ee|A Realist Theory Of Science]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]
+- [[@Dehaene2020-vn|How We Learn - The New Science Of Education And The Brain]]
 - [[@Billett2020-yt|Learning In The Workplace - Strategies For Effective Practice]]
 - [[@Sangaramoorthy2020-hi|Rapid Ethnographic Assessments - A Practical Approach And Toolkit For Collaborative Community Research]]
 - [[@Yu2020-ot|Green, Pervasive, And Cloud Computing - 15th International Conference, GPC 2020, Xi'an, China, November 13–15, 2020, Proceedings]]
@@ -186,6 +187,7 @@ amended: 2025-12-25T10:26:57
 - [[@Billett2014-wf|Mimetic Learning At Work - Learning In The Circumstances Of Practice]]
 - [[@Levitt2014-pp|Think Like A Freak - Secrets Of The Rogue Economist]]
 - [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning - International Perspectives And Practices]]
+- [[@Harari2014-do|Sapiens - A Brief History Of Humankind]]
 ### 2013
 - [[@Littlejohn2013-gj|Technology-Enhanced Professional Learning - Processes, Practices, And Tools]]
 - [[@Kelley2013-ne|Creative Confidence - Unleashing The Creative Potential Within Us All]]
@@ -290,6 +292,8 @@ amended: 2025-12-25T10:26:57
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
 ### 1974
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
+### 1973
+- [[@Berne1973-ik|Games People Play - The Psychology Of Human Relationships]]
 ## 1960-1969
 ### 1967
 - [[@Glaser1967-cp|The Discovery Of Grounded Theory - Strategies For Qualitative Research]]

@@ -10,6 +10,7 @@ category:
 ## Penguin UK
 
 ### Content:
+[[@Berne1973-ik|Games People Play]]
 [[@Chang2014-xq|Economics]]
 [[@Dubner2010-ee|Superfreakonomics]]
 [[@Johnson2011-da|Where Good Ideas Come From]]
