@@ -11,10 +11,12 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Audible
   - ePub
   - RNIB
   - Politics-and-Society
   - Economics
+  - Audiobook
 ---
 
 > [!bibliography]
