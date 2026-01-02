@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-02T16:32:39
+amended: 2026-01-02T16:33:22
 ---
 
 # Directory
@@ -40,6 +40,7 @@ amended: 2026-01-02T16:32:39
 - [[@Pink2023-jv|Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help]]
 - [[@Rubin2023-ij|The Creative Act - A Way Of Being]]
 - [[@Johnson2023-la|Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity]]
+- [[@Abiad2023-gb|How To Write Your Phd Thesis - The Easy Handbook]]
 ### 2022
 - [[@Weber-Lewerenz2022-ow|Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI]]
 - [[@Donovan2022-wg|The Anti-Planner - How To Get Sh*t Done When You Don't Feel Like It]]
@@ -75,6 +76,7 @@ amended: 2026-01-02T16:32:39
 - [[@Braun2021-ah|Thematic Analysis - A Practical Guide]]
 ### 2020
 - [[@Sawhney2020-tm|Construction 4.0 - An Innovation Platform For The Built Environment]]
+- [[@Klein2020-xn|Why We're Polarized]]
 - [[@Billups2020-od|Qualitative Data Collection Tools - Design, Development, And Applications]]
 - [[@Rosling2020-oi|How I Learned To Understand The World - A Memoir]]
 - [[@Giroux2020-sp|On Critical Pedagogy]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-01-02T16:32:39
+amended: 2026-01-02T16:33:22
 ---
 
 # Directory
@@ -12,6 +12,7 @@ amended: 2026-01-02T16:32:39
 - [[@Race2024-vr|UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]
 ### 2023
 - [[@BBC-News2023-wp|New RAAC Schools List Of Buildings With Unsafe Concrete]]
+- [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context - An Interview With Berth Danermark]]
 - [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
 - [[@Klein2023-sa|The Problem With Everything-Bagel Liberalism]]
 - [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
