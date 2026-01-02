@@ -10,6 +10,7 @@ publisher: "[[Cornerstone Digital]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Audible
   - Book-physical
   - Audiobook
 ---
