@@ -34,6 +34,7 @@ category:
 [[@Ferry1998-xo|An Inquiry Into Schön's Epistemology Of Practice]]
 [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
+[[@Galazka2023-sa|The Socio-Materiality Of Dirty Work]]
 [[@Glassman2001-cg|Dewey And Vygotsky]]
 [[@Hager2013-ey|Theories Of Workplace Learning]]
 [[@Hamilton2012-vy|Using Case Study In Education Research]]

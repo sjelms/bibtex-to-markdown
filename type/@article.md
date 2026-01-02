@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-02T16:33:22
+amended: 2026-01-02T16:46:47
 ---
 
 # Directory
@@ -16,6 +16,7 @@ amended: 2026-01-02T16:33:22
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 ### 2023
+- [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
