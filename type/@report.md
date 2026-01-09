@@ -1,11 +1,12 @@
 ---
 type: "[[@report]]"
-amended: 2026-01-02T16:46:47
+amended: 2026-01-09T11:58:13
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
+- [[@Francis-Devine2025-kg|Youth Unemployment Statistics]]
 - [[@Lyons2025-oc|New Towns Taskforce - Report To Government]]
 - [[@Ashraf2025-rf|Meaning At Work]]
 ### 2024

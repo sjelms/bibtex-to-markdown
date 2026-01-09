@@ -1,20 +1,17 @@
 ---
-author: "Brigid Francis-Devine"
+author: "Andrew B Powell"
 institution: "House of Commons Library"
 field:
 type:
 aliases:
-  - Francis-Devine
+  - Powell
 ---
 
-## Brigid Francis-Devine
+## Andrew B Powell
 
 ### Content:
-[[@Francis-Devine2023-er|Rising Cost Of Living In The UK]]
 [[@Francis-Devine2025-kg|Youth Unemployment Statistics]]
 
 #### Bibliography:
-
-![[@Francis-Devine2023-er]]
 
 ![[@Francis-Devine2025-kg]]
