@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-01-09T11:58:13
+amended: 2026-01-09T12:25:35
 ---
 
 # Directory
@@ -12,7 +12,6 @@ amended: 2026-01-09T11:58:13
 - [[@Leaker2023-do|Labour Market Overview, UK - Office For National Statistics]]
 - [[@Belkin2023-ak|Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds]]
 - [[@Gardiner2023-ls|Ilke Homes Goes Into Administration]]
-- [[@Ministry-of-Housing-Communities-and-Local-Government2023-wz|National Planning Policy Framework]]
 - [[@Lowe2023-gc|The RAAC Schools Crisis - What We Know So Far]]
 ### 2022
 - [[@Morby2022-bu|Construction Forecast To Fall By Nearly 4% Next Year]]

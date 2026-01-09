@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-01-09T11:58:13
+amended: 2026-01-09T12:25:35
 ---
 
 # Directory
@@ -18,6 +18,7 @@ amended: 2026-01-09T11:58:13
 - [[@Homes_England2023-xh|Homes England Annual Report And Financial Statements 2022 To 2023]]
 - [[@D-Amico2023-ml|Why Has Construction Productivity Stagnated? The Role Of Land‑use Regulation]]
 - [[@Mazzucato2023-tg|The Right To Housing - A Mission-Oriented And Human Rights-Based Approach]]
+- [[@Ministry-of-Housing-Communities-and-Local-Government2023-wz|National Planning Policy Framework]]
 - [[@Smith2023-fp|Offsite Construction For Housing - Research Roadmap]]
 - [[@Cole2023-zp|Modular Labour Report 2023]]
 ### 2022
