@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-01-09T15:53:34
+amended: 2026-01-09T16:40:27
 ---
 
 # Directory
@@ -8,6 +8,8 @@ amended: 2026-01-09T15:53:34
 ### 2025
 - [[@Francis-Devine2025-kg|Youth Unemployment Statistics]]
 - [[@Lyons2025-oc|New Towns Taskforce - Report To Government]]
+- [[@Ministry-of-Housing-Communities-and-Local-Government2025-bf|National Planning Policy Framework - Plan-Making And National Decision-Making Policies]]
+- [[@Ministry-of-Housing-Communities-and-Local-Government2025-cf|Proposed Reforms To The National Planning Policy Framework And Other Changes To The Planning System]]
 - [[@Ashraf2025-rf|Meaning At Work]]
 ### 2024
 - [[@Ryan-Collins2024-sw|The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The UK]]

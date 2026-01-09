@@ -1,11 +1,12 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-09T15:53:34
+amended: 2026-01-09T16:40:27
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
+- [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
@@ -27,6 +28,7 @@ amended: 2026-01-09T15:53:34
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished - A Home Is Not A House]]
+- [[@Darlow2022-gi|Automation In New Zealand's Offsite Construction (OSC) - A Status Update]]
 - [[@Knight2022-si|A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?]]
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
