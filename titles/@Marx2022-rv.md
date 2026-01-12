@@ -2,7 +2,7 @@
 title: The Communist Manifesto
 year: 2022
 author - 1: "[[Karl Marx]]"
-author - 2: "[[Friedrich Engels]]"
+author - 2: "[[Friedrich Engels-]]"
 editor - 1: "[[Gareth Stedman Jones]]"
 key: "[[@Marx2022-rv]]"
 aliases:
