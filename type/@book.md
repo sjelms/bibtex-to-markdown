@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-12T10:38:34
+amended: 2026-01-09T16:40:27
 ---
 
 # Directory
@@ -23,7 +23,6 @@ amended: 2026-01-12T10:38:34
 - [[@Xiang2024-jj|Novel Technology And Whole-Process Management In Prefabricated Building - Conference Proceedings Of The 5th International Prefabricated Building Seminar On Frontier Technology And Talent Training]]
 - [[@Pink2024-hz|Small Talk - 10 ADHD Lies And How To Stop Believing Them]]
 - [[@Sutton2024-pg|The Friction Project - How Smart Leaders Make The Right Things Easier And The Wrong Things Harder]]
-- [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
 ### 2023
 - [[@Friedman2023-hx|Fundamentals Of Innovative Sustainable Homes Design And Construction]]
 - [[@Evans2023-hm|Written - How To Keep Writing And Build A Habit That Lasts]]
@@ -48,7 +47,6 @@ amended: 2026-01-12T10:38:34
 - [[@Autor2022-vv|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
 - [[@Giroux2022-hi|Pedagogy Of Resistance - Against Manufactured Ignorance]]
 - [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"]]
-- [[@Marx2022-rv|The Communist Manifesto]]
 - [[@Casini2022-yp|Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry]]
 - [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government]]
 - [[@Susskind2022-wh|The Future Of The Professions - How Technology Will Transform The Work Of Human Experts, Updated Edition]]
@@ -85,7 +83,6 @@ amended: 2026-01-12T10:38:34
 - [[@Benyus2020-id|Biomimicry - Innovation Inspired By Nature]]
 - [[@Popper2020-fy|The Open Society And Its Enemies]]
 - [[@Williams2020-ck|Reflective Writing]]
-- [[@Forbes2020-sw|Lean Project Delivery And Integrated Practices In Modern Construction]]
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
