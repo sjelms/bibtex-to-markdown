@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Speechify
   - _In-Notion
   - _In-Readwise
   - Book-physical
