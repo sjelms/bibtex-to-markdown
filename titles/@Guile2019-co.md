@@ -17,6 +17,7 @@ tags:
   - EPubs-Books
   - TCOT-2024
   - _BibTex-to-MD-Git
+  - Speechify
   - _In-Readwise
   - ePub
   - VET
