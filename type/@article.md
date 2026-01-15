@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-13T18:02:19
+amended: 2026-01-15T12:09:52
 ---
 
 # Directory
@@ -15,6 +15,7 @@ amended: 2026-01-13T18:02:19
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 ### 2024
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
+- [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 ### 2023
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
