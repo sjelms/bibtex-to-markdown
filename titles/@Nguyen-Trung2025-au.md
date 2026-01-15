@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
+  - Speechify
   - Artificial-Intelligence-AI
   - PhD-Support-and-Training
   - Research-Methods

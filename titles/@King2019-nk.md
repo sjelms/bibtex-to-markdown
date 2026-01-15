@@ -12,6 +12,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - Speechify
   - ePub
   - Research-Methods
   - Fieldwork-Methodology
