@@ -11,6 +11,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Speechify
   - Research-Methods
   - _New-Literature
   - Book-physical
