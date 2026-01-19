@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-15T16:44:19
+amended: 2026-01-19T12:49:07
 ---
 
 # Directory
@@ -17,6 +17,7 @@ amended: 2026-01-15T16:44:19
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
+- [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 ### 2023
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
@@ -100,6 +101,7 @@ amended: 2026-01-15T16:44:19
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
+- [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]

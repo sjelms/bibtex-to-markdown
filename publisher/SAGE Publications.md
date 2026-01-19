@@ -43,6 +43,7 @@ category:
 [[@King2019-nk|Template Analysis For Business And Management Students]]
 [[@Kumar2019-dp|Research Methodology]]
 [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
+[[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 [[@Mayring2021-ud|Qualitative Content Analysis]]
 [[@Mills2013-uv|Ethnography In Education]]
 [[@Mithaug2000-lp|Learning To Theorize]]
