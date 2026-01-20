@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-19T12:49:07
+amended: 2026-01-20T08:46:31
 ---
 
 # Directory
@@ -137,6 +137,7 @@ amended: 2026-01-19T12:49:07
 - [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building - Exploring Product Development Platforms]]
 - [[@Killingsworth2013-qe|Synergy - A Case Study In Workforce Curriculum Development]]
 - [[@Hudson2013-id|Trends In CTE Coursetaking. Data Point. NCES 2014-901]]
+- [[@King2013-vv|The Pictor Technique - A Method For Exploring The Experience Of Collaborative Working]]
 - [[@Chong2013-nz|The ‘russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education]]
 - [[@Pink2013-ju|Short-Term Ethnography - Intense Routes To Knowing]]
 - [[@Ahn2013-of|The Effect Of Embodied Experiences On Self-Other Merging, Attitude, And Helping Behavior]]
