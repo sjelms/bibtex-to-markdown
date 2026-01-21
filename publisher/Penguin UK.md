@@ -13,6 +13,8 @@ category:
 [[@Berne1973-ik|Games People Play]]
 [[@Chang2014-xq|Economics]]
 [[@Dubner2010-ee|Superfreakonomics]]
+[[@Feynman2007-tl|'what Do You Care What Other People Think?' Further Adventures Of A Curious Character]]
+[[@Feynman2022-uv|Surely You're Joking Mr Feynman]]
 [[@Johnson2011-da|Where Good Ideas Come From]]
 [[@Levitt2006-xq|Freakonomics]]
 [[@Levitt2014-pp|Think Like A Freak]]
