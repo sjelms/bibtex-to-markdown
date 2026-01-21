@@ -13,7 +13,7 @@ category:
 [[@Boltanski2021-jq|On Justification]]
 [[@Callon2021-sa|Markets In The Making]]
 [[@Coyle2025-yv|The Measure Of Progress]]
-[[@Feynman2025-po|The Quotable Feynman]]
+[[@Feynman2015-tq|The Quotable Feynman]]
 [[@Frey2019-yf|The Technology Trap]]
 [[@Frey2025-re|How Progress Ends]]
 [[@Levy2006-si|The New Division Of Labor]]

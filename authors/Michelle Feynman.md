@@ -10,8 +10,8 @@ aliases:
 ## Michelle Feynman
 
 ### Content:
-[[@Feynman2025-po|The Quotable Feynman]]
+[[@Feynman2015-tq|The Quotable Feynman]]
 
 #### Bibliography:
 
-![[@Feynman2025-po]]
+![[@Feynman2015-tq]]

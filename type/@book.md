@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-21T10:08:40
+amended: 2026-01-21T10:23:11
 ---
 
 # Directory
@@ -12,7 +12,6 @@ amended: 2026-01-21T10:08:40
 - [[@Ching2025-iy|Building Construction Illustrated]]
 - [[@Cottam2025-sr|The Work We Need - A 21st Century Imagining]]
 - [[@Stiglitz2025-re|The Origins Of Inequality And Policies To Contain It]]
-- [[@Feynman2025-po|The Quotable Feynman]]
 - [[@Thompson2025-tf|Automation And Manufacturing For The Built Environment]]
 ### 2024
 - [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
@@ -170,6 +169,7 @@ amended: 2026-01-21T10:08:40
 - [[@Jerald2015-dg|The VR Book - Human-Centered Design For Virtual Reality]]
 - [[@Corbin2015-yj|Basics Of Qualitative Research - Techniques And Procedures For Developing Grounded Theory]]
 - [[@Ford2015-sa|Rise Of The Robots - Technology And The Threat Of A Jobless Future]]
+- [[@Feynman2015-tq|The Quotable Feynman]]
 - [[@Merriam2015-vy|Qualitative Research - A Guide To Design And Implementation]]
 ### 2014
 - [[@Gallace2014-lu|In Touch With The Future - The Sense Of Touch From Cognitive Neuroscience To Virtual Reality]]

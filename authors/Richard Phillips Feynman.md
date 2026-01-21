@@ -11,10 +11,10 @@ aliases:
 
 ### Content:
 [[@Feynman2011-tz|Six Easy Pieces]]
-[[@Feynman2025-po|The Quotable Feynman]]
+[[@Feynman2015-tq|The Quotable Feynman]]
 
 #### Bibliography:
 
 ![[@Feynman2011-tz]]
 
-![[@Feynman2025-po]]
+![[@Feynman2015-tq]]
