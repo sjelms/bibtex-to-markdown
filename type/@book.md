@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-21T10:33:38
+amended: 2026-01-21T10:35:50
 ---
 
 # Directory
@@ -247,7 +247,7 @@ amended: 2026-01-21T10:33:38
 ### 2007
 - [[@Pursell2007-xe|The Machine In America - A Social History Of Technology]]
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
-- [[@Feynman2007-tl|'what Do You Care What Other People Think?' Further Adventures Of A Curious Character]]
+- [[@Feynman2007-tl|What Do You Care What Other People Think? Further Adventures Of A Curious Character]]
 ### 2006
 - [[@Lawson2006-pz|How Designers Think]]
 - [[@Levy2006-si|The New Division Of Labor - How Computers Are Creating The Next Job Market]]
