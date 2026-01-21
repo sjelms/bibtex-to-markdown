@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-20T08:46:31
+amended: 2026-01-21T10:08:40
 ---
 
 # Directory
@@ -12,6 +12,7 @@ amended: 2026-01-20T08:46:31
 - [[@Ching2025-iy|Building Construction Illustrated]]
 - [[@Cottam2025-sr|The Work We Need - A 21st Century Imagining]]
 - [[@Stiglitz2025-re|The Origins Of Inequality And Policies To Contain It]]
+- [[@Feynman2025-po|The Quotable Feynman]]
 - [[@Thompson2025-tf|Automation And Manufacturing For The Built Environment]]
 ### 2024
 - [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
@@ -220,6 +221,7 @@ amended: 2026-01-20T08:46:31
 - [[@Van-Maanen2011-bf|Tales Of The Field - On Writing Ethnography]]
 - [[@Williams2011-ov|Completing Your Phd]]
 - [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
+- [[@Feynman2011-tz|Six Easy Pieces - Essentials Of Physics Explained By Its Most Brilliant Teacher]]
 - [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
 - [[@Billett2011-kx|Vocational Education - Purposes, Traditions And Prospects]]
 - [[@Johnson2011-da|Where Good Ideas Come From - The Seven Patterns Of Innovation]]
