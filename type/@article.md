@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-21T10:35:50
+amended: 2026-01-23T06:53:00
 ---
 
 # Directory
@@ -23,6 +23,7 @@ amended: 2026-01-21T10:35:50
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
+- [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
 ### 2022
 - [[@Mishra2022-pg|Land Use Change And Carbon Emissions Of A Transformation To Timber Cities]]
 - [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
