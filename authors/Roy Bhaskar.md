@@ -10,8 +10,8 @@ aliases:
 ## Roy Bhaskar
 
 ### Content:
-[[@Bhaskar2020-ee|A Realist Theory Of Science]]
+[[@Bhaskar1975-rq|A Realist Theory Of Science]]
 
 #### Bibliography:
 
-![[@Bhaskar2020-ee]]
+![[@Bhaskar1975-rq]]

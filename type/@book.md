@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-23T06:53:00
+amended: 2026-01-24T12:31:17
 ---
 
 # Directory
@@ -90,7 +90,6 @@ amended: 2026-01-23T06:53:00
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
-- [[@Bhaskar2020-ee|A Realist Theory Of Science]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]
 - [[@Dehaene2020-vn|How We Learn - The New Science Of Education And The Brain]]
@@ -300,6 +299,8 @@ amended: 2026-01-23T06:53:00
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
+### 1975
+- [[@Bhaskar1975-rq|A Realist Theory Of Science]]
 ### 1974
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
 ### 1973
