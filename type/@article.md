@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-01-24T12:31:17
+amended: 2026-01-25T14:49:11
 ---
 
 # Directory
@@ -52,6 +52,7 @@ amended: 2026-01-24T12:31:17
 - [[@Brynjolfsson2021-sf|The Productivity J-Curve - How Intangibles Complement General Purpose Technologies]]
 - [[@Jadallah2021-is|Construction Industry Training Assessment Framework]]
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
+- [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
 - [[@Puntambekar2021-pm|Distributed Scaffolding - Scaffolding Students In Classroom Environments]]
 - [[@Balasubramanian2021-ju|The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market]]
