@@ -18,13 +18,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Tools
-        run: |
-          pip install pyzotero
-          sudo apt-get install pandoc
-
-      - name: Convert BibLaTeX to JSON
-        run: pandoc main.bib -t csljson -o references.json
+      - name: Install Dependencies
+        run: pip install pyzotero bibtexparser
 
       - name: Run Sync Script
         env:
@@ -32,75 +27,139 @@ jobs:
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
         run: |
           python -c "
-          import json
           import os
+          import bibtexparser
+          from bibtexparser.customization import convert_to_unicode, author
           from pyzotero import zotero
 
-          # Configuration
-          JSON_FILE = 'references.json'
+          # --- CONFIGURATION ---
+          BIB_FILE = 'main.bib'
           LIB_ID = os.environ['ZOTERO_LIBRARY_ID']
           API_KEY = os.environ['ZOTERO_API_KEY']
           
-          # Initialize Zotero
+          # --- HELPER: MAP BIBTEX TO ZOTERO ---
+          def map_bib_to_zotero(entry, zot_instance):
+              # 1. Determine Item Type
+              bib_type = entry.get('ENTRYTYPE', 'article').lower()
+              zot_type = 'journalArticle' # Default
+              if bib_type in ['book', 'mvbook', 'booklet']:
+                  zot_type = 'book'
+              elif bib_type in ['inbook', 'incollection', 'inproceedings', 'chapter']:
+                  zot_type = 'bookSection'
+              elif bib_type in ['thesis', 'phdthesis', 'mastersthesis']:
+                  zot_type = 'thesis'
+              elif bib_type in ['report', 'techreport']:
+                  zot_type = 'report'
+              
+              template = zot_instance.item_template(zot_type)
+              
+              # 2. Map Basic Fields
+              template['title'] = entry.get('title', 'No Title')
+              template['DOI'] = entry.get('doi', '')
+              template['url'] = entry.get('url', '')
+              template['date'] = entry.get('year', '') or entry.get('date', '')
+              template['abstractNote'] = entry.get('abstract', '')
+              
+              # Map type-specific fields
+              if zot_type == 'journalArticle':
+                  template['publicationTitle'] = entry.get('journal', '')
+                  template['volume'] = entry.get('volume', '')
+                  template['issue'] = entry.get('number', '')
+                  template['pages'] = entry.get('pages', '')
+              elif zot_type == 'book':
+                  template['publisher'] = entry.get('publisher', '')
+              
+              # 3. Map Authors (Complex!)
+              if 'author' in entry:
+                  # bibtexparser stores authors as a list of strings if customized, 
+                  # but here we manually handle the string splits to be safe
+                  raw_authors = entry['author'] 
+                  # Zotero needs [{'creatorType': 'author', 'firstName': 'X', 'lastName': 'Y'}]
+                  zot_authors = []
+                  for auth_str in raw_authors:
+                      parts = auth_str.split(', ')
+                      if len(parts) >= 2:
+                          zot_authors.append({'creatorType': 'author', 'firstName': parts[1], 'lastName': parts[0]})
+                      else:
+                          # Single name or 'First Last' format
+                          names = auth_str.split(' ')
+                          if len(names) > 1:
+                              zot_authors.append({'creatorType': 'author', 'firstName': ' '.join(names[:-1]), 'lastName': names[-1]})
+                          else:
+                              zot_authors.append({'creatorType': 'author', 'firstName': '', 'lastName': auth_str})
+                  template['creators'] = zot_authors
+              
+              return template
+
+          # --- MAIN LOGIC ---
+          print('--- Starting Zotero Sync ---')
+          
+          # 1. Connect
           try:
               zot = zotero.Zotero(LIB_ID, 'user', API_KEY)
-              print(f'Successfully connected to Zotero Library: {LIB_ID}')
+              print(f'Connected to Library: {LIB_ID}')
           except Exception as e:
-              print(f'Connection failed: {e}')
+              print(f'Connection Failed: {e}')
               exit(1)
 
-          # 1. Load the new references from Paperpile
-          if not os.path.exists(JSON_FILE):
-              print(f'Error: {JSON_FILE} not found. Did Pandoc fail?')
+          # 2. Parse Local BibTeX
+          if not os.path.exists(BIB_FILE):
+              print(f'Error: {BIB_FILE} not found.')
               exit(1)
               
-          with open(JSON_FILE, 'r') as f:
-              new_refs = json.load(f)
-          print(f'Loaded {len(new_refs)} references from Paperpile export.')
+          with open(BIB_FILE) as bibtex_file:
+              # We use customization to clean up latex chars (e.g., \'e -> é) and split authors
+              parser = bibtexparser.bparser.BibTexParser()
+              parser.customization = lambda record: author(convert_to_unicode(record))
+              bib_db = bibtexparser.load(bibtex_file, parser=parser)
+              
+          print(f'Loaded {len(bib_db.entries)} items from {BIB_FILE}.')
 
-          # 2. Fetch existing Zotero items to prevent duplicates
-          print('Fetching existing Zotero library to check for duplicates...')
+          # 3. Fetch Existing Zotero Items (Duplicate Check)
+          print('Fetching existing Zotero library...')
           existing_items = zot.everything(zot.top(fields=['data']))
-          
           existing_dois = set()
           existing_titles = set()
           
           for item in existing_items:
               data = item['data']
-              if 'DOI' in data and data['DOI']:
-                  existing_dois.add(data['DOI'].lower())
-              if 'title' in data and data['title']:
-                  # Normalize title: lowercase and strip spaces
-                  existing_titles.add(data['title'].lower().strip())
+              if data.get('DOI'): existing_dois.add(data['DOI'].lower())
+              if data.get('title'): existing_titles.add(data['title'].lower().strip())
 
-          # 3. Filter items
+          # 4. Prepare Batch
           to_add = []
-          for ref in new_refs:
-              # Check DOI
-              doi = ref.get('DOI', '').lower()
-              if doi and doi in existing_dois:
+          for entry in bib_db.entries:
+              # Check Duplicates
+              doi = entry.get('doi', '').lower()
+              title = entry.get('title', '').lower().strip()
+              
+              if (doi and doi in existing_dois) or (title and title in existing_titles):
                   continue
               
-              # Check Title (fallback if no DOI)
-              title = ref.get('title', '').lower().strip()
-              if title and title in existing_titles:
-                  continue
-                  
-              # If we are here, it's new!
-              to_add.append(ref)
+              # Map and Add
+              try:
+                  zot_item = map_bib_to_zotero(entry, zot)
+                  to_add.append(zot_item)
+              except Exception as e:
+                  print(f'Skipping item due to mapping error: {e}')
 
-          # 4. Push to Zotero in batches
+          # 5. Upload
           if to_add:
-              print(f'Found {len(to_add)} NEW items to add.')
+              print(f'Pushing {len(to_add)} NEW items to Zotero...')
               batch_size = 50
               for i in range(0, len(to_add), batch_size):
                   batch = to_add[i:i+batch_size]
-                  print(f'Syncing batch {i//batch_size + 1}...')
-                  try:
-                      zot.create_items(batch)
-                  except Exception as e:
-                      print(f'Error syncing batch: {e}')
-              print('Sync complete!')
+                  print(f'  Sending batch {i//batch_size + 1} ({len(batch)} items)...')
+                  
+                  # IMPORTANT: We verify the response this time!
+                  response = zot.create_items(batch)
+                  
+                  if response.get('failed'):
+                      print('  WARNING: Some items failed to upload:')
+                      print(response['failed'])
+                  else:
+                      print('  Batch success.')
+              print('--- Sync Complete ---')
           else:
-              print('Library is up to date. No new items found.')
+              print('Library is up to date.')
           "
