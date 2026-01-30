@@ -11,96 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Tools
+      - name: Install dependencies
         run: |
-          pip install pyzotero
-          sudo apt-get install pandoc
-
-      - name: Convert BibLaTeX to JSON
-        run: pandoc main.bib -t csljson -o references.json
+          python -m pip install --upgrade pip
+          pip install pyzotero pybtex latexcodec
 
       - name: Run Sync Script
         env:
           ZOTERO_LIBRARY_ID: ${{ secrets.ZOTERO_LIBRARY_ID }}
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_LIBRARY_TYPE: user
         run: |
-          python -c "
-          import json
-          import os
-          from pyzotero import zotero
-
-          # Configuration
-          JSON_FILE = 'references.json'
-          LIB_ID = os.environ['ZOTERO_LIBRARY_ID']
-          API_KEY = os.environ['ZOTERO_API_KEY']
-          
-          # Initialize Zotero
-          try:
-              zot = zotero.Zotero(LIB_ID, 'user', API_KEY)
-              print(f'Successfully connected to Zotero Library: {LIB_ID}')
-          except Exception as e:
-              print(f'Connection failed: {e}')
-              exit(1)
-
-          # 1. Load the new references from Paperpile
-          if not os.path.exists(JSON_FILE):
-              print(f'Error: {JSON_FILE} not found. Did Pandoc fail?')
-              exit(1)
-              
-          with open(JSON_FILE, 'r') as f:
-              new_refs = json.load(f)
-          print(f'Loaded {len(new_refs)} references from Paperpile export.')
-
-          # 2. Fetch existing Zotero items to prevent duplicates
-          print('Fetching existing Zotero library to check for duplicates...')
-          existing_items = zot.everything(zot.top(fields=['data']))
-          
-          existing_dois = set()
-          existing_titles = set()
-          
-          for item in existing_items:
-              data = item['data']
-              if 'DOI' in data and data['DOI']:
-                  existing_dois.add(data['DOI'].lower())
-              if 'title' in data and data['title']:
-                  # Normalize title: lowercase and strip spaces
-                  existing_titles.add(data['title'].lower().strip())
-
-          # 3. Filter items
-          to_add = []
-          for ref in new_refs:
-              # Check DOI
-              doi = ref.get('DOI', '').lower()
-              if doi and doi in existing_dois:
-                  continue
-              
-              # Check Title (fallback if no DOI)
-              title = ref.get('title', '').lower().strip()
-              if title and title in existing_titles:
-                  continue
-                  
-              # If we are here, it's new!
-              to_add.append(ref)
-
-          # 4. Push to Zotero in batches
-          if to_add:
-              print(f'Found {len(to_add)} NEW items to add.')
-              batch_size = 50
-              for i in range(0, len(to_add), batch_size):
-                  batch = to_add[i:i+batch_size]
-                  print(f'Syncing batch {i//batch_size + 1}...')
-                  try:
-                      zot.create_items(batch)
-                  except Exception as e:
-                      print(f'Error syncing batch: {e}')
-              print('Sync complete!')
-          else:
-              print('Library is up to date. No new items found.')
-          "
+          python scripts/sync_to_zotero.py
