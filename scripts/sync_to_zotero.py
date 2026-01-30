@@ -82,9 +82,37 @@ def person_to_creator(person, creator_type: str) -> Dict[str, str]:
     return {"creatorType": creator_type, "firstName": first, "lastName": last}
 
 
-def build_creators(entry) -> List[Dict[str, str]]:
+def get_allowed_creator_types(zot, item_type: str) -> set:
+    if item_type in CREATOR_TYPE_CACHE:
+        return CREATOR_TYPE_CACHE[item_type]
+
+    allowed: set = set()
+    try:
+        creator_types = zot.item_creator_types(item_type)
+    except Exception:
+        creator_types = None
+
+    if isinstance(creator_types, list):
+        for entry in creator_types:
+            if isinstance(entry, dict):
+                creator_type = entry.get("creatorType")
+            else:
+                creator_type = entry
+            if creator_type:
+                allowed.add(creator_type)
+
+    if not allowed:
+        allowed = {"author", "editor"}
+
+    CREATOR_TYPE_CACHE[item_type] = allowed
+    return allowed
+
+
+def build_creators(entry, allowed_creator_types: set) -> List[Dict[str, str]]:
     creators: List[Dict[str, str]] = []
     for role, creator_type in (("author", "author"), ("editor", "editor")):
+        if creator_type not in allowed_creator_types:
+            continue
         for person in entry.persons.get(role, []):
             creators.append(person_to_creator(person, creator_type))
     return creators
@@ -130,7 +158,8 @@ def map_entry(entry, citekey: str, zot) -> Dict[str, str]:
     elif bib_type == "mastersthesis":
         set_field(template, "type", "Master's thesis")
 
-    creators = build_creators(entry)
+    allowed_creator_types = get_allowed_creator_types(zot, item_type)
+    creators = build_creators(entry, allowed_creator_types)
     if creators and "creators" in template:
         template["creators"] = creators
 
@@ -243,6 +272,7 @@ def main() -> None:
 
 
 TEMPLATE_CACHE: Dict[str, Dict[str, str]] = {}
+CREATOR_TYPE_CACHE: Dict[str, set] = {}
 
 
 if __name__ == "__main__":
