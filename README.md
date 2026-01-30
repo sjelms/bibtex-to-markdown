@@ -205,6 +205,8 @@ amended: 2025-10-08T10:06:00
 
 GitHub Actions (`.github/workflows/bibtex-to-md.yml`) runs the converter on pushes, ensuring generated content stays synchronized with the repository.
 
+GitHub Actions (`.github/workflows/paperpile_sync.yml`) syncs `main.bib` into a Zotero personal library on push (or manual dispatch). It runs `scripts/sync_to_zotero.py` and requires the secrets `ZOTERO_LIBRARY_ID` and `ZOTERO_API_KEY`. Optionally set `ZOTERO_COLLECTION_KEY` to place new items into a specific Zotero collection.
+
 ---
 
 ## 🛠️ Troubleshooting & Known Limitations
