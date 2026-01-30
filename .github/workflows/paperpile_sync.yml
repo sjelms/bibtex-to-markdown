@@ -3,8 +3,8 @@ name: Sync Paperpile to Zotero
 on:
   push:
     paths:
-      - 'main.bib'  # Triggers only when your specific bib file changes
-  workflow_dispatch:  # Allows you to click a "Run" button manually
+      - 'main.bib'
+  workflow_dispatch:
 
 jobs:
   sync-to-zotero:
@@ -24,7 +24,6 @@ jobs:
           sudo apt-get install pandoc
 
       - name: Convert BibLaTeX to JSON
-        # Converts your specific 'main.bib' to CSL JSON for Zotero
         run: pandoc main.bib -t csljson -o references.json
 
       - name: Run Sync Script
@@ -39,16 +38,18 @@ jobs:
 
           # Configuration
           JSON_FILE = 'references.json'
+          LIB_ID = os.environ['ZOTERO_LIBRARY_ID']
+          API_KEY = os.environ['ZOTERO_API_KEY']
           
           # Initialize Zotero
           try:
-              zot = zotero.Zotero(os.environ['ZOTERO_LIBRARY_ID'], 'user', os.environ['ZOTERO_API_KEY'])
-              print(f'Successfully connected to Zotero Library: {os.environ.get(\'ZOTERO_LIBRARY_ID\')}')
+              zot = zotero.Zotero(LIB_ID, 'user', API_KEY)
+              print(f'Successfully connected to Zotero Library: {LIB_ID}')
           except Exception as e:
               print(f'Connection failed: {e}')
               exit(1)
 
-          # 1. Load the new references from Paperpile (converted to JSON)
+          # 1. Load the new references from Paperpile
           if not os.path.exists(JSON_FILE):
               print(f'Error: {JSON_FILE} not found. Did Pandoc fail?')
               exit(1)
@@ -59,7 +60,6 @@ jobs:
 
           # 2. Fetch existing Zotero items to prevent duplicates
           print('Fetching existing Zotero library to check for duplicates...')
-          # We fetch top-level items. If you have >100 items, paging is handled by everything()
           existing_items = zot.everything(zot.top(fields=['data']))
           
           existing_dois = set()
