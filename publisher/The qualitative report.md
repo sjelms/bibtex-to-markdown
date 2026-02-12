@@ -1,5 +1,5 @@
 ---
-name: The Qualitative Report
+name: The qualitative report
 aliases:
 see also:
 tags:
@@ -7,7 +7,7 @@ category:
   - journal
 ---
 
-## The Qualitative Report
+## The qualitative report
 
 ### Content:
-[[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
+[[@Pretorius2024-ob|Demystifying Research Paradigms]]

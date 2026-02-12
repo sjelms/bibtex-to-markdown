@@ -46,6 +46,7 @@ category:
 [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 [[@Mayring2021-ud|Qualitative Content Analysis]]
+[[@Miles2019-xd|Qualitative Data Analysis]]
 [[@Mills2013-uv|Ethnography In Education]]
 [[@Mithaug2000-lp|Learning To Theorize]]
 [[@Philip1998-pd|Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?]]
