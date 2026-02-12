@@ -5,7 +5,7 @@ author - 1: "[[Laurie J Goldsmith]]"
 key: "[[@Goldsmith2021-pd]]"
 aliases:
   - Using Framework Analysis In Applied Qualitative Research
-journal: "[[The Qualitative Report]]"
+journal: "[[Qualitative Report]]"
 publisher: "[[Nova Southeastern University]]"
 type: "[[@article]]"
 tags:

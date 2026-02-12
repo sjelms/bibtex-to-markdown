@@ -6,7 +6,7 @@ key: "[[@Pretorius2024-ob]]"
 aliases:
   - Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research
   - Demystifying Research Paradigms
-journal: "[[The Qualitative Report]]"
+journal: "[[Qualitative Report]]"
 publisher: "[[Nova Southeastern University]]"
 type: "[[@article]]"
 tags:
