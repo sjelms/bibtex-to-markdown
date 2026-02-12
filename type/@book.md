@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-01-25T14:49:11
+amended: 2026-02-12T07:29:26
 ---
 
 # Directory
@@ -107,6 +107,7 @@ amended: 2026-01-25T14:49:11
 - [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction - People, Process And Technology]]
 - [[@Muller2019-zm|The Tyranny Of Metrics]]
 - [[@Lawson2019-tt|Design In Modular Construction]]
+- [[@Miles2019-xd|Qualitative Data Analysis - A Methods Sourcebook]]
 - [[@Mitchell2019-zu|Artificial Intelligence - A Guide For Thinking Humans]]
 - [[@Lambert2019-qv|Practical Research Methods In Education - An Early Researcher's Critical Guide]]
 - [[@King2019-nk|Template Analysis For Business And Management Students]]
