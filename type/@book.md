@@ -1,10 +1,12 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-12T11:57:41
+amended: 2026-02-14T12:20:03
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Spencer2026-tc|University College London - The Bloomsbury Campus]]
 ### 2025
 - [[@Frey2025-re|How Progress Ends - Technology, Innovation, And The Fate Of Nations]]
 - [[@Coyle2025-yv|The Measure Of Progress - Counting What Really Matters]]
