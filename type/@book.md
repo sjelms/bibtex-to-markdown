@@ -1,12 +1,13 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-14T12:20:03
+amended: 2026-02-14T12:30:42
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
 - [[@Spencer2026-tc|University College London - The Bloomsbury Campus]]
+- [[@Brewis2026-wd|Student London - A New History Of Higher Education In The Capital]]
 ### 2025
 - [[@Frey2025-re|How Progress Ends - Technology, Innovation, And The Fate Of Nations]]
 - [[@Coyle2025-yv|The Measure Of Progress - Counting What Really Matters]]
@@ -74,6 +75,7 @@ amended: 2026-02-14T12:20:03
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
 - [[@Burkeman2021-fd|Four Thousand Weeks - Time And How To Use It]]
 - [[@Mayring2021-ud|Qualitative Content Analysis - A Step-By-Step Guide]]
+- [[@Aldrich2021-ru|The UCL Institute Of Education - From Training College To Global Institution]]
 - [[@Mayer2021-in|The Cambridge Handbook Of Multimedia Learning]]
 - [[@Hyde2021-ai|Design Studio Vol. 2 - Intelligent Control 2021 - Disruptive Technologies]]
 - [[@Russell2021-vx|Artificial Intelligence - A Modern Approach]]
