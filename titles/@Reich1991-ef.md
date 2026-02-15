@@ -10,12 +10,14 @@ publisher: "[[A A Knopf]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - _In-Notion
   - _In-Readwise
   - Book-physical
   - Economics
   - Labor
   - _New-Literature
+  - ePub
 ---
 
 > [!bibliography]
