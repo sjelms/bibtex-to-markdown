@@ -10,6 +10,7 @@ publisher: "[[St Martin s Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-physical
   - ePub
 ---
