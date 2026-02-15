@@ -12,9 +12,11 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Audible
+  - EPubs-Books
   - Economics
   - Audiobook
   - Book-physical
+  - ePub
 ---
 
 > [!bibliography]

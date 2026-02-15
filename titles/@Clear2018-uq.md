@@ -11,8 +11,10 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Audible
+  - EPubs-Books
   - Book-physical
   - Audiobook
+  - ePub
 ---
 
 > [!bibliography]
