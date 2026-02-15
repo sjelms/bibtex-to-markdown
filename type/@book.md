@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-15T16:59:15
+amended: 2026-02-15T17:04:59
 ---
 
 # Directory
@@ -240,6 +240,7 @@ amended: 2026-02-15T16:59:15
 ## 2000-2009
 ### 2009
 - [[@Felstead2009-kt|Improving Working As Learning]]
+- [[@Wing2009-xb|The Visual Handbook Of Building And Remodeling - A Comprehensive Guide To Choosing The Right Materials And Systems For Every Part Of Your Home]]
 - [[@Anderson2009-jd|The Longer Long Tail - How Endless Choice Is Creating Unlimited Demand]]
 - [[@Goldin2009-sl|The Race Between Education And Technology]]
 - [[@Robinson2009-ed|The Element - How Finding Your Passion Changes Everything]]
