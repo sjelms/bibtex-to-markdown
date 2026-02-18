@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Sarah Friar"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Friar
 ---
 
-## Alex Pentland
+## Sarah Friar
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Lily L Tsai"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Tsai
 ---
 
-## Alex Pentland
+## Lily L Tsai
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

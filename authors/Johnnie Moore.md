@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Johnnie Moore"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Moore
 ---
 
-## Alex Pentland
+## Johnnie Moore
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

@@ -10,4 +10,4 @@ category:
 ## Stanford Digital Economy Lab
 
 ### Content:
-[[@Brynjolfsson2024-gd|The Digitalist Papers]]
+[[@Beato2024-nt|The Digitalist Papers]]

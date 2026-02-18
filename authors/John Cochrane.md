@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "John Cochrane"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Cochrane
 ---
 
-## Alex Pentland
+## John Cochrane
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

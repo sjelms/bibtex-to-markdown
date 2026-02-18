@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Reid Hoffman"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Hoffman
 ---
 
-## Alex Pentland
+## Reid Hoffman
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

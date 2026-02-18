@@ -10,14 +10,16 @@ aliases:
 ## Erik Brynjolfsson
 
 ### Content:
+[[@Beato2024-nt|The Digitalist Papers]]
 [[@Brynjolfsson2011-fg|Race Against The Machine]]
 [[@Brynjolfsson2012-jw|Race Against The Machine]]
 [[@Brynjolfsson2014-kx|The Second Machine Age]]
 [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox]]
 [[@Brynjolfsson2021-sf|The Productivity J-Curve]]
-[[@Brynjolfsson2024-gd|The Digitalist Papers]]
 
 #### Bibliography:
+
+![[@Beato2024-nt]]
 
 ![[@Brynjolfsson2011-fg]]
 
@@ -28,5 +30,3 @@ aliases:
 ![[@Brynjolfsson2019-od]]
 
 ![[@Brynjolfsson2021-sf]]
-
-![[@Brynjolfsson2024-gd]]

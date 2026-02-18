@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-15T17:09:02
+amended: 2026-02-18T07:34:39
 ---
 
 # Directory
@@ -19,7 +19,7 @@ amended: 2026-02-15T17:09:02
 ### 2024
 - [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
 - [[@Holder2024-is|Our Unfinished March - The Violent Past And Imperiled Future Of The Vote]]
-- [[@Brynjolfsson2024-gd|The Digitalist Papers - Artificial Intelligence And Democracy In America]]
+- [[@Beato2024-nt|The Digitalist Papers - Artificial Intelligence And Democracy In America]]
 - [[@McCabe2024-zg|How To ADHD - An Insider's Guide To Working With Your Brain (not Against It)]]
 - [[@Lage2024-kt|Towards A New European Bauhaus—Challenges In Design Education - EAAE Annual Conference—Madrid 2022]]
 - [[@Shewring2024-wm|Theatre Buildings - A Design Guide]]

@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Eric Schmidt"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Schmidt
 ---
 
-## Alex Pentland
+## Eric Schmidt
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

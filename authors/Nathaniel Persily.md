@@ -10,8 +10,8 @@ aliases:
 ## Nathaniel Persily
 
 ### Content:
-[[@Brynjolfsson2024-gd|The Digitalist Papers]]
+[[@Beato2024-nt|The Digitalist Papers]]
 
 #### Bibliography:
 
-![[@Brynjolfsson2024-gd]]
+![[@Beato2024-nt]]

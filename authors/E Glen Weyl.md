@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "E Glen Weyl"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Weyl
 ---
 
-## Alex Pentland
+## E Glen Weyl
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

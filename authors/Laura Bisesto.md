@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Laura Bisesto"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Bisesto
 ---
 
-## Alex Pentland
+## Laura Bisesto
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

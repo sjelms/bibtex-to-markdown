@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Audrey Tang"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Tang
 ---
 
-## Alex Pentland
+## Audrey Tang
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

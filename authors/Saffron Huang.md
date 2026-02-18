@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Saffron Huang"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Huang
 ---
 
-## Alex Pentland
+## Saffron Huang
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Eugene Volokh"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Volokh
 ---
 
-## Alex Pentland
+## Eugene Volokh
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

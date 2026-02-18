@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Divya Siddarth"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Siddarth
 ---
 
-## Alex Pentland
+## Divya Siddarth
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

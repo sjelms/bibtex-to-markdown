@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Mona Hamdy"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Hamdy
 ---
 
-## Alex Pentland
+## Mona Hamdy
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "James Manyika"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Manyika
 ---
 
-## Alex Pentland
+## James Manyika
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

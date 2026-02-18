@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Greg Beato"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Beato
 ---
 
-## Alex Pentland
+## Greg Beato
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]

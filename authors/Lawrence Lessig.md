@@ -1,13 +1,13 @@
 ---
-author: "Alex Pentland"
+author: "Lawrence Lessig"
 institution:
 field:
 type:
 aliases:
-  - Pentland
+  - Lessig
 ---
 
-## Alex Pentland
+## Lawrence Lessig
 
 ### Content:
 [[@Beato2024-nt|The Digitalist Papers]]
