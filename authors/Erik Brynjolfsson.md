@@ -10,6 +10,7 @@ aliases:
 ## Erik Brynjolfsson
 
 ### Content:
+[[@Abraham2025-or|The Digitalist Papers]]
 [[@Beato2024-nt|The Digitalist Papers]]
 [[@Brynjolfsson2011-fg|Race Against The Machine]]
 [[@Brynjolfsson2012-jw|Race Against The Machine]]
@@ -18,6 +19,8 @@ aliases:
 [[@Brynjolfsson2021-sf|The Productivity J-Curve]]
 
 #### Bibliography:
+
+![[@Abraham2025-or]]
 
 ![[@Beato2024-nt]]
 

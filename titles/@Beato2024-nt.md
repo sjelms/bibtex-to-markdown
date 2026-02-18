@@ -34,9 +34,11 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Future-of-Work
   - ePub
   - Economics
   - Artificial-Intelligence-AI
+  - Future-of-Work
 ---
 
 > [!bibliography]
