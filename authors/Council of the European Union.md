@@ -1,6 +1,6 @@
 ---
 author: "Council of the European Union"
-institution: "Official Journal of the European Union"
+institution:
 field:
 type:
 aliases:

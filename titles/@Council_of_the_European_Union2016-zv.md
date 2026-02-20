@@ -6,7 +6,6 @@ key: "[[@Council_of_the_European_Union2016-zv]]"
 aliases:
   - Upskilling Pathways - New Opportunities For Adults
   - Upskilling Pathways
-institution: "[[Official Journal of the European Union]]"
 publisher: "[[Publications Office of the European Union]]"
 type: "[[@report]]"
 tags:
