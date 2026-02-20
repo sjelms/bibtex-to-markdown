@@ -6,7 +6,7 @@ key: "[[@European-Commission2016-md]]"
 aliases:
   - Upskilling Pathways - New Opportunities For Adults
   - Upskilling Pathways
-journal: "[[Official Journal of the European Union L Legislation]]"
+journal: "[[Official Journal of the European Union]]"
 publisher: "[[Publications Office of the European Union]]"
 type: "[[@article]]"
 tags:
