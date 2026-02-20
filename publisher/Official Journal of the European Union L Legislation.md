@@ -10,4 +10,4 @@ category:
 ## Official Journal of the European Union L Legislation
 
 ### Content:
-[[@Council_of_the_European_Union2016-zv|Upskilling Pathways]]
+[[@European-Commission2016-md|Upskilling Pathways]]
