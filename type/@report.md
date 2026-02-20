@@ -1,12 +1,13 @@
 ---
 type: "[[@report]]"
-amended: 2026-02-20T10:09:12
+amended: 2026-02-20T10:09:31
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
 - [[@Francis-Devine2025-kg|Youth Unemployment Statistics]]
+- [[@European-Commission2025-nz|The European Strategy For Housing Construction - A More Competitive And Productive Construction Industry]]
 - [[@Lyons2025-oc|New Towns Taskforce - Report To Government]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2025-bf|National Planning Policy Framework - Plan-Making And National Decision-Making Policies]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2025-cf|Proposed Reforms To The National Planning Policy Framework And Other Changes To The Planning System]]
