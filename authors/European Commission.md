@@ -1,6 +1,6 @@
 ---
 author: "European Commission"
-institution: "European Commission"
+institution: "Directorate-General for Education, Youth, Sport and Culture"
 field:
 type:
 aliases:

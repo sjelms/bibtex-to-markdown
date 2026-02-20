@@ -5,7 +5,7 @@ author - 1: "[[European Commission]]"
 key: "[[@European-Commission2019-go]]"
 aliases:
   - Key Competences For Lifelong Learning
-institution: "[[Publications Office of the European Union]]"
+institution: "[[Directorate-General for Education, Youth, Sport and Culture]]"
 publisher: "[[Publications Office of the European Union]]"
 type: "[[@report]]"
 tags:
