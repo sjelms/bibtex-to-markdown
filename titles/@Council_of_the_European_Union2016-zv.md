@@ -6,8 +6,9 @@ key: "[[@Council_of_the_European_Union2016-zv]]"
 aliases:
   - Upskilling Pathways - New Opportunities For Adults
   - Upskilling Pathways
+journal: "[[Official Journal of the European Union L Legislation]]"
 publisher: "[[Publications Office of the European Union]]"
-type: "[[@report]]"
+type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
   - My-Library

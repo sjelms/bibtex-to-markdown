@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-02-20T10:21:43
+amended: 2026-02-20T10:24:04
 ---
 
 # Directory
@@ -76,7 +76,6 @@ amended: 2026-02-20T10:21:43
 ### 2016
 - [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
 - [[@Renz2016-br|Shaping The Future Of Construction - A Breakthrough In Mindset And Technology]]
-- [[@Council_of_the_European_Union2016-zv|Upskilling Pathways - New Opportunities For Adults]]
 - [[@Woetzel2016-gs|A Tool Kit To Close California’s Housing Gap - 3.5 Million Homes By 2025]]
 - [[@Schober2016-eo|Digitization In The Construction Industry - Building Europe's Road To "construction 4.0"]]
 - [[@Berger2016-vc|Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work]]
