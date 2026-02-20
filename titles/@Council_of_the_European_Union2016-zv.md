@@ -7,6 +7,7 @@ aliases:
   - Upskilling Pathways - New Opportunities For Adults
   - Upskilling Pathways
 institution: "[[Official Journal of the European Union]]"
+publisher: "[[Publications Office of the European Union]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Union, Council of the European. 2016. “Upskilling Pathways: New Opportunities for Adults.” [[Official Journal of the European Union]]
+> Union, Council of the European. 2016. “Upskilling Pathways: New Opportunities for Adults.” [[Publications Office of the European Union]]
