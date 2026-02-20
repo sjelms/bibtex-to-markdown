@@ -10,5 +10,5 @@ category:
 ## Publications Office of the European Union
 
 ### Content:
+[[@European-Commission2019-go|Key Competences For Lifelong Learning]]
 [[@European-Commission2025-nz|The European Strategy For Housing Construction]]
-[[@European_Commission_Directorate-General_for_Education_Youth_Sport_and_Culture2019-gq|Key Competences For Lifelong Learning]]

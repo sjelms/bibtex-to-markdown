@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-02-20T10:14:51
+amended: 2026-02-20T10:15:55
 ---
 
 # Directory
@@ -54,7 +54,7 @@ amended: 2026-02-20T10:14:51
 ### 2019
 - [[@Associated-General-Contractors2019-fv|Eighty Percent Of Contractors Report Difficulty Finding Qualified Craft Workers To Hire As Firms Give Low Marks To Quality Of New Worker Pipeline]]
 - [[@Pothier2019-fn|Industrialized Construction In Academia]]
-- [[@European_Commission_Directorate-General_for_Education_Youth_Sport_and_Culture2019-gq|Key Competences For Lifelong Learning]]
+- [[@European-Commission2019-go|Key Competences For Lifelong Learning]]
 - [[@Wilson2019-ho|Design For Modular Construction - An Introduction For Architects]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2019-qd|Modern Methods Of Construction - Definition Framework]]
 - [[@USG_Corporation2019-me|Q4 2019 Commercial Construction Index]]
