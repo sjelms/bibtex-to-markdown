@@ -10,6 +10,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Novels
   - ePub
   - Fiction
 ---

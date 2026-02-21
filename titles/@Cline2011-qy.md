@@ -11,6 +11,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Audible
+  - Novels
   - ePub
   - _XR-MR-VR-AR
   - Audiobook
