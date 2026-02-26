@@ -4,7 +4,7 @@ year: 2023
 author - 1: "[[Akilu Yunusa-Kaltungo]]"
 author - 2: "[[Lar English]]"
 editor - 1: "[[Patrick Manu]]"
-editor - 2: "[[Gao Shang]]"
+editor - 2: "[[Shang Gao]]"
 editor - 3: "[[Paulo Jorge Da Silva Bartolo]]"
 editor - 4: "[[Valerie Francis]]"
 editor - 5: "[[Anil Sawhney]]"
