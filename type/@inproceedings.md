@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-02-26T16:40:30
+amended: 2026-02-26T17:05:40
 ---
 
 # Directory
@@ -50,6 +50,8 @@ amended: 2026-02-26T16:40:30
 - [[@Casselman2005-gn|Moving Beyond Tacit And Explicit - Four Dimensions Of Knowledge]]
 ### 2003
 - [[@Zimmons2003-kh|The Influence Of Rendering Quality On Presence And Task Performance In A Virtual Environment]]
+### 2001
+- [[@Luckin2001-ue|Ecolab - Exploring The Construction Of A Learning Assistant]]
 ### 2000
 - [[@Millen2000-tf|Rapid Ethnography - Time Deepening Strategies For HCI Field Research]]
 ## 1990-1999

@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Du_Boulay2007-op|Motivationally Intelligent Systems]]
+[[@Luckin2001-ue|Ecolab]]
 [[@Luckin2008-bd|The Learner Centric Ecology Of Resources]]
 [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 [[@Luckin2016-lp|Intelligence Unleashed]]
@@ -20,6 +21,8 @@ aliases:
 #### Bibliography:
 
 ![[@Du_Boulay2007-op]]
+
+![[@Luckin2001-ue]]
 
 ![[@Luckin2008-bd]]
 
