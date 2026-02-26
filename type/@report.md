@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-02-26T17:05:40
+amended: 2026-02-26T17:08:44
 ---
 
 # Directory
@@ -13,6 +13,7 @@ amended: 2026-02-26T17:05:40
 - [[@Ministry-of-Housing-Communities-and-Local-Government2025-cf|Proposed Reforms To The National Planning Policy Framework And Other Changes To The Planning System]]
 - [[@Ashraf2025-rf|Meaning At Work]]
 ### 2024
+- [[@Brennan2024-pe|Volumetric Modular Construction Research]]
 - [[@Ryan-Collins2024-sw|The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The UK]]
 - [[@Moylan_D_M_G_Lord2024-lk|Letter From The Lord Moylan To Rt Hon. Michael Gove MP, Secretary Of State, Department For Levelling Up, Housing And Communities]]
 ### 2023
