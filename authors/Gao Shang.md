@@ -1,13 +1,13 @@
 ---
-author: "Patrick Manu"
+author: "Gao Shang"
 institution:
 field:
 type:
 aliases:
-  - Manu
+  - Shang
 ---
 
-## Patrick Manu
+## Gao Shang
 
 ### Content:
 [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]

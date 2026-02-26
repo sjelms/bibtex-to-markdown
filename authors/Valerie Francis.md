@@ -1,13 +1,13 @@
 ---
-author: "Patrick Manu"
+author: "Valerie Francis"
 institution:
 field:
 type:
 aliases:
-  - Manu
+  - Francis
 ---
 
-## Patrick Manu
+## Valerie Francis
 
 ### Content:
 [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]

@@ -1,13 +1,13 @@
 ---
-author: "Patrick Manu"
+author: "Paulo Jorge Silva Bartolo"
 institution:
 field:
 type:
 aliases:
-  - Manu
+  - Bartolo
 ---
 
-## Patrick Manu
+## Paulo Jorge Silva Bartolo
 
 ### Content:
 [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
