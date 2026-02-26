@@ -9,6 +9,11 @@ author - 5: "[[Tim Law]]"
 author - 6: "[[Jun Zhao]]"
 author - 7: "[[Ayman Mukhaimar]]"
 author - 8: "[[Leon Yang]]"
+editor - 1: "[[Patrick Manu]]"
+editor - 2: "[[Gao Shang]]"
+editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 4: "[[Valerie Francis]]"
+editor - 5: "[[Anil Sawhney]]"
 key: "[[@Sandanayake2023-yl]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:

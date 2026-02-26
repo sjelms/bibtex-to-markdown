@@ -14,6 +14,7 @@ aliases:
 [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]
 [[@Pothier2019-fn|Industrialized Construction In Academia]]
 [[@Pothier2020-kd|Future Of Work In Construction]]
+[[@Sandanayake2023-yl|Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
 [[@Sawhney2020-tm|Construction 4.0]]
 [[@Sawhney2020-zl|A Proposed Framework For Construction 4.0 Based On A Review Of Literature]]
 
@@ -26,6 +27,8 @@ aliases:
 ![[@Pothier2019-fn]]
 
 ![[@Pothier2020-kd]]
+
+![[@Sandanayake2023-yl]]
 
 ![[@Sawhney2020-tm]]
 
