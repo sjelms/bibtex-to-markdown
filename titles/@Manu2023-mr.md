@@ -21,6 +21,7 @@ tags:
   - Health-and-Well-being-in-the-Industry-4-0-Era
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - _In-Notion
   - _In-Readwise
   - AEC
