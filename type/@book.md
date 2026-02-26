@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-26T17:08:44
+amended: 2026-02-26T17:45:27
 ---
 
 # Directory
@@ -85,6 +85,7 @@ amended: 2026-02-26T17:08:44
 - [[@Braun2021-ah|Thematic Analysis - A Practical Guide]]
 ### 2020
 - [[@Sawhney2020-tm|Construction 4.0 - An Innovation Platform For The Built Environment]]
+- [[@Bartneck2020-al|An Introduction To Ethics In Robotics And AI]]
 - [[@Klein2020-xn|Why We're Polarized]]
 - [[@Billups2020-od|Qualitative Data Collection Tools - Design, Development, And Applications]]
 - [[@Rosling2020-oi|How I Learned To Understand The World - A Memoir]]

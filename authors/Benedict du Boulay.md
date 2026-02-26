@@ -1,5 +1,5 @@
 ---
-author: "Benedict Du Boulay"
+author: "Benedict du Boulay"
 institution:
 field:
 type:
@@ -7,11 +7,14 @@ aliases:
   - Boulay
 ---
 
-## Benedict Du Boulay
+## Benedict du Boulay
 
 ### Content:
-[[@Du_Boulay2007-op|Motivationally Intelligent Systems]]
+[[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
+[[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
 
 #### Bibliography:
 
-![[@Du_Boulay2007-op]]
+![[@Luckin2016-aq]]
+
+![[@Rebolledo-Mendez2011-mg]]

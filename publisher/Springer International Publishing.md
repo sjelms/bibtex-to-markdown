@@ -10,6 +10,7 @@ category:
 ## Springer International Publishing
 
 ### Content:
+[[@Bartneck2021-qi|What Is AI?]]
 [[@Biocca2015-km|Immersed In Media]]
 [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
 [[@Chen2020-fm|User Behavior Analysis Toward Adaptive Guidance For Machine Operation Tasks]]

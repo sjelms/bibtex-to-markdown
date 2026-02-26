@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-02-26T17:08:44
+amended: 2026-02-26T17:45:27
 ---
 
 # Directory
@@ -31,6 +31,7 @@ amended: 2026-02-26T17:08:44
 - [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
 ### 2021
+- [[@Bartneck2021-qi|What Is AI?]]
 - [[@Parong2021-uo|Multimedia Learning In Virtual And Mixed Reality]]
 - [[@Ainsworth2021-ss|The Multiple Representations Principle In Multimedia Learning]]
 ### 2020

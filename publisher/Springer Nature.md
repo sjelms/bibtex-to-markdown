@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0]]
+[[@Bartneck2020-al|An Introduction To Ethics In Robotics And AI]]
 [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
 [[@Friedman2023-hx|Fundamentals Of Innovative Sustainable Homes Design And Construction]]
 [[@Hager2019-ui|The Emergence Of Complexity]]
