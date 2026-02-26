@@ -1,19 +1,27 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-02-26T12:11:14
+amended: 2026-02-26T12:13:18
 ---
 
 # Directory
 ## 2020-2029
 ### 2023
 - [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
+- [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
+- [[@Guo2023-nr|A Conceptual Framework For Behaviour-Based Safety In The Digital Era]]
+- [[@Hon2023-eu|Machine Learning For Safety Hazard Identification In Construction]]
+- [[@Manase2023-qg|GIS-Based Health And Safety Information Analysis]]
 - [[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]
+- [[@Guo2023-wc|Computer Vision–Based Management Of Construction Workers' Unsafe Behaviour]]
 - [[@Sandanayake2023-yl|Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
 - [[@Trinh2023-ib|Delivering Construction Safety Training And Education Using Immersive Learning Technology]]
+- [[@Umeokafor2023-qq|Barriers To Big Data Techniques Application In Construction Safety, Health, And Well-Being]]
 - [[@Assaad2023-ib|Opportunities And Challenges Of Offsite Construction]]
 - [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
 - [[@Sunindijo2023-kk|Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector]]
+- [[@Perera2023-mp|Artificial Intelligence For Occupational Health And Safety Management In Construction]]
 - [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
+- [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
 ### 2022
 - [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI]]
 - [[@Hall2022-de|New Business Models For Industrialized Construction]]
