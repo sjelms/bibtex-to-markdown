@@ -18,7 +18,6 @@ aliases:
 [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
 [[@Manase2023-qg|GIS-Based Health And Safety Information Analysis]]
 [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]
-[[@Perera2023-mp|Artificial Intelligence For Occupational Health And Safety Management In Construction]]
 [[@Sandanayake2023-yl|Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
 [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 [[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]
@@ -44,8 +43,6 @@ aliases:
 ![[@Manase2023-qg]]
 
 ![[@Manu2023-mr]]
-
-![[@Perera2023-mp]]
 
 ![[@Sandanayake2023-yl]]
 
