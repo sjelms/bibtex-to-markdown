@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-02-26T17:45:27
+amended: 2026-02-26T17:45:58
 ---
 
 # Directory

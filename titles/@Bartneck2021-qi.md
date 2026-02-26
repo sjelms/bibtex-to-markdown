@@ -13,6 +13,7 @@ publisher: "[[Springer International Publishing]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - AIEd
   - Artificial-Intelligence-AI
   - Intelligent-Tutoring-Systems-ITS
