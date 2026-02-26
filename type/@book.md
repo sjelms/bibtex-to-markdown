@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-02-21T12:45:11
+amended: 2026-02-26T09:13:23
 ---
 
 # Directory
@@ -72,6 +72,7 @@ amended: 2026-02-21T12:45:11
 - [[@Lee2021-dp|AI 2041 - Ten Visions For Our Future]]
 - [[@Crawford2021-ae|The Atlas Of AI - Power, Politics, And The Planetary Costs Of Artificial Intelligence]]
 - [[@Boltanski2021-jq|On Justification - Economies Of Worth]]
+- [[@Ford2021-hl|Rule Of The Robots - How Artificial Intelligence Will Transform Everything]]
 - [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
 - [[@Burkeman2021-fd|Four Thousand Weeks - Time And How To Use It]]
