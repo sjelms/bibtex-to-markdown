@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-02-26T12:33:16
+amended: 2026-02-26T16:15:27
 ---
 
 # Directory
@@ -43,6 +43,8 @@ amended: 2026-02-26T12:33:16
 ## 2000-2009
 ### 2008
 - [[@Amokrane2008-zr|An Intelligent Tutoring System For Training And Learning In A Virtual Environment For High-Risk Sites]]
+### 2007
+- [[@Du_Boulay2007-op|Motivationally Intelligent Systems - Diagnosis And Feedback]]
 ### 2005
 - [[@Fenstermacher2005-ai|The Tyranny Of Tacit Knowledge - What Artificial Intelligence Tells Us About Knowledge Representation]]
 - [[@Casselman2005-gn|Moving Beyond Tacit And Explicit - Four Dimensions Of Knowledge]]

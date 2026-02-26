@@ -10,6 +10,7 @@ aliases:
 ## Rosemary Luckin
 
 ### Content:
+[[@Du_Boulay2007-op|Motivationally Intelligent Systems]]
 [[@Luckin2008-bd|The Learner Centric Ecology Of Resources]]
 [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 [[@Luckin2016-lp|Intelligence Unleashed]]
@@ -17,6 +18,8 @@ aliases:
 [[@Roll2021-jb|Artificial Intelligence In Education]]
 
 #### Bibliography:
+
+![[@Du_Boulay2007-op]]
 
 ![[@Luckin2008-bd]]
 
