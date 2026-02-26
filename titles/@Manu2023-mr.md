@@ -27,6 +27,7 @@ tags:
   - ePub
   - Workplace-Learning
   - _New-Literature
+  - Cross-Ref-Chapter
 ---
 
 > [!bibliography]
