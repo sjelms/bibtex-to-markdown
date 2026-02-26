@@ -8,7 +8,7 @@ author - 4: "[[David Caparros Pérez]]"
 author - 5: "[[Mariusz Szóstak]]"
 editor - 1: "[[Patrick Manu]]"
 editor - 2: "[[Gao Shang]]"
-editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 3: "[[Paulo Jorge Da Silva Bartolo]]"
 editor - 4: "[[Valerie Francis]]"
 editor - 5: "[[Anil Sawhney]]"
 key: "[[@Mahamadu2023-qv]]"
@@ -22,6 +22,7 @@ tags:
   - Health-and-Well-being-in-the-Industry-4-0-Era
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise

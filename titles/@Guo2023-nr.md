@@ -5,7 +5,7 @@ author - 1: "[[Brian H W Guo]]"
 author - 2: "[[Yang Miang Goh]]"
 editor - 1: "[[Patrick Manu]]"
 editor - 2: "[[Gao Shang]]"
-editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 3: "[[Paulo Jorge Da Silva Bartolo]]"
 editor - 4: "[[Valerie Francis]]"
 editor - 5: "[[Anil Sawhney]]"
 key: "[[@Guo2023-nr]]"
@@ -18,6 +18,7 @@ tags:
   - Handbook-of-Construction-Safety
   - Health-and-Well-being-in-the-Industry-4-0-Era
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - AEC
   - Cross-Ref-Chapter
   - ePub

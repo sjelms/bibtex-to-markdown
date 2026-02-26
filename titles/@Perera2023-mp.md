@@ -13,7 +13,7 @@ author - 9: "[[Akilu Yunusa-Kaltungo]]"
 author - 10: "[[Akinloluwa Babalola]]"
 editor - 1: "[[Patrick Manu]]"
 editor - 2: "[[Gao Shang]]"
-editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 3: "[[Paulo Jorge Da Silva Bartolo]]"
 editor - 4: "[[Valerie Francis]]"
 editor - 5: "[[Anil Sawhney]]"
 key: "[[@Perera2023-mp]]"
@@ -26,6 +26,7 @@ tags:
   - Handbook-of-Construction-Safety
   - Health-and-Well-being-in-the-Industry-4-0-Era
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - AEC
   - Cross-Ref-Chapter
   - ePub

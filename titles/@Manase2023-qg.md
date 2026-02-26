@@ -4,7 +4,7 @@ year: 2023
 author - 1: "[[David Manase]]"
 editor - 1: "[[Patrick Manu]]"
 editor - 2: "[[Gao Shang]]"
-editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 3: "[[Paulo Jorge Da Silva Bartolo]]"
 editor - 4: "[[Valerie Francis]]"
 editor - 5: "[[Anil Sawhney]]"
 key: "[[@Manase2023-qg]]"
