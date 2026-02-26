@@ -5,6 +5,11 @@ author - 1: "[[Minh Tri Trinh]]"
 author - 2: "[[Peng Zhang]]"
 author - 3: "[[Matt Stevens]]"
 author - 4: "[[Yingbin Feng]]"
+editor - 1: "[[Patrick Manu]]"
+editor - 2: "[[Gao Shang]]"
+editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 4: "[[Valerie Francis]]"
+editor - 5: "[[Anil Sawhney]]"
 key: "[[@Trinh2023-ib]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:

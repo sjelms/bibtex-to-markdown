@@ -3,6 +3,11 @@ title: Applying 360-degree virtual reality for construction safety training
 year: 2023
 author - 1: "[[Ricardo Eiris]]"
 author - 2: "[[Masoud Gheisari]]"
+editor - 1: "[[Patrick Manu]]"
+editor - 2: "[[Gao Shang]]"
+editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 4: "[[Valerie Francis]]"
+editor - 5: "[[Anil Sawhney]]"
 key: "[[@Eiris2023-xr]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:

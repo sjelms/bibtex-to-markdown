@@ -4,6 +4,11 @@ year: 2023
 author - 1: "[[Sheyla Mara Baptista Serra]]"
 author - 2: "[[Elder Pita Garcia Padre]]"
 author - 3: "[[Chimay J Anumba]]"
+editor - 1: "[[Patrick Manu]]"
+editor - 2: "[[Gao Shang]]"
+editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 4: "[[Valerie Francis]]"
+editor - 5: "[[Anil Sawhney]]"
 key: "[[@Serra2023-dh]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:

@@ -4,6 +4,11 @@ year: 2023
 author - 1: "[[Riza Yosia Sunindijo]]"
 author - 2: "[[Cynthia Changxin Wang]]"
 author - 3: "[[David Haller]]"
+editor - 1: "[[Patrick Manu]]"
+editor - 2: "[[Gao Shang]]"
+editor - 3: "[[Paulo Jorge Silva Bartolo]]"
+editor - 4: "[[Valerie Francis]]"
+editor - 5: "[[Anil Sawhney]]"
 key: "[[@Sunindijo2023-kk]]"
 booktitle: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
 aliases:
