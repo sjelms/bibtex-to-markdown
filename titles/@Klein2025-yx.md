@@ -1,5 +1,5 @@
 ---
-title: Abundance -  How we build a better future
+title: Abundance -  How We Build a Better Future
 year: 2025
 author - 1: "[[Ezra Klein]]"
 author - 2: "[[Derek Thompson]]"
@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Klein, Ezra, Derek Thompson. 2025. “Abundance: How we build a better future.” [[Profile Books]]. https://books.google.com/books/about/Abundance.html?id=pskwEQAAQBAJ
+> Klein, Ezra, Derek Thompson. 2025. “Abundance: How We Build a Better Future.” [[Profile Books]]. https://profilebooks.com/work/abundance/
 
 > [!abstract]
 > We have the means to build an equitable world without hunger, fuelled by clean energy. Instead, we have a politics driven by scarcity, lives defined by unaffordability and public institutions that no longer deliver on big ideas. It's time for change.
