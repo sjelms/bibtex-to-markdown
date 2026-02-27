@@ -10,8 +10,8 @@ aliases:
 ## Erika Martínez
 
 ### Content:
-[[@Benedict2007-dn|Motivationally Intelligent Systems]]
+[[@du-Boulay2007-dw|Motivationally Intelligent Systems]]
 
 #### Bibliography:
 
-![[@Benedict2007-dn]]
+![[@du-Boulay2007-dw]]
