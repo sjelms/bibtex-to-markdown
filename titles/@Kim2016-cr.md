@@ -14,6 +14,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - AIEd
   - _Mark-Up
   - Intelligent-Tutoring-Systems-ITS
