@@ -10,6 +10,7 @@ publisher: "[[United Nation Educational Scientific and Cultural Organisation]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - VET
   - Report
 ---
