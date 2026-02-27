@@ -14,6 +14,7 @@ journal: "[[arXiv cs AI]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Artificial-Intelligence-AI
   - Future-of-Work
 ---
