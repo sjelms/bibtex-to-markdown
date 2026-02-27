@@ -17,6 +17,7 @@ tags:
   - Frontiers-2022
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Intelligent-Tutoring-Systems-ITS
   - _XR-MR-VR-AR
   - _Mark-Up
