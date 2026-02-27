@@ -13,6 +13,7 @@ tags:
   - Government-Report
   - Construction-4-0
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - _New-Literature
   - Report
 ---

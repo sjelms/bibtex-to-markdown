@@ -19,6 +19,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Intelligent-Tutoring-Systems-ITS
   - UCL
   - Cited-for-Frontiers

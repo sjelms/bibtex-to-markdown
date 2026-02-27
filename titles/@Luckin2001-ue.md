@@ -24,6 +24,7 @@ tags:
   - Learning-Gain
   - Intelligent-Tutoring-Systems-ITS
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Intelligent-Tutoring-Systems-ITS
   - UCL
   - AEC
