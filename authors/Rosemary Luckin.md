@@ -17,6 +17,7 @@ aliases:
 [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
 [[@Roll2021-jb|Artificial Intelligence In Education]]
 [[@du-Boulay2007-dw|Motivationally Intelligent Systems]]
+[[@du-Boulay2008-fn|Motivationally Intelligent Systems]]
 
 #### Bibliography:
 
@@ -33,3 +34,5 @@ aliases:
 ![[@Roll2021-jb]]
 
 ![[@du-Boulay2007-dw]]
+
+![[@du-Boulay2008-fn]]

@@ -18,6 +18,7 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - Artificial-Intelligence-AI
+  - Robots
 ---
 
 > [!bibliography]

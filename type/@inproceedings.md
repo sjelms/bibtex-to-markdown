@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-02-27T08:08:16
+amended: 2026-02-27T08:13:35
 ---
 
 # Directory
@@ -42,6 +42,7 @@ amended: 2026-02-27T08:08:16
 - [[@Clarke2011-zz|Youths’ Perception Of The Construction Industry - An Analysis At The Elementary, Middle, And High School Levels]]
 ## 2000-2009
 ### 2008
+- [[@du-Boulay2008-fn|Motivationally Intelligent Systems - Three Questions]]
 - [[@Amokrane2008-zr|An Intelligent Tutoring System For Training And Learning In A Virtual Environment For High-Risk Sites]]
 ### 2007
 - [[@du-Boulay2007-dw|Motivationally Intelligent Systems - Diagnosis And Feedback]]
