@@ -1,13 +1,13 @@
 ---
-author: "Erika Martínez"
+author: "du Boulay Benedict"
 institution:
 field:
 type:
 aliases:
-  - Martínez
+  - Benedict
 ---
 
-## Erika Martínez
+## du Boulay Benedict
 
 ### Content:
 [[@Benedict2007-dn|Motivationally Intelligent Systems]]

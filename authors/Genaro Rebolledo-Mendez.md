@@ -10,11 +10,11 @@ aliases:
 ## Genaro Rebolledo-Mendez
 
 ### Content:
-[[@Du_Boulay2007-op|Motivationally Intelligent Systems]]
+[[@Benedict2007-dn|Motivationally Intelligent Systems]]
 [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
 
 #### Bibliography:
 
-![[@Du_Boulay2007-op]]
+![[@Benedict2007-dn]]
 
 ![[@Rebolledo-Mendez2011-mg]]
