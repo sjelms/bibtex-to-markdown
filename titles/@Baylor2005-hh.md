@@ -13,6 +13,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - _In-Notion
   - Knowledge-Skill-Acquisition
   - Intelligent-Tutoring-Systems-ITS
