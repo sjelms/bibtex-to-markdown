@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Audible
   - EPubs-Books
+  - BSSC-Seed-Fund-for-AI-Research
   - Economics
   - Audiobook
   - Book-physical
