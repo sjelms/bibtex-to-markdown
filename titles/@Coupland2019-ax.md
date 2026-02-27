@@ -10,6 +10,7 @@ type: "[[@online]]"
 tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
 ---

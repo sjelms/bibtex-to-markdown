@@ -18,6 +18,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - Cited-for-Frontiers
   - Labor
   - Workplace-Learning
