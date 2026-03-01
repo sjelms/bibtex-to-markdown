@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-01T10:19:13
+amended: 2026-03-01T10:24:38
 ---
 
 # Directory
@@ -79,7 +79,7 @@ amended: 2026-03-01T10:19:13
 - [[@Mayring2021-ud|Qualitative Content Analysis - A Step-By-Step Guide]]
 - [[@Aldrich2021-ru|The UCL Institute Of Education - From Training College To Global Institution]]
 - [[@Mayer2021-in|The Cambridge Handbook Of Multimedia Learning]]
-- [[@Hyde2021-ai|Design Studio Vol. 2 - Intelligent Control 2021 - Disruptive Technologies]]
+- [[@Hyde2021-ai|Design Studio Vol. 2 - Intelligent Control, Disruptive Technologies]]
 - [[@Russell2021-vx|Artificial Intelligence - A Modern Approach]]
 - [[@Clark2021-ef|Bryman's Social Research Methods]]
 - [[@Braun2021-ah|Thematic Analysis - A Practical Guide]]
