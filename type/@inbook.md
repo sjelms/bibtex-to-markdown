@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-03-01T10:25:43
+amended: 2026-03-01T10:28:26
 ---
 
 # Directory
@@ -32,8 +32,13 @@ amended: 2026-03-01T10:25:43
 - [[@Casini2022-fn|Introduction]]
 ### 2021
 - [[@Bartneck2021-qi|What Is AI?]]
+- [[@Brown2021-vh|Research By Gesign - The Gantry]]
 - [[@Parong2021-uo|Multimedia Learning In Virtual And Mixed Reality]]
+- [[@Claypool2021-wg|Automation, Architecture, And Labour]]
+- [[@Hyde2021-wa|Scaling Construction Robotics]]
+- [[@Youkhana2021-sm|The Allegorithmic Utopia Of Videogame Urbanism]]
 - [[@Ainsworth2021-ss|The Multiple Representations Principle In Multimedia Learning]]
+- [[@Hahm2021-ee|Augmenting Human Designers And Builders - Augmentation Discussed In Architectural Design Research]]
 ### 2020
 - [[@Hussien2020-bt|A Review Of Mixed-Reality Applications In Construction 4.0]]
 - [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
