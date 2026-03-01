@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-03-01T10:39:20
+amended: 2026-03-01T10:58:09
 ---
 
 # Directory
@@ -63,6 +63,7 @@ amended: 2026-03-01T10:39:20
 - [[@Davies2018-ai|Modern Methods Of Construction - A Forward-Thinking Solution To The Housing Crisis?]]
 - [[@Giffi2018-ag|2018 Deloitte Skills Gap And Future Of Work In Manufacturing Study]]
 - [[@House-of-Lords2018-rq|Off-Site Manufacture For Construction - Building For Change]]
+- [[@Leiden-University-Study-Support2018-la|Thesis Writing For Students With Ad(h)d]]
 - [[@Meisels2018-fj|2019 Engineering And Construction Industry Outlook]]
 - [[@Office-of-Qualifications-and-Examinations-Regulation2018-hn|Guidance To The General Conditions Of Recognition]]
 - [[@Lupton2018-ct|The Construction Challenge In Greater Manchester - Employment, Skills And Training]]
