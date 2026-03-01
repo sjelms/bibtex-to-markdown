@@ -12,6 +12,7 @@ tags:
   - Pocket-Study-Skills
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - PhD-Study-and-Support
   - RNIB
   - PhD-Support-and-Training
   - ePub
