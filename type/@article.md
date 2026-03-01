@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-01T10:59:16
+amended: 2026-03-01T12:49:49
 ---
 
 # Directory
@@ -16,6 +16,7 @@ amended: 2026-03-01T10:59:16
 ### 2024
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
+- [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 - [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 ### 2023
