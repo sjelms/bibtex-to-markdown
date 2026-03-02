@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-03-01T12:49:49
+amended: 2026-03-02T14:40:03
 ---
 
 # Directory
@@ -112,7 +112,7 @@ amended: 2026-03-01T12:49:49
 - [[@Yin2013-ej|How To Know Whether And When To Use Case Studies As A Research Method]]
 - [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 ### 2012
-- [[@Fuller2012-pz|Creating And Using Knowledge]]
+- [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
