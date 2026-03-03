@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-03-02T14:40:03
+amended: 2026-03-03T14:58:58
 ---
 
 # Directory
@@ -22,6 +22,7 @@ amended: 2026-03-02T14:40:03
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
 - [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
+- [[@Duncheva2019-gn|Offsite Timber Systems Multi-Factor Productivity Index]]
 ### 2018
 - [[@Scollard2018-go|Updating Vocational Curriculum In Two Year Diploma Programs At One Ontario College Of Applied Arts And Technology To Align With Current Industry Practices]]
 ### 2016
