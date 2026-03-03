@@ -20,6 +20,7 @@ tags:
   - _In-Readwise
   - AEC
   - Cross-Ref-Chapter
+  - Essential
 ---
 
 > [!bibliography]
