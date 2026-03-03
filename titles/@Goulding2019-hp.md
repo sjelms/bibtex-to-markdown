@@ -15,6 +15,7 @@ tags:
   - Offsite-Production-and-Manufacturing-for-Innovative-Construction
   - _BibTex-to-MD-Git
   - AEC
+  - Essential
 ---
 
 > [!bibliography]
