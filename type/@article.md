@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-03T15:16:38
+amended: 2026-03-04T09:28:24
 ---
 
 # Directory
@@ -264,6 +264,8 @@ amended: 2026-03-03T15:16:38
 - [[@Ledewitz1985-qi|Models Of Design In Studio Teaching]]
 ### 1982
 - [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
+### 1981
+- [[@Reingold1981-cb|Tidier Drawings Of Trees]]
 ## 1970-1979
 ### 1979
 - [[@Bialystok1979-mn|Explicit And Implicit Judgements Of L2 Grammaticality]]

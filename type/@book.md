@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-03T15:16:38
+amended: 2026-03-04T09:28:24
 ---
 
 # Directory
@@ -45,6 +45,7 @@ amended: 2026-03-03T15:16:38
 - [[@Pink2023-jv|Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help]]
 - [[@Rubin2023-ij|The Creative Act - A Way Of Being]]
 - [[@Johnson2023-la|Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity]]
+- [[@Kuckartz2023-rj|Qualitative Content Analysismethods, Practice And Software]]
 - [[@Abiad2023-gb|How To Write Your Phd Thesis - The Easy Handbook]]
 ### 2022
 - [[@Weber-Lewerenz2022-ow|Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI]]
@@ -91,6 +92,7 @@ amended: 2026-03-03T15:16:38
 - [[@Rosling2020-oi|How I Learned To Understand The World - A Memoir]]
 - [[@Giroux2020-sp|On Critical Pedagogy]]
 - [[@Benyus2020-id|Biomimicry - Innovation Inspired By Nature]]
+- [[@Creswell2020-su|30 Essential Skills For The Qualitative Researcher]]
 - [[@Popper2020-fy|The Open Society And Its Enemies]]
 - [[@Williams2020-ck|Reflective Writing]]
 - [[@Forbes2020-sw|Lean Project Delivery And Integrated Practices In Modern Construction]]
@@ -202,6 +204,7 @@ amended: 2026-03-03T15:16:38
 - [[@Billett2014-wf|Mimetic Learning At Work - Learning In The Circumstances Of Practice]]
 - [[@Levitt2014-pp|Think Like A Freak - Secrets Of The Rogue Economist]]
 - [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning - International Perspectives And Practices]]
+- [[@Kuckartz2014-st|Qualitative Text Analysis - A Guide To Methods, Practice & Using Software]]
 - [[@Harari2014-do|Sapiens - A Brief History Of Humankind]]
 ### 2013
 - [[@Littlejohn2013-gj|Technology-Enhanced Professional Learning - Processes, Practices, And Tools]]
