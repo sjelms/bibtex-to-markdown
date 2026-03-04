@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-04T15:15:10
+amended: 2026-03-04T16:41:05
 ---
 
 # Directory
@@ -127,6 +127,7 @@ amended: 2026-03-04T15:15:10
 - [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations]]
 ### 2015
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
+- [[@Ponterotto2015-bf|Brief Note On The Origins, Evolution, And Meaning Of The Qualitative Research Concept Thick Description]]
 - [[@Wang2015-lz|An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior]]
 - [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
 - [[@Jensen2015-jp|Product Configuration In Construction]]
