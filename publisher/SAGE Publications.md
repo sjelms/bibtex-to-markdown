@@ -44,7 +44,7 @@ category:
 [[@King2013-vv|The Pictor Technique]]
 [[@King2019-nk|Template Analysis For Business And Management Students]]
 [[@Kuckartz2014-st|Qualitative Text Analysis]]
-[[@Kuckartz2023-rj|Qualitative Content Analysismethods, Practice And Software]]
+[[@Kuckartz2023-rj|Qualitative Content Analysis]]
 [[@Kumar2019-dp|Research Methodology]]
 [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]

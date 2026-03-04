@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Kuckartz2014-st|Qualitative Text Analysis]]
-[[@Kuckartz2023-rj|Qualitative Content Analysismethods, Practice And Software]]
+[[@Kuckartz2023-rj|Qualitative Content Analysis]]
 
 #### Bibliography:
 

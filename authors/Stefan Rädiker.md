@@ -10,7 +10,7 @@ aliases:
 ## Stefan Rädiker
 
 ### Content:
-[[@Kuckartz2023-rj|Qualitative Content Analysismethods, Practice And Software]]
+[[@Kuckartz2023-rj|Qualitative Content Analysis]]
 
 #### Bibliography:
 
