@@ -11,7 +11,9 @@ type: "[[@book]]"
 tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
+  - Theory-and-Methods
   - PhD-Support-and-Training
+  - Research-Methods
 ---
 
 > [!bibliography]
