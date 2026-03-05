@@ -17,6 +17,7 @@ tags:
   - ePub
   - _In-Notion
   - _In-Readwise
+  - QDA
 ---
 
 > [!bibliography]

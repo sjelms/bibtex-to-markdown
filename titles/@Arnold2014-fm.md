@@ -12,6 +12,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - PhD-Support-and-Training
+  - QDA
 ---
 
 > [!bibliography]

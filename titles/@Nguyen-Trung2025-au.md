@@ -17,6 +17,7 @@ tags:
   - PhD-Support-and-Training
   - Research-Methods
   - Fieldwork-Methodology
+  - QDA
 ---
 
 > [!bibliography]

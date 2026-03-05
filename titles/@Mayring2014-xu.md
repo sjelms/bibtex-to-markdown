@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - _New-Literature
+  - QDA
 ---
 
 > [!bibliography]

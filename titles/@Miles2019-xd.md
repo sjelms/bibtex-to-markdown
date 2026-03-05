@@ -16,6 +16,7 @@ tags:
   - PhD-Study-and-Support
   - RNIB
   - Research-Methods
+  - QDA
 ---
 
 > [!bibliography]
