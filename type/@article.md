@@ -1,10 +1,12 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-05T13:32:46
+amended: 2026-03-05T13:33:23
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
 - [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
@@ -19,6 +21,7 @@ amended: 2026-03-05T13:32:46
 - [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 - [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
+- [[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots - A Fuzzy-Set Qualitative Comparative Analysis]]
 ### 2023
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]

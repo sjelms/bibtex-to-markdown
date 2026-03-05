@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-05T13:32:46
+amended: 2026-03-05T13:33:23
 ---
 
 # Directory
@@ -214,6 +214,7 @@ amended: 2026-03-05T13:32:46
 - [[@Mills2013-uv|Ethnography In Education]]
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
 - [[@Daniels2013-pa|Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies]]
+- [[@Miles2013-dz|Qualitative Data Analysis - A Methods Sourcebook]]
 - [[@Yin2013-yq|Case Study Research - Design And Methods]]
 ### 2012
 - [[@Anderson2012-mr|Makers - The New Industrial Revolution]]

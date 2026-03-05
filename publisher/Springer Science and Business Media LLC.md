@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis]]
+[[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots]]
