@@ -11,6 +11,7 @@ category:
 ## The New York Times
 
 ### Content:
+[[@Appelbaum2023-hs|Why Do We Build Houses In The Same Way That We Did 125 Years Ago?]]
 [[@Arieff2013-rp|Prefab Lives!]]
 [[@Blodgett1918-km|Doing Farm Work By Motor Tractor]]
 [[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
