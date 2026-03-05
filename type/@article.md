@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-05T13:33:23
+amended: 2026-03-05T15:31:50
 ---
 
 # Directory
@@ -149,6 +149,7 @@ amended: 2026-03-05T13:33:23
 - [[@Chong2013-nz|The ‘russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education]]
 - [[@Pink2013-ju|Short-Term Ethnography - Intense Routes To Knowing]]
 - [[@Ahn2013-of|The Effect Of Embodied Experiences On Self-Other Merging, Attitude, And Helping Behavior]]
+- [[@Verdinelli2013-si|Data Display In Qualitative Research]]
 - [[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
 - [[@Hegazy2013-dm|Hands-On Exercise For Enhancing Students’ Construction Management Skills]]
 ### 2012

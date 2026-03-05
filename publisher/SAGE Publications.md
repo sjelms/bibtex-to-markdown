@@ -65,6 +65,7 @@ category:
 [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education]]
 [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 [[@Towers1989-ll|Running The Gauntlet]]
+[[@Verdinelli2013-si|Data Display In Qualitative Research]]
 [[@Vindrola-Padros2021-eq|Doing Rapid Qualitative Research]]
 [[@Whyte2022-my|Making Futures That Matter]]
 [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
