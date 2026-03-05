@@ -12,9 +12,11 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Speechify
+  - Qualitative-Analysis-QDA
   - Research-Methods
   - _New-Literature
   - Book-physical
+  - QDA
 ---
 
 > [!bibliography]

@@ -13,7 +13,9 @@ tags:
   - Journal-Articles
   - RDL-CCME0041
   - _BibTex-to-MD-Git
+  - Qualitative-Analysis-QDA
   - Research-Methods
+  - QDA
 ---
 
 > [!bibliography]
