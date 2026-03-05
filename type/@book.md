@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-05T12:22:08
+amended: 2026-03-05T12:22:34
 ---
 
 # Directory
@@ -138,6 +138,7 @@ amended: 2026-03-05T12:22:08
 - [[@Clear2018-uq|Atomic Habits - Tiny Changes, Remarkable Results]]
 - [[@Bailenson2018-kb|Experience On Demand - What Virtual Reality Is, How It Works, And What It Can Do]]
 - [[@Keynes2018-kw|The General Theory Of Employment, Interest, And Money]]
+- [[@Creswell2018-hv|Research Design - Qualitative, Quantitative, And Mixed Methods Approaches]]
 - [[@Bell2018-cz|Doing Your Research Project - A Guide For First-Time Researchers]]
 - [[@Addis2018-be|Education And Expertise]]
 - [[@Aitchison2018-cw|Prefab Housing And The Future Of Building - Product To Process]]
