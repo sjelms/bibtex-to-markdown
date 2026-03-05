@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-03-05T12:22:34
+amended: 2026-03-05T13:08:16
 ---
 
 # Directory
@@ -151,6 +151,9 @@ amended: 2026-03-05T12:22:34
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]
 ### 1987
 - [[@Collins1987-me|Cognitive Apprenticeship - Teaching The Crafts Of Reading, Writing, And Mathematics]]
+## 1970-1979
+### 1973
+- [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
 ## 1880-1889
 ### 1887
 - [[@Huxley1887-mi|Technical Education]]

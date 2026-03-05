@@ -12,4 +12,5 @@ category:
 ### Content:
 [[@Feynman2011-tz|Six Easy Pieces]]
 [[@Ford2015-sa|Rise Of The Robots]]
+[[@Geertz1973-vm|Thick Description]]
 [[@Zuboff1988-mo|In The Age Of The Smart Machine]]
