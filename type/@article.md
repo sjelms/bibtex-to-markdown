@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-05T15:50:06
+amended: 2026-03-05T18:01:25
 ---
 
 # Directory
@@ -128,6 +128,7 @@ amended: 2026-03-05T15:50:06
 - [[@Joffroy2016-cy|Learning From Local Building Cultures To Improve Housing Project Sustainability]]
 - [[@Oesterreich2016-yo|Understanding The Implications Of Digitisation And Automation In The Context Of Industry 4.0 - A Triangulation Approach And Elements Of A Research Agenda For The Construction Industry]]
 - [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations]]
+- [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Ponterotto2015-bf|Brief Note On The Origins, Evolution, And Meaning Of The Qualitative Research Concept Thick Description]]
