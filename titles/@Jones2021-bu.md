@@ -26,3 +26,6 @@ tags:
 
 > [!bibliography]
 > Jones, Kell, Luigi Mosca, Jennifer K Whyte, Andrew Davies, Jacqueline Glass. 2021. “The Role of Industry – University Collaboration in Construction.” [[Transforming Construction Network Plus Digest Series]]. https://discovery.ucl.ac.uk/id/eprint/10129182/
+
+> [!abstract]
+> In this digest, we explore how industry and universities can and do work together to develop and increase the stock of knowledge and ideas, and in doing so, support the ongoing transformation of the construction sector and firms in it. We focus on connections between industry and the academic research community.
