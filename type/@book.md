@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-06T10:47:02
+amended: 2026-03-06T11:13:54
 ---
 
 # Directory
@@ -73,6 +73,7 @@ amended: 2026-03-06T10:47:02
 - [[@Lee2021-dp|AI 2041 - Ten Visions For Our Future]]
 - [[@Crawford2021-ae|The Atlas Of AI - Power, Politics, And The Planetary Costs Of Artificial Intelligence]]
 - [[@Boltanski2021-jq|On Justification - Economies Of Worth]]
+- [[@Mazzucato2021-ht|Mission Economy - A Moonshot Guide To Changing Capitalism]]
 - [[@Ford2021-hl|Rule Of The Robots - How Artificial Intelligence Will Transform Everything]]
 - [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
 - [[@Brockmann2021-ls|On- And Off-The-Job Training In Apprenticeships In England]]
