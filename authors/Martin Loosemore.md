@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
-[[@Loosemore2012-eb|Human Resource Management In Constructioncritical Perspectives]]
+[[@Loosemore2012-eb|Human Resource Management In Construction Critical Perspectives]]
 
 #### Bibliography:
 
