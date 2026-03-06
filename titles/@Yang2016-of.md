@@ -12,7 +12,7 @@ type: "[[@article]]"
 tags:
   - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
-  - expansive–restrictive-continuum-erc
+  - Expansive–restrictive-continuum-ERC
   - Workplace-Learning
 ---
 
