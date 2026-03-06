@@ -8,7 +8,7 @@ key: "[[@Chini1999-tj]]"
 booktitle: ASC Proceedings of the 35th Annual Conference
 aliases:
   - Causes Of The Construction Skilled Labor Shortage And Proposed Solutions
-publisher: "[[ascpro0 ascweb org]]"
+publisher: "[[Associated Schools of Construction ASC]]"
 type: "[[@inproceedings]]"
 tags:
   - Frontiers-2022
@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Chini, Abdol R, Brisbane H Brown, Eric G Drummond. 1999. “Causes of the construction skilled labor shortage and proposed solutions.” [[ascpro0 ascweb org]]. http://ascpro0.ascweb.org/archives/1999/chini99.htm
+> Chini, Abdol R, Brisbane H Brown, Eric G Drummond. 1999. “Causes of the construction skilled labor shortage and proposed solutions.” [[Associated Schools of Construction ASC]]. http://ascpro0.ascweb.org/archives/1999/chini99.htm
 
 > [!abstract]
 > … potentially greater supply of individuals for the construction work force. Yet, there … construction industry over the next two decades. This paper examines the causes of the labor shortage …
