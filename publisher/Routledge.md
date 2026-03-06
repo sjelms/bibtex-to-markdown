@@ -75,6 +75,7 @@ category:
 [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education]]
 [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education]]
 [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
+[[@Loosemore2012-eb|Human Resource Management In Constructioncritical Perspectives]]
 [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
 [[@Manase2023-qg|GIS-Based Health And Safety Information Analysis]]
 [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]

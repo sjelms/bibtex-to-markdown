@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-06T11:54:29
+amended: 2026-03-06T12:52:28
 ---
 
 # Directory
@@ -94,6 +94,7 @@ amended: 2026-03-06T11:54:29
 - [[@Terry2019-yh|Television As A Career Motivator And Education Tool - A Final-Year Nursing Student Cohort Study]]
 - [[@Acemoglu2019-rl|Automation And New Tasks - How Technology Displaces And Reinstates Labor]]
 - [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
+- [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities]]
 - [[@Randhawa2019-so|The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals]]
 - [[@Nassereddine2019-ox|Augmented Reality-Enabled Production Strategy Process]]
 - [[@Shanbari2019-ig|Use Of Video Games To Enhance Construction Management Education]]

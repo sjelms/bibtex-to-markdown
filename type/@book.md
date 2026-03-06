@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-06T11:54:29
+amended: 2026-03-06T12:52:28
 ---
 
 # Directory
@@ -227,6 +227,7 @@ amended: 2026-03-06T11:54:29
 - [[@Goodman2012-np|Observing The User Experience - A Practitioner's Guide To User Research]]
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
+- [[@Loosemore2012-eb|Human Resource Management In Constructioncritical Perspectives]]
 - [[@Yglesias2012-ep|The Rent Is Too Damn High - What To Do About It, And Why It Matters More Than You Think]]
 - [[@Smith2012-oh|Instructional Design]]
 - [[@Hager2012-dh|Practice, Learning And Change - Practice-Theory Perspectives On Professional Learning]]
