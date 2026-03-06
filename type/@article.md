@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-06T11:13:54
+amended: 2026-03-06T11:54:29
 ---
 
 # Directory
@@ -48,6 +48,7 @@ amended: 2026-03-06T11:13:54
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
 - [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs]]
+- [[@Green2022-hf|Modern Methods Of Construction - Reflections On The Current Research Agenda]]
 - [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
 - [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
