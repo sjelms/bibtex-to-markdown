@@ -9,7 +9,7 @@ journal: "[[Studies in Continuing Education]]"
 publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - Workplace-Learning
 ---

@@ -10,7 +10,7 @@ journal: "[[Vocations and Learning]]"
 publisher: "[[Springer Science and Business Media LLC]]"
 type: "[[@article]]"
 tags:
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - VET
   - Workplace-Learning

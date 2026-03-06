@@ -11,7 +11,7 @@ publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
   - VET
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - VET
   - _In-Notion

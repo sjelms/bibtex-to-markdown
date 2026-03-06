@@ -1,5 +1,5 @@
 ---
-title: Change and Continuity in Apprenticeship -  the resilience of a model of learning
+title: Change and Continuity in Apprenticeship -  The Resilience of a Model of Learning
 year: 2009
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
@@ -10,11 +10,11 @@ aliases:
 journal: "[[Journal of Education and Work]]"
 type: "[[@article]]"
 tags:
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - VET
   - Workplace-Learning
 ---
 
 > [!bibliography]
-> Fuller, Alison, Lorna Unwin. 2009. “Change and Continuity in Apprenticeship: the resilience of a model of learning.” [[Journal of Education and Work]]. http://dx.doi.org/10.1080/13639080903454043
+> Fuller, Alison, Lorna Unwin. 2009. “Change and Continuity in Apprenticeship: The Resilience of a Model of Learning.” [[Journal of Education and Work]]. http://dx.doi.org/10.1080/13639080903454043

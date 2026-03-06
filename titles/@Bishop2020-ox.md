@@ -10,7 +10,7 @@ journal: "[[European Journal of Training and Development]]"
 publisher: "[[Emerald]]"
 type: "[[@article]]"
 tags:
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - Workplace-Learning
 ---

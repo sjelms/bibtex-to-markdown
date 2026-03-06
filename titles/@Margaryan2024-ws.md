@@ -9,7 +9,7 @@ journal: "[[International Journal of Training and Development]]"
 publisher: "[[Wiley]]"
 type: "[[@article]]"
 tags:
-  - Expansive–restrictive-continuum-ERC
+  - ERC-ex-re
   - _BibTex-to-MD-Git
   - Workplace-Learning
 ---
