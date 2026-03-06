@@ -17,4 +17,5 @@ category:
 [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
 [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
+[[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
 [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]

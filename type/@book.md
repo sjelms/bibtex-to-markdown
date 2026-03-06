@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-06T12:52:28
+amended: 2026-03-06T12:57:35
 ---
 
 # Directory
@@ -187,6 +187,7 @@ amended: 2026-03-06T12:52:28
 - [[@Ford2015-sa|Rise Of The Robots - Technology And The Threat Of A Jobless Future]]
 - [[@Feynman2015-tq|The Quotable Feynman]]
 - [[@Merriam2015-vy|Qualitative Research - A Guide To Design And Implementation]]
+- [[@Bock2015-ds|Robot-Oriented Design - Design And Management Tools For The Deployment Of Automation And Robotics In Construction]]
 ### 2014
 - [[@Gallace2014-lu|In Touch With The Future - The Sense Of Touch From Cognitive Neuroscience To Virtual Reality]]
 - [[@Fuller2014-ea|Contemporary Apprenticeship - International Perspectives On An Evolving Model Of Learning]]

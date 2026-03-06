@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-06T12:52:28
+amended: 2026-03-06T12:57:35
 ---
 
 # Directory
@@ -47,6 +47,7 @@ amended: 2026-03-06T12:52:28
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
+- [[@Pan2022-rw|Artificial Intelligence And Robotics For Prefabricated And Modular Construction - A Systematic Literature Review]]
 - [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs]]
 - [[@Green2022-hf|Modern Methods Of Construction - Reflections On The Current Research Agenda]]
 - [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
@@ -78,6 +79,7 @@ amended: 2026-03-06T12:52:28
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
+- [[@Pan2020-aw|Understanding The Determinants Of Construction Robot Adoption - Perspective Of Building Contractors]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
 - [[@Rybnicek2020-yh|World's Oldest Dendrochronologically Dated Archaeological Wood Construction]]
 - [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots - Towards Unsupervised Building]]
@@ -153,6 +155,7 @@ amended: 2026-03-06T12:52:28
 - [[@Wang2015-lz|An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior]]
 - [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
 - [[@Jensen2015-jp|Product Configuration In Construction]]
+- [[@Bock2015-tf|The Future Of Construction Automation - Technological Disruption And The Upcoming Ubiquity Of Robotics]]
 ### 2014
 - [[@Gagg2014-gf|Cement And Concrete As An Engineering Material - An Historic Appraisal And Case Study Analysis]]
 - [[@Walker2014-hk|Adaptive Intelligent Support To Improve Peer Tutoring In Algebra]]
@@ -186,6 +189,7 @@ amended: 2026-03-06T12:52:28
 - [[@VanLehn2011-cd|The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems]]
 - [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The UK]]
 - [[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
+- [[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
 ### 2010
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
 - [[@Bell2010-gt|Performance Gains From Speech-Enhanced Simulation In Military Flying Training]]
@@ -205,6 +209,7 @@ amended: 2026-03-06T12:52:28
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
+- [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 - [[@Wang2008-rq|Craft Training Issues In American Industrial And Commercial Construction]]
 ### 2007
 - [[@Bartel2007-qc|How Does Information Technology Affect Productivity? Plant-Level Comparisons Of Product Innovation, Process Improvement, And Worker Skills]]
@@ -212,6 +217,7 @@ amended: 2026-03-06T12:52:28
 - [[@Blondy2007-lo|Evaluation And Application Of Andragogical Assumptions To The Adult Online Learning Environment]]
 - [[@Unwin2007-pk|Looking Inside The Russian Doll - The Interconnections Between Context, Learning And Pedagogy In The Workplace]]
 - [[@Eraut2007-ro|Learning From Other People In The Workplace]]
+- [[@Chan2007-ad|Productivity Improvements - Understand The Workforce Perceptions Of Productivity First]]
 ### 2006
 - [[@Fuller2006-ki|Continuity, Change And Conflict - The Role Of Learning And Knowing In Different Productive Systems]]
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]

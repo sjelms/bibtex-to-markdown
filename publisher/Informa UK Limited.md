@@ -23,3 +23,5 @@ category:
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
 [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
+[[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
+[[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
