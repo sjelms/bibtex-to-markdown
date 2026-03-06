@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-05T18:01:25
+amended: 2026-03-06T08:05:19
 ---
 
 # Directory
@@ -67,6 +67,7 @@ amended: 2026-03-05T18:01:25
 - [[@Akomah2020-mu|Skilled Labour Shortage In The Building Construction Industry Within The Central Region]]
 - [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms - A Comparative Case Study]]
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
+- [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
 - [[@Rybnicek2020-yh|World's Oldest Dendrochronologically Dated Archaeological Wood Construction]]
 - [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots - Towards Unsupervised Building]]
