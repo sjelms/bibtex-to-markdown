@@ -13,4 +13,5 @@ category:
 [[@Bailenson2018-kb|Experience On Demand]]
 [[@Brynjolfsson2014-kx|The Second Machine Age]]
 [[@Fry2018-os|Hello World]]
+[[@McAfee2017-zh|Machine, Platform, Crowd]]
 [[@Salvadori1980-nu|Why Buildings Stand Up]]

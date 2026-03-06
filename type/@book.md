@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-06T08:52:13
+amended: 2026-03-06T10:17:53
 ---
 
 # Directory
@@ -150,6 +150,7 @@ amended: 2026-03-06T08:52:13
 - [[@Stoyanov2018-hh|Ikujiro Nonaka's A Dynamic Theory Of Organisational Knowledge Creation]]
 - [[@Michelsen2018-zg|Vocational Education In The Nordic Countries - The Historical Evolution]]
 ### 2017
+- [[@McAfee2017-zh|Machine, Platform, Crowd - Harnessing The Digital Revolution - Harnessing Our Digital Future]]
 - [[@Macy2017-gr|Factory Man - How One Furniture Maker Battled Offshoring, Stayed Local – And Helped Save An American Town]]
 - [[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
 - [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
