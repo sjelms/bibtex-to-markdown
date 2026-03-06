@@ -13,6 +13,7 @@ category:
 [[@Abeck1971-vn|US Steel Fabricates Rooms For Florida's Disney World]]
 [[@Attewell1987-vr|The Deskilling Controversy]]
 [[@Aurini2021-vc|The How To Of Qualitative Research]]
+[[@Avis2025-es|Work-Based Learning]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billups2020-od|Qualitative Data Collection Tools]]
 [[@Braun2021-ah|Thematic Analysis]]

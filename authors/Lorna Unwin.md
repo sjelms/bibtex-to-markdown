@@ -24,6 +24,7 @@ aliases:
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
@@ -35,6 +36,7 @@ aliases:
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
+[[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
 [[@Lupton2018-ct|The Construction Challenge In Greater Manchester]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
@@ -73,6 +75,8 @@ aliases:
 
 ![[@Fuller2006-ki]]
 
+![[@Fuller2009-vx]]
+
 ![[@Fuller2011-fe]]
 
 ![[@Fuller2012-pz]]
@@ -94,6 +98,8 @@ aliases:
 ![[@Guile2019-mh]]
 
 ![[@Hoeve2019-ip]]
+
+![[@Lahiff2019-dw]]
 
 ![[@Lupton2018-ct]]
 

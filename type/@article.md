@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-06T08:48:22
+amended: 2026-03-06T08:48:55
 ---
 
 # Directory
@@ -12,10 +12,14 @@ amended: 2026-03-06T08:48:22
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
+- [[@Avis2025-es|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
+- [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
 ### 2024
+- [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
+- [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
@@ -26,6 +30,7 @@ amended: 2026-03-06T08:48:22
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
+- [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
 ### 2022
@@ -38,6 +43,7 @@ amended: 2026-03-06T08:48:22
 - [[@Darlow2022-gi|Automation In New Zealand's Offsite Construction (OSC) - A Status Update]]
 - [[@Knight2022-si|A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?]]
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
+- [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
@@ -46,6 +52,7 @@ amended: 2026-03-06T08:48:22
 - [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
 ### 2021
+- [[@Felder2021-hm|Restrictive And Expansive Participation In Companies’ Activities - A Case Study Of Bricklaying And Automation Technology Apprentices In Switzerland]]
 - [[@Venkatesh2021-uz|Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions]]
 - [[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The EU]]
 - [[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction - The Case Of Cross Laminated Timber]]
@@ -65,8 +72,10 @@ amended: 2026-03-06T08:48:22
 ### 2020
 - [[@Lippert2020-ei|Multiple Agent Designs In Conversational Intelligent Tutoring Systems]]
 - [[@Akomah2020-mu|Skilled Labour Shortage In The Building Construction Industry Within The Central Region]]
+- [[@Bishop2020-ox|Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector]]
 - [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms - A Comparative Case Study]]
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
+- [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
 - [[@Rybnicek2020-yh|World's Oldest Dendrochronologically Dated Archaeological Wood Construction]]
@@ -74,11 +83,13 @@ amended: 2026-03-06T08:48:22
 - [[@Vasilevski2020-bl|Analysing Construction Student Experiences Of Mobile Mixed Reality Enhanced Learning In Virtual And Augmented Reality Environments]]
 - [[@Milkman2020-mp|Union Decline And Labor Revival In The 21st Century United States]]
 - [[@Kim2020-fo|Dynamic Modeling For Analyzing Impacts Of Skilled Labor Shortage On Construction Project Management]]
+- [[@Francisco2020-go|Developing A Trellis Of Practices That Support Learning In The Workplace]]
 - [[@Zhang2020-bk|Process-Oriented Framework To Improve Modular And Offsite Construction Manufacturing Performance]]
 ## 2010-2019
 ### 2019
 - [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 - [[@Alkhatlan2019-pv|Intelligent Tutoring Systems - A Comprehensive Historical Survey With Recent Developments]]
+- [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes - Aviation Apprenticeships In England And Germany]]
 - [[@Terry2019-yh|Television As A Career Motivator And Education Tool - A Final-Year Nursing Student Cohort Study]]
 - [[@Acemoglu2019-rl|Automation And New Tasks - How Technology Displaces And Reinstates Labor]]
 - [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
@@ -93,6 +104,7 @@ amended: 2026-03-06T08:48:22
 - [[@Barkokebas2019-eh|Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry]]
 - [[@Auti2019-nb|Prefabrication Technology - A Promising Alternative In Construction Industry]]
 ### 2018
+- [[@Doroftei2018-sz|Perspectives Of Young People Enrolled In Apprenticeship Courses In Portugal About Learning In Work Contexts]]
 - [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 - [[@Yeung2018-ya|Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge]]
 - [[@Fertleman2018-vt|A Discussion Of Virtual Reality As A New Tool For Training Healthcare Professionals]]
@@ -103,11 +115,14 @@ amended: 2026-03-06T08:48:22
 - [[@Goller2018-oz|Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home]]
 - [[@Lucas2018-na|The Utility Of Case Study As A Methodology For Work-Integrated Learning Research]]
 - [[@Wang2018-sj|A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training]]
+- [[@Grytnes2018-tr|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
 - [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
 - [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
+- [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
+- [[@Guile2017-qd|Apprenticeship For ‘liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment]]
 - [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
@@ -175,6 +190,7 @@ amended: 2026-03-06T08:48:22
 ## 2000-2009
 ### 2009
 - [[@Sparks2009-cr|Advanced Entry Adult Apprenticeship Training Scheme - A Case Study]]
+- [[@Fuller2009-vx|Change And Continuity In Apprenticeship - The Resilience Of A Model Of Learning]]
 - [[@Hirschman2009-cs|Immigration And The American Industrial Revolution From 1880 To 1920]]
 - [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
 - [[@Bishop2009-co|Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry]]
@@ -240,6 +256,7 @@ amended: 2026-03-06T08:48:22
 ### 1998
 - [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]
 - [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
+- [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
 - [[@Butler1998-ph|The Learning Context Within Technical And Further Education Colleges As Perceived By Apprentices And Their Workplace Supervisors]]
 - [[@Self1998-fu|The Defining Characteristics Of Intelligent Tutoring Systems Research - Itss Care, Precisely]]
 - [[@Philip1998-pd|Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?]]

@@ -17,6 +17,8 @@ aliases:
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
+[[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
+[[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
@@ -39,6 +41,10 @@ aliases:
 ![[@Fuller2012-pz]]
 
 ![[@Fuller2019-zb]]
+
+![[@Guile1998-yz]]
+
+![[@Guile2017-qd]]
 
 ![[@Guile2019-co]]
 

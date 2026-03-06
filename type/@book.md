@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-06T08:48:22
+amended: 2026-03-06T08:48:55
 ---
 
 # Directory
@@ -75,6 +75,7 @@ amended: 2026-03-06T08:48:22
 - [[@Boltanski2021-jq|On Justification - Economies Of Worth]]
 - [[@Ford2021-hl|Rule Of The Robots - How Artificial Intelligence Will Transform Everything]]
 - [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
+- [[@Brockmann2021-ls|On- And Off-The-Job Training In Apprenticeships In England]]
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
 - [[@Burkeman2021-fd|Four Thousand Weeks - Time And How To Use It]]
 - [[@Mayring2021-ud|Qualitative Content Analysis - A Step-By-Step Guide]]
@@ -98,6 +99,7 @@ amended: 2026-03-06T08:48:22
 - [[@Forbes2020-sw|Lean Project Delivery And Integrated Practices In Modern Construction]]
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
+- [[@Brockmann2020-sf|On-The-Job Training In Apprenticeship In England]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]

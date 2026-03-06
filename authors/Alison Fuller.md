@@ -21,6 +21,7 @@ aliases:
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2004-ys|Conclusion]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2013-sa|Apprenticeship And The Concept Of Occupation]]
@@ -56,6 +57,8 @@ aliases:
 ![[@Fuller2004-ys]]
 
 ![[@Fuller2006-ki]]
+
+![[@Fuller2009-vx]]
 
 ![[@Fuller2011-fe]]
 
