@@ -21,8 +21,8 @@ tags:
   - Workplace-Learning
   - _Mark-Up
   - VET
-  - Cross-Ref-Chapter
   - UCL
+  - Book-child
 ---
 
 > [!bibliography]

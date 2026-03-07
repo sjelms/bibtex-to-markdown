@@ -23,8 +23,8 @@ tags:
   - Workplace-Learning
   - _New-Literature
   - VET
-  - Cross-Ref-Chapter
   - UCL
+  - Book-child
 ---
 
 > [!bibliography]

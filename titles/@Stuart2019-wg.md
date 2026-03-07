@@ -16,13 +16,13 @@ tags:
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise
-  - Cross-Ref-Chapter
   - ePub
   - UCL
   - VET
   - Workplace-Learning
   - _New-Literature
   - Labor
+  - Book-child
 ---
 
 > [!bibliography]

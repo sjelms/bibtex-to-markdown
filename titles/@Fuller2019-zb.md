@@ -23,7 +23,7 @@ tags:
   - Workplace-Learning
   - UCL
   - ePub
-  - Cross-Ref-Chapter
+  - Book-child
 ---
 
 > [!bibliography]

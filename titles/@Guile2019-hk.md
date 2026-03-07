@@ -25,7 +25,7 @@ tags:
   - Workplace-Learning
   - _Mark-Up
   - VET
-  - Cross-Ref-Chapter
+  - Book-child
 ---
 
 > [!bibliography]

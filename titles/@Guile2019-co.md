@@ -27,6 +27,7 @@ tags:
   - _In-ClickUp
   - Economics
   - _Cataloged
+  - Book-parent
 ---
 
 > [!bibliography]
