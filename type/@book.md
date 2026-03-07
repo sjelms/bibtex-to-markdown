@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-07T09:45:29
+amended: 2026-03-07T09:49:56
 ---
 
 # Directory
@@ -27,6 +27,7 @@ amended: 2026-03-07T09:45:29
 - [[@Xiang2024-jj|Novel Technology And Whole-Process Management In Prefabricated Building - Conference Proceedings Of The 5th International Prefabricated Building Seminar On Frontier Technology And Talent Training]]
 - [[@Pink2024-hz|Small Talk - 10 ADHD Lies And How To Stop Believing Them]]
 - [[@Sutton2024-pg|The Friction Project - How Smart Leaders Make The Right Things Easier And The Wrong Things Harder]]
+- [[@Bronin2024-xp|Key To The City - How Zoning Shapes Our World]]
 - [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
 ### 2023
 - [[@Friedman2023-hx|Fundamentals Of Innovative Sustainable Homes Design And Construction]]
