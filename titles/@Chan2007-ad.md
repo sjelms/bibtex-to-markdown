@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - JG_Recommended
   - _BibTex-to-MD-Git
+  - AEC
 ---
 
 > [!bibliography]

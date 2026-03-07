@@ -13,6 +13,9 @@ type: "[[@article]]"
 tags:
   - JG_Recommended
   - _BibTex-to-MD-Git
+  - AEC
+  - Robots
+  - Artificial-Intelligence-AI
 ---
 
 > [!bibliography]
