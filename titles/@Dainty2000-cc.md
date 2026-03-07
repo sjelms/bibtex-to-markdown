@@ -19,6 +19,7 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - VET
+  - Book-child
 ---
 
 > [!bibliography]

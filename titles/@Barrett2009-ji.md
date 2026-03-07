@@ -16,6 +16,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Research-Methods
+  - Book-child
 ---
 
 > [!bibliography]
