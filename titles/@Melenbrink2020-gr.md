@@ -8,7 +8,7 @@ key: "[[@Melenbrink2020-gr]]"
 aliases:
   - On-Site Autonomous Construction Robots - Towards Unsupervised Building
   - On-Site Autonomous Construction Robots
-journal: "[[Automation in construction]]"
+journal: "[[Automation in Construction]]"
 publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:

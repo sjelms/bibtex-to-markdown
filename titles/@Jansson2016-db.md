@@ -7,7 +7,7 @@ author - 3: "[[Helena Lidelöw]]"
 key: "[[@Jansson2016-db]]"
 aliases:
   - Design Management Using Knowledge Innovation And Visual Planning
-journal: "[[Automation in construction]]"
+journal: "[[Automation in Construction]]"
 publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:
