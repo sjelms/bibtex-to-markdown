@@ -28,9 +28,9 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - AEC
-  - Cross-Ref-Chapter
   - ePub
   - Artificial-Intelligence-AI
+  - Book-child
 ---
 
 > [!bibliography]

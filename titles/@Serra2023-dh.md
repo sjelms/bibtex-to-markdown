@@ -24,12 +24,12 @@ tags:
   - _In-Notion
   - _In-Readwise
   - AEC
-  - Cross-Ref-Chapter
   - ePub
   - Labor
   - Workplace-Learning
   - _New-Literature
   - Game-Engine
+  - Book-child
 ---
 
 > [!bibliography]

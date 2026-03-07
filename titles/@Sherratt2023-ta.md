@@ -25,11 +25,11 @@ tags:
   - _In-Notion
   - _In-Readwise
   - AEC
-  - Cross-Ref-Chapter
   - ePub
   - Labor
   - Workplace-Learning
   - _New-Literature
+  - Book-child
 ---
 
 > [!bibliography]

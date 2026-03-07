@@ -23,12 +23,12 @@ tags:
   - _In-Notion
   - _In-Readwise
   - AEC
-  - Cross-Ref-Chapter
   - ePub
   - Labor
   - Workplace-Learning
   - _New-Literature
   - _XR-MR-VR-AR
+  - Book-child
 ---
 
 > [!bibliography]
