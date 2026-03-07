@@ -18,8 +18,8 @@ tags:
   - _In-Notion
   - _In-Readwise
   - AEC
-  - Cross-Ref-Chapter
   - ePub
+  - Book-child
 ---
 
 > [!bibliography]

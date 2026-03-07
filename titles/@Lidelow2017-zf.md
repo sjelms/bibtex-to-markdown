@@ -22,7 +22,7 @@ tags:
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise
-  - Cross-Ref-Chapter
+  - Book-child
 ---
 
 > [!bibliography]
