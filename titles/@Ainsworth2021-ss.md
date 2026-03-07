@@ -23,6 +23,7 @@ tags:
   - _In-Readwise
   - _XR-MR-VR-AR
   - _New-Literature
+  - Book-child
 ---
 
 > [!bibliography]
