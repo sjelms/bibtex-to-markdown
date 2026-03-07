@@ -17,10 +17,10 @@ type: "[[@inbook]]"
 tags:
   - Oxford-Handbook-of-Skills-and-Training
   - _BibTex-to-MD-Git
-  - Cross-Ref-Chapter
   - ePub
   - Workplace-Learning
   - VET
+  - Book-child
 ---
 
 > [!bibliography]

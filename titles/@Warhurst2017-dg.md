@@ -22,6 +22,7 @@ tags:
   - VET
   - Workplace-Learning
   - Cross-Ref-Chapter
+  - Book-parent
 ---
 
 > [!bibliography]

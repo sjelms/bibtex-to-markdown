@@ -19,13 +19,13 @@ tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - EPubs-Books
-  - Cross-Ref-Chapter
   - ePub
   - _In-Notion
   - _In-Readwise
   - VET
   - Workplace-Learning
   - _New-Literature
+  - Book-child
 ---
 
 > [!bibliography]
