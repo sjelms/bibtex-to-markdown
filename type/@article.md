@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-07T09:35:23
+amended: 2026-03-07T09:45:29
 ---
 
 # Directory
@@ -164,6 +164,7 @@ amended: 2026-03-07T09:35:23
 ### 2013
 - [[@Frey2013-nj|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
 - [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
+- [[@Tassey2013-ia|Beyond The Business Cycle - The Need For A Technology-Based Growth Strategy]]
 - [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building - Exploring Product Development Platforms]]
 - [[@Killingsworth2013-qe|Synergy - A Case Study In Workforce Curriculum Development]]
 - [[@Hudson2013-id|Trends In CTE Coursetaking. Data Point. NCES 2014-901]]
