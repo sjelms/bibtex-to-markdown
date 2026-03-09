@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-07T09:49:56
+amended: 2026-03-09T16:08:05
 ---
 
 # Directory
@@ -179,6 +179,7 @@ amended: 2026-03-07T09:49:56
 - [[@Jarkas2012-fy|Factors Affecting Construction Labor Productivity In Kuwait]]
 - [[@King_Chun2012-rk|The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage]]
 - [[@Goulding2012-op|Construction Industry Offsite Production - A Virtual Reality Interactive Training Environment Prototype]]
+- [[@Vertesi2012-qa|Seeing Like A Rover - Visualization, Embodiment, And Interaction On The Mars Exploration Rover Mission]]
 - [[@Bergold2012-te|Participatory Research Methods - A Methodological Approach In Motion]]
 - [[@Ord2012-tv|John Dewey And Experiential Learning - Developing The Theory Of Youth Work]]
 - [[@Abdel-Wahab2012-so|Rethinking Apprenticeship Training In The British Construction Industry]]

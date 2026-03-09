@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-03-07T09:49:56
+amended: 2026-03-09T16:08:05
 ---
 
 # Directory
@@ -14,6 +14,7 @@ amended: 2026-03-07T09:49:56
 - [[@Ministry-of-Housing-Communities-and-Local-Government2025-bf|National Planning Policy Framework - Plan-Making And National Decision-Making Policies]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2025-cf|Proposed Reforms To The National Planning Policy Framework And Other Changes To The Planning System]]
 - [[@Ashraf2025-rf|Meaning At Work]]
+- [[@Sitzberger2025-nj|Industrialized Construction - The Blueprint To Disrupt And Transform The Construction Industry]]
 ### 2024
 - [[@Brennan2024-pe|Volumetric Modular Construction Research]]
 - [[@Ryan-Collins2024-sw|The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The UK]]
