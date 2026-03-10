@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-10T11:22:50
+amended: 2026-03-10T11:33:12
 ---
 
 # Directory
@@ -238,6 +238,7 @@ amended: 2026-03-10T11:22:50
 ### 2004
 - [[@Hevner2004-zn|Design Science In Information Systems Research]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
+- [[@Millhauser2004-jd|Cat 'n' Mouse]]
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]
 ### 2003
 - [[@Fuller2003-gh|Fostering Workplace Learning - Looking Through The Lens Of Apprenticeship]]
