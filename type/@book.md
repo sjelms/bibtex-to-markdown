@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-10T11:16:49
+amended: 2026-03-10T11:22:50
 ---
 
 # Directory
@@ -320,6 +320,7 @@ amended: 2026-03-10T11:16:49
 - [[@Salvadori1980-nu|Why Buildings Stand Up - The Strength Of Architecture]]
 ## 1970-1979
 ### 1978
+- [[@Sudnow1978-tk|Ways Of The Hand - The Organization Of Improvised Conduct]]
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
