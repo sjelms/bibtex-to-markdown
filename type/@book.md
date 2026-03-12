@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-10T11:33:12
+amended: 2026-03-12T08:41:26
 ---
 
 # Directory
@@ -330,6 +330,8 @@ amended: 2026-03-10T11:33:12
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
 ### 1973
 - [[@Berne1973-ik|Games People Play - The Psychology Of Human Relationships]]
+### 1972
+- [[@Terkel1972-sg|Working - People Talk About What They Do All Day And How They Feel About What They Do]]
 ## 1960-1969
 ### 1967
 - [[@Glaser1967-cp|The Discovery Of Grounded Theory - Strategies For Qualitative Research]]
