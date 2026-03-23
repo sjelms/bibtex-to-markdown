@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-03-23T14:38:41
+amended: 2026-03-23T15:52:12
 ---
 
 # Directory
@@ -19,6 +19,7 @@ amended: 2026-03-23T14:38:41
 - [[@Thompson2025-tf|Automation And Manufacturing For The Built Environment]]
 ### 2024
 - [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
+- [[@McAfee2024-nd|The Geek Way - The Radical Mindset That Drives Extraordinary Results]]
 - [[@Holder2024-is|Our Unfinished March - The Violent Past And Imperiled Future Of The Vote]]
 - [[@Beato2024-nt|The Digitalist Papers - Artificial Intelligence And Democracy In America]]
 - [[@McCabe2024-zg|How To ADHD - An Insider's Guide To Working With Your Brain (not Against It)]]

@@ -14,6 +14,7 @@ aliases:
 [[@Brynjolfsson2012-jw|Race Against The Machine]]
 [[@Brynjolfsson2014-kx|The Second Machine Age]]
 [[@McAfee2017-zh|Machine, Platform, Crowd]]
+[[@McAfee2024-nd|The Geek Way]]
 
 #### Bibliography:
 
@@ -24,3 +25,5 @@ aliases:
 ![[@Brynjolfsson2014-kx]]
 
 ![[@McAfee2017-zh]]
+
+![[@McAfee2024-nd]]
