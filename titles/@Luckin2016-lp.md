@@ -16,6 +16,7 @@ tags:
   - My-Library
   - 2021-12-03-Frontiers
   - _BibTex-to-MD-Git
+  - BSSC-Seed-Fund-for-AI-Research
   - UCL
 ---
 
