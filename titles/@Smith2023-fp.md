@@ -24,6 +24,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - BSSC-Seed-Fund-for-AI-Research
   - AEC
   - Important
   - _Mark-Up
