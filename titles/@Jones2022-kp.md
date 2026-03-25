@@ -22,10 +22,10 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - _In-Notion
   - _In-Readwise
-  - _New-Literature
   - AEC
   - UCL
   - ePub
+  - _Mark-Up
 ---
 
 > [!bibliography]
