@@ -1,11 +1,12 @@
 ---
 type: "[[@misc]]"
-amended: 2026-03-25T07:51:46
+amended: 2026-03-25T08:54:07
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
+- [[@Mahamadu2025-go|BCPM0088 - Integration, Modularisation, And Platforms]]
 - [[@Eccles2025-kq|Grim Times For Graduates Facing Worst Jobs Market In A Generation]]
 - [[@Basak2025-gu|How Wall Street Plans To Fix The Housing Crisis]]
 ### 2024
