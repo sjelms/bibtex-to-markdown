@@ -12,6 +12,7 @@ tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - Case-Study-Research
   - Fieldwork-Methodology
   - ePub
   - Research-Methods

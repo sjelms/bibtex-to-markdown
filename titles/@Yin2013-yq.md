@@ -13,6 +13,7 @@ tags:
   - EPubs-Books
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
+  - Case-Study-Research
   - Research-Methods
   - Fieldwork-Methodology
   - ePub

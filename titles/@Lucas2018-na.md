@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
+  - Case-Study-Research
   - _In-Notion
   - _In-Readwise
   - Fieldwork-Methodology
