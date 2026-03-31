@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-03-28T13:19:12
+amended: 2026-03-31T14:28:01
 ---
 
 # Directory
@@ -104,6 +104,7 @@ amended: 2026-03-28T13:19:12
 - [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
 - [[@Farnese2019-fw|Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization]]
 - [[@Hossain2019-no|Towards Digitizing The Construction Industry - State Of The Art Of Construction 4.0]]
+- [[@Brennan2019-ve|100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation]]
 - [[@Bertram2019-rb|Modular Construction - From Projects To Products]]
 - [[@Barkokebas2019-eh|Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry]]
 - [[@Auti2019-nb|Prefabrication Technology - A Promising Alternative In Construction Industry]]
