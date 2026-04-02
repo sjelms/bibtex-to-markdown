@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-04-01T12:04:49
+amended: 2026-04-02T11:15:03
 ---
 
 # Directory
@@ -46,6 +46,7 @@ amended: 2026-04-01T12:04:49
 - [[@United-States-Census-Bureau2021-zk|Monthly New Residential Construction, June 2021]]
 - [[@Yurkevich2021-mu|America Desperately Needs 1 Million More Construction Workers]]
 ### 2020
+- [[@Cast_Consultancy2020-te|Modern Methods Of Construction (MMC) Definition Summary]]
 - [[@Christensen2020-kv|Managing Disruption - An Interview With Clayton Christensen]]
 - [[@Christensen2020-mi|Disruption 2020 - An Interview With Clayton M. Christensen]]
 - [[@Factory_OS2020-jw|Factory_os Joins Forces With Technology And Finance Leaders To Solve The Housing Crisis]]
