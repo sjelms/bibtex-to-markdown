@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-02T13:09:20
+amended: 2026-04-02T13:12:23
 ---
 
 # Directory
@@ -120,7 +120,6 @@ amended: 2026-04-02T13:09:20
 - [[@Goller2018-oz|Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home]]
 - [[@Lucas2018-na|The Utility Of Case Study As A Methodology For Work-Integrated Learning Research]]
 - [[@Wang2018-sj|A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training]]
-- [[@Grytnes2018-tr|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
 - [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
 - [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
@@ -132,6 +131,7 @@ amended: 2026-04-02T13:09:20
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
+- [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
 - [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
 - [[@Berger2017-ln|Industrial Renewal In The 21st Century - Evidence From US Cities]]
 ### 2016
