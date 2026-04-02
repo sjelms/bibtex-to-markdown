@@ -10,4 +10,4 @@ category:
 ## Power and Education
 
 ### Content:
-[[@Avis2025-es|Work-Based Learning]]
+[[@Avis2024-dn|Work-Based Learning]]

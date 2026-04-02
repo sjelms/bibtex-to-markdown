@@ -11,10 +11,10 @@ aliases:
 
 ### Content:
 [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
-[[@Avis2025-es|Work-Based Learning]]
+[[@Avis2024-dn|Work-Based Learning]]
 
 #### Bibliography:
 
 ![[@Avis2022-yt]]
 
-![[@Avis2025-es]]
+![[@Avis2024-dn]]
