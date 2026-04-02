@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-02T12:51:17
+amended: 2026-04-02T13:05:50
 ---
 
 # Directory
@@ -54,7 +54,6 @@ amended: 2026-04-02T12:51:17
 - [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
 ### 2021
-- [[@Felder2021-hm|Restrictive And Expansive Participation In Companies’ Activities - A Case Study Of Bricklaying And Automation Technology Apprentices In Switzerland]]
 - [[@Venkatesh2021-uz|Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions]]
 - [[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The EU]]
 - [[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction - The Case Of Cross Laminated Timber]]
@@ -72,6 +71,7 @@ amended: 2026-04-02T12:51:17
 - [[@Kambhampati2021-lr|Polanyi's Revenge And AI's New Romance With Tacit Knowledge]]
 - [[@Georgiou2021-hp|Learning Experience Design With Immersive Virtual Reality In Physics Education]]
 ### 2020
+- [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities - A Case Study Of Bricklaying And Automation Technology Apprentices In Switzerland]]
 - [[@Lippert2020-ei|Multiple Agent Designs In Conversational Intelligent Tutoring Systems]]
 - [[@Akomah2020-mu|Skilled Labour Shortage In The Building Construction Industry Within The Central Region]]
 - [[@Bishop2020-ox|Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector]]

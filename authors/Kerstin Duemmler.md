@@ -10,8 +10,8 @@ aliases:
 ## Kerstin Duemmler
 
 ### Content:
-[[@Felder2021-hm|Restrictive And Expansive Participation In Companies’ Activities]]
+[[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 
 #### Bibliography:
 
-![[@Felder2021-hm]]
+![[@Felder2020-sy]]

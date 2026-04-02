@@ -11,10 +11,10 @@ aliases:
 
 ### Content:
 [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland]]
-[[@Felder2021-hm|Restrictive And Expansive Participation In Companies’ Activities]]
+[[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 
 #### Bibliography:
 
 ![[@Fedrigo2025-su]]
 
-![[@Felder2021-hm]]
+![[@Felder2020-sy]]

@@ -17,7 +17,7 @@ category:
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
-[[@Felder2021-hm|Restrictive And Expansive Participation In Companies’ Activities]]
+[[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 [[@Francisco2020-go|Developing A Trellis Of Practices That Support Learning In The Workplace]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
