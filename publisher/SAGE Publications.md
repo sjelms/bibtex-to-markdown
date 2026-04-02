@@ -63,6 +63,7 @@ category:
 [[@Saldana2015-ul|An Introduction To Codes And Coding]]
 [[@Sawchuk2013-ux|Researching Workplace Learning]]
 [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
+[[@Stake1995-qy|The Art Of Case Study Research]]
 [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education]]
 [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 [[@Towers1989-ll|Running The Gauntlet]]

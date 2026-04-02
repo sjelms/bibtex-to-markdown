@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-02T13:12:23
+amended: 2026-04-02T13:56:18
 ---
 
 # Directory
@@ -300,6 +300,7 @@ amended: 2026-04-02T13:12:23
 ### 1995
 - [[@Casey1995-nc|Work, Self And Society - After Industrialism]]
 - [[@Self1995-ne|Computational Mathetics - Towards A Science Of Learning Systems Design]]
+- [[@Stake1995-qy|The Art Of Case Study Research]]
 ### 1994
 - [[@Lofland1994-iu|Analyzing Social Settings - A Guide To Qualitative Observation And Analysis]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
