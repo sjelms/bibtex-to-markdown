@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-02T13:56:18
+amended: 2026-04-03T08:52:22
 ---
 
 # Directory
@@ -8,6 +8,7 @@ amended: 2026-04-02T13:56:18
 ### 2026
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
+- [[@Cheng2025-ml|Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use]]
 - [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
