@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - Workplace-Learning
   - VET
+  - ePub
 ---
 
 > [!bibliography]
