@@ -5,7 +5,7 @@ author - 1: "[[Daniel Bishop]]"
 key: "[[@Bishop2017-zt]]"
 aliases:
   - Context, Agency And Professional Workplace Learning
-journal: "[[Education + Training]]"
+journal: "[[Education and Training]]"
 publisher: "[[Emerald]]"
 type: "[[@article]]"
 tags:
