@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-03T14:13:46
+amended: 2026-04-03T14:18:05
 ---
 
 # Directory
@@ -23,8 +23,10 @@ amended: 2026-04-03T14:13:46
 - [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 - [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
 ### 2022
+- [[@Littlejohn2022-ll|Professional Learning Analytics - Understanding Complex Learning Processes Through Measurement, Collection, Analysis, And Reporting Of MOOC Data]]
 - [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI]]
 - [[@Hall2022-de|New Business Models For Industrialized Construction]]
+- [[@Lehtinen2022-ix|How To Deal With The Complexity In Research On Workplace Learning]]
 - [[@Gu2022-hu|Carbon Impacts Of Engineered Wood Products In Construction]]
 - [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science]]
 - [[@Nonaka2022-du|The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]

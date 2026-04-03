@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-03T14:13:46
+amended: 2026-04-03T14:18:05
 ---
 
 # Directory
@@ -57,6 +57,7 @@ amended: 2026-04-03T14:13:46
 - [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"]]
 - [[@Marx2022-rv|The Communist Manifesto]]
 - [[@Casini2022-yp|Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry]]
+- [[@Goller2022-gc|Methods For Researching Professional Learning And Development]]
 - [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government]]
 - [[@Feynman2022-uv|Surely You're Joking Mr Feynman]]
 - [[@Susskind2022-wh|The Future Of The Professions - How Technology Will Transform The Work Of Human Experts, Updated Edition]]

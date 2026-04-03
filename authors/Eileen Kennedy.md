@@ -1,20 +1,17 @@
 ---
-author: "Allison Littlejohn"
+author: "Eileen Kennedy"
 institution:
 field:
 type:
 aliases:
-  - Littlejohn
+  - Kennedy
 ---
 
-## Allison Littlejohn
+## Eileen Kennedy
 
 ### Content:
-[[@Littlejohn2013-gj|Technology-Enhanced Professional Learning]]
 [[@Littlejohn2022-ll|Professional Learning Analytics]]
 
 #### Bibliography:
-
-![[@Littlejohn2013-gj]]
 
 ![[@Littlejohn2022-ll]]
