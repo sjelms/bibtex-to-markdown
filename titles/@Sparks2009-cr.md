@@ -8,7 +8,7 @@ key: "[[@Sparks2009-cr]]"
 aliases:
   - Advanced Entry Adult Apprenticeship Training Scheme - A Case Study
   - Advanced Entry Adult Apprenticeship Training Scheme
-journal: "[[Education + Training]]"
+journal: "[[Education and Training]]"
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sparks, Alan, Hadyn Ingram, Sunny Phillips. 2009. “Advanced Entry Adult Apprenticeship Training Scheme: A Case Study.” [[Education + Training]]. http://dx.doi.org/10.1108/00400910910960722
+> Sparks, Alan, Hadyn Ingram, Sunny Phillips. 2009. “Advanced Entry Adult Apprenticeship Training Scheme: A Case Study.” [[Education and Training]]. http://dx.doi.org/10.1108/00400910910960722

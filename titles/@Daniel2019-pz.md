@@ -9,7 +9,7 @@ key: "[[@Daniel2019-pz]]"
 aliases:
   - Apprenticeship For Craftspeople In The Construction Industry - A State-Of-The-Art Review
   - Apprenticeship For Craftspeople In The Construction Industry
-journal: "[[Education + Training]]"
+journal: "[[Education and Training]]"
 publisher: "[[Emerald]]"
 type: "[[@article]]"
 tags:
