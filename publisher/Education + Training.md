@@ -10,5 +10,4 @@ category:
 ## Education + Training
 
 ### Content:
-[[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
 [[@Sparks2009-cr|Advanced Entry Adult Apprenticeship Training Scheme]]
