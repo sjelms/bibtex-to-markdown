@@ -13,7 +13,7 @@ aliases:
 publisher: "[[Oxford University Press]]"
 type: "[[@inbook]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - Workplace-Learning
   - _In-Notion

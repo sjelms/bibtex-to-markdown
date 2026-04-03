@@ -11,7 +11,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - VET
+  - VET-TVET
   - EPubs-Books
   - WALF-Improving-Working-as-Learning
   - 3_Upgrade-OCT-2023

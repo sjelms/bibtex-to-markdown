@@ -10,7 +10,7 @@ journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
-  - VET
+  - VET-TVET
   - ERC-ex-re
   - _BibTex-to-MD-Git
   - VET

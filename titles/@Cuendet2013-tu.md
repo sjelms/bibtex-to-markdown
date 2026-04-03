@@ -10,7 +10,7 @@ institution: "[[École Polytechnique Fédérale de Lausanne]]"
 publisher: "[[Lausanne EPFL]]"
 type: "[[@phdthesis]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR
   - Training

@@ -10,7 +10,7 @@ aliases:
   - #12 Vr/ar Technologies In Vocational Education And Training (scoping Study)
 type: "[[@online]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - _Cataloged
   - _XR-MR-VR-AR

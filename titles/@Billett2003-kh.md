@@ -13,7 +13,7 @@ tags:
   - Education
   - Journal-article
   - Theory-and-Methods
-  - VET
+  - VET-TVET
   - 00_TO-READ
   - _BibTex-to-MD-Git
   - _In-Readwise

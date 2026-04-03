@@ -15,7 +15,7 @@ journal: "[[Learning as Work Teaching and Learning Processes in Contemporary Wor
 publisher: "[[Cardiff School of Social Sciences Cardiff University]]"
 type: "[[@article]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise

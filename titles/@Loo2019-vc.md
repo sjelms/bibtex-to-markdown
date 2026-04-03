@@ -10,7 +10,7 @@ publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
   - EPubs-Books
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise

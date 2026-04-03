@@ -12,7 +12,7 @@ institution: "[[University of Toronto]]"
 publisher: "[[University of Toronto]]"
 type: "[[@phdthesis]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - VET
 ---

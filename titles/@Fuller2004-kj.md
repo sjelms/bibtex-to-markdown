@@ -10,7 +10,7 @@ aliases:
 publisher: "[[Taylor and Francis]]"
 type: "[[@book]]"
 tags:
-  - VET
+  - VET-TVET
   - Workplace-Learning-in-Context
   - EPubs-Books
   - 3_Upgrade-OCT-2023

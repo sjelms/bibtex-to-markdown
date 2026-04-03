@@ -10,7 +10,7 @@ journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Routledge]]"
 type: "[[@article]]"
 tags:
-  - VET
+  - VET-TVET
   - _BibTex-to-MD-Git
   - VET
 ---

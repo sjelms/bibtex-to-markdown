@@ -12,7 +12,7 @@ tags:
   - Notion-Catalogued
   - 2_Upgrade-MAY-2023
   - Journal-Articles
-  - VET
+  - VET-TVET
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research

@@ -10,7 +10,7 @@ journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
-  - VET
+  - VET-TVET
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - _In-Readwise
