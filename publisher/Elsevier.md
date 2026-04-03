@@ -13,6 +13,7 @@ category:
 [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process]]
 [[@Casini2022-yp|Construction 4.0]]
 [[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
+[[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
 [[@Goodman2012-np|Observing The User Experience]]
 [[@Goulding2012-op|Construction Industry Offsite Production]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-03T13:53:44
+amended: 2026-04-03T14:02:32
 ---
 
 # Directory
@@ -28,6 +28,7 @@ amended: 2026-04-03T13:53:44
 - [[@Gu2022-hu|Carbon Impacts Of Engineered Wood Products In Construction]]
 - [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science]]
 - [[@Nonaka2022-du|The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]
+- [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
 - [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
 ### 2021
@@ -59,6 +60,8 @@ amended: 2026-04-03T13:53:44
 - [[@Hairstans2019-ei|Core Offsite Manufacture Industry Drivers]]
 - [[@Smith2019-lv|Productivity, Innovation And Disruption - A Study Of Offsite Construction In The United States]]
 - [[@Billett2019-so|Vocational Education And The Individual]]
+### 2018
+- [[@Janis2018-ek|A Systematic Literature Review - Human Roles, Competencies And Skills In Industry 4.0]]
 ### 2017
 - [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]

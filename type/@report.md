@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-04-03T13:53:44
+amended: 2026-04-03T14:02:32
 ---
 
 # Directory
@@ -87,6 +87,7 @@ amended: 2026-04-03T13:53:44
 - [[@Berger2016-vc|Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work]]
 ### 2015
 - [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
+- [[@Kamm2015-ea|The Skills Initiative - Expanding Apprenticeship In The U.s. - Lessons From The German Dual Education System]]
 - [[@Citb2015-yq|Future Of Jobs And Skills In The UK Construction Sector To 2030]]
 - [[@Dreischmeier2015-di|The Digital Imperative]]
 - [[@UNESCO-UNEVOC2015-rd|Recommendation Concerning Technical And Vocational Education And Training (TVET)]]

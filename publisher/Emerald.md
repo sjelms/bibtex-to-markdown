@@ -14,6 +14,7 @@ category:
 [[@Bishop2020-ox|Firm Size And Workplace Learning Processes]]
 [[@Brennan2019-ve|100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation]]
 [[@Chan2007-ad|Productivity Improvements]]
+[[@Daniel2019-pz|Apprenticeship For Craftspeople In The Construction Industry]]
 [[@Darlow2022-gi|Automation In New Zealand's Offsite Construction (OSC)]]
 [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement”]]
 [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]

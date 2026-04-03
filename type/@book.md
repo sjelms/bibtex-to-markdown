@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-03T13:53:44
+amended: 2026-04-03T14:02:32
 ---
 
 # Directory
@@ -247,6 +247,7 @@ amended: 2026-04-03T13:53:44
 - [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
 - [[@Feynman2011-tz|Six Easy Pieces - Essentials Of Physics Explained By Its Most Brilliant Teacher]]
 - [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
+- [[@Wolter2011-qg|Empirical Research In Vocational Education And Training]]
 - [[@Billett2011-kx|Vocational Education - Purposes, Traditions And Prospects]]
 - [[@Johnson2011-da|Where Good Ideas Come From - The Seven Patterns Of Innovation]]
 - [[@Armstrong2011-wm|The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (published In Hardcover As Neurodiversity)]]
@@ -304,6 +305,8 @@ amended: 2026-04-03T13:53:44
 ### 1994
 - [[@Lofland1994-iu|Analyzing Social Settings - A Guide To Qualitative Observation And Analysis]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
+### 1992
+- [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
 ### 1991
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
@@ -332,6 +335,7 @@ amended: 2026-04-03T13:53:44
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
 ### 1973
 - [[@Berne1973-ik|Games People Play - The Psychology Of Human Relationships]]
+- [[@Thompson1973-ow|Foundations Of Vocational Education - Social And Philosophical Concepts]]
 ### 1972
 - [[@Terkel1972-sg|Working - People Talk About What They Do All Day And How They Feel About What They Do]]
 ## 1960-1969

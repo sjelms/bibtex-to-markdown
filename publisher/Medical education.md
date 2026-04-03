@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Mylopoulos2016-cz|Preparation For Future Learning]]
+[[@Nerland2021-cp|Challenging The Belief In Simple Solutions]]

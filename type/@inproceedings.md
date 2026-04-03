@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-04-03T13:53:44
+amended: 2026-04-03T14:02:32
 ---
 
 # Directory
@@ -15,6 +15,7 @@ amended: 2026-04-03T13:53:44
 - [[@Delson2020-gz|Development Of A Spatial Visualization Assessment Tool For Younger Students Using A Lego™ Assembly Task]]
 ## 2010-2019
 ### 2019
+- [[@Kamaleeva2019-cr|Cognitive Map Of The Pedagogical Situation As A Component Of The Pedagogical Situation Cognitive Model (as Exemplified By Analyzing Natural Science And Vocational Training In Colleges Of The Republic Of Tatarstan)]]
 - [[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC]]
 - [[@Wolf2019-ff|Case Study On Mobile Virtual Reality Construction Training]]
 - [[@Humble2019-rg|Artificial Intelligence In Education – A Promise, A Threat Or A Hype?]]

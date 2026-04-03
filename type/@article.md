@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-03T13:53:44
+amended: 2026-04-03T14:02:32
 ---
 
 # Directory
@@ -67,6 +67,7 @@ amended: 2026-04-03T13:53:44
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
+- [[@Nerland2021-cp|Challenging The Belief In Simple Solutions - The Need For Epistemic Practices In Professional Work]]
 - [[@Puntambekar2021-pm|Distributed Scaffolding - Scaffolding Students In Classroom Environments]]
 - [[@Balasubramanian2021-ju|The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market]]
 - [[@Kambhampati2021-lr|Polanyi's Revenge And AI's New Romance With Tacit Knowledge]]
@@ -77,6 +78,7 @@ amended: 2026-04-03T13:53:44
 - [[@Akomah2020-mu|Skilled Labour Shortage In The Building Construction Industry Within The Central Region]]
 - [[@Bishop2020-ox|Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector]]
 - [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms - A Comparative Case Study]]
+- [[@Lerner2020-pg|An Immersive Multi-User Virtual Reality For Emergency Simulation Training - Usability Study]]
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
@@ -98,9 +100,11 @@ amended: 2026-04-03T13:53:44
 - [[@Acemoglu2019-rl|Automation And New Tasks - How Technology Displaces And Reinstates Labor]]
 - [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
 - [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities]]
+- [[@Daniel2019-pz|Apprenticeship For Craftspeople In The Construction Industry - A State-Of-The-Art Review]]
 - [[@Randhawa2019-so|The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals]]
 - [[@Nassereddine2019-ox|Augmented Reality-Enabled Production Strategy Process]]
 - [[@Shanbari2019-ig|Use Of Video Games To Enhance Construction Management Education]]
+- [[@Cale2019-ca|Australian Prison Vocational Education And Training And Returns To Custody Among Male And Female Ex-Prisoners - A Cross-Jurisdictional Study]]
 - [[@Veile2019-es|Lessons Learned From Industry 4.0 Implementation In The German Manufacturing Industry]]
 - [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
 - [[@Farnese2019-fw|Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization]]
@@ -123,6 +127,7 @@ amended: 2026-04-03T13:53:44
 - [[@Wang2018-sj|A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training]]
 - [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
 - [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
+- [[@Belaya2018-we|The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
@@ -130,6 +135,7 @@ amended: 2026-04-03T13:53:44
 - [[@Guile2017-qd|Apprenticeship For ‘liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment]]
 - [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
+- [[@Gambin2017-tq|Employers And Apprenticeships In England - Costs, Risks And Policy Reforms]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
 - [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
@@ -152,10 +158,13 @@ amended: 2026-04-03T13:53:44
 - [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations]]
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
+- [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
+- [[@Coenen2015-pe|The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes]]
 - [[@Ponterotto2015-bf|Brief Note On The Origins, Evolution, And Meaning Of The Qualitative Research Concept Thick Description]]
 - [[@Wang2015-lz|An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior]]
 - [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
+- [[@Olson2015-xp|A Multilateral Approach To Bridging The Global Skills Gap]]
 - [[@Jensen2015-jp|Product Configuration In Construction]]
 - [[@Bock2015-tf|The Future Of Construction Automation - Technological Disruption And The Upcoming Ubiquity Of Robotics]]
 ### 2014
@@ -254,6 +263,7 @@ amended: 2026-04-03T13:53:44
 ### 2001
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
+- [[@Camp2001-nh|Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research]]
 ### 2000
 - [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 - [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training - Evidence From The Literature]]
@@ -278,6 +288,7 @@ amended: 2026-04-03T13:53:44
 ### 1997
 - [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process - The Case Of Computer Integrated Manufacturing]]
 ### 1996
+- [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 - [[@Snell1996-oc|The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution]]
 - [[@Billett1996-pa|Constructing Vocational Knowledge - History, Communities And Ontogeny]]
 ### 1994

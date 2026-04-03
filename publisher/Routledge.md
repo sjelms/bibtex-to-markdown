@@ -68,6 +68,7 @@ category:
 [[@Kamler2014-sz|Helping Doctoral Students Write]]
 [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
 [[@Lambert2019-qv|Practical Research Methods In Education]]
+[[@Lave1996-oh|Teaching, As Learning, In Practice]]
 [[@Lawson2006-pz|How Designers Think]]
 [[@Lawson2018-lk|The Design Student's Journey]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
