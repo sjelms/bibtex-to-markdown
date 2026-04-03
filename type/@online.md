@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-04-03T14:02:32
+amended: 2026-04-03T14:08:36
 ---
 
 # Directory
@@ -24,7 +24,7 @@ amended: 2026-04-03T14:02:32
 - [[@Associated-General-Contractors2021-wz|Construction Adds 31,000 Jobs In November, With Gains In All Segments, But Industry Will Need Even More Workers As Demand Accelerates]]
 - [[@Associated-General-Contractors2021-jr|Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects & Disrupt Supply Chains]]
 - [[@Siegel2021-ks|Juno Design - Throwing Out The Playbook]]
-- [[@Hon2021-if|#12 Vr/ar Technologies In Vocational Education And Training (scoping Study)]]
+- [[@Hon2021-if|Project 12 - Vr/ar Technologies In Vocational Education And Training (scoping Study)]]
 - [[@Authers2021-dw|If Your CEO Talks Like Kant, Think Twice Before Investing]]
 - [[@Hilburg2021-ix|Prefab Startup Wunderkind Katerra Is Shutting Down]]
 - [[@Yglesias2021-bo|Homelessness Is About Housing - The Solution Is To Legalize More And More Kinds Of It]]
