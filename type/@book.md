@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-05T15:19:18
+amended: 2026-04-05T16:53:00
 ---
 
 # Directory
@@ -344,6 +344,8 @@ amended: 2026-04-05T15:19:18
 ### 1972
 - [[@Terkel1972-sg|Working - People Talk About What They Do All Day And How They Feel About What They Do]]
 ## 1960-1969
+### 1968
+- [[@Merton1968-ny|Social Theory And Social Structure]]
 ### 1967
 - [[@Glaser1967-cp|The Discovery Of Grounded Theory - Strategies For Qualitative Research]]
 ### 1966
