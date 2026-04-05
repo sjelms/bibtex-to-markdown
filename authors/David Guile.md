@@ -18,12 +18,17 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
+[[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
+[[@Guile2010-gs|Preliminary Material]]
+[[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]
+[[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
 [[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
+[[@Spinuzzi2019-aa|Fourth-Generation Activity Theory]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 
 #### Bibliography:
@@ -44,6 +49,14 @@ aliases:
 
 ![[@Guile1998-yz]]
 
+![[@Guile2010-cq]]
+
+![[@Guile2010-gs]]
+
+![[@Guile2010-uc]]
+
+![[@Guile2010-yp]]
+
 ![[@Guile2017-qd]]
 
 ![[@Guile2019-co]]
@@ -55,5 +68,7 @@ aliases:
 ![[@Hoeve2019-ip]]
 
 ![[@Pilz2019-py]]
+
+![[@Spinuzzi2019-aa]]
 
 ![[@Stuart2019-wg]]

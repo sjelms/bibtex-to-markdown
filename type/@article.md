@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-05T15:17:22
+amended: 2026-04-05T15:18:03
 ---
 
 # Directory
@@ -41,6 +41,7 @@ amended: 2026-04-05T15:17:22
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished - A Home Is Not A House]]
+- [[@Hohns2022-lx|The Social Construction Of Vocational Education - Possibilities For Change Towards Status Improvement]]
 - [[@Darlow2022-gi|Automation In New Zealand's Offsite Construction (OSC) - A Status Update]]
 - [[@Knight2022-si|A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?]]
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
@@ -101,6 +102,7 @@ amended: 2026-04-05T15:17:22
 - [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
 - [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities]]
 - [[@Daniel2019-pz|Apprenticeship For Craftspeople In The Construction Industry - A State-Of-The-Art Review]]
+- [[@Hodgson2019-vu|Taxonomic Definitions In Social Science, With Firms, Markets And Institutions As Case Studies]]
 - [[@Randhawa2019-so|The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals]]
 - [[@Nassereddine2019-ox|Augmented Reality-Enabled Production Strategy Process]]
 - [[@Shanbari2019-ig|Use Of Video Games To Enhance Construction Management Education]]
@@ -131,10 +133,12 @@ amended: 2026-04-05T15:17:22
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
+- [[@Kivunja2017-zr|Understanding And Applying Research Paradigms In Educational Contexts]]
 - [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
 - [[@Guile2017-qd|Apprenticeship For ‘liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment]]
 - [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
+- [[@Sanzogni2017-bw|Artificial Intelligence And Knowledge Management - Questioning The Tacit Dimension]]
 - [[@Gambin2017-tq|Employers And Apprenticeships In England - Costs, Risks And Policy Reforms]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
@@ -148,6 +152,7 @@ amended: 2026-04-05T15:17:22
 - [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 - [[@Shanbari2016-ch|Using Augmented Reality Video In Enhancing Masonry And Roof Component Comprehension For Construction Management Students]]
 - [[@Cai2016-tp|The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists]]
+- [[@Robert-Isaksen2016-ko|Reclaiming Rational Theory Choice As Central - A Critique Of Methodological Applications Of Critical Realism]]
 - [[@Mylopoulos2016-cz|Preparation For Future Learning - A Missing Competency In Health Professions Education?]]
 - [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]
 - [[@Brandner2016-wd|Cross Laminated Timber (CLT) - Overview And Development]]
@@ -190,6 +195,7 @@ amended: 2026-04-05T15:17:22
 - [[@Jarkas2012-fy|Factors Affecting Construction Labor Productivity In Kuwait]]
 - [[@King_Chun2012-rk|The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage]]
 - [[@Goulding2012-op|Construction Industry Offsite Production - A Virtual Reality Interactive Training Environment Prototype]]
+- [[@Scotland2012-lw|Exploring The Philosophical Underpinnings Of Research - Relating Ontology And Epistemology To The Methodology And Methods Of The Scientific, Interpretive, And Critical Research Paradigms]]
 - [[@Vertesi2012-qa|Seeing Like A Rover - Visualization, Embodiment, And Interaction On The Mars Exploration Rover Mission]]
 - [[@Bergold2012-te|Participatory Research Methods - A Methodological Approach In Motion]]
 - [[@Ord2012-tv|John Dewey And Experiential Learning - Developing The Theory Of Youth Work]]
@@ -259,6 +265,7 @@ amended: 2026-04-05T15:17:22
 ### 2002
 - [[@Moodie2002-nc|Identifying Vocational Education And Training]]
 - [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
+- [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
 - [[@Prensky2002-ml|The Motivation Of Gameplay - The Real 21st Century Learning Revolution]]
 ### 2001
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-05T15:17:22
+amended: 2026-04-05T15:18:03
 ---
 
 # Directory
@@ -78,6 +78,7 @@ amended: 2026-04-05T15:17:22
 - [[@Boltanski2021-jq|On Justification - Economies Of Worth]]
 - [[@Mazzucato2021-ht|Mission Economy - A Moonshot Guide To Changing Capitalism]]
 - [[@Ford2021-hl|Rule Of The Robots - How Artificial Intelligence Will Transform Everything]]
+- [[@Denscombe2021-wl|The Good Research Guide - Research Methods For Small-Scale Social Research Projects]]
 - [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
 - [[@Brockmann2021-ls|On- And Off-The-Job Training In Apprenticeships In England]]
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
@@ -115,6 +116,7 @@ amended: 2026-04-05T15:17:22
 ### 2019
 - [[@Danermark2019-uv|Explaining Society - Critical Realism In The Social Sciences]]
 - [[@Frey2019-yf|The Technology Trap - Capital, Labor, And Power In The Age Of Automation]]
+- [[@Lowery2019-jp|The Handbook Of Dewey’s Educational Theory And Practice]]
 - [[@Kuang2019-nv|User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work & Play]]
 - [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 - [[@Epstein2019-yy|Range - Why Generalists Triumph In A Specialized World]]
@@ -231,6 +233,7 @@ amended: 2026-04-05T15:17:22
 - [[@Winch2012-wv|Dimensions Of Expertise - A Conceptual Exploration Of Vocational Knowledge]]
 - [[@Laurillard2012-lh|Teaching As A Design Science - Building Pedagogical Patterns For Learning And Technology]]
 - [[@Goodman2012-np|Observing The User Experience - A Practitioner's Guide To User Research]]
+- [[@Daniels2012-jd|Vygotsky And Sociology]]
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
 - [[@Loosemore2012-eb|Human Resource Management In Construction Critical Perspectives]]
@@ -254,6 +257,7 @@ amended: 2026-04-05T15:17:22
 - [[@Armstrong2011-wm|The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (published In Hardcover As Neurodiversity)]]
 ### 2010
 - [[@Bryson2010-zi|At Home - A Short History Of Private Life]]
+- [[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
 - [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 - [[@Hammersley2010-oe|Methodology - Who Needs It?]]
 - [[@Smith2010-we|Prefab Architecture A Guide To Modular Design And Construction]]

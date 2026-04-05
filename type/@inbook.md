@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-05T15:17:22
+amended: 2026-04-05T15:18:03
 ---
 
 # Directory
@@ -123,6 +123,10 @@ amended: 2026-04-05T15:17:22
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
+### 2010
+- [[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]
+- [[@Guile2010-gs|Preliminary Material]]
+- [[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
 ## 2000-2009
 ### 2009
 - [[@Herod2009-pg|Labor Unionism]]

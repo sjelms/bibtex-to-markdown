@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-04-05T15:17:22
+amended: 2026-04-05T15:18:03
 ---
 
 # Directory
@@ -16,6 +16,7 @@ amended: 2026-04-05T15:17:22
 ## 2010-2019
 ### 2019
 - [[@Kamaleeva2019-cr|Cognitive Map Of The Pedagogical Situation As A Component Of The Pedagogical Situation Cognitive Model (as Exemplified By Analyzing Natural Science And Vocational Training In Colleges Of The Republic Of Tatarstan)]]
+- [[@Spinuzzi2019-aa|Fourth-Generation Activity Theory - An Integrative Literature Review And Implications For Professional Communication]]
 - [[@Zhang2019-bm|Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC]]
 - [[@Wolf2019-ff|Case Study On Mobile Virtual Reality Construction Training]]
 - [[@Humble2019-rg|Artificial Intelligence In Education – A Promise, A Threat Or A Hype?]]
