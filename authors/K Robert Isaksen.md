@@ -10,8 +10,8 @@ aliases:
 ## K Robert Isaksen
 
 ### Content:
-[[@Robert-Isaksen2016-ko|Reclaiming Rational Theory Choice As Central]]
+[[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central]]
 
 #### Bibliography:
 
-![[@Robert-Isaksen2016-ko]]
+![[@Isaksen2016-sg]]

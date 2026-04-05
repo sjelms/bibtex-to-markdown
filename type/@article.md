@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-05T15:18:03
+amended: 2026-04-05T15:19:18
 ---
 
 # Directory
@@ -152,7 +152,7 @@ amended: 2026-04-05T15:18:03
 - [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 - [[@Shanbari2016-ch|Using Augmented Reality Video In Enhancing Masonry And Roof Component Comprehension For Construction Management Students]]
 - [[@Cai2016-tp|The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists]]
-- [[@Robert-Isaksen2016-ko|Reclaiming Rational Theory Choice As Central - A Critique Of Methodological Applications Of Critical Realism]]
+- [[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central - A Critique Of Methodological Applications Of Critical Realism]]
 - [[@Mylopoulos2016-cz|Preparation For Future Learning - A Missing Competency In Health Professions Education?]]
 - [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]
 - [[@Brandner2016-wd|Cross Laminated Timber (CLT) - Overview And Development]]

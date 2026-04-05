@@ -11,4 +11,4 @@ category:
 
 ### Content:
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
-[[@Robert-Isaksen2016-ko|Reclaiming Rational Theory Choice As Central]]
+[[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central]]
