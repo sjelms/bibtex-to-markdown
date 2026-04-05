@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-04-05T08:35:01
+amended: 2026-04-05T08:53:40
 ---
 
 # Directory
@@ -21,6 +21,7 @@ amended: 2026-04-05T08:35:01
 - [[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
 - [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
+- [[@Jones2019-ks|A Framework For Assessing Interventions To Promote The Implementation Of Material Innovations On Construction Projects]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
 - [[@Duncheva2019-gn|Offsite Timber Systems Multi-Factor Productivity Index]]
 ### 2018
