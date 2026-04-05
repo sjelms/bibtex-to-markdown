@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-04-05T08:53:40
+amended: 2026-04-05T14:16:00
 ---
 
 # Directory
@@ -18,7 +18,7 @@ amended: 2026-04-05T08:53:40
 - [[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma) - Reframing The Design-Production Relationship In Industrialised Construction]]
 ## 2010-2019
 ### 2019
-- [[@Vermeer2019-xk|Collective Learning In Strategic Public Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
+- [[@Vermeer2019-xk|Collective Learning In Strategic Public-Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
 - [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
 - [[@Jones2019-ks|A Framework For Assessing Interventions To Promote The Implementation Of Material Innovations On Construction Projects]]
