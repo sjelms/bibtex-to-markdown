@@ -16,6 +16,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - Research-Methods
 ---
 

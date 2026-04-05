@@ -17,6 +17,7 @@ type: "[[@inbook]]"
 tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - PhD-Support-and-Training
 ---
 

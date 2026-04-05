@@ -11,6 +11,7 @@ tags:
   - Theory-and-Methods
   - Grounded-Theory
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - Research-Methods
   - _New-Literature
   - QDA

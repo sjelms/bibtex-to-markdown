@@ -11,6 +11,7 @@ tags:
   - EPubs-Books
   - Theory-and-Methodology-in-Social-and-Educational-Research
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - Research-Methods
   - Fieldwork-Methodology
   - PhD-Support-and-Training

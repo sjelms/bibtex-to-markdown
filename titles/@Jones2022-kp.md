@@ -20,6 +20,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
+  - Critical-Realism
   - _In-Notion
   - _In-Readwise
   - AEC

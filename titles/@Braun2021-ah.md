@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Speechify
   - Qualitative-Analysis-QDA
+  - Critical-Realism
   - Research-Methods
   - _New-Literature
   - Book-physical

@@ -15,6 +15,7 @@ tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - Audible
+  - Critical-Realism
   - Audiobook
   - Research-Methods
   - ePub

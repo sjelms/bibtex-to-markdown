@@ -18,6 +18,7 @@ tags:
   - EPubs-Books
   - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - _New-Literature
   - Workplace-Learning
   - ePub

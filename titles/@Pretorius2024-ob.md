@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
+  - Critical-Realism
   - PhD-Support-and-Training
   - Fieldwork-Methodology
 ---
