@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-05T16:53:00
+amended: 2026-04-05T17:12:32
 ---
 
 # Directory
@@ -125,6 +125,7 @@ amended: 2026-04-05T16:53:00
 - [[@Muller2019-zm|The Tyranny Of Metrics]]
 - [[@Boughton2019-vx|Municipal Dreams - The Rise And Fall Of Council Housing]]
 - [[@Lawson2019-tt|Design In Modular Construction]]
+- [[@Saunders2019-gm|Research Methods For Business Students]]
 - [[@Miles2019-xd|Qualitative Data Analysis - A Methods Sourcebook]]
 - [[@Mitchell2019-zu|Artificial Intelligence - A Guide For Thinking Humans]]
 - [[@Lambert2019-qv|Practical Research Methods In Education - An Early Researcher's Critical Guide]]
@@ -160,6 +161,7 @@ amended: 2026-04-05T16:53:00
 ### 2017
 - [[@McAfee2017-zh|Machine, Platform, Crowd - Harnessing The Digital Revolution - Harnessing Our Digital Future]]
 - [[@Macy2017-gr|Factory Man - How One Furniture Maker Battled Offshoring, Stayed Local – And Helped Save An American Town]]
+- [[@Lee2017-tr|Conducting Case Study Research For Business And Management Students]]
 - [[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
 - [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Childers2017-ps|The Riddle Of The Sands]]
