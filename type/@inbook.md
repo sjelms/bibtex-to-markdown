@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-06T08:28:51
+amended: 2026-04-06T14:03:33
 ---
 
 # Directory
@@ -133,6 +133,8 @@ amended: 2026-04-06T08:28:51
 - [[@Nadim2009-tv|Virtual Reality Interactive Learning Environment]]
 ### 2008
 - [[@Armstrong2008-wr|From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House]]
+### 2007
+- [[@Forman2007-cf|Qualitative Content Analysis]]
 ### 2006
 - [[@Bruner2006-bj|The Act Of Discovery (1961)]]
 ### 2004
