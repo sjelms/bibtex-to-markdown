@@ -50,6 +50,7 @@ category:
 [[@Kuckartz2014-st|Qualitative Text Analysis]]
 [[@Kuckartz2023-rj|Qualitative Content Analysis]]
 [[@Kumar2019-dp|Research Methodology]]
+[[@Lee2017-tr|Conducting Case Study Research For Business And Management Students]]
 [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 [[@Mayring2021-ud|Qualitative Content Analysis]]
