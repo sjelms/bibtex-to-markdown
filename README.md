@@ -220,6 +220,15 @@ Re-run with `--update-frontmatter-only` while debugging to avoid losing note bod
 
 ---
 
+## 🔒 Local Environment
+
+To ensure local files always reflect the remote state and prevent accidental overrides, this repository is configured as **read-only** on this local machine.
+
+- **Pre-push Hook:** Implemented on April 7, 2026. Any attempt to `git push` will be blocked by a `.git/hooks/pre-push` script to maintain synchronization integrity.
+- **Sync Strategy:** Always `git pull` or `git fetch && git reset --hard origin/main` to sync with the host.
+
+---
+
 ## Contributing
 
 Issues and pull requests are welcome. Please open a GitHub issue if you spot a bug, have a question about the workflow, or want to propose an enhancement.
