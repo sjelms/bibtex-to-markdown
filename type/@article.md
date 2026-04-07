@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-07T14:38:17
+amended: 2026-04-07T15:32:47
 ---
 
 # Directory
@@ -242,6 +242,7 @@ amended: 2026-04-07T14:38:17
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]
 - [[@Wing2006-tj|Computational Thinking]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
+- [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
 - [[@Braun2006-my|Using Thematic Analysis In Psychology]]
 ### 2005
