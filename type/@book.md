@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-07T16:16:13
+amended: 2026-04-07T16:37:05
 ---
 
 # Directory
@@ -284,6 +284,7 @@ amended: 2026-04-07T16:16:13
 ### 2006
 - [[@Lawson2006-pz|How Designers Think]]
 - [[@Levy2006-si|The New Division Of Labor - How Computers Are Creating The Next Job Market]]
+- [[@Young2006-fl|Knowledge, Curriculum And Qualifications For South African Further Education]]
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
 ### 2005
 - [[@Danermark2005-wo|Explaining Society - An Introduction To Critical Realism In The Social Sciences]]

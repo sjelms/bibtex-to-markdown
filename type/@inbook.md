@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-07T16:16:13
+amended: 2026-04-07T16:37:05
 ---
 
 # Directory
@@ -137,6 +137,7 @@ amended: 2026-04-07T16:16:13
 ### 2007
 - [[@Forman2007-cf|Qualitative Content Analysis]]
 ### 2006
+- [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 - [[@Bruner2006-bj|The Act Of Discovery (1961)]]
 ### 2004
 - [[@Fuller2004-ys|Conclusion]]
