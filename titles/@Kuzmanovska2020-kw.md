@@ -14,13 +14,13 @@ type: "[[@phdthesis]]"
 tags:
   - DfMA
   - Design-for-Manufacture-and-Assembly
-  - Building-Design
   - Industrialised-Construction
   - Industrialised-Building
   - Agricultural-Engineering
   - Building-not-elsewhere-classified
   - Architectural-Design
   - Design
+  - building-design
   - Construction-4-0
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
