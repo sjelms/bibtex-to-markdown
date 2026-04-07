@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-07T15:45:17
+amended: 2026-04-07T16:12:19
 ---
 
 # Directory
@@ -279,6 +279,7 @@ amended: 2026-04-07T15:45:17
 ### 2007
 - [[@Pursell2007-xe|The Machine In America - A Social History Of Technology]]
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
+- [[@Young2007-eo|Bringing Knowledge Back In - From Social Constructivism To Social Realism In The Sociology Of Education]]
 - [[@Feynman2007-tl|What Do You Care What Other People Think? Further Adventures Of A Curious Character]]
 ### 2006
 - [[@Lawson2006-pz|How Designers Think]]

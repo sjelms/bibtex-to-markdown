@@ -119,5 +119,6 @@ category:
 [[@Wallance2021-so|The Future Of Modular Architecture]]
 [[@Wallbank2018-dj|Academic Writing And Dyslexia]]
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
+[[@Young2007-eo|Bringing Knowledge Back In]]
 [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
 [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
