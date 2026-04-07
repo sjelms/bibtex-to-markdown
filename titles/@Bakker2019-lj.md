@@ -16,9 +16,11 @@ tags:
   - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - ERC-ex-re
   - ePub
   - UCL
   - Book-child
+  - Workplace-Learning
 ---
 
 > [!bibliography]

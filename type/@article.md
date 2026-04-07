@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-07T15:40:02
+amended: 2026-04-07T15:45:17
 ---
 
 # Directory
@@ -208,6 +208,7 @@ amended: 2026-04-07T15:40:02
 - [[@VanLehn2011-cd|The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems]]
 - [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The UK]]
 - [[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
+- [[@Akkerman2011-tw|Boundary Crossing And Boundary Objects]]
 - [[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
 ### 2010
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
