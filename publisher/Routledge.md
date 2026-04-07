@@ -53,6 +53,7 @@ category:
 [[@Glass2022-ms|Transforming Construction]]
 [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction]]
 [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
+[[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
 [[@Guo2023-nr|A Conceptual Framework For Behaviour-Based Safety In The Digital Era]]
 [[@Guo2023-wc|Computer Vision–Based Management Of Construction Workers' Unsafe Behaviour]]
 [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]

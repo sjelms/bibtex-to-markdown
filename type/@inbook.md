@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-07T15:32:47
+amended: 2026-04-07T15:40:02
 ---
 
 # Directory
@@ -106,6 +106,7 @@ amended: 2026-04-07T15:32:47
 - [[@Setiawan2016-qz|Grounded Theory Style Analysis In Action - Utilising Multi-Layer Methods In Developing Built Environment Response To Social Conflicts In Indonesia]]
 ### 2014
 - [[@Harteis2014-go|New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning]]
+- [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective]]
 - [[@Goller2014-jx|Agentic Behaviour At Work - Crafting Learning Experiences]]
 - [[@Goller2014-mf|Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences]]
 ### 2013
