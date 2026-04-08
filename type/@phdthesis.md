@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-04-08T11:37:21
+amended: 2026-04-08T11:37:43
 ---
 
 # Directory
@@ -25,6 +25,7 @@ amended: 2026-04-08T11:37:21
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
 - [[@Duncheva2019-gn|Offsite Timber Systems Multi-Factor Productivity Index]]
 ### 2018
+- [[@Rouncefield-Swales2018-ms|Apprentice To Graduate - A Narrative Study Into The Progression Experience Of Advanced Apprentice]]
 - [[@Scollard2018-go|Updating Vocational Curriculum In Two Year Diploma Programs At One Ontario College Of Applied Arts And Technology To Align With Current Industry Practices]]
 ### 2016
 - [[@Arthur2016-np|The Impact Of Systems Differentiation And Affect Heuristics In Intuitive Construction Risk Management Decision Making Systems]]

@@ -22,3 +22,4 @@ category:
 [[@King_Chun2012-rk|The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage]]
 [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
 [[@Prensky2002-ml|The Motivation Of Gameplay]]
+[[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships]]

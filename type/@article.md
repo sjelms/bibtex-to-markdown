@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-08T11:37:21
+amended: 2026-04-08T11:37:43
 ---
 
 # Directory
@@ -22,6 +22,7 @@ amended: 2026-04-08T11:37:21
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Avis2024-dn|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
+- [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace - Applying And Augmenting Communities Of Practice Theory]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
@@ -31,6 +32,7 @@ amended: 2026-04-08T11:37:21
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
+- [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
