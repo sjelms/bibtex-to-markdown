@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
@@ -21,6 +22,8 @@ aliases:
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead2007-kc]]
 
 ![[@Felstead2009-kt]]
 

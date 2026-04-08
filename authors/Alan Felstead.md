@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
@@ -24,6 +25,8 @@ aliases:
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead2007-kc]]
 
 ![[@Felstead2009-kt]]
 

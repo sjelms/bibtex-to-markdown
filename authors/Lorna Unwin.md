@@ -16,6 +16,7 @@ aliases:
 [[@Bishop2009-co|Constructing Learning]]
 [[@Broad2019-rn|Capturing The Elusive]]
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
+[[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
@@ -23,7 +24,9 @@ aliases:
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
+[[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2008-fn|Towards Expansive Apprenticeships]]
 [[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
@@ -59,6 +62,8 @@ aliases:
 
 ![[@Durham2019-js]]
 
+![[@Felstead2007-kc]]
+
 ![[@Felstead2009-kt]]
 
 ![[@Felstead2011-az]]
@@ -73,7 +78,11 @@ aliases:
 
 ![[@Fuller2004-kn]]
 
+![[@Fuller2005-xm]]
+
 ![[@Fuller2006-ki]]
+
+![[@Fuller2008-fn]]
 
 ![[@Fuller2009-vx]]
 

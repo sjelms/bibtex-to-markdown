@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-08T11:37:03
+amended: 2026-04-08T11:37:21
 ---
 
 # Directory
@@ -104,6 +104,8 @@ amended: 2026-04-08T11:37:03
 - [[@Ahmed2016-gk|Choosing An Appropriate Research Methodology And Method]]
 - [[@Ahmed2016-sy|Getting Ready For Your Research - Setting The Scene]]
 - [[@Setiawan2016-qz|Grounded Theory Style Analysis In Action - Utilising Multi-Layer Methods In Developing Built Environment Response To Social Conflicts In Indonesia]]
+### 2015
+- [[@Fuller2015-fh|Vocational Education]]
 ### 2014
 - [[@Harteis2014-go|New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning]]
 - [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective]]

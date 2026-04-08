@@ -1,6 +1,6 @@
 ---
 author: "Alison Fuller"
-institution: "The Gatsby Charitable Foundation"
+institution: "Teaching and Learning Research Programme"
 field:
 type:
 aliases:
@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
@@ -20,12 +21,15 @@ aliases:
 [[@Fuller2004-kj|Workplace Learning In Context]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2004-ys|Conclusion]]
+[[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2008-fn|Towards Expansive Apprenticeships]]
 [[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2013-sa|Apprenticeship And The Concept Of Occupation]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
+[[@Fuller2015-fh|Vocational Education]]
 [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 [[@Fuller2016-el|Developing Expertise]]
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
@@ -37,6 +41,8 @@ aliases:
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead2007-kc]]
 
 ![[@Felstead2009-kt]]
 
@@ -56,7 +62,11 @@ aliases:
 
 ![[@Fuller2004-ys]]
 
+![[@Fuller2005-xm]]
+
 ![[@Fuller2006-ki]]
+
+![[@Fuller2008-fn]]
 
 ![[@Fuller2009-vx]]
 
@@ -67,6 +77,8 @@ aliases:
 ![[@Fuller2013-sa]]
 
 ![[@Fuller2014-ea]]
+
+![[@Fuller2015-fh]]
 
 ![[@Fuller2015-wk]]
 

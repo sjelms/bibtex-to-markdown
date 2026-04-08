@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-08T11:37:03
+amended: 2026-04-08T11:37:21
 ---
 
 # Directory
@@ -247,6 +247,7 @@ amended: 2026-04-08T11:37:03
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
 - [[@Braun2006-my|Using Thematic Analysis In Psychology]]
 ### 2005
+- [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice - A Reassessment Of Key Concepts In Workplace Learning]]
 - [[@Baylor2005-hh|Simulating Instructional Roles Through Pedagogical Agents]]
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
