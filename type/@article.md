@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-09T13:57:18
+amended: 2026-04-09T14:06:52
 ---
 
 # Directory
@@ -277,6 +277,7 @@ amended: 2026-04-09T13:57:18
 - [[@Young2001-ct|Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
 - [[@Camp2001-nh|Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research]]
+- [[@Engestrom2001-my|Expansive Learning At Work - Toward An Activity-Theoretical Reconceptualization]]
 ### 2000
 - [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 - [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training - Evidence From The Literature]]

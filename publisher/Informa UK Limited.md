@@ -17,6 +17,7 @@ category:
 [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
+[[@Engestrom2001-my|Expansive Learning At Work]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
