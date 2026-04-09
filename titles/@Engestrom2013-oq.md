@@ -13,6 +13,10 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - _New-Literature
+  - Book-child
+  - Cross-Ref-Chapter
+  - Workplace-Learning
+  - ePub
 ---
 
 > [!bibliography]
