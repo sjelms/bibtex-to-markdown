@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-09T10:11:46
+amended: 2026-04-09T13:57:18
 ---
 
 # Directory
@@ -291,6 +291,7 @@ amended: 2026-04-09T10:11:46
 - [[@Cook1999-yi|Bridging Epistemologies - The Generative Dance Between Organizational Knowledge And Organizational Knowing]]
 ### 1998
 - [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]
+- [[@Sfard1998-bo|On Two Metaphors For Learning And The Dangers Of Choosing Just One]]
 - [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
 - [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
 - [[@Butler1998-ph|The Learning Context Within Technical And Further Education Colleges As Perceived By Apprentices And Their Workplace Supervisors]]
