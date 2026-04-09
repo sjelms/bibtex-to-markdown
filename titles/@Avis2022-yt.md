@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Avis, James. 2022. “Anti-work, TVET and employer engagement.” [[Informa UK Limited]]. http://dx.doi.org/10.1080/13639080.2022.2092606
+> Avis, James. 2022. “Anti-work, TVET and employer engagement.” [[Informa UK Limited]]. https://www.tandfonline.com/doi/abs/10.1080/13639080.2022.2092606
 
 > [!abstract]
 > The paper seeks to bring together a range of debates on the left that address TVET’s1 future in the light of different tendencies within capitalism. At the heart of these debates rest two issues. T...
