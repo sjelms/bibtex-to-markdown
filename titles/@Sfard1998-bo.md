@@ -10,6 +10,8 @@ publisher: "[[American Educational Research Association AERA]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Education
+  - Knowledge-Skill-Acquisition
 ---
 
 > [!bibliography]
