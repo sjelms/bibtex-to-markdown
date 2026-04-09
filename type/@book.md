@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-09T14:35:08
+amended: 2026-04-09T14:36:03
 ---
 
 # Directory
@@ -250,6 +250,7 @@ amended: 2026-04-09T14:35:08
 - [[@Cline2011-qy|Ready Player One]]
 - [[@Van-Maanen2011-bf|Tales Of The Field - On Writing Ethnography]]
 - [[@Williams2011-ov|Completing Your Phd]]
+- [[@Malloch2011-nf|The SAGE Handbook Of Workplace Learning]]
 - [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
 - [[@Feynman2011-tz|Six Easy Pieces - Essentials Of Physics Explained By Its Most Brilliant Teacher]]
 - [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
@@ -260,7 +261,6 @@ amended: 2026-04-09T14:35:08
 ### 2010
 - [[@Bryson2010-zi|At Home - A Short History Of Private Life]]
 - [[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
-- [[@Malloch2010-fj|The SAGE Handbook Of Workplace Learning]]
 - [[@Hammersley2010-oe|Methodology - Who Needs It?]]
 - [[@Smith2010-we|Prefab Architecture A Guide To Modular Design And Construction]]
 - [[@Dubner2010-ee|Superfreakonomics - Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance]]
