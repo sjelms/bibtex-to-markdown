@@ -1,6 +1,6 @@
 ---
 author: "Christian Bücker"
-institution: "Porsche Consulting GmbH and Autodesk"
+institution: "Porsche Consulting GmbH; Autodesk"
 field:
 type:
 aliases:
