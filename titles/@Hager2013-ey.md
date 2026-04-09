@@ -28,6 +28,7 @@ tags:
   - _In-Readwise
   - Cross-Ref-Chapter
   - Readwise-Reader
+  - Book-child
 ---
 
 > [!bibliography]

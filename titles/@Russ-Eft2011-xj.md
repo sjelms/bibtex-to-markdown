@@ -30,6 +30,7 @@ tags:
   - Workplace-Learning
   - _New-Literature
   - Cross-Ref-Chapter
+  - Book-child
 ---
 
 > [!bibliography]

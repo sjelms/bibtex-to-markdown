@@ -19,6 +19,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - Cross-Ref-Chapter
+  - Book-child
 ---
 
 > [!bibliography]

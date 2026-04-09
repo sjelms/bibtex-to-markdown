@@ -23,6 +23,7 @@ tags:
   - _In-Readwise
   - ePub
   - Book-parent
+  - Book-child
 ---
 
 > [!bibliography]
