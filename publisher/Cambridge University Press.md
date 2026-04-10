@@ -19,3 +19,4 @@ category:
 [[@Mayer2021-in|The Cambridge Handbook Of Multimedia Learning]]
 [[@Parong2021-uo|Multimedia Learning In Virtual And Mixed Reality]]
 [[@Vindrola-Padros2021-by|Rapid Ethnographies]]
+[[@Wenger1999-mt|Communities Of Practice]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-10T07:22:57
+amended: 2026-04-10T09:15:51
 ---
 
 # Directory
@@ -302,6 +302,7 @@ amended: 2026-04-10T07:22:57
 - [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
+- [[@Wenger1999-mt|Communities Of Practice - Learning, Meaning, And Identity]]
 - [[@Engestrom1999-iv|When The Center Does Not Hold - The Importance Of Knotworking]]
 ### 1998
 - [[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
@@ -324,6 +325,8 @@ amended: 2026-04-10T07:22:57
 - [[@Dreyfus1988-pf|Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer]]
 - [[@Zierold1988-ae|Environmental Lobbyist In California’s Capital, 1965–1984]]
 - [[@Zuboff1988-mo|In The Age Of The Smart Machine - The Future Of Work And Power]]
+### 1987
+- [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
 ### 1986
 - [[@Silver1986-dj|Under Construction - Work And Alienation In The Building Trades]]
 ### 1984
