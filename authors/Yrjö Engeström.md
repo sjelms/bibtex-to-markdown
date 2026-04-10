@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Daniels2013-pa|Activity Theory In Practice]]
+[[@Engestrom1987-gi|Learning By Expanding]]
 [[@Engestrom1994-tr|Training For Change]]
 [[@Engestrom1999-iv|When The Center Does Not Hold]]
 [[@Engestrom2001-my|Expansive Learning At Work]]
@@ -20,6 +21,8 @@ aliases:
 #### Bibliography:
 
 ![[@Daniels2013-pa]]
+
+![[@Engestrom1987-gi]]
 
 ![[@Engestrom1994-tr]]
 
