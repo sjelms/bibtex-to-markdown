@@ -10,8 +10,11 @@ aliases:
 ## Lev S Vygotsky
 
 ### Content:
+[[@Vygotsky1934-rh|Thought And Language]]
 [[@Vygotsky1978-pz|Mind In Society]]
 
 #### Bibliography:
+
+![[@Vygotsky1934-rh]]
 
 ![[@Vygotsky1978-pz]]

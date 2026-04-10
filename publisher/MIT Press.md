@@ -15,3 +15,4 @@ category:
 [[@Levesque2017-dz|Common Sense, The Turing Test, And The Quest For Real AI]]
 [[@Norman2013-mt|The Design Of Everyday Things]]
 [[@Sudnow1978-tk|Ways Of The Hand]]
+[[@Vygotsky1934-rh|Thought And Language]]

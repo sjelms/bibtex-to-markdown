@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - ePub
+  - Knowledge-Skill-Acquisition
 ---
 
 > [!bibliography]

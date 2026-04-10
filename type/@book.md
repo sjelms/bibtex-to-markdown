@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-10T10:16:56
+amended: 2026-04-10T10:45:34
 ---
 
 # Directory
@@ -361,6 +361,9 @@ amended: 2026-04-10T10:16:56
 ## 1950-1959
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
+## 1930-1939
+### 1934
+- [[@Vygotsky1934-rh|Thought And Language]]
 ## 1920-1929
 ### 1926
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]
