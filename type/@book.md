@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-10T10:09:33
+amended: 2026-04-10T10:16:56
 ---
 
 # Directory
@@ -49,6 +49,7 @@ amended: 2026-04-10T10:09:33
 - [[@Johnson2023-la|Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity]]
 - [[@Kuckartz2023-rj|Qualitative Content Analysis - Methods, Practice, And Software]]
 - [[@Abiad2023-gb|How To Write Your Phd Thesis - The Easy Handbook]]
+- [[@Wenger2023-la|Communities Of Practice Within And Across Organizations - A Guidebook]]
 ### 2022
 - [[@Weber-Lewerenz2022-ow|Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI]]
 - [[@Donovan2022-wg|The Anti-Planner - How To Get Sh*t Done When You Don't Feel Like It]]
