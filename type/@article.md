@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-10T10:53:13
+amended: 2026-04-10T11:18:10
 ---
 
 # Directory
@@ -231,6 +231,7 @@ amended: 2026-04-10T10:53:13
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
+- [[@Billett2008-kx|Learning Through Work - Exploring Instances Of Relational Interdependencies]]
 - [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 - [[@Wang2008-rq|Craft Training Issues In American Industrial And Commercial Construction]]
 ### 2007
