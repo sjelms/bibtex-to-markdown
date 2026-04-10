@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-10T06:48:56
+amended: 2026-04-10T07:22:57
 ---
 
 # Directory
@@ -273,6 +273,7 @@ amended: 2026-04-10T06:48:56
 - [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
 - [[@Prensky2002-ml|The Motivation Of Gameplay - The Real 21st Century Learning Revolution]]
 ### 2001
+- [[@Stasz2001-io|Assessing Skills For Work - Two Perspectives]]
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Young2001-ct|Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
