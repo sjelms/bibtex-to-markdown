@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-10T09:15:51
+amended: 2026-04-10T10:08:59
 ---
 
 # Directory
@@ -302,8 +302,8 @@ amended: 2026-04-10T09:15:51
 - [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
-- [[@Wenger1999-mt|Communities Of Practice - Learning, Meaning, And Identity]]
 - [[@Engestrom1999-iv|When The Center Does Not Hold - The Importance Of Knotworking]]
+- [[@Wenger1999-mt|Communities Of Practice - Learning, Meaning, And Identity]]
 ### 1998
 - [[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
 ### 1997
