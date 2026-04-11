@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-11T09:42:18
+amended: 2026-04-11T10:04:59
 ---
 
 # Directory
@@ -320,6 +320,7 @@ amended: 2026-04-11T09:42:18
 ## 1980-1989
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
+- [[@Brown1989-lt|Situated Cognition And The Culture Of Learning]]
 ### 1988
 - [[@Gott1988-dw|Chapter 3 - Apprenticeship Instruction For Real-World Tasks - The Coordination Of Procedures, Mental Models, And Strategies]]
 ### 1987
