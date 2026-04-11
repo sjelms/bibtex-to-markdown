@@ -23,6 +23,7 @@ tags:
   - Workplace-Learning
   - _New-Literature
   - _In-ClickUp
+  - Book-parent
 ---
 
 > [!bibliography]
