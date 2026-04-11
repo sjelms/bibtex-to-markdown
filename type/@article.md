@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-11T10:13:59
+amended: 2026-04-11T16:17:20
 ---
 
 # Directory
@@ -278,6 +278,7 @@ amended: 2026-04-11T10:13:59
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Young2001-ct|Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
+- [[@Billett2001-xo|Learning Through Work - Workplace Affordances And Individual Engagement]]
 - [[@Camp2001-nh|Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research]]
 - [[@Engestrom2001-my|Expansive Learning At Work - Toward An Activity-Theoretical Reconceptualization]]
 ### 2000

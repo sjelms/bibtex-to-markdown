@@ -10,6 +10,7 @@ category:
 ## Emerald
 
 ### Content:
+[[@Billett2001-xo|Learning Through Work]]
 [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
 [[@Bishop2020-ox|Firm Size And Workplace Learning Processes]]
 [[@Brennan2019-ve|100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation]]

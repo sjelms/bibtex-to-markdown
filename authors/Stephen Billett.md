@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
+[[@Billett2001-xo|Learning Through Work]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
@@ -26,6 +27,8 @@ aliases:
 #### Bibliography:
 
 ![[@Billett1996-pa]]
+
+![[@Billett2001-xo]]
 
 ![[@Billett2003-kh]]
 
