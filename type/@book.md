@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-11T16:18:07
+amended: 2026-04-11T16:55:35
 ---
 
 # Directory
@@ -337,6 +337,8 @@ amended: 2026-04-11T16:18:07
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]
 ### 1982
 - [[@Olson1982-xs|The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities]]
+### 1981
+- [[@Leont-ev1981-zf|Problems Of The Development Of The Mind]]
 ### 1980
 - [[@Salvadori1980-nu|Why Buildings Stand Up - The Strength Of Architecture]]
 ## 1970-1979
