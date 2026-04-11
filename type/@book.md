@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-11T10:04:59
+amended: 2026-04-11T10:13:59
 ---
 
 # Directory
@@ -295,6 +295,7 @@ amended: 2026-04-11T10:04:59
 - [[@Warhurst2004-qq|The Skills That Matter]]
 - [[@Goldratt2004-gr|The Goal - A Process Of Ongoing Improvement]]
 ### 2002
+- [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
 ### 2001
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
