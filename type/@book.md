@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-11T16:58:42
+amended: 2026-04-11T17:00:22
 ---
 
 # Directory
@@ -338,7 +338,7 @@ amended: 2026-04-11T16:58:42
 ### 1982
 - [[@Olson1982-xs|The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities]]
 ### 1981
-- [[@Nikolayevich1981-xj|Problems Of The Development Of The Mind]]
+- [[@Leontiev1981-qv|Problems Of The Development Of The Mind]]
 ### 1980
 - [[@Salvadori1980-nu|Why Buildings Stand Up - The Strength Of Architecture]]
 ## 1970-1979
