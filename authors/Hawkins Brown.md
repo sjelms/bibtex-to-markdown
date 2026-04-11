@@ -10,7 +10,7 @@ aliases:
 ## Hawkins Brown
 
 ### Content:
-[[@Brown2021-vh|Research By Gesign]]
+[[@Brown2021-vh|Research By Design]]
 
 #### Bibliography:
 

@@ -10,7 +10,7 @@ aliases:
 ## Rob Hyde
 
 ### Content:
-[[@Brown2021-vh|Research By Gesign]]
+[[@Brown2021-vh|Research By Design]]
 [[@Claypool2021-wg|Automation, Architecture, And Labour]]
 [[@Hahm2021-ee|Augmenting Human Designers And Builders]]
 [[@Hyde2021-ai|Design Studio Vol. 2]]
