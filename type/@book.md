@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-11T16:17:20
+amended: 2026-04-11T16:18:07
 ---
 
 # Directory
@@ -280,6 +280,7 @@ amended: 2026-04-11T16:17:20
 ### 2007
 - [[@Pursell2007-xe|The Machine In America - A Social History Of Technology]]
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
+- [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
 - [[@Young2007-eo|Bringing Knowledge Back In - From Social Constructivism To Social Realism In The Sociology Of Education]]
 - [[@Feynman2007-tl|What Do You Care What Other People Think? Further Adventures Of A Curious Character]]
 ### 2006
