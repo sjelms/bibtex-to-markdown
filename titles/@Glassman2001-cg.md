@@ -6,7 +6,7 @@ key: "[[@Glassman2001-cg]]"
 aliases:
   - Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice
   - Dewey And Vygotsky
-journal: "[[Educational researcher]]"
+journal: "[[Educational Researcher]]"
 publisher: "[[SAGE Publications]]"
 type: "[[@article]]"
 tags:
