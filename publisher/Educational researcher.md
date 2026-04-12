@@ -10,5 +10,4 @@ category:
 ## Educational researcher
 
 ### Content:
-[[@Boote2005-kh|Scholars Before Researchers]]
 [[@Glassman2001-cg|Dewey And Vygotsky]]
