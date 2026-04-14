@@ -13,6 +13,7 @@ tags:
   - 00_TO-READ
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Thesis
   - _In-Readwise
   - Essential

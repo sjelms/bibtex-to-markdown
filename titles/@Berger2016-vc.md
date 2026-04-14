@@ -12,6 +12,7 @@ type: "[[@report]]"
 tags:
   - Future-of-Work
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - Economics

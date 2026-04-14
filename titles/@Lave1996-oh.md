@@ -13,6 +13,7 @@ tags:
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Research-Methods
   - _New-Literature
   - _In-Notion

@@ -14,6 +14,7 @@ tags:
   - Notion-Catalogued
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Scaffolding
   - Knowledge-Skill-Acquisition
   - _Cataloged

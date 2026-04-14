@@ -13,6 +13,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - Speechify
+  - llm-wiki-workflow
   - Artificial-Intelligence-AI
   - PhD-Support-and-Training
   - Research-Methods

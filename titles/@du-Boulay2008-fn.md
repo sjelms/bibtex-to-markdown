@@ -14,6 +14,7 @@ type: "[[@inproceedings]]"
 tags:
   - BSSC-Seed-Fund-for-AI-Research
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS
   - Artificial-Intelligence-AI
   - AIEd

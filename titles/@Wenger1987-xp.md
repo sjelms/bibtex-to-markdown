@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - BSSC-Seed-Fund-for-AI-Research
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AIEd
   - _New-Literature
   - Intelligent-Tutoring-Systems-ITS

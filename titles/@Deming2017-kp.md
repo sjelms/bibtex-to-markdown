@@ -10,6 +10,7 @@ publisher: "[[Oxford University Press OUP]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Labor
   - Economics
 ---

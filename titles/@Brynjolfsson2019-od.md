@@ -16,6 +16,7 @@ publisher: "[[University of Chicago Press]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Economics
   - Artificial-Intelligence-AI
   - Future-of-Work

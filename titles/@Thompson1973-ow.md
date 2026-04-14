@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Occupational-choice
   - VET
   - Workplace-Learning

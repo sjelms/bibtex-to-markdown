@@ -12,6 +12,7 @@ type: "[[@report]]"
 tags:
   - Government-Report
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Politics-and-Society
   - Economics
   - AEC

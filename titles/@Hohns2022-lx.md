@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Critical-Realism
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - VET
 ---

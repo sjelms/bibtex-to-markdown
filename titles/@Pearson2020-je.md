@@ -10,6 +10,7 @@ publisher: "[[Liverpool University Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

@@ -16,6 +16,7 @@ tags:
   - VET-TVET
   - 00_TO-READ
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Readwise
   - Workplace-Learning
   - VET

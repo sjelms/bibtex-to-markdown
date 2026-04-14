@@ -15,6 +15,7 @@ type: "[[@article]]"
 tags:
   - Learning-in-Immersive-Virtual-Reality
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _XR-MR-VR-AR
 ---
 

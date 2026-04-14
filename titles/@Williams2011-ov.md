@@ -15,6 +15,7 @@ type: "[[@book]]"
 tags:
   - Pocket-Study-Skills
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - RNIB
   - PhD-Support-and-Training
 ---

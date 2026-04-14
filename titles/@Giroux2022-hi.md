@@ -10,6 +10,7 @@ publisher: "[[Bloomsbury Academic]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - RNIB
   - Politics-and-Society
 ---

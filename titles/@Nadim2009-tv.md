@@ -18,6 +18,7 @@ type: "[[@inbook]]"
 tags:
   - Open-Building-Manufacturing-Book
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _XR-MR-VR-AR
   - AEC
   - Workplace-Learning

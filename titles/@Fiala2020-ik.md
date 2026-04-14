@@ -13,6 +13,7 @@ type: "[[@inproceedings]]"
 tags:
   - TCOT-2024
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Readwise
   - _XR-MR-VR-AR
   - AEC

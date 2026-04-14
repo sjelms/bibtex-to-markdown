@@ -16,6 +16,7 @@ tags:
   - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - UCL

@@ -13,6 +13,7 @@ tags:
   - VET-TVET
   - ERC-ex-re
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
   - _In-Notion
   - _In-Readwise

@@ -16,6 +16,7 @@ tags:
   - Notion-Catalogued
   - TCOT-2024
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - _XR-MR-VR-AR
   - _In-Readwise

@@ -10,6 +10,7 @@ institution: "[[University of the West of England]]"
 type: "[[@phdthesis]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Thesis
   - VET
   - Important

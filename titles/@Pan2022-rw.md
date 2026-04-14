@@ -15,6 +15,7 @@ type: "[[@article]]"
 tags:
   - JG_Recommended
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Robots
   - Artificial-Intelligence-AI

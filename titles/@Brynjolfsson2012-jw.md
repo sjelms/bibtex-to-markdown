@@ -12,6 +12,7 @@ publisher: "[[MIT Sloan School of Management]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

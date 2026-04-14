@@ -9,6 +9,7 @@ aliases:
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
 ---

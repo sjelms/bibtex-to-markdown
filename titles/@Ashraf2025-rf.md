@@ -12,6 +12,7 @@ publisher: "[[National Bureau of Economic Research]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Future-of-Work
   - Workplace-Learning
   - Essential

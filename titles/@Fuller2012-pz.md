@@ -19,6 +19,7 @@ tags:
   - The-Knowledge-Economy-and-Lifelong-Learning-2012
   - _BibTex-to-MD-Git
   - Critical-Realism
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - VET

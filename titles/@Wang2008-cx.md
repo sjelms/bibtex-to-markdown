@@ -11,6 +11,7 @@ type: "[[@thesis]]"
 tags:
   - Frontiers-2022
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Labor
   - Cited-for-Frontiers

@@ -14,6 +14,7 @@ type: "[[@article]]"
 tags:
   - BSSC-Seed-Fund-for-AI-Research
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
 ---
 

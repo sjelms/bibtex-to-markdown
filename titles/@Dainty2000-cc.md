@@ -17,6 +17,7 @@ tags:
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Research-Methods
   - VET
   - Book-child

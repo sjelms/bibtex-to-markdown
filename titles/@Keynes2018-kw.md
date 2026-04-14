@@ -10,6 +10,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Speechify
+  - llm-wiki-workflow
   - Economics
 ---
 

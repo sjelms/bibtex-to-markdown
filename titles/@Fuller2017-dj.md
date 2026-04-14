@@ -16,6 +16,7 @@ type: "[[@report]]"
 tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - UCL

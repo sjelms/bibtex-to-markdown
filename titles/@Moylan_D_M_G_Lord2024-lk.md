@@ -11,6 +11,7 @@ type: "[[@report]]"
 tags:
   - Government-Report
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - AEC

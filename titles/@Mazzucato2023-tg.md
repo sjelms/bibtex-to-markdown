@@ -12,6 +12,7 @@ type: "[[@report]]"
 tags:
   - UCL-Institute-for-Innovation-and-Public-Purpose-IIPP
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - UCL
   - Economics
 ---

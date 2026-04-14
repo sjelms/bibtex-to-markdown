@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - ERC-ex-re
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
   - Workplace-Learning
 ---

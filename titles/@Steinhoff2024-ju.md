@@ -11,6 +11,7 @@ publisher: "[[Bristol University Press]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Labor
   - Economics
 ---

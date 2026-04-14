@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Book-physical
   - AEC
 ---

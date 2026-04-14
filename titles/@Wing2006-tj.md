@@ -11,6 +11,7 @@ type: "[[@article]]"
 tags:
   - 00_TO-READ
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Readwise
   - HCI
   - ACM

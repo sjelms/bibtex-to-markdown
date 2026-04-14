@@ -10,6 +10,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Future-of-Work
   - Workplace-Learning
   - VET

@@ -11,6 +11,7 @@ publisher: "[[Springer Science+Business Media]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Readwise-Reader
 ---
 

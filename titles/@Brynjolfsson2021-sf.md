@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - Future-of-Work
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Economics
   - Technological-change
   - _In-Notion

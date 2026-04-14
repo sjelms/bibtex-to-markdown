@@ -16,6 +16,7 @@ type: "[[@inbook]]"
 tags:
   - Oxford-Handbook-of-Skills-and-Training
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - ePub
   - Workplace-Learning
   - VET

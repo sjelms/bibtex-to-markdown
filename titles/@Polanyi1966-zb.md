@@ -9,6 +9,7 @@ publisher: "[[University of Chicago Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

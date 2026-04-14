@@ -13,6 +13,7 @@ tags:
   - VET-TVET
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Readwise
   - Workplace-Learning
   - VET

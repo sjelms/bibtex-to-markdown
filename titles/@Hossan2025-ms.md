@@ -15,6 +15,7 @@ type: "[[@article]]"
 tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Research-Methods
   - PhD-Support-and-Training
 ---

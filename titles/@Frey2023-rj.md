@@ -12,6 +12,7 @@ publisher: "[[Brown University]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - Artificial-Intelligence-AI

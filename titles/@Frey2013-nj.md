@@ -17,6 +17,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Future-of-Work
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Employment
   - Occupational-choice
   - Skill-demand

@@ -13,6 +13,7 @@ type: "[[@inproceedings]]"
 tags:
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Sensory-Processing
   - VET
 ---

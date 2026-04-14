@@ -17,6 +17,7 @@ tags:
   - 00_TO-READ
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Readwise
   - _New-Literature
   - AEC

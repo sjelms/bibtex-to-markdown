@@ -9,6 +9,7 @@ institution: "[[Construction Industry Training Board]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - AEC

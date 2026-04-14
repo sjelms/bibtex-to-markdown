@@ -15,6 +15,7 @@ type: "[[@inproceedings]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _Mark-Up
   - _XR-MR-VR-AR
   - _Cataloged

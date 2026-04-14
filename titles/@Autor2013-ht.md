@@ -13,6 +13,7 @@ tags:
   - Journal-Articles
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _New-Literature
   - _Cataloged
   - _In-Readwise

@@ -16,6 +16,7 @@ tags:
   - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise

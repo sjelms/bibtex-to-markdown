@@ -17,6 +17,7 @@ type: "[[@inbook]]"
 tags:
   - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - UCL
   - _In-Notion
   - _In-Readwise

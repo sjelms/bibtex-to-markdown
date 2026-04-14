@@ -19,6 +19,7 @@ tags:
   - Education
   - Critical-Realism
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - Education

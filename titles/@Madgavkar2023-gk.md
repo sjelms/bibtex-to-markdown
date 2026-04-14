@@ -20,6 +20,7 @@ type: "[[@report]]"
 tags:
   - Deloitte-McKinsey-EY-PWC
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Future-of-Work
   - Workplace-Learning
 ---

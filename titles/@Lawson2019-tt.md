@@ -11,6 +11,7 @@ publisher: "[[CRC Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
 ---
 

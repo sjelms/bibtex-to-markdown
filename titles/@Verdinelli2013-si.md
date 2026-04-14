@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Qualitative-Analysis-QDA
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - QDA
 ---
 

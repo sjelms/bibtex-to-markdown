@@ -11,6 +11,7 @@ publisher: "[[University of Illinois Urbana Champaign]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
 ---
 

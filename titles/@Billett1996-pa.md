@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
 ---
 

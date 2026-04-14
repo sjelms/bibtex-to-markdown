@@ -14,6 +14,7 @@ publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - VET
   - Labor

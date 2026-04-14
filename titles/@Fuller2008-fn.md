@@ -11,6 +11,7 @@ institution: "[[Teaching and Learning Research Programme]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
   - Workplace-Learning
   - UCL

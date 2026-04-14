@@ -16,6 +16,7 @@ type: "[[@report]]"
 tags:
   - ERC-ex-re
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - UCL
 ---

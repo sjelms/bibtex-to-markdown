@@ -19,6 +19,7 @@ tags:
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - VET
 ---

@@ -14,6 +14,7 @@ type: "[[@inproceedings]]"
 tags:
   - International-Association-for-Automation-and-Robotics-in-Construction-IAARC
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _Mark-Up
   - AEC
 ---

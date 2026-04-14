@@ -10,6 +10,7 @@ publisher: "[[American Psychological Association APA]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

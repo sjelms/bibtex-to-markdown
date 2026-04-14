@@ -20,6 +20,7 @@ tags:
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Knowledge-Skill-Acquisition
   - Training
   - VET

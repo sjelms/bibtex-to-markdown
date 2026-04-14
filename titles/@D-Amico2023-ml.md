@@ -14,6 +14,7 @@ type: "[[@report]]"
 tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Labor
   - Economics

@@ -13,6 +13,7 @@ publisher: "[[BCS Learning and Development]]"
 type: "[[@inproceedings]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - _New-Literature

@@ -14,6 +14,7 @@ tags:
   - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
   - _In-Notion
   - _In-Readwise

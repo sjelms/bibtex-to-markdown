@@ -12,6 +12,7 @@ publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Workplace-Learning
   - _In-Notion
   - _In-Readwise

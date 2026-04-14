@@ -10,6 +10,7 @@ publisher: "[[Gatsby Charitable Foundation]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - UCL

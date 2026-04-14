@@ -12,6 +12,7 @@ type: "[[@book]]"
 tags:
   - Grounded-Theory
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

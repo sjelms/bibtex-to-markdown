@@ -14,6 +14,7 @@ type: "[[@article]]"
 tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Technological-change
   - _In-Notion

@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Labor
   - _Mark-Up

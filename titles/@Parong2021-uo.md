@@ -21,6 +21,7 @@ tags:
   - Multimedia-completed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _XR-MR-VR-AR
   - Multimedia
   - _Mark-Up

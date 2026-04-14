@@ -18,6 +18,7 @@ type: "[[@article]]"
 tags:
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - VET

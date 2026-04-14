@@ -12,6 +12,7 @@ tags:
   - PhD-Study-and-Support
   - Theory-and-Methods
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - PhD-Support-and-Training
   - Research-Methods
 ---

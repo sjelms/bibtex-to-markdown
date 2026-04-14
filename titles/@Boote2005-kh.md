@@ -14,6 +14,7 @@ tags:
   - Information-and-Digital-Literacies
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Digital-Literacies
   - _Mark-Up
 ---

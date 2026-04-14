@@ -11,6 +11,7 @@ publisher: "[[Emerald]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
 ---

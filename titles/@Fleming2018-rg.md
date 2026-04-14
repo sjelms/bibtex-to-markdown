@@ -11,6 +11,7 @@ type: "[[@article]]"
 tags:
   - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - Fieldwork-Methodology

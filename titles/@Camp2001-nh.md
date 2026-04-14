@@ -14,6 +14,7 @@ tags:
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - _New-Literature

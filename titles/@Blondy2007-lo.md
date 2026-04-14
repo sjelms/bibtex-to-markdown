@@ -10,6 +10,7 @@ type: "[[@article]]"
 tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Andragogy
   - _New-Literature
   - _Mark-Up

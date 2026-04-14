@@ -10,6 +10,7 @@ publisher: "[[Elsevier]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - VET
   - Workplace-Learning
   - UCL

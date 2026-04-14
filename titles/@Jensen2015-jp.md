@@ -11,6 +11,7 @@ journal: "[[International Journal of Mass Customisation]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
 ---
 

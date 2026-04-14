@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - Research-Methods

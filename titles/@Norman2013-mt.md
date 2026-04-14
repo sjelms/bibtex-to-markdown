@@ -12,6 +12,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Audible
+  - llm-wiki-workflow
   - ePub
   - Book-physical
   - Audiobook

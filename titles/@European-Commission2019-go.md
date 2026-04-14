@@ -10,6 +10,7 @@ publisher: "[[Publications Office of the European Union]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

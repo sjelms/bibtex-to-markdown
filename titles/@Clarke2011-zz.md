@@ -12,6 +12,7 @@ type: "[[@inproceedings]]"
 tags:
   - Frontiers-2022
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - AEC
   - Labor
 ---

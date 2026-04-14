@@ -21,6 +21,7 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - Critical-Realism
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - AEC

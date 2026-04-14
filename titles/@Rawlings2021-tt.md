@@ -9,6 +9,7 @@ journal: "[[Artillery Magazine]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]

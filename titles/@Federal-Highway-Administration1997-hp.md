@@ -10,6 +10,7 @@ type: "[[@dataset]]"
 tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
 ---
 
 > [!bibliography]
