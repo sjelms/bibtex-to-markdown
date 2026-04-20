@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-20T14:54:55
+amended: 2026-04-20T15:11:46
 ---
 
 # Directory
@@ -215,6 +215,7 @@ amended: 2026-04-20T14:54:55
 ### 2010
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
 - [[@Bell2010-gt|Performance Gains From Speech-Enhanced Simulation In Military Flying Training]]
+- [[@Shook2010-ni|How To Change A Culture - Lessons From NUMMI]]
 ## 2000-2009
 ### 2009
 - [[@Sparks2009-cr|Advanced Entry Adult Apprenticeship Training Scheme - A Case Study]]
@@ -227,6 +228,7 @@ amended: 2026-04-20T14:54:55
 - [[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
 - [[@Nadim2009-px|Offsite Production In The UK - The Construction Industry And Academia]]
 ### 2008
+- [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures - The Case Of NUMMI And General Motors]]
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
@@ -252,6 +254,7 @@ amended: 2026-04-20T14:54:55
 ### 2005
 - [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice - A Reassessment Of Key Concepts In Workplace Learning]]
 - [[@Baylor2005-hh|Simulating Instructional Roles Through Pedagogical Agents]]
+- [[@Inkpen2005-zr|Learning Through Alliances - General Motors And NUMMI]]
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]

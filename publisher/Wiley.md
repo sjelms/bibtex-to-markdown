@@ -16,6 +16,7 @@ category:
 [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Goller2020-or|Engineering Students' Learning During Internships]]
+[[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures]]
 [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 [[@Pink2013-ju|Short-Term Ethnography]]
 [[@Rankin2024-wd|Embodied GHG Of Missing Middle]]

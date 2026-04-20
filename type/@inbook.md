@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-20T14:54:55
+amended: 2026-04-20T15:11:46
 ---
 
 # Directory
@@ -170,6 +170,9 @@ amended: 2026-04-20T14:54:55
 ## 1970-1979
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
+## 1940-1949
+### 1949
+- [[@Merton1949-hs|On Sociological Theories Of The Middle Range]]
 ## 1880-1889
 ### 1887
 - [[@Huxley1887-mi|Technical Education]]

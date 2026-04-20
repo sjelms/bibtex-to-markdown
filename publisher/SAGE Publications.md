@@ -44,6 +44,7 @@ category:
 [[@Hager2013-ey|Theories Of Workplace Learning]]
 [[@Hamilton2012-vy|Using Case Study In Education Research]]
 [[@Hammersley2010-oe|Methodology]]
+[[@Inkpen2005-zr|Learning Through Alliances]]
 [[@Killingsworth2013-qe|Synergy]]
 [[@King2013-vv|The Pictor Technique]]
 [[@King2019-nk|Template Analysis For Business And Management Students]]
