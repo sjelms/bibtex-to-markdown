@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-20T15:16:26
+amended: 2026-04-20T15:20:45
 ---
 
 # Directory
@@ -59,6 +59,7 @@ amended: 2026-04-20T15:16:26
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
 ### 2021
 - [[@Venkatesh2021-uz|Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions]]
+- [[@Priya2021-bq|Case Study Methodology Of Qualitative Research - Key Attributes And Navigating The Conundrums In Its Application]]
 - [[@Brucker_Juricic2021-ba|Review Of The Construction Labour Demand And Shortages In The EU]]
 - [[@D-Amico2021-rh|Global Potential For Material Substitution In Building Construction - The Case Of Cross Laminated Timber]]
 - [[@Boton2021-cz|What Is At The Root Of Construction 4.0 - A Systematic Review Of The Recent Research Effort]]
