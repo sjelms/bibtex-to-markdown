@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-21T10:52:32
+amended: 2026-04-21T10:53:05
 ---
 
 # Directory
@@ -266,6 +266,7 @@ amended: 2026-04-21T10:52:32
 ### 2004
 - [[@Hevner2004-zn|Design Science In Information Systems Research]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
+- [[@Gibbons2004-de|Task-Specific Human Capital]]
 - [[@Millhauser2004-jd|Cat 'n' Mouse]]
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]
 ### 2003
