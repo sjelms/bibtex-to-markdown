@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-21T10:53:05
+amended: 2026-04-21T14:28:13
 ---
 
 # Directory
@@ -374,6 +374,8 @@ amended: 2026-04-21T10:53:05
 ## 1920-1929
 ### 1926
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]
+### 1923
+- [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
 ## 1910-1919
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
