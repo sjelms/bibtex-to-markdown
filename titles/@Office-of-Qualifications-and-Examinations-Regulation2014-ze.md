@@ -3,7 +3,7 @@ title: What qualification levels mean
 year: 2014
 author - 1: "[[Office of Qualifications and Examinations Regulation]]"
 key: "[[@Office-of-Qualifications-and-Examinations-Regulation2014-ze]]"
-booktitle: Office of Qualifications and Examinations Regulation;
+booktitle: Office of Qualifications and Examinations Regulation (OfQual)
 aliases:
   - What Qualification Levels Mean
 type: "[[@online]]"
