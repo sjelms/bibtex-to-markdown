@@ -15,6 +15,7 @@ category:
 [[@Chi2001-nu|Learning From Human Tutoring]]
 [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
+[[@Goffin2011-sn|Tacit Knowledge, Lessons Learnt, And New Product Development]]
 [[@Goller2020-or|Engineering Students' Learning During Internships]]
 [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures]]
 [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]

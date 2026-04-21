@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-21T09:37:28
+amended: 2026-04-21T10:36:14
 ---
 
 # Directory
@@ -208,6 +208,7 @@ amended: 2026-04-21T09:37:28
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
 - [[@Poortman2011-zl|Apprenticeship - From Learning Theory To Practice]]
 - [[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
+- [[@Goffin2011-sn|Tacit Knowledge, Lessons Learnt, And New Product Development]]
 - [[@VanLehn2011-cd|The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems]]
 - [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The UK]]
 - [[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
