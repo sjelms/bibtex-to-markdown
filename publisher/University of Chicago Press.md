@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]
+[[@Becker1993-eu|Human Capital]]
 [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox]]
 [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
 [[@Polanyi1966-zb|The Tacit Dimension]]

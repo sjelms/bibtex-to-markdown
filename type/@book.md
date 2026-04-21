@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-21T10:36:14
+amended: 2026-04-21T10:52:32
 ---
 
 # Directory
@@ -318,6 +318,8 @@ amended: 2026-04-21T10:36:14
 ### 1994
 - [[@Lofland1994-iu|Analyzing Social Settings - A Guide To Qualitative Observation And Analysis]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
+### 1993
+- [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
 ### 1992
 - [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
 ### 1991
