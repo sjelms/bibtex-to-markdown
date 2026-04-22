@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
   - _Cataloged
+  - Readwise-Reader
 ---
 
 > [!bibliography]
