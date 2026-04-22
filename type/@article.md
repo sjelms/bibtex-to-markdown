@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-22T06:57:36
+amended: 2026-04-22T07:07:49
 ---
 
 # Directory
@@ -39,7 +39,6 @@ amended: 2026-04-22T06:57:36
 ### 2022
 - [[@Mishra2022-pg|Land Use Change And Carbon Emissions Of A Transformation To Timber Cities]]
 - [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
-- [[@Davis2022-wq|Expert–Novice - Discourses On Learning In Education]]
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished - A Home Is Not A House]]
