@@ -3,6 +3,9 @@ title: Expansive Learning Environments -  Integrating Organizational and Persona
 year: 2004
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Fuller2004-kn]]"
 booktitle: Workplace Learning in Context
 aliases:
