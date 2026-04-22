@@ -30,6 +30,7 @@ tags:
   - Skill-demand
   - Labor
   - _Cataloged
+  - Essential
 ---
 
 > [!bibliography]
