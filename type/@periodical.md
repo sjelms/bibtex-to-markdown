@@ -1,6 +1,6 @@
 ---
 type: "[[@periodical]]"
-amended: 2026-04-22T07:10:56
+amended: 2026-04-22T07:11:18
 ---
 
 # Directory
