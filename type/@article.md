@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-23T13:33:20
+amended: 2026-04-23T13:34:11
 ---
 
 # Directory
@@ -166,6 +166,7 @@ amended: 2026-04-23T13:33:20
 - [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations]]
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
+- [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Coenen2015-pe|The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes]]
