@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-28T09:17:11
+amended: 2026-04-28T09:22:53
 ---
 
 # Directory
@@ -229,7 +229,6 @@ amended: 2026-04-28T09:17:11
 - [[@Mills2013-uv|Ethnography In Education]]
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
 - [[@Daniels2013-pa|Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies]]
-- [[@Kalantzis2013-gv|New Learning - Elements Of A Science Of Education]]
 - [[@Miles2013-dz|Qualitative Data Analysis - A Methods Sourcebook]]
 - [[@Yin2013-yq|Case Study Research - Design And Methods]]
 ### 2012
@@ -241,6 +240,7 @@ amended: 2026-04-28T09:17:11
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
 - [[@Loosemore2012-eb|Human Resource Management In Construction Critical Perspectives]]
+- [[@Kalantzis2012-vd|New Learning - Elements Of A Science Of Education]]
 - [[@Yglesias2012-ep|The Rent Is Too Damn High - What To Do About It, And Why It Matters More Than You Think]]
 - [[@Smith2012-oh|Instructional Design]]
 - [[@Hager2012-dh|Practice, Learning And Change - Practice-Theory Perspectives On Professional Learning]]
