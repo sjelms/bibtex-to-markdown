@@ -10,6 +10,7 @@ publisher: "[[John Wiley and Sons]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - RNIB
   - Knowledge-Skill-Acquisition
 ---
