@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-04-28T13:20:09
+amended: 2026-04-28T14:14:03
 ---
 
 # Directory
@@ -357,6 +357,9 @@ amended: 2026-04-28T13:20:09
 ## 1960-1969
 ### 1961
 - [[@Bruner1961-tg|The Act Of Discovery]]
+## 1910-1919
+### 1913
+- [[@Watson1913-pc|Psychology As The Behaviorist Views It]]
 ## 1890-1899
 ### 1894
 - [[@Kirkpatrick1894-yk|An Experimental Study Of Memory]]
