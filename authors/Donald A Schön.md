@@ -10,10 +10,13 @@ aliases:
 ## Donald A Schön
 
 ### Content:
+[[@Argyris1974-nb|Theory In Practice]]
 [[@Schon1984-nn|The Reflective Practitioner]]
 [[@Schon1987-om|Educating The Reflective Practitioner]]
 
 #### Bibliography:
+
+![[@Argyris1974-nb]]
 
 ![[@Schon1984-nn]]
 

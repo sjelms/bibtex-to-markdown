@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-28T12:48:01
+amended: 2026-04-28T13:09:07
 ---
 
 # Directory
@@ -356,6 +356,7 @@ amended: 2026-04-28T12:48:01
 ### 1975
 - [[@Bhaskar1975-rq|A Realist Theory Of Science]]
 ### 1974
+- [[@Argyris1974-nb|Theory In Practice - Increasing Professional Effectiveness]]
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
 ### 1973
 - [[@Berne1973-ik|Games People Play - The Psychology Of Human Relationships]]
