@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-28T13:09:07
+amended: 2026-04-28T13:18:28
 ---
 
 # Directory
@@ -327,6 +327,8 @@ amended: 2026-04-28T13:09:07
 ### 1991
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
+### 1990
+- [[@Marsick1990-un|Informal And Incidental Learning In The Workplace]]
 ## 1980-1989
 ### 1988
 - [[@Dreyfus1988-pf|Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer]]
