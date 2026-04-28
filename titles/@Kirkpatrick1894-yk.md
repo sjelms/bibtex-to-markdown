@@ -5,7 +5,7 @@ author - 1: "[[Edwin A Kirkpatrick]]"
 key: "[[@Kirkpatrick1894-yk]]"
 aliases:
   - An Experimental Study Of Memory
-journal: "[[Psychological review]]"
+journal: "[[Psychological Review]]"
 publisher: "[[American Psychological Association APA]]"
 type: "[[@article]]"
 tags:

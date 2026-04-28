@@ -7,7 +7,7 @@ author - 3: "[[Clemens Tesch-Römer]]"
 key: "[[@Ericsson1993-vq]]"
 aliases:
   - The Role Of Deliberate Practice In The Acquisition Of Expert Performance
-journal: "[[Psychological review]]"
+journal: "[[Psychological Review]]"
 publisher: "[[American Psychological Association APA]]"
 type: "[[@article]]"
 tags:
