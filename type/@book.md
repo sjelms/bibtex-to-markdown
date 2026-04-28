@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-23T13:34:11
+amended: 2026-04-28T09:17:11
 ---
 
 # Directory
@@ -229,6 +229,7 @@ amended: 2026-04-23T13:34:11
 - [[@Mills2013-uv|Ethnography In Education]]
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
 - [[@Daniels2013-pa|Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies]]
+- [[@Kalantzis2013-gv|New Learning - Elements Of A Science Of Education]]
 - [[@Miles2013-dz|Qualitative Data Analysis - A Methods Sourcebook]]
 - [[@Yin2013-yq|Case Study Research - Design And Methods]]
 ### 2012

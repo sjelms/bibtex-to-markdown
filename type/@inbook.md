@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-04-23T13:34:11
+amended: 2026-04-28T09:17:11
 ---
 
 # Directory
@@ -123,6 +123,17 @@ amended: 2026-04-23T13:34:11
 ### 2012
 - [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
+- [[@Kalantzis2012-vw|Introduction]]
+- [[@Kalantzis2012-bi|Knowledge And Learning]]
+- [[@Kalantzis2012-kr|Learner Personalities]]
+- [[@Kalantzis2012-ox|Learning Civics]]
+- [[@Kalantzis2012-ow|Learning Communities At Work]]
+- [[@Kalantzis2012-hd|Learning For Work]]
+- [[@Kalantzis2012-xe|Life In Schools]]
+- [[@Kalantzis2012-nl|Measuring Learning]]
+- [[@Kalantzis2012-oe|New Learning]]
+- [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
+- [[@Kalantzis2012-wb|The Nature Of Learning]]
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
