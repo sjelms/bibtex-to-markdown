@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-28T11:55:31
+amended: 2026-04-28T12:48:01
 ---
 
 # Directory
@@ -333,11 +333,13 @@ amended: 2026-04-28T11:55:31
 - [[@Zierold1988-ae|Environmental Lobbyist In California’s Capital, 1965–1984]]
 - [[@Zuboff1988-mo|In The Age Of The Smart Machine - The Future Of Work And Power]]
 ### 1987
+- [[@Schon1987-om|Educating The Reflective Practitioner - Toward A New Design For Teaching And Learning In The Professions]]
 - [[@Engestrom1987-gi|Learning By Expanding - An Activity-Theoretical Approach To Developmental Research]]
 - [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
 ### 1986
 - [[@Silver1986-dj|Under Construction - Work And Alienation In The Building Trades]]
 ### 1984
+- [[@Schon1984-nn|The Reflective Practitioner - How Professionals Think In Action]]
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]
 ### 1982
 - [[@Olson1982-xs|The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities]]
