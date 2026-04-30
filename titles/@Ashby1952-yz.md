@@ -10,6 +10,7 @@ publisher: "[[Chapman and Hall]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Psychology
 ---
 
