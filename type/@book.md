@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-30T14:15:11
+amended: 2026-04-30T15:43:54
 ---
 
 # Directory
@@ -378,6 +378,8 @@ amended: 2026-04-30T14:15:11
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
 ## 1930-1939
+### 1938
+- [[@Dewey1938-kx|Experience And Education]]
 ### 1934
 - [[@Vygotsky1934-rh|Thought And Language]]
 ## 1920-1929
