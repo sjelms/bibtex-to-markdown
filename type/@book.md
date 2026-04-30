@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-04-30T12:27:49
+amended: 2026-04-30T14:14:12
 ---
 
 # Directory
@@ -382,6 +382,7 @@ amended: 2026-04-30T12:27:49
 - [[@Vygotsky1934-rh|Thought And Language]]
 ## 1920-1929
 ### 1926
+- [[@Lindeman1926-ln|The Meaning Of Adult Education]]
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]
 ### 1923
 - [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
