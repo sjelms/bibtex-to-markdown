@@ -13,6 +13,8 @@ tags:
   - 2021-12-03-Frontiers
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
+  - Knowledge-Skill-Acquisition
 ---
 
 > [!bibliography]
