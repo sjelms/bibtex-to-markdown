@@ -10,4 +10,4 @@ category:
 ## Harvard Education Publishing Group
 
 ### Content:
-[[@Bruner1961-tg|The Act Of Discovery BAD]]
+[[@Bruner1961-ca|The Act Of Discovery]]

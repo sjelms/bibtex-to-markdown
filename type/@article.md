@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-01T11:55:49
+amended: 2026-05-01T11:56:45
 ---
 
 # Directory
@@ -357,7 +357,6 @@ amended: 2026-05-01T11:55:49
 ## 1960-1969
 ### 1961
 - [[@Bruner1961-ca|The Act Of Discovery]]
-- [[@Bruner1961-tg|The Act Of Discovery BAD]]
 ## 1910-1919
 ### 1913
 - [[@Watson1913-pc|Psychology As The Behaviorist Views It]]
