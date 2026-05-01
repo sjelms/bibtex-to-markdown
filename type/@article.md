@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-01T11:30:11
+amended: 2026-05-01T11:55:07
 ---
 
 # Directory
@@ -356,8 +356,8 @@ amended: 2026-05-01T11:30:11
 - [[@Carbonell1970-ty|AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
 ## 1960-1969
 ### 1961
-- [[@Bruner1961-tg|The Act Of Discovery]]
 - [[@Bruner1961-ca|The Act Of Discovery]]
+- [[@Bruner1961-tg|The Act Of Discovery BAD]]
 ## 1910-1919
 ### 1913
 - [[@Watson1913-pc|Psychology As The Behaviorist Views It]]

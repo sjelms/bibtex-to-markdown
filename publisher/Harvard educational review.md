@@ -1,13 +1,13 @@
 ---
-name: Harvard Education Publishing Group
+name: Harvard educational review
 aliases:
 see also:
 tags:
 category:
-  - publisher
+  - journal
 ---
 
-## Harvard Education Publishing Group
+## Harvard educational review
 
 ### Content:
 [[@Bruner1961-tg|The Act Of Discovery BAD]]
