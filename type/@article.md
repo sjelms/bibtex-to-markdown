@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-01T09:29:58
+amended: 2026-05-01T11:19:15
 ---
 
 # Directory
@@ -356,6 +356,7 @@ amended: 2026-05-01T09:29:58
 - [[@Carbonell1970-ty|AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
 ## 1960-1969
 ### 1961
+- [[@Bruner1961-ca|The Act Of Discovery]]
 - [[@Bruner1961-tg|The Act Of Discovery]]
 ## 1910-1919
 ### 1913

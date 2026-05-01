@@ -10,14 +10,14 @@ aliases:
 ## Jerome S Bruner
 
 ### Content:
+[[@Bruner1961-ca|The Act Of Discovery]]
 [[@Bruner1961-tg|The Act Of Discovery]]
-[[@Bruner2006-bj|The Act Of Discovery (1961)]]
 [[@Wood1976-cd|The Role Of Tutoring In Problem Solving]]
 
 #### Bibliography:
 
-![[@Bruner1961-tg]]
+![[@Bruner1961-ca]]
 
-![[@Bruner2006-bj]]
+![[@Bruner1961-tg]]
 
 ![[@Wood1976-cd]]

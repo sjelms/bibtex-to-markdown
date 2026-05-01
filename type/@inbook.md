@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-01T09:29:58
+amended: 2026-05-01T11:19:15
 ---
 
 # Directory
@@ -151,7 +151,6 @@ amended: 2026-05-01T09:29:58
 - [[@Forman2007-cf|Qualitative Content Analysis]]
 ### 2006
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
-- [[@Bruner2006-bj|The Act Of Discovery (1961)]]
 ### 2004
 - [[@Fuller2004-ys|Conclusion]]
 - [[@Fuller2004-kn|Expansive Learning Environments - Integrating Organizational And Personal Development]]
