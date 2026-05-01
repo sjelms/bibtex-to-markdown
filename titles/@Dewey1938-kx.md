@@ -9,6 +9,7 @@ publisher: "[[Kappa Delta Pi]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - llm-wiki-workflow
   - Philosophy-of-Education
   - Education
   - Columbia-University
