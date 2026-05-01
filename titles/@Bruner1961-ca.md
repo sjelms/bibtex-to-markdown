@@ -16,6 +16,7 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
   - 003_Theoretical-Framework
+  - Journal-Articles
   - Cited-for-Frontiers
   - Knowledge-Skill-Acquisition
 ---
