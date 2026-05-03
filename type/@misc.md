@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-05-03T16:24:28
+amended: 2026-05-03T16:47:33
 ---
 
 # Directory
@@ -75,6 +75,7 @@ amended: 2026-05-03T16:24:28
 - [[@Benson2015-xz|Explaining The RQF]]
 ### 2014
 - [[@Halaburda2014-dw|The Limits Of Scale]]
+- [[@Pinker2014-vh|Why Academics Stink At Writing]]
 - [[@Tallinn_University2014-wg|Tacit And Explicit Knowledge | Key Concepts In Information And Knowledge Management]]
 ### 2013
 - [[@Arieff2013-rp|Prefab Lives!]]
