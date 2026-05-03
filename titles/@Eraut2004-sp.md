@@ -2,6 +2,9 @@
 title: Transfer of Knowledge Between Education and Workplace Settings
 year: 2004
 author - 1: "[[Michael Eraut]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Eraut2004-sp]]"
 booktitle: Workplace Learning in Context
 aliases:

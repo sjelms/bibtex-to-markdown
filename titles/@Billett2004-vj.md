@@ -2,6 +2,9 @@
 title: Learning Through Work -  Workplace Participatory Practices
 year: 2004
 author - 1: "[[Stephen Billett]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Billett2004-vj]]"
 booktitle: Workplace Learning in Context
 aliases:

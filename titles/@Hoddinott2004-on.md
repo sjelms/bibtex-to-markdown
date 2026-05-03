@@ -2,6 +2,9 @@
 title: The Assessment of Workers’ ‘basic Skills’  -  A Critique Based on Evidence From the United States, Canada and England
 year: 2004
 author - 1: "[[Susan Hoddinott]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Hoddinott2004-on]]"
 booktitle: Workplace Learning in Context
 aliases:

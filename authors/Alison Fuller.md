@@ -10,7 +10,9 @@ aliases:
 ## Alison Fuller
 
 ### Content:
+[[@Billett2004-vj|Learning Through Work]]
 [[@Bishop2009-co|Constructing Learning]]
+[[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
@@ -35,12 +37,20 @@ aliases:
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
+[[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
+[[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
+[[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
+[[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 
 #### Bibliography:
 
+![[@Billett2004-vj]]
+
 ![[@Bishop2009-co]]
+
+![[@Eraut2004-sp]]
 
 ![[@Felstead2007-kc]]
 
@@ -90,6 +100,14 @@ aliases:
 
 ![[@Fuller2019-zb]]
 
+![[@Hoddinott2004-on]]
+
+![[@Hodkinson2004-ht]]
+
+![[@Hoskin2004-yg]]
+
 ![[@Unwin2007-pk]]
 
 ![[@Unwin2008-pi]]
+
+![[@Young2004-fs]]

@@ -3,6 +3,9 @@ title: The Complexities of Workplace Learning -  Problems and Dangers in Trying 
 year: 2004
 author - 1: "[[Phil Hodkinson]]"
 author - 2: "[[Heather Hodkinson]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Hodkinson2004-ht]]"
 booktitle: Workplace Learning in Context
 aliases:

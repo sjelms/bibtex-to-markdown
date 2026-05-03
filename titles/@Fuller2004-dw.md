@@ -4,6 +4,9 @@ year: 2004
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Anne Munro]]"
 author - 3: "[[Helen Rainbird]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Fuller2004-dw]]"
 booktitle: Workplace Learning in Context
 aliases:

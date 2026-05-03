@@ -2,6 +2,9 @@
 title: Conceptualizing Vocational Knowledge -  Some Theoretical Considerations
 year: 2004
 author - 1: "[[Michael Young]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Young2004-fs]]"
 booktitle: Workplace Learning in Context
 aliases:

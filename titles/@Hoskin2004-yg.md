@@ -3,6 +3,9 @@ title: The Context of Learning in Professional Work Environments -  Insights Fro
 year: 2004
 author - 1: "[[Keith Hoskin]]"
 author - 2: "[[Fiona Anderson-Gough]]"
+editor - 1: "[[Alison Fuller]]"
+editor - 2: "[[Anne Munro]]"
+editor - 3: "[[Helen Rainbird]]"
 key: "[[@Hoskin2004-yg]]"
 booktitle: Workplace Learning in Context
 aliases:
