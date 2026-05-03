@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-03T15:40:07
+amended: 2026-05-03T15:53:39
 ---
 
 # Directory
@@ -377,6 +377,8 @@ amended: 2026-05-03T15:40:07
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
 ## 1930-1939
+### 1939
+- [[@Marx1939-as|Grundrisse - Foundations Of The Critique Of Political Economy]]
 ### 1938
 - [[@Dewey1938-kx|Experience And Education]]
 ### 1934
