@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-05-03T16:18:24
+amended: 2026-05-03T16:24:28
 ---
 
 # Directory
@@ -8,7 +8,6 @@ amended: 2026-05-03T16:18:24
 ### 2025
 - [[@Mahamadu2025-go|BCPM0088 - Integration, Modularisation, And Platforms]]
 - [[@Eccles2025-kq|Grim Times For Graduates Facing Worst Jobs Market In A Generation]]
-- [[@Krugman2025-mk|Untitled]]
 - [[@Basak2025-gu|How Wall Street Plans To Fix The Housing Crisis]]
 ### 2024
 - [[@Race2024-vr|UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]

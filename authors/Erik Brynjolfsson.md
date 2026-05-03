@@ -17,7 +17,7 @@ aliases:
 [[@Brynjolfsson2014-kx|The Second Machine Age]]
 [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox]]
 [[@Brynjolfsson2021-sf|The Productivity J-Curve]]
-[[@Krugman2025-mk|Untitled]]
+[[@Krugman2025-mk|How Should We Think About The Economics Of AI? A Conversation With Erik Brynjolfsson]]
 [[@McAfee2017-zh|Machine, Platform, Crowd]]
 
 #### Bibliography:

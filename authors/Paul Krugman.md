@@ -12,7 +12,7 @@ aliases:
 ### Content:
 [[@Krugman1998-ue|Why Most Economists' Predictions Are Wrong]]
 [[@Krugman2013-ut|An Ubernerd Weighs In]]
-[[@Krugman2025-mk|Untitled]]
+[[@Krugman2025-mk|How Should We Think About The Economics Of AI? A Conversation With Erik Brynjolfsson]]
 
 #### Bibliography:
 
