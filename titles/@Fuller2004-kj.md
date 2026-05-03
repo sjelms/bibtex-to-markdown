@@ -19,6 +19,7 @@ tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
   - ePub
@@ -28,6 +29,8 @@ tags:
   - _New-Literature
   - _In-ClickUp
   - Book-parent
+  - Book-child
+  - Cross-Ref-Chapter
 ---
 
 > [!bibliography]

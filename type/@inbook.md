@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-03T12:08:05
+amended: 2026-05-03T12:09:57
 ---
 
 # Directory
@@ -159,6 +159,7 @@ amended: 2026-05-03T12:08:05
 - [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession]]
 - [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 - [[@Young2004-fs|Conceptualizing Vocational Knowledge - Some Theoretical Considerations]]
+- [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 - [[@Hodkinson2004-ht|The Complexities Of Workplace Learning - Problems And Dangers In Trying To Measure Attainment]]
 - [[@Billett2004-vj|Learning Through Work - Workplace Participatory Practices]]
 - [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’ - A Critique Based On Evidence From The United States, Canada And England]]
