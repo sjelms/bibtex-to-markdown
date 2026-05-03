@@ -5,6 +5,7 @@ author - 1: "[[Stephen Billett]]"
 editor - 1: "[[David Guile]]"
 editor - 2: "[[Lorna Unwin]]"
 key: "[[@Billett2019-so]]"
+booktitle: The Wiley Handbook of Vocational Education and Training
 aliases:
   - Vocational Education And The Individual
 publisher: "[[John Wiley and Sons]]"
