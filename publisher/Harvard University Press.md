@@ -12,4 +12,5 @@ category:
 ### Content:
 [[@Brown2014-ri|Make It Stick]]
 [[@Groh2014-rk|Making Space]]
+[[@Moravec1988-jt|Mind Children]]
 [[@Vygotsky1978-pz|Mind In Society]]

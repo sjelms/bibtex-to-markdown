@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-03T16:47:33
+amended: 2026-05-03T16:50:02
 ---
 
 # Directory
@@ -330,6 +330,7 @@ amended: 2026-05-03T16:47:33
 - [[@Marsick1990-un|Informal And Incidental Learning In The Workplace]]
 ## 1980-1989
 ### 1988
+- [[@Moravec1988-jt|Mind Children - The Future Of Robot And Human Intelligence]]
 - [[@Dreyfus1988-pf|Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer]]
 - [[@Zierold1988-ae|Environmental Lobbyist In California’s Capital, 1965–1984]]
 - [[@Zuboff1988-mo|In The Age Of The Smart Machine - The Future Of Work And Power]]
