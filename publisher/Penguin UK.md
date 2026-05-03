@@ -18,7 +18,7 @@ category:
 [[@Johnson2011-da|Where Good Ideas Come From]]
 [[@Levitt2006-xq|Freakonomics]]
 [[@Levitt2014-pp|Think Like A Freak]]
-[[@Marx2022-rv|The Communist Manifesto]]
+[[@Marx1848-ti|The Communist Manifesto]]
 [[@Mazzucato2018-em|The Entrepreneurial State]]
 [[@Mitchell2019-zu|Artificial Intelligence]]
 [[@Robinson2009-ed|The Element]]

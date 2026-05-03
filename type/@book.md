@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-03T15:38:02
+amended: 2026-05-03T15:40:07
 ---
 
 # Directory
@@ -56,7 +56,6 @@ amended: 2026-05-03T15:38:02
 - [[@Autor2022-vv|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
 - [[@Giroux2022-hi|Pedagogy Of Resistance - Against Manufactured Ignorance]]
 - [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"]]
-- [[@Marx2022-rv|The Communist Manifesto]]
 - [[@Casini2022-yp|Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry]]
 - [[@Goller2022-gc|Methods For Researching Professional Learning And Development]]
 - [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government]]
@@ -394,3 +393,6 @@ amended: 2026-05-03T15:38:02
 ## 1890-1899
 ### 1892
 - [[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]
+## 1840-1849
+### 1848
+- [[@Marx1848-ti|The Communist Manifesto]]

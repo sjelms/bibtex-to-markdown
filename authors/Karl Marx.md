@@ -10,8 +10,8 @@ aliases:
 ## Karl Marx
 
 ### Content:
-[[@Marx2022-rv|The Communist Manifesto]]
+[[@Marx1848-ti|The Communist Manifesto]]
 
 #### Bibliography:
 
-![[@Marx2022-rv]]
+![[@Marx1848-ti]]
