@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-04T10:38:11
+amended: 2026-05-04T10:52:08
 ---
 
 # Directory
@@ -320,6 +320,7 @@ amended: 2026-05-04T10:38:11
 - [[@Billett1996-pa|Constructing Vocational Knowledge - History, Communities And Ontogeny]]
 ### 1995
 - [[@Schon1995-jh|Knowing-In-Action - The New Scholarship Requires A New Epistemology]]
+- [[@Wertsch1995-cz|Vygotsky On Learning And Development]]
 ### 1994
 - [[@Corbett1994-kx|Knowledge Tracing - Modeling The Acquisition Of Procedural Knowledge]]
 - [[@Bartel1994-wm|Productivity Gains From The Implementation Of Employee Training Programs]]
