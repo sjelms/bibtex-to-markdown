@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-04T10:52:52
+amended: 2026-05-04T11:08:54
 ---
 
 # Directory
@@ -345,6 +345,8 @@ amended: 2026-05-04T10:52:52
 - [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
 ### 1986
 - [[@Silver1986-dj|Under Construction - Work And Alienation In The Building Trades]]
+### 1985
+- [[@Wertsch1985-aq|Vygotsky And The Social Formation Of Mind]]
 ### 1984
 - [[@Schon1984-nn|The Reflective Practitioner - How Professionals Think In Action]]
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-04T10:52:52
+amended: 2026-05-04T11:08:54
 ---
 
 # Directory
@@ -178,6 +178,22 @@ amended: 2026-05-04T10:52:52
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]
 ### 1987
 - [[@Collins1987-me|Cognitive Apprenticeship - Teaching The Crafts Of Reading, Writing, And Mathematics]]
+### 1985
+- [[@Wertsch1985-zm|Bibliography]]
+- [[@Wertsch1985-ar|Extending Vygotsky’s Semiotic Analysis - Propositional And Discourse Referentiality]]
+- [[@Wertsch1985-ap|Mind And Society]]
+- [[@Wertsch1985-gt|Name Index]]
+- [[@Wertsch1985-oh|Notes]]
+- [[@Wertsch1985-ez|Preface]]
+- [[@Wertsch1985-vw|Semiotic Mechanisms In Vygotsky’s Genetic Law Of Cultural Development]]
+- [[@Wertsch1985-pk|Subject Index]]
+- [[@Wertsch1985-ka|Table Of Contents]]
+- [[@Wertsch1985-xp|The Social Origins Of Higher Mental Functions]]
+- [[@Wertsch1985-ig|Units Of Psychological Functioning - Consciousness, Word Meaning, And Action]]
+- [[@Wertsch1985-kw|Vygotsky - The Man And His Theory]]
+- [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
+- [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
+- [[@Zinchenko1985-ek|Foreword]]
 ## 1970-1979
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
