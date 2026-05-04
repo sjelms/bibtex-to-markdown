@@ -1,12 +1,13 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-04T07:53:05
+amended: 2026-05-04T08:00:30
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
 - [[@Spencer2026-tc|University College London - The Bloomsbury Campus]]
+- [[@Zapata2026-tw|Literacies In The Age Of AI - Teaching And Learning In The Digital Era]]
 - [[@Brewis2026-wd|Student London - A New History Of Higher Education In The Capital]]
 ### 2025
 - [[@Frey2025-re|How Progress Ends - Technology, Innovation, And The Fate Of Nations]]
@@ -30,6 +31,7 @@ amended: 2026-05-04T07:53:05
 - [[@Sutton2024-pg|The Friction Project - How Smart Leaders Make The Right Things Easier And The Wrong Things Harder]]
 - [[@Bronin2024-xp|Key To The City - How Zoning Shapes Our World]]
 - [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
+- [[@Shih2024-xv|Knowledge Transfer - Toyota, NUMMI, And GM]]
 ### 2023
 - [[@Friedman2023-hx|Fundamentals Of Innovative Sustainable Homes Design And Construction]]
 - [[@Evans2023-hm|Written - How To Keep Writing And Build A Habit That Lasts]]

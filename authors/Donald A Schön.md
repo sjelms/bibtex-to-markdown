@@ -13,6 +13,7 @@ aliases:
 [[@Argyris1974-nb|Theory In Practice]]
 [[@Schon1984-nn|The Reflective Practitioner]]
 [[@Schon1987-om|Educating The Reflective Practitioner]]
+[[@Schon1995-jh|Knowing-In-Action]]
 
 #### Bibliography:
 
@@ -21,3 +22,5 @@ aliases:
 ![[@Schon1984-nn]]
 
 ![[@Schon1987-om]]
+
+![[@Schon1995-jh]]

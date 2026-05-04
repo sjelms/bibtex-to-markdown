@@ -22,6 +22,7 @@ aliases:
 [[@Kalantzis2012-wb|The Nature Of Learning]]
 [[@Kalantzis2012-xe|Life In Schools]]
 [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
+[[@Zapata2026-tw|Literacies In The Age Of AI]]
 
 #### Bibliography:
 
@@ -48,3 +49,5 @@ aliases:
 ![[@Kalantzis2012-xe]]
 
 ![[@Kalantzis2012-yw]]
+
+![[@Zapata2026-tw]]

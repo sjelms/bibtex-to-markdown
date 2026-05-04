@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-04T07:53:05
+amended: 2026-05-04T08:00:30
 ---
 
 # Directory
@@ -316,6 +316,8 @@ amended: 2026-05-04T07:53:05
 - [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 - [[@Snell1996-oc|The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution]]
 - [[@Billett1996-pa|Constructing Vocational Knowledge - History, Communities And Ontogeny]]
+### 1995
+- [[@Schon1995-jh|Knowing-In-Action - The New Scholarship Requires A New Epistemology]]
 ### 1994
 - [[@Corbett1994-kx|Knowledge Tracing - Modeling The Acquisition Of Procedural Knowledge]]
 - [[@Bartel1994-wm|Productivity Gains From The Implementation Of Employee Training Programs]]

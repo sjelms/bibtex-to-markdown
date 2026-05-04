@@ -34,3 +34,4 @@ category:
 [[@Smith2012-oh|Instructional Design]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Williamson2021-sz|Case Studies In Retrofitting Suburbia]]
+[[@Zapata2026-tw|Literacies In The Age Of AI]]
