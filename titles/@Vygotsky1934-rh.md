@@ -12,6 +12,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - Knowledge-Skill-Acquisition
+  - Psychology
 ---
 
 > [!bibliography]
