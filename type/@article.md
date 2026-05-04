@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-04T11:10:01
+amended: 2026-05-04T11:26:55
 ---
 
 # Directory
@@ -348,6 +348,7 @@ amended: 2026-05-04T11:10:01
 ## 1970-1979
 ### 1979
 - [[@Bialystok1979-mn|Explicit And Implicit Judgements Of L2 Grammaticality]]
+- [[@Vygotsky1979-oz|Consciousness As A Problem In The Psychology Of Behavior]]
 ### 1978
 - [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
 ### 1976

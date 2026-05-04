@@ -13,10 +13,8 @@ aliases:
 [[@Wertsch1985-ap|Mind And Society]]
 [[@Wertsch1985-aq|Vygotsky And The Social Formation Of Mind]]
 [[@Wertsch1985-ar|Extending Vygotsky’s Semiotic Analysis]]
-[[@Wertsch1985-ez|Preface]]
 [[@Wertsch1985-ig|Units Of Psychological Functioning]]
 [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
-[[@Wertsch1985-ka|Table Of Contents]]
 [[@Wertsch1985-kw|Vygotsky]]
 [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 [[@Wertsch1985-vw|Semiotic Mechanisms In Vygotsky’s Genetic Law Of Cultural Development]]
@@ -31,13 +29,9 @@ aliases:
 
 ![[@Wertsch1985-ar]]
 
-![[@Wertsch1985-ez]]
-
 ![[@Wertsch1985-ig]]
 
 ![[@Wertsch1985-jt]]
-
-![[@Wertsch1985-ka]]
 
 ![[@Wertsch1985-kw]]
 
