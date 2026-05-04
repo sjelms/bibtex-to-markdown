@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-04T09:56:24
+amended: 2026-05-04T10:38:11
 ---
 
 # Directory
@@ -292,6 +292,7 @@ amended: 2026-05-04T09:56:24
 ### 2000
 - [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 - [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training - Evidence From The Literature]]
+- [[@Burkholder2000-xi|A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture]]
 - [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
 ## 1990-1999
 ### 1999
