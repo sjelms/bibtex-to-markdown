@@ -11,6 +11,7 @@ type: "[[@misc]]"
 tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - HBR_Harvard
   - Technological-change
   - _Cataloged
 ---

@@ -12,6 +12,7 @@ tags:
   - XR-Reviewed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - HBR_Harvard
   - _XR-MR-VR-AR
   - _Mark-Up
   - Readwise-Reader
