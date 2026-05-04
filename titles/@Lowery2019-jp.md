@@ -11,12 +11,6 @@ aliases:
 publisher: "[[Brill]]"
 type: "[[@book]]"
 tags:
-  - Educational-Philosophy
-  - Education
-  - Teacher-Education
-  - Education
-  - Educational-Leadership
-  - Education
   - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
