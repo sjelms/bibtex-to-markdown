@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-04T09:24:36
+amended: 2026-05-04T09:53:47
 ---
 
 # Directory
@@ -339,6 +339,7 @@ amended: 2026-05-04T09:24:36
 - [[@Zierold1988-ae|Environmental Lobbyist In California’s Capital, 1965–1984]]
 - [[@Zuboff1988-mo|In The Age Of The Smart Machine - The Future Of Work And Power]]
 ### 1987
+- [[@Stewart1987-wx|Adult Learning In America - Edward Lindeman And His Agenda For Lifelong Education]]
 - [[@Schon1987-om|Educating The Reflective Practitioner - Toward A New Design For Teaching And Learning In The Professions]]
 - [[@Engestrom1987-gi|Learning By Expanding - An Activity-Theoretical Approach To Developmental Research]]
 - [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
