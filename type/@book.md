@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-04T08:00:30
+amended: 2026-05-04T08:07:35
 ---
 
 # Directory
@@ -50,6 +50,7 @@ amended: 2026-05-04T08:00:30
 - [[@Rubin2023-ij|The Creative Act - A Way Of Being]]
 - [[@Johnson2023-la|Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity]]
 - [[@Kuckartz2023-rj|Qualitative Content Analysis - Methods, Practice, And Software]]
+- [[@Shih2023-gp|Supply Chain - The Insights You Need From Harvard Business Review]]
 - [[@Abiad2023-gb|How To Write Your Phd Thesis - The Easy Handbook]]
 - [[@Wenger2023-la|Communities Of Practice Within And Across Organizations - A Guidebook]]
 ### 2022
@@ -237,6 +238,7 @@ amended: 2026-05-04T08:00:30
 - [[@Winch2012-wv|Dimensions Of Expertise - A Conceptual Exploration Of Vocational Knowledge]]
 - [[@Laurillard2012-lh|Teaching As A Design Science - Building Pedagogical Patterns For Learning And Technology]]
 - [[@Goodman2012-np|Observing The User Experience - A Practitioner's Guide To User Research]]
+- [[@Pisano2012-ya|Producing Prosperity - Why America Needs A Manufacturing Renaissance]]
 - [[@Daniels2012-jd|Vygotsky And Sociology]]
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
