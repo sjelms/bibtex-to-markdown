@@ -13,6 +13,7 @@ category:
 [[@Brown2014-ri|Make It Stick]]
 [[@Groh2014-rk|Making Space]]
 [[@Moravec1988-jt|Mind Children]]
+[[@Skinner1948-at|Verbal Behavior]]
 [[@Vygotsky1978-pz|Mind In Society]]
 [[@Wertsch1985-ap|Mind And Society]]
 [[@Wertsch1985-aq|Vygotsky And The Social Formation Of Mind]]

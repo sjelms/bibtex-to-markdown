@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-04T11:29:28
+amended: 2026-05-04T15:46:22
 ---
 
 # Directory
@@ -384,6 +384,9 @@ amended: 2026-05-04T11:29:28
 - [[@Ashby1952-yz|Design For A Brain - The Origin Of Adaptive Behaviour]]
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
+## 1940-1949
+### 1948
+- [[@Skinner1948-at|Verbal Behavior]]
 ## 1930-1939
 ### 1939
 - [[@Marx1939-as|Grundrisse - Foundations Of The Critique Of Political Economy]]
