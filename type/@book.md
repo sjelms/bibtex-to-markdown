@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-06T05:05:36
+amended: 2026-05-06T05:50:47
 ---
 
 # Directory
@@ -387,6 +387,8 @@ amended: 2026-05-06T05:05:36
 ## 1940-1949
 ### 1948
 - [[@Skinner1948-at|Verbal Behavior]]
+### 1941
+- [[@Pavlov1941-km|Conditioned Reflexes And Psychiatry]]
 ## 1930-1939
 ### 1939
 - [[@Marx1939-as|Grundrisse - Foundations Of The Critique Of Political Economy]]
