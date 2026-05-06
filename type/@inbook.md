@@ -1,10 +1,12 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-04T15:46:22
+amended: 2026-05-06T05:05:36
 ---
 
 # Directory
 ## 2020-2029
+### 2024
+- [[@Maglione2024-cd|Bernstein As Musical And Cultural Ambassador - Omnibus]]
 ### 2023
 - [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
 - [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
