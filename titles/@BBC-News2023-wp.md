@@ -10,7 +10,7 @@ type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
   - Website
-  - Readwise-Reader
+  - Reader_Obsidian
   - General-Interest-Periodicals-United-States
 ---
 

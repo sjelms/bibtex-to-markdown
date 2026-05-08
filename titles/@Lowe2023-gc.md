@@ -14,7 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Website
   - AEC
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

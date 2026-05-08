@@ -12,7 +12,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Website
-  - Readwise-Reader
+  - Reader_Obsidian
   - _In-Notion
   - _Mark-Up
 ---

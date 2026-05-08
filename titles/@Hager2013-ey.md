@@ -29,7 +29,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - Cross-Ref-Chapter
-  - Readwise-Reader
+  - Reader_Obsidian
   - Book-child
 ---
 

@@ -9,7 +9,7 @@ journal: "[[New Yorker New York N Y 1925]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

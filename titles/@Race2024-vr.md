@@ -15,7 +15,7 @@ tags:
   - BBC-British-Broadcasting-Corporation
   - _BibTex-to-MD-Git
   - Government-Report
-  - Readwise-Reader
+  - Reader_Obsidian
   - Future-of-Work
   - Labor
   - AEC

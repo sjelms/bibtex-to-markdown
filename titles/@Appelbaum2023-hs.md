@@ -11,7 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Economics
   - AEC
-  - Readwise-Reader
+  - Reader_Obsidian
   - _In-Readwise
   - Important
 ---

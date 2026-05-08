@@ -16,7 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - _Cataloged
   - AEC
-  - Readwise-Reader
+  - Reader_Obsidian
   - Website
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
   - AEC
-  - Readwise-Reader
+  - Reader_Obsidian
   - Read
 ---
 

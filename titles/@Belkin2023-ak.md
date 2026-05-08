@@ -12,7 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Statistics
   - Website
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

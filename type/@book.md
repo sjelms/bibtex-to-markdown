@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-08T14:14:28
+amended: 2026-05-08T14:29:22
 ---
 
 # Directory
@@ -411,6 +411,8 @@ amended: 2026-05-08T14:14:28
 ## 1910-1919
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
+### 1911
+- [[@Taylor1911-mi|The Principles Of Scientific Management]]
 ## 1890-1899
 ### 1892
 - [[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]

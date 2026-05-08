@@ -13,7 +13,7 @@ tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - Website
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

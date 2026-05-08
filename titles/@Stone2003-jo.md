@@ -9,7 +9,7 @@ publisher: "[[Medium]]"
 type: "[[@online]]"
 tags:
   - _BibTex-to-MD-Git
-  - Readwise-Reader
+  - Reader_Obsidian
   - Economics
 ---
 

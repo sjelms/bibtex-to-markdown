@@ -15,7 +15,7 @@ tags:
   - Robots
   - Website
   - Automation
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

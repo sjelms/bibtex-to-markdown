@@ -15,7 +15,7 @@ tags:
   - HBR_Harvard
   - _XR-MR-VR-AR
   - _Mark-Up
-  - Readwise-Reader
+  - Reader_Obsidian
   - _Cataloged
 ---
 

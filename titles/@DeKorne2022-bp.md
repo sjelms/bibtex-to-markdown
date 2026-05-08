@@ -13,7 +13,7 @@ tags:
   - llm-wiki-workflow
   - _In-Readwise
   - AEC
-  - Readwise-Reader
+  - Reader_Obsidian
   - VET
   - Workplace-Learning
   - _Cataloged

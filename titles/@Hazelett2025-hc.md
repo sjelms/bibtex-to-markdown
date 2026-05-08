@@ -12,7 +12,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - Readwise-Reader
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

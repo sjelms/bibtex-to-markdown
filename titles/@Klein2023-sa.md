@@ -10,7 +10,7 @@ type: "[[@misc]]"
 tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
-  - Readwise-Reader
+  - Reader_Obsidian
   - Economics
   - _Mark-Up
 ---

@@ -16,7 +16,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - _Mark-Up
-  - Readwise-Reader
+  - Reader_Obsidian
   - _In-ClickUp
 ---
 
