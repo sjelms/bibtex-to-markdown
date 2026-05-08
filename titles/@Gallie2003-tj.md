@@ -16,6 +16,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Labor
   - Skill-demand
+  - Reader_Obsidian
 ---
 
 > [!bibliography]
