@@ -10,4 +10,6 @@ category:
 ## Macmillan Education UK
 
 ### Content:
-[[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
+[[@Baldry1998-ba|‘bright Satanic Offices’]]
+[[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales]]
+[[@Milkman1998-oe|The New American Workplace]]

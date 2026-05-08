@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-08T14:03:29
+amended: 2026-05-08T14:14:28
 ---
 
 # Directory
@@ -314,6 +314,7 @@ amended: 2026-05-08T14:03:29
 - [[@Wenger1999-mt|Communities Of Practice - Learning, Meaning, And Identity]]
 ### 1998
 - [[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
+- [[@Thompson1998-mr|Workplaces Of The Future]]
 ### 1997
 - [[@Burns1997-gn|Introduction To Research Methods]]
 ### 1995

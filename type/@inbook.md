@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-08T14:03:29
+amended: 2026-05-08T14:14:28
 ---
 
 # Directory
@@ -185,6 +185,10 @@ amended: 2026-05-08T14:03:29
 ### 2000
 - [[@Ryan2000-ql|Data Management And Analysis Methods]]
 ## 1990-1999
+### 1998
+- [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?]]
+- [[@Baldry1998-ba|‘bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
+- [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
 ## 1980-1989
