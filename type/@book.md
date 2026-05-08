@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-07T15:16:22
+amended: 2026-05-08T05:52:50
 ---
 
 # Directory
@@ -357,12 +357,15 @@ amended: 2026-05-07T15:16:22
 ### 1980
 - [[@Salvadori1980-nu|Why Buildings Stand Up - The Strength Of Architecture]]
 ## 1970-1979
+### 1979
+- [[@Fancher1979-gx|Pioneers Of Psychology - A History]]
 ### 1978
 - [[@Sudnow1978-tk|Ways Of The Hand - The Organization Of Improvised Conduct]]
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
 ### 1975
+- [[@Novack1975-sc|Pragmatism Versus Marxism - An Appraisal Of John Dewey's Philosophy]]
 - [[@Bhaskar1975-rq|A Realist Theory Of Science]]
 ### 1974
 - [[@Argyris1974-nb|Theory In Practice - Increasing Professional Effectiveness]]

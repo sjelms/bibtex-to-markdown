@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-07T15:16:22
+amended: 2026-05-08T05:52:50
 ---
 
 # Directory
@@ -25,6 +25,7 @@ amended: 2026-05-07T15:16:22
 - [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace - Applying And Augmenting Communities Of Practice Theory]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
+- [[@Waks2024-sp|John Dewey On Play - Theory And Pedagogy]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
 - [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 - [[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots - A Fuzzy-Set Qualitative Comparative Analysis]]
@@ -33,6 +34,7 @@ amended: 2026-05-07T15:16:22
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
+- [[@Quay2023-vt|Vygotsky’s \textit Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
