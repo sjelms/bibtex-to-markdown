@@ -29,7 +29,7 @@ category:
 [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 [[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
-[[@Quay2023-vt|Vygotsky’s \textit Perezhivanies With Dewey’s Occupations]]
+[[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations]]
 [[@Schon1995-jh|Knowing-In-Action]]
 [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace]]

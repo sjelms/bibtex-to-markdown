@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-08T07:06:40
+amended: 2026-05-08T11:28:58
 ---
 
 # Directory
@@ -34,7 +34,7 @@ amended: 2026-05-08T07:06:40
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
-- [[@Quay2023-vt|Vygotsky’s \textit Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
+- [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]

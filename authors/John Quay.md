@@ -10,7 +10,7 @@ aliases:
 ## John Quay
 
 ### Content:
-[[@Quay2023-vt|Vygotsky’s \textit Perezhivanies With Dewey’s Occupations]]
+[[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations]]
 
 #### Bibliography:
 
