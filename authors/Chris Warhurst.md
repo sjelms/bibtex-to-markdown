@@ -16,6 +16,7 @@ aliases:
 [[@Stuart2017-vq|Unions, The Skills Agenda, And Workforce Development]]
 [[@Unwin2017-vo|Employer-Led In-Work Training And Skill Formation]]
 [[@Warhurst2004-qq|The Skills That Matter]]
+[[@Warhurst2012-ok|Mapping Knowledge In Work]]
 [[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
 [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 [[@Wheelahan2017-ln|Rethinking Skills Development]]
@@ -33,6 +34,8 @@ aliases:
 ![[@Unwin2017-vo]]
 
 ![[@Warhurst2004-qq]]
+
+![[@Warhurst2012-ok]]
 
 ![[@Warhurst2017-dg]]
 

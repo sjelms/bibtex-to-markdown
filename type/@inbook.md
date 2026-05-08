@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-08T14:01:54
+amended: 2026-05-08T14:03:29
 ---
 
 # Directory
@@ -135,6 +135,7 @@ amended: 2026-05-08T14:01:54
 - [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 ### 2012
 - [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
+- [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Kalantzis2012-vw|Introduction]]
 - [[@Kalantzis2012-bi|Knowledge And Learning]]

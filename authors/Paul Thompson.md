@@ -1,20 +1,17 @@
 ---
-author: "D W Livingstone"
+author: "Paul Thompson"
 institution:
 field:
 type:
 aliases:
-  - Livingstone
+  - Thompson
 ---
 
-## D W Livingstone
+## Paul Thompson
 
 ### Content:
-[[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 
 #### Bibliography:
-
-![[@Fuller2012-pz]]
 
 ![[@Warhurst2012-ok]]

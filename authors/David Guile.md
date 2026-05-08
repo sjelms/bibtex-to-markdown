@@ -31,6 +31,7 @@ aliases:
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Spinuzzi2019-aa|Fourth-Generation Activity Theory]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
+[[@Warhurst2012-ok|Mapping Knowledge In Work]]
 
 #### Bibliography:
 
@@ -75,3 +76,5 @@ aliases:
 ![[@Spinuzzi2019-aa]]
 
 ![[@Stuart2019-wg]]
+
+![[@Warhurst2012-ok]]
