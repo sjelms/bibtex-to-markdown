@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-08T06:19:30
+amended: 2026-05-08T07:06:40
 ---
 
 # Directory
@@ -327,6 +327,7 @@ amended: 2026-05-08T06:19:30
 - [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
 ### 1992
 - [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
+- [[@Hergenhahn1992-yt|An Introduction To The History Of Psychology]]
 ### 1991
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
