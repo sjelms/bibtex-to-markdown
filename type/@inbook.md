@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-08T11:29:40
+amended: 2026-05-08T14:01:54
 ---
 
 # Directory
@@ -119,7 +119,18 @@ amended: 2026-05-08T11:29:40
 - [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
 - [[@Yudelson2013-yg|Individualized Bayesian Knowledge Tracing Models]]
 - [[@Hager2013-ey|Theories Of Workplace Learning]]
+- [[@Sawchuk2013-vn|De-Skilling - Learning Welfare Work And The Mediations Of Space, Time, And Distance]]
+- [[@Sawchuk2013-hq|Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation]]
+- [[@Sawchuk2013-fj|Experiencing The De-Skilling Premises Of Welfare Work]]
+- [[@Sawchuk2013-bi|Historical Mediations In The Making Of Taylorism In Contemporary State Social Services Work]]
+- [[@Sawchuk2013-ip|Introduction]]
+- [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process - A Use-Value Thesis]]
+- [[@Sawchuk2013-db|Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge]]
 - [[@Sawchuk2013-ux|Researching Workplace Learning - An Overview And Critique]]
+- [[@Sawchuk2013-eu|Taylorism - An Enduring Influence]]
+- [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]
+- [[@Sawchuk2013-dv|Understanding Prevalence, Roots, And Factors Of Trajectories Of Knowledge Production]]
+- [[@Sawchuk2013-dj|Up-Skilling, Resisting, And Re-Keying For Craft Knowledge]]
 - [[@Yin2013-ej|How To Know Whether And When To Use Case Studies As A Research Method]]
 - [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 ### 2012

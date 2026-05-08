@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-08T11:29:40
+amended: 2026-05-08T14:01:54
 ---
 
 # Directory
@@ -232,6 +232,7 @@ amended: 2026-05-08T11:29:40
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
 - [[@Daniels2013-pa|Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies]]
 - [[@Miles2013-dz|Qualitative Data Analysis - A Methods Sourcebook]]
+- [[@Sawchuk2013-ro|Contested Learning In Welfare Work - A Study Of Mind, Political Economy, And The Labour Process]]
 - [[@Yin2013-yq|Case Study Research - Design And Methods]]
 ### 2012
 - [[@Anderson2012-mr|Makers - The New Industrial Revolution]]

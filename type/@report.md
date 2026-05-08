@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-05-08T11:29:40
+amended: 2026-05-08T14:01:54
 ---
 
 # Directory
@@ -107,6 +107,7 @@ amended: 2026-05-08T11:29:40
 - [[@Fuller2008-fn|Towards Expansive Apprenticeships - A Commentary By The Teaching And Learning Research Programme]]
 ### 2007
 - [[@Felstead2007-kc|Performing Identities At Work - Evidence From Contrasting Sectors]]
+- [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 ## 1990-1999
 ### 1998
 - [[@Gott1998-ww|Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks]]

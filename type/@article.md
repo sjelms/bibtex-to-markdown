@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-08T11:29:40
+amended: 2026-05-08T14:01:54
 ---
 
 # Directory
@@ -276,6 +276,7 @@ amended: 2026-05-08T11:29:40
 - [[@Fuller2003-gh|Fostering Workplace Learning - Looking Through The Lens Of Apprenticeship]]
 - [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace - Creating And Managing Expansive And Restrictive Participation]]
 - [[@Autor2003-ju|The Skill Content Of Recent Technological Change - An Empirical Exploration]]
+- [[@Gallie2003-tj|Skill, Task Discretion, And New Technology - Trends In Britain, 1986-2001]]
 - [[@Billett2003-kh|Vocational Curriculum And Pedagogy - An Activity Theory Perspective]]
 ### 2002
 - [[@Moodie2002-nc|Identifying Vocational Education And Training]]

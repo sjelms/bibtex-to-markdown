@@ -1,6 +1,6 @@
 ---
 author: "Alan Felstead"
-institution: "Government Office for Science"
+institution: "ESRC Research Centre on Skills, Knowledge and Organizational Performance"
 field:
 type:
 aliases:
@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
@@ -19,12 +20,15 @@ aliases:
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
+[[@Gallie2003-tj|Skill, Task Discretion, And New Technology]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
 
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead2007-gg]]
 
 ![[@Felstead2007-kc]]
 
@@ -41,6 +45,8 @@ aliases:
 ![[@Fuller2006-ki]]
 
 ![[@Fuller2012-pz]]
+
+![[@Gallie2003-tj]]
 
 ![[@Unwin2007-pk]]
 
