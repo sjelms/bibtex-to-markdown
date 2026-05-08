@@ -17,6 +17,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Psychology
+  - Reader_Obsidian
 ---
 
 > [!bibliography]
