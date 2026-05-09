@@ -2,6 +2,8 @@
 title: Practice‐based innovation -  a learning perspective
 year: 2010
 author - 1: "[[Per-Erik Ellström]]"
+editor - 1: "[[Sara Cervai]]"
+editor - 2: "[[Tauno Kekäle]]"
 key: "[[@Ellstrom2010-rw]]"
 aliases:
   - Practice‐based Innovation - A Learning Perspective
