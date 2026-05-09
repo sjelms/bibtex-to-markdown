@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-08T14:41:51
+amended: 2026-05-09T05:31:25
 ---
 
 # Directory
@@ -310,6 +310,7 @@ amended: 2026-05-08T14:41:51
 - [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
+- [[@Danford1999-jn|Japanese Management Techniques And British Workers]]
 - [[@Engestrom1999-iv|When The Center Does Not Hold - The Importance Of Knotworking]]
 - [[@Wenger1999-mt|Communities Of Practice - Learning, Meaning, And Identity]]
 ### 1998
