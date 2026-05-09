@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-09T07:57:22
+amended: 2026-05-09T07:59:37
 ---
 
 # Directory
@@ -126,6 +126,7 @@ amended: 2026-05-09T07:57:22
 - [[@Sawchuk2013-ip|Introduction]]
 - [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process - A Use-Value Thesis]]
 - [[@Sawchuk2013-db|Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge]]
+- [[@Sawchuk2013-oe|References]]
 - [[@Sawchuk2013-ux|Researching Workplace Learning - An Overview And Critique]]
 - [[@Sawchuk2013-eu|Taylorism - An Enduring Influence]]
 - [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]

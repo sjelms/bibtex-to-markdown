@@ -41,6 +41,7 @@ category:
 [[@Sawchuk2013-fj|Experiencing The De-Skilling Premises Of Welfare Work]]
 [[@Sawchuk2013-hq|Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation]]
 [[@Sawchuk2013-ip|Introduction]]
+[[@Sawchuk2013-oe|References]]
 [[@Sawchuk2013-ro|Contested Learning In Welfare Work]]
 [[@Sawchuk2013-vn|De-Skilling]]
 [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]

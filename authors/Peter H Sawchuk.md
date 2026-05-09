@@ -19,6 +19,7 @@ aliases:
 [[@Sawchuk2013-fj|Experiencing The De-Skilling Premises Of Welfare Work]]
 [[@Sawchuk2013-hq|Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation]]
 [[@Sawchuk2013-ip|Introduction]]
+[[@Sawchuk2013-oe|References]]
 [[@Sawchuk2013-ro|Contested Learning In Welfare Work]]
 [[@Sawchuk2013-ux|Researching Workplace Learning]]
 [[@Sawchuk2013-vn|De-Skilling]]
@@ -43,6 +44,8 @@ aliases:
 ![[@Sawchuk2013-hq]]
 
 ![[@Sawchuk2013-ip]]
+
+![[@Sawchuk2013-oe]]
 
 ![[@Sawchuk2013-ro]]
 
