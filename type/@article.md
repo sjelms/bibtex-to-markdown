@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-09T05:31:25
+amended: 2026-05-09T06:40:52
 ---
 
 # Directory
@@ -333,6 +333,8 @@ amended: 2026-05-09T05:31:25
 - [[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
 - [[@Ryan1993-hf|The Relationship Between Mandatory Vs. Voluntary Participation In A Prison Literacy Program And Academic Achievement]]
+### 1991
+- [[@Welton1991-jd|What's New In The History Of Adult Education]]
 ## 1980-1989
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
