@@ -12,4 +12,5 @@ category:
 ### Content:
 [[@Billett2001-xo|Learning Through Work]]
 [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement”]]
+[[@Ellstrom2010-rw|Practice‐based Innovation]]
 [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships]]

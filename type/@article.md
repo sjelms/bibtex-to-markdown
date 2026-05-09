@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-09T07:38:46
+amended: 2026-05-09T07:55:10
 ---
 
 # Directory
@@ -221,6 +221,7 @@ amended: 2026-05-09T07:38:46
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
 - [[@Bell2010-gt|Performance Gains From Speech-Enhanced Simulation In Military Flying Training]]
 - [[@Shook2010-ni|How To Change A Culture - Lessons From NUMMI]]
+- [[@Ellstrom2010-rw|Practice‐based Innovation - A Learning Perspective]]
 ## 2000-2009
 ### 2009
 - [[@Sparks2009-cr|Advanced Entry Adult Apprenticeship Training Scheme - A Case Study]]
