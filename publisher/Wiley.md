@@ -13,6 +13,7 @@ category:
 [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training]]
 [[@Bialystok1979-mn|Explicit And Implicit Judgements Of L2 Grammaticality]]
 [[@Chi2001-nu|Learning From Human Tutoring]]
+[[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
 [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Goffin2011-sn|Tacit Knowledge, Lessons Learnt, And New Product Development]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-09T06:40:52
+amended: 2026-05-09T07:38:46
 ---
 
 # Directory
@@ -184,6 +184,7 @@ amended: 2026-05-09T06:40:52
 - [[@Opwis2001-vw|Instructional Technology - Cognitive Science Perspectives]]
 ### 2000
 - [[@Ryan2000-ql|Data Management And Analysis Methods]]
+- [[@Eraut2000-sj|Development Of Knowledge And Skills At Work]]
 ## 1990-1999
 ### 1998
 - [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?]]

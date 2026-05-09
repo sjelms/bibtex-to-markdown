@@ -10,6 +10,8 @@ aliases:
 ## Michael Eraut
 
 ### Content:
+[[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
+[[@Eraut2000-sj|Development Of Knowledge And Skills At Work]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
 [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
@@ -17,6 +19,10 @@ aliases:
 [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
 
 #### Bibliography:
+
+![[@Eraut2000-hu]]
+
+![[@Eraut2000-sj]]
 
 ![[@Eraut2004-sp]]
 

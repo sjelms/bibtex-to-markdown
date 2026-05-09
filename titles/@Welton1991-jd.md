@@ -9,6 +9,7 @@ journal: "[[Revue d’histoire De l’éducation]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Education
 ---
 
 > [!bibliography]
