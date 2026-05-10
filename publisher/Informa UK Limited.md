@@ -30,6 +30,7 @@ category:
 [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 [[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
 [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations]]
+[[@Roth2016-zl|Perezhivaniein The Light Of The Later Vygotsky’s Spinozist Turn]]
 [[@Schon1995-jh|Knowing-In-Action]]
 [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace]]

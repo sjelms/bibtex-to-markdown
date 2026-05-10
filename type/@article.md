@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-09T07:59:37
+amended: 2026-05-10T15:55:32
 ---
 
 # Directory
@@ -165,6 +165,7 @@ amended: 2026-05-09T07:59:37
 - [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 - [[@Joffroy2016-cy|Learning From Local Building Cultures To Improve Housing Project Sustainability]]
 - [[@Oesterreich2016-yo|Understanding The Implications Of Digitisation And Automation In The Context Of Industry 4.0 - A Triangulation Approach And Elements Of A Research Agenda For The Construction Industry]]
+- [[@Roth2016-zl|Perezhivaniein The Light Of The Later Vygotsky’s Spinozist Turn]]
 - [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations]]
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
