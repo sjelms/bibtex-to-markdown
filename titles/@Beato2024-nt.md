@@ -38,7 +38,6 @@ tags:
   - ePub
   - Economics
   - Artificial-Intelligence-AI
-  - Future-of-Work
 ---
 
 > [!bibliography]

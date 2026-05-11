@@ -15,7 +15,6 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
-  - Intelligent-Tutoring-Systems-ITS
   - UCL
   - _Cataloged
 ---

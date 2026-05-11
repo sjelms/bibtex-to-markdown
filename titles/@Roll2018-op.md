@@ -18,7 +18,6 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - Intelligent-Tutoring-Systems-ITS
   - _Cataloged
   - _Mark-Up
 ---

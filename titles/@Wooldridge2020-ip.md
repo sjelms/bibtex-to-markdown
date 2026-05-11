@@ -14,7 +14,6 @@ tags:
   - _BibTex-to-MD-Git
   - ePub
   - Artificial-Intelligence-AI
-  - Future-of-Work
 ---
 
 > [!bibliography]

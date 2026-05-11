@@ -13,7 +13,6 @@ tags:
   - Politics-and-Society
   - _BibTex-to-MD-Git
   - RNIB
-  - Politics-and-Society
   - ePub
 ---
 

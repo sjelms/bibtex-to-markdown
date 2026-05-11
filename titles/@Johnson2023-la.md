@@ -18,7 +18,6 @@ tags:
   - Audiobook
   - Economics
   - ePub
-  - Future-of-Work
 ---
 
 > [!bibliography]

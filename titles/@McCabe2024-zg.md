@@ -15,7 +15,6 @@ tags:
   - Audible
   - ePub
   - Audiobook
-  - Neurodiversity
 ---
 
 > [!bibliography]

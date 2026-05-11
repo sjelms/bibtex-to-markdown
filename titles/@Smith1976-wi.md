@@ -17,7 +17,6 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - Intelligent-Tutoring-Systems-ITS
   - Cited-for-Frontiers
 ---
 

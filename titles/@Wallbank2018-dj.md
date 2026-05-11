@@ -15,7 +15,6 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - ePub
-  - Neurodiversity
 ---
 
 > [!bibliography]

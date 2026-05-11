@@ -50,7 +50,6 @@ tags:
   - _BibTex-to-MD-Git
   - Artificial-Intelligence-AI
   - Economics
-  - Future-of-Work
 ---
 
 > [!bibliography]

@@ -14,8 +14,6 @@ tags:
   - interviews
   - surveys
   - telephone-interviewing
-  - telephone-interviewing
-  - knowledge
   - knowledge
   - surveying
   - Theory-and-Methods

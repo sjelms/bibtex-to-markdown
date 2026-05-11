@@ -18,7 +18,6 @@ tags:
   - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise
-  - Future-of-Work
   - _New-Literature
 ---
 
