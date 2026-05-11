@@ -1,6 +1,6 @@
 ---
 author: "Tanja A J Houweling"
-institution: "United Nations; World Health Organization"
+institution: "United Nations, World Health Organization"
 field:
 type:
 aliases:

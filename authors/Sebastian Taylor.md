@@ -1,6 +1,6 @@
 ---
 author: "Sebastian Taylor"
-institution: "United Nations; World Health Organization"
+institution: "United Nations, World Health Organization"
 field:
 type:
 aliases:
