@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process]]
+[[@Bartel1987-bu|The Comparative Advantage Of Educated Workers In Implementing New Technology]]
 [[@Billett2008-kx|Learning Through Work]]
 [[@Bock2015-tf|The Future Of Construction Automation]]
 [[@Casini2022-yp|Construction 4.0]]
