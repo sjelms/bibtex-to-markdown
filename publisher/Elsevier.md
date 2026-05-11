@@ -11,6 +11,8 @@ category:
 
 ### Content:
 [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process]]
+[[@Billett2008-kx|Learning Through Work]]
+[[@Bock2015-tf|The Future Of Construction Automation]]
 [[@Casini2022-yp|Construction 4.0]]
 [[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
 [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
@@ -23,5 +25,6 @@ category:
 [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 [[@Herod2009-pg|Labor Unionism]]
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
+[[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
 [[@Wigdor2011-kl|Brave NUI World]]
