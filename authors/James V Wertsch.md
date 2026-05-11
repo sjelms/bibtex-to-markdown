@@ -16,6 +16,7 @@ aliases:
 [[@Wertsch1985-ig|Units Of Psychological Functioning]]
 [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
 [[@Wertsch1985-kw|Vygotsky]]
+[[@Wertsch1985-oh|Notes]]
 [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 [[@Wertsch1985-vw|Semiotic Mechanisms In Vygotsky’s Genetic Law Of Cultural Development]]
 [[@Wertsch1985-xp|The Social Origins Of Higher Mental Functions]]
@@ -34,6 +35,8 @@ aliases:
 ![[@Wertsch1985-jt]]
 
 ![[@Wertsch1985-kw]]
+
+![[@Wertsch1985-oh]]
 
 ![[@Wertsch1985-pg]]
 

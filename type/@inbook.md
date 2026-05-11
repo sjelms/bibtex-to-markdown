@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-11T08:14:44
+amended: 2026-05-11T09:01:25
 ---
 
 # Directory
@@ -201,6 +201,7 @@ amended: 2026-05-11T08:14:44
 ### 1985
 - [[@Wertsch1985-ar|Extending Vygotsky’s Semiotic Analysis - Propositional And Discourse Referentiality]]
 - [[@Wertsch1985-ap|Mind And Society]]
+- [[@Wertsch1985-oh|Notes]]
 - [[@Wertsch1985-vw|Semiotic Mechanisms In Vygotsky’s Genetic Law Of Cultural Development]]
 - [[@Wertsch1985-xp|The Social Origins Of Higher Mental Functions]]
 - [[@Wertsch1985-ig|Units Of Psychological Functioning - Consciousness, Word Meaning, And Action]]
