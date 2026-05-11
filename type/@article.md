@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-11T09:01:25
+amended: 2026-05-11T10:40:27
 ---
 
 # Directory
@@ -145,6 +145,7 @@ amended: 2026-05-11T09:01:25
 - [[@Panadero2017-tm|A Review Of Self-Regulated Learning - Six Models And Four Directions For Research]]
 - [[@Sanzogni2017-bw|Artificial Intelligence And Knowledge Management - Questioning The Tacit Dimension]]
 - [[@Gambin2017-tq|Employers And Apprenticeships In England - Costs, Risks And Policy Reforms]]
+- [[@Rucker2017-kk|How Can An Understanding Of Learning Theories Be Used In The Design Of Training? A Critical Evaluation]]
 - [[@Whitehouse2017-pq|Find Out If Your Job Will Be Automated]]
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
 - [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
