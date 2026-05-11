@@ -1,20 +1,17 @@
 ---
-author: "Michael G Marmot"
+author: "Tanja A J Houweling"
 institution: "United Nations; World Health Organization"
 field:
 type:
 aliases:
-  - Marmot
+  - Houweling
 ---
 
-## Michael G Marmot
+## Tanja A J Houweling
 
 ### Content:
-[[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Marmot2008-xy|Closing The Gap In A Generation]]
 
 #### Bibliography:
-
-![[@Marmot1991-fq]]
 
 ![[@Marmot2008-xy]]

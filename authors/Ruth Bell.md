@@ -1,20 +1,17 @@
 ---
-author: "Michael G Marmot"
+author: "Ruth Bell"
 institution: "United Nations; World Health Organization"
 field:
 type:
 aliases:
-  - Marmot
+  - Bell
 ---
 
-## Michael G Marmot
+## Ruth Bell
 
 ### Content:
-[[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Marmot2008-xy|Closing The Gap In A Generation]]
 
 #### Bibliography:
-
-![[@Marmot1991-fq]]
 
 ![[@Marmot2008-xy]]

@@ -1,20 +1,17 @@
 ---
-author: "Michael G Marmot"
+author: "Sharon Friel"
 institution: "United Nations; World Health Organization"
 field:
 type:
 aliases:
-  - Marmot
+  - Friel
 ---
 
-## Michael G Marmot
+## Sharon Friel
 
 ### Content:
-[[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Marmot2008-xy|Closing The Gap In A Generation]]
 
 #### Bibliography:
-
-![[@Marmot1991-fq]]
 
 ![[@Marmot2008-xy]]

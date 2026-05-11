@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-05-11T06:10:27
+amended: 2026-05-11T06:29:49
 ---
 
 # Directory
@@ -105,6 +105,7 @@ amended: 2026-05-11T06:10:27
 ## 2000-2009
 ### 2008
 - [[@Fuller2008-fn|Towards Expansive Apprenticeships - A Commentary By The Teaching And Learning Research Programme]]
+- [[@Marmot2008-xy|Closing The Gap In A Generation - Health Equity Through Action On The Social Determinants Of Health, Final Report Of The Commission On Social Determinants Of Health]]
 ### 2007
 - [[@Felstead2007-kc|Performing Identities At Work - Evidence From Contrasting Sectors]]
 - [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
