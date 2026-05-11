@@ -115,6 +115,23 @@ def get_safe_filename(name):
     return name
 
 
+def prune_stale_markdown_files(directory, expected_filenames):
+    """Delete stale .md files in directory and return number removed."""
+    if not os.path.isdir(directory):
+        return 0
+
+    removed = 0
+    expected = set(expected_filenames)
+    for filename in os.listdir(directory):
+        path = os.path.join(directory, filename)
+        if not os.path.isfile(path) or not filename.endswith(".md"):
+            continue
+        if filename not in expected:
+            os.remove(path)
+            removed += 1
+    return removed
+
+
 def normalize_entity_name(text: str) -> str:
     """Normalize publisher/journal names for links and filenames.
     - Remove braces/newlines via clean_text
@@ -324,6 +341,10 @@ def process_keywords(keyword_str):
 
 # Process each entry in BibLaTeX/BibTeX source
 processed_count = 0
+expected_title_files = set()
+expected_author_files = set()
+expected_entity_files = set()
+expected_type_files = set()
 for key, entry in bib_data.entries.items():
     fields = entry.fields
 
@@ -467,6 +488,7 @@ for key, entry in bib_data.entries.items():
 
     # Save or update the Markdown file
     md_filename = os.path.join(OUTPUT_DIR, f"@{key}.md")
+    expected_title_files.add(f"@{key}.md")
     new_frontmatter = "\n".join(yaml_lines)  # includes opening and closing --- lines
     if args.update_frontmatter_only and os.path.exists(md_filename):
         # Replace only the frontmatter block; preserve the body
@@ -625,6 +647,7 @@ if not args.only_with_editors and not args.no_author_files:
 
         # Save the author file
         filename = get_safe_filename(author) + ".md"
+        expected_author_files.add(filename)
         author_filename = os.path.join(AUTHORS_DIR, filename)
 
         with open(author_filename, "w", encoding="utf-8") as author_file:
@@ -657,8 +680,10 @@ if not args.only_with_editors and not args.no_author_files:
             body.append(f"[[@{citation}|{disp}]]")
 
         content = "\n".join(fm + body)
-        filename = os.path.join(PUBLISHERS_DIR, f"{name}.md")
-        with open(filename, "w", encoding="utf-8") as f:
+        entity_filename = f"{name}.md"
+        expected_entity_files.add(entity_filename)
+        entity_filepath = os.path.join(PUBLISHERS_DIR, entity_filename)
+        with open(entity_filepath, "w", encoding="utf-8") as f:
             f.write(content)
 
     # Generate type-based directory files
@@ -710,11 +735,35 @@ if not args.only_with_editors and not args.no_author_files:
 
         type_content = "\n".join(type_lines).strip() + "\n"
         type_filename = os.path.join(TYPES_DIR, f"@{entry_type}.md")
+        expected_type_files.add(f"@{entry_type}.md")
         with open(type_filename, "w", encoding="utf-8") as f:
             f.write(type_content)
+
+should_prune_stale_files = (
+    not args.only_with_editors
+    and not args.no_author_files
+    and not args.update_frontmatter_only
+)
+removed_titles = 0
+removed_authors = 0
+removed_entities = 0
+removed_types = 0
+if should_prune_stale_files:
+    removed_titles = prune_stale_markdown_files(OUTPUT_DIR, expected_title_files)
+    removed_authors = prune_stale_markdown_files(AUTHORS_DIR, expected_author_files)
+    removed_entities = prune_stale_markdown_files(PUBLISHERS_DIR, expected_entity_files)
+    removed_types = prune_stale_markdown_files(TYPES_DIR, expected_type_files)
 
 print(f"✅ Processed {processed_count} entries into {OUTPUT_DIR}/")
 if not args.only_with_editors and not args.no_author_files:
     print(f"✅ Author files created in {AUTHORS_DIR}/")
     print(f"✅ Publisher/Journal files created in {PUBLISHERS_DIR}/")
     print(f"✅ Type directories created in {TYPES_DIR}/")
+    if should_prune_stale_files:
+        print(
+            "🧹 Removed stale files: "
+            f"{removed_titles} titles, "
+            f"{removed_authors} authors, "
+            f"{removed_entities} publisher/journal, "
+            f"{removed_types} types"
+        )
