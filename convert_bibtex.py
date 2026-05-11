@@ -739,6 +739,13 @@ if not args.only_with_editors and not args.no_author_files:
         with open(type_filename, "w", encoding="utf-8") as f:
             f.write(type_content)
 
+should_prune = (
+    not args.only_with_editors
+    and not args.no_author_files
+    and not args.update_frontmatter_only
+)
+removed_titles = removed_authors = removed_entities = removed_types = 0
+if should_prune:
     removed_titles = prune_stale_markdown_files(OUTPUT_DIR, expected_title_files)
     removed_authors = prune_stale_markdown_files(AUTHORS_DIR, expected_author_files)
     removed_entities = prune_stale_markdown_files(PUBLISHERS_DIR, expected_entity_files)
@@ -749,10 +756,11 @@ if not args.only_with_editors and not args.no_author_files:
     print(f"✅ Author files created in {AUTHORS_DIR}/")
     print(f"✅ Publisher/Journal files created in {PUBLISHERS_DIR}/")
     print(f"✅ Type directories created in {TYPES_DIR}/")
-    print(
-        "🧹 Removed stale files: "
-        f"{removed_titles} titles, "
-        f"{removed_authors} authors, "
-        f"{removed_entities} publisher/journal, "
-        f"{removed_types} type"
-    )
+    if should_prune:
+        print(
+            "🧹 Removed stale files: "
+            f"{removed_titles} titles, "
+            f"{removed_authors} authors, "
+            f"{removed_entities} publisher/journal, "
+            f"{removed_types} type"
+        )
