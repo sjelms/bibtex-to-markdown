@@ -19,7 +19,6 @@ tags:
   - health-care-professionals
   - health-care
   - interprofessional
-  - health-care
   - teamwork
   - interviews
   - semistructured
@@ -27,7 +26,6 @@ tags:
   - palliative-care
   - qualitative-analysis
   - relationships
-  - health-care
   - research
   - qualitative
   - visual-methods

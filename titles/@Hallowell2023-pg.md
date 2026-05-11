@@ -14,7 +14,6 @@ tags:
   - Neurodiversity
   - _BibTex-to-MD-Git
   - ePub
-  - Neurodiversity
 ---
 
 > [!bibliography]

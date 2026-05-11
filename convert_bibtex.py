@@ -322,6 +322,7 @@ def process_keywords(keyword_str):
     # BibLaTeX commonly separates keywords with commas or semicolons; handle both
     keywords = re.split(r"[;,]", sanitized)
     cleaned_keywords = []
+    seen_keywords = set()
     for kw in keywords:
         kw = kw.strip()
         if not kw:
@@ -335,8 +336,9 @@ def process_keywords(keyword_str):
         kw = re.sub(r"[\(\)\[\]\{\}]", "", kw)  # Remove brackets
         kw = re.sub(r"\s+", "-", kw)  # Replace whitespace runs with hyphens
         kw = re.sub(r"-+", "-", kw).strip("-")  # Collapse multiple hyphens
-        if kw:
+        if kw and kw not in seen_keywords:
             cleaned_keywords.append(kw)
+            seen_keywords.add(kw)
     return cleaned_keywords
 
 # Process each entry in BibLaTeX/BibTeX source

@@ -21,7 +21,6 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - AEC
   - _Mark-Up
   - _In-Readwise
   - _Cataloged
