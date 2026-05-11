@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-10T15:55:32
+amended: 2026-05-11T06:03:55
 ---
 
 # Directory
@@ -337,6 +337,7 @@ amended: 2026-05-10T15:55:32
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
 - [[@Ryan1993-hf|The Relationship Between Mandatory Vs. Voluntary Participation In A Prison Literacy Program And Academic Achievement]]
 ### 1991
+- [[@Marmot1991-fq|Health Inequalities Among British Civil Servants - The Whitehall II Study]]
 - [[@Welton1991-jd|What's New In The History Of Adult Education]]
 ## 1980-1989
 ### 1989

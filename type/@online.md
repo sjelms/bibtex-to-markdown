@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-05-10T15:55:32
+amended: 2026-05-11T06:03:55
 ---
 
 # Directory
@@ -16,6 +16,7 @@ amended: 2026-05-10T15:55:32
 ### 2022
 - [[@Morby2022-bu|Construction Forecast To Fall By Nearly 4% Next Year]]
 - [[@Davis2022-wq|Expert–Novice - Discourses On Learning In Education]]
+- [[@Peng2022-so|Data Learning II – Regression]]
 - [[@HUD-User2022-ip|Operation Breakthrough - Striving Through Struggles For Success By Teaming]]
 - [[@United_Nations2022-xc|Population | United Nations]]
 - [[@Unity_Technologies2022-ey|What Is A Digital Twin?]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-10T15:55:32
+amended: 2026-05-11T06:03:55
 ---
 
 # Directory
@@ -227,6 +227,7 @@ amended: 2026-05-10T15:55:32
 - [[@Harari2014-do|Sapiens - A Brief History Of Humankind]]
 ### 2013
 - [[@Littlejohn2013-gj|Technology-Enhanced Professional Learning - Processes, Practices, And Tools]]
+- [[@Wheelan2013-vt|Naked Statistics - Stripping The Dread From The Data]]
 - [[@Kelley2013-ne|Creative Confidence - Unleashing The Creative Potential Within Us All]]
 - [[@Mills2013-uv|Ethnography In Education]]
 - [[@Norman2013-mt|The Design Of Everyday Things - Revised And Expanded Edition]]
@@ -325,6 +326,7 @@ amended: 2026-05-10T15:55:32
 - [[@Stake1995-qy|The Art Of Case Study Research]]
 ### 1994
 - [[@Lofland1994-iu|Analyzing Social Settings - A Guide To Qualitative Observation And Analysis]]
+- [[@Vygotsky1994-rw|The Vygotsky Reader]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
 ### 1993
 - [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
