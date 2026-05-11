@@ -1,6 +1,8 @@
 ---
 author: "Kyle Barry"
-institution: "US Department of Housing and Urban Development"
+institution:
+  - "[[US Department of Housing and Urban Development]]"
+  - "[[United States Department of Housing and Urban Development]]"
 field:
 type:
 aliases:

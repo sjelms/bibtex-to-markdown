@@ -1,6 +1,6 @@
 ---
 author: "Fiona Bradley"
-institution:
+institution: "[[University of Strathclyde]]"
 field:
 type:
 aliases:

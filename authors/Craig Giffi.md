@@ -1,6 +1,6 @@
 ---
 author: "Craig Giffi"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

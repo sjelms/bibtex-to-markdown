@@ -1,6 +1,6 @@
 ---
 author: "Ruth Lupton"
-institution: "University of Manchester"
+institution: "[[University of Manchester]]"
 field:
 type:
 aliases:

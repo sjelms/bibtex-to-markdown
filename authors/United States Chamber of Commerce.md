@@ -1,6 +1,6 @@
 ---
 author: "United States Chamber of Commerce"
-institution: "USG Corporation"
+institution: "[[USG Corporation]]"
 field:
 type:
 aliases:

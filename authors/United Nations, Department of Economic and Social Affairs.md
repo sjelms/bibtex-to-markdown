@@ -1,6 +1,6 @@
 ---
 author: "United Nations, Department of Economic and Social Affairs"
-institution: "United Nations"
+institution: "[[United Nations]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Tim Miller"
-institution: "Confederation of British Industry"
+institution: "[[Confederation of British Industry]]"
 field:
 type:
 aliases:

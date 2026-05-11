@@ -1,6 +1,6 @@
 ---
 author: "Thomas Kochan"
-institution: "Massachusetts Institute of Technology Industrial Performance Center"
+institution: "[[Massachusetts Institute of Technology Industrial Performance Center]]"
 field:
 type:
 aliases:

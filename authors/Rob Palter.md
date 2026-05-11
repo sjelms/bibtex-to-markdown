@@ -1,6 +1,6 @@
 ---
 author: "Rob Palter"
-institution: "McKinsey and Company"
+institution: "[[McKinsey and Company]]"
 field:
 type:
 aliases:

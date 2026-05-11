@@ -1,6 +1,6 @@
 ---
 author: "Ben Dollar"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

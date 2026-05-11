@@ -1,6 +1,6 @@
 ---
 author: "Leiden University Study Skills"
-institution: "Leiden University"
+institution: "[[Leiden University]]"
 field:
 type:
 aliases:

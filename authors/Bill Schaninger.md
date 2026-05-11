@@ -1,6 +1,6 @@
 ---
 author: "Bill Schaninger"
-institution: "McKinsey Global Institute"
+institution: "[[McKinsey Global Institute]]"
 field:
 type:
 aliases:

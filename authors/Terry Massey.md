@@ -1,6 +1,9 @@
 ---
 author: "Terry Massey"
-institution: "Ministry of Housing, Communities, and Local Government"
+institution:
+  - "[[Communities]]"
+  - "[[Ministry of Housing]]"
+  - "[[and Local Government]]"
 field:
 type:
 aliases:

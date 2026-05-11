@@ -1,6 +1,6 @@
 ---
 author: "Gernot Strube"
-institution: "McKinsey and Company"
+institution: "[[McKinsey and Company]]"
 field:
 type:
 aliases:

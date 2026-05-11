@@ -1,6 +1,6 @@
 ---
 author: "Ryan Nunn"
-institution: "The Brookings Institution"
+institution: "[[The Brookings Institution]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Nick Jewson"
-institution: "UKCES"
+institution: "[[UKCES]]"
 field:
 type:
 aliases:

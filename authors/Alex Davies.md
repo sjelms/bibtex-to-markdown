@@ -1,6 +1,6 @@
 ---
 author: "Alex Davies"
-institution: "Royal Institution of Chartered Surveyors"
+institution: "[[Royal Institution of Chartered Surveyors]]"
 field:
 type:
 aliases:

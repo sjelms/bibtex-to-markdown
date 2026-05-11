@@ -1,6 +1,6 @@
 ---
 author: "Tscetomila Anatolieva Duncheva"
-institution: "University of Strathclyde"
+institution: "[[University of Strathclyde]]"
 field:
 type:
 aliases:

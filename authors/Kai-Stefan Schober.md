@@ -1,6 +1,6 @@
 ---
 author: "Kai-Stefan Schober"
-institution: "Roland Berger GmbH"
+institution: "[[Roland Berger GmbH]]"
 field:
 type:
 aliases:

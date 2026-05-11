@@ -1,6 +1,6 @@
 ---
 author: "William R Kerr"
-institution: "National Bureau of Economic Research"
+institution: "[[National Bureau of Economic Research]]"
 field:
 type:
 aliases:

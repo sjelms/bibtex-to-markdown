@@ -1,6 +1,6 @@
 ---
 author: "Kate Hardin"
-institution: "Deloitte"
+institution: "[[Deloitte]]"
 field:
 type:
 aliases:

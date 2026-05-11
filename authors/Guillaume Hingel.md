@@ -1,6 +1,6 @@
 ---
 author: "Guillaume Hingel"
-institution: "World Economic Forum Platform for Shaping the Future of the New Economy and Society"
+institution: "[[World Economic Forum Platform for Shaping the Future of the New Economy and Society]]"
 field:
 type:
 aliases:

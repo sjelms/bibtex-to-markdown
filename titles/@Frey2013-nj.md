@@ -7,7 +7,9 @@ key: "[[@Frey2013-nj]]"
 aliases:
   - The Future Of Employment - How Susceptible Are Jobs To Computerisation?
   - The Future Of Employment
-institution: "[[Oxford Martin School, University of Oxford,]]"
+institution:
+  - "[[Oxford Martin School]]"
+  - "[[University of Oxford]]"
 journal: "[[Technological Forecasting and Social Change]]"
 type: "[[@article]]"
 tags:

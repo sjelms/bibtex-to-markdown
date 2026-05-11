@@ -1,6 +1,6 @@
 ---
 author: "Vesselina Stefanova Ratcheva"
-institution: "Centre for the New Economy and Society"
+institution: "[[Centre for the New Economy and Society]]"
 field:
 type:
 aliases:

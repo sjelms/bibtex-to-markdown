@@ -1,6 +1,6 @@
 ---
 author: "House of Lords"
-institution: "Science and Technology Select Committee"
+institution: "[[Science and Technology Select Committee]]"
 field:
 type:
 aliases:

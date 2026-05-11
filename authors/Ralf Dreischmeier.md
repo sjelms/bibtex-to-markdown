@@ -1,6 +1,6 @@
 ---
 author: "Ralf Dreischmeier"
-institution: "Boston Consulting Group"
+institution: "[[Boston Consulting Group]]"
 field:
 type:
 aliases:

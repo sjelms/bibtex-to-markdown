@@ -1,6 +1,6 @@
 ---
 author: "K Alexander"
-institution: "Institute for Employment Studies"
+institution: "[[Institute for Employment Studies]]"
 field:
 type:
 aliases:

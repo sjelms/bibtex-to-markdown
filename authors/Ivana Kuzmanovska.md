@@ -1,6 +1,6 @@
 ---
 author: "Ivana Kuzmanovska"
-institution: "Monash University"
+institution: "[[Monash University]]"
 field:
 type:
 aliases:

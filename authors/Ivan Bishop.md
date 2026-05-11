@@ -1,6 +1,9 @@
 ---
 author: "Ivan Bishop"
-institution: "Department for Business, Energy, and Industrial Strategy"
+institution:
+  - "[[Department for Business]]"
+  - "[[Energy]]"
+  - "[[and Industrial Strategy]]"
 field:
 type:
 aliases:

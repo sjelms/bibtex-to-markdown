@@ -1,6 +1,6 @@
 ---
 author: "Erika Perge"
-institution: "Institute of Electrical and Electronics Engineers"
+institution: "[[Institute of Electrical and Electronics Engineers]]"
 field:
 type:
 aliases:

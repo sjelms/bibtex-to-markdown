@@ -1,6 +1,6 @@
 ---
 author: "Nic Scoble-Williams"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Gayna Davey"
-institution: "UCL Institute of Education"
+institution: "[[UCL Institute of Education]]"
 field:
 type:
 aliases:

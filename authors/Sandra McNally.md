@@ -1,6 +1,6 @@
 ---
 author: "Sandra McNally"
-institution: "UCL Institute of Education"
+institution: "[[UCL Institute of Education]]"
 field:
 type:
 aliases:

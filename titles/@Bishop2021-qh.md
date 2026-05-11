@@ -6,7 +6,10 @@ key: "[[@Bishop2021-qh]]"
 aliases:
   - Trade Union Membership, UK 1995-2020 - Statistical Bulletin
   - Trade Union Membership, UK 1995-2020
-institution: "[[Department for Business, Energy, and Industrial Strategy]]"
+institution:
+  - "[[Department for Business]]"
+  - "[[Energy]]"
+  - "[[and Industrial Strategy]]"
 type: "[[@report]]"
 tags:
   - Frontiers-2022
@@ -18,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bishop, Ivan. 2021. “Trade Union Membership, UK 1995-2020: Statistical Bulletin.” [[Department for Business, Energy, and Industrial Strategy]]
+> Bishop, Ivan. 2021. “Trade Union Membership, UK 1995-2020: Statistical Bulletin.” [[Department for Business]], [[Energy]], [[and Industrial Strategy]]

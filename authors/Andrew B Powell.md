@@ -1,6 +1,6 @@
 ---
 author: "Andrew B Powell"
-institution: "House of Commons Library"
+institution: "[[House of Commons Library]]"
 field:
 type:
 aliases:

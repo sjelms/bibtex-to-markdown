@@ -1,6 +1,8 @@
 ---
 author: "Oliver Markschläger"
-institution: "Porsche Consulting GmbH; Autodesk"
+institution:
+  - "[[Autodesk]]"
+  - "[[Porsche Consulting GmbH]]"
 field:
 type:
 aliases:

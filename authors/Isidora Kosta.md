@@ -1,6 +1,6 @@
 ---
 author: "Isidora Kosta"
-institution: "World Economic Forum"
+institution: "[[World Economic Forum]]"
 field:
 type:
 aliases:

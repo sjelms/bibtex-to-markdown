@@ -1,6 +1,6 @@
 ---
 author: "Jon Andrews"
-institution: "PriceWaterhouseCoopers LLP"
+institution: "[[PriceWaterhouseCoopers LLP]]"
 field:
 type:
 aliases:

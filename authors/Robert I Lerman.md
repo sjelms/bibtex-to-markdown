@@ -1,6 +1,8 @@
 ---
 author: "Robert I Lerman"
-institution: "Washington, DC -  Embassy of the Federal Republic of Germany"
+institution:
+  - "[[DC -  Embassy of the Federal Republic of Germany]]"
+  - "[[Washington]]"
 field:
 type:
 aliases:

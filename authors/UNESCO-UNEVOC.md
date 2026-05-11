@@ -1,6 +1,6 @@
 ---
 author: "UNESCO-UNEVOC"
-institution: "United Nation Educational Scientific and Cultural Organisation"
+institution: "[[United Nation Educational Scientific and Cultural Organisation]]"
 field:
 type:
 aliases:

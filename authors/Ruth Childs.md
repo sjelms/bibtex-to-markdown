@@ -1,6 +1,6 @@
 ---
 author: "Ruth Childs"
-institution:
+institution: "[[University of Toronto]]"
 field:
 type:
 aliases:

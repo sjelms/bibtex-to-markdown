@@ -1,6 +1,6 @@
 ---
 author: "James Wilson"
-institution: "American Institute of Architects"
+institution: "[[American Institute of Architects]]"
 field:
 type:
 aliases:

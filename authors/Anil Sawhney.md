@@ -1,6 +1,6 @@
 ---
 author: "Anil Sawhney"
-institution: "Autodesk"
+institution: "[[Autodesk]]"
 field:
 type:
 aliases:

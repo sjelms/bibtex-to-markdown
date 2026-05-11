@@ -1,6 +1,6 @@
 ---
 author: "Brian Green"
-institution: "Chartered Institute of Building"
+institution: "[[Chartered Institute of Building]]"
 field:
 type:
 aliases:

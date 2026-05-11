@@ -1,6 +1,8 @@
 ---
 author: "Lyn Garner"
-institution: "Ministry of Housing, Communities and Local Government"
+institution:
+  - "[[Communities and Local Government]]"
+  - "[[Ministry of Housing]]"
 field:
 type:
 aliases:

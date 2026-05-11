@@ -1,6 +1,6 @@
 ---
 author: "Steve Cole"
-institution: "Make UK"
+institution: "[[Make UK]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Hani Dakhil"
-institution: "World Economic Forum"
+institution: "[[World Economic Forum]]"
 field:
 type:
 aliases:

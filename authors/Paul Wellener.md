@@ -1,6 +1,8 @@
 ---
 author: "Paul Wellener"
-institution: "Deloitte"
+institution:
+  - "[[Deloitte]]"
+  - "[[Deloitte Insights]]"
 field:
 type:
 aliases:

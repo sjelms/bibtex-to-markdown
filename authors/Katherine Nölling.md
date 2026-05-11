@@ -1,6 +1,6 @@
 ---
 author: "Katherine Nölling"
-institution:
+institution: "[[Roland Berger GmbH]]"
 field:
 type:
 aliases:

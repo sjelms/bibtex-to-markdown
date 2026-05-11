@@ -1,6 +1,6 @@
 ---
 author: "Alex Collins Arthur"
-institution: "University College London"
+institution: "[[University College London]]"
 field:
 type:
 aliases:

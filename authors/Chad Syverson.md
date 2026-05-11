@@ -1,6 +1,6 @@
 ---
 author: "Chad Syverson"
-institution: "University of Chicago"
+institution: "[[University of Chicago]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Austan Goolsbee"
-institution: "University of Chicago"
+institution: "[[University of Chicago]]"
 field:
 type:
 aliases:

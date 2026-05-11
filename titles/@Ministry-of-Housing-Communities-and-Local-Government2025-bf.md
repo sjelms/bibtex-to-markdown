@@ -6,7 +6,9 @@ key: "[[@Ministry-of-Housing-Communities-and-Local-Government2025-bf]]"
 aliases:
   - National Planning Policy Framework - Plan-Making And National Decision-Making Policies
   - National Planning Policy Framework
-institution: "[[Ministry of Housing, Communities and Local Government]]"
+institution:
+  - "[[Ministry of Housing]]"
+  - "[[Communities and Local Government]]"
 type: "[[@report]]"
 tags:
   - Government-Report
@@ -23,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Government, Ministry of Housing, Communities, and Local. 2025. “National Planning Policy Framework: Plan-Making and National Decision-Making Policies.” [[Ministry of Housing, Communities and Local Government]]
+> Government, Ministry of Housing, Communities, and Local. 2025. “National Planning Policy Framework: Plan-Making and National Decision-Making Policies.” [[Ministry of Housing]], [[Communities and Local Government]]

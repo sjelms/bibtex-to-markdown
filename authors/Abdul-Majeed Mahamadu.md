@@ -1,6 +1,8 @@
 ---
 author: "Abdul-Majeed Mahamadu"
-institution: "The Bartlett School of Sustainable Construction, University College London"
+institution:
+  - "[[The Bartlett School of Sustainable Construction]]"
+  - "[[University College London]]"
 field:
 type:
 aliases:

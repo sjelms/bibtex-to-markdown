@@ -1,6 +1,6 @@
 ---
 author: "Euan Cameron"
-institution: "PriceWaterhouseCoopers LLP"
+institution: "[[PriceWaterhouseCoopers LLP]]"
 field:
 type:
 aliases:

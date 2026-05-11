@@ -1,6 +1,6 @@
 ---
 author: "Dodge Data & Analytics"
-institution: "USG Corporation"
+institution: "[[USG Corporation]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Joseph Gyourko"
-institution: "National Bureau of Economic Research"
+institution: "[[National Bureau of Economic Research]]"
 field:
 type:
 aliases:

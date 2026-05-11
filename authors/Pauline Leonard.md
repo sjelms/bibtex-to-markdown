@@ -1,6 +1,6 @@
 ---
 author: "Pauline Leonard"
-institution: "UCL Institute of Education"
+institution: "[[UCL Institute of Education]]"
 field:
 type:
 aliases:

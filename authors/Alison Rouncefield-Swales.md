@@ -1,6 +1,6 @@
 ---
 author: "Alison Rouncefield-Swales"
-institution: "University of the West of England"
+institution: "[[University of the West of England]]"
 field:
 type:
 aliases:

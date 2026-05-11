@@ -1,6 +1,6 @@
 ---
 author: "Yves Van Durme"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

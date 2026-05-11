@@ -1,6 +1,10 @@
 ---
 author: "Alison Fuller"
-institution: "Teaching and Learning Research Programme"
+institution:
+  - "[[Teaching and Learning Research Programme]]"
+  - "[[The Gatsby Charitable Foundation]]"
+  - "[[UCL Institute of Education]]"
+  - "[[UKCES]]"
 field:
 type:
 aliases:

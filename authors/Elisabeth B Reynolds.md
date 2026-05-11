@@ -1,6 +1,6 @@
 ---
 author: "Elisabeth B Reynolds"
-institution: "Massachusetts Institute of Technology"
+institution: "[[Massachusetts Institute of Technology]]"
 field:
 type:
 aliases:

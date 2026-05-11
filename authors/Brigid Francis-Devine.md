@@ -1,6 +1,6 @@
 ---
 author: "Brigid Francis-Devine"
-institution: "House of Commons Library"
+institution: "[[House of Commons Library]]"
 field:
 type:
 aliases:

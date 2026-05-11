@@ -1,6 +1,10 @@
 ---
 author: "Alan Felstead"
-institution: "ESRC Research Centre on Skills, Knowledge and Organizational Performance"
+institution:
+  - "[[ESRC Research Centre on Skills]]"
+  - "[[Government Office for Science]]"
+  - "[[Knowledge and Organizational Performance]]"
+  - "[[UKCES]]"
 field:
 type:
 aliases:

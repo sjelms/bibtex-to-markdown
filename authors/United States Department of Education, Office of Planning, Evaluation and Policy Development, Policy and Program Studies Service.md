@@ -1,6 +1,6 @@
 ---
 author: "United States Department of Education, Office of Planning, Evaluation and Policy Development, Policy and Program Studies Service"
-institution: "United States Department of Education"
+institution: "[[United States Department of Education]]"
 field:
 type:
 aliases:

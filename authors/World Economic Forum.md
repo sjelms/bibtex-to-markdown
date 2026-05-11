@@ -1,6 +1,6 @@
 ---
 author: "World Economic Forum"
-institution: "Centre for the New Economy and Society"
+institution: "[[Centre for the New Economy and Society]]"
 field:
 type:
 aliases:

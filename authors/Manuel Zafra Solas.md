@@ -1,6 +1,6 @@
 ---
 author: "Manuel Zafra Solas"
-institution: "World Economic Forum"
+institution: "[[World Economic Forum]]"
 field:
 type:
 aliases:

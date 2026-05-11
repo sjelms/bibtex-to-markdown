@@ -1,6 +1,8 @@
 ---
 author: "Jan Mischke"
-institution: "McKinsey Global Institute"
+institution:
+  - "[[McKinsey Global Institute]]"
+  - "[[McKinsey and Company]]"
 field:
 type:
 aliases:

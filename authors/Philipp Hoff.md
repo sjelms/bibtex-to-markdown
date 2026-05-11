@@ -1,6 +1,6 @@
 ---
 author: "Philipp Hoff"
-institution: "Roland Berger GmbH"
+institution: "[[Roland Berger GmbH]]"
 field:
 type:
 aliases:

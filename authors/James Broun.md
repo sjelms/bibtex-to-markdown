@@ -1,6 +1,6 @@
 ---
 author: "James Broun"
-institution: "Make UK"
+institution: "[[Make UK]]"
 field:
 type:
 aliases:

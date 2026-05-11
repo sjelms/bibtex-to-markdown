@@ -1,6 +1,6 @@
 ---
 author: "Michael Bühler"
-institution:
+institution: "[[World Economic Forum]]"
 field:
 type:
 aliases:

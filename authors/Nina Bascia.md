@@ -1,6 +1,6 @@
 ---
 author: "Nina Bascia"
-institution:
+institution: "[[University of Toronto]]"
 field:
 type:
 aliases:

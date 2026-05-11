@@ -1,6 +1,6 @@
 ---
 author: "Jeff Schwartz"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

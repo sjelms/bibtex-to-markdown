@@ -15,7 +15,9 @@ key: "[[@Lyons2025-oc]]"
 aliases:
   - New Towns Taskforce - Report To Government
   - New Towns Taskforce
-institution: "[[Ministry of Housing, Communities and Local Government]]"
+institution:
+  - "[[Ministry of Housing]]"
+  - "[[Communities and Local Government]]"
 publisher: "[[HM Government]]"
 type: "[[@report]]"
 tags:

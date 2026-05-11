@@ -1,6 +1,11 @@
 ---
 author: "Lorna Unwin"
-institution: "Government Office for Science"
+institution:
+  - "[[Government Office for Science]]"
+  - "[[Teaching and Learning Research Programme]]"
+  - "[[UCL Institute of Education]]"
+  - "[[UKCES]]"
+  - "[[University of Manchester]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Leilani Farha"
-institution: "UCL Institute for Innovation and Public Purpose"
+institution: "[[UCL Institute for Innovation and Public Purpose]]"
 field:
 type:
 aliases:

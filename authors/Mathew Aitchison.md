@@ -1,6 +1,6 @@
 ---
 author: "Mathew Aitchison"
-institution:
+institution: "[[Monash University]]"
 field:
 type:
 aliases:

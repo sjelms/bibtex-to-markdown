@@ -1,6 +1,6 @@
 ---
 author: "Matthew Thompson"
-institution: "RIBA"
+institution: "[[RIBA]]"
 field:
 type:
 aliases:

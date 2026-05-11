@@ -1,6 +1,6 @@
 ---
 author: "Michelle Meisels"
-institution: "Deloitte"
+institution: "[[Deloitte]]"
 field:
 type:
 aliases:

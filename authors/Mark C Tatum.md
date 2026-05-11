@@ -1,6 +1,6 @@
 ---
 author: "Mark C Tatum"
-institution: "Associated General Contractors of America"
+institution: "[[Associated General Contractors of America]]"
 field:
 type:
 aliases:

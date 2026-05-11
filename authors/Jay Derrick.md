@@ -1,6 +1,6 @@
 ---
 author: "Jay Derrick"
-institution: "UCL (University College London)"
+institution: "[[UCL (University College London)]]"
 field:
 type:
 aliases:

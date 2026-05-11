@@ -1,6 +1,6 @@
 ---
 author: "Armstrong Laboratory Air Force Materiel Command"
-institution: "United States Air Force"
+institution: "[[United States Air Force]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Moylan, D. M. G., Lord"
-institution: "UK House of Lords Built Environment Committee"
+institution: "[[UK House of Lords Built Environment Committee]]"
 field:
 type:
 aliases:

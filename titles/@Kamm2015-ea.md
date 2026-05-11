@@ -7,7 +7,9 @@ key: "[[@Kamm2015-ea]]"
 aliases:
   - The Skills Initiative - Expanding Apprenticeship In The U.s. - Lessons From The German Dual Education System
   - The Skills Initiative
-institution: "[[Washington, DC -  Embassy of the Federal Republic of Germany]]"
+institution:
+  - "[[Washington]]"
+  - "[[DC -  Embassy of the Federal Republic of Germany]]"
 type: "[[@report]]"
 tags:
   - VET-TVET
@@ -17,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kamm, Bryan, Robert I Lerman. 2015. “The Skills Initiative: Expanding Apprenticeship in the U.S. - Lessons from the German Dual Education System.” [[Washington, DC -  Embassy of the Federal Republic of Germany]]
+> Kamm, Bryan, Robert I Lerman. 2015. “The Skills Initiative: Expanding Apprenticeship in the U.S. - Lessons from the German Dual Education System.” [[Washington]], [[DC -  Embassy of the Federal Republic of Germany]]

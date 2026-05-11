@@ -1,6 +1,8 @@
 ---
 author: "Carl Benedikt Frey"
-institution: "Oxford Martin School, University of Oxford,"
+institution:
+  - "[[Oxford Martin School]]"
+  - "[[University of Oxford]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Trudi Martin"
-institution: "University of Manchester"
+institution: "[[University of Manchester]]"
 field:
 type:
 aliases:

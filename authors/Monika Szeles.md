@@ -1,6 +1,6 @@
 ---
 author: "Monika Szeles"
-institution: "Institute of Electrical and Electronics Engineers"
+institution: "[[Institute of Electrical and Electronics Engineers]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Sherrie P Gott"
-institution: "United States Air Force"
+institution: "[[United States Air Force]]"
 field:
 type:
 aliases:

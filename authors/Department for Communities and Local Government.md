@@ -1,6 +1,6 @@
 ---
 author: "Department for Communities and Local Government"
-institution: "HM Government"
+institution: "[[HM Government]]"
 field:
 type:
 aliases:

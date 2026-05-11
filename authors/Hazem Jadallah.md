@@ -1,6 +1,6 @@
 ---
 author: "Hazem Jadallah"
-institution: "Louisiana State University"
+institution: "[[Louisiana State University]]"
 field:
 type:
 aliases:

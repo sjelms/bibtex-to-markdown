@@ -1,6 +1,6 @@
 ---
 author: "Leesa Wheelahan"
-institution:
+institution: "[[University of Toronto]]"
 field:
 type:
 aliases:

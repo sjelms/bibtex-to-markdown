@@ -1,6 +1,6 @@
 ---
 author: "Pedro Rodrigues de Almeida"
-institution:
+institution: "[[World Economic Forum]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "Yinggang Wang"
-institution: "University of Kentucky"
+institution: "[[University of Kentucky]]"
 field:
 type:
 aliases:

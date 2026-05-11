@@ -1,6 +1,6 @@
 ---
 author: "Department of Economic History"
-institution: "London School of Economics and Political Science"
+institution: "[[London School of Economics and Political Science]]"
 field:
 type:
 aliases:

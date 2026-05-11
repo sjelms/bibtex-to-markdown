@@ -1,6 +1,6 @@
 ---
 author: "Fei Qin"
-institution: "Massachusetts Institute of Technology Industrial Performance Center"
+institution: "[[Massachusetts Institute of Technology Industrial Performance Center]]"
 field:
 type:
 aliases:

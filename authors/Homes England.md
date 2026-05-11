@@ -1,6 +1,6 @@
 ---
 author: "Homes England"
-institution: "Homes England"
+institution: "[[Homes England]]"
 field:
 type:
 aliases:

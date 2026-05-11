@@ -1,6 +1,6 @@
 ---
 author: "Campbell Brooks"
-institution: "House of Commons Library"
+institution: "[[House of Commons Library]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "T Wilson"
-institution: "Institute for Employment Studies"
+institution: "[[Institute for Employment Studies]]"
 field:
 type:
 aliases:

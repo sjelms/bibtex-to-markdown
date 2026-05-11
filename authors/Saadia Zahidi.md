@@ -1,6 +1,8 @@
 ---
 author: "Saadia Zahidi"
-institution: "Centre for the New Economy and Society"
+institution:
+  - "[[Centre for the New Economy and Society]]"
+  - "[[World Economic Forum Platform for Shaping the Future of the New Economy and Society]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "William B Bonvillian"
-institution: "MIT Work of the Future"
+institution: "[[MIT Work of the Future]]"
 field:
 type:
 aliases:

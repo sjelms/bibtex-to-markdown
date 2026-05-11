@@ -1,6 +1,6 @@
 ---
 author: "Luke Monck"
-institution: "Deloitte Insights"
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 author: "USG Corporation"
-institution: "USG Corporation"
+institution: "[[USG Corporation]]"
 field:
 type:
 aliases:

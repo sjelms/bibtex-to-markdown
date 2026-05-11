@@ -1,6 +1,6 @@
 ---
 author: "Erik Brynjolfsson"
-institution: "MIT Center for Digital Business"
+institution: "[[MIT Center for Digital Business]]"
 field:
 type:
 aliases:

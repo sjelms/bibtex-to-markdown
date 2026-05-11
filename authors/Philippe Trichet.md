@@ -1,6 +1,6 @@
 ---
 author: "Philippe Trichet"
-institution: "Boston Consulting Group"
+institution: "[[Boston Consulting Group]]"
 field:
 type:
 aliases:

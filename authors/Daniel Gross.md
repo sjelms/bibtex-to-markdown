@@ -1,6 +1,6 @@
 ---
 author: "Daniel Gross"
-institution: "National Bureau of Economic Research"
+institution: "[[National Bureau of Economic Research]]"
 field:
 type:
 aliases:

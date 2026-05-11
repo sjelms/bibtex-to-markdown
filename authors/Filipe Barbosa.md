@@ -1,6 +1,6 @@
 ---
 author: "Filipe Barbosa"
-institution: "McKinsey Global Institute"
+institution: "[[McKinsey Global Institute]]"
 field:
 type:
 aliases:

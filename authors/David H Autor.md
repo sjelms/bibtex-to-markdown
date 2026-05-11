@@ -1,6 +1,8 @@
 ---
 author: "David H Autor"
-institution: "Massachusetts Institute of Technology"
+institution:
+  - "[[Massachusetts Institute of Technology]]"
+  - "[[National Bureau of Economic Research]]"
 field:
 type:
 aliases:

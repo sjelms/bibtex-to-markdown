@@ -1,6 +1,9 @@
 ---
 author: "Tyler Pullen"
-institution: "Terner Center for Housing Innovation; University of California, Berkeley"
+institution:
+  - "[[Berkeley]]"
+  - "[[Terner Center for Housing Innovation]]"
+  - "[[University of California]]"
 field:
 type:
 aliases:

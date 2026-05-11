@@ -1,6 +1,6 @@
 ---
 author: "Office of Qualifications and Examinations Regulation"
-institution: "Office of Qualifications and Examinations Regulation"
+institution: "[[Office of Qualifications and Examinations Regulation]]"
 field:
 type:
 aliases:

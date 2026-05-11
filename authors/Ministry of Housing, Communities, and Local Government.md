@@ -1,6 +1,10 @@
 ---
 author: "Ministry of Housing, Communities, and Local Government"
-institution: "Ministry of Housing, Communities and Local Government"
+institution:
+  - "[[Communities]]"
+  - "[[Communities and Local Government]]"
+  - "[[Ministry of Housing]]"
+  - "[[and Local Government]]"
 field:
 type:
 aliases:

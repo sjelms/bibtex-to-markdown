@@ -1,6 +1,6 @@
 ---
 author: "Global Infrastructure Hub"
-institution: "Global Infrastructure Hub"
+institution: "[[Global Infrastructure Hub]]"
 field:
 type:
 aliases:

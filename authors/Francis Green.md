@@ -1,6 +1,8 @@
 ---
 author: "Francis Green"
-institution: "ESRC Research Centre on Skills, Knowledge and Organizational Performance"
+institution:
+  - "[[ESRC Research Centre on Skills]]"
+  - "[[Knowledge and Organizational Performance]]"
 field:
 type:
 aliases:

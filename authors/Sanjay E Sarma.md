@@ -1,6 +1,6 @@
 ---
 author: "Sanjay E Sarma"
-institution: "MIT Work of the Future"
+institution: "[[MIT Work of the Future]]"
 field:
 type:
 aliases:

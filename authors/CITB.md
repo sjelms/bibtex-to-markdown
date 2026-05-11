@@ -1,6 +1,6 @@
 ---
 author: "CITB"
-institution: "Construction Industry Training Board"
+institution: "[[Construction Industry Training Board]]"
 field:
 type:
 aliases:

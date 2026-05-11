@@ -1,6 +1,6 @@
 ---
 author: "Duncan Maxwell"
-institution:
+institution: "[[Monash University]]"
 field:
 type:
 aliases:

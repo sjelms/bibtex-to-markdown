@@ -1,6 +1,6 @@
 ---
 author: "Debra Pothier"
-institution: "Autodesk"
+institution: "[[Autodesk]]"
 field:
 type:
 aliases:

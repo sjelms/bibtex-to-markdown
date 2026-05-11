@@ -1,6 +1,6 @@
 ---
 author: "Stephen A Jones"
-institution:
+institution: "[[Prefabrication and Modular Construction 2020]]"
 field:
 type:
 aliases:

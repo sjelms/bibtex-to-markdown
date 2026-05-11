@@ -1,6 +1,8 @@
 ---
 author: "Jack Crayne"
-institution: "California Polytechnic State University, San Luis Obispo"
+institution:
+  - "[[California Polytechnic State University]]"
+  - "[[San Luis Obispo]]"
 field:
 type:
 aliases:

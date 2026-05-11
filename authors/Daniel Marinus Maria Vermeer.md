@@ -1,6 +1,6 @@
 ---
 author: "Daniel Marinus Maria Vermeer"
-institution: "University College London"
+institution: "[[University College London]]"
 field:
 type:
 aliases:

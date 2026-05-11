@@ -1,6 +1,6 @@
 ---
 author: "Darren Olsen"
-institution: "Associated General Contractors of America"
+institution: "[[Associated General Contractors of America]]"
 field:
 type:
 aliases:
