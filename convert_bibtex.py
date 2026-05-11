@@ -357,9 +357,16 @@ for key, entry in bib_data.entries.items():
 
     # Get other fields and wrap them in [[ ]] and quotes, only if they exist
     raw_institution = latex_to_unicode(get_field(fields, "institution", "organization"))
-    institution_clean = clean_text(raw_institution, is_yaml=True) if raw_institution else ""
-    institution_link = f"[[{institution_clean}]]" if institution_clean else ""
-    institution = f'"{institution_link}"' if institution_link else None
+    institution_links = []
+    if raw_institution:
+        # Split by comma or semicolon while preserving the institution names
+        inst_parts = re.split(r'[;,]', raw_institution)
+        for part in inst_parts:
+            part_clean = clean_text(part, is_yaml=True)
+            if part_clean:
+                institution_links.append(f"[[{part_clean}]]")
+
+    institution_bib = ", ".join(institution_links) if institution_links else ""
 
     raw_publisher = latex_to_unicode(get_field(fields, "publisher"))
     raw_journal = latex_to_unicode(get_field(fields, "journaltitle", "journal"))
@@ -383,8 +390,8 @@ for key, entry in bib_data.entries.items():
         bibliography_source = publisher_link
     elif journal_link:
         bibliography_source = journal_link
-    elif institution_link:
-        bibliography_source = institution_link
+    elif institution_bib:
+        bibliography_source = institution_bib
 
     url = get_field(fields, "url")
     doi = get_field(fields, "doi")
@@ -430,8 +437,13 @@ for key, entry in bib_data.entries.items():
             yaml_lines.append(f"  - {a}")
 
     # Only add non-None fields
-    if institution is not None:
-        yaml_lines.append(f"institution: {institution}")
+    if institution_links:
+        if len(institution_links) == 1:
+            yaml_lines.append(f'institution: "{institution_links[0]}"')
+        else:
+            yaml_lines.append("institution:")
+            for link in institution_links:
+                yaml_lines.append(f'  - "{link}"')
     if journal is not None:
         yaml_lines.append(f"journal: {journal}")
     if publisher is not None:
@@ -491,10 +503,11 @@ for key, entry in bib_data.entries.items():
             author_metadata[clean_author]['citations'].append(key)
         author_metadata[clean_author]['moc_display'][key] = display_alias
 
-        # Track institution if available
-        if institution:
-            inst = institution.replace('"[[', '').replace(']]"', '')
-            author_metadata[clean_author]['institutions'].add(inst)
+        # Track institutions if available
+        if institution_links:
+            for link in institution_links:
+                inst = link.replace('[[', '').replace(']]', '')
+                author_metadata[clean_author]['institutions'].add(inst)
 
     # Also create pages for editors (so all [[names]] have files)
     for editor in formatted_editors:
@@ -508,6 +521,12 @@ for key, entry in bib_data.entries.items():
         if key not in author_metadata[clean_editor]['citations']:
             author_metadata[clean_editor]['citations'].append(key)
         author_metadata[clean_editor]['moc_display'][key] = display_alias
+
+        # Track institutions if available
+        if institution_links:
+            for link in institution_links:
+                inst = link.replace('[[', '').replace(']]', '')
+                author_metadata[clean_editor]['institutions'].add(inst)
 
     # Track publisher/journal entity pages
     def ensure_entity(name: str, category: str):
@@ -554,7 +573,12 @@ if not args.only_with_editors and not args.no_author_files:
         # Add institutions if any
         if metadata['institutions']:
             institutions = sorted(list(metadata['institutions']))
-            author_yaml.append(f'institution: "{institutions[0]}"')  # Use first institution as primary
+            if len(institutions) == 1:
+                author_yaml.append(f'institution: "[[{institutions[0]}]]"')
+            else:
+                author_yaml.append("institution:")
+                for inst in institutions:
+                    author_yaml.append(f'  - "[[{inst}]]"')
         else:
             author_yaml.append("institution:")
 
