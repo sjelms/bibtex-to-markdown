@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-11T06:41:48
+amended: 2026-05-11T06:46:15
 ---
 
 # Directory
@@ -183,6 +183,7 @@ amended: 2026-05-11T06:41:48
 - [[@Steinicke2016-nh|Being Really Virtual - Immersive Natives And The Future Of Virtual Reality]]
 - [[@Knapp2016-al|Sprint - How To Solve Big Problems And Test New Ideas In Just Five Days]]
 - [[@Aitchison2016-ok|The Architecture Of Industry - Changing Paradigms In Industrial Building And Planning]]
+- [[@Marmot2016-bk|The Health Gap - The Challenge Of An Unequal World]]
 - [[@Lucas2016-ot|Research Methods For Architecture]]
 - [[@Luckin2016-lp|Intelligence Unleashed - An Argument For AI In Education]]
 - [[@Clark2016-ix|E-Learning And The Science Of Instruction - Proven Guidelines For Consumers And Designers Of Multimedia Learning]]
