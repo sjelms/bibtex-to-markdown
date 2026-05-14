@@ -9,6 +9,7 @@ journal: "[[Journal of Human Resource Management]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - AEC_learning_theory_2021-26
   - Workplace-Learning
   - VET
   - Knowledge-Skill-Acquisition

@@ -11,6 +11,7 @@ publisher: "[[BMJ]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - AEC_learning_theory_2021-26
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
 ---
