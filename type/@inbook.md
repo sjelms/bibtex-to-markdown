@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-14T13:36:39
+amended: 2026-05-14T13:37:18
 ---
 
 # Directory
@@ -165,6 +165,7 @@ amended: 2026-05-14T13:36:39
 - [[@Armstrong2008-wr|From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House]]
 ### 2007
 - [[@Forman2007-cf|Qualitative Content Analysis]]
+- [[@Kraiger2007-jw|The Expanding Role Of Workplace Training - Themes And Trends Influencing Training Research And Practice]]
 ### 2006
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 ### 2004
