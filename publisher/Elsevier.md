@@ -28,4 +28,5 @@ category:
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 [[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
+[[@Raeisinafchi2025-eo|Comparing Training Delivery Methods]]
 [[@Wigdor2011-kl|Brave NUI World]]

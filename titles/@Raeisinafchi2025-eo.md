@@ -12,7 +12,7 @@ aliases:
   - Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers
   - Comparing Training Delivery Methods
 journal: "[[Safety Science]]"
-publisher: "[[Elsevier BV]]"
+publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:
   - AEC_learning_theory_2021-26
@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Raeisinafchi, Roya, Siddharth Bhandari, Logan Perry, Matthew R Hallowell, Alex Albert, Josh Correll. 2025. “Comparing training delivery methods: Impact on learning outcomes and engagement among construction workers.” [[Elsevier BV]]. http://dx.doi.org/10.1016/j.ssci.2025.106870
+> Raeisinafchi, Roya, Siddharth Bhandari, Logan Perry, Matthew R Hallowell, Alex Albert, Josh Correll. 2025. “Comparing training delivery methods: Impact on learning outcomes and engagement among construction workers.” [[Elsevier]]. https://www.sciencedirect.com/science/article/pii/S0925753525000955?via%3Dihub
 
 > [!abstract]
 > Effective safety training is crucial for enhancing workers’ safety awareness and promoting safer behaviors, yet delivering such training within time a…

@@ -8,7 +8,7 @@ key: "[[@Harvey2019-fr]]"
 aliases:
   - Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities
   - Applying HRO And Resilience Engineering To Construction
-journal: "[[Safety science]]"
+journal: "[[Safety Science]]"
 publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:
