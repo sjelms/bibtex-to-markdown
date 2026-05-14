@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Ahlgren2011-ye|Lifelong Learning Through Smes]]
+[[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 [[@Billett2001-xo|Learning Through Work]]
 [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
 [[@Bishop2020-ox|Firm Size And Workplace Learning Processes]]

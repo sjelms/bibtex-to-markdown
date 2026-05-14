@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-05-14T13:54:09
+amended: 2026-05-14T16:32:58
 ---
 
 # Directory
@@ -57,6 +57,7 @@ amended: 2026-05-14T13:54:09
 - [[@Zimmons2003-kh|The Influence Of Rendering Quality On Presence And Task Performance In A Virtual Environment]]
 ### 2001
 - [[@Luckin2001-ue|Ecolab - Exploring The Construction Of A Learning Assistant]]
+- [[@Billett2001-zq|Confronting The Challenges To Improving Attainment In Learning At Work]]
 ### 2000
 - [[@Millen2000-tf|Rapid Ethnography - Time Deepening Strategies For HCI Field Research]]
 ## 1990-1999

@@ -10,8 +10,10 @@ aliases:
 ## Stephen Billett
 
 ### Content:
+[[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
 [[@Billett2001-xo|Learning Through Work]]
+[[@Billett2001-zq|Confronting The Challenges To Improving Attainment In Learning At Work]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
@@ -26,9 +28,13 @@ aliases:
 
 #### Bibliography:
 
+![[@Billett1994-nl]]
+
 ![[@Billett1996-pa]]
 
 ![[@Billett2001-xo]]
+
+![[@Billett2001-zq]]
 
 ![[@Billett2003-kh]]
 

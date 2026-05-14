@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-14T13:54:09
+amended: 2026-05-14T16:32:58
 ---
 
 # Directory
@@ -344,6 +344,7 @@ amended: 2026-05-14T13:54:09
 - [[@Bartel1994-wm|Productivity Gains From The Implementation Of Employee Training Programs]]
 - [[@Murdoch1994-or|Rural Studies Of Power And The Power Of Rural Studies - A Reply To Philo]]
 - [[@Milgram1994-cg|A Taxonomy Of Mixed Reality Visual Displays]]
+- [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 ### 1993
 - [[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
