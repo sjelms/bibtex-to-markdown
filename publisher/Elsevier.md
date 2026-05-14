@@ -29,4 +29,5 @@ category:
 [[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
 [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods]]
+[[@Rasouli2025-kf|Reconstructing Construction Safety Training]]
 [[@Wigdor2011-kl|Brave NUI World]]

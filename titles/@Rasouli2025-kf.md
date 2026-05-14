@@ -9,7 +9,7 @@ aliases:
   - Reconstructing Construction Safety Training - A Systematic Review Based On Learning Theories And Instructional Design Principles
   - Reconstructing Construction Safety Training
 journal: "[[Safety Science]]"
-publisher: "[[Elsevier BV]]"
+publisher: "[[Elsevier]]"
 type: "[[@article]]"
 tags:
   - AEC_learning_theory_2021-26
@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Rasouli, Mahdi, Hossein Karimi, Javad Hatami. 2025. “Reconstructing construction safety training: A systematic review based on learning theories and instructional design principles.” [[Elsevier BV]]. http://dx.doi.org/10.1016/j.ssci.2024.106769
+> Rasouli, Mahdi, Hossein Karimi, Javad Hatami. 2025. “Reconstructing construction safety training: A systematic review based on learning theories and instructional design principles.” [[Elsevier]]. http://dx.doi.org/10.1016/j.ssci.2024.106769
 
 > [!abstract]
 > The construction industry faces a high rate of safety accidents. Despite being a critical component of safety management, safety training often falls …
