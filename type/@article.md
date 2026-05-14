@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-14T13:37:18
+amended: 2026-05-14T13:50:56
 ---
 
 # Directory
@@ -386,6 +386,9 @@ amended: 2026-05-14T13:37:18
 ## 1960-1969
 ### 1961
 - [[@Bruner1961-ca|The Act Of Discovery]]
+## 1950-1959
+### 1950
+- [[@Turing1950-ky|Computing Machinery And Intelligence]]
 ## 1910-1919
 ### 1913
 - [[@Watson1913-pc|Psychology As The Behaviorist Views It]]
