@@ -12,9 +12,12 @@ aliases:
 ### Content:
 [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model]]
 [[@Nielsen2022-sr|A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction]]
+[[@Vignoli2021-tg|Design Of A Safety Training Package For Migrant Workers In The Construction Industry]]
 
 #### Bibliography:
 
 ![[@Nielsen2021-xt]]
 
 ![[@Nielsen2022-sr]]
+
+![[@Vignoli2021-tg]]

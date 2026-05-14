@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-14T13:04:59
+amended: 2026-05-14T13:27:54
 ---
 
 # Directory
@@ -285,6 +285,7 @@ amended: 2026-05-14T13:04:59
 - [[@Engestrom2008-wp|From Teams To Knots - Activity-Theoretical Studies Of Collaboration And Learning At Work]]
 ### 2007
 - [[@Pursell2007-xe|The Machine In America - A Social History Of Technology]]
+- [[@Koppes2007-et|Historical Perspectives In Industrial And Organizational Psychology]]
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
 - [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
 - [[@Young2007-eo|Bringing Knowledge Back In - From Social Constructivism To Social Realism In The Sociology Of Education]]

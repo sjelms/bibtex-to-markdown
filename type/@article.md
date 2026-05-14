@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-14T13:04:59
+amended: 2026-05-14T13:27:54
 ---
 
 # Directory
@@ -79,6 +79,7 @@ amended: 2026-05-14T13:04:59
 - [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
+- [[@Vignoli2021-tg|Design Of A Safety Training Package For Migrant Workers In The Construction Industry]]
 - [[@Nerland2021-cp|Challenging The Belief In Simple Solutions - The Need For Epistemic Practices In Professional Work]]
 - [[@Puntambekar2021-pm|Distributed Scaffolding - Scaffolding Students In Classroom Environments]]
 - [[@Balasubramanian2021-ju|The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market]]
@@ -144,6 +145,7 @@ amended: 2026-05-14T13:04:59
 - [[@Belaya2018-we|The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
+- [[@Bell2017-oz|100 Years Of Training And Development Research - What We Know And Where We Should Go]]
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
 - [[@Kivunja2017-zr|Understanding And Applying Research Paradigms In Educational Contexts]]
 - [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
@@ -358,6 +360,7 @@ amended: 2026-05-14T13:04:59
 ### 1987
 - [[@Bartel1987-bu|The Comparative Advantage Of Educated Workers In Implementing New Technology]]
 - [[@Attewell1987-vr|The Deskilling Controversy]]
+- [[@Wagner1987-jz|Tacit Knowledge In Everyday Intelligent Behavior]]
 ### 1985
 - [[@Ledewitz1985-qi|Models Of Design In Studio Teaching]]
 ### 1982
@@ -376,6 +379,7 @@ amended: 2026-05-14T13:04:59
 ### 1973
 - [[@Sage1973-wn|In Memoriam - Jaime R. Carbonell]]
 ### 1971
+- [[@Campbell1971-dd|Personnel Training And Development]]
 - [[@Abeck1971-vn|US Steel Fabricates Rooms For Florida's Disney World]]
 ### 1970
 - [[@Carbonell1970-ty|AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction]]
