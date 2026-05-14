@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-14T11:14:35
+amended: 2026-05-14T11:20:03
 ---
 
 # Directory
@@ -390,6 +390,8 @@ amended: 2026-05-14T11:14:35
 ### 1966
 - [[@Polanyi1966-zb|The Tacit Dimension]]
 ## 1950-1959
+### 1956
+- [[@Bloom1956-ix|Taxonomy Of Educational Objectives - The Classification Of Educational Goals]]
 ### 1952
 - [[@Ashby1952-yz|Design For A Brain - The Origin Of Adaptive Behaviour]]
 ### 1951

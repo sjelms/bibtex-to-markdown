@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-14T11:14:35
+amended: 2026-05-14T11:20:03
 ---
 
 # Directory
@@ -17,6 +17,9 @@ amended: 2026-05-14T11:14:35
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 - [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
+- [[@Rasouli2025-kf|Reconstructing Construction Safety Training - A Systematic Review Based On Learning Theories And Instructional Design Principles]]
+- [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers]]
+- [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
 ### 2024
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
@@ -88,6 +91,7 @@ amended: 2026-05-14T11:14:35
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
+- [[@Lensjo2020-mv|Stories Of Learning - A Case Study Of Norwegian Plumbers And Apprentices In TVET At The Construction Site And In A Training Agency]]
 - [[@Pan2020-aw|Understanding The Determinants Of Construction Robot Adoption - Perspective Of Building Contractors]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
 - [[@Rybnicek2020-yh|World's Oldest Dendrochronologically Dated Archaeological Wood Construction]]
@@ -173,6 +177,7 @@ amended: 2026-05-14T11:14:35
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
+- [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]
 - [[@Coenen2015-pe|The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes]]
 - [[@Ponterotto2015-bf|Brief Note On The Origins, Evolution, And Meaning Of The Qualitative Research Concept Thick Description]]
 - [[@Wang2015-lz|An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior]]

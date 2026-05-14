@@ -1,10 +1,12 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-05-14T11:14:35
+amended: 2026-05-14T11:20:03
 ---
 
 # Directory
 ## 2020-2029
+### 2025
+- [[@Solin2025-au|A Global Review Of Modern Methods Of Construction (MMC) Workforce Training]]
 ### 2021
 - [[@Kyriacou2021-iu|Learning To Work In A Materials Recovery Facility - Can Humans And Machines Learn From Each Other?]]
 - [[@Ju2021-le|Evaluating Critical Reinforcement Learning Framework In The Field]]

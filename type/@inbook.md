@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-14T11:14:35
+amended: 2026-05-14T11:20:03
 ---
 
 # Directory
@@ -59,6 +59,7 @@ amended: 2026-05-14T11:14:35
 - [[@Guile2019-hk|VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century]]
 - [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics]]
 - [[@Broad2019-rn|Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise]]
+- [[@Simu2019-by|A Test Platform Of Viable Methods To Improve Production And Learning On Construction Sites]]
 - [[@Saunders2019-ko|Understanding Research Philosophy And Approaches To Theory Development]]
 - [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 - [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training - Pedagogy, Curriculum, And Assessment]]

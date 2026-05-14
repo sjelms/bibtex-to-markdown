@@ -1,20 +1,17 @@
 ---
-author: "Lars Stehn"
+author: "Anders Ekholm"
 institution:
 field:
 type:
 aliases:
-  - Stehn
+  - Ekholm
 ---
 
-## Lars Stehn
+## Anders Ekholm
 
 ### Content:
 [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]
-[[@Lidelow2015-pk|Industriellt Husbyggande]]
 
 #### Bibliography:
 
 ![[@Lessing2015-mh]]
-
-![[@Lidelow2015-pk]]
