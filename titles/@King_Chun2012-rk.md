@@ -7,7 +7,7 @@ author - 3: "[[Martin Skitmore]]"
 key: "[[@King_Chun2012-rk]]"
 aliases:
   - The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage
-journal: "[[Construction innovation]]"
+journal: "[[Construction Innovation]]"
 publisher: "[[Emerald]]"
 type: "[[@article]]"
 tags:
