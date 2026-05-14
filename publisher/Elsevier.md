@@ -28,6 +28,7 @@ category:
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 [[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
+[[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model]]
 [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods]]
 [[@Rasouli2025-kf|Reconstructing Construction Safety Training]]
 [[@Wigdor2011-kl|Brave NUI World]]

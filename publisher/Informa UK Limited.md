@@ -27,6 +27,7 @@ category:
 [[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
 [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
+[[@Nielsen2022-sr|A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction]]
 [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 [[@Pan2011-ks|Demystifying The Cost Barriers To Offsite Construction In The UK]]
 [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations]]

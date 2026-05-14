@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-14T11:48:25
+amended: 2026-05-14T12:19:24
 ---
 
 # Directory
@@ -54,6 +54,7 @@ amended: 2026-05-14T11:48:25
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
 - [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
+- [[@Nielsen2022-sr|A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction]]
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
 - [[@Pan2022-rw|Artificial Intelligence And Robotics For Prefabricated And Modular Construction - A Systematic Literature Review]]
@@ -75,6 +76,7 @@ amended: 2026-05-14T11:48:25
 - [[@Brynjolfsson2021-sf|The Productivity J-Curve - How Intangibles Complement General Purpose Technologies]]
 - [[@Jadallah2021-is|Construction Industry Training Assessment Framework]]
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
+- [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
 - [[@Nerland2021-cp|Challenging The Belief In Simple Solutions - The Need For Epistemic Practices In Professional Work]]
