@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-14T12:19:24
+amended: 2026-05-14T13:04:59
 ---
 
 # Directory
@@ -67,7 +67,6 @@ amended: 2026-05-14T12:19:24
 - [[@Ahmed2022-tl|Validity And Reliability In Built Environment Research - A Selection Of Case Studies]]
 ### 2021
 - [[@Aksamija2021-xl|Research Methods For The Architectural Profession]]
-- [[@Bandura2021-hp|Psychological Modeling - Conflicting Theories]]
 - [[@Kirby2021-nb|Neurodiversity At Work - Drive Innovation, Performance, And Productivity With A Neurodiverse Workforce]]
 - [[@Calder2021-iy|Architecture - From Prehistory To Climate Emergency]]
 - [[@Vindrola-Padros2021-eq|Doing Rapid Qualitative Research]]
@@ -382,6 +381,8 @@ amended: 2026-05-14T12:19:24
 - [[@Thompson1973-ow|Foundations Of Vocational Education - Social And Philosophical Concepts]]
 ### 1972
 - [[@Terkel1972-sg|Working - People Talk About What They Do All Day And How They Feel About What They Do]]
+### 1971
+- [[@Bandura1971-cl|Psychological Modeling - Conflicting Theories]]
 ## 1960-1969
 ### 1968
 - [[@Merton1968-ny|Social Theory And Social Structure]]

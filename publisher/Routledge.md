@@ -19,7 +19,7 @@ category:
 [[@Aitchison2017-ps|Prefabricated Housing In Architectural Culture]]
 [[@Aksamija2021-xl|Research Methods For The Architectural Profession]]
 [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
-[[@Bandura2021-hp|Psychological Modeling]]
+[[@Bandura1971-cl|Psychological Modeling]]
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 [[@Beckett2002-tf|Life, Work And Learning]]
 [[@Bell2018-ot|Research Methods In Education]]

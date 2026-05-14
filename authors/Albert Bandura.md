@@ -10,8 +10,8 @@ aliases:
 ## Albert Bandura
 
 ### Content:
-[[@Bandura2021-hp|Psychological Modeling]]
+[[@Bandura1971-cl|Psychological Modeling]]
 
 #### Bibliography:
 
-![[@Bandura2021-hp]]
+![[@Bandura1971-cl]]
