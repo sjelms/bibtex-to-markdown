@@ -15,6 +15,8 @@ tags:
   - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Knowledge-Skill-Acquisition
+  - Workplace-Learning
 ---
 
 > [!bibliography]
