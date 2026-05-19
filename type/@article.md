@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-19T14:35:50
+amended: 2026-05-19T14:56:29
 ---
 
 # Directory
@@ -342,6 +342,7 @@ amended: 2026-05-19T14:35:50
 ### 1994
 - [[@Corbett1994-kx|Knowledge Tracing - Modeling The Acquisition Of Procedural Knowledge]]
 - [[@Bartel1994-wm|Productivity Gains From The Implementation Of Employee Training Programs]]
+- [[@Nonaka1994-ec|A Dynamic Theory Of Organizational Knowledge Creation]]
 - [[@Murdoch1994-or|Rural Studies Of Power And The Power Of Rural Studies - A Reply To Philo]]
 - [[@Milgram1994-cg|A Taxonomy Of Mixed Reality Visual Displays]]
 - [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]

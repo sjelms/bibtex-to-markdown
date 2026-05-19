@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Cook1999-yi|Bridging Epistemologies]]
+[[@Nonaka1994-ec|A Dynamic Theory Of Organizational Knowledge Creation]]

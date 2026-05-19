@@ -10,6 +10,7 @@ aliases:
 ## Ikujiro Nonaka
 
 ### Content:
+[[@Nonaka1994-ec|A Dynamic Theory Of Organizational Knowledge Creation]]
 [[@Nonaka1995-xj|The Knowledge-Creating Company]]
 [[@Nonaka2008-ts|The Knowledge-Creating Company]]
 [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi]]
@@ -17,6 +18,8 @@ aliases:
 [[@Nonaka2022-vg|Management By Eidetic Intuition]]
 
 #### Bibliography:
+
+![[@Nonaka1994-ec]]
 
 ![[@Nonaka1995-xj]]
 
