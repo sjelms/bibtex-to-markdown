@@ -3,10 +3,10 @@ title: Unions, the Skills Agenda, and Workforce Development
 year: 2017
 author - 1: "[[Mark Stuart]]"
 author - 2: "[[Tony Huzzard]]"
-editor - 1: "[[John Buchanan]]"
-editor - 2: "[[David Finegold]]"
-editor - 3: "[[Ken Mayhew]]"
-editor - 4: "[[Chris Warhurst]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Stuart2017-vq]]"
 booktitle: The Oxford Handbook of Skills and Training
 aliases:

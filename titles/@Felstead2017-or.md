@@ -4,10 +4,10 @@ year: 2017
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Duncan Gallie]]"
 author - 3: "[[Francis Green]]"
-editor - 1: "[[John Buchanan]]"
-editor - 2: "[[David Finegold]]"
-editor - 3: "[[Ken Mayhew]]"
-editor - 4: "[[Chris Warhurst]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Felstead2017-or]]"
 booktitle: The Oxford Handbook of Skills and Training
 aliases:

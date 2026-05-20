@@ -2,10 +2,10 @@
 title: Rethinking Skills Development -  Moving Beyond Competency-Based Training
 year: 2017
 author - 1: "[[Leesa Wheelahan]]"
-editor - 1: "[[John Buchanan]]"
-editor - 2: "[[David Finegold]]"
-editor - 3: "[[Ken Mayhew]]"
-editor - 4: "[[Chris Warhurst]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Wheelahan2017-ln]]"
 booktitle: The Oxford Handbook of Skills and Training
 aliases:

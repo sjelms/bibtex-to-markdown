@@ -2,10 +2,10 @@
 title: Employer-Led In-Work Training and Skill Formation -  The Challenges of Multi-Varied and Contingent Phenomena
 year: 2017
 author - 1: "[[Lorna Unwin]]"
-editor - 1: "[[John Buchanan]]"
-editor - 2: "[[David Finegold]]"
-editor - 3: "[[Ken Mayhew]]"
-editor - 4: "[[Chris Warhurst]]"
+editor - 1: "[[Chris Warhurst]]"
+editor - 2: "[[Ken Mayhew]]"
+editor - 3: "[[David Finegold]]"
+editor - 4: "[[John Buchanan]]"
 key: "[[@Unwin2017-vo]]"
 booktitle: The Oxford Handbook of Skills and Training
 aliases:
