@@ -1,5 +1,5 @@
 ---
-name: A A Knopf
+name: Alfred A Knopf
 aliases:
 see also:
 tags:
@@ -7,7 +7,7 @@ category:
   - publisher
 ---
 
-## A A Knopf
+## Alfred A Knopf
 
 ### Content:
 [[@Reich1991-ef|The Work Of Nations]]
