@@ -10,6 +10,7 @@ category:
 ## Informa UK Limited
 
 ### Content:
+[[@Akiba2010-kd|Learning]]
 [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences]]
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]

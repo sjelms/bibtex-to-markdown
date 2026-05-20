@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-20T16:17:40
+amended: 2026-05-20T16:19:46
 ---
 
 # Directory
@@ -18,6 +18,7 @@ amended: 2026-05-20T16:17:40
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 - [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
 - [[@Rasouli2025-kf|Reconstructing Construction Safety Training - A Systematic Review Based On Learning Theories And Instructional Design Principles]]
+- [[@Johnson2025-gf|The Bauhaus As Education Model - Enduring Design And Powerful Knowledge]]
 - [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers]]
 - [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
 ### 2024
@@ -39,6 +40,7 @@ amended: 2026-05-20T16:17:40
 - [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
 - [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
+- [[@Rowland2023-kc|Opening Up The Continuing Professional Development Imagination - Bringing The Clinical Workplace Into View]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
 ### 2022
@@ -170,6 +172,7 @@ amended: 2026-05-20T16:17:40
 - [[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central - A Critique Of Methodological Applications Of Critical Realism]]
 - [[@Mylopoulos2016-cz|Preparation For Future Learning - A Missing Competency In Health Professions Education?]]
 - [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]
+- [[@Killian2016-rj|Offsite Construction In The UK Housing Sector - Barriers And Challenges]]
 - [[@Brandner2016-wd|Cross Laminated Timber (CLT) - Overview And Development]]
 - [[@Sottilare2016-md|A Process For Adaptive Instruction Of Tasks In The Psychomotor Domain]]
 - [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
@@ -232,6 +235,7 @@ amended: 2026-05-20T16:17:40
 ### 2010
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
 - [[@Bell2010-gt|Performance Gains From Speech-Enhanced Simulation In Military Flying Training]]
+- [[@Akiba2010-kd|Learning - The Relationship Between A Seemingly Mundane Concept And Classroom Practices]]
 - [[@Shook2010-ni|How To Change A Culture - Lessons From NUMMI]]
 - [[@Ellstrom2010-rw|Practice‐based Innovation - A Learning Perspective]]
 ## 2000-2009
@@ -281,6 +285,7 @@ amended: 2026-05-20T16:17:40
 - [[@Friesner2005-io|Learning Logs - Assessment Or Research Method?]]
 ### 2004
 - [[@Hevner2004-zn|Design Science In Information Systems Research]]
+- [[@Canipe2004-pn|Kentucky's Moonlight Schools - An Enduring Legacy Of Adult Learning Principles And Practice]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
 - [[@Gibbons2004-de|Task-Specific Human Capital]]
 - [[@Millhauser2004-jd|Cat 'n' Mouse]]

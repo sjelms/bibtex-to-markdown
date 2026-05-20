@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-20T16:17:40
+amended: 2026-05-20T16:19:46
 ---
 
 # Directory
@@ -319,6 +319,7 @@ amended: 2026-05-20T16:17:40
 - [[@Denzin1998-me|Strategies Of Qualitative Inquiry]]
 - [[@Thompson1998-mr|Workplaces Of The Future]]
 ### 1997
+- [[@Wood1997-we|How Children Think And Learn]]
 - [[@Burns1997-gn|Introduction To Research Methods]]
 ### 1995
 - [[@Casey1995-nc|Work, Self And Society - After Industrialism]]

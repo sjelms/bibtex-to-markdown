@@ -10,8 +10,11 @@ aliases:
 ## Mary Gatta
 
 ### Content:
+[[@Warhurst2017-dt|A New Social Construction Of Skill]]
 [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 
 #### Bibliography:
+
+![[@Warhurst2017-dt]]
 
 ![[@Warhurst2017-dx]]

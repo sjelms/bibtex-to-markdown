@@ -1,12 +1,13 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-20T16:17:40
+amended: 2026-05-20T16:19:46
 ---
 
 # Directory
 ## 2020-2029
 ### 2024
 - [[@Maglione2024-cd|Bernstein As Musical And Cultural Ambassador - Omnibus]]
+- [[@Schoenenberger2024-cs|The Bauhaus Approach To Innovation In Learning And Creativity]]
 ### 2023
 - [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
 - [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
@@ -71,14 +72,20 @@ amended: 2026-05-20T16:17:40
 ### 2017
 - [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
+- [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
+- [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
 - [[@Lidelow2017-zf|Offsite Construction In Sweden - From Technology-Driven To Integrated Processes]]
 - [[@Rupnik2017-gx|Mapping The Modular Industry]]
+- [[@Bryson2017-fe|Disciplinary Perspectives On Skill]]
+- [[@Buchanan2017-sg|Introduction - Skills And Training - Multiple Targets, Shifting Terrain]]
 - [[@Quale2017-uw|High-Performance Affordable Modular Homes - A University And Modular Industry Collaboration]]
 - [[@Quale2017-wv|Onsite Vs. Offsite - Comparing Environmental Impacts]]
+- [[@Payne2017-tu|The Changing Meaning Of Skill - Still Contested, Still Important]]
 - [[@Vibaek2017-sw|System Structures - A Theory Of Industrialised Architecture]]
 - [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
 - [[@Wheelahan2017-ln|Rethinking Skills Development - Moving Beyond Competency-Based Training]]
@@ -86,6 +93,7 @@ amended: 2026-05-20T16:17:40
 - [[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]
 - [[@Stuart2017-vq|Unions, The Skills Agenda, And Workforce Development]]
 - [[@Aitchison2017-ps|Prefabricated Housing In Architectural Culture]]
+- [[@Handel2017-ok|Measuring Job Content - Skills, Technology, And Management Practices]]
 - [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
 - [[@Lerman2017-ww|Skill Development In Middle Level Occupations - The Role Of Apprenticeship Training]]
 - [[@Richard2017-jw|Industrialized Building System Categorization]]
