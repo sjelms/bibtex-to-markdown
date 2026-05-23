@@ -1,5 +1,5 @@
 ---
-name: ivvd nl
+name: McKinsey
 aliases:
 see also:
 tags:
@@ -7,7 +7,7 @@ category:
   - publisher
 ---
 
-## ivvd nl
+## McKinsey
 
 ### Content:
 [[@Bertram2019-rb|Modular Construction]]
