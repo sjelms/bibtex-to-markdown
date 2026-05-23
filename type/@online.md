@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-05-23T10:37:55
+amended: 2026-05-23T10:49:58
 ---
 
 # Directory
@@ -13,6 +13,7 @@ amended: 2026-05-23T10:37:55
 - [[@Belkin2023-ak|Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds]]
 - [[@Gardiner2023-ls|Ilke Homes Goes Into Administration]]
 - [[@Lowe2023-gc|The RAAC Schools Crisis - What We Know So Far]]
+- [[@Phillips2023-um|Virginia Tech Wins \$450K Grant For Modular Workforce Development]]
 ### 2022
 - [[@Morby2022-bu|Construction Forecast To Fall By Nearly 4% Next Year]]
 - [[@Davis2022-wq|Expert–Novice - Discourses On Learning In Education]]
