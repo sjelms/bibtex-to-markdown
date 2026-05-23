@@ -14,6 +14,7 @@ category:
 [[@Appelbaum2023-hs|Why Do We Build Houses In The Same Way That We Did 125 Years Ago?]]
 [[@Arieff2013-rp|Prefab Lives!]]
 [[@Blodgett1918-km|Doing Farm Work By Motor Tractor]]
+[[@Jackson2021-gh|Apartments Built On An Assembly Line]]
 [[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
 [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
 [[@Klein2023-sa|The Problem With Everything-Bagel Liberalism]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-05-20T16:19:46
+amended: 2026-05-23T10:37:55
 ---
 
 # Directory
@@ -31,6 +31,7 @@ amended: 2026-05-20T16:19:46
 - [[@Alberto2022-nv|Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In CME-CPD]]
 ### 2021
 - [[@Semuels2021-fi|Wildfires Are Getting Worse, So Why Is The U.s. Still Building Homes With Wood?]]
+- [[@Jackson2021-gh|Apartments Built On An Assembly Line]]
 - [[@Shaywitz2021-ot|Big Brains - New Books On Artificial Intelligence]]
 - [[@Ellis2021-gp|100+ Construction Industry Statistics]]
 - [[@Rosalsky2021-id|A New Way To Understand Automation]]
