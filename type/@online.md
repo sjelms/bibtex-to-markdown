@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-05-23T11:21:40
+amended: 2026-05-23T11:33:01
 ---
 
 # Directory
@@ -19,6 +19,7 @@ amended: 2026-05-23T11:21:40
 - [[@Davis2022-wq|Expert–Novice - Discourses On Learning In Education]]
 - [[@Peng2022-so|Data Learning II – Regression]]
 - [[@HUD-User2022-ip|Operation Breakthrough - Striving Through Struggles For Success By Teaming]]
+- [[@Needles2022-bo|What’s Next - Innovation In The Construction Industry]]
 - [[@United_Nations2022-xc|Population | United Nations]]
 - [[@Unity_Technologies2022-ey|What Is A Digital Twin?]]
 - [[@Wikipedia_contributors2022-ot|Reflective Practice]]
@@ -33,6 +34,7 @@ amended: 2026-05-23T11:21:40
 - [[@Yglesias2021-bo|Homelessness Is About Housing - The Solution Is To Legalize More And More Kinds Of It]]
 - [[@Siniavskaia2021-sg|Most Homebuilders Are Small Businesses]]
 - [[@Ncasi2021-hz|Forest Carbon From Young Vs. Old Forests]]
+- [[@Needles2021-fu|Looking Ahead - Preparing Your Workforce For 2022]]
 - [[@Cheshire2021-mh|Why Central London Has Seen The Biggest Rises In House Prices, Despite COVID]]
 - [[@Propeller2021-ud|How To Adapt To The Skilled Labor Shortage In Construction]]
 - [[@Hawkins2021-th|Timber And Carbon Sequestration]]
