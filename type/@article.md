@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-23T11:33:01
+amended: 2026-05-23T11:42:51
 ---
 
 # Directory
@@ -362,8 +362,6 @@ amended: 2026-05-23T11:33:01
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
 - [[@Brown1989-lt|Situated Cognition And The Culture Of Learning]]
-### 1988
-- [[@Gott1988-dw|Chapter 3 - Apprenticeship Instruction For Real-World Tasks - The Coordination Of Procedures, Mental Models, And Strategies]]
 ### 1987
 - [[@Bartel1987-bu|The Comparative Advantage Of Educated Workers In Implementing New Technology]]
 - [[@Attewell1987-vr|The Deskilling Controversy]]

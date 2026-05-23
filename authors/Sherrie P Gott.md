@@ -10,7 +10,7 @@ aliases:
 ## Sherrie P Gott
 
 ### Content:
-[[@Gott1988-dw|Chapter 3]]
+[[@Gott1988-dw|Apprenticeship Instruction For Real-World Tasks]]
 [[@Gott1998-ww|Rediscovering Learning]]
 
 #### Bibliography:

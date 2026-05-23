@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-23T11:33:01
+amended: 2026-05-23T11:42:51
 ---
 
 # Directory
@@ -206,6 +206,7 @@ amended: 2026-05-23T11:33:01
 ## 1980-1989
 ### 1988
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]
+- [[@Gott1988-dw|Apprenticeship Instruction For Real-World Tasks - The Coordination Of Procedures, Mental Models, And Strategies]]
 ### 1987
 - [[@Collins1987-me|Cognitive Apprenticeship - Teaching The Crafts Of Reading, Writing, And Mathematics]]
 ### 1985

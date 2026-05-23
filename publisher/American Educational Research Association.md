@@ -13,3 +13,4 @@ category:
 ### Content:
 [[@Boote2005-kh|Scholars Before Researchers]]
 [[@Bransford1999-ta|Rethinking Transfer]]
+[[@Gott1988-dw|Apprenticeship Instruction For Real-World Tasks]]
