@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-05-23T11:10:54
+amended: 2026-05-23T11:20:54
 ---
 
 # Directory
@@ -62,6 +62,7 @@ amended: 2026-05-23T11:10:54
 - [[@European-Commission2019-go|Key Competences For Lifelong Learning]]
 - [[@Wilson2019-ho|Design For Modular Construction - An Introduction For Architects]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2019-qd|Modern Methods Of Construction - Definition Framework]]
+- [[@Maxim2019-gn|Automation And AI Will Disrupt The American Labor Force. Here’s How We Can Protect Workers]]
 - [[@USG_Corporation2019-me|Q4 2019 Commercial Construction Index]]
 ### 2018
 - [[@Davies2018-ai|Modern Methods Of Construction - A Forward-Thinking Solution To The Housing Crisis?]]
