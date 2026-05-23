@@ -9,6 +9,11 @@ aliases:
 type: "[[@online]]"
 tags:
   - _BibTex-to-MD-Git
+  - Future-of-Work
+  - Labor
+  - AEC
+  - _In-Readwise
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

@@ -10,6 +10,11 @@ institution: "[[The Brookings Institution]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - Reader_Obsidian
+  - _In-Readwise
+  - Economics
+  - Labor
+  - Artificial-Intelligence-AI
 ---
 
 > [!bibliography]
