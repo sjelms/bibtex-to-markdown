@@ -1,13 +1,13 @@
 ---
-author: "Kalle Kahkonen"
+author: "Kalle Kähkönen"
 institution:
 field:
 type:
 aliases:
-  - Kahkonen
+  - Kähkönen
 ---
 
-## Kalle Kahkonen
+## Kalle Kähkönen
 
 ### Content:
 [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
