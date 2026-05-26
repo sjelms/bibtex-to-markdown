@@ -11,6 +11,8 @@ publisher: "[[Ovid Technologies Wolters Kluwer Health]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Knowledge-Skill-Acquisition
+  - Workplace-Learning
 ---
 
 > [!bibliography]
