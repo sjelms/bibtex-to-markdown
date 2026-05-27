@@ -8,6 +8,11 @@ aliases:
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - ePub
+  - RNIB
+  - Economics
+  - Labor
+  - Politics-and-Society
 ---
 
 > [!bibliography]

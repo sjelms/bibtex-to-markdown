@@ -12,6 +12,7 @@ tags:
   - Economics
   - Politics-and-Society
   - Labor
+  - ePub
 ---
 
 > [!bibliography]
