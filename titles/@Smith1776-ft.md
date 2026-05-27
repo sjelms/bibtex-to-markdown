@@ -9,6 +9,7 @@ aliases:
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Economics
   - Politics-and-Society
   - Labor

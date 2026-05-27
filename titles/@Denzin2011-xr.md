@@ -12,6 +12,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - Research-Methods
 ---

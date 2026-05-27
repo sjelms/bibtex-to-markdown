@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - EPubs-Books
   - Economics
   - Labor
   - RNIB

@@ -17,6 +17,7 @@ tags:
   - Oxford-Handbook-of-Skills-and-Training
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - EPubs-Books
   - ePub
   - Workplace-Learning
   - VET

@@ -8,6 +8,7 @@ aliases:
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - ePub
   - RNIB
   - Economics

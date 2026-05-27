@@ -17,6 +17,7 @@ type: "[[@inbook]]"
 tags:
   - Oxford-Handbook-of-Skills-and-Training
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-child
   - ePub
   - Workplace-Learning

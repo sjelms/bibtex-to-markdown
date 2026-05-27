@@ -15,6 +15,7 @@ tags:
   - Workplace-Learning-in-Context
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - EPubs-Books
   - Book-child
   - ePub
   - Workplace-Learning
