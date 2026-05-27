@@ -1,0 +1,14 @@
+---
+title: An Inquiry into the Nature and Causes of the Wealth of Nations
+year: 1776
+author - 1: "[[Adam Smith]]"
+key: "[[@Smith1776-zu]]"
+aliases:
+  - An Inquiry Into The Nature And Causes Of The Wealth Of Nations
+type: "[[@book]]"
+tags:
+  - _BibTex-to-MD-Git
+---
+
+> [!bibliography]
+> Smith, Adam. 1776. “An Inquiry into the Nature and Causes of the Wealth of Nations.”
