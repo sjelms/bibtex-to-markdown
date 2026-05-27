@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-27T10:04:46
+amended: 2026-05-27T10:05:58
 ---
 
 # Directory
@@ -430,5 +430,5 @@ amended: 2026-05-27T10:04:46
 - [[@Marx1848-ti|The Communist Manifesto]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
