@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-26T15:47:18
+amended: 2026-05-27T09:19:29
 ---
 
 # Directory
@@ -74,8 +74,8 @@ amended: 2026-05-26T15:47:18
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -228,3 +228,8 @@ amended: 2026-05-26T15:47:18
 ## 1880-1889
 ### 1887
 - [[@Huxley1887-mi|Technical Education]]
+## 1770-1779
+### 1776
+- [[@Smith1776-ft|Of The Causes Of Improvement In The Productive Powers Of Labour]]
+- [[@Smith1776-pq|Of The Different Progress Of Opulence In Different Nations]]
+- [[@Smith1776-xg|Of The Nature, Accumulation, And Employment Of Stock]]
