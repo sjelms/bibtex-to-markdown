@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-27T10:05:58
+amended: 2026-05-27T11:08:10
 ---
 
 # Directory
@@ -41,6 +41,7 @@ amended: 2026-05-27T10:05:58
 - [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Rowland2023-kc|Opening Up The Continuing Professional Development Imagination - Bringing The Clinical Workplace Into View]]
+- [[@Loo2023-ex|VET In FE – T Levels And BTEC Programmes]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
 ### 2022
