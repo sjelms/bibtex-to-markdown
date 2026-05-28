@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-05-28T07:47:24
+amended: 2026-05-28T10:06:46
 ---
 
 # Directory
@@ -83,6 +83,9 @@ amended: 2026-05-28T07:47:24
 - [[@Krugman2013-ut|An Ubernerd Weighs In]]
 ### 2010
 - [[@Rawsthorn2010-ut|Putting New Tools In Students' Hands]]
+## 2000-2009
+### 2002
+- [[@Crichton2002-of|Why Speculate?]]
 ## 1990-1999
 ### 1999
 - [[@Tucker1999-ml|Key Workforce Challenges Facing The American Construction Industry - An Interim Assessment]]
