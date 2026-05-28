@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-05-27T11:08:10
+amended: 2026-05-28T07:47:24
 ---
 
 # Directory
@@ -120,6 +120,7 @@ amended: 2026-05-27T11:08:10
 - [[@Frey2019-yf|The Technology Trap - Capital, Labor, And Power In The Age Of Automation]]
 - [[@Lowery2019-jp|The Handbook Of Dewey’s Educational Theory And Practice]]
 - [[@Kuang2019-nv|User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work & Play]]
+- [[@Immerwahr2019-ul|How To Hide An Empire - A Short History Of The Greater United States]]
 - [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 - [[@Epstein2019-yy|Range - Why Generalists Triumph In A Specialized World]]
 - [[@MacCarthy2019-gn|Walter Gropius - Visionary Founder Of The Bauhaus]]
