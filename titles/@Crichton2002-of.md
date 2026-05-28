@@ -8,6 +8,10 @@ aliases:
 type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
+  - Economics
+  - Politics-and-Society
+  - General-Interest-Periodicals-United-States
+  - Reader_Obsidian
 ---
 
 > [!bibliography]
