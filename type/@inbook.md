@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-31T11:42:46
+amended: 2026-05-31T11:47:48
 ---
 
 # Directory
@@ -219,6 +219,8 @@ amended: 2026-05-31T11:42:46
 - [[@Wertsch1985-kw|Vygotsky - The Man And His Theory]]
 - [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 - [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
+### 1980
+- [[@Cole1980-yu|Introduction]]
 ## 1970-1979
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
