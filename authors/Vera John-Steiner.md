@@ -10,11 +10,11 @@ aliases:
 ## Vera John-Steiner
 
 ### Content:
-[[@Cole1980-yu|Introduction]]
+[[@Cole1978-ju|Introduction]]
 [[@Vygotsky1978-pz|Mind In Society]]
 
 #### Bibliography:
 
-![[@Cole1980-yu]]
+![[@Cole1978-ju]]
 
 ![[@Vygotsky1978-pz]]

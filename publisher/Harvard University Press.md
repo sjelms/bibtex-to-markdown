@@ -11,7 +11,7 @@ category:
 
 ### Content:
 [[@Brown2014-ri|Make It Stick]]
-[[@Cole1980-yu|Introduction]]
+[[@Cole1978-ju|Introduction]]
 [[@Groh2014-rk|Making Space]]
 [[@Moravec1988-jt|Mind Children]]
 [[@Skinner1948-at|Verbal Behavior]]

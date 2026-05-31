@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-05-31T11:47:48
+amended: 2026-05-31T11:57:20
 ---
 
 # Directory
@@ -74,8 +74,8 @@ amended: 2026-05-31T11:47:48
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -219,9 +219,9 @@ amended: 2026-05-31T11:47:48
 - [[@Wertsch1985-kw|Vygotsky - The Man And His Theory]]
 - [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 - [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
-### 1980
-- [[@Cole1980-yu|Introduction]]
 ## 1970-1979
+### 1978
+- [[@Cole1978-ju|Introduction]]
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
 ## 1940-1949
