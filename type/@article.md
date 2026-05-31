@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-05-31T11:57:20
+amended: 2026-05-31T15:09:18
 ---
 
 # Directory
@@ -272,6 +272,7 @@ amended: 2026-05-31T11:57:20
 - [[@Wing2006-tj|Computational Thinking]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
 - [[@Billett2006-hp|Constituting The Workplace Curriculum]]
+- [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
 - [[@Braun2006-my|Using Thematic Analysis In Psychology]]
 ### 2005

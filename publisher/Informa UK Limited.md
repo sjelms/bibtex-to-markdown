@@ -15,6 +15,7 @@ category:
 [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences]]
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
+[[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]

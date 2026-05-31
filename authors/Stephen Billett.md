@@ -17,6 +17,7 @@ aliases:
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
+[[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Billett2008-kx|Learning Through Work]]
 [[@Billett2011-kx|Vocational Education]]
 [[@Billett2014-wf|Mimetic Learning At Work]]
@@ -41,6 +42,8 @@ aliases:
 ![[@Billett2004-vj]]
 
 ![[@Billett2006-hp]]
+
+![[@Billett2006-rh]]
 
 ![[@Billett2008-kx]]
 
