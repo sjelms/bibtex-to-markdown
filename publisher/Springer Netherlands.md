@@ -10,5 +10,4 @@ category:
 ## Springer Netherlands
 
 ### Content:
-[[@Goller2014-mf|Employing Agency In Academic Settings]]
 [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning]]
