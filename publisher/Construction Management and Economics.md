@@ -13,6 +13,7 @@ category:
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 [[@Glass2022-ms|Transforming Construction]]
+[[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0]]
 [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms]]
 [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]

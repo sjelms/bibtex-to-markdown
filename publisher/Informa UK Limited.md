@@ -26,6 +26,7 @@ category:
 [[@Francisco2020-go|Developing A Trellis Of Practices That Support Learning In The Workplace]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
+[[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0]]
 [[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
 [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]

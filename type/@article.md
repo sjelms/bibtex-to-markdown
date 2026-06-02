@@ -1,11 +1,12 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-02T09:27:17
+amended: 2026-06-02T10:28:08
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
+- [[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0 - An Accreditation-Aligned Competency Framework And Review]]
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
 - [[@Cheng2025-ml|Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use]]
