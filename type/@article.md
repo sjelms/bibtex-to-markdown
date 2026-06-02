@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-02T13:23:23
+amended: 2026-06-02T13:58:42
 ---
 
 # Directory
@@ -341,6 +341,7 @@ amended: 2026-06-02T13:23:23
 - [[@Ferry1998-xo|An Inquiry Into Schön's Epistemology Of Practice - Exploring Links Between Experience And Reflective Practice]]
 ### 1997
 - [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process - The Case Of Computer Integrated Manufacturing]]
+- [[@Tomlinson1997-tn|Edward Lee Thorndike And John Dewey On The Science Of Education]]
 ### 1996
 - [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 - [[@Snell1996-oc|The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution]]
@@ -366,6 +367,8 @@ amended: 2026-06-02T13:23:23
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
 - [[@Brown1989-lt|Situated Cognition And The Culture Of Learning]]
+### 1988
+- [[@Baldwin1988-bg|Transfer Of Training - A Review And Directions For Future Research]]
 ### 1987
 - [[@Bartel1987-bu|The Comparative Advantage Of Educated Workers In Implementing New Technology]]
 - [[@Attewell1987-vr|The Deskilling Controversy]]

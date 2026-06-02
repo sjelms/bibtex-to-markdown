@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-02T13:23:23
+amended: 2026-06-02T13:58:42
 ---
 
 # Directory
@@ -312,6 +312,7 @@ amended: 2026-06-02T13:23:23
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
+- [[@Lagemann2000-fz|An Elusive Science - The Troubling History Of Education Research]]
 - [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
