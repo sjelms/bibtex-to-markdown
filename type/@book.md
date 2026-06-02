@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-02T13:58:42
+amended: 2026-06-02T14:27:13
 ---
 
 # Directory
@@ -424,6 +424,9 @@ amended: 2026-06-02T13:58:42
 ## 1910-1919
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
+### 1913
+- [[@Thorndike1913-et|Education Psychology, Vol 1 - The Original Nature Of Man]]
+- [[@Thorndike1913-kp|Education Psychology, Vol 2 - The Psychology Of Learning]]
 ### 1911
 - [[@Taylor1911-mi|The Principles Of Scientific Management]]
 ## 1890-1899
