@@ -5,7 +5,7 @@ author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2007-ro]]"
 aliases:
   - Learning From Other People In The Workplace
-journal: "[[Oxford review of education]]"
+journal: "[[Oxford Review of Education]]"
 publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"
 tags:
