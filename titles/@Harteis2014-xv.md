@@ -16,6 +16,8 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub
+  - Essential
+  - Workplace-Learning
 ---
 
 > [!bibliography]
