@@ -13,6 +13,11 @@ tags:
   - My-Library
   - 2021-12-03-Frontiers
   - _BibTex-to-MD-Git
+  - Robots
+  - Artificial-Intelligence-AI
+  - Future-of-Work
+  - Economics
+  - Technological-change
 ---
 
 > [!bibliography]
