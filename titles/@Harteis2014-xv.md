@@ -18,6 +18,7 @@ tags:
   - ePub
   - Essential
   - Workplace-Learning
+  - Book-parent
 ---
 
 > [!bibliography]

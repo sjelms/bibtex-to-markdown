@@ -1,6 +1,6 @@
 ---
 type: "[[@audio]]"
-amended: 2026-06-02T07:07:18
+amended: 2026-06-02T08:29:04
 ---
 
 # Directory
