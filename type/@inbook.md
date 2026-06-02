@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-02T08:34:35
+amended: 2026-06-02T08:43:16
 ---
 
 # Directory
@@ -74,8 +74,8 @@ amended: 2026-06-02T08:34:35
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -118,7 +118,9 @@ amended: 2026-06-02T08:34:35
 ### 2015
 - [[@Fuller2015-fh|Vocational Education]]
 ### 2014
+- [[@Harteis2014-pr|Discourses On Professional Learning - On The Boundary Between Learning And Working]]
 - [[@Harteis2014-go|New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning]]
+- [[@Fischer2014-dt|Informal Learning In Workplaces - Understanding Learning Culture As A Challenge For Organizational And Individual Development]]
 - [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective]]
 - [[@Goller2014-jx|Agentic Behaviour At Work - Crafting Learning Experiences]]
 - [[@Goller2014-mf|Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences]]
