@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-02T10:28:08
+amended: 2026-06-02T10:28:43
 ---
 
 # Directory
@@ -26,6 +26,7 @@ amended: 2026-06-02T10:28:08
 - [[@McCabe2024-zg|How To ADHD - An Insider's Guide To Working With Your Brain (not Against It)]]
 - [[@Lage2024-kt|Towards A New European Bauhaus—Challenges In Design Education - EAAE Annual Conference—Madrid 2022]]
 - [[@Shewring2024-wm|Theatre Buildings - A Design Guide]]
+- [[@Pilz2024-cr|Informal Learning In Vocational Education And Training - Illuminating An Elusive Concept]]
 - [[@Xiang2024-jj|Novel Technology And Whole-Process Management In Prefabricated Building - Conference Proceedings Of The 5th International Prefabricated Building Seminar On Frontier Technology And Talent Training]]
 - [[@Pink2024-hz|Small Talk - 10 ADHD Lies And How To Stop Believing Them]]
 - [[@Sutton2024-pg|The Friction Project - How Smart Leaders Make The Right Things Easier And The Wrong Things Harder]]

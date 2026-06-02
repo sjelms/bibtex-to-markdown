@@ -1,11 +1,12 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-02T10:28:08
+amended: 2026-06-02T10:28:43
 ---
 
 # Directory
 ## 2020-2029
 ### 2024
+- [[@Fuller2024-wq|Context, Characteristics And Capacity - The 3 Cs For Understanding And Improving Workplace Learning]]
 - [[@Maglione2024-cd|Bernstein As Musical And Cultural Ambassador - Omnibus]]
 - [[@Schoenenberger2024-cs|The Bauhaus Approach To Innovation In Learning And Creativity]]
 ### 2023

@@ -13,6 +13,7 @@ category:
 [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
 [[@Billett2014-wf|Mimetic Learning At Work]]
 [[@Fischer2014-dt|Informal Learning In Workplaces]]
+[[@Fuller2024-wq|Context, Characteristics And Capacity]]
 [[@Gibbs2012-mg|Learning, Work, And Practice]]
 [[@Goller2014-jx|Agentic Behaviour At Work]]
 [[@Goller2014-mf|Employing Agency In Academic Settings]]
@@ -23,3 +24,4 @@ category:
 [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
 [[@Nonaka2022-vg|Management By Eidetic Intuition]]
+[[@Pilz2024-cr|Informal Learning In Vocational Education And Training]]
