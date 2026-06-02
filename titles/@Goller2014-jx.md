@@ -17,7 +17,10 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Discourses-on-Professional-Learning
   - _Cataloged
+  - Book-child
+  - ePub
 ---
 
 > [!bibliography]
