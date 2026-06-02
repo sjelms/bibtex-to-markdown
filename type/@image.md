@@ -1,6 +1,6 @@
 ---
 type: "[[@image]]"
-amended: 2026-06-02T08:32:45
+amended: 2026-06-02T08:33:57
 ---
 
 # Directory
