@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-02T08:43:16
+amended: 2026-06-02T09:26:33
 ---
 
 # Directory
@@ -249,6 +249,7 @@ amended: 2026-06-02T08:43:16
 - [[@Kalantzis2012-vd|New Learning - Elements Of A Science Of Education]]
 - [[@Yglesias2012-ep|The Rent Is Too Damn High - What To Do About It, And Why It Matters More Than You Think]]
 - [[@Smith2012-oh|Instructional Design]]
+- [[@Gibbs2012-mg|Learning, Work, And Practice - New Understandings]]
 - [[@Hager2012-dh|Practice, Learning And Change - Practice-Theory Perspectives On Professional Learning]]
 - [[@Wiles2012-ef|What Are Qualitative Research Ethics?]]
 ### 2011

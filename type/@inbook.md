@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-02T08:43:16
+amended: 2026-06-02T09:26:33
 ---
 
 # Directory
@@ -74,8 +74,8 @@ amended: 2026-06-02T08:43:16
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -148,6 +148,7 @@ amended: 2026-06-02T08:43:16
 ### 2012
 - [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
 - [[@Warhurst2012-ok|Mapping Knowledge In Work]]
+- [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Kalantzis2012-vw|Introduction]]
 - [[@Kalantzis2012-bi|Knowledge And Learning]]
@@ -160,6 +161,8 @@ amended: 2026-06-02T08:43:16
 - [[@Kalantzis2012-oe|New Learning]]
 - [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
 - [[@Kalantzis2012-wb|The Nature Of Learning]]
+- [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
+- [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
