@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-03T15:04:24
+amended: 2026-06-03T16:01:39
 ---
 
 # Directory
@@ -180,6 +180,10 @@ amended: 2026-06-03T15:04:24
 ### 2007
 - [[@Forman2007-cf|Qualitative Content Analysis]]
 - [[@Kraiger2007-jw|The Expanding Role Of Workplace Training - Themes And Trends Influencing Training Research And Practice]]
+- [[@Blyton2007-ek|Fordism]]
+- [[@Blyton2007-si|Labour Process]]
+- [[@Blyton2007-lq|Scientific Management]]
+- [[@Blyton2007-kz|Skill]]
 ### 2006
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 ### 2004

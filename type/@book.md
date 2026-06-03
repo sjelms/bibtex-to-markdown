@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-03T15:04:24
+amended: 2026-06-03T16:01:39
 ---
 
 # Directory
@@ -293,6 +293,7 @@ amended: 2026-06-03T15:04:24
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
 - [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
 - [[@Young2007-eo|Bringing Knowledge Back In - From Social Constructivism To Social Realism In The Sociology Of Education]]
+- [[@Blyton2007-mf|Key Concepts In Work]]
 - [[@Feynman2007-tl|What Do You Care What Other People Think? Further Adventures Of A Curious Character]]
 ### 2006
 - [[@Lawson2006-pz|How Designers Think]]
