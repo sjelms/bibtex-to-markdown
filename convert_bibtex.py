@@ -323,7 +323,7 @@ def format_chicago_bibliography(authors, year, title, publisher, volume, url):
         bibliography_parts.append(url)
 
     bibliography = " ".join(part for part in bibliography_parts if part)
-    return bibliography.strip().rstrip(".")  # Remove trailing period
+return bibliography.strip()
 
 # Function to process keywords into valid YAML tags
 def process_keywords(keyword_str):
