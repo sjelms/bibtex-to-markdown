@@ -298,10 +298,13 @@ def format_persons(persons):
     return formatted
 
 # Function to format bibliography in Chicago 17th Edition
-def format_chicago_bibliography(authors, year, title, publisher, url):
+def format_chicago_bibliography(authors, year, title, publisher, volume, url):
     # Remove brackets before formatting the bibliography
     authors = [author.replace("[[", "").replace("]]", "") for author in authors]
     display_title = clean_text(title, is_yaml=False)
+    display_volume = clean_text(volume, is_yaml=False) if volume else ""
+    if display_volume:
+        display_volume = re.sub(r"(?<=\d)-(?=\d)", "–", display_volume)
 
     first_author = authors[0].split(" ")
     if len(first_author) > 1:
@@ -310,8 +313,17 @@ def format_chicago_bibliography(authors, year, title, publisher, url):
         first_author = authors[0]  # Keep institutions unchanged
 
     formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
-    bibliography = f'{", ".join(formatted_authors)}. {year}. “{display_title}.” {publisher if publisher else ""}. {url}'
-    return bibliography.strip().rstrip(".")  # Remove trailing period
+
+    bibliography_parts = [f'{", ".join(formatted_authors)}.', f"{year}.", f"“{display_title}.”"]
+    if display_volume:
+        bibliography_parts.append(f"Vol. {display_volume}.")
+    if publisher:
+        bibliography_parts.append(f"{publisher}.")
+    if url:
+        bibliography_parts.append(url)
+
+    bibliography = " ".join(part for part in bibliography_parts if part)
+return bibliography.strip()
 
 # Function to process keywords into valid YAML tags
 def process_keywords(keyword_str):
@@ -393,12 +405,14 @@ for key, entry in bib_data.entries.items():
 
     raw_publisher = latex_to_unicode(get_field(fields, "publisher"))
     raw_journal = latex_to_unicode(get_field(fields, "journaltitle", "journal"))
+    raw_volume = latex_to_unicode(get_field(fields, "volume"))
     norm_publisher = normalize_entity_name(raw_publisher) if raw_publisher else ""
     norm_journal = normalize_entity_name(raw_journal) if raw_journal else ""
     publisher_link = f"[[{norm_publisher}]]" if norm_publisher else ""
     journal_link = f"[[{norm_journal}]]" if norm_journal else ""
     publisher = f'"{publisher_link}"' if publisher_link else None
     journal = f'"{journal_link}"' if journal_link else None
+    volume = clean_text(raw_volume, is_yaml=True) if raw_volume else ""
 
     # Process keywords into valid YAML tags
     keyword_tags = process_keywords(latex_to_unicode(get_field(fields, "keywords")))
@@ -426,6 +440,7 @@ for key, entry in bib_data.entries.items():
         year,
         raw_title_value,
         bibliography_source,
+        volume,
         url or "",
     )
 
@@ -471,6 +486,8 @@ for key, entry in bib_data.entries.items():
         yaml_lines.append(f"journal: {journal}")
     if publisher is not None:
         yaml_lines.append(f"publisher: {publisher}")
+    if volume:
+        yaml_lines.append(f"volume: {volume}")
 
     if entry_type:
         yaml_lines.append(f'type: "[[@{entry_type}]]"')
