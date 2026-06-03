@@ -314,7 +314,7 @@ def format_chicago_bibliography(authors, year, title, publisher, volume, url):
 
     formatted_authors = [first_author] + authors[1:]  # Keep others as "First Last"
 
-    bibliography_parts = [f'{", ".join(formatted_authors)}.', f"{year}.", f""{display_title}.""]
+    bibliography_parts = [f'{", ".join(formatted_authors)}.', f'{year}.', f'"{display_title}."']
     if display_volume:
         bibliography_parts.append(f"Vol. {display_volume}.")
     if publisher:
