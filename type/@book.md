@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-03T12:21:10
+amended: 2026-06-03T12:21:47
 ---
 
 # Directory
@@ -437,6 +437,8 @@ amended: 2026-06-03T12:21:10
 ### 1848
 - [[@Marx1848-ti|The Communist Manifesto]]
 ## 1830-1839
+### 1836
+- [[@Gaskell1836-vg|Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour]]
 ### 1832
 - [[@Shuttleworth1832-ul|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779

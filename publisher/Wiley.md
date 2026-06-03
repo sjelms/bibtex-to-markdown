@@ -22,6 +22,7 @@ category:
 [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures]]
 [[@Johnson2025-gf|The Bauhaus As Education Model]]
 [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
+[[@Muttarak2023-uz|Peter Gaskell On The Effects Of Mechanization On Labor]]
 [[@Pink2013-ju|Short-Term Ethnography]]
 [[@Rankin2024-wd|Embodied GHG Of Missing Middle]]
 [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
