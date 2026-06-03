@@ -106,6 +106,7 @@ category:
 [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 [[@Setiawan2016-qz|Grounded Theory Style Analysis In Action]]
 [[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]
+[[@Shuttleworth1832-ul|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 [[@Smith2017-ff|Offsite Construction In Education]]
 [[@Smith2017-op|Permanent Modular Construction]]
 [[@Smith2017-zx|Offsite Architecture]]
