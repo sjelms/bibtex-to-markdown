@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-06-03T12:23:32
+amended: 2026-06-03T13:09:51
 ---
 
 # Directory
@@ -98,6 +98,9 @@ amended: 2026-06-03T12:23:32
 - [[@Hillinger1991-nr|Pulling The Plug - Phone Company To Replace Last Manual Switchboard]]
 ### 1990
 - [[@Bushnell1990-im|Input, Process, Output - A Model For Evaluating Training]]
+## 1980-1989
+### 1985
+- [[@Buss1985-pa|Winners And Losers - On The Factory Floor, Technology Brings Challenge For Some, Drudgery For Others]]
 ## 1960-1969
 ### 1962
 - [[@Kennedy1962-th|January 11, 1962 - State Of The Union Address]]
