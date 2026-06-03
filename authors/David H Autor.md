@@ -12,6 +12,7 @@ aliases:
 ## David H Autor
 
 ### Content:
+[[@Abraham2025-or|The Digitalist Papers]]
 [[@Autor2003-ju|The Skill Content Of Recent Technological Change]]
 [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
 [[@Autor2014-yj|Polanyi's Paradox And The Shape Of Employment Growth]]
@@ -19,6 +20,8 @@ aliases:
 [[@Autor2022-vv|The Work Of The Future]]
 
 #### Bibliography:
+
+![[@Abraham2025-or]]
 
 ![[@Autor2003-ju]]
 
