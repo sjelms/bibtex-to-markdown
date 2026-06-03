@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hopkins, Owen. 2023. “Reading Architecture: A Visual Lexicon.” [[Laurence King Publishing]]. https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1
+> Hopkins, Owen. 2023. "Reading Architecture: A Visual Lexicon." [[Laurence King Publishing]]. https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1

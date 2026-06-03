@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Carino, Meghan Mccarty. 2018. “Life in This Iconic Mid‑Century Suburb Shows How California Dreams Are Shrinking.” [[LAist]]. https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c
+> Carino, Meghan Mccarty. 2018. "Life in This Iconic Mid‑Century Suburb Shows How California Dreams Are Shrinking." [[LAist]]. https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c

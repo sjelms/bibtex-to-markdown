@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Government, Ministry of Housing, Communities, and Local. 2023. “National Planning Policy Framework.” [[Ministry of Housing]], [[Communities and Local Government]]. https://www.gov.uk/mhclg
+> Government, Ministry of Housing, Communities, and Local. 2023. "National Planning Policy Framework." [[Ministry of Housing]], [[Communities and Local Government]]. https://www.gov.uk/mhclg

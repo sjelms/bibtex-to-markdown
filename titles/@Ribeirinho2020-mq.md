@@ -30,4 +30,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ribeirinho, Maria João, Jan Mischke, Gernot Strube, Erik Sjödin, Jonas Biörck, Timmy Anderson, Jose Luis Blanco, Rob Palter. 2020. “The Next Normal in Construction: How Disruption is Reshaping the World’s Largest Ecosystem.” [[McKinsey Insights]]
+> Ribeirinho, Maria João, Jan Mischke, Gernot Strube, Erik Sjödin, Jonas Biörck, Timmy Anderson, Jose Luis Blanco, Rob Palter. 2020. "The Next Normal in Construction: How Disruption is Reshaping the World’s Largest Ecosystem." [[McKinsey Insights]].

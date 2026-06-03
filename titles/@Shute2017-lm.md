@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Shute, Valerie, Seyedahmad Rahimi, Benjamin Emihovich. 2017. “Assessment for Learning in Immersive Environments.” [[Springer Singapore]]. http://dx.doi.org/10.1007/978-981-10-5490-7_5
+> Shute, Valerie, Seyedahmad Rahimi, Benjamin Emihovich. 2017. "Assessment for Learning in Immersive Environments." [[Springer Singapore]]. http://dx.doi.org/10.1007/978-981-10-5490-7_5

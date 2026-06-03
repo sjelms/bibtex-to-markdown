@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. “Management by eidetic intuition: A dynamic management theory predicated on the "philosophy of empathy".” [[Springer]]. https://link.springer.com/book/10.1007/978-981-16-6851-7
+> Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. "Management by eidetic intuition: A dynamic management theory predicated on the "philosophy of empathy"." [[Springer]]. https://link.springer.com/book/10.1007/978-981-16-6851-7
 
 > [!abstract]
 > This book, by one of Japan's most innovative business thinkers, applies insights from neuroscience, philosophy, and intuition to business management

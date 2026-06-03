@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Francis-Devine, Brigid, Andrew B Powell, Campbell Brooks. 2025. “Youth Unemployment Statistics.” [[House of Commons Library]]. https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf
+> Francis-Devine, Brigid, Andrew B Powell, Campbell Brooks. 2025. "Youth Unemployment Statistics." [[House of Commons Library]]. https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf
 
 > [!abstract]
 > This briefing presents the latest statistics on youth unemployment in the UK as well as comparisons with other OECD countries. The House of Commons Library is a research and information service based in the UK Parliament.

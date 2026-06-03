@@ -8,6 +8,7 @@ aliases:
   - Change And Continuity In Apprenticeship - The Resilience Of A Model Of Learning
   - Change And Continuity In Apprenticeship
 journal: "[[Journal of Education and Work]]"
+volume: 22
 type: "[[@article]]"
 tags:
   - ERC-ex-re
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Fuller, Alison, Lorna Unwin. 2009. “Change and Continuity in Apprenticeship: The Resilience of a Model of Learning.” [[Journal of Education and Work]]. http://dx.doi.org/10.1080/13639080903454043
+> Fuller, Alison, Lorna Unwin. 2009. "Change and Continuity in Apprenticeship: The Resilience of a Model of Learning." Vol. 22. [[Journal of Education and Work]]. http://dx.doi.org/10.1080/13639080903454043

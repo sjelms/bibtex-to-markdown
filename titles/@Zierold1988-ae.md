@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zierold, John. 1988. “Environmental Lobbyist in California’s Capital, 1965–1984.” [[Regional Oral History Office]]
+> Zierold, John. 1988. "Environmental Lobbyist in California’s Capital, 1965–1984." [[Regional Oral History Office]].

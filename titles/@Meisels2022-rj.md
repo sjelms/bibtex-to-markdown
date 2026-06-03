@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Meisels, Michelle, Paul Wellener, Kate Hardin. 2022. “2023 Engineering and Construction Industry Outlook.” [[Deloitte]]
+> Meisels, Michelle, Paul Wellener, Kate Hardin. 2022. "2023 Engineering and Construction Industry Outlook." [[Deloitte]].

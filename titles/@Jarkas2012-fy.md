@@ -7,6 +7,7 @@ key: "[[@Jarkas2012-fy]]"
 aliases:
   - Factors Affecting Construction Labor Productivity In Kuwait
 journal: "[[Journal of Construction Engineering and Management]]"
+volume: 138
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -18,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Jarkas, Abdulaziz M, Camille G Bitar. 2012. “Factors Affecting Construction Labor Productivity in Kuwait.” [[Journal of Construction Engineering and Management]]. http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501
+> Jarkas, Abdulaziz M, Camille G Bitar. 2012. "Factors Affecting Construction Labor Productivity in Kuwait." Vol. 138. [[Journal of Construction Engineering and Management]]. http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501

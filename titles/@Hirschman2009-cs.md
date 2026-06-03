@@ -7,6 +7,7 @@ key: "[[@Hirschman2009-cs]]"
 aliases:
   - Immigration And The American Industrial Revolution From 1880 To 1920
 journal: "[[Social science research]]"
+volume: 38
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -18,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hirschman, Charles, Elizabeth Mogford. 2009. “Immigration and the American industrial revolution from 1880 to 1920.” [[Social science research]]. http://dx.doi.org/10.1016/j.ssresearch.2009.04.001
+> Hirschman, Charles, Elizabeth Mogford. 2009. "Immigration and the American industrial revolution from 1880 to 1920." Vol. 38. [[Social science research]]. http://dx.doi.org/10.1016/j.ssresearch.2009.04.001

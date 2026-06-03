@@ -11,6 +11,7 @@ key: "[[@Yeung2018-ya]]"
 aliases:
   - Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge
 journal: "[[Engineering Applications of Artificial Intelligence]]"
+volume: 71
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -28,4 +29,4 @@ tags:
 ---
 
 > [!bibliography]
-> Yeung, C L, W M Wang, C F Cheung, Eric Tsui, Rossitza Setchi, Rongbin W B Lee. 2018. “Computational Narrative Mapping for the Acquisition and Representation of Lessons Learned Knowledge.” [[Engineering Applications of Artificial Intelligence]]. https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320
+> Yeung, C L, W M Wang, C F Cheung, Eric Tsui, Rossitza Setchi, Rongbin W B Lee. 2018. "Computational Narrative Mapping for the Acquisition and Representation of Lessons Learned Knowledge." Vol. 71. [[Engineering Applications of Artificial Intelligence]]. https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320

@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Marx, Karl, Friedrich Engels. 1848. “The Communist Manifesto.” [[Penguin UK]]
+> Marx, Karl, Friedrich Engels. 1848. "The Communist Manifesto." [[Penguin UK]].
 
 > [!abstract]
 > Originally published on the eve of the 1848 European revolutions, The Communist Manifesto is a condensed and incisive account of the worldview Marx and Engels developed during their hectic intellectual and political collaboration. Formulating the principles of dialectical materialism, they believed that labor creates wealth, hence capitalism is exploitive and antithetical to freedom.

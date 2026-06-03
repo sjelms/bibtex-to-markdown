@@ -7,6 +7,7 @@ aliases:
   - The Behavior Of Tutoring Systems
 journal: "[[International Journal of Artificial Intelligence in Education]]"
 publisher: "[[IOS Press]]"
+volume: 16
 type: "[[@article]]"
 tags:
   - Frontiers-2022
@@ -19,7 +20,7 @@ tags:
 ---
 
 > [!bibliography]
-> VanLehn, Kurt. 2006. “The behavior of tutoring systems.” [[IOS Press]]. https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02
+> VanLehn, Kurt. 2006. "The behavior of tutoring systems." Vol. 16. [[IOS Press]]. https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02
 
 > [!abstract]
 > Tutoring systems are described as having two loops. The outer loop executes once for each task, where a task usually consists of solving a complex, multi-step problem. The inner loop executes once for each step taken by the student in the solution of

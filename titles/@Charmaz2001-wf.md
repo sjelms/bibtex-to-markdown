@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Charmaz, Kathy, Richard G Mitchell. 2001. “Grounded theory in ethnography.” [[SAGE Publications]]. https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml
+> Charmaz, Kathy, Richard G Mitchell. 2001. "Grounded theory in ethnography." [[SAGE Publications]]. https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml

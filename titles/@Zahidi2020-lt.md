@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, Sophie Brown. 2020. “The Future of Jobs Report 2020.” [[World Economic Forum]]
+> Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, Sophie Brown. 2020. "The Future of Jobs Report 2020." [[World Economic Forum]].

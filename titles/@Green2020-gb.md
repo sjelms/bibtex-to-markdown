@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Green, Brian. 2020. “The Real Face of Construction 2020: Socio-economic Analysis of the True Value of the Built Environment.” [[Chartered Institute of Building]]
+> Green, Brian. 2020. "The Real Face of Construction 2020: Socio-economic Analysis of the True Value of the Built Environment." [[Chartered Institute of Building]].

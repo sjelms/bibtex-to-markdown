@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Goldin, Claudia, Lawrence F Katz. 2009. “The race between education and technology.” [[Belknap Press]]
+> Goldin, Claudia, Lawrence F Katz. 2009. "The race between education and technology." [[Belknap Press]].

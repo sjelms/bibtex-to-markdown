@@ -8,6 +8,7 @@ aliases:
   - US Steel Fabricates Rooms For Florida's Disney World
 journal: "[[Cornell Hotel and Restaurant Administration Quarterly]]"
 publisher: "[[SAGE Publications]]"
+volume: 11
 type: "[[@article]]"
 tags:
   - Frontiers-2022
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Abeck, Robert. 1971. “US Steel Fabricates Rooms for Florida's Disney World.” [[SAGE Publications]]. http://dx.doi.org/10.1177/001088047101100409
+> Abeck, Robert. 1971. "US Steel Fabricates Rooms for Florida's Disney World." Vol. 11. [[SAGE Publications]]. http://dx.doi.org/10.1177/001088047101100409

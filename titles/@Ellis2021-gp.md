@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ellis, Grace. 2021. “100+ Construction Industry Statistics.” . https://constructionblog.autodesk.com/construction-industry-statistics/
+> Ellis, Grace. 2021. "100+ Construction Industry Statistics." https://constructionblog.autodesk.com/construction-industry-statistics/

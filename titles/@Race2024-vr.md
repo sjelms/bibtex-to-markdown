@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Race, Michael. 2024. “UK 'doesn't have enough builders' for Labour's 1.5m homes.” [[British Broadcasting Corporation]]. https://www.bbc.co.uk/news/articles/c5yg1471rwpo
+> Race, Michael. 2024. "UK 'doesn't have enough builders' for Labour's 1.5m homes." [[British Broadcasting Corporation]]. https://www.bbc.co.uk/news/articles/c5yg1471rwpo
 
 > [!abstract]
 > The UK does not have enough construction workers to build the 1.5 million homes the government has promised, industry leaders have warned. The Home Builders Federation (HBF), along with the UK's largest housebuilder Barratt Redrow said skills shortages, ageing workers and Brexit were some of the factors behind the shrinking workforce.

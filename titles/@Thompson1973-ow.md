@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Thompson, John F. 1973. “Foundations of Vocational Education: Social and Philosophical Concepts.” [[Prentice Hall]]. https://play.google.com/store/books/details?id=zdtPAQAAIAAJ
+> Thompson, John F. 1973. "Foundations of Vocational Education: Social and Philosophical Concepts." [[Prentice Hall]]. https://play.google.com/store/books/details?id=zdtPAQAAIAAJ
 
 > [!abstract]
 > Monograph on the philosophical and social implications of the development of vocational education in the USA - reviews selected historical factors and comments on major national level legislation, outlines contemporary vocational training and technical education programmes, and speculates on emerging trends. Diagrams and references.

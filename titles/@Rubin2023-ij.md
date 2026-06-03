@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Rubin, Rick. 2023. “The Creative Act: A Way of Being.” [[Canongate Books]]
+> Rubin, Rick. 2023. "The Creative Act: A Way of Being." [[Canongate Books]].

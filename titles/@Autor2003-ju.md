@@ -10,6 +10,7 @@ aliases:
   - The Skill Content Of Recent Technological Change
 journal: "[[The Quarterly Journal of Economics]]"
 publisher: "[[Oxford University Press OUP]]"
+volume: 118
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
@@ -18,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Autor, David H, Frank Levy, Richard J Murnane. 2003. “The Skill Content of Recent Technological Change: An Empirical Exploration.” [[Oxford University Press OUP]]. https://academic.oup.com/qje/article-lookup/doi/10.1162/003355303322552801
+> Autor, David H, Frank Levy, Richard J Murnane. 2003. "The Skill Content of Recent Technological Change: An Empirical Exploration." Vol. 118. [[Oxford University Press OUP]]. https://academic.oup.com/qje/article-lookup/doi/10.1162/003355303322552801
 
 > [!abstract]
 > Abstract. We apply an understanding of what computers do to study how computerization alters job skill demands. We argue that computer capital (1) substitu

@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Pearson, Lynn. 2020. “England’s Co-operative Movement: An Architectural History.” [[Liverpool University Press]]. http://dx.doi.org/10.2307/j.ctv179h1q1
+> Pearson, Lynn. 2020. "England’s Co-operative Movement: An Architectural History." [[Liverpool University Press]]. http://dx.doi.org/10.2307/j.ctv179h1q1

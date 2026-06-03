@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Cruz, Krystal M. 2018. “Thorndike Report: A Case for Change.” [[Columbia University in the City of New York]]
+> Cruz, Krystal M. 2018. "Thorndike Report: A Case for Change." [[Columbia University in the City of New York]].
 
 > [!abstract]
 > This report provides important background information, history, and the overall rationale for renaming the building that houses Columbia University’s Graduate School of Education, Health & Psychology, Teachers College Office of Admission, to Edmund W. Gordon Hall, honoring the Professor Emeritus and Founder of the Institute for Urban and Minority Education at Teachers College, Columbia University.

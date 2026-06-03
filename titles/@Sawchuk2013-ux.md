@@ -25,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sawchuk, Peter H. 2013. “Researching workplace learning: An overview and critique.” [[SAGE Publications]]. https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml
+> Sawchuk, Peter H. 2013. "Researching workplace learning: An overview and critique." [[SAGE Publications]]. https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml

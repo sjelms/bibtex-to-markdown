@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Terra, Fabio. 2023. “The Economics of John Maynard Keynes.” [[Taylor and Francis]]
+> Terra, Fabio. 2023. "The Economics of John Maynard Keynes." [[Taylor and Francis]].

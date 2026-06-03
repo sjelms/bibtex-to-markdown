@@ -9,6 +9,7 @@ aliases:
   - Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home
   - Becoming A Nurse Aide
 journal: "[[Vocations and Learning]]"
+volume: 12
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Goller, Michael, Bianca Steffen, Christian Harteis. 2018. “Becoming a Nurse Aide: An Investigation of an Existing Workplace Curriculum in a Nursing Home.” [[Vocations and Learning]]. http://dx.doi.org/10.1007/s12186-018-9209-z
+> Goller, Michael, Bianca Steffen, Christian Harteis. 2018. "Becoming a Nurse Aide: An Investigation of an Existing Workplace Curriculum in a Nursing Home." Vol. 12. [[Vocations and Learning]]. http://dx.doi.org/10.1007/s12186-018-9209-z

@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Administration, Federal Highway. 1997. “State Motor Vehicle Registrations, by Years, 1900–1995.” [[United States Department of Transportation]]
+> Administration, Federal Highway. 1997. "State Motor Vehicle Registrations, by Years, 1900–1995." [[United States Department of Transportation]].

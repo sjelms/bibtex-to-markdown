@@ -19,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Forbes, Lincoln H, Syed M Ahmed. 2020. “Lean Project Delivery and Integrated Practices in Modern Construction.” [[Routledge]]
+> Forbes, Lincoln H, Syed M Ahmed. 2020. "Lean Project Delivery and Integrated Practices in Modern Construction." [[Routledge]].
 
 > [!abstract]
 > This book provides a multi-faceted approach for applying lean methodologies to improve design and construction processes. Recognizing the wide diversity in the landscape of projects, and encompassing private and public sector activity, buildings and infrastructure, the book expands upon the detailed coverage of integrated project delivery and new lean tools and techniques.

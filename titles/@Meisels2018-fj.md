@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Meisels, Michelle. 2018. “2019 Engineering and Construction Industry Outlook.” [[Deloitte]]
+> Meisels, Michelle. 2018. "2019 Engineering and Construction Industry Outlook." [[Deloitte]].

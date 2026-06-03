@@ -19,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Saunders, Mark N K, Philip Lewis, Adrian Thornhill. 2019. “Research Methods for Business Students.” [[Pearson Education]]
+> Saunders, Mark N K, Philip Lewis, Adrian Thornhill. 2019. "Research Methods for Business Students." [[Pearson Education]].
 
 > [!abstract]
 > This accessible and clearly written textbook provides a comprehensive and in-depth treatment of philosophical, methodological and ethical aspects of conducting business and management research. Illustrative case studies drawing on published research studies are used throughout and readers are given multiple opportunities to consolidate their learning through review and discussion questions, quizzes, and other exercises. At the end of each chapter, a case study takes the reader through the realities and practicalities of applying the knowledge to a specific student research project. This will be an invaluable guide for all students seeking to understand and undertake business and management research.

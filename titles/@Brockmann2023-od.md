@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Brockmann, Michaela, Rob Smith. 2023. “‘Invested’ partnerships as key to high quality apprenticeship programmes as evidenced in on and off the job training.” [[Informa UK Limited]]. https://www.tandfonline.com/doi/abs/10.1080/13639080.2023.2174958
+> Brockmann, Michaela, Rob Smith. 2023. "‘Invested’ partnerships as key to high quality apprenticeship programmes as evidenced in on and off the job training." [[Informa UK Limited]]. https://www.tandfonline.com/doi/abs/10.1080/13639080.2023.2174958
 
 > [!abstract]
 > The reboot of apprenticeships in England from October (Department for Business Innovation and Skills BIS 2013) evidences a government intention to address the country’s perceived deficit in interme...

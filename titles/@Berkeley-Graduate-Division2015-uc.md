@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Division, Berkeley Graduate. 2015. “Social Constructivism.” [[University of California Berkeley]]. https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/
+> Division, Berkeley Graduate. 2015. "Social Constructivism." [[University of California Berkeley]]. https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/

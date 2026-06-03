@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Lee, Bill, Mark N K Saunders. 2017. “Conducting Case Study Research for Business and Management Students.” [[SAGE Publications]]
+> Lee, Bill, Mark N K Saunders. 2017. "Conducting Case Study Research for Business and Management Students." [[SAGE Publications]].
 
 > [!abstract]
 > In Case Study Research, Bill Lee and Mark Saunders describe the properties of case study designs in organizational research, exploring the uses, advantages and limitations of case research. They also demonstrate the flexibility that case designs offer, and challenges the myths surrounding this approach. Ideal for Business and Management students reading for a Master’s degree, each book in the series may also serve as reference books for doctoral students and faculty members interested in the method.

@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ryan, Gery W, H Russell Bernard. 2000. “Data management and analysis methods.” [[SAGE Publications]]
+> Ryan, Gery W, H Russell Bernard. 2000. "Data management and analysis methods." [[SAGE Publications]].

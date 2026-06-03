@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Lowery, Charles L, Patrick M Jenlink. 2019. “The Handbook of Dewey’s Educational Theory and Practice.” [[Brill]]. https://brill.com/edcollbook/title/55376
+> Lowery, Charles L, Patrick M Jenlink. 2019. "The Handbook of Dewey’s Educational Theory and Practice." [[Brill]]. https://brill.com/edcollbook/title/55376
 
 > [!abstract]
 > "The Handbook of Dewey’s Educational Theory and Practice" published on 05 Aug 2019 by Brill.

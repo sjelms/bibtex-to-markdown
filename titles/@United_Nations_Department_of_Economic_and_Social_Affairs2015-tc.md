@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Affairs, United Nations, Department of Economic and Social. 2015. “Population 2030: Demographic challenges and opportunities for sustainable development planning.” [[United Nations]]
+> Affairs, United Nations, Department of Economic and Social. 2015. "Population 2030: Demographic challenges and opportunities for sustainable development planning." [[United Nations]].

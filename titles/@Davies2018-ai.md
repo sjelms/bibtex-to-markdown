@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Davies, Alex. 2018. “Modern Methods of Construction: A Forward-Thinking Solution to the Housing Crisis?.” [[Royal Institution of Chartered Surveyors]]
+> Davies, Alex. 2018. "Modern Methods of Construction: A Forward-Thinking Solution to the Housing Crisis?." [[Royal Institution of Chartered Surveyors]].

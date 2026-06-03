@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Renz, Andreas, Manuel Zafra Solas. 2016. “Shaping the Future of Construction: A Breakthrough in Mindset and Technology.” [[World Economic Forum]]
+> Renz, Andreas, Manuel Zafra Solas. 2016. "Shaping the Future of Construction: A Breakthrough in Mindset and Technology." [[World Economic Forum]].

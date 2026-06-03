@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lakewood, City of. 2014. “The Lakewood Story: City of Tomorrow.” . https://www.lakewoodca.gov/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow
+> Lakewood, City of. 2014. "The Lakewood Story: City of Tomorrow." https://www.lakewoodca.gov/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow

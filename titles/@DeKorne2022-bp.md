@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> DeKorne, Clayton. 2022. “How Can Building Professionals Improve Training? Success will likely come from robust in-house programs.” [[Journal of Light Construction]]. https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o
+> DeKorne, Clayton. 2022. "How Can Building Professionals Improve Training? Success will likely come from robust in-house programs." [[Journal of Light Construction]]. https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o

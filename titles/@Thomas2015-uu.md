@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Thomas, Gary, Kevin Myers. 2015. “The Anatomy of the Case Study.” [[SAGE Publications]]. http://dx.doi.org/10.4135/9781473920156
+> Thomas, Gary, Kevin Myers. 2015. "The Anatomy of the Case Study." [[SAGE Publications]]. http://dx.doi.org/10.4135/9781473920156

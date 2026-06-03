@@ -9,6 +9,7 @@ aliases:
   - Teaching The Science Of Learning
 journal: "[[Cognitive research principles and implications]]"
 publisher: "[[Springer Science+Business Media]]"
+volume: 3
 type: "[[@article]]"
 tags:
   - 00_TO-READ
@@ -23,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Weinstein, Yana, Christopher R Madan, Megan A Sumeracki. 2018. “Teaching the Science of Learning.” [[Springer Science+Business Media]]. http://dx.doi.org/10.1186/s41235-017-0087-y
+> Weinstein, Yana, Christopher R Madan, Megan A Sumeracki. 2018. "Teaching the Science of Learning." Vol. 3. [[Springer Science+Business Media]]. http://dx.doi.org/10.1186/s41235-017-0087-y

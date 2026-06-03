@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kamaleeva, A R, S I Gilmanshina, N A Nozdrina. 2019. “Cognitive map of the pedagogical situation as a component of the pedagogical situation cognitive model (as exemplified by analyzing natural science and vocational training in colleges of the republic of tatarstan).” [[Atlantis Press]]. https://www.atlantis-press.com/article/125912958
+> Kamaleeva, A R, S I Gilmanshina, N A Nozdrina. 2019. "Cognitive map of the pedagogical situation as a component of the pedagogical situation cognitive model (as exemplified by analyzing natural science and vocational training in colleges of the republic of tatarstan)." [[Atlantis Press]]. https://www.atlantis-press.com/article/125912958

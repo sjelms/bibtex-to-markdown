@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Jackson, Candace. 2021. “Apartments Built on an Assembly Line.” [[The New York Times]]. https://www.nytimes.com/2021/09/10/realestate/prefabricated-modular-apartments.html
+> Jackson, Candace. 2021. "Apartments Built on an Assembly Line." [[The New York Times]]. https://www.nytimes.com/2021/09/10/realestate/prefabricated-modular-apartments.html
 
 > [!abstract]
 > The pandemic put a general crimp in housing construction, but made a California factory that churns out prefabricated housing extra busy.

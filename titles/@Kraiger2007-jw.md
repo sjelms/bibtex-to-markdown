@@ -25,7 +25,7 @@ tags:
 ---
 
 > [!bibliography]
-> Kraiger, Kurt, J Kevin Ford. 2007. “The expanding role of workplace training: Themes and trends influencing training research and practice.” [[Psychology Press]]. http://dx.doi.org/10.4324/9781315820972-24
+> Kraiger, Kurt, J Kevin Ford. 2007. "The expanding role of workplace training: Themes and trends influencing training research and practice." [[Psychology Press]]. http://dx.doi.org/10.4324/9781315820972-24
 
 > [!abstract]
 > Workplace training is a systematic approach to learning and development to improve individual, team, and organizational effectiveness (Goldstein & Ford, 2002). Industrial-organizational (I-O) psychologists have discussed the importance of training from the earliest works by Münsterberg (1910, 1913). Since that time, I-O psychologists have played various roles relevant to improving the quality and effectiveness of training, including research on learning and transfer, development of methods of training measurement, enhancement of methods for training design and delivery, and positioning of the training function within organizations (Ford, 2000). Training research has focused on theoretical perspectives of what is meant by learning and transfer as well as research on the factors that affect learning during training and the transfer of training to the job. As to training practice, I-O psychologists have developed systematic processes for conducting pretraining needs analysis and posttraining evaluation of training as well as advanced new methods for training design and delivery.

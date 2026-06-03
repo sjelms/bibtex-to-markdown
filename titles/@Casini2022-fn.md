@@ -25,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Casini, Marco. 2022. “Introduction.” [[Woodhead Publishing]]. https://www.sciencedirect.com/science/article/pii/B9780128217979000106
+> Casini, Marco. 2022. "Introduction." [[Woodhead Publishing]]. https://www.sciencedirect.com/science/article/pii/B9780128217979000106

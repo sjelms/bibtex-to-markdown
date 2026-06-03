@@ -19,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Emerson, Robert M, Rachel I Fretz, Linda L Shaw. 2011. “Writing ethnographic fieldnotes.” [[University of Chicago Press]]
+> Emerson, Robert M, Rachel I Fretz, Linda L Shaw. 2011. "Writing ethnographic fieldnotes." [[University of Chicago Press]].
 
 > [!abstract]
 > Read Chapter 2: “In the Field: Participating, Observing, and Jotting Notes”

@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Siegel, B J. 2021. “Juno Design: Throwing Out the Playbook.” . https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd
+> Siegel, B J. 2021. "Juno Design: Throwing Out the Playbook." https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd

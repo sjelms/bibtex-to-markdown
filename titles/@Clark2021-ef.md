@@ -25,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Clark, Tom, Alan Bryman, Liam Foster, Luke Sloan. 2021. “Bryman's Social Research Methods.” [[Oxford University Press]]
+> Clark, Tom, Alan Bryman, Liam Foster, Luke Sloan. 2021. "Bryman's Social Research Methods." [[Oxford University Press]].

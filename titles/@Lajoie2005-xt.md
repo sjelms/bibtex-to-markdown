@@ -6,6 +6,7 @@ key: "[[@Lajoie2005-xt]]"
 aliases:
   - Extending The Scaffolding Metaphor
 journal: "[[Instructional Science]]"
+volume: 33
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lajoie, Susanne P. 2005. “Extending the Scaffolding Metaphor.” [[Instructional Science]]. http://dx.doi.org/10.1007/s11251-005-1279-2
+> Lajoie, Susanne P. 2005. "Extending the Scaffolding Metaphor." Vol. 33. [[Instructional Science]]. http://dx.doi.org/10.1007/s11251-005-1279-2

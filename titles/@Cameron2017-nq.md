@@ -20,7 +20,7 @@ tags:
 ---
 
 > [!bibliography]
-> Cameron, Euan, Jon Andrews, Jonathan Gillham. 2017. “The Economic Impact of Artificial Intelligence on the UK Economy.” [[PriceWaterhouseCoopers LLP]]. https://www.pwc.co.uk/services/economics/insights/the-impact-of-artificial-intelligence-on-the-uk-economy.html
+> Cameron, Euan, Jon Andrews, Jonathan Gillham. 2017. "The Economic Impact of Artificial Intelligence on the UK Economy." [[PriceWaterhouseCoopers LLP]]. https://www.pwc.co.uk/services/economics/insights/the-impact-of-artificial-intelligence-on-the-uk-economy.html
 
 > [!abstract]
 > Artificial intelligence (AI) can transform the productivity and GDP potential of the UK landscape. But, we need to invest in the different types of AI technology to make that happen.

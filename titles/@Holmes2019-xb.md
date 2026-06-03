@@ -9,6 +9,7 @@ aliases:
   - Artificial Intelligence In Education - Promises And Implications For Teaching And Learning
   - Artificial Intelligence In Education
 publisher: "[[Center for Curriculum Redesign]]"
+volume: 2019
 type: "[[@book]]"
 tags:
   - 2_Upgrade-MAY-2023
@@ -20,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Holmes, Wayne, Maya Bialik, Charles Fadel. 2019. “Artificial Intelligence in Education: Promises and Implications for Teaching and Learning.” [[Center for Curriculum Redesign]]. https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf
+> Holmes, Wayne, Maya Bialik, Charles Fadel. 2019. "Artificial Intelligence in Education: Promises and Implications for Teaching and Learning." Vol. 2019. [[Center for Curriculum Redesign]]. https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf
 
 > [!abstract]
 > Artificial intelligence (AI) is arguably the driving technological force of the first half of this century, and will transform virtually every industry, if not human endeavors at large. 1 …

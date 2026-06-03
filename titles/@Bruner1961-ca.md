@@ -7,6 +7,7 @@ aliases:
   - The Act Of Discovery
 journal: "[[Harvard Educational Review]]"
 publisher: "[[Harvard Education Publishing Group]]"
+volume: 31
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -23,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Bruner, Jerome S. 1961. “The Act of Discovery.” [[Harvard Education Publishing Group]]
+> Bruner, Jerome S. 1961. "The Act of Discovery." Vol. 31. [[Harvard Education Publishing Group]].
 
 > [!abstract]
 > The active participation in the learning process by the child might result in the following hypothesized benefits: an increase in intellectual potency so as to make the acquired information more readily viable in problem solving, the enaction of the learning activities in terms of the intrinsic reward of discovery itself (as contrasted with the drive-reduction model of learning), learning the heuristics of discovery, and making material more readily accessible in memory.

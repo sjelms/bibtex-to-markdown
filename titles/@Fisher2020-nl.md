@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!bibliography]
-> Fisher, Julia Freeland. 2020. “The next decade of disruption in education? Unlocking networks.” . https://www.christenseninstitute.org/blog/the-next-decade-of-disruption-in-education-unlocking-networks/
+> Fisher, Julia Freeland. 2020. "The next decade of disruption in education? Unlocking networks." https://www.christenseninstitute.org/blog/the-next-decade-of-disruption-in-education-unlocking-networks/
 
 > [!abstract]
 > The last decade witnessed the meteoric rise of online learning. The next decade will be about edtech that expands connections.

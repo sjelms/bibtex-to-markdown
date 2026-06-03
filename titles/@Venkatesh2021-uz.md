@@ -8,6 +8,7 @@ aliases:
   - Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions
   - Critical Conversations As A Tool For Students' Tacit Knowledge Construction
 journal: "[[International Journal of Educational Research Open]]"
+volume: 2
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Venkatesh, Aruna, Henry Ma. 2021. “Critical conversations as a tool for students' tacit knowledge construction: An interpretive research in interior design studio interactions.” [[International Journal of Educational Research Open]]. http://dx.doi.org/10.1016/j.ijedro.2021.100076
+> Venkatesh, Aruna, Henry Ma. 2021. "Critical conversations as a tool for students' tacit knowledge construction: An interpretive research in interior design studio interactions." Vol. 2. [[International Journal of Educational Research Open]]. http://dx.doi.org/10.1016/j.ijedro.2021.100076

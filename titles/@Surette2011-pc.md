@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Surette, Cappy, Nicole Cantore, Eric Scott. 2011. “Histories of Disney's Contemporary and Polynesian Resorts.” . https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/
+> Surette, Cappy, Nicole Cantore, Eric Scott. 2011. "Histories of Disney's Contemporary and Polynesian Resorts." https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/

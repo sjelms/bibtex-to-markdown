@@ -35,7 +35,7 @@ tags:
 ---
 
 > [!bibliography]
-> Fong, Joss. 2017. “The Big Debate About the Future of Work, Explained.” [[Vox Media]]. https://youtu.be/TUmyygCMMGA
+> Fong, Joss. 2017. "The Big Debate About the Future of Work, Explained." [[Vox Media]]. https://youtu.be/TUmyygCMMGA
 
 > [!abstract]
 > Why economists and futurists disagree about the future of the labor market.Subscribe to our channel! http://goo.gl/0bsAjOSources: https://economics.mit.edu/f...

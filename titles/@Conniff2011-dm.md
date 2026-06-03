@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Conniff, Richard. 2011. “What the Luddites Really Fought Against.” . https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/
+> Conniff, Richard. 2011. "What the Luddites Really Fought Against." https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/

@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Labor, United States Department of. Unknown Year. “Worker Organizing Resource and Knowledge Center.” . https://www.dol.gov/general/workcenter
+> Labor, United States Department of. Unknown Year. "Worker Organizing Resource and Knowledge Center." https://www.dol.gov/general/workcenter
 
 > [!abstract]
 > What is a labor union? Who has the legal right to organize? Who protects these rights? Get the facts about unions, workplace organizing and the federal agencies that protect these rights.

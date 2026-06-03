@@ -9,6 +9,7 @@ aliases:
   - An Experimental Evaluation Of Four Face-To-Face Teaching Strategies
 journal: "[[International journal of behavioral development]]"
 publisher: "[[SAGE Publications]]"
+volume: 1
 type: "[[@article]]"
 tags:
   - Notion-Catalogued
@@ -21,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Wood, David J, Heather Wood, David Middleton. 1978. “An Experimental Evaluation of Four Face-to-Face Teaching Strategies.” [[SAGE Publications]]. http://dx.doi.org/10.1177/016502547800100203
+> Wood, David J, Heather Wood, David Middleton. 1978. "An Experimental Evaluation of Four Face-to-Face Teaching Strategies." Vol. 1. [[SAGE Publications]]. http://dx.doi.org/10.1177/016502547800100203
 
 > [!abstract]
 > This study tests a number of predictions about the effectiveness of four different strategies for teaching three to four year old children how to master a difficult construction task. These strategies were derived from previous studies of mother-child and experimenter-child interactions in an assisted learning situation. One strategy the 'contingent approach' was based primarily on theoretical considerations and when used in earlier work as a basis for describing and evaluating maternal teaching it enabled us to predict how well children taught by their mothers would do with a task after instruction. The three other strategies are idealised versions of the teaching methods used by less successful mothers-as-teachers. On the basis of our analysis of effective instruction it is possible to predict how well children taught by these four different techniques by a trained instructor should perform after instruction.The present study largely confirms these predictions. In so doing, it strengthens the supposition that it was maternal behaviour in the earlier work which influenced the children's task abilities and it also corroborates various hypotheses about the essential nature of effective face-to-face instruction.

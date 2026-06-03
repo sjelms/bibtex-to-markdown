@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Yglesias, Matthew. 2021. “Homelessness is About Housing: The Solution is to Legalize More and More Kinds of It.” . https://www.slowboring.com/p/homelessness-housing
+> Yglesias, Matthew. 2021. "Homelessness is About Housing: The Solution is to Legalize More and More Kinds of It." https://www.slowboring.com/p/homelessness-housing

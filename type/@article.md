@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-02T17:05:55
+amended: 2026-06-03T09:20:41
 ---
 
 # Directory
@@ -254,7 +254,7 @@ amended: 2026-06-02T17:05:55
 ### 2008
 - [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures - The Case Of NUMMI And General Motors]]
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
-- [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
+- [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Tynjala2008-ct|Perspectives Into Learning At The Workplace]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]

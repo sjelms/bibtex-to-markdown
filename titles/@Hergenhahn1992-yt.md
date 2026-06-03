@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!bibliography]
-> Hergenhahn, Baldwin R. 1992. “An Introduction to the History of Psychology.” [[Wadsworth Publishing]]
+> Hergenhahn, Baldwin R. 1992. "An Introduction to the History of Psychology." [[Wadsworth Publishing]].
 
 > [!abstract]
 > Dreams puzzled early man, Greek philosophers spun elaborate theories to explain human memory and perception, Descartes postulated that the brain was filled with "animal spirits," and psychology was officially deemed a "science" in the 19th century. B.R. Hergenhahn demonstrates that most of the concerns of contemporary psychologists are manifestations of themes that have been part of psychology for hundreds-or even thousands-of years.

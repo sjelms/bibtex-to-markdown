@@ -23,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Self, John. 1995. “Computational Mathetics: Towards a Science of Learning Systems Design.” [[Drakkar Press]]
+> Self, John. 1995. "Computational Mathetics: Towards a Science of Learning Systems Design." [[Drakkar Press]].

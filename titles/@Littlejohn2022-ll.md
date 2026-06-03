@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Littlejohn, Allison, Eileen Kennedy, Diana Laurillard. 2022. “Professional learning analytics: Understanding complex learning processes through measurement, collection, analysis, and reporting of MOOC data.” [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5_25
+> Littlejohn, Allison, Eileen Kennedy, Diana Laurillard. 2022. "Professional learning analytics: Understanding complex learning processes through measurement, collection, analysis, and reporting of MOOC data." [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5_25

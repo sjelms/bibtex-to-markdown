@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Guile, David. 2010. “Preliminary Material.” [[Brill]]. https://brill.com/display/book/9789460912597/BP000001.xml
+> Guile, David. 2010. "Preliminary Material." [[Brill]]. https://brill.com/display/book/9789460912597/BP000001.xml
 
 > [!abstract]
 > "Preliminary Material" published on 01 Jan 2010 by Brill.

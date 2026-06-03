@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!bibliography]
-> Stewart, David Wood. 1987. “Adult Learning in America: Edward Lindeman and His Agenda for Lifelong Education.” [[Krieger Publishing Company]]
+> Stewart, David Wood. 1987. "Adult Learning in America: Edward Lindeman and His Agenda for Lifelong Education." [[Krieger Publishing Company]].
 
 > [!abstract]
 > Adult Learning in America: Eduard Lindeman and His Agenda for Lifelong Education (1987) by David W. Stewart is a biographical study examining the life and foundational, yet often overlooked, contributions of Eduard Lindeman to American adult education. The text contextualizes Lindeman's, andragogical philosophy, aiming to revitalize his relevance in contemporary educational thought.

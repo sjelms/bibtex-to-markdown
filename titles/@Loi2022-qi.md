@@ -8,6 +8,7 @@ aliases:
   - Designing The Unfinished
 journal: "[[Interactions]]"
 publisher: "[[Association for Computing Machinery]]"
+volume: 29
 type: "[[@article]]"
 tags:
   - 00_TO-READ
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Loi, Daria. 2022. “Designing the Unfinished: A Home is Not a House.” [[Association for Computing Machinery]]. http://dx.doi.org/10.1145/3529163
+> Loi, Daria. 2022. "Designing the Unfinished: A Home is Not a House." Vol. 29. [[Association for Computing Machinery]]. http://dx.doi.org/10.1145/3529163

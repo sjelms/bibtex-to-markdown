@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> MacDonald, Joel. 2018. “Active Learning Methods and the Development of Expertise.” . https://medium.com/upeielo/active-learning-methods-and-the-development-of-expertis-676656cd33f2
+> MacDonald, Joel. 2018. "Active Learning Methods and the Development of Expertise." https://medium.com/upeielo/active-learning-methods-and-the-development-of-expertis-676656cd33f2

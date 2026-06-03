@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Office, Prime Minister's. 2020. “Major expansion of post-18 education and training to level up and prepare workers for post-COVID economy.” . https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy
+> Office, Prime Minister's. 2020. "Major expansion of post-18 education and training to level up and prepare workers for post-COVID economy." https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy
 
 > [!abstract]
 > Prime Minister Boris Johnson acts to boost productivity and help the country build back better from coronavirus.

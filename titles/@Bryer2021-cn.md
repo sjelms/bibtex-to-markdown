@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bryer, Lee, Ian Hill. 2021. “CITB Construction Skills Network 5-year Outlook 2021-2025.” [[Construction Industry Training Board]]. https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/
+> Bryer, Lee, Ian Hill. 2021. "CITB Construction Skills Network 5-year Outlook 2021-2025." [[Construction Industry Training Board]]. https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/

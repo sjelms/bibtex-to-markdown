@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. “Prefabrication and Modular Construction 2020.” [[Prefabrication and Modular Construction 2020]]
+> Buckley, Bruce, Katharine Logan, Timothy Schuler. 2020. "Prefabrication and Modular Construction 2020." [[Prefabrication and Modular Construction 2020]].

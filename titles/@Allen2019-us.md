@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Allen, Nichol. 2019. “Standard Oil’s Company Housing in Wood River, Illinois.” . https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/
+> Allen, Nichol. 2019. "Standard Oil’s Company Housing in Wood River, Illinois." https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/

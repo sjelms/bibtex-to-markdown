@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Groh, Jennifer M. 2014. “Making Space: How the Brain Knows Where Things Are.” [[Harvard University Press]]. https://books.google.co.uk/books?id=Kz8TBQAAQBAJ
+> Groh, Jennifer M. 2014. "Making Space: How the Brain Knows Where Things Are." [[Harvard University Press]]. https://books.google.co.uk/books?id=Kz8TBQAAQBAJ

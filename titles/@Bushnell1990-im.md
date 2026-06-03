@@ -6,6 +6,7 @@ key: "[[@Bushnell1990-im]]"
 aliases:
   - Input, Process, Output - A Model For Evaluating Training
   - Input, Process, Output
+volume: 44
 type: "[[@misc]]"
 tags:
   - International-Business-Machines-Corp
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bushnell, David S. 1990. “Input, Process, Output: a Model for Evaluating Training.” . https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e
+> Bushnell, David S. 1990. "Input, Process, Output: a Model for Evaluating Training." Vol. 44. https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e

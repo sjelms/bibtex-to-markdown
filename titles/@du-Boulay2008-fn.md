@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Boulay, Benedict du, Genaro Rebolledo-Méndez, Rosemary Luckin, Erika Martínez-Mirón, Amanda Harris. 2008. “Motivationally Intelligent Systems: Three Questions.”
+> Boulay, Benedict du, Genaro Rebolledo-Méndez, Rosemary Luckin, Erika Martínez-Mirón, Amanda Harris. 2008. "Motivationally Intelligent Systems: Three Questions."

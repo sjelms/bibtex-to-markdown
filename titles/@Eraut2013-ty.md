@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Eraut, Michael. 2013. “How Researching Learning at Work Can Lead to Tools for Enhancing Learning.” [[SAGE Publications]]. http://dx.doi.org/10.4135/9781446200940.n13
+> Eraut, Michael. 2013. "How Researching Learning at Work Can Lead to Tools for Enhancing Learning." [[SAGE Publications]]. http://dx.doi.org/10.4135/9781446200940.n13

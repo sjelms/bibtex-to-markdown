@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Francis-Devine, Brigid, Cassie Barton, Daniel Harari, Matthew Keep, Paul Bolton, Wendy Wilson. 2023. “Rising cost of living in the UK.” [[House of Commons of the United Kingdom]]. https://commonslibrary.parliament.uk/research-briefings/cbp-9428/
+> Francis-Devine, Brigid, Cassie Barton, Daniel Harari, Matthew Keep, Paul Bolton, Wendy Wilson. 2023. "Rising cost of living in the UK." [[House of Commons of the United Kingdom]]. https://commonslibrary.parliament.uk/research-briefings/cbp-9428/

@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> User, HUD. 2019. “Factory-built housing for affordability, efficiency, and resilience.” . https://www.huduser.gov/portal/periodicals/em/WinterSpring20/highlight1.html
+> User, HUD. 2019. "Factory-built housing for affordability, efficiency, and resilience." https://www.huduser.gov/portal/periodicals/em/WinterSpring20/highlight1.html

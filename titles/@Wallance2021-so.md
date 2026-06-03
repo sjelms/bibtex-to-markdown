@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wallance, David. 2021. “The Future of Modular Architecture.” [[Routledge]]
+> Wallance, David. 2021. "The Future of Modular Architecture." [[Routledge]].

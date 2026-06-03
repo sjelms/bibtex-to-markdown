@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Briscoe, Bob. 2006. “Metcalfe’s law is wrong.” [[Institute of Electrical and Electronics Engineers]]. https://spectrum.ieee.org/metcalfes-law-is-wrong
+> Briscoe, Bob. 2006. "Metcalfe’s law is wrong." [[Institute of Electrical and Electronics Engineers]]. https://spectrum.ieee.org/metcalfes-law-is-wrong
 
 > [!abstract]
 > Communications networks increase in value as they add members—but by how much? The devil is in the details

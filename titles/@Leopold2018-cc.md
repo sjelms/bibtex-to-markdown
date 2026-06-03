@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Leopold, Till Alexander, Vesselina Stefanova Ratcheva, Saadia Zahidi, World Economic Forum. 2018. “The Future of Jobs 2018.” [[Centre for the New Economy and Society]]
+> Leopold, Till Alexander, Vesselina Stefanova Ratcheva, Saadia Zahidi, World Economic Forum. 2018. "The Future of Jobs 2018." [[Centre for the New Economy and Society]].
 
 > [!abstract]
 > Centre for the New Economy and Society ; project team Till Alexander Leopold (Project Lead, Centre for the New Economy and Society), Vesselina Stefanova Ratcheva (Data Lead, Centre for the New Economy and Society), Saadia Zahidi (Head, Centre for the New Economy and Society; Member of the Managing Board)

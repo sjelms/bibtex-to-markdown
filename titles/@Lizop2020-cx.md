@@ -27,7 +27,7 @@ tags:
 ---
 
 > [!bibliography]
-> Lizop, Morgan, Matt Abbott. 2020. “Vygotsky's Theory of cognitive development in social relationships.” [[Sprouts Learning Co Ltd]]. https://youtu.be/8I2hrSRbmHE
+> Lizop, Morgan, Matt Abbott. 2020. "Vygotsky's Theory of cognitive development in social relationships." [[Sprouts Learning Co Ltd]]. https://youtu.be/8I2hrSRbmHE
 
 > [!abstract]
 > Vygotsky’s Theory of Social Development argues that community and language play a central part in learning. Vygotsky believed that children develop independe...

@@ -8,6 +8,7 @@ aliases:
   - Ecolab - Exploring The Construction Of A Learning Assistant
   - Ecolab
 publisher: "[[Springer Berlin Heidelberg]]"
+volume: 1452
 type: "[[@inproceedings]]"
 tags:
   - Ability-Group
@@ -31,7 +32,7 @@ tags:
 ---
 
 > [!bibliography]
-> Luckin, Rosemary. 2001. “Ecolab: Exploring the Construction of a Learning Assistant.” [[Springer Berlin Heidelberg]]
+> Luckin, Rosemary. 2001. "Ecolab: Exploring the Construction of a Learning Assistant." Vol. 1452. [[Springer Berlin Heidelberg]].
 
 > [!abstract]
 > The Ecolab is an interactive learning environment constructed with the aim of providing a tool to investigate how software can offer help and support to an individual learner. The design framework is informed by Vygotsky’s Zone of Proximal Development (ZPD) and previous work on face to face tutorial assistance. Three Ecolab versions implement different variations and combinations of design features with the purpose of providing a means of evaluating what constitutes effective assistance. The evaluation of the system illustrates that the differing qualities and quantities of collaborative assistance offered by the three system variations influenced both the child user’s learning gain and the nature of her interactions with the system. It also highlights the impact which each user’s ability and learning style has upon their experiences with an interactive learning environment.

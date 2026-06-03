@@ -10,6 +10,7 @@ aliases:
   - Rethinking Transfer - A Simple Proposal With Multiple Implications
   - Rethinking Transfer
 journal: "[[American Educational Research Association]]"
+volume: 24
 type: "[[@article]]"
 tags:
   - 2_Upgrade-MAY-2023
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bransford, John D, Daniel L Schwartz. 1999. “Rethinking Transfer: a Simple Proposal With Multiple Implications.” [[American Educational Research Association]]
+> Bransford, John D, Daniel L Schwartz. 1999. "Rethinking Transfer: a Simple Proposal With Multiple Implications." Vol. 24. [[American Educational Research Association]].

@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!bibliography]
-> Contractors, Associated General. 2021. “Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects & Disrupt Supply Chains.” . https://www.agc.org/news/2021/09/02/construction-workforce-shortages-reach-pre-pandemic-levels-even-coronavirus
+> Contractors, Associated General. 2021. "Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects & Disrupt Supply Chains." https://www.agc.org/news/2021/09/02/construction-workforce-shortages-reach-pre-pandemic-levels-even-coronavirus
 
 > [!abstract]
 > Eighty-Nine Percent of Contractors Are Having a Hard Time Finding Craft Workers, While 88 Percent of Firms Are Experiencing Project Delays and 93 Percent Are Affected by Rising Materials Prices

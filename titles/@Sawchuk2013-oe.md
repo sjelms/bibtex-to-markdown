@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sawchuk, Peter H. 2013. “References.” [[Cambridge University Press]]
+> Sawchuk, Peter H. 2013. "References." [[Cambridge University Press]].

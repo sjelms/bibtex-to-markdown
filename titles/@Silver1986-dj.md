@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Silver, Marc L. 1986. “Under Construction: Work and Alienation in the Building Trades.” [[State University of New York Press]]
+> Silver, Marc L. 1986. "Under Construction: Work and Alienation in the Building Trades." [[State University of New York Press]].

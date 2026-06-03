@@ -8,6 +8,7 @@ aliases:
   - Apprenticeship As An Evolving Model Of Learning
 journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Informa UK Limited]]"
+volume: 63
 type: "[[@article]]"
 tags:
   - VET-TVET
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Fuller, Alison, Lorna Unwin. 2011. “Apprenticeship as an Evolving Model of Learning.” [[Informa UK Limited]]. http://dx.doi.org/10.1080/13636820.2011.602220
+> Fuller, Alison, Lorna Unwin. 2011. "Apprenticeship as an Evolving Model of Learning." Vol. 63. [[Informa UK Limited]]. http://dx.doi.org/10.1080/13636820.2011.602220

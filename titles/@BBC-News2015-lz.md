@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> News, BBC. 2015. “Will a robot take your job?.” [[British Broadcasting Corporation]]. https://www.bbc.co.uk/news/technology-34066941
+> News, BBC. 2015. "Will a robot take your job?." [[British Broadcasting Corporation]]. https://www.bbc.co.uk/news/technology-34066941
 
 > [!abstract]
 > Find out the likelihood that your job will become automated in the next two decades

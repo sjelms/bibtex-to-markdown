@@ -8,6 +8,7 @@ aliases:
   - Apprenticeship Instruction For Real-World Tasks - The Coordination Of Procedures, Mental Models, And Strategies
   - Apprenticeship Instruction For Real-World Tasks
 publisher: "[[American Educational Research Association]]"
+volume: 15
 type: "[[@inbook]]"
 tags:
   - Zotero-Import-Feb-22
@@ -22,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Gott, Sherrie P. 1988. “Apprenticeship Instruction for Real-World Tasks: The Coordination of Procedures, Mental Models, and Strategies.” [[American Educational Research Association]]. http://dx.doi.org/10.3102/0091732X015001097
+> Gott, Sherrie P. 1988. "Apprenticeship Instruction for Real-World Tasks: The Coordination of Procedures, Mental Models, and Strategies." Vol. 15. [[American Educational Research Association]]. http://dx.doi.org/10.3102/0091732X015001097

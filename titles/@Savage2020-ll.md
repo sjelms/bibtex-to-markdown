@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Savage, Adam. 2020. “How To Build in 2030.” . https://www.theb1m.com/video/how-to-build-in-2030
+> Savage, Adam. 2020. "How To Build in 2030." https://www.theb1m.com/video/how-to-build-in-2030

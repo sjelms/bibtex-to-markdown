@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Billups, Felice D. 2020. “Qualitative Data Collection Tools: Design, Development, and Applications.” [[SAGE Publications]]
+> Billups, Felice D. 2020. "Qualitative Data Collection Tools: Design, Development, and Applications." [[SAGE Publications]].

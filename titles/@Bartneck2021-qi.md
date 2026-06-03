@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Bartneck, Christoph, Christoph Lütge, Alan Wagner, Sean Welsh. 2021. “What Is AI?.” [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-030-51110-4_2
+> Bartneck, Christoph, Christoph Lütge, Alan Wagner, Sean Welsh. 2021. "What Is AI?." [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-030-51110-4_2
 
 > [!abstract]
 > In this chapter we discuss the different definitions of Artificial Intelligence (AI). We then discuss how machines learn and how a robot works in general. Finally we discuss the limitations of AI and the influence the media has on our preconceptions of AI.

@@ -26,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Autor, David H, David A Mindell, Elisabeth B Reynolds. 2022. “The Work of the Future: Building Better Jobs in an Age of Intelligent Machines.” [[MIT Press]]. https://mitpress.mit.edu/9780262547307/the-work-of-the-future/
+> Autor, David H, David A Mindell, Elisabeth B Reynolds. 2022. "The Work of the Future: Building Better Jobs in an Age of Intelligent Machines." [[MIT Press]]. https://mitpress.mit.edu/9780262547307/the-work-of-the-future/

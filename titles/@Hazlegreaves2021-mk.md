@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hazlegreaves, Steph. 2021. “COP26: What is next for the built environment?.” . https://www.pbctoday.co.uk/news/energy-news/cop26-the-built-environment/102381/
+> Hazlegreaves, Steph. 2021. "COP26: What is next for the built environment?." https://www.pbctoday.co.uk/news/energy-news/cop26-the-built-environment/102381/

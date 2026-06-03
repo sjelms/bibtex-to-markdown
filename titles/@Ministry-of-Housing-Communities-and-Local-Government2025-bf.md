@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Government, Ministry of Housing, Communities, and Local. 2025. “National Planning Policy Framework: Plan-Making and National Decision-Making Policies.” [[Ministry of Housing]], [[Communities and Local Government]]
+> Government, Ministry of Housing, Communities, and Local. 2025. "National Planning Policy Framework: Plan-Making and National Decision-Making Policies." [[Ministry of Housing]], [[Communities and Local Government]].

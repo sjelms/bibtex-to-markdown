@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Maddow, Rachel. 2020. “Blowout: Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth.” [[Vintage Digital]]
+> Maddow, Rachel. 2020. "Blowout: Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth." [[Vintage Digital]].

@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wertsch, James V. 1985. “Notes.” [[Harvard University Press]]. http://www.jstor.org/stable/j.ctv26071b0.13
+> Wertsch, James V. 1985. "Notes." [[Harvard University Press]]. http://www.jstor.org/stable/j.ctv26071b0.13

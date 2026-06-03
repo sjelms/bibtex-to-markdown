@@ -7,6 +7,7 @@ key: "[[@Smith1976-wi]]"
 aliases:
   - Educational Uses Of The PLATO Computer System
 journal: "[[Science]]"
+volume: 192
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
@@ -21,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Smith, Stanley G, Bruce Arne Sherwood. 1976. “Educational Uses of the PLATO Computer System.” [[Science]]. http://www.jstor.org/stable/1742096
+> Smith, Stanley G, Bruce Arne Sherwood. 1976. "Educational Uses of the PLATO Computer System." Vol. 192. [[Science]]. http://www.jstor.org/stable/1742096

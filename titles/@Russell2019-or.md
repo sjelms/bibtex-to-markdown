@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Russell, Stuart J. 2019. “Human Compatible: Artificial Intelligence and the Problem of Control.” [[Penguin Publishing Group]]. https://books.google.co.uk/books?id=M1eFDwAAQBAJ
+> Russell, Stuart J. 2019. "Human Compatible: Artificial Intelligence and the Problem of Control." [[Penguin Publishing Group]]. https://books.google.co.uk/books?id=M1eFDwAAQBAJ

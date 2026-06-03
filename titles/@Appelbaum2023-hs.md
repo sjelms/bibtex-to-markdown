@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Appelbaum, Binyamin. 2023. “Why Do We Build Houses in the Same Way That We Did 125 Years Ago?.” [[The New York Times]]. https://www.nytimes.com/2023/12/18/opinion/editorials/housing-costs-modular-homes.html
+> Appelbaum, Binyamin. 2023. "Why Do We Build Houses in the Same Way That We Did 125 Years Ago?." [[The New York Times]]. https://www.nytimes.com/2023/12/18/opinion/editorials/housing-costs-modular-homes.html
 
 > [!abstract]
 > Old-fashioned building methods contribute to the high cost of housing.

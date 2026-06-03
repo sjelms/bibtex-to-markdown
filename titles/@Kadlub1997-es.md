@@ -7,6 +7,7 @@ aliases:
   - Shortage Of Workers Slams Area Contractors
 journal: "[[Northern Colorado Business Report Fort Collins]]"
 publisher: "[[BizWest Media LLC]]"
+volume: 3
 type: "[[@misc]]"
 tags:
   - Frontiers-2022
@@ -23,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Kadlub, Luanne. 1997. “Shortage of workers slams area contractors.” [[BizWest Media LLC]]. https://www.proquest.com/trade-journals/shortage-workers-slams-area-contractors/docview/218501556/se-2
+> Kadlub, Luanne. 1997. "Shortage of workers slams area contractors." Vol. 3. [[BizWest Media LLC]]. https://www.proquest.com/trade-journals/shortage-workers-slams-area-contractors/docview/218501556/se-2
 
 > [!abstract]
 > Wanted: construction workers.Sounds simple enough. But there's more here than meets the eye. You bet there's a labor shortage in the construction industry in Colorado. In fact, almost all Northern Colorado building contractors will tell you it's a serious shortage.

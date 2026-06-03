@@ -9,6 +9,7 @@ aliases:
   - Managing Disruption
 journal: "[[Research Technology Management]]"
 publisher: "[[Routledge]]"
+volume: 63
 type: "[[@misc]]"
 tags:
   - Notion-Catalogued
@@ -19,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Christensen, Clayton. 2020. “Managing Disruption: An Interview with Clayton Christensen.” [[Routledge]]. https://doi.org/10.1080/08956308.2020.1733890
+> Christensen, Clayton. 2020. "Managing Disruption: An Interview with Clayton Christensen." Vol. 63. [[Routledge]]. https://doi.org/10.1080/08956308.2020.1733890

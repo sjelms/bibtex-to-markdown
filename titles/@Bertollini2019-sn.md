@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bertollini, Vanessa. 2019. “This Is What Trillions in Global-Infrastructure Investment Look Like.” . https://redshift.autodesk.com/global-infrastructure/
+> Bertollini, Vanessa. 2019. "This Is What Trillions in Global-Infrastructure Investment Look Like." https://redshift.autodesk.com/global-infrastructure/

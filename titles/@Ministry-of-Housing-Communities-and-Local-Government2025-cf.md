@@ -23,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Government, Ministry of Housing, Communities, and Local. 2025. “Proposed Reforms to the National Planning Policy Framework and Other Changes to the Planning System.” [[Ministry of Housing]], [[Communities and Local Government]]
+> Government, Ministry of Housing, Communities, and Local. 2025. "Proposed Reforms to the National Planning Policy Framework and Other Changes to the Planning System." [[Ministry of Housing]], [[Communities and Local Government]].

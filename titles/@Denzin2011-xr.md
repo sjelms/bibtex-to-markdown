@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Denzin, Norman K, Yvonna S Lincoln. 2011. “The SAGE Handbook of Qualitative Research.” [[SAGE Publications]]
+> Denzin, Norman K, Yvonna S Lincoln. 2011. "The SAGE Handbook of Qualitative Research." [[SAGE Publications]].
 
 > [!abstract]
 > Presenting the state of the art for the theory and practice of qualitative inquiry, this landmark Handbook has been a publishing phenomenon in the human sciences since it first released in 1994. As with earlier editions, the Fourth Edition is virtually a new volume.

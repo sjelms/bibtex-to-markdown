@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Guile, David. 2010. “Problems Around the Role of Knowledge in the Economy.” [[Brill]]. https://brill.com/display/book/9789460912597/BP000005.xml
+> Guile, David. 2010. "Problems Around the Role of Knowledge in the Economy." [[Brill]]. https://brill.com/display/book/9789460912597/BP000005.xml
 
 > [!abstract]
 > "Problems Around the Role of Knowledge in the Economy" published on 01 Jan 2010 by Brill.

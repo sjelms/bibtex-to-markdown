@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!bibliography]
-> Novack, George. 1975. “Pragmatism Versus Marxism: An Appraisal of John Dewey's Philosophy.” [[Pathfinder Press]]
+> Novack, George. 1975. "Pragmatism Versus Marxism: An Appraisal of John Dewey's Philosophy." [[Pathfinder Press]].
 
 > [!abstract]
 > A defense of Marxism against the pragmatism of John Dewey, chief theoretical spokesman in the 1930s of the middle-class democratic movement in the United States.

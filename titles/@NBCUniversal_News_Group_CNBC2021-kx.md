@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> [CNBC], NBCUniversal News Group. 2021. “Can Factory-Built Homes Help Solve The Housing Crisis?.” . https://www.youtube.com/watch?v=hU4rp-efn-I&feature=youtu.be
+> [CNBC], NBCUniversal News Group. 2021. "Can Factory-Built Homes Help Solve The Housing Crisis?." https://www.youtube.com/watch?v=hU4rp-efn-I&feature=youtu.be

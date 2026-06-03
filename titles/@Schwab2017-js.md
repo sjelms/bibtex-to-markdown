@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Schwab, Klaus. 2017. “The Fourth Industrial Revolution.” [[Adfo Books]]
+> Schwab, Klaus. 2017. "The Fourth Industrial Revolution." [[Adfo Books]].

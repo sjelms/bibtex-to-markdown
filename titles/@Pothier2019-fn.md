@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Pothier, Debra, Anil Sawhney. 2019. “Industrialized Construction in Academia.” [[Autodesk]]
+> Pothier, Debra, Anil Sawhney. 2019. "Industrialized Construction in Academia." [[Autodesk]].

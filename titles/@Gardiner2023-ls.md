@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Gardiner, Joey. 2023. “Ilke Homes goes into administration.” . https://www.housingtoday.co.uk/news/ilke-homes-goes-into-administration/5123941.article
+> Gardiner, Joey. 2023. "Ilke Homes goes into administration." https://www.housingtoday.co.uk/news/ilke-homes-goes-into-administration/5123941.article
 
 > [!abstract]
 > 'All activities to cease' as loss-making modular housebuilder fails to find a buyer

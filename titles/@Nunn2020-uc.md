@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Nunn, Ryan, Jana Parsons, Jay Shambaugh. 2020. “A Dozen Facts about the Economics of the U.S. Health-Care System.” [[The Brookings Institution]]
+> Nunn, Ryan, Jana Parsons, Jay Shambaugh. 2020. "A Dozen Facts about the Economics of the U.S. Health-Care System." [[The Brookings Institution]].

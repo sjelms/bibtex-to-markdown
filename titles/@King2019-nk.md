@@ -23,7 +23,7 @@ tags:
 ---
 
 > [!bibliography]
-> King, Nigel, Joanna Brooks. 2019. “Template Analysis for Business and Management Students.” [[SAGE Publications]]
+> King, Nigel, Joanna Brooks. 2019. "Template Analysis for Business and Management Students." [[SAGE Publications]].
 
 > [!abstract]
 > In Template Analysis for Business and Management Students Nigel King and Joanna Brookes guide you through the origins of template analysis and its place in qualitative research, its basic components, and the main strengths and limitations of this method. Practical case studies and examples from published research then guide you through how to use it in your own research project.

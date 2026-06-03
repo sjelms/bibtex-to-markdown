@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Braun, Virginia, Victoria Clarke. 2021. “Thematic Analysis: A Practical Guide.” [[SAGE Publications]]
+> Braun, Virginia, Victoria Clarke. 2021. "Thematic Analysis: A Practical Guide." [[SAGE Publications]].
 
 > [!abstract]
 > This book is the definitive approach to thematic analysis, offering a highly accessible and practical discussion of doing TA.

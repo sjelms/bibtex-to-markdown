@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Vasilevski, Nikolche, James Birt. 2019. “Optimizing augmented reality outcomes in a gamified place experience application through design science research.” [[Association for Computing Machinery]]. http://dx.doi.org/10.1145/3359997.3365747
+> Vasilevski, Nikolche, James Birt. 2019. "Optimizing augmented reality outcomes in a gamified place experience application through design science research." [[Association for Computing Machinery]]. http://dx.doi.org/10.1145/3359997.3365747

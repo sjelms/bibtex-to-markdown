@@ -8,6 +8,7 @@ key: "[[@Engestrom1999-iv]]"
 aliases:
   - When The Center Does Not Hold - The Importance Of Knotworking
   - When The Center Does Not Hold
+volume: 381
 type: "[[@book]]"
 tags:
   - 3_Upgrade-OCT-2023
@@ -15,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Engeström, Yrjö, Ritva Engeström, Tarja Vähäaho. 1999. “When the Center Does Not Hold: The Importance of Knotworking.”
+> Engeström, Yrjö, Ritva Engeström, Tarja Vähäaho. 1999. "When the Center Does Not Hold: The Importance of Knotworking." Vol. 381.

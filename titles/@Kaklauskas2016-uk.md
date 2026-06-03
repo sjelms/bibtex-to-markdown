@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kaklauskas, Artūras, Renaldas Gudauskas. 2016. “Intelligent decision-support systems and the Internet of Things for the smart built environment.” [[Start Up Creation]]. http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0
+> Kaklauskas, Artūras, Renaldas Gudauskas. 2016. "Intelligent decision-support systems and the Internet of Things for the smart built environment." [[Start Up Creation]]. http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0

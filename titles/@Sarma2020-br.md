@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sarma, Sanjay E, William B Bonvillian. 2020. “Applying new education technologies to meet workforce education needs.” [[MIT Work of the Future]]. https://workofthefuture.mit.edu/research-post/applying-new-education-technologies-to-meet-workforce-education-needs/
+> Sarma, Sanjay E, William B Bonvillian. 2020. "Applying new education technologies to meet workforce education needs." [[MIT Work of the Future]]. https://workofthefuture.mit.edu/research-post/applying-new-education-technologies-to-meet-workforce-education-needs/

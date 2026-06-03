@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Phillips, Zachary. 2023. “Virginia Tech wins \$450K grant for modular workforce development.” . https://www.constructiondive.com/news/virginia-tech-appalachia-modular-grant/700676/
+> Phillips, Zachary. 2023. "Virginia Tech wins \$450K grant for modular workforce development." https://www.constructiondive.com/news/virginia-tech-appalachia-modular-grant/700676/
 
 > [!abstract]
 > A team focused on scaling offsite construction in Appalachia hopes it can rebuild both the workforce and affordable homes.

@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Charmaz, Kathy, Linda Liska Belgrave. 2012. “Qualitative interviewing and grounded theory analysis.” [[SAGE Publications]]. https://methods.sagepub.com/book/handbook-of-interview-research-2e/n25.xml
+> Charmaz, Kathy, Linda Liska Belgrave. 2012. "Qualitative interviewing and grounded theory analysis." [[SAGE Publications]]. https://methods.sagepub.com/book/handbook-of-interview-research-2e/n25.xml

@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!bibliography]
-> Moravec, Hans P. 1988. “Mind Children: The Future of Robot and Human Intelligence.” [[Harvard University Press]]
+> Moravec, Hans P. 1988. "Mind Children: The Future of Robot and Human Intelligence." [[Harvard University Press]].
 
 > [!abstract]
 > Mind Children: The Future of Robot and Human Intelligence (1988) by Hans Moravec is a seminal work in robotics and futurism that predicts the evolution of artificial intelligence into a new, postbiological species. Moravec, a renowned roboticist, argues that robots will achieve human-level intelligence and beyond, ultimately replacing humans as the dominant intellectual force on Earth.

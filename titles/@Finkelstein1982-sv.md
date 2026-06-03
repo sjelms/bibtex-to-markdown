@@ -7,6 +7,7 @@ aliases:
   - What Is Not Measurable, Make Measurable
 journal: "[[Measurement and Control]]"
 publisher: "[[SAGE Publications]]"
+volume: 15
 type: "[[@article]]"
 tags:
   - 2_Upgrade-MAY-2023
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Finkelstein, Ludwik. 1982. “What is Not Measurable, Make Measurable.” [[SAGE Publications]]. http://journals.sagepub.com/doi/10.1177/002029408201500104
+> Finkelstein, Ludwik. 1982. "What is Not Measurable, Make Measurable." Vol. 15. [[SAGE Publications]]. http://journals.sagepub.com/doi/10.1177/002029408201500104

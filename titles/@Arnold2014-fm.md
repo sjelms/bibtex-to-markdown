@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Arnold, Amy, Martyn Polkinghorne. 2014. “A six step guide to using recursive abstraction applied to the qualitative analysis of interview data.” [[Bournemouth University]]
+> Arnold, Amy, Martyn Polkinghorne. 2014. "A six step guide to using recursive abstraction applied to the qualitative analysis of interview data." [[Bournemouth University]].

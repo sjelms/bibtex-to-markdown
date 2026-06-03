@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Danermark, Berth, Mats Ekström, Liselotte Jakobsen, Jan Ch Karlsson. 2005. “Explaining Society: An Introduction to Critical Realism in the Social Sciences.” [[Routledge]]
+> Danermark, Berth, Mats Ekström, Liselotte Jakobsen, Jan Ch Karlsson. 2005. "Explaining Society: An Introduction to Critical Realism in the Social Sciences." [[Routledge]].
 
 > [!abstract]
 > This book will be immensely valuable for students and researchers in social science, sociology, and philosophy in that it connects methodology, theory, and empirical research. It provides an innovative picture of what society and social science is, along with the methods used to study and explain social phenomena.

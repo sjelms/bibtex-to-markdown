@@ -10,6 +10,7 @@ aliases:
   - Artificial Intelligence And Knowledge Management
 journal: "[[Prometheus]]"
 publisher: "[[Pluto Journals]]"
+volume: 35
 type: "[[@article]]"
 tags:
   - Frontiers-import-Aug-11
@@ -22,7 +23,7 @@ tags:
 ---
 
 > [!bibliography]
-> Sanzogni, Louis, Gustavo Guzman, Peter Busch. 2017. “Artificial intelligence and knowledge management: questioning the tacit dimension.” [[Pluto Journals]]. https://scienceopen.com/hosted-document?doi=10.1080/08109028.2017.1364547
+> Sanzogni, Louis, Gustavo Guzman, Peter Busch. 2017. "Artificial intelligence and knowledge management: questioning the tacit dimension." Vol. 35. [[Pluto Journals]]. https://scienceopen.com/hosted-document?doi=10.1080/08109028.2017.1364547
 
 > [!abstract]
 > Knowledge management (KM) has matured to the point that many organisations either believe they have such practices in place or at least understand they are relevant to the knowledge work commonly undertaken in many industries. What is lacking from the literature, however, is a solid foundation for the philosophies underpinning KM and particularly for how tacit knowledge informs the KM space. Research over decades shows tacit knowledge underpins all other forms of knowledge, enabling the interpretation and judicious application of knowledge, leading (at its highest levels) to the concept of wisdom. As an academic discipline, artificial intelligence (AI) was established before KM, has been grounded in the computing discipline for many decades, and is applied broadly in many domains. This paper explores how AI can inform the KM debate. Rather than simply provide examples of AI success stories as applied to KM in practice, it explores the theoretical and practical limitations of AI and KM in unison, providing at the same time a strong epistemological understanding of both disciplines as a means of furthering the knowledge debate, with particular emphasis on the role of tacit knowledge within this jurisdiction.

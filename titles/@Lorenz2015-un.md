@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Lorenz, Markus, Michael Rüßmann, Rainer Strack, Knud Lueth, Moritz Bolle. 2015. “Man and machine in industry 4.0.” . https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4
+> Lorenz, Markus, Michael Rüßmann, Rainer Strack, Knud Lueth, Moritz Bolle. 2015. "Man and machine in industry 4.0." https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4
 
 > [!abstract]
 > Industry 4.0, a digital industrial revolution, will require manufacturers and their employees to adapt to new ways of working. Read on to learn more about transforming the workplace.

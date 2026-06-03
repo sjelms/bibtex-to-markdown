@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Miller, Tim. 2020. “Fine Margins: Delivering Financial Sustainability in UK Construction.” [[Confederation of British Industry]]. https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf
+> Miller, Tim. 2020. "Fine Margins: Delivering Financial Sustainability in UK Construction." [[Confederation of British Industry]]. https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf

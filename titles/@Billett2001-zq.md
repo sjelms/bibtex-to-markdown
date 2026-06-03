@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Billett, Stephen. 2001. “Confronting the Challenges to Improving Attainment in Learning at Work.” . https://infed.org/dir/welcome/critiquing-workplace-learning-discourses-participation-and-continuity-at-work/
+> Billett, Stephen. 2001. "Confronting the Challenges to Improving Attainment in Learning at Work." https://infed.org/dir/welcome/critiquing-workplace-learning-discourses-participation-and-continuity-at-work/
 
 > [!abstract]
 > Stephen Billett critiques some assumptions shaping current discourses on workplace learning and proposes that these assumptions restrict how workplace learning is conceptualised and discussed. In particular, he focus on how describing workplace learning environments and experiences as ‘informal’ and that ‘informal learning’ occurs in workplaces constrains understanding about how learning occurs through work and, consequently, the development of a workplace pedagogy.

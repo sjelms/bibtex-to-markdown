@@ -8,6 +8,7 @@ aliases:
   - Apprenticeship As A Conceptual Basis For A Social Theory Of Learning
 journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Informa UK Limited]]"
+volume: 50
 type: "[[@article]]"
 tags:
   - VET-TVET
@@ -23,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Guile, David, Michael Young. 1998. “Apprenticeship as a conceptual basis for a social theory of learning.” [[Informa UK Limited]]. http://dx.doi.org/10.1080/13636829800200044
+> Guile, David, Michael Young. 1998. "Apprenticeship as a conceptual basis for a social theory of learning." Vol. 50. [[Informa UK Limited]]. http://dx.doi.org/10.1080/13636829800200044

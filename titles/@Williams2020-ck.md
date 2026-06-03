@@ -20,7 +20,7 @@ tags:
 ---
 
 > [!bibliography]
-> Williams, Kate, Mary Woolliams, Jane Spiro. 2020. “Reflective Writing.” [[Bloomsbury Academic]]
+> Williams, Kate, Mary Woolliams, Jane Spiro. 2020. "Reflective Writing." [[Bloomsbury Academic]].
 
 > [!abstract]
 > Packed with practical advice, this concise guide explains what reflective writing is and how to approach it. It equips students with all the key information and strategies they need to develop an appropriate reflective writing style, whatever their subject area. Annotated examples from a range of disciplines and contexts show students how to put these tips into practice. It concludes with a section on applying reflective practices to personal development and career planning. This handy guide is an indispensable resource for students of all disciplines and levels, who are required to develop and demonstrate reflective qualities in their work. It will be particularly useful to students writing reflective logs on placements.

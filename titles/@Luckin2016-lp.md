@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Luckin, Rosemary, Wayne Holmes, Mark Griffiths, Laurie B Forcier. 2016. “Intelligence Unleashed: An Argument for AI in Education.” [[Pearson Education]]. https://oro.open.ac.uk/50104/
+> Luckin, Rosemary, Wayne Holmes, Mark Griffiths, Laurie B Forcier. 2016. "Intelligence Unleashed: An Argument for AI in Education." [[Pearson Education]]. https://oro.open.ac.uk/50104/

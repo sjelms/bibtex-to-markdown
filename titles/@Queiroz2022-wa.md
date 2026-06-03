@@ -11,6 +11,7 @@ aliases:
   - Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls
 journal: "[[Technology mind and behavior]]"
 publisher: "[[American Psychological Association APA]]"
+volume: 3
 type: "[[@article]]"
 tags:
   - Learning-in-Immersive-Virtual-Reality
@@ -20,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Queiroz, Anna Carolina M, Géraldine Fauville, Fernanda Herrera, Maria Isabel da S Leme, Jeremy N Bailenson. 2022. “Do students learn better with immersive virtual reality videos than conventional videos? A comparison of media effects with middle school girls.” [[American Psychological Association APA]]. http://dx.doi.org/10.1037/tmb0000082
+> Queiroz, Anna Carolina M, Géraldine Fauville, Fernanda Herrera, Maria Isabel da S Leme, Jeremy N Bailenson. 2022. "Do students learn better with immersive virtual reality videos than conventional videos? A comparison of media effects with middle school girls." Vol. 3. [[American Psychological Association APA]]. http://dx.doi.org/10.1037/tmb0000082

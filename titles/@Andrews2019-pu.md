@@ -14,4 +14,4 @@ tags:
 ---
 
 > [!bibliography]
-> Andrews, Evan. 2019. “Who Were the Luddites?.” . https://www.history.com/news/who-were-the-luddites
+> Andrews, Evan. 2019. "Who Were the Luddites?." https://www.history.com/news/who-were-the-luddites

@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sacks, Rafael, Chuck Eastman, Ghang Lee, Paul Teicholz. 2018. “BIM Handbook: A Guide to Building Information Modeling for Owners, Designers, Engineers, Contractors, and Facility Managers.” [[John Wiley and Sons]]. https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1
+> Sacks, Rafael, Chuck Eastman, Ghang Lee, Paul Teicholz. 2018. "BIM Handbook: A Guide to Building Information Modeling for Owners, Designers, Engineers, Contractors, and Facility Managers." [[John Wiley and Sons]]. https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1

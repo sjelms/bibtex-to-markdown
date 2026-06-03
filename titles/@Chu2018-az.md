@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. “The future of automated ports.” [[McKinsey and Company]]. https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/the-future-of-automated-ports
+> Chu, Fox, Sven Gailus, Lisa Liu, Liumin Ni. 2018. "The future of automated ports." [[McKinsey and Company]]. https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/the-future-of-automated-ports
 
 > [!abstract]
 > Port automation poses significant problems, but careful planning and implementation can surmount them.

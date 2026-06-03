@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Kamm, Bryan, Robert I Lerman. 2015. “The Skills Initiative: Expanding Apprenticeship in the U.S. - Lessons from the German Dual Education System.” [[Washington]], [[DC -  Embassy of the Federal Republic of Germany]]
+> Kamm, Bryan, Robert I Lerman. 2015. "The Skills Initiative: Expanding Apprenticeship in the U.S. - Lessons from the German Dual Education System." [[Washington]], [[DC -  Embassy of the Federal Republic of Germany]].

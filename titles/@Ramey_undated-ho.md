@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Ramey, K E R, J Hilppö, E Dyer, K Villanosa. Unknown Year. “Qualitative Analysis of Video Data: Standards and Heuristics.” . https://www.researchgate.net/publication/319965247_Qualitative_Analysis_of_Video_Data_Standards_and_Heuristics/citations
+> Ramey, K E R, J Hilppö, E Dyer, K Villanosa. Unknown Year. "Qualitative Analysis of Video Data: Standards and Heuristics." https://www.researchgate.net/publication/319965247_Qualitative_Analysis_of_Video_Data_Standards_and_Heuristics/citations

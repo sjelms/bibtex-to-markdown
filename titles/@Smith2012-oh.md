@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Smith, Patricia Lucille, Tillman J Ragan. 2012. “Instructional design.” [[John Wiley and Sons]]
+> Smith, Patricia Lucille, Tillman J Ragan. 2012. "Instructional design." [[John Wiley and Sons]].

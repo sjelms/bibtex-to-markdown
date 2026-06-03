@@ -7,6 +7,7 @@ aliases:
   - Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research
 journal: "[[The journal of vocational education research]]"
 publisher: "[[Association for Career and Technical Education Research]]"
+volume: 26
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
@@ -25,4 +26,4 @@ tags:
 ---
 
 > [!bibliography]
-> Camp, William G. 2001. “Formulating and Evaluating Theoretical Frameworks for Career and Technical Education Research.” [[Association for Career and Technical Education Research]]. http://dx.doi.org/10.5328/jver26.1.4
+> Camp, William G. 2001. "Formulating and Evaluating Theoretical Frameworks for Career and Technical Education Research." Vol. 26. [[Association for Career and Technical Education Research]]. http://dx.doi.org/10.5328/jver26.1.4

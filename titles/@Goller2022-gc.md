@@ -23,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Goller, Michael, Eva Kyndt, Susanna Paloniemi, Crina Damşa. 2022. “Methods for Researching Professional Learning and Development.” [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5
+> Goller, Michael, Eva Kyndt, Susanna Paloniemi, Crina Damşa. 2022. "Methods for Researching Professional Learning and Development." [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5

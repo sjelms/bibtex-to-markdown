@@ -8,6 +8,7 @@ aliases:
   - Contextualising A New Approach To Learning
 journal: "[[Journal of Education and Work]]"
 publisher: "[[Informa UK Limited]]"
+volume: 14
 type: "[[@article]]"
 tags:
   - ERC-ex-re
@@ -16,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Young, Michael. 2001. “Contextualising a New Approach to Learning: Some comments on Yrjö Engeström's theory of expansive learning.” [[Informa UK Limited]]. http://dx.doi.org/10.1080/713677004
+> Young, Michael. 2001. "Contextualising a New Approach to Learning: Some comments on Yrjö Engeström's theory of expansive learning." Vol. 14. [[Informa UK Limited]]. http://dx.doi.org/10.1080/713677004

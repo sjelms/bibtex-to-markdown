@@ -22,4 +22,4 @@ tags:
 ---
 
 > [!bibliography]
-> Giffi, Craig, Paul Wellener, Ben Dollar, Heather Ashton Manolian, Luke Monck, Chad Moutray. 2018. “2018 Deloitte Skills Gap and Future of Work in Manufacturing Study.” [[Deloitte Insights]]
+> Giffi, Craig, Paul Wellener, Ben Dollar, Heather Ashton Manolian, Luke Monck, Chad Moutray. 2018. "2018 Deloitte Skills Gap and Future of Work in Manufacturing Study." [[Deloitte Insights]].

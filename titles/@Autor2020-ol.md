@@ -29,4 +29,4 @@ tags:
 ---
 
 > [!bibliography]
-> Autor, David H, David A Mindell, Elisabeth B Reynolds, MIT Task Force on the Work of the Future. 2020. “The Work of the Future: Building Better Jobs in an Age of Intelligent Machines.” [[Massachusetts Institute of Technology]]
+> Autor, David H, David A Mindell, Elisabeth B Reynolds, MIT Task Force on the Work of the Future. 2020. "The Work of the Future: Building Better Jobs in an Age of Intelligent Machines." [[Massachusetts Institute of Technology]].

@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Benyus, Janine M. 2020. “Biomimicry: Innovation inspired by nature.” [[HarperAudio]]
+> Benyus, Janine M. 2020. "Biomimicry: Innovation inspired by nature." [[HarperAudio]].

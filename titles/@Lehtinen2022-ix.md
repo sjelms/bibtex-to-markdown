@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lehtinen, Erno. 2022. “How to deal with the complexity in research on workplace learning.” [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5_28
+> Lehtinen, Erno. 2022. "How to deal with the complexity in research on workplace learning." [[Springer International Publishing]]. http://dx.doi.org/10.1007/978-3-031-08518-5_28

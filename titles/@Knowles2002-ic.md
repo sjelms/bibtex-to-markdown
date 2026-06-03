@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Knowles, Malcolm. 2002. “Malcolm Knowles, informal adult education, self-direction, and andragogy.” [[The encyclopedia of informal education]]. https://infed.org/malcolm-knowles-informal-adult-education-self-direction-and-andragogy/
+> Knowles, Malcolm. 2002. "Malcolm Knowles, informal adult education, self-direction, and andragogy." [[The encyclopedia of informal education]]. https://infed.org/malcolm-knowles-informal-adult-education-self-direction-and-andragogy/

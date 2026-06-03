@@ -20,7 +20,7 @@ tags:
 ---
 
 > [!bibliography]
-> Wenger, Étienne, Beverly Wenger-Trayner, Rei, Claude Bruderlein. 2023. “Communities of Practice Within and Across Organizations: A Guidebook.” [[Social Learning Lab]]
+> Wenger, Étienne, Beverly Wenger-Trayner, Rei, Claude Bruderlein. 2023. "Communities of Practice Within and Across Organizations: A Guidebook." [[Social Learning Lab]].
 
 > [!abstract]
 > What does it take to launch and sustain a community of practice initiative? This book helps guide individuals, teams, and organizations through the process. It is for organizational leaders to create a conducive environment, community leaders launching and sustaining their communities, people in various roles to facilitate meetings, activities, and the use of technology and evaluators to account for the value communities create. It reflects the combined experiences of the authors in cultivating communities of practice within and across organizations.

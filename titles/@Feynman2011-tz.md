@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Feynman, Richard Phillips, Robert B Leighton, Matthew Sands. 2011. “Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher.” [[Basic Books]]
+> Feynman, Richard Phillips, Robert B Leighton, Matthew Sands. 2011. "Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher." [[Basic Books]].

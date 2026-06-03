@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Clarke, Shima N, Blake J Boyd. 2011. “Youths’ perception of the construction industry: An analysis at the elementary, middle, and high school levels.”
+> Clarke, Shima N, Blake J Boyd. 2011. "Youths’ perception of the construction industry: An analysis at the elementary, middle, and high school levels."

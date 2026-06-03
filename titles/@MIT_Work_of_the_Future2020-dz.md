@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Future, MIT Work of the. 2020. “About Us.” . https://workofthefuture.mit.edu/mission/
+> Future, MIT Work of the. 2020. "About Us." https://workofthefuture.mit.edu/mission/

@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Cottam, Hilary. 2025. “The Work We Need: A 21st Century Imagining.” [[Virago Press]]
+> Cottam, Hilary. 2025. "The Work We Need: A 21st Century Imagining." [[Virago Press]].

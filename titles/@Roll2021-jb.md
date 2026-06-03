@@ -15,6 +15,7 @@ key: "[[@Roll2021-jb]]"
 aliases:
   - Artificial Intelligence In Education
 publisher: "[[Springer International Publishing]]"
+volume: 12748
 type: "[[@proceedings]]"
 tags:
   - Notion-Catalogued
@@ -27,4 +28,4 @@ tags:
 ---
 
 > [!bibliography]
-> Roll, Ido, Danielle McNamara, Sergey Sosnovsky, Rosemary Luckin, Vania Dimitrova. 2021. “Artificial Intelligence in Education.” [[Springer International Publishing]]. https://link.springer.com/book/10.1007/978-3-030-78292-4
+> Roll, Ido, Danielle McNamara, Sergey Sosnovsky, Rosemary Luckin, Vania Dimitrova. 2021. "Artificial Intelligence in Education." Vol. 12748. [[Springer International Publishing]]. https://link.springer.com/book/10.1007/978-3-030-78292-4

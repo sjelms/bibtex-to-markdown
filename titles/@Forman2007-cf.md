@@ -20,4 +20,4 @@ tags:
 ---
 
 > [!bibliography]
-> Forman, Jane, Laura Damschroder. 2007. “Qualitative Content Analysis.” [[Elsevier]]. http://dx.doi.org/10.1016/s1479-3709(07)11003-7
+> Forman, Jane, Laura Damschroder. 2007. "Qualitative Content Analysis." [[Elsevier]]. http://dx.doi.org/10.1016/s1479-3709(07)11003-7

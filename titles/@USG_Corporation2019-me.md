@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Corporation, USG, United States Chamber of Commerce, Dodge Data & Analytics. 2019. “Q4 2019 Commercial Construction Index.” [[USG Corporation]]
+> Corporation, USG, United States Chamber of Commerce, Dodge Data & Analytics. 2019. "Q4 2019 Commercial Construction Index." [[USG Corporation]].

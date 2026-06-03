@@ -11,6 +11,7 @@ aliases:
   - Process-Oriented Framework To Improve Modular And Offsite Construction Manufacturing Performance
 journal: "[[Journal of Construction Engineering and Management]]"
 publisher: "[[American Society of Civil Engineers]]"
+volume: 146
 type: "[[@article]]"
 tags:
   - Construction-4-0
@@ -26,4 +27,4 @@ tags:
 ---
 
 > [!bibliography]
-> Zhang, Youyi, Zhen Lei, Sanghyeok Han, Ahmed Bouferguene, Mohamed Al-Hussein. 2020. “Process-oriented framework to improve modular and offsite construction manufacturing performance.” [[American Society of Civil Engineers]]. http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909
+> Zhang, Youyi, Zhen Lei, Sanghyeok Han, Ahmed Bouferguene, Mohamed Al-Hussein. 2020. "Process-oriented framework to improve modular and offsite construction manufacturing performance." Vol. 146. [[American Society of Civil Engineers]]. http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909

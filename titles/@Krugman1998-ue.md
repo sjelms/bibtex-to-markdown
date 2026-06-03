@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Krugman, Paul. 1998. “Why Most Economists' Predictions Are Wrong.” . https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html
+> Krugman, Paul. 1998. "Why Most Economists' Predictions Are Wrong." https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html

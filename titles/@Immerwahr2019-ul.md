@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!bibliography]
-> Immerwahr, Daniel. 2019. “How to Hide an Empire: A Short History of the Greater United States.” [[Vintage]]
+> Immerwahr, Daniel. 2019. "How to Hide an Empire: A Short History of the Greater United States." [[Vintage]].
 
 > [!abstract]
 > Historian Daniel Immerwahr exposes a forgotten truth: the United States has always been an empire. From Puerto Rico to Guam, the Philippines to a network of global military bases, How to Hide an Empire uncovers how U.S. territories and influence extend far beyond its 50 states. Blending archival research with witty storytelling, Immerwahr reveals the surprising ways empire has shaped American politics, culture and identity. Eye-opening and deeply relevant, this book forces readers to reconsider what it means to be “American” - and how power really works in the modern world.

@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bishop, Ivan. 2021. “Trade Union Membership, UK 1995-2020: Statistical Bulletin.” [[Department for Business]], [[Energy]], [[and Industrial Strategy]]
+> Bishop, Ivan. 2021. "Trade Union Membership, UK 1995-2020: Statistical Bulletin." [[Department for Business]], [[Energy]], [[and Industrial Strategy]].

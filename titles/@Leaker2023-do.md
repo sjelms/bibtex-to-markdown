@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Leaker, Debra. 2023. “Labour market overview, UK - Office for National Statistics.” [[Office for National Statistics]]. https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023
+> Leaker, Debra. 2023. "Labour market overview, UK - Office for National Statistics." [[Office for National Statistics]]. https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023
 
 > [!abstract]
 > Estimates of employment, unemployment, economic inactivity and other employment-related statistics for the UK.

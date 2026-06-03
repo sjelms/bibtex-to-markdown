@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!bibliography]
-> Derrick, Jay. 2017. “What features of workplaces support practitioners and teams to learn and innovate?.” 
+> Derrick, Jay. 2017. "What features of workplaces support practitioners and teams to learn and innovate?."
 
 > [!abstract]
 > Presentation outlining early findings from doctoral research on workplace learning and innovation. It discusses how workplace cultures, organisational strategies, and learning practices interact to support innovation. The slides summarise features of innovative organisations, typologies of workplace innovation, and the concept of ‘expansive orientation’ derived from Fuller and Unwin (2004). Links are drawn to broader UCL initiatives on innovation and public value.

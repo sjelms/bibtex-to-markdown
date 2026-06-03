@@ -6,6 +6,7 @@ key: "[[@Editorial2021-nd]]"
 aliases:
   - Concrete Needs To Lose Its Colossal Carbon Footprint
 journal: "[[Nature]]"
+volume: 597
 type: "[[@article]]"
 tags:
   - Climate-change
@@ -24,4 +25,4 @@ tags:
 ---
 
 > [!bibliography]
-> Editorial. 2021. “Concrete needs to lose its colossal carbon footprint.” [[Nature]]. http://dx.doi.org/10.1038/d41586-021-02612-5
+> Editorial. 2021. "Concrete needs to lose its colossal carbon footprint." Vol. 597. [[Nature]]. http://dx.doi.org/10.1038/d41586-021-02612-5

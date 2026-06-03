@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Gamble, Jeanne. 2006. “Theory and Practice in the Vocational Curriculum.”
+> Gamble, Jeanne. 2006. "Theory and Practice in the Vocational Curriculum."

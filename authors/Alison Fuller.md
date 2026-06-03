@@ -47,7 +47,7 @@ aliases:
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
-[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
+[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 
 #### Bibliography:

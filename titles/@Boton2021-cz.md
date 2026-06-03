@@ -11,6 +11,7 @@ aliases:
   - What Is At The Root Of Construction 4.0
 journal: "[[Archives of Computational Methods in Engineering State of the Art Reviews]]"
 publisher: "[[Springer Science+Business Media]]"
+volume: 28
 type: "[[@article]]"
 tags:
   - Construction-4-0
@@ -29,4 +30,4 @@ tags:
 ---
 
 > [!bibliography]
-> Boton, Conrad, Louis Rivest, Oussama Ghnaya, Moataz Chouchen. 2021. “What is at the root of construction 4.0: A systematic review of the recent research effort.” [[Springer Science+Business Media]]. https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort
+> Boton, Conrad, Louis Rivest, Oussama Ghnaya, Moataz Chouchen. 2021. "What is at the root of construction 4.0: A systematic review of the recent research effort." Vol. 28. [[Springer Science+Business Media]]. https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort

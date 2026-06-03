@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Bronin, Sara C. 2024. “Key to the City: How Zoning Shapes Our World.” [[WW Norton]]
+> Bronin, Sara C. 2024. "Key to the City: How Zoning Shapes Our World." [[WW Norton]].

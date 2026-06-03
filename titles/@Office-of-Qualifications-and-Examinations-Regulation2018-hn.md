@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Regulation, Office of Qualifications and Examinations. 2018. “Guidance to the General Conditions of Recognition.” [[Office of Qualifications and Examinations Regulation]]. https://www.gov.uk/guidance/ofqual-handbook
+> Regulation, Office of Qualifications and Examinations. 2018. "Guidance to the General Conditions of Recognition." [[Office of Qualifications and Examinations Regulation]]. https://www.gov.uk/guidance/ofqual-handbook
 
 > [!abstract]
 > This document sets out OfQual’s General Conditions of Recognition (and associated requirements) - the rules we have set for all the qualifications and organisations we regulate. It also includes our guidance on how to comply with these rules.

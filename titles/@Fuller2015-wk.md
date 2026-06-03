@@ -23,4 +23,4 @@ tags:
 ---
 
 > [!bibliography]
-> Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. “Does Apprenticeship Work for Adults?.” [[UCL Institute of Education]]
+> Fuller, Alison, Pauline Leonard, Lorna Unwin, Gayna Davey. 2015. "Does Apprenticeship Work for Adults?." [[UCL Institute of Education]].

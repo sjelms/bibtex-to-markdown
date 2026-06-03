@@ -24,7 +24,7 @@ tags:
 ---
 
 > [!bibliography]
-> Guile, David. 2010. “Higher Education and the Two Worlds of Knowledge.” [[Brill]]. https://brill.com/display/book/9789460912597/BP000006.xml
+> Guile, David. 2010. "Higher Education and the Two Worlds of Knowledge." [[Brill]]. https://brill.com/display/book/9789460912597/BP000006.xml
 
 > [!abstract]
 > "Higher Education and the Two Worlds of Knowledge" published on 01 Jan 2010 by Brill.

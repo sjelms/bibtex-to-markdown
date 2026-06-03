@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> Knight, Heather. 2022. “A New S.F. Housing Complex for Homeless People Was Faster, Cheaper to Build. So Why Isn't It Being Replicated?.” [[San Francisco Chronicle]]. https://www.sfchronicle.com/sf/bayarea/heatherknight/article/Heres-how-to-build-affordable-housing-in-SF-16823736.php
+> Knight, Heather. 2022. "A New S.F. Housing Complex for Homeless People Was Faster, Cheaper to Build. So Why Isn't It Being Replicated?." [[San Francisco Chronicle]]. https://www.sfchronicle.com/sf/bayarea/heatherknight/article/Heres-how-to-build-affordable-housing-in-SF-16823736.php

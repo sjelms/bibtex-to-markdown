@@ -13,4 +13,4 @@ tags:
 ---
 
 > [!bibliography]
-> 1971, WTF Happened In. 2019. “How Long Does It Take to Save for a House?.” . https://wtfhappenedin1971.com/
+> 1971, WTF Happened In. 2019. "How Long Does It Take to Save for a House?." https://wtfhappenedin1971.com/

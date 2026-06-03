@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Lawson, Bryan. 2006. “How Designers Think.” [[Routledge]]. https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0
+> Lawson, Bryan. 2006. "How Designers Think." [[Routledge]]. https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0

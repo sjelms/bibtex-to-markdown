@@ -26,7 +26,7 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Gallie2003-tj|Skill, Task Discretion, And New Technology]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
-[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The UK’s Permissive Competence-Based Approach]]
+[[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
 
 #### Bibliography:
 

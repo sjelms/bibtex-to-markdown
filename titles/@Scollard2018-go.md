@@ -19,4 +19,4 @@ tags:
 ---
 
 > [!bibliography]
-> Scollard, Sharon Marie. 2018. “Updating vocational curriculum in two year diploma programs at one Ontario college of applied arts and technology to align with current industry practices.” [[University of Toronto]]. http://rgdoi.net/10.13140/RG.2.2.20725.22240
+> Scollard, Sharon Marie. 2018. "Updating vocational curriculum in two year diploma programs at one Ontario college of applied arts and technology to align with current industry practices." [[University of Toronto]]. http://rgdoi.net/10.13140/RG.2.2.20725.22240

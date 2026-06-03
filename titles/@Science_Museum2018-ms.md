@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!bibliography]
-> Museum, Science. 2018. “Goodbye to the hello girls: automating the telephone exchange.” . https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange
+> Museum, Science. 2018. "Goodbye to the hello girls: automating the telephone exchange." https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange
 
 > [!abstract]
 > The introduction of automatic telephone exchanges allowed callers to make their own connections, leading to the disappearance of one of Britain's first female workforces.

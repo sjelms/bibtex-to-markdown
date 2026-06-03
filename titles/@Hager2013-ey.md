@@ -34,4 +34,4 @@ tags:
 ---
 
 > [!bibliography]
-> Hager, Paul. 2013. “Theories of workplace learning.” [[SAGE Publications]]. https://sk.sagepub.com/reference/hdbk_workplacelearning/n2.xml
+> Hager, Paul. 2013. "Theories of workplace learning." [[SAGE Publications]]. https://sk.sagepub.com/reference/hdbk_workplacelearning/n2.xml

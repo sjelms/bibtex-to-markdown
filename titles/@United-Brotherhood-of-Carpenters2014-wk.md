@@ -19,7 +19,7 @@ tags:
 ---
 
 > [!bibliography]
-> Carpenters, United Brotherhood of. 2014. “Math for the Trades.” [[Keystone Mountain Lakes Carpenters Training Fund]]. https://www.kmltf.org/math-for-the-trades/
+> Carpenters, United Brotherhood of. 2014. "Math for the Trades." [[Keystone Mountain Lakes Carpenters Training Fund]]. https://www.kmltf.org/math-for-the-trades/
 
 > [!abstract]
 > Carpenters must have a

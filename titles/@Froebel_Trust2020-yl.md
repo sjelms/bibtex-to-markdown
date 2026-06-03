@@ -15,4 +15,4 @@ tags:
 ---
 
 > [!bibliography]
-> Trust, Froebel. 2020. “Froebel's Gifts.” . https://www.froebel.org.uk/training-and-resources/froebels-gifts
+> Trust, Froebel. 2020. "Froebel's Gifts." https://www.froebel.org.uk/training-and-resources/froebels-gifts

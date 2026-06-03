@@ -17,4 +17,4 @@ tags:
 ---
 
 > [!bibliography]
-> Littlejohn, Allison, Anoush Margaryan. 2013. “Technology-enhanced Professional Learning: Processes, Practices, and Tools.” [[Routledge]]
+> Littlejohn, Allison, Anoush Margaryan. 2013. "Technology-enhanced Professional Learning: Processes, Practices, and Tools." [[Routledge]].

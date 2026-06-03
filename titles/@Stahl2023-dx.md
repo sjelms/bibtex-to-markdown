@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Stahl, Lesley. 2023. “Can 3D-Printed Homes Withstand a Changing Climate?.” [[CBS Broadcasting Inc]]. https://www.youtube.com/watch?v=kOZxvpVWBJ4
+> Stahl, Lesley. 2023. "Can 3D-Printed Homes Withstand a Changing Climate?." [[CBS Broadcasting Inc]]. https://www.youtube.com/watch?v=kOZxvpVWBJ4
 
 > [!abstract]
 > 3D printing startup co-founder Jason Ballard explains how he thinks 3D-printed houses will transform construction jobs and resist the effects of climate change.

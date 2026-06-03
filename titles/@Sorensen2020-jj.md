@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Sorensen, Peter. 2020. “What Is the Fourth Industrial Revolution?.” . https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/
+> Sorensen, Peter. 2020. "What Is the Fourth Industrial Revolution?." https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/

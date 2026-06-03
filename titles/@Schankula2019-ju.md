@@ -18,4 +18,4 @@ tags:
 ---
 
 > [!bibliography]
-> Schankula, David. 2019. “The Future Of Work: VICE Special Report.” [[Home Box Office]]
+> Schankula, David. 2019. "The Future Of Work: VICE Special Report." [[Home Box Office]].

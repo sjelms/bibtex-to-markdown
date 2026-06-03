@@ -10,6 +10,7 @@ aliases:
   - Restrictive And Expansive Participation In Companies’ Activities
 journal: "[[Journal of Education and Work]]"
 publisher: "[[Informa UK Limited]]"
+volume: 34
 type: "[[@article]]"
 tags:
   - ERC-ex-re
@@ -21,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Felder, Alexandra, Kerstin Duemmler, Isabelle Caprani. 2020. “Restrictive and expansive participation in companies’ activities: A case study of bricklaying and automation technology apprentices in Switzerland.” [[Informa UK Limited]]. https://www.tandfonline.com/doi/abs/10.1080/13639080.2020.1858231
+> Felder, Alexandra, Kerstin Duemmler, Isabelle Caprani. 2020. "Restrictive and expansive participation in companies’ activities: A case study of bricklaying and automation technology apprentices in Switzerland." Vol. 34. [[Informa UK Limited]]. https://www.tandfonline.com/doi/abs/10.1080/13639080.2020.1858231
 
 > [!abstract]
 > Vocational education and training (VET) is popular in Switzerland, where it is appreciated for its ability to integrate young people into the labour market quickly (Korber and Oesch 2016). Two-thir...

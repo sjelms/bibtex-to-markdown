@@ -16,4 +16,4 @@ tags:
 ---
 
 > [!bibliography]
-> Morley, Jack Balderrama. 2020. “Production Line: How Sweden Is Pioneering Automated, Prefab Timber Construction.” . https://architizer.com/blog/inspiration/industry/swedish-modular-housing/
+> Morley, Jack Balderrama. 2020. "Production Line: How Sweden Is Pioneering Automated, Prefab Timber Construction." https://architizer.com/blog/inspiration/industry/swedish-modular-housing/
