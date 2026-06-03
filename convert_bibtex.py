@@ -303,7 +303,8 @@ def format_chicago_bibliography(authors, year, title, publisher, volume, url):
     authors = [author.replace("[[", "").replace("]]", "") for author in authors]
     display_title = clean_text(title, is_yaml=False)
     display_volume = clean_text(volume, is_yaml=False) if volume else ""
-    display_volume = re.sub(r"(?<=\d)-(?=\d)", "–", display_volume)
+    if display_volume:
+        display_volume = re.sub(r"(?<=\d)-(?=\d)", "–", display_volume)
 
     first_author = authors[0].split(" ")
     if len(first_author) > 1:
