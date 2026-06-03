@@ -10,6 +10,7 @@ journal: "[[Wall Street Journal Eastern Ed]]"
 type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
+  - Technology-Trap
   - General-Interest-Periodicals-United-States
   - Economics
   - Labor
