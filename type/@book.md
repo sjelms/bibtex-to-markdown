@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-03T13:23:01
+amended: 2026-06-03T15:04:24
 ---
 
 # Directory
@@ -440,7 +440,7 @@ amended: 2026-06-03T13:23:01
 ### 1836
 - [[@Gaskell1836-vg|Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour]]
 ### 1832
-- [[@Shuttleworth1832-ul|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
+- [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
