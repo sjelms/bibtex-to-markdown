@@ -12,6 +12,7 @@ type: "[[@book]]"
 tags:
   - Learning_Work_Practice
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Workplace-Learning
   - Psychology
   - Book-parent

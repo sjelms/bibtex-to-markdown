@@ -16,6 +16,7 @@ type: "[[@inbook]]"
 tags:
   - Mind-in-Society
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-child
   - ePub
   - Knowledge-Skill-Acquisition

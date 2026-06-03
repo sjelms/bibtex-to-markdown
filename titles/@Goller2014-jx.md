@@ -18,6 +18,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Discourses-on-Professional-Learning
+  - EPubs-Books
   - _Cataloged
   - Book-child
   - ePub

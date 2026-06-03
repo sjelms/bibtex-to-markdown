@@ -12,6 +12,7 @@ type: "[[@book]]"
 tags:
   - Informal-Learning-in-VET
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Workplace-Learning
   - VET
   - Book-parent

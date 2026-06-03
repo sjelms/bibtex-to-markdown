@@ -13,6 +13,7 @@ type: "[[@inbook]]"
 tags:
   - Informal-Learning-in-VET
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-child
   - ePub
   - RNIB

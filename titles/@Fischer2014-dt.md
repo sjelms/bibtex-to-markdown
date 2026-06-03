@@ -16,6 +16,7 @@ type: "[[@inbook]]"
 tags:
   - Discourses-on-Professional-Learning
   - _BibTex-to-MD-Git
+  - EPubs-Books
   - Book-child
   - Workplace-Learning
   - ePub
