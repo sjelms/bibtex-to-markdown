@@ -12,6 +12,8 @@ volume: 17
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Labor
+  - Economics
 ---
 
 > [!bibliography]
