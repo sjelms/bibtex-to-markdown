@@ -11,12 +11,12 @@ aliases:
 
 ### Content:
 [[@Billett2004-vj|Learning Through Work]]
+[[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Fuller2004-dw|Introduction And Overview]]
 [[@Fuller2004-kj|Workplace Learning In Context]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2004-ys|Conclusion]]
-[[@Hager2004-hr|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
@@ -27,6 +27,8 @@ aliases:
 
 ![[@Billett2004-vj]]
 
+![[@Engestrom2004-bz]]
+
 ![[@Eraut2004-sp]]
 
 ![[@Fuller2004-dw]]
@@ -36,8 +38,6 @@ aliases:
 ![[@Fuller2004-kn]]
 
 ![[@Fuller2004-ys]]
-
-![[@Hager2004-hr]]
 
 ![[@Hager2004-xb]]
 

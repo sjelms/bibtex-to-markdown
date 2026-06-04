@@ -15,6 +15,7 @@ aliases:
 [[@Engestrom1994-tr|Training For Change]]
 [[@Engestrom1999-iv|When The Center Does Not Hold]]
 [[@Engestrom2001-my|Expansive Learning At Work]]
+[[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Engestrom2008-wp|From Teams To Knots]]
 [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 
@@ -29,6 +30,8 @@ aliases:
 ![[@Engestrom1999-iv]]
 
 ![[@Engestrom2001-my]]
+
+![[@Engestrom2004-bz]]
 
 ![[@Engestrom2008-wp]]
 

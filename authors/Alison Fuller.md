@@ -16,6 +16,7 @@ aliases:
 ### Content:
 [[@Billett2004-vj|Learning Through Work]]
 [[@Bishop2009-co|Constructing Learning]]
+[[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
@@ -42,7 +43,6 @@ aliases:
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Fuller2024-wq|Context, Characteristics And Capacity]]
-[[@Hager2004-hr|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
@@ -56,6 +56,8 @@ aliases:
 ![[@Billett2004-vj]]
 
 ![[@Bishop2009-co]]
+
+![[@Engestrom2004-bz]]
 
 ![[@Eraut2004-sp]]
 
@@ -108,8 +110,6 @@ aliases:
 ![[@Fuller2019-zb]]
 
 ![[@Fuller2024-wq]]
-
-![[@Hager2004-hr]]
 
 ![[@Hager2004-xb]]
 
