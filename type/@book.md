@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-03T16:01:39
+amended: 2026-06-04T08:18:27
 ---
 
 # Directory
@@ -372,6 +372,7 @@ amended: 2026-06-03T16:01:39
 - [[@Salvadori1980-nu|Why Buildings Stand Up - The Strength Of Architecture]]
 ## 1970-1979
 ### 1979
+- [[@Burawoy1979-kf|Manufacturing Consent - Changes In The Labor Process Under Monopoly Capitalism]]
 - [[@Fancher1979-gx|Pioneers Of Psychology - A History]]
 ### 1978
 - [[@Sudnow1978-tk|Ways Of The Hand - The Organization Of Improvised Conduct]]

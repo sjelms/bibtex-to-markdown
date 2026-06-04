@@ -10,4 +10,5 @@ category:
 ## Annual Reviews
 
 ### Content:
+[[@Burawoy2021-di|Living Sociology]]
 [[@Campbell1971-dd|Personnel Training And Development]]

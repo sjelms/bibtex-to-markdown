@@ -13,6 +13,7 @@ category:
 [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]
 [[@Becker1993-eu|Human Capital]]
 [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox]]
+[[@Burawoy1979-kf|Manufacturing Consent]]
 [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
 [[@Lagemann2000-fz|An Elusive Science]]
 [[@Polanyi1966-zb|The Tacit Dimension]]

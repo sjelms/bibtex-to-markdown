@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-03T16:01:39
+amended: 2026-06-04T08:18:27
 ---
 
 # Directory
@@ -22,6 +22,7 @@ amended: 2026-06-03T16:01:39
 - [[@Johnson2025-gf|The Bauhaus As Education Model - Enduring Design And Powerful Knowledge]]
 - [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers]]
 - [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
+- [[@Clark2025-fk|Revisiting Harry Braverman’s Classic \textit Labor And Monopoly Capital]]
 ### 2024
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
@@ -35,6 +36,7 @@ amended: 2026-06-03T16:01:39
 - [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 - [[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots - A Fuzzy-Set Qualitative Comparative Analysis]]
 ### 2023
+- [[@Omidi2023-mu|Labor Process Theory And Critical HRM - A Systematic Review And Agenda For Future Research]]
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
@@ -84,6 +86,7 @@ amended: 2026-06-03T16:01:39
 - [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
+- [[@Burawoy2021-di|Living Sociology - On Being In The World One Studies]]
 - [[@Vignoli2021-tg|Design Of A Safety Training Package For Migrant Workers In The Construction Industry]]
 - [[@Nerland2021-cp|Challenging The Belief In Simple Solutions - The Need For Epistemic Practices In Professional Work]]
 - [[@Puntambekar2021-pm|Distributed Scaffolding - Scaffolding Students In Classroom Environments]]
@@ -150,6 +153,7 @@ amended: 2026-06-03T16:01:39
 - [[@Belaya2018-we|The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
+- [[@Lloyd2017-ls|Ideology At Work - Reconsidering Ideology, The Labour Process And Workplace Resistance]]
 - [[@Bell2017-oz|100 Years Of Training And Development Research - What We Know And Where We Should Go]]
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
 - [[@Kivunja2017-zr|Understanding And Applying Research Paradigms In Educational Contexts]]
@@ -187,6 +191,7 @@ amended: 2026-06-03T16:01:39
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
+- [[@Previtali2015-vy|Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]
 - [[@Coenen2015-pe|The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes]]
@@ -386,6 +391,7 @@ amended: 2026-06-03T16:01:39
 - [[@Vygotsky1979-oz|Consciousness As A Problem In The Psychology Of Behavior]]
 ### 1978
 - [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
+- [[@Burawoy1978-rm|Toward A Marxist Theory Of The Labor Process - Braverman And Beyond]]
 ### 1976
 - [[@Wood1976-cd|The Role Of Tutoring In Problem Solving]]
 - [[@Smith1976-wi|Educational Uses Of The PLATO Computer System]]
