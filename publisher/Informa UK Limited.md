@@ -18,6 +18,7 @@ category:
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
+[[@Coovadia2008-lw|A Brief History Of Pin-Making]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
 [[@Engestrom2001-my|Expansive Learning At Work]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
