@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Beckett2002-tf|Life, Work And Learning]]
+[[@Hager2004-hr|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2012-dh|Practice, Learning And Change]]
 [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
@@ -20,6 +21,8 @@ aliases:
 #### Bibliography:
 
 ![[@Beckett2002-tf]]
+
+![[@Hager2004-hr]]
 
 ![[@Hager2004-xb]]
 

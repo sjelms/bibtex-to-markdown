@@ -57,6 +57,7 @@ category:
 [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
 [[@Guo2023-nr|A Conceptual Framework For Behaviour-Based Safety In The Digital Era]]
 [[@Guo2023-wc|Computer Vision–Based Management Of Construction Workers' Unsafe Behaviour]]
+[[@Hager2004-hr|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
 [[@Hairstans2019-ei|Core Offsite Manufacture Industry Drivers]]
