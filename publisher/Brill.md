@@ -10,6 +10,7 @@ category:
 ## Brill
 
 ### Content:
+[[@Antunes2012-ow|The Meanings Of Work]]
 [[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
 [[@Guile2010-gs|Preliminary Material]]
 [[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]

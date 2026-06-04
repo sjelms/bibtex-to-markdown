@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-04T14:18:20
+amended: 2026-06-04T14:48:04
 ---
 
 # Directory
@@ -253,6 +253,7 @@ amended: 2026-06-04T14:18:20
 - [[@Smith2012-oh|Instructional Design]]
 - [[@Gibbs2012-mg|Learning, Work, And Practice - New Understandings]]
 - [[@Hager2012-dh|Practice, Learning And Change - Practice-Theory Perspectives On Professional Learning]]
+- [[@Antunes2012-ow|The Meanings Of Work - Essay On The Affirmation And Negation Of Work]]
 - [[@Wiles2012-ef|What Are Qualitative Research Ethics?]]
 ### 2011
 - [[@Davies2011-zx|Thinking About Architecture - An Introduction To Architectural Theory]]
