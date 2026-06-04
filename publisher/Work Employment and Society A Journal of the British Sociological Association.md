@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work]]
+[[@Thompson2003-ko|Disconnected Capitalism]]

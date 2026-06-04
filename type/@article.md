@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-04T14:48:04
+amended: 2026-06-04T14:57:04
 ---
 
 # Directory
@@ -307,6 +307,7 @@ amended: 2026-06-04T14:48:04
 - [[@Autor2003-ju|The Skill Content Of Recent Technological Change - An Empirical Exploration]]
 - [[@Kaufman2003-by|ABC Of Learning And Teaching In Medicine - Applying Educational Theory In Practice]]
 - [[@Gallie2003-tj|Skill, Task Discretion, And New Technology - Trends In Britain, 1986-2001]]
+- [[@Thompson2003-ko|Disconnected Capitalism - Or Why Employers Can't Keep Their Side Of The Bargain]]
 - [[@Billett2003-kh|Vocational Curriculum And Pedagogy - An Activity Theory Perspective]]
 ### 2002
 - [[@Moodie2002-nc|Identifying Vocational Education And Training]]
