@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-04T08:34:00
+amended: 2026-06-04T11:07:18
 ---
 
 # Directory
@@ -302,6 +302,7 @@ amended: 2026-06-04T08:34:00
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
 ### 2005
 - [[@Danermark2005-wo|Explaining Society - An Introduction To Critical Realism In The Social Sciences]]
+- [[@Grier2005-sq|When Computers Were Human]]
 ### 2004
 - [[@Fuller2004-kj|Workplace Learning In Context]]
 - [[@Bryson2004-sn|A Short History Of Nearly Everything]]
@@ -442,6 +443,7 @@ amended: 2026-06-04T08:34:00
 ### 1836
 - [[@Gaskell1836-vg|Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour]]
 ### 1832
+- [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
