@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-05T06:39:40
+amended: 2026-06-05T06:43:30
 ---
 
 # Directory
@@ -338,6 +338,7 @@ amended: 2026-06-05T06:39:40
 - [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
 - [[@Cook1999-yi|Bridging Epistemologies - The Generative Dance Between Organizational Knowledge And Organizational Knowing]]
 ### 1998
+- [[@Inkpen1998-os|Learning And Knowledge Acquisition Through International Strategic Alliances]]
 - [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]
 - [[@Sfard1998-bo|On Two Metaphors For Learning And The Dangers Of Choosing Just One]]
 - [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
