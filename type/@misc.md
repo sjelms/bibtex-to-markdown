@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-06-05T08:59:20
+amended: 2026-06-05T11:35:35
 ---
 
 # Directory
@@ -9,6 +9,7 @@ amended: 2026-06-05T08:59:20
 - [[@Mahamadu2025-go|BCPM0088 - Integration, Modularisation, And Platforms]]
 - [[@Eccles2025-kq|Grim Times For Graduates Facing Worst Jobs Market In A Generation]]
 - [[@Basak2025-gu|How Wall Street Plans To Fix The Housing Crisis]]
+- [[@Clark2025-ii|A Half-Century Of Harry Braverman’s Labor And Monopoly Capital]]
 ### 2024
 - [[@Race2024-vr|UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]
 ### 2023
