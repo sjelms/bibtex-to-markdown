@@ -10,4 +10,4 @@ category:
 ## Catalyst A Journal of Theory and Strategy
 
 ### Content:
-[[@Jacobin2026-yf|How Work Got So Bad]]
+[[@Chibber2026-fw|How Work Got So Bad]]

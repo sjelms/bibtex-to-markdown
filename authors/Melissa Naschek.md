@@ -10,8 +10,8 @@ aliases:
 ## Melissa Naschek
 
 ### Content:
-[[@Jacobin2026-yf|How Work Got So Bad]]
+[[@Chibber2026-fw|How Work Got So Bad]]
 
 #### Bibliography:
 
-![[@Jacobin2026-yf]]
+![[@Chibber2026-fw]]
