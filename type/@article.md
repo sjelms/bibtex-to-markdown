@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-05T11:57:27
+amended: 2026-06-05T12:09:21
 ---
 
 # Directory
@@ -193,7 +193,7 @@ amended: 2026-06-05T11:57:27
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
-- [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After \textit Labor And Monopoly Capital]]
+- [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital]]
 - [[@Previtali2015-vy|Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]
