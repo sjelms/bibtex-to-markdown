@@ -10,4 +10,5 @@ category:
 ## Massachusetts Institute of Technology Cambridge MA
 
 ### Content:
+[[@Shih2014-hi|What It Takes To Reshore Manufacturing Successfully]]
 [[@Shook2010-ni|How To Change A Culture]]

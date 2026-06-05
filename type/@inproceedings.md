@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-06-05T06:43:30
+amended: 2026-06-05T08:59:20
 ---
 
 # Directory
@@ -11,6 +11,7 @@ amended: 2026-06-05T06:43:30
 - [[@Kyriacou2021-iu|Learning To Work In A Materials Recovery Facility - Can Humans And Machines Learn From Each Other?]]
 - [[@Ju2021-le|Evaluating Critical Reinforcement Learning Framework In The Field]]
 ### 2020
+- [[@Alsharef2020-ej|Construction Safety Training - Barriers, Challenges, And Opportunities]]
 - [[@Sawhney2020-zl|A Proposed Framework For Construction 4.0 Based On A Review Of Literature]]
 - [[@Fiala2020-ik|Using Virtual Reality Simulations To Encourage Reflective Learning In Construction Workers]]
 - [[@Chen2020-fm|User Behavior Analysis Toward Adaptive Guidance For Machine Operation Tasks]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-05T06:43:30
+amended: 2026-06-05T08:59:20
 ---
 
 # Directory
@@ -25,6 +25,7 @@ amended: 2026-06-05T06:43:30
 - [[@Clark2025-fk|Revisiting Harry Braverman’s Classic \textit Labor And Monopoly Capital]]
 ### 2024
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
+- [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Avis2024-dn|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
@@ -206,6 +207,7 @@ amended: 2026-06-05T06:43:30
 - [[@Walker2014-hk|Adaptive Intelligent Support To Improve Peer Tutoring In Algebra]]
 - [[@Gill2014-yv|Shadowing In/as Work - Ten Recommendations For Shadowing Fieldwork Practice]]
 - [[@Cuendet2014-vs|A Study Of Carpenter Apprentices’ Spatial Skills]]
+- [[@Shih2014-hi|What It Takes To Reshore Manufacturing Successfully]]
 ### 2013
 - [[@Frey2013-nj|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
 - [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
@@ -352,6 +354,7 @@ amended: 2026-06-05T06:43:30
 - [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process - The Case Of Computer Integrated Manufacturing]]
 - [[@Tomlinson1997-tn|Edward Lee Thorndike And John Dewey On The Science Of Education]]
 ### 1996
+- [[@Phillips1996-is|How Much Is The Training Worth?]]
 - [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 - [[@Snell1996-oc|The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution]]
 - [[@Billett1996-pa|Constructing Vocational Knowledge - History, Communities And Ontogeny]]

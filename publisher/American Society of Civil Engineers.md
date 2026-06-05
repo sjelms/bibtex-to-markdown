@@ -10,6 +10,7 @@ category:
 ## American Society of Civil Engineers
 
 ### Content:
+[[@Alsharef2020-ej|Construction Safety Training]]
 [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce]]
 [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
 [[@Hegazy2013-dm|Hands-On Exercise For Enhancing Students’ Construction Management Skills]]
