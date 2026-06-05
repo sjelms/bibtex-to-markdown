@@ -1,10 +1,12 @@
 ---
 type: "[[@audio]]"
-amended: 2026-06-05T11:35:35
+amended: 2026-06-05T11:50:12
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Jacobin2026-yf|How Work Got So Bad]]
 ### 2025
 - [[@Krugman2025-mk|How Should We Think About The Economics Of AI? A Conversation With Erik Brynjolfsson]]
 ### 2024

@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-05T11:35:35
+amended: 2026-06-05T11:50:12
 ---
 
 # Directory
@@ -152,6 +152,7 @@ amended: 2026-06-05T11:35:35
 - [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
 - [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
 - [[@Belaya2018-we|The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches]]
+- [[@Zhao2018-nq|Market Control - Understanding The China's Construction Industry]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Lloyd2017-ls|Ideology At Work - Reconsidering Ideology, The Labour Process And Workplace Resistance]]
@@ -192,6 +193,7 @@ amended: 2026-06-05T11:35:35
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
+- [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After \textit Labor And Monopoly Capital]]
 - [[@Previtali2015-vy|Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]
@@ -205,6 +207,7 @@ amended: 2026-06-05T11:35:35
 ### 2014
 - [[@Gagg2014-gf|Cement And Concrete As An Engineering Material - An Historic Appraisal And Case Study Analysis]]
 - [[@Walker2014-hk|Adaptive Intelligent Support To Improve Peer Tutoring In Algebra]]
+- [[@Jonna2014-ql|Braverman And The Structure Of The U.s. Working Class - Beyond The Degradation Of Labor]]
 - [[@Gill2014-yv|Shadowing In/as Work - Ten Recommendations For Shadowing Fieldwork Practice]]
 - [[@Cuendet2014-vs|A Study Of Carpenter Apprentices’ Spatial Skills]]
 - [[@Shih2014-hi|What It Takes To Reshore Manufacturing Successfully]]

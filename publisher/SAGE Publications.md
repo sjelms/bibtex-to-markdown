@@ -68,6 +68,7 @@ category:
 [[@Ryan2000-ql|Data Management And Analysis Methods]]
 [[@Saldana2015-ul|An Introduction To Codes And Coding]]
 [[@Sawchuk2013-ux|Researching Workplace Learning]]
+[[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After \textit Labor And Monopoly Capital]]
 [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
 [[@Stake1995-qy|The Art Of Case Study Research]]
 [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education]]

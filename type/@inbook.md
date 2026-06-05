@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-05T11:35:35
+amended: 2026-06-05T11:50:12
 ---
 
 # Directory
@@ -174,6 +174,7 @@ amended: 2026-06-05T11:35:35
 ## 2000-2009
 ### 2009
 - [[@Herod2009-pg|Labor Unionism]]
+- [[@Elwell2009-hz|Harry Braverman And The Working Class]]
 - [[@Nadim2009-tv|Virtual Reality Interactive Learning Environment]]
 ### 2008
 - [[@Armstrong2008-wr|From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House]]

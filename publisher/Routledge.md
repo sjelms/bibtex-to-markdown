@@ -42,6 +42,7 @@ category:
 [[@Daniels2012-jd|Vygotsky And Sociology]]
 [[@Daniels2013-pa|Activity Theory In Practice]]
 [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
+[[@Elwell2009-hz|Harry Braverman And The Working Class]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
