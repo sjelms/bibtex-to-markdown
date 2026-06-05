@@ -23,5 +23,6 @@ category:
 [[@Harteis2014-xv|Discourses On Professional Learning]]
 [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
+[[@Nonaka2022-du|The SECI Model]]
 [[@Nonaka2022-vg|Management By Eidetic Intuition]]
 [[@Pilz2024-cr|Informal Learning In Vocational Education And Training]]

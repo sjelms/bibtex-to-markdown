@@ -10,7 +10,7 @@ booktitle: Management by Eidetic Intuition -  A Dynamic Management Theory Predic
 aliases:
   - The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity
   - The SECI Model
-publisher: "[[Springer Singapore]]"
+publisher: "[[Springer]]"
 type: "[[@inbook]]"
 tags:
   - Notion-Catalogued
@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. "The SECI Model: Knowledge Creation in the Cycle of Subjectivity and Objectivity." [[Springer Singapore]]. https://doi.org/10.1007/978-981-16-6851-7_10
+> Nonaka, Ikujiro, Ichiro Yamaguchi. 2022. "The SECI Model: Knowledge Creation in the Cycle of Subjectivity and Objectivity." [[Springer]]. http://dx.doi.org/10.1007/978-981-16-6851-7_10
 
 > [!abstract]
 > The SECI model is essentially a framework for innovation. It explains how to create value and how to live a “good” life as an organization to advance humanity. Instead of the age-old principle of “information-processing” in management science, this chapter explores “knowledge creation” paradigm, and how it successfully integrates and makes the most out of the seemingly opposite concepts, such as subjectivity and objectivity, and art and science.
