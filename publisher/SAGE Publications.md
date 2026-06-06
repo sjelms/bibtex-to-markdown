@@ -27,7 +27,7 @@ category:
 [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 [[@Charmaz2014-oe|Constructing Grounded Theory]]
 [[@Cheng2013-jx|Technology And Knowledge Management]]
-[[@Clark2025-fk|Revisiting Harry Braverman’s Classic \textit Labor And Monopoly Capital]]
+[[@Clark2025-fk|Revisiting Harry Braverman’s Classic Labor And Monopoly Capital]]
 [[@Corbin2015-yj|Basics Of Qualitative Research]]
 [[@Costley2013-sd|Workplace Learning And Higher Education]]
 [[@Creswell2018-hv|Research Design]]

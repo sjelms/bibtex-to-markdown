@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-06T08:38:30
+amended: 2026-06-06T08:58:46
 ---
 
 # Directory
@@ -22,7 +22,7 @@ amended: 2026-06-06T08:38:30
 - [[@Johnson2025-gf|The Bauhaus As Education Model - Enduring Design And Powerful Knowledge]]
 - [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers]]
 - [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
-- [[@Clark2025-fk|Revisiting Harry Braverman’s Classic \textit Labor And Monopoly Capital]]
+- [[@Clark2025-fk|Revisiting Harry Braverman’s Classic Labor And Monopoly Capital]]
 ### 2024
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
