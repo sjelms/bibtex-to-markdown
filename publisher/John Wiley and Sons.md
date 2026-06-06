@@ -27,6 +27,7 @@ category:
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
+[[@Jacobs2016-on|Rethinking Capitalism]]
 [[@Merriam2015-vy|Qualitative Research]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Sacks2018-cv|BIM Handbook]]

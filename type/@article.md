@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-06T07:35:31
+amended: 2026-06-06T08:09:19
 ---
 
 # Directory
@@ -142,6 +142,7 @@ amended: 2026-06-06T07:35:31
 - [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 - [[@Yeung2018-ya|Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge]]
 - [[@Fertleman2018-vt|A Discussion Of Virtual Reality As A New Tool For Training Healthcare Professionals]]
+- [[@Glaeser2018-bz|The Economic Implications Of Housing Supply]]
 - [[@Roll2018-op|Learning At Scale]]
 - [[@Metsamuuronen2018-km|Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking]]
 - [[@Fleming2018-rg|Methodologies, Methods And Ethical Considerations For Conducting Research In Work-Integrated Learning]]
@@ -264,6 +265,7 @@ amended: 2026-06-06T07:35:31
 - [[@Nadim2009-px|Offsite Production In The UK - The Construction Industry And Academia]]
 ### 2008
 - [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures - The Case Of NUMMI And General Motors]]
+- [[@Glaeser2008-jr|Housing Supply And Housing Bubbles]]
 - [[@Coovadia2008-lw|A Brief History Of Pin-Making]]
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-06-06T07:35:31
+amended: 2026-06-06T08:09:19
 ---
 
 # Directory
@@ -111,6 +111,8 @@ amended: 2026-06-06T07:35:31
 ### 2007
 - [[@Felstead2007-kc|Performing Identities At Work - Evidence From Contrasting Sectors]]
 - [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
+### 2002
+- [[@Glaeser2002-vs|The Impact Of Zoning On Housing Affordability]]
 ## 1990-1999
 ### 1998
 - [[@Gott1998-ww|Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks]]

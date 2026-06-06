@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-06T07:35:31
+amended: 2026-06-06T08:09:19
 ---
 
 # Directory
@@ -187,6 +187,7 @@ amended: 2026-06-06T07:35:31
 - [[@Knapp2016-al|Sprint - How To Solve Big Problems And Test New Ideas In Just Five Days]]
 - [[@Aitchison2016-ok|The Architecture Of Industry - Changing Paradigms In Industrial Building And Planning]]
 - [[@Marmot2016-bk|The Health Gap - The Challenge Of An Unequal World]]
+- [[@Jacobs2016-on|Rethinking Capitalism - Economics And Policy For Sustainable And Inclusive Growth]]
 - [[@Lucas2016-ot|Research Methods For Architecture]]
 - [[@Luckin2016-lp|Intelligence Unleashed - An Argument For AI In Education]]
 - [[@Clark2016-ix|E-Learning And The Science Of Instruction - Proven Guidelines For Consumers And Designers Of Multimedia Learning]]

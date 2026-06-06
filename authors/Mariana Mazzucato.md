@@ -10,11 +10,14 @@ aliases:
 ## Mariana Mazzucato
 
 ### Content:
+[[@Jacobs2016-on|Rethinking Capitalism]]
 [[@Mazzucato2018-em|The Entrepreneurial State]]
 [[@Mazzucato2021-ht|Mission Economy]]
 [[@Mazzucato2023-tg|The Right To Housing]]
 
 #### Bibliography:
+
+![[@Jacobs2016-on]]
 
 ![[@Mazzucato2018-em]]
 

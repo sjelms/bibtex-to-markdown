@@ -20,6 +20,7 @@ category:
 [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
 [[@Forman2007-cf|Qualitative Content Analysis]]
 [[@Fuller2015-fh|Vocational Education]]
+[[@Glaeser2008-jr|Housing Supply And Housing Bubbles]]
 [[@Goodman2012-np|Observing The User Experience]]
 [[@Goulding2012-op|Construction Industry Offsite Production]]
 [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction]]
