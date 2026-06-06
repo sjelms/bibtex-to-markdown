@@ -6,7 +6,7 @@ author - 2: "[[Joseph Gyourko]]"
 key: "[[@Glaeser2018-bz]]"
 aliases:
   - The Economic Implications Of Housing Supply
-journal: "[[The Journal of Economic Perspectives A Journal of the American Economic Association]]"
+journal: "[[Journal of Economic and Management Perspectives]]"
 publisher: "[[American Economic Association]]"
 volume: 32
 type: "[[@article]]"
