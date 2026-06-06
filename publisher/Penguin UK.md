@@ -23,4 +23,5 @@ category:
 [[@Mitchell2019-zu|Artificial Intelligence]]
 [[@Robinson2009-ed|The Element]]
 [[@Tegmark2017-rd|Life 3.0]]
+[[@Thompson2017-ps|Hit Makers]]
 [[@Wooldridge2020-ip|The Road To Conscious Machines]]

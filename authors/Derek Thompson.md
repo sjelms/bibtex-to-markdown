@@ -11,7 +11,10 @@ aliases:
 
 ### Content:
 [[@Klein2025-yx|Abundance]]
+[[@Thompson2017-ps|Hit Makers]]
 
 #### Bibliography:
 
 ![[@Klein2025-yx]]
+
+![[@Thompson2017-ps]]

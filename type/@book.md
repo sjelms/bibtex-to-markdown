@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-05T12:09:21
+amended: 2026-06-06T07:02:55
 ---
 
 # Directory
@@ -169,6 +169,7 @@ amended: 2026-06-05T12:09:21
 - [[@Lee2017-tr|Conducting Case Study Research For Business And Management Students]]
 - [[@Warhurst2017-dg|The Oxford Handbook Of Skills And Training]]
 - [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
+- [[@Thompson2017-ps|Hit Makers - How Things Become Popular]]
 - [[@Childers2017-ps|The Riddle Of The Sands]]
 - [[@Levesque2017-dz|Common Sense, The Turing Test, And The Quest For Real AI]]
 - [[@Potter2017-fz|Digital Media, Culture And Education - Theorising Third Space Literacies]]
@@ -448,5 +449,5 @@ amended: 2026-06-05T12:09:21
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
