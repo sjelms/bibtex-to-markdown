@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Abundance-Footnotes
   - UCL
   - Economics
   - ePub
