@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-06T08:58:46
+amended: 2026-06-06T08:59:29
 ---
 
 # Directory
@@ -69,7 +69,7 @@ amended: 2026-06-06T08:58:46
 - [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs]]
 - [[@Green2022-hf|Modern Methods Of Construction - Reflections On The Current Research Agenda]]
 - [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
-- [[@Mitchell2022-ds|Where Does All The ‘\textit Know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
+- [[@Mitchell2022-ds|Where Does All The ‘know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 - [[@Wang2022-gx|Workplace Learning In China - Transferring Training Into Practice To Improve Performance]]
 ### 2021
 - [[@Venkatesh2021-uz|Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions]]

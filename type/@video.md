@@ -1,6 +1,6 @@
 ---
 type: "[[@video]]"
-amended: 2026-06-06T08:58:46
+amended: 2026-06-06T08:59:29
 ---
 
 # Directory
