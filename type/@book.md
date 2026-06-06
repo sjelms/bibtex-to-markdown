@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-06T08:31:49
+amended: 2026-06-06T08:34:48
 ---
 
 # Directory
@@ -379,6 +379,7 @@ amended: 2026-06-06T08:31:49
 - [[@Burawoy1979-kf|Manufacturing Consent - Changes In The Labor Process Under Monopoly Capitalism]]
 - [[@Fancher1979-gx|Pioneers Of Psychology - A History]]
 ### 1978
+- [[@Leontiev1978-jz|Activity, Consciousness, And Personality]]
 - [[@Sudnow1978-tk|Ways Of The Hand - The Organization Of Improvised Conduct]]
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
