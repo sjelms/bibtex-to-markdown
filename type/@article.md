@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-07T08:42:26
+amended: 2026-06-07T09:09:48
 ---
 
 # Directory
@@ -10,6 +10,7 @@ amended: 2026-06-07T08:42:26
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
 - [[@Cheng2025-ml|Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use]]
+- [[@Oroian2025-sp|ADHD And Decision Paralysis - Overwhelm In A World Of Choices]]
 - [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
@@ -241,6 +242,7 @@ amended: 2026-06-07T08:42:26
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
 - [[@Poortman2011-zl|Apprenticeship - From Learning Theory To Practice]]
 - [[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
+- [[@Sakulku2011-lp|The Impostor Phenomenon]]
 - [[@Goffin2011-sn|Tacit Knowledge, Lessons Learnt, And New Product Development]]
 - [[@VanLehn2011-cd|The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems]]
 - [[@Ahlgren2011-ye|Lifelong Learning Through Smes - Exploring Workplace Learning In The UK]]
