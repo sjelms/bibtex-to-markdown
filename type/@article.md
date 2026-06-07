@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-07T09:09:48
+amended: 2026-06-07T09:13:46
 ---
 
 # Directory
@@ -14,6 +14,7 @@ amended: 2026-06-07T09:09:48
 - [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
+- [[@Martinez-Pernia2025-mn|The Limitations And Challenges In The Assessment Of Executive Dysfunction Associated With Real-World Functioning - The Opportunity Of Serious Games]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
@@ -39,6 +40,7 @@ amended: 2026-06-07T09:09:48
 - [[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots - A Fuzzy-Set Qualitative Comparative Analysis]]
 ### 2023
 - [[@Omidi2023-mu|Labor Process Theory And Critical HRM - A Systematic Review And Agenda For Future Research]]
+- [[@Soler-Gutierrez2023-xj|Evidence Of Emotion Dysregulation As A Core Symptom Of Adult ADHD - A Systematic Review]]
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
