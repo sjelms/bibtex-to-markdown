@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-06T09:01:47
+amended: 2026-06-07T08:33:35
 ---
 
 # Directory
@@ -250,6 +250,7 @@ amended: 2026-06-06T09:01:47
 - [[@Pena2010-jm|The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective]]
 - [[@Bell2010-gt|Performance Gains From Speech-Enhanced Simulation In Military Flying Training]]
 - [[@Akiba2010-kd|Learning - The Relationship Between A Seemingly Mundane Concept And Classroom Practices]]
+- [[@Germano2010-rb|Comorbidity Of ADHD And Dyslexia]]
 - [[@Shook2010-ni|How To Change A Culture - Lessons From NUMMI]]
 - [[@Ellstrom2010-rw|Practice‐based Innovation - A Learning Perspective]]
 ## 2000-2009
