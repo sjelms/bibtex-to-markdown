@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-07T09:13:46
+amended: 2026-06-07T09:26:33
 ---
 
 # Directory
@@ -26,6 +26,7 @@ amended: 2026-06-07T09:13:46
 - [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
 - [[@Clark2025-fk|Revisiting Harry Braverman’s Classic Labor And Monopoly Capital]]
 ### 2024
+- [[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
@@ -59,6 +60,7 @@ amended: 2026-06-07T09:13:46
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished - A Home Is Not A House]]
+- [[@Abdelnour2022-se|ADHD Diagnostic Trends - Increased Recognition Or Overdiagnosis?]]
 - [[@Hohns2022-lx|The Social Construction Of Vocational Education - Possibilities For Change Towards Status Improvement]]
 - [[@Darlow2022-gi|Automation In New Zealand's Offsite Construction (OSC) - A Status Update]]
 - [[@Knight2022-si|A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?]]

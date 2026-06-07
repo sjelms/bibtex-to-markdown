@@ -24,6 +24,7 @@ category:
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
+[[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
 [[@Francisco2020-go|Developing A Trellis Of Practices That Support Learning In The Workplace]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Germano2010-rb|Comorbidity Of ADHD And Dyslexia]]
