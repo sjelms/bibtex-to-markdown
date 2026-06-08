@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-08T09:16:19
+amended: 2026-06-08T09:21:58
 ---
 
 # Directory
@@ -315,6 +315,7 @@ amended: 2026-06-08T09:16:19
 - [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
 ### 2001
+- [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
