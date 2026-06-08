@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-08T09:05:32
+amended: 2026-06-08T09:16:19
 ---
 
 # Directory
@@ -17,6 +17,7 @@ amended: 2026-06-08T09:05:32
 - [[@Martinez-Pernia2025-mn|The Limitations And Challenges In The Assessment Of Executive Dysfunction Associated With Real-World Functioning - The Opportunity Of Serious Games]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
+- [[@Habgood-Coote2025-qu|Collective Action, Work, And Partial Plans]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 - [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
