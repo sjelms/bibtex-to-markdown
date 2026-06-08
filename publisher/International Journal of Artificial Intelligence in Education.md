@@ -10,6 +10,7 @@ category:
 ## International Journal of Artificial Intelligence in Education
 
 ### Content:
+[[@Baker2016-ln|Stupid Tutoring Systems, Intelligent Humans]]
 [[@Baylor2005-hh|Simulating Instructional Roles Through Pedagogical Agents]]
 [[@Kim2016-cr|Research-Based Design Of Pedagogical Agent Roles]]
 [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]

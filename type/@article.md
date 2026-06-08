@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-07T09:57:46
+amended: 2026-06-08T09:04:01
 ---
 
 # Directory
@@ -34,6 +34,7 @@ amended: 2026-06-07T09:57:46
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
 - [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace - Applying And Augmenting Communities Of Practice Theory]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
+- [[@Chen2024-xu|Transforming Online Teacher Training Through Expansive Learning - A Case Study Applying Cultural-Historical Activity Theory And The Change Laboratory Method]]
 - [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 - [[@Waks2024-sp|John Dewey On Play - Theory And Pedagogy]]
 - [[@Pretorius2024-ob|Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research]]
@@ -191,6 +192,7 @@ amended: 2026-06-07T09:57:46
 - [[@Brandner2016-wd|Cross Laminated Timber (CLT) - Overview And Development]]
 - [[@Sottilare2016-md|A Process For Adaptive Instruction Of Tasks In The Psychomotor Domain]]
 - [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
+- [[@Baker2016-ln|Stupid Tutoring Systems, Intelligent Humans]]
 - [[@Joffroy2016-cy|Learning From Local Building Cultures To Improve Housing Project Sustainability]]
 - [[@Oesterreich2016-yo|Understanding The Implications Of Digitisation And Automation In The Context Of Industry 4.0 - A Triangulation Approach And Elements Of A Research Agenda For The Construction Industry]]
 - [[@Roth2016-zl|Perezhivaniein The Light Of The Later Vygotsky’s Spinozist Turn]]
