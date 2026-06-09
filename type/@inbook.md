@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-09T07:46:56
+amended: 2026-06-09T08:25:08
 ---
 
 # Directory
@@ -135,8 +135,10 @@ amended: 2026-06-09T07:46:56
 - [[@Sawchuk2013-hq|Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation]]
 - [[@Sawchuk2013-fj|Experiencing The De-Skilling Premises Of Welfare Work]]
 - [[@Sawchuk2013-bi|Historical Mediations In The Making Of Taylorism In Contemporary State Social Services Work]]
+- [[@Sawchuk2013-ix|Index]]
 - [[@Sawchuk2013-ip|Introduction]]
 - [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process - A Use-Value Thesis]]
+- [[@Sawchuk2013-lx|Notes]]
 - [[@Sawchuk2013-db|Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge]]
 - [[@Sawchuk2013-oe|References]]
 - [[@Sawchuk2013-ux|Researching Workplace Learning - An Overview And Critique]]

@@ -11,4 +11,5 @@ category:
 
 ### Content:
 [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work]]
+[[@Spencer2000-cu|Braverman And The Contribution Of Labour Process Analysis To The Critique Of Capitalist Production]]
 [[@Thompson2003-ko|Disconnected Capitalism]]

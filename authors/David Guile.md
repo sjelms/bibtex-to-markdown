@@ -28,6 +28,7 @@ aliases:
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
+[[@Livingstone2012-rc|The Knowledge Economy And Lifelong Learning]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Spinuzzi2019-aa|Fourth-Generation Activity Theory]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
@@ -70,6 +71,8 @@ aliases:
 ![[@Guile2019-mh]]
 
 ![[@Hoeve2019-ip]]
+
+![[@Livingstone2012-rc]]
 
 ![[@Pilz2019-py]]
 

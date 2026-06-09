@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-09T07:46:56
+amended: 2026-06-09T08:25:08
 ---
 
 # Directory
@@ -30,6 +30,7 @@ amended: 2026-06-09T07:46:56
 - [[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
+- [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital - A Retrospective]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Avis2024-dn|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
@@ -212,6 +213,7 @@ amended: 2026-06-09T07:46:56
 - [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
 - [[@Olson2015-xp|A Multilateral Approach To Bridging The Global Skills Gap]]
 - [[@Jensen2015-jp|Product Configuration In Construction]]
+- [[@Cappelli2015-pi|Skill Gaps, Skill Shortages, And Skill Mismatches]]
 - [[@Bock2015-tf|The Future Of Construction Automation - Technological Disruption And The Upcoming Ubiquity Of Robotics]]
 ### 2014
 - [[@Gagg2014-gf|Cement And Concrete As An Engineering Material - An Historic Appraisal And Case Study Analysis]]
@@ -298,6 +300,7 @@ amended: 2026-06-09T07:46:56
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]
 - [[@Wing2006-tj|Computational Thinking]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
+- [[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
 - [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 - [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
@@ -344,6 +347,7 @@ amended: 2026-06-09T07:46:56
 ### 2000
 - [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 - [[@Bartel2000-kq|Measuring The Employer's Return On Investments In Training - Evidence From The Literature]]
+- [[@Spencer2000-cu|Braverman And The Contribution Of Labour Process Analysis To The Critique Of Capitalist Production - Twenty-Five Years On]]
 - [[@Burkholder2000-xi|A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture]]
 - [[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
 - [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
@@ -414,6 +418,8 @@ amended: 2026-06-09T07:46:56
 ### 1978
 - [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
 - [[@Burawoy1978-rm|Toward A Marxist Theory Of The Labor Process - Braverman And Beyond]]
+### 1977
+- [[@Friedman1977-xo|Responsible Autonomy Versus Direct Control Over The Labour Process]]
 ### 1976
 - [[@Wood1976-cd|The Role Of Tutoring In Problem Solving]]
 - [[@Smith1976-wi|Educational Uses Of The PLATO Computer System]]

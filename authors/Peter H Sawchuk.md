@@ -10,6 +10,7 @@ aliases:
 ## Peter H Sawchuk
 
 ### Content:
+[[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
 [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process]]
 [[@Sawchuk2013-bi|Historical Mediations In The Making Of Taylorism In Contemporary State Social Services Work]]
 [[@Sawchuk2013-db|Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge]]
@@ -19,6 +20,8 @@ aliases:
 [[@Sawchuk2013-fj|Experiencing The De-Skilling Premises Of Welfare Work]]
 [[@Sawchuk2013-hq|Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation]]
 [[@Sawchuk2013-ip|Introduction]]
+[[@Sawchuk2013-ix|Index]]
+[[@Sawchuk2013-lx|Notes]]
 [[@Sawchuk2013-oe|References]]
 [[@Sawchuk2013-ro|Contested Learning In Welfare Work]]
 [[@Sawchuk2013-ux|Researching Workplace Learning]]
@@ -26,6 +29,8 @@ aliases:
 [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]
 
 #### Bibliography:
+
+![[@Sawchuk2006-od]]
 
 ![[@Sawchuk2013-ax]]
 
@@ -44,6 +49,10 @@ aliases:
 ![[@Sawchuk2013-hq]]
 
 ![[@Sawchuk2013-ip]]
+
+![[@Sawchuk2013-ix]]
+
+![[@Sawchuk2013-lx]]
 
 ![[@Sawchuk2013-oe]]
 

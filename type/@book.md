@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-09T07:46:56
+amended: 2026-06-09T08:25:08
 ---
 
 # Directory
@@ -243,6 +243,7 @@ amended: 2026-06-09T07:46:56
 ### 2012
 - [[@Anderson2012-mr|Makers - The New Industrial Revolution]]
 - [[@Winch2012-wv|Dimensions Of Expertise - A Conceptual Exploration Of Vocational Knowledge]]
+- [[@Livingstone2012-rc|The Knowledge Economy And Lifelong Learning - A Critical Reader]]
 - [[@Laurillard2012-lh|Teaching As A Design Science - Building Pedagogical Patterns For Learning And Technology]]
 - [[@Goodman2012-np|Observing The User Experience - A Practitioner's Guide To User Research]]
 - [[@Pisano2012-ya|Producing Prosperity - Why America Needs A Manufacturing Renaissance]]
