@@ -12,6 +12,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Speechify
+  - Braverman
   - _In-Notion
   - _In-Readwise
   - Book-physical

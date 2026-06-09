@@ -12,6 +12,7 @@ publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
   - Labor
   - Economics
 ---

@@ -11,8 +11,10 @@ publisher: "[[Remeike Forbes]]"
 type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
   - Website
   - Reader_Obsidian
+  - Labor
 ---
 
 > [!bibliography]
