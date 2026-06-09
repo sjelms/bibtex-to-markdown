@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-09T14:22:35
+amended: 2026-06-09T14:24:47
 ---
 
 # Directory
@@ -49,6 +49,7 @@ amended: 2026-06-09T14:22:35
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
 - [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
+- [[@Treem2023-lk|Signaling And Meaning In Organizational Analytics - Coping With Goodhart's Law In An Era Of Digitization And Datafication]]
 - [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Rowland2023-kc|Opening Up The Continuing Professional Development Imagination - Bringing The Clinical Workplace Into View]]
@@ -271,6 +272,7 @@ amended: 2026-06-09T14:22:35
 ### 2009
 - [[@Sparks2009-cr|Advanced Entry Adult Apprenticeship Training Scheme - A Case Study]]
 - [[@Fuller2009-vx|Change And Continuity In Apprenticeship - The Resilience Of A Model Of Learning]]
+- [[@Tinel2009-gg|Labour Process And The Division Of Labour, A Reading]]
 - [[@Hirschman2009-cs|Immigration And The American Industrial Revolution From 1880 To 1920]]
 - [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
 - [[@Bishop2009-co|Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry]]
