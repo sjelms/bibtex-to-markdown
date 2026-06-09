@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - Braverman
   - _BibTex-to-MD-Git
+  - Labor
 ---
 
 > [!bibliography]

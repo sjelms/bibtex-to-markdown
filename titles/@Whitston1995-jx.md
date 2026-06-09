@@ -14,6 +14,7 @@ tags:
   - Braverman
   - _BibTex-to-MD-Git
   - Thesis
+  - Labor
 ---
 
 > [!bibliography]
