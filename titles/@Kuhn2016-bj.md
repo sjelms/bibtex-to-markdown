@@ -3,8 +3,8 @@ title: Expertise as a Practical Accomplishment Among Objects and Values
 year: 2016
 author - 1: "[[Timothy Kuhn]]"
 author - 2: "[[Jens Rennstam]]"
-editor - 1: "[[Jeffrey Treem]]"
-editor - 2: "[[Paul Leonardi]]"
+editor - 1: "[[Jeffrey W Treem]]"
+editor - 2: "[[Paul M Leonardi]]"
 key: "[[@Kuhn2016-bj]]"
 booktitle: Expertise, Communication and Organizing
 aliases:
