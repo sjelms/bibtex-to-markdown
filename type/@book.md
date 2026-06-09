@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-09T08:49:54
+amended: 2026-06-09T08:52:06
 ---
 
 # Directory
@@ -368,6 +368,7 @@ amended: 2026-06-09T08:49:54
 ### 1985
 - [[@Wertsch1985-aq|Vygotsky And The Social Formation Of Mind]]
 ### 1984
+- [[@Goodhart1984-qa|Monetary Theory And Practice - The UK Experience]]
 - [[@Schon1984-nn|The Reflective Practitioner - How Professionals Think In Action]]
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]
 ### 1982
