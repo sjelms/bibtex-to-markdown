@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-09T13:16:38
+amended: 2026-06-09T13:52:09
 ---
 
 # Directory
@@ -151,11 +151,13 @@ amended: 2026-06-09T13:16:38
 - [[@Yeung2018-ya|Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge]]
 - [[@Fertleman2018-vt|A Discussion Of Virtual Reality As A New Tool For Training Healthcare Professionals]]
 - [[@Glaeser2018-bz|The Economic Implications Of Housing Supply]]
+- [[@Brugger2018-cl|Skilling And Deskilling - Technological Change In Classical Economic Theory And Its Empirical Evidence]]
 - [[@Roll2018-op|Learning At Scale]]
 - [[@Metsamuuronen2018-km|Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking]]
 - [[@Fleming2018-rg|Methodologies, Methods And Ethical Considerations For Conducting Research In Work-Integrated Learning]]
 - [[@Carino2018-pc|Life In This Iconic Mid‑century Suburb Shows How California Dreams Are Shrinking]]
 - [[@Goller2018-oz|Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home]]
+- [[@Franco-Santos2018-cz|Reviewing And Theorizing The Unintended Consequences Of Performance Management Systems]]
 - [[@Lucas2018-na|The Utility Of Case Study As A Methodology For Work-Integrated Learning Research]]
 - [[@Wang2018-sj|A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training]]
 - [[@Hairstans2018-zk|Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK]]
@@ -418,6 +420,7 @@ amended: 2026-06-09T13:16:38
 - [[@Vygotsky1979-oz|Consciousness As A Problem In The Psychology Of Behavior]]
 ### 1978
 - [[@Wood1978-ls|An Experimental Evaluation Of Four Face-To-Face Teaching Strategies]]
+- [[@Kelly1978-wg|Understanding Taylorism - Some Comments]]
 - [[@Burawoy1978-rm|Toward A Marxist Theory Of The Labor Process - Braverman And Beyond]]
 ### 1977
 - [[@Friedman1977-xo|Responsible Autonomy Versus Direct Control Over The Labour Process]]

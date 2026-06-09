@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-06-09T13:16:38
+amended: 2026-06-09T13:52:09
 ---
 
 # Directory
@@ -42,3 +42,5 @@ amended: 2026-06-09T13:16:38
 ## 1990-1999
 ### 1998
 - [[@Edkins1998-kn|Managing The Design Process In Construction - A Cognitive Approach]]
+### 1995
+- [[@Whitston1995-jx|Scientific Management Practice In Britain - A History]]

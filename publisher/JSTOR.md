@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Hevner2004-zn|Design Science In Information Systems Research]]
+[[@Kelly1978-wg|Understanding Taylorism]]
