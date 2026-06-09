@@ -9,6 +9,7 @@ journal: "[[Inquiry]]"
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
 ---
 
 > [!bibliography]

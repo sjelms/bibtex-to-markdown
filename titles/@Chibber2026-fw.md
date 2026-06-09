@@ -10,6 +10,7 @@ publisher: "[[Catalyst A Journal of Theory and Strategy]]"
 type: "[[@audio]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
   - Podcast
   - Reader_Obsidian
   - Labor

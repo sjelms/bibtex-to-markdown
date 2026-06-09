@@ -11,6 +11,7 @@ volume: 40
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
   - Labor
   - Economics
 ---
