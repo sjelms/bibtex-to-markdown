@@ -20,6 +20,7 @@ tags:
   - Future-of-Work
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Braverman
   - Employment
   - Occupational-choice
   - Skill-demand

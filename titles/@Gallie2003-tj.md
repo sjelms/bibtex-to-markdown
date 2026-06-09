@@ -14,6 +14,7 @@ volume: 53
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Braverman
   - Knowledge-Skill-Acquisition
   - Labor
   - Skill-demand

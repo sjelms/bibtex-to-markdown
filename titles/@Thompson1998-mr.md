@@ -13,6 +13,7 @@ type: "[[@book]]"
 tags:
   - Workplaces-of-the-Future
   - _BibTex-to-MD-Git
+  - Braverman
   - Book-parent
   - Future-of-Work
   - Labor
