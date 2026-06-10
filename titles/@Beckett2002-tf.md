@@ -12,6 +12,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - ERC-ex-re
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - ePub
