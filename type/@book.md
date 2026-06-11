@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-11T09:25:42
+amended: 2026-06-11T13:26:17
 ---
 
 # Directory
@@ -286,6 +286,7 @@ amended: 2026-06-11T09:25:42
 - [[@Anderson2009-jd|The Longer Long Tail - How Endless Choice Is Creating Unlimited Demand]]
 - [[@Goldin2009-sl|The Race Between Education And Technology]]
 - [[@Robinson2009-ed|The Element - How Finding Your Passion Changes Everything]]
+- [[@Ford2009-nu|The Lights In The Tunnel - Automation, Accelerating Technology And The Economy Of The Future]]
 - [[@Taleb2009-is|The Black Swan - The Impact Of The Highly Improbable]]
 ### 2008
 - [[@Gardner2008-lx|Multiple Intelligences - New Horizons In Theory And Practice]]
