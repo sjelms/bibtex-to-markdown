@@ -79,6 +79,7 @@ category:
 [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 [[@Lawson2006-pz|How Designers Think]]
 [[@Lawson2018-lk|The Design Student's Journey]]
+[[@Lessing2019-jp|Industrialised House Building]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
 [[@Littlejohn2013-gj|Technology-Enhanced Professional Learning]]
 [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education]]

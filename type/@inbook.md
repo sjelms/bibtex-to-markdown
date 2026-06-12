@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-12T05:20:46
+amended: 2026-06-12T05:23:46
 ---
 
 # Directory
@@ -61,6 +61,7 @@ amended: 2026-06-12T05:20:46
 - [[@Guile2019-hk|VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century]]
 - [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics]]
 - [[@Broad2019-rn|Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise]]
+- [[@Lessing2019-jp|Industrialised House Building - Concepts And Its Application In Sweden]]
 - [[@Simu2019-by|A Test Platform Of Viable Methods To Improve Production And Learning On Construction Sites]]
 - [[@Saunders2019-ko|Understanding Research Philosophy And Approaches To Theory Development]]
 - [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
