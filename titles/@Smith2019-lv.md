@@ -3,6 +3,8 @@ title: Productivity, Innovation and Disruption -  A Study of Offsite Constructio
 year: 2019
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Ivan Rupnik]]"
+editor - 1: "[[Jack S Goulding]]"
+editor - 2: "[[Farzad Pour Rahimian]]"
 key: "[[@Smith2019-lv]]"
 booktitle: Offsite Production and Manufacturing for Innovative Construction
 aliases:

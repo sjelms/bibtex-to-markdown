@@ -3,6 +3,8 @@ title: The Impact of Organisational Learning and Change on Offsite Manufacturing
 year: 2019
 author - 1: "[[Christian Thuesen]]"
 author - 2: "[[Barış Bekdik]]"
+editor - 1: "[[Jack S Goulding]]"
+editor - 2: "[[Farzad Pour Rahimian]]"
 key: "[[@Thuesen2019-fv]]"
 booktitle: Offsite Production and Manufacturing for Innovative Construction
 aliases:
