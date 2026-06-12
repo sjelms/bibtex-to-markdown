@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-12T05:13:30
+amended: 2026-06-12T05:17:34
 ---
 
 # Directory
@@ -126,7 +126,7 @@ amended: 2026-06-12T05:13:30
 - [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 - [[@Epstein2019-yy|Range - Why Generalists Triumph In A Specialized World]]
 - [[@MacCarthy2019-gn|Walter Gropius - Visionary Founder Of The Bauhaus]]
-- [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction - People, Process And Technology]]
+- [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction - People, Process, And Technology]]
 - [[@Muller2019-zm|The Tyranny Of Metrics]]
 - [[@Boughton2019-vx|Municipal Dreams - The Rise And Fall Of Council Housing]]
 - [[@Lawson2019-tt|Design In Modular Construction]]
@@ -455,5 +455,5 @@ amended: 2026-06-12T05:13:30
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
