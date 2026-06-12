@@ -22,6 +22,7 @@ tags:
   - AEC
   - Cross-Ref-Chapter
   - Essential
+  - Book-child
 ---
 
 > [!bibliography]
