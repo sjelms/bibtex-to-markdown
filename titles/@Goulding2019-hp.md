@@ -17,6 +17,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - Essential
+  - Book-parent
 ---
 
 > [!bibliography]

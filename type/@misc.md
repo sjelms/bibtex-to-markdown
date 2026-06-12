@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-06-12T05:17:34
+amended: 2026-06-12T05:18:20
 ---
 
 # Directory
