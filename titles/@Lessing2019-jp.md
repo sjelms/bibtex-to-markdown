@@ -15,6 +15,8 @@ type: "[[@inbook]]"
 tags:
   - Offsite-Production-and-Manufacturing-for-Innovative-Construction
   - _BibTex-to-MD-Git
+  - Book-child
+  - AEC
 ---
 
 > [!bibliography]
