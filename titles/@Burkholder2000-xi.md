@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - llm-wiki-workflow
   - _BibTex-to-MD-Git
+  - 003_Theoretical-Framework
 ---
 
 > [!bibliography]
