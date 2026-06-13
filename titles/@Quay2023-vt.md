@@ -17,6 +17,7 @@ volume: 55
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - 003_Theoretical-Framework
   - Psychology
   - Reader_Obsidian
 ---
