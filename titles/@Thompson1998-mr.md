@@ -8,7 +8,7 @@ editor - 2: "[[Chris Warhurst]]"
 key: "[[@Thompson1998-mr]]"
 aliases:
   - Workplaces Of The Future
-publisher: "[[Macmillan Education UK]]"
+publisher: "[[Macmillan]]"
 type: "[[@book]]"
 tags:
   - Workplaces-of-the-Future
@@ -21,7 +21,7 @@ tags:
 ---
 
 > [!bibliography]
-> Thompson, Paul, Chris Warhurst. 1998. "Workplaces of the Future." [[Macmillan Education UK]]. http://dx.doi.org/10.1007/978-1-349-26346-2
+> Thompson, Paul, Chris Warhurst. 1998. "Workplaces of the Future." [[Macmillan]]. http://dx.doi.org/10.1007/978-1-349-26346-2
 
 > [!abstract]
 > Workplaces of the Future examines change in workplace structures and relations and considers what the contemporary workplace looks like. The book contains a wide range of issues and examples from fact
