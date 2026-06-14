@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-13T13:30:42
+amended: 2026-06-14T06:55:57
 ---
 
 # Directory
@@ -336,6 +336,7 @@ amended: 2026-06-13T13:30:42
 - [[@Burns1997-gn|Introduction To Research Methods]]
 ### 1995
 - [[@Casey1995-nc|Work, Self And Society - After Industrialism]]
+- [[@Hutchins1995-sg|Cognition In The Wild]]
 - [[@Nonaka1995-xj|The Knowledge-Creating Company - How Japanese Companies Create The Dynamics Of Innovation]]
 - [[@Self1995-ne|Computational Mathetics - Towards A Science Of Learning Systems Design]]
 - [[@Stake1995-qy|The Art Of Case Study Research]]
