@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-14T07:14:06
+amended: 2026-06-14T07:23:05
 ---
 
 # Directory
@@ -76,8 +76,8 @@ amended: 2026-06-14T07:14:06
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -216,6 +216,9 @@ amended: 2026-06-14T07:14:06
 ### 1998
 - [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?]]
 - [[@Baldry1998-ba|‘bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
+- [[@Greenbaum1998-ih|The Times They Are A'changing - Dividing And Recombining Labour Through Computer Systems]]
+- [[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities]]
+- [[@Beirne1998-sy|Developments In Computing Work - Control And Contradiction In The Software Labour Process]]
 - [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
