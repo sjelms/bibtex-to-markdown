@@ -2,7 +2,7 @@
 title: How Industrial Contractors Are Handling Skilled Labor Shortages in the United States
 year: 2012
 author - 1: "[[Darren Olsen]]"
-author - 2: "[[Mark Tatum]]"
+author - 2: "[[Mark C Tatum]]"
 author - 3: "[[Christopher Defnall]]"
 key: "[[@Olsen2012-bm]]"
 booktitle: 48th Associated General Contractors Annual International Conference Proceedings
@@ -28,7 +28,7 @@ tags:
 ---
 
 > [!bibliography]
-> Olsen, Darren, Mark Tatum, Christopher Defnall. 2012. "How Industrial Contractors Are Handling Skilled Labor Shortages in the United States." [[Associated Schools of Construction ASC]]. http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf
+> Olsen, Darren, Mark C Tatum, Christopher Defnall. 2012. "How Industrial Contractors Are Handling Skilled Labor Shortages in the United States." [[Associated Schools of Construction ASC]]. http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf
 
 > [!abstract]
 > In the United States, industrial construction annually contributes around four percent to the GDP and has continuously increased this percentage year over year until the recent economic downturn. The construction industry requires a massive workforce and employs over seven million full-time and part-time employees. Out of those employees, approximately one million are employed within the industrial side of construction. Since the early 1980s, the US construction industry has seen a severe shortage of skilled craft labor and even …
