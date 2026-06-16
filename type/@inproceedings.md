@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-06-15T15:19:58
+amended: 2026-06-16T06:23:29
 ---
 
 # Directory
@@ -64,3 +64,4 @@ amended: 2026-06-15T15:19:58
 ## 1990-1999
 ### 1999
 - [[@Chini1999-tj|Causes Of The Construction Skilled Labor Shortage And Proposed Solutions]]
+- [[@Billett1999-em|Work As Social Practice - Activities And Interdependencies]]

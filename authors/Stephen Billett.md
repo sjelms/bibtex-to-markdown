@@ -12,6 +12,7 @@ aliases:
 ### Content:
 [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
+[[@Billett1999-em|Work As Social Practice]]
 [[@Billett2001-xo|Learning Through Work]]
 [[@Billett2001-zq|Confronting The Challenges To Improving Attainment In Learning At Work]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
@@ -32,6 +33,8 @@ aliases:
 ![[@Billett1994-nl]]
 
 ![[@Billett1996-pa]]
+
+![[@Billett1999-em]]
 
 ![[@Billett2001-xo]]
 

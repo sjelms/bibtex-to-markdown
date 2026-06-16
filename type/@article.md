@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-15T15:19:58
+amended: 2026-06-16T06:23:29
 ---
 
 # Directory
@@ -110,6 +110,7 @@ amended: 2026-06-15T15:19:58
 - [[@Bishop2020-ox|Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector]]
 - [[@Hall2020-iw|Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms - A Comparative Case Study]]
 - [[@Lerner2020-pg|An Immersive Multi-User Virtual Reality For Emergency Simulation Training - Usability Study]]
+- [[@Minooei2020-uz|Young Talent Motivations To Pursue Craft Careers In Construction - The Theory Of Planned Behavior]]
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
@@ -151,6 +152,7 @@ amended: 2026-06-15T15:19:58
 - [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 - [[@Yeung2018-ya|Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge]]
 - [[@Fertleman2018-vt|A Discussion Of Virtual Reality As A New Tool For Training Healthcare Professionals]]
+- [[@Tatum2018-no|Learning Construction Engineering - Why, What, And How?]]
 - [[@Glaeser2018-bz|The Economic Implications Of Housing Supply]]
 - [[@Brugger2018-cl|Skilling And Deskilling - Technological Change In Classical Economic Theory And Its Empirical Evidence]]
 - [[@Roll2018-op|Learning At Scale]]
