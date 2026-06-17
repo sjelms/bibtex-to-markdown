@@ -14,6 +14,7 @@ category:
 [[@Bartel1987-bu|The Comparative Advantage Of Educated Workers In Implementing New Technology]]
 [[@Billett2008-kx|Learning Through Work]]
 [[@Bock2015-tf|The Future Of Construction Automation]]
+[[@Campbell1979-st|Assessing The Impact Of Planned Social Change]]
 [[@Casini2022-yp|Construction 4.0]]
 [[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
 [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
