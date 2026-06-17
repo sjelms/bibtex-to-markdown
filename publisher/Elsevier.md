@@ -24,6 +24,7 @@ category:
 [[@Glaeser2008-jr|Housing Supply And Housing Bubbles]]
 [[@Goodman2012-np|Observing The User Experience]]
 [[@Goulding2012-op|Construction Industry Offsite Production]]
+[[@Han2024-nc|Smart Multi-Project Scheduling And Multi-Skilled Workforce Assignment For Prefabricated Bathroom Unit Production]]
 [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction]]
 [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 [[@Herod2009-pg|Labor Unionism]]

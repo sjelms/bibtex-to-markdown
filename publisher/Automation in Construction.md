@@ -11,5 +11,6 @@ category:
 
 ### Content:
 [[@Bock2015-tf|The Future Of Construction Automation]]
+[[@Han2024-nc|Smart Multi-Project Scheduling And Multi-Skilled Workforce Assignment For Prefabricated Bathroom Unit Production]]
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-17T14:20:45
+amended: 2026-06-17T14:27:09
 ---
 
 # Directory
@@ -34,6 +34,7 @@ amended: 2026-06-17T14:20:45
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Avis2024-dn|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
+- [[@Han2024-nc|Smart Multi-Project Scheduling And Multi-Skilled Workforce Assignment For Prefabricated Bathroom Unit Production]]
 - [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace - Applying And Augmenting Communities Of Practice Theory]]
 - [[@Rankin2024-wd|Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing]]
 - [[@Chen2024-xu|Transforming Online Teacher Training Through Expansive Learning - A Case Study Applying Cultural-Historical Activity Theory And The Change Laboratory Method]]
