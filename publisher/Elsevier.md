@@ -31,6 +31,7 @@ category:
 [[@Marmot1991-fq|Health Inequalities Among British Civil Servants]]
 [[@Melenbrink2020-gr|On-Site Autonomous Construction Robots]]
 [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model]]
+[[@Omidi2023-mu|Labor Process Theory And Critical HRM]]
 [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods]]
 [[@Rasouli2025-kf|Reconstructing Construction Safety Training]]
 [[@Tynjala2008-ct|Perspectives Into Learning At The Workplace]]
