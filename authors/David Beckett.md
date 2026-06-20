@@ -10,6 +10,7 @@ aliases:
 ## David Beckett
 
 ### Content:
+[[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 [[@Beckett2002-tf|Life, Work And Learning]]
 [[@Beckett2005-dh|Introduction]]
 [[@Beckett2005-mc|Holism/organicism]]
@@ -20,10 +21,11 @@ aliases:
 [[@Beckett2005-wv|Policies And Context]]
 [[@Beckett2005-xn|Practice At Work And Informal Learning]]
 [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
-[[@BeckettUnknown-nz|Know How And Judgement In Postmodernity]]
 [[@Hager2019-ui|The Emergence Of Complexity]]
 
 #### Bibliography:
+
+![[@Beckett2002-ks]]
 
 ![[@Beckett2002-tf]]
 
@@ -44,7 +46,5 @@ aliases:
 ![[@Beckett2005-xn]]
 
 ![[@Beckett2012-si]]
-
-![[@BeckettUnknown-nz]]
 
 ![[@Hager2019-ui]]

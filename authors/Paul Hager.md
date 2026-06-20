@@ -10,6 +10,7 @@ aliases:
 ## Paul Hager
 
 ### Content:
+[[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 [[@Beckett2002-tf|Life, Work And Learning]]
 [[@Beckett2005-dh|Introduction]]
 [[@Beckett2005-mc|Holism/organicism]]
@@ -19,7 +20,6 @@ aliases:
 [[@Beckett2005-we|Introduction]]
 [[@Beckett2005-wv|Policies And Context]]
 [[@Beckett2005-xn|Practice At Work And Informal Learning]]
-[[@BeckettUnknown-nz|Know How And Judgement In Postmodernity]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2012-dh|Practice, Learning And Change]]
 [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
@@ -27,6 +27,8 @@ aliases:
 [[@Hager2019-ui|The Emergence Of Complexity]]
 
 #### Bibliography:
+
+![[@Beckett2002-ks]]
 
 ![[@Beckett2002-tf]]
 
@@ -45,8 +47,6 @@ aliases:
 ![[@Beckett2005-wv]]
 
 ![[@Beckett2005-xn]]
-
-![[@BeckettUnknown-nz]]
 
 ![[@Hager2004-xb]]
 
