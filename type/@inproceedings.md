@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-06-17T14:27:09
+amended: 2026-06-20T09:04:01
 ---
 
 # Directory

@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-06-17T14:27:09
+amended: 2026-06-20T09:04:01
 ---
 
 # Directory
@@ -104,6 +104,7 @@ amended: 2026-06-17T14:27:09
 - [[@Brynjolfsson2012-jw|Race Against The Machine - How The Digital Revolution Is Accelerating Innovation, Driving Productivity, And Irreversibly Transforming Employment And The Economy]]
 ### 2011
 - [[@Felstead2011-az|Praxis - Working To Learn, Learning To Work]]
+- [[@Galor2011-hq|Inequality, Human Capital Formation And The Process Of Development]]
 ## 2000-2009
 ### 2008
 - [[@Fuller2008-fn|Towards Expansive Apprenticeships - A Commentary By The Teaching And Learning Research Programme]]
