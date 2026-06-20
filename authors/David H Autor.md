@@ -18,6 +18,7 @@ aliases:
 [[@Autor2014-yj|Polanyi's Paradox And The Shape Of Employment Growth]]
 [[@Autor2020-ol|The Work Of The Future]]
 [[@Autor2022-vv|The Work Of The Future]]
+[[@Autor2024-jq|New Frontiers]]
 
 #### Bibliography:
 
@@ -32,3 +33,5 @@ aliases:
 ![[@Autor2020-ol]]
 
 ![[@Autor2022-vv]]
+
+![[@Autor2024-jq]]

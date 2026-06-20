@@ -1,11 +1,12 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-20T12:26:41
+amended: 2026-06-20T13:51:06
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
+- [[@Carollo2026-is|Revisiting Adam Smith And The Division Of Labor - New Evidence From U.s. Occupational Data]]
 - [[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0 - An Accreditation-Aligned Competency Framework And Review]]
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
@@ -31,6 +32,7 @@ amended: 2026-06-20T12:26:41
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
 - [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital - A Retrospective]]
+- [[@Autor2024-jq|New Frontiers - The Origins And Content Of New Work, 1940–2018]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
 - [[@Avis2024-dn|Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET]]
 - [[@Steinhoff2024-ju|The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital]]
