@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-20T09:42:39
+amended: 2026-06-20T09:44:20
 ---
 
 # Directory
@@ -142,6 +142,7 @@ amended: 2026-06-20T09:42:39
 - [[@Cale2019-ca|Australian Prison Vocational Education And Training And Returns To Custody Among Male And Female Ex-Prisoners - A Cross-Jurisdictional Study]]
 - [[@Veile2019-es|Lessons Learned From Industry 4.0 Implementation In The German Manufacturing Industry]]
 - [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
+- [[@Boyd2019-os|Smithian Insights On Automation And The Future Of Work]]
 - [[@Farnese2019-fw|Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization]]
 - [[@Hossain2019-no|Towards Digitizing The Construction Industry - State Of The Art Of Construction 4.0]]
 - [[@Brennan2019-ve|100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation]]
