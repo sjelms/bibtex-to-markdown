@@ -116,6 +116,7 @@ category:
 [[@Sangaramoorthy2020-hi|Rapid Ethnographic Assessments]]
 [[@Sawhney2020-tm|Construction 4.0]]
 [[@Schon1984-nn|The Reflective Practitioner]]
+[[@Schumpeter1976-zs|Capitalism, Socialism, And Democracy]]
 [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 [[@Setiawan2016-qz|Grounded Theory Style Analysis In Action]]
 [[@Sherratt2023-ta|The Digitalization Of UK Construction Labour]]

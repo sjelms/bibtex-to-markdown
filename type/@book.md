@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-20T09:44:20
+amended: 2026-06-20T10:09:49
 ---
 
 # Directory
@@ -389,6 +389,8 @@ amended: 2026-06-20T09:44:20
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
+### 1976
+- [[@Schumpeter1976-zs|Capitalism, Socialism, And Democracy]]
 ### 1975
 - [[@Novack1975-sc|Pragmatism Versus Marxism - An Appraisal Of John Dewey's Philosophy]]
 - [[@Bhaskar1975-rq|A Realist Theory Of Science]]
