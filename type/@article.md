@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-20T09:04:01
+amended: 2026-06-20T09:25:17
 ---
 
 # Directory
@@ -168,6 +168,7 @@ amended: 2026-06-20T09:04:01
 - [[@Traylor2018-hf|Spatial Learning And STEM - What Are We Missing?]]
 - [[@Belaya2018-we|The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches]]
 - [[@Zhao2018-nq|Market Control - Understanding The China's Construction Industry]]
+- [[@Zhang2018-qu|Large-Scale 3D Printing By A Team Of Mobile Robots]]
 - [[@Weinstein2018-oh|Teaching The Science Of Learning]]
 ### 2017
 - [[@Lloyd2017-ls|Ideology At Work - Reconsidering Ideology, The Labour Process And Workplace Resistance]]
