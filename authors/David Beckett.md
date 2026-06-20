@@ -14,13 +14,13 @@ aliases:
 [[@Beckett2005-dh|Introduction]]
 [[@Beckett2005-mc|Holism/organicism]]
 [[@Beckett2005-ms|Know How]]
-[[@Beckett2005-om|Know How And Judgement In Postmodernity]]
 [[@Beckett2005-se|Practical Judgement]]
 [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 [[@Beckett2005-we|Introduction]]
 [[@Beckett2005-wv|Policies And Context]]
 [[@Beckett2005-xn|Practice At Work And Informal Learning]]
 [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
+[[@BeckettUnknown-nz|Know How And Judgement In Postmodernity]]
 [[@Hager2019-ui|The Emergence Of Complexity]]
 
 #### Bibliography:
@@ -33,8 +33,6 @@ aliases:
 
 ![[@Beckett2005-ms]]
 
-![[@Beckett2005-om]]
-
 ![[@Beckett2005-se]]
 
 ![[@Beckett2005-uy]]
@@ -46,5 +44,7 @@ aliases:
 ![[@Beckett2005-xn]]
 
 ![[@Beckett2012-si]]
+
+![[@BeckettUnknown-nz]]
 
 ![[@Hager2019-ui]]
