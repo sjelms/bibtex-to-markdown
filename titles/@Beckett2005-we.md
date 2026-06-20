@@ -1,6 +1,6 @@
 ---
 title: Introduction -  Celebrating the swamp
-year: 2002
+year: Unknown Year
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"
 key: "[[@Beckett2005-we]]"
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Beckett, David, Paul Hager. 2002. "Introduction: Celebrating the swamp." [[Routledge]]. http://dx.doi.org/10.4324/9780203994450-7
+> Beckett, David, Paul Hager. Unknown Year. "Introduction: Celebrating the swamp." [[Routledge]]. http://dx.doi.org/10.4324/9780203994450-7

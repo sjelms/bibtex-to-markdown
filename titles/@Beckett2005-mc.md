@@ -1,6 +1,6 @@
 ---
 title: Holism/organicism -  Epistemological implications of practice-based learning at work
-year: 2002
+year: Unknown Year
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"
 key: "[[@Beckett2005-mc]]"
@@ -21,4 +21,4 @@ tags:
 ---
 
 > [!bibliography]
-> Beckett, David, Paul Hager. 2002. "Holism/organicism: Epistemological implications of practice-based learning at work." [[Routledge]]. http://dx.doi.org/10.4324/9780203994450-9
+> Beckett, David, Paul Hager. Unknown Year. "Holism/organicism: Epistemological implications of practice-based learning at work." [[Routledge]]. http://dx.doi.org/10.4324/9780203994450-9

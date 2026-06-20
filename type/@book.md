@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-20T12:25:10
+amended: 2026-06-20T12:25:40
 ---
 
 # Directory
@@ -314,7 +314,6 @@ amended: 2026-06-20T12:25:10
 - [[@Warhurst2004-qq|The Skills That Matter]]
 - [[@Goldratt2004-gr|The Goal - A Process Of Ongoing Improvement]]
 ### 2002
-- [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
 ### 2001
 - [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
@@ -460,3 +459,5 @@ amended: 2026-06-20T12:25:10
 ### 1776
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+## Unknown Year
+- [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
