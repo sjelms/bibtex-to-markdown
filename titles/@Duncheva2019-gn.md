@@ -10,7 +10,7 @@ institution: "[[University of Strathclyde]]"
 type: "[[@phdthesis]]"
 tags:
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - Thesis
 ---

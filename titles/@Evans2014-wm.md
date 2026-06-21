@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - Speechify
   - llm-wiki-workflow
+  - Marx_Labor
   - PhD-Support-and-Training
   - ePub
 ---

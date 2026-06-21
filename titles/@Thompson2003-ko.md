@@ -12,6 +12,7 @@ volume: 17
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Labor
   - Economics
 ---

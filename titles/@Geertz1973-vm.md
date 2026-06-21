@@ -13,6 +13,7 @@ tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
 ---
 

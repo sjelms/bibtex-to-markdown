@@ -9,10 +9,10 @@ aliases:
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - EPubs-Books
-  - Case-Study-Research
+  - Theory-and-Methods-Case-Study-Research
   - Fieldwork-Methodology
   - ePub
   - Research-Methods

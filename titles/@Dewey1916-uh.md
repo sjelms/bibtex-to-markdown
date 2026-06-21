@@ -11,7 +11,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - ePub
   - _In-Notion
   - _In-Readwise

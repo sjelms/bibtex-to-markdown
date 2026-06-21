@@ -13,10 +13,10 @@ volume: 181
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - Intelligent-Tutoring-Systems-ITS
   - Frontiers-2022
-  - AIEd-CCME0123
+  - Coursework-Reading-AIEd-CCME0123
   - Journal-Articles
   - Notion-Catalogued
   - _BibTex-to-MD-Git

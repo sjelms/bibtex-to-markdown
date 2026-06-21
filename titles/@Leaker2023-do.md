@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Office for National Statistics]]"
 type: "[[@online]]"
 tags:
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Statistics
 ---

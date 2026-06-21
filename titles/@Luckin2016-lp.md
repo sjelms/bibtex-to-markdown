@@ -13,8 +13,8 @@ publisher: "[[Pearson Education]]"
 type: "[[@book]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
-  - 2021-12-03-Frontiers
+  - Zotero-Import-Feb-22-My-Library
+  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow

@@ -13,10 +13,11 @@ aliases:
 publisher: "[[Oxford University Press]]"
 type: "[[@inbook]]"
 tags:
-  - Oxford-Handbook-of-Skills-and-Training
+  - VET-TVET-Oxford-Handbook-of-Skills-and-Training
   - _BibTex-to-MD-Git
   - EPubs-Books
   - Braverman
+  - Marx_Labor
   - Book-child
   - ePub
   - Workplace-Learning

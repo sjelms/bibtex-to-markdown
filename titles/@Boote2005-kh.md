@@ -12,7 +12,7 @@ publisher: "[[American Educational Research Association]]"
 volume: 34
 type: "[[@article]]"
 tags:
-  - Information-and-Digital-Literacies
+  - Coursework-Reading-Information-and-Digital-Literacies
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

@@ -14,7 +14,7 @@ tags:
   - EPubs-Books
   - Theory-and-Methods
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - ePub
   - RNIB
   - Research-Methods

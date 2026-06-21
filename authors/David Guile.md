@@ -18,8 +18,16 @@ aliases:
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
+[[@Guile2010-be|The Knowledge Economy And The Challenge For Education]]
 [[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
+[[@Guile2010-dv|Thinking Differently About Mediation By Activity And Semiotic Mediation]]
 [[@Guile2010-gs|Preliminary Material]]
+[[@Guile2010-iq|The New Learning Challenge Of The Knowledge Economy]]
+[[@Guile2010-mf|Thinking Differently About The Two Worlds View Of Knowledge]]
+[[@Guile2010-oc|Developing The Mediated Basis Of Learning]]
+[[@Guile2010-om|Tacit Knowledge And The Economy]]
+[[@Guile2010-oq|Afterword]]
+[[@Guile2010-th|Learning As Remediation]]
 [[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]
 [[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
 [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
@@ -52,9 +60,25 @@ aliases:
 
 ![[@Guile1998-yz]]
 
+![[@Guile2010-be]]
+
 ![[@Guile2010-cq]]
 
+![[@Guile2010-dv]]
+
 ![[@Guile2010-gs]]
+
+![[@Guile2010-iq]]
+
+![[@Guile2010-mf]]
+
+![[@Guile2010-oc]]
+
+![[@Guile2010-om]]
+
+![[@Guile2010-oq]]
+
+![[@Guile2010-th]]
 
 ![[@Guile2010-uc]]
 

@@ -16,11 +16,11 @@ type: "[[@report]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
-  - UCL-Poster-Q1-2023
-  - 2_Upgrade-MAY-2023
+  - UCL-University-College-London-UCL-Poster-Q1-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - 00_TO-READ
   - Government-Report
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - EPubs-Books

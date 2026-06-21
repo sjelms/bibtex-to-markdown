@@ -17,6 +17,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
   - PhD-Support-and-Training
 ---

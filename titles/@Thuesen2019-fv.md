@@ -12,8 +12,8 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
-  - Offsite-Production-and-Manufacturing-for-Innovative-Construction
-  - Upgrade-Viva-Prep-Reading
+  - Construction-4-0-Offsite-Production-and-Manufacturing-for-Innovative-Construction
+  - Upgrade-Versions-3_Upgrade-OCT-2023-Upgrade-Viva-Prep-Reading
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

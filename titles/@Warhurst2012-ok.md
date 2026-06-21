@@ -12,7 +12,7 @@ aliases:
 publisher: "[[SensePublishers]]"
 type: "[[@inbook]]"
 tags:
-  - The-Knowledge-Economy-and-Lifelong-Learning-2012
+  - VET-TVET-The-Knowledge-Economy-and-Lifelong-Learning-2012
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise

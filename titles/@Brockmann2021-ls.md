@@ -11,7 +11,7 @@ aliases:
 publisher: "[[The Gatsby Charitable Foundation]]"
 type: "[[@book]]"
 tags:
-  - ERC-ex-re
+  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - VET

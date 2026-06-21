@@ -15,6 +15,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Braverman
+  - Marx_Labor
   - Knowledge-Skill-Acquisition
   - Labor
   - Skill-demand

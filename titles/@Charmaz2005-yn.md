@@ -12,11 +12,12 @@ volume: 3
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
-  - 2_Upgrade-MAY-2023
-  - Grounded-Theory
+  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - Theory-and-Methods-Grounded-Theory
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
   - _In-Notion
   - _In-Readwise

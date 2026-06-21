@@ -10,6 +10,7 @@ institution: "[[Columbia University in the City of New York]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Report
   - Columbia-University
 ---

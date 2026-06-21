@@ -10,14 +10,14 @@ type: "[[@phdthesis]]"
 tags:
   - LSU-Louisiana-State-University
   - Notion-Catalogued
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - 00_TO-READ
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC_learning_theory_2021-26
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - AEC
   - Workplace-Learning
   - Thesis

@@ -14,6 +14,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Braverman
+  - Marx_Labor
   - Labor
   - Economics
 ---

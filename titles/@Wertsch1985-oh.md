@@ -11,7 +11,8 @@ type: "[[@inbook]]"
 tags:
   - Vygotsky-and-the-Social-Formation-of-Mind
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
+  - Marx_Labor
   - Book-child
 ---
 

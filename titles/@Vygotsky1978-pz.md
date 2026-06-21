@@ -13,12 +13,12 @@ aliases:
 publisher: "[[Harvard University Press]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - EPubs-Books
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - Mind-in-Society
   - ePub
   - Knowledge-Skill-Acquisition

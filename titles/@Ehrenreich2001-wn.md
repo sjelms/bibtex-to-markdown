@@ -10,6 +10,7 @@ publisher: "[[Granta Books]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Economics
   - Labor
   - RNIB

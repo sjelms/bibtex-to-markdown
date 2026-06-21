@@ -13,7 +13,7 @@ publisher: "[[Springer Singapore]]"
 type: "[[@inproceedings]]"
 tags:
   - AACE-UNC-Call-for-Papers
-  - XR-Reviewed
+  - Spatial-Computing-XR-MR-VR-XR-Reviewed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

@@ -13,7 +13,8 @@ type: "[[@article]]"
 tags:
   - RCPSP_Takt_Taylorism
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
+  - Marx_Labor
   - Economics
   - Future-of-Work
 ---

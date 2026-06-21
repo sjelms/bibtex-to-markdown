@@ -14,7 +14,7 @@ publisher: "[[American Society of Civil Engineers ASCE]]"
 volume: 148
 type: "[[@article]]"
 tags:
-  - JG_Recommended
+  - AEC-Cited-Lit-for-Jacqui-JG_Recommended
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

@@ -15,10 +15,11 @@ aliases:
 publisher: "[[Palgrave Macmillan UK]]"
 type: "[[@inbook]]"
 tags:
-  - WALF-Improving-Working-as-Learning
+  - VET-TVET-WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - UCL
   - _In-Notion
   - _In-Readwise

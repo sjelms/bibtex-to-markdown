@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - RNIB
   - Politics-and-Society
 ---

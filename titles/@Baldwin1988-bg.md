@@ -13,7 +13,8 @@ volume: 41
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
+  - Marx_Labor
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - Skill-demand

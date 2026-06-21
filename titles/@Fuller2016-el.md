@@ -11,7 +11,7 @@ publisher: "[[Verlag Barbara Budrich]]"
 type: "[[@inbook]]"
 tags:
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman

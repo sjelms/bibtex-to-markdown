@@ -12,10 +12,10 @@ aliases:
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"
 tags:
-  - Handbook-of-Vocational-Education-and-Training-Wiley-2019
+  - VET-TVET-Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - EPubs-Books
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - _In-ClickUp
   - _In-Notion

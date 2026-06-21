@@ -13,11 +13,11 @@ aliases:
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"
 tags:
-  - Handbook-of-Vocational-Education-and-Training-Wiley-2019
+  - VET-TVET-Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - EPubs-Books
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise

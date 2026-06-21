@@ -11,6 +11,8 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Braverman
+  - Marx_Labor
+  - RCPSP_Takt_Taylorism
   - Labor
   - Workplace-Learning
   - Economics

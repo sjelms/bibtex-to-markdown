@@ -11,6 +11,7 @@ volume: 43
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Book-parent
   - Workplace-Learning
   - Labor

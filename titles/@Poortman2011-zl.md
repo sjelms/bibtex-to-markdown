@@ -13,13 +13,13 @@ publisher: "[[Routledge]]"
 volume: 63
 type: "[[@article]]"
 tags:
-  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
+  - VET-TVET-Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - VET-TVET
   - 00_TO-READ
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - Workplace-Learning
   - VET
   - _In-ClickUp

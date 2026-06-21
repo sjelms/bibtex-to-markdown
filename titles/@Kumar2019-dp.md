@@ -10,10 +10,10 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - Theory-and-Methods
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - 00_TO-READ
   - EPubs-Books
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - PhD-Study-and-Support
   - llm-wiki-workflow

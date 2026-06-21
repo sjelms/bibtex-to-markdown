@@ -11,11 +11,11 @@ volume: 18
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
-  - 2021-12-03-Frontiers
+  - Zotero-Import-Feb-22-My-Library
+  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
   - Notion-Catalogued
   - ACM_Association-for-Computing-Machinery
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

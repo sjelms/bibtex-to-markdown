@@ -11,9 +11,10 @@ journal: "[[Journal of Economic and Management Perspectives]]"
 volume: 33
 type: "[[@article]]"
 tags:
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - _In-Notion
   - _In-Readwise
   - Automation

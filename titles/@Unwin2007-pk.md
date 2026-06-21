@@ -17,12 +17,12 @@ publisher: "[[Routledge]]"
 volume: 15
 type: "[[@article]]"
 tags:
-  - Rapid-Qualitative-Research
-  - 3_Upgrade-OCT-2023
+  - Theory-and-Methods-Rapid-Qualitative-Research
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - _In-Notion
   - _In-Readwise
   - UCL

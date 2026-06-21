@@ -12,8 +12,8 @@ publisher: "[[Routledge]]"
 volume: 36
 type: "[[@article]]"
 tags:
-  - Rapid-Qualitative-Research
-  - 3_Upgrade-OCT-2023
+  - Theory-and-Methods-Rapid-Qualitative-Research
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

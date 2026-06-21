@@ -10,12 +10,12 @@ journal: "[[Qualitative research in psychology]]"
 volume: 3
 type: "[[@article]]"
 tags:
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - Journal-Articles
-  - RDL-CCME0041
+  - Coursework-Reading-RDL-CCME0041
   - _BibTex-to-MD-Git
   - Qualitative-Analysis-QDA
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - Research-Methods
   - QDA

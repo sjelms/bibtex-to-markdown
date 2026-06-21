@@ -12,7 +12,7 @@ publisher: "[[Routledge]]"
 volume: 63
 type: "[[@article]]"
 tags:
-  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
+  - VET-TVET-Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - VET-TVET
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

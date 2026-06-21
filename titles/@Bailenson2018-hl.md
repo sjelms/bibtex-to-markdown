@@ -8,7 +8,7 @@ aliases:
 type: "[[@misc]]"
 tags:
   - Notion-Catalogued
-  - Experience-on-Demand-Related-Work
+  - Spatial-Computing-XR-MR-VR-Experience-on-Demand-Related-Work
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR
   - YouTube

@@ -11,7 +11,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@inbook]]"
 tags:
   - Theory-and-Methods
-  - Grounded-Theory
+  - Theory-and-Methods-Grounded-Theory
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

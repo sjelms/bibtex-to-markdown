@@ -11,7 +11,7 @@ journal: "[[Electronic journal of business research methods]]"
 volume: 3
 type: "[[@article]]"
 tags:
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
 ---

@@ -9,7 +9,7 @@ aliases:
 journal: "[[Harvard Business Review]]"
 type: "[[@misc]]"
 tags:
-  - XR-Reviewed
+  - Spatial-Computing-XR-MR-VR-XR-Reviewed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - HBR_Harvard

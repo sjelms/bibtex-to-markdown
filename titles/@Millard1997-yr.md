@@ -8,7 +8,7 @@ aliases:
 journal: "[[Milwaukee Business Journal]]"
 type: "[[@misc]]"
 tags:
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Labor
   - Workplace-Learning

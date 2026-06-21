@@ -14,7 +14,7 @@ publisher: "[[Linkoping University Electronic Press]]"
 volume: 15
 type: "[[@article]]"
 tags:
-  - ERC-ex-re
+  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Workplace-Learning

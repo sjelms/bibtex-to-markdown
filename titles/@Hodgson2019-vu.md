@@ -12,9 +12,10 @@ type: "[[@article]]"
 tags:
   - Skills-Assessment-Methodology
   - Journal-Articles
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
   - Economics
 ---

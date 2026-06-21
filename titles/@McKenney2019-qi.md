@@ -9,7 +9,7 @@ publisher: "[[Old Dominion University Libraries]]"
 type: "[[@thesis]]"
 tags:
   - Skills-Assessment-Methodology
-  - SGAM-Ref-Materials
+  - Skills-Assessment-Methodology-SGAM-Ref-Materials
   - 00_TO-READ
   - Notion-Catalogued
   - _BibTex-to-MD-Git

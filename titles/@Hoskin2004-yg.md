@@ -14,8 +14,8 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
-  - Workplace-Learning-in-Context
-  - 3_Upgrade-OCT-2023
+  - VET-TVET-Workplace-Learning-in-Context
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - EPubs-Books
   - llm-wiki-workflow

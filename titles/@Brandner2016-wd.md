@@ -14,7 +14,7 @@ journal: "[[European Journal of Wood and Wood Products]]"
 volume: 74
 type: "[[@article]]"
 tags:
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

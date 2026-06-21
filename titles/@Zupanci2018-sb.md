@@ -12,7 +12,7 @@ institution: "[[World Economic Forum]]"
 type: "[[@report]]"
 tags:
   - Construction-4-0
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Deloitte-McKinsey-EY-PWC
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

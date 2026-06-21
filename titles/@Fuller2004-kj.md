@@ -14,13 +14,14 @@ publisher: "[[Taylor and Francis]]"
 type: "[[@book]]"
 tags:
   - VET-TVET
-  - Workplace-Learning-in-Context
+  - VET-TVET-Workplace-Learning-in-Context
   - EPubs-Books
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - _In-Notion
   - _In-Readwise
   - ePub

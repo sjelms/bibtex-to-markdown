@@ -10,9 +10,9 @@ aliases:
 publisher: "[[Pearson Education Limited]]"
 type: "[[@book]]"
 tags:
-  - AIEd-CCME0123
+  - Coursework-Reading-AIEd-CCME0123
   - EPubs-Books
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - ePub

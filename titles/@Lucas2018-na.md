@@ -11,9 +11,9 @@ journal: "[[International Journal of Work Integrated Learning]]"
 volume: 19
 type: "[[@article]]"
 tags:
-  - Upgrade-Viva-Prep-Reading
+  - Upgrade-Versions-3_Upgrade-OCT-2023-Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
-  - Case-Study-Research
+  - Theory-and-Methods-Case-Study-Research
   - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise

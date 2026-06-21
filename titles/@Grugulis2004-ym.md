@@ -12,7 +12,7 @@ publisher: "[[Bloomsbury Academic]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
-  - WALF-Improving-Working-as-Learning
+  - VET-TVET-WALF-Improving-Working-as-Learning
   - VET
 ---
 

@@ -12,9 +12,9 @@ volume: 114
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - EPubs-Books
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Technology-Trap

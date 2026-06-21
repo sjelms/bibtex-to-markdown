@@ -8,7 +8,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - Schumpeter_1976
+  - Marx_Labor-Schumpeter_1976
   - _BibTex-to-MD-Git
   - Economics
   - Book-parent

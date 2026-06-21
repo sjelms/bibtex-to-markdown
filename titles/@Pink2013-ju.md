@@ -13,10 +13,10 @@ volume: 36
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - 00_TO-READ
   - Journal-Articles
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

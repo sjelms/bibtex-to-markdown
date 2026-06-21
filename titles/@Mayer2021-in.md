@@ -30,12 +30,12 @@ publisher: "[[Cambridge University Press]]"
 type: "[[@book]]"
 tags:
   - 3rd-Edition-2021-_-Multimedia-Learning
-  - Title-Pages-and-TOC
+  - 3rd-Edition-2021-_-Multimedia-Learning-Title-Pages-and-TOC
   - Notion-Catalogued
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - _Cataloged
   - Book-parent
 ---

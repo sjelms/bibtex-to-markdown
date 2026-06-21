@@ -11,7 +11,7 @@ aliases:
 publisher: "[[Brill]]"
 type: "[[@book]]"
 tags:
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

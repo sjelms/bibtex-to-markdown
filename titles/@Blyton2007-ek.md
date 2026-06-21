@@ -12,6 +12,7 @@ type: "[[@inbook]]"
 tags:
   - Key-Concepts-in-Work
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Book-child
   - RNIB
   - Workplace-Learning

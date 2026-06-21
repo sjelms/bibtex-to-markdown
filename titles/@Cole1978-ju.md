@@ -17,6 +17,7 @@ tags:
   - Mind-in-Society
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - Marx_Labor
   - Book-child
   - ePub
   - Knowledge-Skill-Acquisition

@@ -12,10 +12,11 @@ volume: 50
 type: "[[@article]]"
 tags:
   - VET-TVET
-  - ERC-ex-re
+  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - VET
   - _In-Notion
   - _In-Readwise

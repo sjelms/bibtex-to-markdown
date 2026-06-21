@@ -11,6 +11,7 @@ type: "[[@online]]"
 tags:
   - _BibTex-to-MD-Git
   - Braverman
+  - Marx_Labor
   - Website
   - Reader_Obsidian
   - Education

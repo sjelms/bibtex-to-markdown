@@ -12,8 +12,9 @@ tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - EPubs-Books
+  - Marx_Labor
   - Research-Methods
   - _New-Literature
   - Book-child

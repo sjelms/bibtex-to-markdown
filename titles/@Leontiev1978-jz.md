@@ -8,6 +8,7 @@ aliases:
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Knowledge-Skill-Acquisition
   - Education
   - Philosophy-of-Education

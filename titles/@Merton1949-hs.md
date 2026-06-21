@@ -10,6 +10,7 @@ publisher: "[[Free Press]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Columbia-University
   - Research-Methods
   - Book-child

@@ -9,7 +9,7 @@ aliases:
 publisher: "[[University of California Berkeley]]"
 type: "[[@online]]"
 tags:
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Theory-and-Methods
   - _BibTex-to-MD-Git
   - Research-Methods

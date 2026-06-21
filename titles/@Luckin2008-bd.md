@@ -11,9 +11,9 @@ volume: 50
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

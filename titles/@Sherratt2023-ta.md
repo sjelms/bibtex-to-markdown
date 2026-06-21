@@ -16,7 +16,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
-  - Handbook-of-Construction-Safety
+  - Construction-4-0-Handbook-of-Construction-Safety
   - Health-and-Well-being-in-the-Industry-4-0-Era
   - EPubs-Books
   - _BibTex-to-MD-Git
