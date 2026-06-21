@@ -226,6 +226,12 @@ To ensure local files always reflect the remote state and prevent accidental ove
 
 - **Pre-push Hook:** Implemented on April 7, 2026. Any attempt to `git push` will be blocked by a `.git/hooks/pre-push` script to maintain synchronization integrity.
 - **Sync Strategy:** Always `git pull` or `git fetch && git reset --hard origin/main` to sync with the host.
+- **One-time Bypass (Special Cases):** In rare scenarios where you must commit local updates to the host (e.g., updating a manually downloaded `main.bib` file when the remote host fails to sync), you can bypass the hook using the `--no-verify` flag:
+  ```bash
+  git push --no-verify
+  ```
+  Immediately after pushing, run `git pull --no-rebase --no-edit` to merge the auto-generated directories created by the host build actions.
+
 
 ---
 

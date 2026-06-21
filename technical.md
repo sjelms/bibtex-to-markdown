@@ -299,6 +299,23 @@ category:
 - No additional deployment needed
 - Files are generated in local directories
 
+#### Local Repository Protection (Read-Only)
+- To prevent local edits from overwriting host files and causing merge conflicts, a `.git/hooks/pre-push` hook is configured locally to abort `git push` commands.
+- **Bypassing the Push Block (Special Cases):**
+  If you must push a manual change (e.g., updating `main.bib` directly) to the remote host:
+  1. Commit your changes locally.
+  2. Push using the bypass flag:
+     ```bash
+     git push --no-verify
+     ```
+  3. Reconcile the local repository with the host (which automatically regenerates files on push) by running:
+     ```bash
+     git pull --no-rebase --no-edit
+     git push --no-verify
+     ```
+     This pulls the remote-generated changes, merges them cleanly with any local changes, and pushes the final merge commit back to the host.
+
+
 -----
 
 ## 🧾 Logs and Debugging
