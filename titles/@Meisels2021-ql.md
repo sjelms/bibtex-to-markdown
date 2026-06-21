@@ -11,13 +11,13 @@ institution: "[[Deloitte]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
-  - 2021-12-03-Frontiers
+  - Zotero-Import-Feb-22-My-Library
+  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
   - Frontiers-2022
-  - UCL-Poster-Q1-2023
-  - 2_Upgrade-MAY-2023
+  - UCL-University-College-London-UCL-Poster-Q1-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Deloitte-McKinsey-EY-PWC
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

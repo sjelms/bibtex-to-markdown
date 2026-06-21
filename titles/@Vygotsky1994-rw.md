@@ -11,7 +11,7 @@ publisher: "[[Blackwell]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
 ---
 
 > [!bibliography]

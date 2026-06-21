@@ -12,7 +12,7 @@ volume: 28
 type: "[[@article]]"
 tags:
   - EPubs-Books
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
   - AEC-Cited-Lit-for-Jacqui

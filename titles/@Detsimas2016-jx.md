@@ -13,16 +13,16 @@ publisher: "[[Emerald]]"
 volume: 35
 type: "[[@article]]"
 tags:
-  - LSU-Supporting-Works
+  - LSU-Louisiana-State-University-LSU-Supporting-Works
   - Notion-Catalogued
   - Reviewed-on-Theory
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - AEC
   - Research-Methods
   - Workplace-Learning

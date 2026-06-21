@@ -14,9 +14,9 @@ tags:
   - research-methods
   - ethnography
   - Theory-and-Methods
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

@@ -15,7 +15,7 @@ volume: 50
 type: "[[@article]]"
 tags:
   - Healthcare-and-CME
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

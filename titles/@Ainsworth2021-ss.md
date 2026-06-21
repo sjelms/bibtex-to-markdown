@@ -17,7 +17,7 @@ tags:
   - constraining-functions
   - constructing-functions
   - 3rd-Edition-2021-_-Multimedia-Learning
-  - Part-III-Basic-Principles-of-Multimedia-Learning
+  - 3rd-Edition-2021-_-Multimedia-Learning-Part-III-Basic-Principles-of-Multimedia-Learning
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

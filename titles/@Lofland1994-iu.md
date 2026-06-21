@@ -12,7 +12,7 @@ type: "[[@book]]"
 tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - Fieldwork-Methodology
   - QDA

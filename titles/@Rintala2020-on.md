@@ -11,7 +11,7 @@ publisher: "[[Springer Science and Business Media LLC]]"
 volume: 13
 type: "[[@article]]"
 tags:
-  - ERC-ex-re
+  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - VET

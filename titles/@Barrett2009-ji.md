@@ -12,8 +12,8 @@ volume: 27
 type: "[[@article]]"
 tags:
   - Research-Methodology-in-the-Built-Environment-A-Selection-of-Case-Studies
-  - 2_Upgrade-MAY-2023
-  - Grounded-Theory
+  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - Theory-and-Methods-Grounded-Theory
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

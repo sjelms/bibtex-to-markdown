@@ -13,6 +13,7 @@ type: "[[@phdthesis]]"
 tags:
   - Braverman
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Thesis
   - Labor
 ---

@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Cambridge University Press]]"
 type: "[[@book]]"
 tags:
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - _New-Literature
   - _In-Readwise

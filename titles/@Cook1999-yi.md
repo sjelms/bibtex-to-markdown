@@ -12,8 +12,8 @@ publisher: "[[INFORMS]]"
 volume: 10
 type: "[[@article]]"
 tags:
-  - 3_Upgrade-OCT-2023
-  - Upgrade-Viva-Prep-Reading
+  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023-Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition

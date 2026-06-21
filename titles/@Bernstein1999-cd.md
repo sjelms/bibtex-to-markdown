@@ -11,10 +11,11 @@ publisher: "[[Routledge]]"
 volume: 20
 type: "[[@article]]"
 tags:
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
 ---
 

@@ -12,7 +12,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - Theory-and-Methods
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - PhD-Support-and-Training
   - Research-Methods

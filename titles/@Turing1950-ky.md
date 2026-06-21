@@ -9,7 +9,7 @@ journal: "[[MIND A Quarterly Review of Psychology and Philosophy]]"
 volume: LIX
 type: "[[@article]]"
 tags:
-  - AIEd-CCME0123
+  - Coursework-Reading-AIEd-CCME0123
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Course-Assignment

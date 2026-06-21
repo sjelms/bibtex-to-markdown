@@ -8,7 +8,7 @@ aliases:
 publisher: "[[John Wiley and Sons]]"
 type: "[[@book]]"
 tags:
-  - Barry's-Construction-Stephen-Emmitt
+  - Construction-4-0-Barry's-Construction-Stephen-Emmitt
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

@@ -13,6 +13,7 @@ type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Future-of-Work
   - Workplace-Learning
   - Essential

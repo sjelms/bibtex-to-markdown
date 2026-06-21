@@ -15,6 +15,7 @@ tags:
   - EPubs-Books
   - Audible
   - llm-wiki-workflow
+  - Marx_Labor
   - Audiobook
   - Economics
   - ePub

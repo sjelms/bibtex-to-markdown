@@ -14,11 +14,12 @@ publisher: "[[American Society of Civil Engineers]]"
 volume: 133
 type: "[[@article]]"
 tags:
-  - LSU-Supporting-Works
+  - LSU-Louisiana-State-University-LSU-Supporting-Works
   - Journal-Articles
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - _In-Notion

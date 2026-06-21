@@ -10,8 +10,8 @@ aliases:
 publisher: "[[Cambridge University Press]]"
 type: "[[@book]]"
 tags:
-  - JG_Recommended
-  - Robot-Oriented-Design
+  - AEC-Cited-Lit-for-Jacqui-JG_Recommended
+  - Construction-4-0-Robot-Oriented-Design
   - _BibTex-to-MD-Git
   - Book-parent
   - AEC

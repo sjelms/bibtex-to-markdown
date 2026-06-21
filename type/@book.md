@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-21T06:24:34
+amended: 2026-06-21T08:09:07
 ---
 
 # Directory
@@ -444,9 +444,17 @@ amended: 2026-06-21T06:24:34
 - [[@Thorndike1913-kp|Education Psychology, Vol 2 - The Psychology Of Learning]]
 ### 1911
 - [[@Taylor1911-mi|The Principles Of Scientific Management]]
+## 1900-1909
+### 1909
+- [[@Marx1909-jx|Capital - A Critique Of Political Economy; The Process Of Capitalist Production As A Whole]]
+### 1907
+- [[@Marx1907-rf|Capital - A Critique Of Political Economy; The Process Of Circulation Of Capital]]
 ## 1890-1899
 ### 1892
 - [[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]
+## 1880-1889
+### 1887
+- [[@Marx1887-fh|Capital - A Critique Of Political Economy; The Process Of Production Of Capital]]
 ## 1840-1849
 ### 1848
 - [[@Marx1848-ti|The Communist Manifesto]]

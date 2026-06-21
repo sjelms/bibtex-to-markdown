@@ -12,7 +12,7 @@ publisher: "[[Routledge]]"
 volume: 16
 type: "[[@article]]"
 tags:
-  - Experience-on-Demand-Related-Work
+  - Spatial-Computing-XR-MR-VR-Experience-on-Demand-Related-Work
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

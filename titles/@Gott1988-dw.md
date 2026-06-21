@@ -12,12 +12,13 @@ volume: 15
 type: "[[@inbook]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Workplace-Learning
   - Cited-for-Frontiers
 ---

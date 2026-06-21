@@ -17,7 +17,8 @@ volume: 55
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
+  - Marx_Labor
   - Psychology
   - Reader_Obsidian
 ---

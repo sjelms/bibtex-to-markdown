@@ -12,6 +12,7 @@ tags:
   - Contested-Learning-in-Welfare-Work
   - Braverman
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Book-child
 ---
 

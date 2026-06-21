@@ -11,7 +11,7 @@ publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
   - EPubs-Books
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - ePub
   - Research-Methods

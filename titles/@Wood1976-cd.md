@@ -12,10 +12,10 @@ volume: 17
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

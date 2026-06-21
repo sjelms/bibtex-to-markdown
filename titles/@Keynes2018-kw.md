@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Speechify
   - llm-wiki-workflow
+  - Marx_Labor
   - Economics
 ---
 

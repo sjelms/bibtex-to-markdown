@@ -9,9 +9,9 @@ publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
   - EPubs-Books
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - Research-Methods
   - Fieldwork-Methodology
   - PhD-Support-and-Training

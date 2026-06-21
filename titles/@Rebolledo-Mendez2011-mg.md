@@ -14,9 +14,9 @@ publisher: "[[Springer New York]]"
 type: "[[@inbook]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
+  - Zotero-Import-Feb-22-My-Library
   - Intelligent-Tutoring-Systems-ITS
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research

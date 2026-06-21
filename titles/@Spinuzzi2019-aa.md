@@ -21,7 +21,7 @@ tags:
   - cultural-historical-activity-theory
   - 4GAT
   - CHAT
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

@@ -11,6 +11,7 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - Marx_Labor
   - Economics
   - Politics-and-Society
   - Labor

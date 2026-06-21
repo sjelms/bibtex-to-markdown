@@ -17,7 +17,7 @@ tags:
   - Working-as-Learning-Framework
   - UK
   - Digitalization
-  - UCL-PhD-Research-Proposals-and-Thesis
+  - UCL-University-College-London-UCL-PhD-Research-Proposals-and-Thesis
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Elms-Personal-Works

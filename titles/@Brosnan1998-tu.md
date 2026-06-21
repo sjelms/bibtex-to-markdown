@@ -10,7 +10,7 @@ publisher: "[[SAGE Publications]]"
 volume: 87
 type: "[[@article]]"
 tags:
-  - XR-Reviewed
+  - Spatial-Computing-XR-MR-VR-XR-Reviewed
   - Notion-Catalogued
   - Journal-Articles
   - _BibTex-to-MD-Git

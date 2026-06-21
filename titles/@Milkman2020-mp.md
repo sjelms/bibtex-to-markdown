@@ -11,10 +11,10 @@ volume: 95
 type: "[[@article]]"
 tags:
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Labor

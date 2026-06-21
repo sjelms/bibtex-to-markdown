@@ -13,7 +13,7 @@ publisher: "[[Emerald]]"
 volume: 9
 type: "[[@article]]"
 tags:
-  - Rapid-Qualitative-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - Future-of-Work
   - Workplace-Learning
   - VET

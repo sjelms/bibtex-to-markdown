@@ -17,11 +17,11 @@ tags:
   - self-efficacy
   - IT-support
   - Notion-Catalogued
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - Knowledge-Skill-Acquisition
   - _Cataloged
 ---

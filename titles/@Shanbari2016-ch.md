@@ -11,12 +11,12 @@ journal: "[[Engineering Construction and Architectural Management]]"
 volume: 23
 type: "[[@article]]"
 tags:
-  - Game-Engine-_-AR-VR
+  - Spatial-Computing-XR-MR-VR-Game-Engine-_-AR-VR
   - Frontiers-2022
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
-  - TCOT-2024
+  - Spatial-Computing-XR-MR-VR-TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Princeton University Press]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

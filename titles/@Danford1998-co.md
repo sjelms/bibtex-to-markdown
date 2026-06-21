@@ -14,7 +14,8 @@ type: "[[@inbook]]"
 tags:
   - Workplaces-of-the-Future
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
+  - RCPSP_Takt_Taylorism
   - Future-of-Work
   - Labor
   - Book-child

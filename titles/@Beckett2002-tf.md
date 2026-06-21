@@ -12,9 +12,9 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
-  - ERC-ex-re
+  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
   - Life_Work_Learning
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - ePub

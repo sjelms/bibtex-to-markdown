@@ -15,7 +15,7 @@ type: "[[@article]]"
 tags:
   - Frontiers-import-Aug-11
   - Journal-Articles
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition

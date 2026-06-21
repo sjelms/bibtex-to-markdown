@@ -9,8 +9,8 @@ journal: "[[The Economist]]"
 publisher: "[[The Economist]]"
 type: "[[@misc]]"
 tags:
-  - 2_Upgrade-MAY-2023
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - Website
   - Reader_Obsidian

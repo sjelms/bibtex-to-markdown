@@ -8,8 +8,8 @@ aliases:
 type: "[[@online]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
-  - 2021-12-03-Frontiers
+  - Zotero-Import-Feb-22-My-Library
+  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
   - Frontiers-2022
   - _BibTex-to-MD-Git
   - Cited-for-Frontiers

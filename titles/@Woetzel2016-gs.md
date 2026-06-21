@@ -13,8 +13,8 @@ institution: "[[McKinsey Global Institute]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
-  - My-Library
-  - 2021-12-03-Frontiers
+  - Zotero-Import-Feb-22-My-Library
+  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
   - Deloitte-McKinsey-EY-PWC
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

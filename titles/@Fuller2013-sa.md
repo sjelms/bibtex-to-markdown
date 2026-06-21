@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - _In-Notion
   - _In-Readwise
   - UCL

@@ -13,11 +13,11 @@ publisher: "[[Elsevier]]"
 volume: 119
 type: "[[@article]]"
 tags:
-  - Game-Engine-_-AR-VR
+  - Spatial-Computing-XR-MR-VR-Game-Engine-_-AR-VR
   - 00_TO-READ
   - Journal-Articles
   - Notion-Catalogued
-  - TCOT-2024
+  - Spatial-Computing-XR-MR-VR-TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Automation

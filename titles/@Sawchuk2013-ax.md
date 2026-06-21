@@ -12,6 +12,7 @@ type: "[[@inbook]]"
 tags:
   - Contested-Learning-in-Welfare-Work
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Book-child
   - Labor
   - Workplace-Learning

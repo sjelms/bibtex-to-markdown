@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Audible
   - llm-wiki-workflow
+  - Marx_Labor
   - ePub
   - Economics
   - UCL

@@ -11,9 +11,9 @@ volume: 31
 type: "[[@article]]"
 tags:
   - Notion-Catalogued
-  - XR-Reviewed
+  - Spatial-Computing-XR-MR-VR-XR-Reviewed
   - Journal-Articles
-  - TCOT-2024
+  - Spatial-Computing-XR-MR-VR-TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition

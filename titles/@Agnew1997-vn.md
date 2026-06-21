@@ -17,6 +17,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman
+  - Marx_Labor
   - Workplace-Learning
   - VET
   - Labor

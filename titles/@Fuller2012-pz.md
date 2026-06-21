@@ -16,11 +16,11 @@ aliases:
 publisher: "[[SensePublishers]]"
 type: "[[@inbook]]"
 tags:
-  - The-Knowledge-Economy-and-Lifelong-Learning-2012
+  - VET-TVET-The-Knowledge-Economy-and-Lifelong-Learning-2012
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - _In-Notion
   - _In-Readwise
   - VET

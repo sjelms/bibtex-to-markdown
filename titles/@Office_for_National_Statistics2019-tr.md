@@ -9,7 +9,7 @@ publisher: "[[Office for National Statistics]]"
 type: "[[@online]]"
 tags:
   - Data-Stats-Figures
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Automation
   - Website

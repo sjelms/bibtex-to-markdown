@@ -10,7 +10,7 @@ publisher: "[[United States Department of Labor]]"
 type: "[[@dataset]]"
 tags:
   - Data-Stats-Figures
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Government-Report
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

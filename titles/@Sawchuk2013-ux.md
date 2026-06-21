@@ -14,6 +14,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - _New-Literature
   - Workplace-Learning
   - ePub

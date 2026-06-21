@@ -16,8 +16,9 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
 ---
 

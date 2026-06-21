@@ -12,6 +12,7 @@ tags:
   - Politics-and-Society
   - Audible
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Audiobook
 ---
 

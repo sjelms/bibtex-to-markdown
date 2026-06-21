@@ -14,9 +14,9 @@ type: "[[@book]]"
 tags:
   - Construction-4-0
   - Notion-Catalogued
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - 00_TO-READ
-  - Offsite-Architecture-Constructing-the-Future
+  - Construction-4-0-Offsite-Architecture-Constructing-the-Future
   - EPubs-Books
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

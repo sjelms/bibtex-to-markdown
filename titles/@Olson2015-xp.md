@@ -16,7 +16,7 @@ tags:
   - Workforce
   - Staffing
   - article
-  - SGAM-Ref-Materials
+  - Skills-Assessment-Methodology-SGAM-Ref-Materials
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git

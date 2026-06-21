@@ -11,7 +11,7 @@ publisher: "[[IOS Press]]"
 volume: 15
 type: "[[@article]]"
 tags:
-  - 2_Upgrade-MAY-2023
+  - Upgrade-Versions-2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research

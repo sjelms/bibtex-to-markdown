@@ -10,11 +10,12 @@ journal: "[[English Language Teaching]]"
 volume: 5
 type: "[[@article]]"
 tags:
-  - RDL-CCME0041
+  - Coursework-Reading-RDL-CCME0041
   - Journal-Articles
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Research-Methods
 ---
 

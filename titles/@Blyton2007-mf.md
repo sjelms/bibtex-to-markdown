@@ -12,6 +12,7 @@ tags:
   - Key-Concepts-in-Work
   - _BibTex-to-MD-Git
   - Braverman
+  - Marx_Labor
   - Book-parent
   - RNIB
   - Workplace-Learning

@@ -10,7 +10,7 @@ aliases:
 institution: "[[UCL Institute for Innovation and Public Purpose]]"
 type: "[[@report]]"
 tags:
-  - UCL-Institute-for-Innovation-and-Public-Purpose-IIPP
+  - UCL-University-College-London-UCL-Institute-for-Innovation-and-Public-Purpose-IIPP
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - UCL

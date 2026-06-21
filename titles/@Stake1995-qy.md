@@ -8,8 +8,8 @@ aliases:
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
-  - Rapid-Qualitative-Research
-  - Case-Study-Research
+  - Theory-and-Methods-Rapid-Qualitative-Research
+  - Theory-and-Methods-Case-Study-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Fieldwork-Methodology

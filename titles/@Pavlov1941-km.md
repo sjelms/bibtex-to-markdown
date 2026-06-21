@@ -10,7 +10,7 @@ volume: 2
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
-  - 003_Theoretical-Framework
+  - _Thesis-003_Theoretical-Framework
   - Psychology
 ---
 

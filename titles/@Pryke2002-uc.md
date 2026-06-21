@@ -12,7 +12,7 @@ type: "[[@phdthesis]]"
 tags:
   - Social-sciences
   - Project-management
-  - BSSC-Thesis
+  - UCL-University-College-London-UCL-PhD-Research-Proposals-and-Thesis-BSSC-Thesis
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Thesis

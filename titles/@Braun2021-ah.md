@@ -13,7 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Speechify
   - Qualitative-Analysis-QDA
-  - Critical-Realism
+  - Theory-and-Methods-Critical-Realism
   - llm-wiki-workflow
   - Research-Methods
   - _New-Literature

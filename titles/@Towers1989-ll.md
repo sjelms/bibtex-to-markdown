@@ -15,6 +15,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Marx_Labor
   - Labor
   - Cited-for-Frontiers
   - _In-Notion

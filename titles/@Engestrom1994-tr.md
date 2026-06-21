@@ -10,7 +10,7 @@ aliases:
 publisher: "[[International Labour Office]]"
 type: "[[@book]]"
 tags:
-  - 3_Upgrade-OCT-2023
+  - Upgrade-Versions-3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - _In-Notion
   - _In-Readwise

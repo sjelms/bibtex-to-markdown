@@ -10,6 +10,7 @@ type: "[[@book]]"
 tags:
   - llm-wiki-workflow
   - _BibTex-to-MD-Git
+  - Marx_Labor
   - Politics-and-Society
 ---
 
