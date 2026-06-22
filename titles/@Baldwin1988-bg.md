@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
   - Marx_Labor
+  - RCPSP_Takt_Taylorism
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - Skill-demand
