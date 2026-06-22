@@ -11,6 +11,7 @@ type: "[[@inbook]]"
 tags:
   - Contested-Learning-in-Welfare-Work
   - _BibTex-to-MD-Git
+  - RCPSP_Takt_Taylorism
   - Book-child
   - Labor
   - Workplace-Learning

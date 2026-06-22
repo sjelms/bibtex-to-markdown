@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - RCPSP_Takt_Taylorism
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
 ---

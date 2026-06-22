@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Braverman
   - Marx_Labor
+  - RCPSP_Takt_Taylorism
   - Website
   - Reader_Obsidian
   - Education
