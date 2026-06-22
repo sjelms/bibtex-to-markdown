@@ -11,12 +11,12 @@ volume: 38
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
+  - My-Library
+  - Theory-and-Methodology-in-Social-and-Educational-Research
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Knowledge-Skill-Acquisition
 ---
 

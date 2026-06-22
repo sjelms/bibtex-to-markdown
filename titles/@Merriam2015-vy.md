@@ -12,10 +12,10 @@ type: "[[@book]]"
 tags:
   - Theory-and-Methods
   - EPubs-Books
-  - Theory-and-Methods-Rapid-Qualitative-Research
+  - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - Audible
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - Marx_Labor
   - Audiobook

@@ -13,11 +13,11 @@ volume: 51
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - Frontiers-import-Aug-11
   - Journal-Articles
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

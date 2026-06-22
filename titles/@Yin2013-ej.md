@@ -9,8 +9,8 @@ aliases:
 publisher: "[[SAGE Publications]]"
 type: "[[@inbook]]"
 tags:
-  - Coursework-Reading-RDL-CCME0041
-  - Theory-and-Methods-Rapid-Qualitative-Research
+  - RDL-CCME0041
+  - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Cross-Ref-Chapter

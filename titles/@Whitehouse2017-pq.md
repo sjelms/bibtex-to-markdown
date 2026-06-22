@@ -9,7 +9,7 @@ aliases:
 journal: "[[Bloomberg]]"
 type: "[[@article]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - Automation

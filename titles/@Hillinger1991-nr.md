@@ -10,7 +10,7 @@ journal: "[[Los Angeles Times]]"
 publisher: "[[Los Angeles Times]]"
 type: "[[@misc]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Reader_Obsidian
   - Website

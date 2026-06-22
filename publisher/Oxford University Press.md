@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Barbour2016-ki|Technical, Arcane, Interpersonal, And Embodied Expertise]]
+[[@Bratman2014-ey|Shared Agency]]
 [[@Bryson2017-fe|Disciplinary Perspectives On Skill]]
 [[@Buchanan2017-sg|Introduction]]
 [[@Clark2021-ef|Bryman's Social Research Methods]]

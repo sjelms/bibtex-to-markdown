@@ -11,7 +11,7 @@ publisher: "[[Routledge]]"
 volume: 20
 type: "[[@article]]"
 tags:
-  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
+  - Theory-and-Methodology-in-Social-and-Educational-Research
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

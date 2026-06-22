@@ -10,7 +10,7 @@ aliases:
 publisher: "[[University of Chicago Press]]"
 type: "[[@book]]"
 tags:
-  - Coursework-Reading-RDL-CCME0041
+  - RDL-CCME0041
   - Theory-and-Methods
   - EPubs-Books
   - _BibTex-to-MD-Git

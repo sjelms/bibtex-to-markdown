@@ -17,7 +17,7 @@ type: "[[@article]]"
 tags:
   - AEC_learning_theory_2021-26
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Training
   - Psychology
 ---

@@ -12,7 +12,7 @@ type: "[[@inbook]]"
 tags:
   - Life_Work_Learning
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Book-child
   - Knowledge-Skill-Acquisition
   - Workplace-Learning

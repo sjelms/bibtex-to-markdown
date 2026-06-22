@@ -11,7 +11,7 @@ publisher: "[[Wiley]]"
 volume: 40
 type: "[[@article]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Economics

@@ -11,8 +11,8 @@ institution: "[[The Brookings Institution]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - Healthcare-and-CME
   - Deloitte-McKinsey-EY-PWC
   - _BibTex-to-MD-Git

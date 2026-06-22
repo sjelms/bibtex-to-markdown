@@ -14,7 +14,7 @@ type: "[[@inbook]]"
 tags:
   - Construction-4-0
   - 00_TO-READ
-  - Construction-4-0-Offsite-Architecture-Constructing-the-Future
+  - Offsite-Architecture-Constructing-the-Future
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

@@ -8,7 +8,7 @@ aliases:
 publisher: "[[AandC Black]]"
 type: "[[@book]]"
 tags:
-  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
+  - Theory-and-Methodology-in-Social-and-Educational-Research
   - Theory-and-Methods
   - EPubs-Books
   - _BibTex-to-MD-Git

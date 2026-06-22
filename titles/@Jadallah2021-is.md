@@ -17,14 +17,14 @@ type: "[[@article]]"
 tags:
   - LSU-Louisiana-State-University
   - Notion-Catalogued
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC_learning_theory_2021-26
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - AEC
   - Workplace-Learning
   - _Mark-Up

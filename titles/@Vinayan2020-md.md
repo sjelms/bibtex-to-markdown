@@ -14,8 +14,8 @@ volume: 7
 type: "[[@article]]"
 tags:
   - Construction-4-0
-  - Upgrade-Versions-2_Upgrade-MAY-2023
-  - Theory-and-Methods-Grounded-Theory
+  - 2_Upgrade-MAY-2023
+  - Grounded-Theory
   - Journal-Articles
   - VET-TVET
   - AEC-Cited-Lit-for-Jacqui

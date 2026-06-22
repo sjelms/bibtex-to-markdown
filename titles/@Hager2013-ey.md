@@ -16,11 +16,11 @@ tags:
   - SAGE-Handbook-of-Workplace-Learning
   - 00_TO-READ
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023-Upgrade-Viva-Prep-Reading
+  - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Marx_Labor
   - _New-Literature
   - Workplace-Learning

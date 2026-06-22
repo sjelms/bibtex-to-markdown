@@ -14,7 +14,7 @@ publisher: "[[American Psychological Association APA]]"
 volume: 3
 type: "[[@article]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-Learning-in-Immersive-Virtual-Reality
+  - Learning-in-Immersive-Virtual-Reality
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _XR-MR-VR-AR

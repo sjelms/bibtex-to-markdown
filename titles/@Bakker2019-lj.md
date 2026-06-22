@@ -12,11 +12,11 @@ aliases:
 publisher: "[[John Wiley and Sons]]"
 type: "[[@inbook]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023-Supplement-Feedback-Document
-  - VET-TVET-Handbook-of-Vocational-Education-and-Training-Wiley-2019
+  - Supplement-Feedback-Document
+  - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - _BibTex-to-MD-Git
   - EPubs-Books
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
+  - ERC-ex-re
   - ePub
   - UCL
   - Book-child

@@ -8,7 +8,7 @@ aliases:
   - Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds
 type: "[[@online]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Statistics
   - Website

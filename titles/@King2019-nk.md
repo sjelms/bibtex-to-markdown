@@ -13,7 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - EPubs-Books
   - Speechify
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - ePub
   - Research-Methods

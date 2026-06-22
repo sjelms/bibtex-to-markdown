@@ -9,8 +9,8 @@ aliases:
 publisher: "[[McGraw Hill Education UK]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methods-Rapid-Qualitative-Research
-  - Theory-and-Methods-Critical-Realism
+  - Rapid-Qualitative-Research
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Fieldwork-Methodology

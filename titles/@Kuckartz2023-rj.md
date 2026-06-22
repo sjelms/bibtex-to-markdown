@@ -13,7 +13,7 @@ tags:
   - EPubs-Books
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - Marx_Labor
   - ePub

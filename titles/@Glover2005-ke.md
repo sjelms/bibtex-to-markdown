@@ -13,8 +13,8 @@ volume: 47
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-Frontiers-2021
+  - My-Library
+  - Frontiers-2021
   - Frontiers-2022
   - Notion-Catalogued
   - Journal-Articles

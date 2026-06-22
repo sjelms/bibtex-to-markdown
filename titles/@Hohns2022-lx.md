@@ -10,7 +10,7 @@ journal: "[[Journal of Vocational Education and Training]]"
 publisher: "[[Routledge]]"
 type: "[[@article]]"
 tags:
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Workplace-Learning

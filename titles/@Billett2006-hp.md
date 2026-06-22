@@ -10,11 +10,11 @@ publisher: "[[Informa UK Limited]]"
 volume: 38
 type: "[[@article]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
-  - VET-TVET-WALF-Improving-Working-as-Learning
+  - ERC-ex-re
+  - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Braverman
   - Workplace-Learning
 ---

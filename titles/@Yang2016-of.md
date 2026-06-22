@@ -11,9 +11,9 @@ journal: "[[开放教育研究]]"
 volume: 22
 type: "[[@article]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning
+  - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
+  - ERC-ex-re
   - llm-wiki-workflow
   - Workplace-Learning
 ---

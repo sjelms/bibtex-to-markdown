@@ -11,7 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Braverman
   - Marx_Labor
   - Knowledge-Skill-Acquisition

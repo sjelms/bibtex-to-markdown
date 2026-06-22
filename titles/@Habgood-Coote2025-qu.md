@@ -11,6 +11,8 @@ tags:
   - _BibTex-to-MD-Git
   - Braverman
   - Marx_Labor
+  - Economics
+  - Labor
 ---
 
 > [!bibliography]

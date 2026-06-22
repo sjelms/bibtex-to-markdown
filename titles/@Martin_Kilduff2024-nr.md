@@ -12,7 +12,7 @@ type: "[[@article]]"
 tags:
   - Theory-and-Methods
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - UCL
   - Fieldwork-Methodology

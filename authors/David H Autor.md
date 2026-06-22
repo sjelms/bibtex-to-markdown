@@ -13,7 +13,10 @@ aliases:
 
 ### Content:
 [[@Abraham2025-or|The Digitalist Papers]]
+[[@Acemoglu2011-xz|Skills, Tasks And Technologies]]
+[[@Autor1998-ie|Computing Inequality]]
 [[@Autor2003-ju|The Skill Content Of Recent Technological Change]]
+[[@Autor2006-eo|The Polarization Of The U.s. Labor Market]]
 [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
 [[@Autor2014-yj|Polanyi's Paradox And The Shape Of Employment Growth]]
 [[@Autor2020-ol|The Work Of The Future]]
@@ -24,7 +27,13 @@ aliases:
 
 ![[@Abraham2025-or]]
 
+![[@Acemoglu2011-xz]]
+
+![[@Autor1998-ie]]
+
 ![[@Autor2003-ju]]
+
+![[@Autor2006-eo]]
 
 ![[@Autor2013-ht]]
 

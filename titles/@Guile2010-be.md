@@ -13,7 +13,7 @@ tags:
   - Education
   - Professional-Development
   - Adult-Education
-  - VET-TVET-Learning-Challenge-of-the-Knowledge-Economy-LCKE-Chapters
+  - LCKE-Chapters
   - _BibTex-to-MD-Git
   - Cross-Ref-Chapter
   - UCL

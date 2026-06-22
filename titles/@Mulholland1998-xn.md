@@ -15,7 +15,7 @@ tags:
   - Workplaces-of-the-Future
   - Braverman
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Book-child
 ---
 

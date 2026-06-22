@@ -8,7 +8,7 @@ aliases:
   - Worker Organizing Resource And Knowledge Center
 type: "[[@online]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Government-Report
   - _BibTex-to-MD-Git
   - Labor

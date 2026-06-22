@@ -12,7 +12,7 @@ publisher: "[[Emerald]]"
 volume: 23
 type: "[[@article]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning
+  - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

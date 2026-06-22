@@ -11,10 +11,10 @@ volume: 9
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
-  - Theory-and-Methods-Grounded-Theory
+  - Grounded-Theory
   - 00_TO-READ
   - Journal-Articles
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

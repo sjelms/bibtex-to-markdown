@@ -13,7 +13,7 @@ volume: 6
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
 ---

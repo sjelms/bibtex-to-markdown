@@ -11,11 +11,11 @@ publisher: "[[Emerald]]"
 volume: 32
 type: "[[@article]]"
 tags:
-  - UCL-University-College-London-UCL-PhD-Research-Proposals-and-Thesis
+  - UCL-PhD-Research-Proposals-and-Thesis
   - _BibTex-to-MD-Git
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
+  - ERC-ex-re
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - UCL
   - Workplace-Learning
 ---

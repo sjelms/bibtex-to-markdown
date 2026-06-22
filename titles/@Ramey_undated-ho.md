@@ -11,7 +11,7 @@ aliases:
   - Qualitative Analysis Of Video Data
 type: "[[@proceedings]]"
 tags:
-  - Coursework-Reading-RDL-CCME0041
+  - RDL-CCME0041
   - _BibTex-to-MD-Git
   - QDA
 ---

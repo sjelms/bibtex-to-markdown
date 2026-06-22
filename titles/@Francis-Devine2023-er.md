@@ -15,7 +15,7 @@ publisher: "[[House of Commons of the United Kingdom]]"
 type: "[[@online]]"
 tags:
   - Data-Stats-Figures
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Website
 ---

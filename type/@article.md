@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-21T08:14:14
+amended: 2026-06-22T04:29:47
 ---
 
 # Directory
@@ -309,6 +309,7 @@ amended: 2026-06-21T08:14:14
 - [[@Chan2007-ad|Productivity Improvements - Understand The Workforce Perceptions Of Productivity First]]
 ### 2006
 - [[@Fuller2006-ki|Continuity, Change And Conflict - The Role Of Learning And Knowing In Different Productive Systems]]
+- [[@Autor2006-eo|The Polarization Of The U.s. Labor Market]]
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]
 - [[@Wing2006-tj|Computational Thinking]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
@@ -377,6 +378,7 @@ amended: 2026-06-21T08:14:14
 - [[@Sfard1998-bo|On Two Metaphors For Learning And The Dangers Of Choosing Just One]]
 - [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
 - [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
+- [[@Autor1998-ie|Computing Inequality - Have Computers Changed The Labor Market?]]
 - [[@Butler1998-ph|The Learning Context Within Technical And Further Education Colleges As Perceived By Apprentices And Their Workplace Supervisors]]
 - [[@Self1998-fu|The Defining Characteristics Of Intelligent Tutoring Systems Research - Itss Care, Precisely]]
 - [[@Philip1998-pd|Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?]]
@@ -404,6 +406,8 @@ amended: 2026-06-21T08:14:14
 - [[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
 - [[@Ryan1993-hf|The Relationship Between Mandatory Vs. Voluntary Participation In A Prison Literacy Program And Academic Achievement]]
+### 1992
+- [[@Bratman1992-ys|Shared Cooperative Activity]]
 ### 1991
 - [[@Marmot1991-fq|Health Inequalities Among British Civil Servants - The Whitehall II Study]]
 - [[@Welton1991-jd|What's New In The History Of Adult Education]]

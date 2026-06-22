@@ -9,12 +9,12 @@ publisher: "[[Reed Business Education]]"
 type: "[[@book]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - EPubs-Books
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - ePub
   - Knowledge-Skill-Acquisition
 ---

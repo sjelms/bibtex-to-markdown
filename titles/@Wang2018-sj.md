@@ -14,11 +14,11 @@ publisher: "[[MDPI AG]]"
 volume: 15
 type: "[[@article]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-XR-Reviewed
-  - Spatial-Computing-XR-MR-VR-VR-Ref-via-Ceja-and-Price
+  - XR-Reviewed
+  - VR-Ref-via-Ceja-and-Price
   - Notion-Catalogued
   - Journal-Articles
-  - Spatial-Computing-XR-MR-VR-TCOT-2024
+  - TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _XR-MR-VR-AR

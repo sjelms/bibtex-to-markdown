@@ -14,7 +14,7 @@ publisher: "[[Springer Singapore]]"
 type: "[[@inbook]]"
 tags:
   - EPubs-Books
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - ePub

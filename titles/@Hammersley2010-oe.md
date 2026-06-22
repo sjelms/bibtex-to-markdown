@@ -10,7 +10,7 @@ publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
   - Theory-and-Methods
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

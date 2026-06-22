@@ -15,9 +15,9 @@ type: "[[@book]]"
 tags:
   - Research-Methodology-in-the-Built-Environment-A-Selection-of-Case-Studies
   - Reviewed-on-Theory
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - _New-Literature

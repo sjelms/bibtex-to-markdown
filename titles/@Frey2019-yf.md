@@ -10,11 +10,11 @@ publisher: "[[Princeton University Press]]"
 type: "[[@book]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023-Supplement-Feedback-Document
+  - Supplement-Feedback-Document
   - _BibTex-to-MD-Git
   - Audible
   - Cited-for-Frontiers

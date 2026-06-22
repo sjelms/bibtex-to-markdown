@@ -15,7 +15,7 @@ publisher: "[[Springer]]"
 type: "[[@inbook]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub

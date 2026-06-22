@@ -11,8 +11,8 @@ aliases:
 publisher: "[[Pergamon]]"
 type: "[[@inbook]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 2_Upgrade-MAY-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Labor

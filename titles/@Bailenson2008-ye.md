@@ -16,7 +16,7 @@ publisher: "[[Informa UK Limited]]"
 volume: 17
 type: "[[@article]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-Experience-on-Demand-Related-Work
+  - Experience-on-Demand-Related-Work
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

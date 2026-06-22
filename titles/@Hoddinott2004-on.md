@@ -13,7 +13,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
-  - VET-TVET-Workplace-Learning-in-Context
+  - Workplace-Learning-in-Context
   - EPubs-Books
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

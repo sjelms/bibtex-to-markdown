@@ -11,7 +11,7 @@ journal: "[[Forum qualitative social research Forum Qualitative Sozialforschung]
 volume: 13
 type: "[[@article]]"
 tags:
-  - Coursework-Reading-RDL-CCME0041
+  - RDL-CCME0041
   - Journal-Articles
   - EPubs-Books
   - _BibTex-to-MD-Git

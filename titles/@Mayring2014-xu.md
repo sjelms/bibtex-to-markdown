@@ -9,9 +9,9 @@ aliases:
 type: "[[@book]]"
 tags:
   - Theory-and-Methods
-  - Theory-and-Methods-Grounded-Theory
+  - Grounded-Theory
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - Research-Methods
   - _New-Literature

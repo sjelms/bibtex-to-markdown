@@ -15,9 +15,9 @@ volume: 10
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
-  - Zotero-Import-Feb-22-My-Library-Frontiers-2021
+  - My-Library
+  - 2021-12-03-Frontiers
+  - Frontiers-2021
   - Journal-Articles
   - _BibTex-to-MD-Git
 ---

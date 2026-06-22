@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-21T08:14:14
+amended: 2026-06-22T04:29:47
 ---
 
 # Directory
@@ -169,6 +169,7 @@ amended: 2026-06-21T08:14:14
 - [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
+- [[@Acemoglu2011-xz|Skills, Tasks And Technologies - Implications For Employment And Earnings]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
 ### 2010
 - [[@Guile2010-oq|Afterword]]
@@ -177,6 +178,7 @@ amended: 2026-06-21T08:14:14
 - [[@Guile2010-th|Learning As Remediation]]
 - [[@Guile2010-gs|Preliminary Material]]
 - [[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
+- [[@Guile2010-kn|Scientific Knowledge And The Economy]]
 - [[@Guile2010-om|Tacit Knowledge And The Economy]]
 - [[@Guile2010-be|The Knowledge Economy And The Challenge For Education]]
 - [[@Guile2010-iq|The New Learning Challenge Of The Knowledge Economy]]

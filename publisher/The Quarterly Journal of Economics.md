@@ -10,6 +10,7 @@ category:
 ## The Quarterly Journal of Economics
 
 ### Content:
+[[@Autor1998-ie|Computing Inequality]]
 [[@Autor2003-ju|The Skill Content Of Recent Technological Change]]
 [[@Autor2024-jq|New Frontiers]]
 [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]

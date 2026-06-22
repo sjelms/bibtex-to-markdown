@@ -10,7 +10,7 @@ aliases:
 publisher: "[[Springer International Publishing]]"
 type: "[[@inbook]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning
+  - WALF-Improving-Working-as-Learning
   - Future-of-Work
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

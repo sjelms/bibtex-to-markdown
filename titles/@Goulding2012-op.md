@@ -14,9 +14,9 @@ publisher: "[[Elsevier]]"
 volume: 26
 type: "[[@article]]"
 tags:
-  - LSU-Louisiana-State-University-LSU-Supporting-Works
+  - LSU-Supporting-Works
   - Notion-Catalogued
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

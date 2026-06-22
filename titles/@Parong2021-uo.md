@@ -17,8 +17,8 @@ tags:
   - media-comparison-research
   - augmented-virtuality
   - 3rd-Edition-2021-_-Multimedia-Learning
-  - 3rd-Edition-2021-_-Multimedia-Learning-Part-VIII-Multimedia-Learning-with-Media
-  - Multimedia-read-Multimedia-completed
+  - Part-VIII-Multimedia-Learning-with-Media
+  - Multimedia-completed
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

@@ -8,7 +8,7 @@ aliases:
   - The Demand For Housing As An Investment
 type: "[[@report]]"
 tags:
-  - UCL-University-College-London-UCL-Institute-for-Innovation-and-Public-Purpose-IIPP
+  - UCL-Institute-for-Innovation-and-Public-Purpose-IIPP
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - UCL

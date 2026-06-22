@@ -11,10 +11,10 @@ aliases:
 type: "[[@online]]"
 tags:
   - Notion-Catalogued
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - _Cataloged
   - Reader_Obsidian
 ---

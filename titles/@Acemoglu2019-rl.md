@@ -11,7 +11,7 @@ journal: "[[Journal of Economic and Management Perspectives]]"
 volume: 33
 type: "[[@article]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor

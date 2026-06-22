@@ -11,7 +11,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - RNIB
   - Knowledge-Skill-Acquisition
 ---

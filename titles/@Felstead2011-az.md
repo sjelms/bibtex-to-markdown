@@ -13,11 +13,11 @@ institution: "[[UKCES]]"
 publisher: "[[UK Commission for Employment and Skills]]"
 type: "[[@report]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - WALF-Improving-Working-as-Learning
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - _In-Notion
   - _In-Readwise
   - _In-ClickUp

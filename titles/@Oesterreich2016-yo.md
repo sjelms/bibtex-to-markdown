@@ -20,10 +20,10 @@ tags:
   - Construction-industry
   - Construction-4-0
   - Notion-Catalogued
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - 00_TO-READ
   - Journal-Articles
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

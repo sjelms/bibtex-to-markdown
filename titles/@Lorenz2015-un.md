@@ -13,7 +13,7 @@ aliases:
 type: "[[@online]]"
 tags:
   - Construction-4-0
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - _Mark-Up
   - Reader_Obsidian

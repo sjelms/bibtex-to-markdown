@@ -12,7 +12,7 @@ type: "[[@book]]"
 tags:
   - Theory-and-Methods
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - Research-Methods
   - ePub

@@ -13,7 +13,7 @@ publisher: "[[JSTOR]]"
 volume: 28
 type: "[[@article]]"
 tags:
-  - Skills-Assessment-Methodology-SGAM-Ref-Materials
+  - SGAM-Ref-Materials
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

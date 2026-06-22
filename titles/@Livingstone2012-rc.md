@@ -10,7 +10,7 @@ aliases:
 publisher: "[[Springer Science+Business Media]]"
 type: "[[@book]]"
 tags:
-  - VET-TVET-The-Knowledge-Economy-and-Lifelong-Learning-2012
+  - The-Knowledge-Economy-and-Lifelong-Learning-2012
   - Braverman
   - _BibTex-to-MD-Git
   - _In-Notion

@@ -14,10 +14,10 @@ institution: "[[UCL Institute of Education]]"
 publisher: "[[Sutton Trust]]"
 type: "[[@report]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - UCL

@@ -13,10 +13,10 @@ institution: "[[Prefabrication and Modular Construction 2020]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - Construction-4-0
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

@@ -10,8 +10,8 @@ publisher: "[[The New York Times]]"
 type: "[[@misc]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - _BibTex-to-MD-Git
   - Economics
 ---

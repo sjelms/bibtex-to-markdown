@@ -7,9 +7,9 @@ aliases:
   - What Features Of Workplaces Support Practitioners And Teams To Learn And Innovate?
 type: "[[@misc]]"
 tags:
-  - UCL-University-College-London-UCL-PhD-Research-Proposals-and-Thesis
+  - UCL-PhD-Research-Proposals-and-Thesis
   - _BibTex-to-MD-Git
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
+  - ERC-ex-re
   - llm-wiki-workflow
   - UCL
   - Workplace-Learning

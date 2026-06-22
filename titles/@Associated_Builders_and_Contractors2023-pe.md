@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Associated Builders and Contractors Inc]]"
 type: "[[@online]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - Website
   - Reader_Obsidian

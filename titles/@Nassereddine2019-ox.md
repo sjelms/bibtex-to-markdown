@@ -12,10 +12,10 @@ publisher: "[[IAARC]]"
 type: "[[@article]]"
 tags:
   - International-Association-for-Automation-and-Robotics-in-Construction-IAARC
-  - Spatial-Computing-XR-MR-VR-XR-Reviewed
+  - XR-Reviewed
   - Journal-Articles
   - Notion-Catalogued
-  - Spatial-Computing-XR-MR-VR-TCOT-2024
+  - TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _XR-MR-VR-AR

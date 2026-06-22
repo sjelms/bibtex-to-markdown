@@ -12,7 +12,7 @@ publisher: "[[Informa UK Limited]]"
 volume: 36
 type: "[[@article]]"
 tags:
-  - AEC-Cited-Lit-for-Jacqui-JG_Recommended
+  - JG_Recommended
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

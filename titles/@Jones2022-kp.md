@@ -21,7 +21,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - _In-Notion
   - _In-Readwise

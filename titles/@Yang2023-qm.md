@@ -9,7 +9,7 @@ journal: "[[National Public Radio]]"
 publisher: "[[NPR]]"
 type: "[[@misc]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - Reader_Obsidian

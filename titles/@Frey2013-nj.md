@@ -14,9 +14,9 @@ journal: "[[Technological Forecasting and Social Change]]"
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - EPubs-Books
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Future-of-Work
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

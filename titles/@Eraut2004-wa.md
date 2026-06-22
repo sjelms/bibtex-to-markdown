@@ -14,8 +14,8 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
-  - VET-TVET-WALF-Improving-Working-as-Learning-ERC-ex-re
+  - 003_Theoretical-Framework
+  - ERC-ex-re
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - _Cataloged

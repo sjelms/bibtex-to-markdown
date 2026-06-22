@@ -15,8 +15,8 @@ aliases:
 publisher: "[[Oxford University Press]]"
 type: "[[@inbook]]"
 tags:
-  - VET-TVET-Oxford-Handbook-of-Skills-and-Training
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - Oxford-Handbook-of-Skills-and-Training
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - EPubs-Books
   - ePub

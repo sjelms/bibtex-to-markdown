@@ -10,7 +10,7 @@ publisher: "[[Cambridge University Press]]"
 type: "[[@book]]"
 tags:
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

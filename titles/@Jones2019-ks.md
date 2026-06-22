@@ -8,9 +8,9 @@ aliases:
 institution: "[[University College London]]"
 type: "[[@phdthesis]]"
 tags:
-  - UCL-University-College-London-UCL-PhD-Research-Proposals-and-Thesis-BSSC-Thesis
+  - BSSC-Thesis
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - Marx_Labor
   - UCL

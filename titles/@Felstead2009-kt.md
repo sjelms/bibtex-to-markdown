@@ -13,10 +13,10 @@ type: "[[@book]]"
 tags:
   - VET-TVET
   - EPubs-Books
-  - VET-TVET-WALF-Improving-Working-as-Learning
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - WALF-Improving-Working-as-Learning
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - _In-Notion
   - _In-Readwise
   - UCL

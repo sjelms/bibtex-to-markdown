@@ -14,9 +14,9 @@ publisher: "[[American Society of Civil Engineers]]"
 volume: 133
 type: "[[@article]]"
 tags:
-  - LSU-Louisiana-State-University-LSU-Supporting-Works
+  - LSU-Supporting-Works
   - Journal-Articles
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor

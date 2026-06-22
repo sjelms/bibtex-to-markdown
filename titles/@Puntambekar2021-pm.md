@@ -10,9 +10,9 @@ journal: "[[Educational Psychology Review]]"
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

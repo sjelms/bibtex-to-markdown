@@ -12,7 +12,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - Construction-4-0-Offsite-Production-and-Manufacturing-for-Innovative-Construction
+  - Offsite-Production-and-Manufacturing-for-Innovative-Construction
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

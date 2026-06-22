@@ -11,13 +11,13 @@ volume: 31
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Journal-Articles
   - Cited-for-Frontiers
   - Knowledge-Skill-Acquisition

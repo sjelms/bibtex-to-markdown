@@ -8,7 +8,7 @@ aliases:
   - Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects & Disrupt Supply Chains
 type: "[[@online]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - Website
 ---

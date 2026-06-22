@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-21T08:14:14
+amended: 2026-06-22T04:29:47
 ---
 
 # Directory
@@ -221,6 +221,7 @@ amended: 2026-06-21T08:14:14
 - [[@Williams2014-ci|Getting Critical]]
 - [[@Charmaz2014-oe|Constructing Grounded Theory]]
 - [[@Rudestam2014-yd|Surviving Your Dissertation - A Comprehensive Guide To Content And Process]]
+- [[@Bratman2014-ey|Shared Agency - A Planning Theory Of Acting Together]]
 - [[@Hopkins2014-qf|Architectural Styles - A Visual Guide]]
 - [[@Freire2014-dj|Pedagogy Of Hope - Reliving Pedagogy Of The Oppressed]]
 - [[@Brown2014-ri|Make It Stick - The Science Of Successful Learning]]

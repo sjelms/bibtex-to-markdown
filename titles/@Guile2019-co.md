@@ -11,15 +11,15 @@ aliases:
 publisher: "[[John Wiley and Sons]]"
 type: "[[@book]]"
 tags:
-  - VET-TVET-Handbook-of-Vocational-Education-and-Training-Wiley-2019
+  - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - 00_TO-READ
   - Notion-Catalogued
   - EPubs-Books
-  - Spatial-Computing-XR-MR-VR-TCOT-2024
+  - TCOT-2024
   - _BibTex-to-MD-Git
   - Speechify
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - _In-Readwise
   - ePub
   - VET

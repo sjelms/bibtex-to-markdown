@@ -12,10 +12,10 @@ publisher: "[[SAGE Publications]]"
 volume: 24
 type: "[[@article]]"
 tags:
-  - LSU-Louisiana-State-University-LSU-Supporting-Works
+  - LSU-Supporting-Works
   - Theory-and-Methods
   - Journal-Articles
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition

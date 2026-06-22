@@ -10,7 +10,7 @@ publisher: "[[University of Chicago Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - EPubs-Books
   - Economics
   - Labor

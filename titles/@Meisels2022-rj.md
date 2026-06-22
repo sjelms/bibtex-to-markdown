@@ -11,7 +11,7 @@ institution: "[[Deloitte]]"
 type: "[[@report]]"
 tags:
   - Deloitte-McKinsey-EY-PWC
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

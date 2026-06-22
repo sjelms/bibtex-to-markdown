@@ -13,11 +13,11 @@ publisher: "[[Oxford University Press]]"
 type: "[[@book]]"
 tags:
   - Social-sciences-–-Research-–-Methodology
-  - Coursework-Reading-RDL-CCME0041
+  - RDL-CCME0041
   - Reviewed-on-Theory
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - llm-wiki-workflow
   - Marx_Labor
   - Course-Assignment

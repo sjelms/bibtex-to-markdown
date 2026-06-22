@@ -15,7 +15,7 @@ aliases:
 publisher: "[[Palgrave Macmillan UK]]"
 type: "[[@inbook]]"
 tags:
-  - VET-TVET-WALF-Improving-Working-as-Learning
+  - WALF-Improving-Working-as-Learning
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Braverman

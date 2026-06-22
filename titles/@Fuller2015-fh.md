@@ -11,7 +11,7 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - VET
   - Workplace-Learning
   - UCL

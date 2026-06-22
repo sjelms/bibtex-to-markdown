@@ -10,7 +10,7 @@ aliases:
 publisher: "[[SAGE Publications]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methods-Grounded-Theory
+  - Grounded-Theory
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor

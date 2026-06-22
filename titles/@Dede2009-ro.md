@@ -11,11 +11,11 @@ volume: 323
 type: "[[@article]]"
 tags:
   - Frontiers-2022
-  - Spatial-Computing-XR-MR-VR-XR-Reviewed
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - XR-Reviewed
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
-  - Spatial-Computing-XR-MR-VR-TCOT-2024
+  - TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS

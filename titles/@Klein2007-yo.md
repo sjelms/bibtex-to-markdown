@@ -8,7 +8,7 @@ aliases:
 publisher: "[[Cambridge University Press]]"
 type: "[[@book]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
 ---

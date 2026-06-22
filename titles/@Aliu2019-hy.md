@@ -13,12 +13,12 @@ type: "[[@article]]"
 tags:
   - Construction-4-0
   - Human-Capital
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - _In-Notion
   - _In-Readwise
   - AEC

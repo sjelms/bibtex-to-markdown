@@ -12,7 +12,7 @@ volume: 15
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
-  - Theory-and-Methods-Critical-Realism
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods

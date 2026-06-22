@@ -13,7 +13,7 @@ publisher: "[[Emerald]]"
 volume: 31
 type: "[[@article]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023-Supplement-Feedback-Document
+  - Supplement-Feedback-Document
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Fieldwork-Methodology

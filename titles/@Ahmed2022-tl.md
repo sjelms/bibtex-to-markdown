@@ -12,9 +12,9 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methods-Grounded-Theory
+  - Grounded-Theory
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - ePub

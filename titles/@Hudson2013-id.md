@@ -16,7 +16,7 @@ tags:
   - Academic-Education
   - Educational-Trends
   - Government-Report
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Labor

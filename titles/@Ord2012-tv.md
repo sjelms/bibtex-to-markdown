@@ -10,7 +10,7 @@ journal: "[[Journal of Youth and Policy]]"
 volume: 108
 type: "[[@article]]"
 tags:
-  - Upgrade-Versions-3_Upgrade-OCT-2023-Upgrade-Viva-Prep-Reading
+  - Upgrade-Viva-Prep-Reading
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Education

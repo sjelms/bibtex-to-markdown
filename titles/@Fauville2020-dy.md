@@ -12,7 +12,7 @@ publisher: "[[Elsevier]]"
 type: "[[@inbook]]"
 tags:
   - Notion-Catalogued
-  - Spatial-Computing-XR-MR-VR-Experience-on-Demand-Related-Work
+  - Experience-on-Demand-Related-Work
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

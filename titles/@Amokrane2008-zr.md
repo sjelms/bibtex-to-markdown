@@ -13,7 +13,7 @@ publisher: "[[Institute of Electrical and Electronics Engineers]]"
 type: "[[@inproceedings]]"
 tags:
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS

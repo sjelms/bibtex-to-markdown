@@ -11,7 +11,7 @@ institution: "[[Institute of Electrical and Electronics Engineers]]"
 publisher: "[[IEEE Comput Soc]]"
 type: "[[@inproceedings]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-The-VR-Book-Jason-Jerald
+  - The-VR-Book-Jason-Jerald
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR

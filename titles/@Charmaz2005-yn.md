@@ -12,8 +12,8 @@ volume: 3
 type: "[[@article]]"
 tags:
   - Theory-and-Methods
-  - Upgrade-Versions-2_Upgrade-MAY-2023
-  - Theory-and-Methods-Grounded-Theory
+  - 2_Upgrade-MAY-2023
+  - Grounded-Theory
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

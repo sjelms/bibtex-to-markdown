@@ -11,7 +11,7 @@ aliases:
 publisher: "[[Springer International Publishing]]"
 type: "[[@inproceedings]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-TCOT-2024
+  - TCOT-2024
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Readwise

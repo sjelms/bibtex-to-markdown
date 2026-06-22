@@ -16,14 +16,14 @@ publisher: "[[Routledge]]"
 volume: 22
 type: "[[@article]]"
 tags:
-  - VET-TVET-Contemporary-Apprenticeship-by-Fuller-and-Unwin
+  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - 00_TO-READ
   - Notion-Catalogued
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - UCL
   - Workplace-Learning
   - AEC

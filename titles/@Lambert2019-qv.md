@@ -11,8 +11,8 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - Reviewed-on-Theory
-  - Upgrade-Versions-2_Upgrade-MAY-2023
-  - Theory-and-Methods-Rapid-Qualitative-Research
+  - 2_Upgrade-MAY-2023
+  - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - ePub
   - Research-Methods

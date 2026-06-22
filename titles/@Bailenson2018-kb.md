@@ -9,7 +9,7 @@ aliases:
 publisher: "[[W W Norton and Company]]"
 type: "[[@book]]"
 tags:
-  - Spatial-Computing-XR-MR-VR-Experience-on-Demand-Related-Work
+  - Experience-on-Demand-Related-Work
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Audible

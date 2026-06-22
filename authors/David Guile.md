@@ -23,6 +23,7 @@ aliases:
 [[@Guile2010-dv|Thinking Differently About Mediation By Activity And Semiotic Mediation]]
 [[@Guile2010-gs|Preliminary Material]]
 [[@Guile2010-iq|The New Learning Challenge Of The Knowledge Economy]]
+[[@Guile2010-kn|Scientific Knowledge And The Economy]]
 [[@Guile2010-mf|Thinking Differently About The Two Worlds View Of Knowledge]]
 [[@Guile2010-oc|Developing The Mediated Basis Of Learning]]
 [[@Guile2010-om|Tacit Knowledge And The Economy]]
@@ -69,6 +70,8 @@ aliases:
 ![[@Guile2010-gs]]
 
 ![[@Guile2010-iq]]
+
+![[@Guile2010-kn]]
 
 ![[@Guile2010-mf]]
 

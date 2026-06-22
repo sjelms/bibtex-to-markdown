@@ -10,9 +10,9 @@ publisher: "[[Elsevier]]"
 type: "[[@book]]"
 tags:
   - Construction-4-0
-  - Construction-4-0-Marco-Casini-Construction-4-0
+  - Marco-Casini-Construction-4-0
   - Notion-Catalogued
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - 00_TO-READ
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

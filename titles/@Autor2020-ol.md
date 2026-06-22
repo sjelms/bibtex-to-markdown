@@ -13,10 +13,10 @@ institution: "[[Massachusetts Institute of Technology]]"
 type: "[[@report]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-2021-12-03-Frontiers
+  - My-Library
+  - 2021-12-03-Frontiers
   - Frontiers-2022
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - Future-of-Work
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

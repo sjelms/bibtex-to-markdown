@@ -10,7 +10,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Philosophy-of-Education
   - Education
   - Columbia-University

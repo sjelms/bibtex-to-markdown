@@ -11,7 +11,7 @@ volume: 50
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
+  - My-Library
   - Journal-Articles
   - VET-TVET
   - _BibTex-to-MD-Git

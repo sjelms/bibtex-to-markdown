@@ -11,7 +11,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - AEC-Cited-Lit-for-Jacqui-JG_Recommended
+  - JG_Recommended
   - EPubs-Books
   - _BibTex-to-MD-Git
   - RNIB

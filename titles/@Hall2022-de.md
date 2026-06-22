@@ -14,9 +14,9 @@ aliases:
 publisher: "[[Springer International Publishing]]"
 type: "[[@inbook]]"
 tags:
-  - Construction-4-0-Industry-4-0-for-the-Built-Environment
+  - Industry-4-0-for-the-Built-Environment
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - ePub

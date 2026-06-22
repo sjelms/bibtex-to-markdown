@@ -13,8 +13,8 @@ tags:
   - Education
   - Professional-Development
   - Adult-Education
-  - VET-TVET-Learning-Challenge-of-the-Knowledge-Economy-LCKE-Chapters
-  - Theory-and-Methods-Critical-Realism
+  - LCKE-Chapters
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Cross-Ref-Chapter

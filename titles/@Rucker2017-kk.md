@@ -11,7 +11,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - AEC_learning_theory_2021-26
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Workplace-Learning
   - VET
   - Knowledge-Skill-Acquisition

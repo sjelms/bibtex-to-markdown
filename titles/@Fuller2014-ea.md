@@ -12,7 +12,7 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - VET-TVET-Contemporary-Apprenticeship-by-Fuller-and-Unwin
+  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
   - _BibTex-to-MD-Git
   - Cross-Ref-Chapter
   - UCL

@@ -8,8 +8,8 @@ aliases:
 publisher: "[[Addison Wesley Longman]]"
 type: "[[@book]]"
 tags:
-  - Theory-and-Methods-Rapid-Qualitative-Research
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - Rapid-Qualitative-Research
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - Fieldwork-Methodology
   - Research-Methods

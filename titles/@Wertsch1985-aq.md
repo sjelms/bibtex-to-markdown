@@ -12,7 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - EPubs-Books
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Book-parent
   - ePub
   - RNIB

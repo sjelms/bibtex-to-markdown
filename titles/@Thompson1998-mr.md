@@ -14,7 +14,7 @@ tags:
   - Workplaces-of-the-Future
   - _BibTex-to-MD-Git
   - Braverman
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Marx_Labor
   - Book-parent
   - Future-of-Work

@@ -11,7 +11,7 @@ publisher: "[[United States Department of Labor]]"
 type: "[[@online]]"
 tags:
   - Data-Stats-Figures
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Government-Report
   - _BibTex-to-MD-Git
   - Website

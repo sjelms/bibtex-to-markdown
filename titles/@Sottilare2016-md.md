@@ -11,7 +11,7 @@ publisher: "[[researchgate net]]"
 type: "[[@article]]"
 tags:
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow

@@ -13,8 +13,8 @@ volume: 12
 type: "[[@article]]"
 tags:
   - Construction-4-0
-  - Spatial-Computing-XR-MR-VR-XR-Reviewed
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - XR-Reviewed
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git

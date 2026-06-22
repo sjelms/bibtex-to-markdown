@@ -9,7 +9,7 @@ aliases:
 publisher: "[[Keystone Mountain Lakes Carpenters Training Fund]]"
 type: "[[@online]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC

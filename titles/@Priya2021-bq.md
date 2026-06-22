@@ -11,7 +11,7 @@ publisher: "[[SAGE Publications India]]"
 volume: 70
 type: "[[@article]]"
 tags:
-  - Theory-and-Methods-Case-Study-Research
+  - Case-Study-Research
   - _BibTex-to-MD-Git
   - Marx_Labor
   - Fieldwork-Methodology

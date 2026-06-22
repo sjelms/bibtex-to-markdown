@@ -14,11 +14,11 @@ type: "[[@article]]"
 tags:
   - Journal-Articles
   - Notion-Catalogued
-  - VET-TVET-Contemporary-Apprenticeship-by-Fuller-and-Unwin
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - Contemporary-Apprenticeship-by-Fuller-and-Unwin
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - UCL

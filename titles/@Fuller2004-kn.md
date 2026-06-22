@@ -14,11 +14,11 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
-  - VET-TVET-Workplace-Learning-in-Context
+  - Workplace-Learning-in-Context
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
-  - _Thesis-003_Theoretical-Framework
+  - 003_Theoretical-Framework
   - llm-wiki-workflow
   - Marx_Labor
   - _In-ClickUp

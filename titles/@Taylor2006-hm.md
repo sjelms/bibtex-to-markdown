@@ -11,7 +11,7 @@ publisher: "[[SAGE Publications]]"
 volume: 56
 type: "[[@article]]"
 tags:
-  - Theory-and-Methods-Rapid-Qualitative-Research
+  - Rapid-Qualitative-Research
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Notion

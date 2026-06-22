@@ -8,8 +8,8 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - Coursework-Reading-Theory-and-Methodology-in-Social-and-Educational-Research
-  - Theory-and-Methods-Critical-Realism
+  - Theory-and-Methodology-in-Social-and-Educational-Research
+  - Critical-Realism
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor

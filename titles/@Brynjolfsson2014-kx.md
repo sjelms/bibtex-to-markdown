@@ -11,9 +11,9 @@ publisher: "[[W W Norton and Company]]"
 type: "[[@book]]"
 tags:
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - EPubs-Books
-  - Upgrade-Versions-3_Upgrade-OCT-2023
+  - 3_Upgrade-OCT-2023
   - Future-of-Work
   - _BibTex-to-MD-Git
   - Audible

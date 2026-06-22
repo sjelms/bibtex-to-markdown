@@ -14,11 +14,11 @@ volume: 7
 type: "[[@article]]"
 tags:
   - Zotero-Import-Feb-22
-  - Zotero-Import-Feb-22-My-Library
-  - Zotero-Import-Feb-22-My-Library-Frontiers-2021
+  - My-Library
+  - Frontiers-2021
   - Intelligent-Tutoring-Systems-ITS
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
   - _BibTex-to-MD-Git

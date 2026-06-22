@@ -12,7 +12,7 @@ type: "[[@article]]"
 tags:
   - research-methods
   - Frontiers-2022
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
   - _BibTex-to-MD-Git

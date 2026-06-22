@@ -8,7 +8,7 @@ aliases:
 publisher: "[[The B1M]]"
 type: "[[@video]]"
 tags:
-  - Upgrade-Versions-2_Upgrade-MAY-2023
+  - 2_Upgrade-MAY-2023
   - _BibTex-to-MD-Git
   - YouTube
 ---

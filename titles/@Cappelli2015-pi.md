@@ -10,7 +10,7 @@ publisher: "[[SAGE Publications]]"
 volume: 68
 type: "[[@article]]"
 tags:
-  - Skills-Assessment-Methodology-SGAM-Ref-Materials
+  - SGAM-Ref-Materials
   - Journal-Articles
   - Braverman
   - _BibTex-to-MD-Git

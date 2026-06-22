@@ -11,7 +11,7 @@ publisher: "[[Otto Meissner]]"
 volume: 3
 type: "[[@book]]"
 tags:
-  - Marx_Labor-Das-Kapital
+  - Das-Kapital
   - _BibTex-to-MD-Git
   - Economics
   - Labor
