@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-22T04:29:47
+amended: 2026-06-22T06:00:44
 ---
 
 # Directory
@@ -166,6 +166,7 @@ amended: 2026-06-22T04:29:47
 - [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
 - [[@Kalantzis2012-wb|The Nature Of Learning]]
 - [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
+- [[@Billett2012-xz|Explaining Innovation At Work - A Socio-Personal Account]]
 - [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 ### 2011
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]

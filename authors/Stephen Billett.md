@@ -21,6 +21,7 @@ aliases:
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Billett2008-kx|Learning Through Work]]
 [[@Billett2011-kx|Vocational Education]]
+[[@Billett2012-xz|Explaining Innovation At Work]]
 [[@Billett2014-wf|Mimetic Learning At Work]]
 [[@Billett2019-so|Vocational Education And The Individual]]
 [[@Billett2020-yt|Learning In The Workplace]]
@@ -51,6 +52,8 @@ aliases:
 ![[@Billett2008-kx]]
 
 ![[@Billett2011-kx]]
+
+![[@Billett2012-xz]]
 
 ![[@Billett2014-wf]]
 
