@@ -6,7 +6,7 @@ key: "[[@Skinner1948-at]]"
 aliases:
   - Verbal Behavior
 publisher: "[[Harvard University Press]]"
-type: "[[@book]]"
+type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework

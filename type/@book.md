@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-22T14:11:31
+amended: 2026-06-23T07:31:45
 ---
 
 # Directory
@@ -420,8 +420,6 @@ amended: 2026-06-22T14:11:31
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
 ## 1940-1949
-### 1948
-- [[@Skinner1948-at|Verbal Behavior]]
 ### 1941
 - [[@Pavlov1941-km|Conditioned Reflexes And Psychiatry]]
 ## 1930-1939

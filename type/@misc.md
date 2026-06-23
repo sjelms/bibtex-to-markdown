@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-06-22T14:11:31
+amended: 2026-06-23T07:31:45
 ---
 
 # Directory
@@ -105,6 +105,9 @@ amended: 2026-06-22T14:11:31
 ## 1960-1969
 ### 1962
 - [[@Kennedy1962-th|January 11, 1962 - State Of The Union Address]]
+## 1940-1949
+### 1948
+- [[@Skinner1948-at|Verbal Behavior]]
 ## 1910-1919
 ### 1918
 - [[@Blodgett1918-km|Doing Farm Work By Motor Tractor - Agriculture Simplified And Food Supply Increased By Labor-Saving Machinery;-Stage School For Operators]]
