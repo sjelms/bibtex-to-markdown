@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-23T07:31:45
+amended: 2026-06-23T07:33:51
 ---
 
 # Directory
@@ -413,6 +413,8 @@ amended: 2026-06-23T07:31:45
 ### 1966
 - [[@Polanyi1966-zb|The Tacit Dimension]]
 ## 1950-1959
+### 1957
+- [[@Skinner1957-xf|Verbal Behavior]]
 ### 1956
 - [[@Bloom1956-ix|Taxonomy Of Educational Objectives - The Classification Of Educational Goals]]
 ### 1952
