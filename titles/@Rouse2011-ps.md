@@ -13,6 +13,7 @@ tags:
   - 003_Theoretical-Framework
   - Knowledge-Skill-Acquisition
   - Psychology
+  - Training
 ---
 
 > [!bibliography]
