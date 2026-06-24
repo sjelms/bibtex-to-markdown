@@ -12,3 +12,4 @@ category:
 ### Content:
 [[@Burawoy2021-di|Living Sociology]]
 [[@Campbell1971-dd|Personnel Training And Development]]
+[[@Kraiger2021-qt|The Science Of Workplace Instruction]]

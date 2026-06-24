@@ -14,6 +14,7 @@ category:
 [[@Burkholder2000-xi|A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture]]
 [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
 [[@Kirkpatrick1894-yk|An Experimental Study Of Memory]]
+[[@Kraiger1993-my|Application Of Cognitive, Skill-Based, And Affective Theories Of Learning Outcomes To New Methods Of Training Evaluation]]
 [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
 [[@Wagner1987-jz|Tacit Knowledge In Everyday Intelligent Behavior]]
 [[@Watson1913-pc|Psychology As The Behaviorist Views It]]

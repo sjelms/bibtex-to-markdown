@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-23T07:35:01
+amended: 2026-06-24T07:08:45
 ---
 
 # Directory
@@ -97,6 +97,7 @@ amended: 2026-06-23T07:35:01
 - [[@Jadallah2021-is|Construction Industry Training Assessment Framework]]
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
 - [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM]]
+- [[@Kraiger2021-qt|The Science Of Workplace Instruction - Learning And Development Applied To Work]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]
 - [[@Kozlovska2021-iz|Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review]]
 - [[@Burawoy2021-di|Living Sociology - On Being In The World One Studies]]
@@ -405,6 +406,7 @@ amended: 2026-06-23T07:35:01
 ### 1993
 - [[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
+- [[@Kraiger1993-my|Application Of Cognitive, Skill-Based, And Affective Theories Of Learning Outcomes To New Methods Of Training Evaluation]]
 - [[@Ryan1993-hf|The Relationship Between Mandatory Vs. Voluntary Participation In A Prison Literacy Program And Academic Achievement]]
 ### 1992
 - [[@Bratman1992-ys|Shared Cooperative Activity]]
