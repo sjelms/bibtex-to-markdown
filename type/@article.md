@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-24T07:11:22
+amended: 2026-06-24T14:02:20
 ---
 
 # Directory
@@ -262,6 +262,7 @@ amended: 2026-06-24T07:11:22
 - [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
 - [[@Poortman2011-zl|Apprenticeship - From Learning Theory To Practice]]
+- [[@Rouse2011-ps|Employing Kirkpatrick's Evaluation Framework To Determine The Effectiveness Of Health Information Management Courses And Programs]]
 - [[@Dubberly2011-yu|Design As Learning—Or “knowledge Creation”—The SECI Model]]
 - [[@Sakulku2011-lp|The Impostor Phenomenon]]
 - [[@Goffin2011-sn|Tacit Knowledge, Lessons Learnt, And New Product Development]]
