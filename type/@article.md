@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-24T14:26:56
+amended: 2026-06-24T14:27:31
 ---
 
 # Directory
@@ -432,6 +432,7 @@ amended: 2026-06-24T14:26:56
 - [[@Reingold1981-cb|Tidier Drawings Of Trees]]
 ## 1970-1979
 ### 1979
+- [[@Kirkpatrick1979-al|Techniques For Evaluating Training Programs]]
 - [[@Campbell1979-st|Assessing The Impact Of Planned Social Change]]
 - [[@Bialystok1979-mn|Explicit And Implicit Judgements Of L2 Grammaticality]]
 - [[@Vygotsky1979-oz|Consciousness As A Problem In The Psychology Of Behavior]]
