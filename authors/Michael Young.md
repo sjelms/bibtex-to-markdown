@@ -13,6 +13,7 @@ aliases:
 [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]
 [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
+[[@Guile2014-lm|Beyond The Institution Of Apprenticeship]]
 [[@Young2001-ct|Contextualising A New Approach To Learning]]
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 [[@Young2006-fl|Knowledge, Curriculum And Qualifications For South African Further Education]]
@@ -25,6 +26,8 @@ aliases:
 ![[@Guile1998-yz]]
 
 ![[@Guile2014-jw]]
+
+![[@Guile2014-lm]]
 
 ![[@Young2001-ct]]
 

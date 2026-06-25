@@ -21,6 +21,7 @@ aliases:
 [[@Bishop2009-co|Constructing Learning]]
 [[@Broad2019-rn|Capturing The Elusive]]
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
+[[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
@@ -31,11 +32,13 @@ aliases:
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2007-dz|Creating And Using Knowledge]]
 [[@Fuller2008-fn|Towards Expansive Apprenticeships]]
 [[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
+[[@Fuller2014-wo|A Sense Of Belonging]]
 [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
@@ -67,6 +70,8 @@ aliases:
 
 ![[@Durham2019-js]]
 
+![[@Felstead2005-vo]]
+
 ![[@Felstead2007-kc]]
 
 ![[@Felstead2009-kt]]
@@ -87,6 +92,8 @@ aliases:
 
 ![[@Fuller2006-ki]]
 
+![[@Fuller2007-dz]]
+
 ![[@Fuller2008-fn]]
 
 ![[@Fuller2009-vx]]
@@ -96,6 +103,8 @@ aliases:
 ![[@Fuller2012-pz]]
 
 ![[@Fuller2014-ea]]
+
+![[@Fuller2014-wo]]
 
 ![[@Fuller2015-wk]]
 

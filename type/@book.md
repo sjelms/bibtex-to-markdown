@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-25T04:50:13
+amended: 2026-06-25T05:36:33
 ---
 
 # Directory
@@ -109,6 +109,7 @@ amended: 2026-06-25T04:50:13
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Brockmann2020-sf|On-The-Job Training In Apprenticeship In England]]
+- [[@Ainley2020-vq|Apprenticeship - Towards A New Paradigm Of Learning]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]

@@ -15,7 +15,11 @@ aliases:
 [[@Billett1999-em|Work As Social Practice]]
 [[@Billett2001-xo|Learning Through Work]]
 [[@Billett2001-zq|Confronting The Challenges To Improving Attainment In Learning At Work]]
+[[@Billett2001-zt|Co‐participation]]
+[[@Billett2002-bq|Critiquing Workplace Learning Discourses]]
+[[@Billett2002-ry|Workplace Pedagogic Practices]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
+[[@Billett2004-lx|Workplace Participatory Practices]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
@@ -41,7 +45,15 @@ aliases:
 
 ![[@Billett2001-zq]]
 
+![[@Billett2001-zt]]
+
+![[@Billett2002-bq]]
+
+![[@Billett2002-ry]]
+
 ![[@Billett2003-kh]]
+
+![[@Billett2004-lx]]
 
 ![[@Billett2004-vj]]
 

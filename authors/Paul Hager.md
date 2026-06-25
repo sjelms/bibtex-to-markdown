@@ -21,6 +21,7 @@ aliases:
 [[@Beckett2005-wv|Policies And Context]]
 [[@Beckett2005-xn|Practice At Work And Informal Learning]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
+[[@Hager2009-mt|Moving Beyond The Metaphor Of Transfer Of Learning]]
 [[@Hager2012-dh|Practice, Learning And Change]]
 [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
 [[@Hager2013-ey|Theories Of Workplace Learning]]
@@ -49,6 +50,8 @@ aliases:
 ![[@Beckett2005-xn]]
 
 ![[@Hager2004-xb]]
+
+![[@Hager2009-mt]]
 
 ![[@Hager2012-dh]]
 

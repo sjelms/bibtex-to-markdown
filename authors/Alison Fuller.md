@@ -18,6 +18,7 @@ aliases:
 [[@Bishop2009-co|Constructing Learning]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
+[[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
@@ -30,12 +31,14 @@ aliases:
 [[@Fuller2004-ys|Conclusion]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2007-dz|Creating And Using Knowledge]]
 [[@Fuller2008-fn|Towards Expansive Apprenticeships]]
 [[@Fuller2009-vx|Change And Continuity In Apprenticeship]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Fuller2013-sa|Apprenticeship And The Concept Of Occupation]]
 [[@Fuller2014-ea|Contemporary Apprenticeship]]
+[[@Fuller2014-wo|A Sense Of Belonging]]
 [[@Fuller2015-fh|Vocational Education]]
 [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
 [[@Fuller2016-el|Developing Expertise]]
@@ -61,6 +64,8 @@ aliases:
 
 ![[@Eraut2004-sp]]
 
+![[@Felstead2005-vo]]
+
 ![[@Felstead2007-kc]]
 
 ![[@Felstead2009-kt]]
@@ -85,6 +90,8 @@ aliases:
 
 ![[@Fuller2006-ki]]
 
+![[@Fuller2007-dz]]
+
 ![[@Fuller2008-fn]]
 
 ![[@Fuller2009-vx]]
@@ -96,6 +103,8 @@ aliases:
 ![[@Fuller2013-sa]]
 
 ![[@Fuller2014-ea]]
+
+![[@Fuller2014-wo]]
 
 ![[@Fuller2015-fh]]
 

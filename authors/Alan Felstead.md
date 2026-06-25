@@ -15,6 +15,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 [[@Felstead2007-kc|Performing Identities At Work]]
 [[@Felstead2009-kt|Improving Working As Learning]]
@@ -23,6 +24,7 @@ aliases:
 [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2007-dz|Creating And Using Knowledge]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Gallie2003-tj|Skill, Task Discretion, And New Technology]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
@@ -31,6 +33,8 @@ aliases:
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead2005-vo]]
 
 ![[@Felstead2007-gg]]
 
@@ -47,6 +51,8 @@ aliases:
 ![[@Fuller2003-fs]]
 
 ![[@Fuller2006-ki]]
+
+![[@Fuller2007-dz]]
 
 ![[@Fuller2012-pz]]
 

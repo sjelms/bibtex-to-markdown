@@ -15,6 +15,7 @@ aliases:
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Felstead2011-az|Praxis]]
 [[@Fuller2006-ki|Continuity, Change And Conflict]]
+[[@Fuller2007-dz|Creating And Using Knowledge]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
@@ -30,6 +31,8 @@ aliases:
 ![[@Felstead2011-az]]
 
 ![[@Fuller2006-ki]]
+
+![[@Fuller2007-dz]]
 
 ![[@Fuller2012-pz]]
 

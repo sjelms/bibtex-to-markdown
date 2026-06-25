@@ -32,6 +32,7 @@ aliases:
 [[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]
 [[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
 [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
+[[@Guile2014-lm|Beyond The Institution Of Apprenticeship]]
 [[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 [[@Guile2019-hk|VET, Expertise, And Work]]
@@ -88,6 +89,8 @@ aliases:
 ![[@Guile2010-yp]]
 
 ![[@Guile2014-jw]]
+
+![[@Guile2014-lm]]
 
 ![[@Guile2017-qd]]
 

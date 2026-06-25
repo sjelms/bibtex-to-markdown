@@ -10,6 +10,7 @@ aliases:
 ## Helen Rainbird
 
 ### Content:
+[[@Ainley2020-vq|Apprenticeship]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
@@ -17,6 +18,8 @@ aliases:
 [[@Fuller2004-kj|Workplace Learning In Context]]
 [[@Fuller2004-kn|Expansive Learning Environments]]
 [[@Fuller2004-ys|Conclusion]]
+[[@Fuller2014-wo|A Sense Of Belonging]]
+[[@Guile2014-lm|Beyond The Institution Of Apprenticeship]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
@@ -24,6 +27,8 @@ aliases:
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 
 #### Bibliography:
+
+![[@Ainley2020-vq]]
 
 ![[@Billett2004-vj]]
 
@@ -38,6 +43,10 @@ aliases:
 ![[@Fuller2004-kn]]
 
 ![[@Fuller2004-ys]]
+
+![[@Fuller2014-wo]]
+
+![[@Guile2014-lm]]
 
 ![[@Hager2004-xb]]
 

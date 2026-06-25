@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-25T04:50:13
+amended: 2026-06-25T05:36:33
 ---
 
 # Directory
@@ -213,6 +213,7 @@ amended: 2026-06-25T04:50:13
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
+- [[@Reich2015-vb|Dilemmas In Continuing Professional Learning - Learning Inscribed In Frameworks Or Elicited From Practice]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital]]
 - [[@Previtali2015-vy|Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman]]
@@ -287,6 +288,7 @@ amended: 2026-06-25T04:50:13
 - [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
 - [[@Bishop2009-co|Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry]]
 - [[@Murphy2009-fx|Experience Based Learning (EBL) - Exploring Professional Teaching Through Critical Reflection And Reflexivity]]
+- [[@Hager2009-mt|Moving Beyond The Metaphor Of Transfer Of Learning]]
 - [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 - [[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
 - [[@Nadim2009-px|Offsite Production In The UK - The Construction Industry And Academia]]
@@ -303,6 +305,7 @@ amended: 2026-06-25T04:50:13
 - [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 - [[@Wang2008-rq|Craft Training Issues In American Industrial And Commercial Construction]]
 ### 2007
+- [[@Fuller2007-dz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
 - [[@Bartel2007-qc|How Does Information Technology Affect Productivity? Plant-Level Comparisons Of Product Innovation, Process Improvement, And Worker Skills]]
 - [[@Russell2007-qq|Education In Construction Engineering And Management Built On Tradition - Blueprint For Tomorrow]]
 - [[@Blondy2007-lo|Evaluation And Application Of Andragogical Assumptions To The Adult Online Learning Environment]]
@@ -321,6 +324,7 @@ amended: 2026-06-25T04:50:13
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
 - [[@Braun2006-my|Using Thematic Analysis In Psychology]]
 ### 2005
+- [[@Felstead2005-vo|Surveying The Scene - Learning Metaphors, Survey Design And The Workplace Context]]
 - [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice - A Reassessment Of Key Concepts In Workplace Learning]]
 - [[@Baylor2005-hh|Simulating Instructional Roles Through Pedagogical Agents]]
 - [[@Inkpen2005-zr|Learning Through Alliances - General Motors And NUMMI]]
@@ -335,6 +339,7 @@ amended: 2026-06-25T04:50:13
 - [[@Canipe2004-pn|Kentucky's Moonlight Schools - An Enduring Legacy Of Adult Learning Principles And Practice]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
 - [[@Gibbons2004-de|Task-Specific Human Capital]]
+- [[@Billett2004-lx|Workplace Participatory Practices - Conceptualising Workplaces As Learning Environments]]
 - [[@Millhauser2004-jd|Cat 'n' Mouse]]
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]
 ### 2003
@@ -351,11 +356,14 @@ amended: 2026-06-25T04:50:13
 - [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
 - [[@Knowles2002-ic|Malcolm Knowles, Informal Adult Education, Self-Direction, And Andragogy]]
 - [[@Prensky2002-ml|The Motivation Of Gameplay - The Real 21st Century Learning Revolution]]
+- [[@Billett2002-bq|Critiquing Workplace Learning Discourses - Participation And Continuity At Work]]
+- [[@Billett2002-ry|Workplace Pedagogic Practices - Co–Participation And Learning]]
 ### 2001
 - [[@Stasz2001-io|Assessing Skills For Work - Two Perspectives]]
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Young2001-ct|Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning]]
 - [[@Chi2001-nu|Learning From Human Tutoring]]
+- [[@Billett2001-zt|Co‐participation - Affordance And Engagement At Work]]
 - [[@Billett2001-xo|Learning Through Work - Workplace Affordances And Individual Engagement]]
 - [[@Camp2001-nh|Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research]]
 - [[@Engestrom2001-my|Expansive Learning At Work - Toward An Activity-Theoretical Reconceptualization]]
@@ -374,6 +382,7 @@ amended: 2026-06-25T04:50:13
 - [[@Mishina1999-sb|Learning By New Experiences - Revisiting The Flying Fortress Learning Curve]]
 - [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
 - [[@Cook1999-yi|Bridging Epistemologies - The Generative Dance Between Organizational Knowledge And Organizational Knowing]]
+- [[@Engestrom1999-cg|Expansive Visibilization Of Work - An Activity-Theoretical Perspective]]
 ### 1998
 - [[@Inkpen1998-os|Learning And Knowledge Acquisition Through International Strategic Alliances]]
 - [[@Bartel1998-id|Technological Change And The Skill Acquisition Of Young Workers]]

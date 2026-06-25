@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-25T04:50:13
+amended: 2026-06-25T05:36:33
 ---
 
 # Directory
@@ -49,6 +49,7 @@ amended: 2026-06-25T04:50:13
 ### 2020
 - [[@Hussien2020-bt|A Review Of Mixed-Reality Applications In Construction 4.0]]
 - [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
+- [[@Nilsen2020-cb|Making Sense Of Implementation Theories, Models, And Frameworks]]
 ## 2010-2019
 ### 2019
 - [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET) - Lessons From Dutch Higher VET]]
@@ -76,8 +77,8 @@ amended: 2026-06-25T04:50:13
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -120,9 +121,11 @@ amended: 2026-06-25T04:50:13
 ### 2015
 - [[@Fuller2015-fh|Vocational Education]]
 ### 2014
+- [[@Fuller2014-wo|A Sense Of Belonging - The Relationship Between Community And Apprenticeship]]
 - [[@Harteis2014-pr|Discourses On Professional Learning - On The Boundary Between Learning And Working]]
 - [[@Harteis2014-go|New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning]]
 - [[@Fischer2014-dt|Informal Learning In Workplaces - Understanding Learning Culture As A Challenge For Organizational And Individual Development]]
+- [[@Guile2014-lm|Beyond The Institution Of Apprenticeship - Towards A Social Theory Of Learning As The Production Of Knowledge]]
 - [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective]]
 - [[@Goller2014-jx|Agentic Behaviour At Work - Crafting Learning Experiences]]
 - [[@Goller2014-mf|Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences]]
@@ -165,6 +168,7 @@ amended: 2026-06-25T04:50:13
 - [[@Kalantzis2012-oe|New Learning]]
 - [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
 - [[@Kalantzis2012-wb|The Nature Of Learning]]
+- [[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
 - [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
 - [[@Billett2012-xz|Explaining Innovation At Work - A Socio-Personal Account]]
 - [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]

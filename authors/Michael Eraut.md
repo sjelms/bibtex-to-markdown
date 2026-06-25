@@ -16,6 +16,7 @@ aliases:
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
 [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
+[[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
 [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
 
 #### Bibliography:
@@ -31,5 +32,7 @@ aliases:
 ![[@Eraut2007-dq]]
 
 ![[@Eraut2007-ro]]
+
+![[@Eraut2012-ph]]
 
 ![[@Eraut2013-ty]]

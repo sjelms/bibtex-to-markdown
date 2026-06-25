@@ -12,6 +12,7 @@ category:
 ### Content:
 [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
 [[@Billett2014-wf|Mimetic Learning At Work]]
+[[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
 [[@Fischer2014-dt|Informal Learning In Workplaces]]
 [[@Fuller2024-wq|Context, Characteristics And Capacity]]
 [[@Gibbs2012-mg|Learning, Work, And Practice]]
