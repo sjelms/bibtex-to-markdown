@@ -15,6 +15,7 @@ tags:
   - ERC-ex-re
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
+  - Essential
 ---
 
 > [!bibliography]
