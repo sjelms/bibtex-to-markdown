@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-06-25T05:36:33
+amended: 2026-06-25T06:55:33
 ---
 
 # Directory
@@ -30,7 +30,6 @@ amended: 2026-06-25T05:36:33
 ### 2024
 - [[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
-- [[@Ambu-Saidi2024-ej|A Critical Review On Training Evaluation Models - A Search For Future Agenda]]
 - [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital - A Retrospective]]
 - [[@Autor2024-jq|New Frontiers - The Origins And Content Of New Work, 1940–2018]]
 - [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences]]
