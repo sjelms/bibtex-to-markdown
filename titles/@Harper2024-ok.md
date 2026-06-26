@@ -1,5 +1,5 @@
 ---
-title: Yimbys hear this – simply building more homes won’t solve our housing crisis
+title: YIMBYs hear this – simply building more homes won’t solve our housing crisis
 year: 2024
 author - 1: "[[Phineas Harper]]"
 key: "[[@Harper2024-ok]]"
@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Harper, Phineas. 2024. "Yimbys hear this – simply building more homes won’t solve our housing crisis." [[The Guardian]]. https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis
+> Harper, Phineas. 2024. "YIMBYs hear this – simply building more homes won’t solve our housing crisis." [[The Guardian]]. https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis
 
 > [!abstract]
 > The ‘yes in my back yard’ voices are getting louder, but housebuilding quality is more important than quantity, says writer and curator Phineas Harper
