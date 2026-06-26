@@ -14,6 +14,7 @@ tags:
   - AEC
   - Website
   - Report
+  - Reader_Obsidian
 ---
 
 > [!bibliography]
