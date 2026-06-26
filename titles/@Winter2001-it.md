@@ -13,6 +13,8 @@ institution: "[[United States Department of Housing and Urban Development]]"
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - AEC
+  - Report
 ---
 
 > [!bibliography]
