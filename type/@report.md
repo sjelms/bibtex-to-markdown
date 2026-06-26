@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-06-26T09:05:50
+amended: 2026-06-26T09:30:45
 ---
 
 # Directory
@@ -30,6 +30,7 @@ amended: 2026-06-26T09:05:50
 - [[@Smith2023-fp|Offsite Construction For Housing - Research Roadmap]]
 - [[@Cole2023-zp|Modular Labour Report 2023]]
 ### 2022
+- [[@Murdoch2022-wm|An Exploratory Study Of Factory-Built Homes And Their Implications For Affordability - Final Report]]
 - [[@Meisels2022-rj|2023 Engineering And Construction Industry Outlook]]
 ### 2021
 - [[@Bishop2021-qh|Trade Union Membership, UK 1995-2020 - Statistical Bulletin]]
@@ -114,6 +115,8 @@ amended: 2026-06-26T09:05:50
 - [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 ### 2002
 - [[@Glaeser2002-vs|The Impact Of Zoning On Housing Affordability]]
+### 2001
+- [[@Winter2001-it|A Community Guide To Factory-Built Housing]]
 ## 1990-1999
 ### 1998
 - [[@Gott1998-ww|Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks]]

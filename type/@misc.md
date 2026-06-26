@@ -1,10 +1,12 @@
 ---
 type: "[[@misc]]"
-amended: 2026-06-26T09:05:50
+amended: 2026-06-26T09:30:45
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Harper2026-ko|Britain’s Building Standards Are Now So Bad, Even The Super-Rich Are Facing Housing Misery]]
 ### 2025
 - [[@Mahamadu2025-go|BCPM0088 - Integration, Modularisation, And Platforms]]
 - [[@Eccles2025-kq|Grim Times For Graduates Facing Worst Jobs Market In A Generation]]
@@ -12,6 +14,8 @@ amended: 2026-06-26T09:05:50
 - [[@Clark2025-ii|A Half-Century Of Harry Braverman’s Labor And Monopoly Capital]]
 ### 2024
 - [[@Race2024-vr|UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]
+- [[@Harper2024-sq|Planning Changed Britain For The Better In The Postwar Years – And It Can Do The Same Now]]
+- [[@Harper2024-ok|Yimbys Hear This – Simply Building More Homes Won’t Solve Our Housing Crisis]]
 ### 2023
 - [[@BBC-News2023-wp|New RAAC Schools List Of Buildings With Unsafe Concrete]]
 - [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context - An Interview With Berth Danermark]]
@@ -30,6 +34,7 @@ amended: 2026-06-26T09:05:50
 - [[@Rodriguez2022-vv|Untitled]]
 - [[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
 - [[@Alberto2022-nv|Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In CME-CPD]]
+- [[@Harper2022-ex|Edwardian Morals, Thatcher And Bad Design – Why Britain’s Homes Are So Hot]]
 ### 2021
 - [[@Semuels2021-fi|Wildfires Are Getting Worse, So Why Is The U.s. Still Building Homes With Wood?]]
 - [[@Jackson2021-gh|Apartments Built On An Assembly Line]]
