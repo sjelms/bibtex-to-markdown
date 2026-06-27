@@ -17,6 +17,7 @@ tags:
   - ePub
   - RNIB
   - Psychology
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]
