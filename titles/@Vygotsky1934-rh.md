@@ -14,6 +14,7 @@ tags:
   - Marx_Labor
   - Knowledge-Skill-Acquisition
   - Psychology
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]

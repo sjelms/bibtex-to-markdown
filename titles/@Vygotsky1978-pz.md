@@ -24,6 +24,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Psychology
   - Book-parent
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]

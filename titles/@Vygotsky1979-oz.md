@@ -15,6 +15,7 @@ tags:
   - 003_Theoretical-Framework
   - Marx_Labor
   - Psychology
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]

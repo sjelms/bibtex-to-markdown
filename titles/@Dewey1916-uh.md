@@ -18,6 +18,7 @@ tags:
   - _New-Literature
   - Education
   - Columbia-University
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]
