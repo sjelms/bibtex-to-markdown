@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Ainley2020-vq|Apprenticeship]]
+[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
@@ -29,6 +30,8 @@ aliases:
 #### Bibliography:
 
 ![[@Ainley2020-vq]]
+
+![[@Billett2004-il]]
 
 ![[@Billett2004-vj]]
 

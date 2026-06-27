@@ -36,6 +36,7 @@ category:
 [[@Bernstein1999-cd|Vertical And Horizontal Discourse]]
 [[@Bhaskar1975-rq|A Realist Theory Of Science]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
+[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2020-yt|Learning In The Workplace]]
 [[@Bishop2009-co|Constructing Learning]]

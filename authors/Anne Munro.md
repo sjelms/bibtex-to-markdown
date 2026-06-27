@@ -10,6 +10,7 @@ aliases:
 ## Anne Munro
 
 ### Content:
+[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
@@ -24,6 +25,8 @@ aliases:
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 
 #### Bibliography:
+
+![[@Billett2004-il]]
 
 ![[@Billett2004-vj]]
 

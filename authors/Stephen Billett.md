@@ -19,6 +19,7 @@ aliases:
 [[@Billett2002-bq|Critiquing Workplace Learning Discourses]]
 [[@Billett2002-ry|Workplace Pedagogic Practices]]
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
+[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-lx|Workplace Participatory Practices]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
@@ -52,6 +53,8 @@ aliases:
 ![[@Billett2002-ry]]
 
 ![[@Billett2003-kh]]
+
+![[@Billett2004-il]]
 
 ![[@Billett2004-lx]]
 
