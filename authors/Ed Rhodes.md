@@ -1,20 +1,17 @@
 ---
-author: "Alan Brown"
+author: "Ed Rhodes"
 institution:
 field:
 type:
 aliases:
-  - Brown
+  - Rhodes
 ---
 
-## Alan Brown
+## Ed Rhodes
 
 ### Content:
 [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 
 #### Bibliography:
 
 ![[@Brown2004-oo]]
-
-![[@Fuller2016-xl]]

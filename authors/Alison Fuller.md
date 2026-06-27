@@ -14,9 +14,9 @@ aliases:
 ## Alison Fuller
 
 ### Content:
-[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Bishop2009-co|Constructing Learning]]
+[[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Felstead2005-vo|Surveying The Scene]]
@@ -57,11 +57,11 @@ aliases:
 
 #### Bibliography:
 
-![[@Billett2004-il]]
-
 ![[@Billett2004-vj]]
 
 ![[@Bishop2009-co]]
+
+![[@Brown2004-oo]]
 
 ![[@Engestrom2004-bz]]
 

@@ -1,20 +1,17 @@
 ---
-author: "Alan Brown"
+author: "Ruth Carter"
 institution:
 field:
 type:
 aliases:
-  - Brown
+  - Carter
 ---
 
-## Alan Brown
+## Ruth Carter
 
 ### Content:
 [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
-[[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 
 #### Bibliography:
 
 ![[@Brown2004-oo]]
-
-![[@Fuller2016-xl]]

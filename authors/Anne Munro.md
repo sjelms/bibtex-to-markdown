@@ -10,8 +10,8 @@ aliases:
 ## Anne Munro
 
 ### Content:
-[[@Billett2004-il|Learning Through Work]]
 [[@Billett2004-vj|Learning Through Work]]
+[[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Fuller2004-dw|Introduction And Overview]]
@@ -26,9 +26,9 @@ aliases:
 
 #### Bibliography:
 
-![[@Billett2004-il]]
-
 ![[@Billett2004-vj]]
+
+![[@Brown2004-oo]]
 
 ![[@Engestrom2004-bz]]
 
