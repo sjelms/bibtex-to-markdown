@@ -12,6 +12,10 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - Psychology
+  - Knowledge-Skill-Acquisition
+  - Education
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]
