@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-06-27T07:05:45
+amended: 2026-06-28T14:04:26
 ---
 
 # Directory
@@ -32,6 +32,8 @@ amended: 2026-06-27T07:05:45
 - [[@Kusuma2016-ja|The Evolution Of Culture-Climate Interplay In Temporary Multi-Organisations - The Case Of Construction Alliancing Projects]]
 ### 2015
 - [[@Deng2015-rk|Performance Measurement System - Attributes, Effects And Context In UK Construction Firms]]
+### 2014
+- [[@Jensen2014-gh|Configuration Of Platform Architectures In Construction]]
 ### 2013
 - [[@Cuendet2013-tu|Tangible Interfaces For Learning - Training Spatial Skills In Vocational Classrooms]]
 ## 2000-2009

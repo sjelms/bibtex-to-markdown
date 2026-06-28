@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-27T07:05:45
+amended: 2026-06-28T14:04:26
 ---
 
 # Directory
@@ -77,8 +77,8 @@ amended: 2026-06-27T07:05:45
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]

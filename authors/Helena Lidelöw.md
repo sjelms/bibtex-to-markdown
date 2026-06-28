@@ -1,6 +1,6 @@
 ---
 author: "Helena Lidelöw"
-institution:
+institution: "[[Luleå University of Technology]]"
 field:
 type:
 aliases:
@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
+[[@Jensen2014-gh|Configuration Of Platform Architectures In Construction]]
 [[@Jensen2015-jp|Product Configuration In Construction]]
 [[@Lidelow2015-pk|Industriellt Husbyggande]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
@@ -20,6 +21,8 @@ aliases:
 #### Bibliography:
 
 ![[@Jansson2016-db]]
+
+![[@Jensen2014-gh]]
 
 ![[@Jensen2015-jp]]
 
