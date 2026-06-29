@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-29T06:19:21
+amended: 2026-06-29T08:45:05
 ---
 
 # Directory
@@ -42,6 +42,7 @@ amended: 2026-06-29T06:19:21
 - [[@Brown2021-vh|Research By Design - The Gantry]]
 - [[@Parong2021-uo|Multimedia Learning In Virtual And Mixed Reality]]
 - [[@Claypool2021-wg|Automation, Architecture, And Labour]]
+- [[@Bell2021-sw|Prefabrication]]
 - [[@Hyde2021-wa|Scaling Construction Robotics]]
 - [[@Youkhana2021-sm|The Allegorithmic Utopia Of Videogame Urbanism]]
 - [[@Ainsworth2021-ss|The Multiple Representations Principle In Multimedia Learning]]
@@ -77,8 +78,8 @@ amended: 2026-06-29T06:19:21
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -109,6 +110,7 @@ amended: 2026-06-29T06:19:21
 ### 2016
 - [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter]]
 - [[@Fuller2016-el|Developing Expertise - Occupational Versus Job-Based Approaches In Contemporary Labour Markets]]
+- [[@Hashemi2016-gh|Prefabrication]]
 - [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
 - [[@Barbour2016-ki|Technical, Arcane, Interpersonal, And Embodied Expertise]]
 - [[@Menacere2016-fn|When More Does Not Mean Better - Selecting A Research Methodology And Methods]]
