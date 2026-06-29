@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-06-29T08:45:05
+amended: 2026-06-29T08:46:17
 ---
 
 # Directory
@@ -39,6 +39,7 @@ amended: 2026-06-29T08:45:05
 - [[@Casini2022-fn|Introduction]]
 ### 2021
 - [[@Bartneck2021-qi|What Is AI?]]
+- [[@Petrovic2021-fn|Looking Back]]
 - [[@Brown2021-vh|Research By Design - The Gantry]]
 - [[@Parong2021-uo|Multimedia Learning In Virtual And Mixed Reality]]
 - [[@Claypool2021-wg|Automation, Architecture, And Labour]]

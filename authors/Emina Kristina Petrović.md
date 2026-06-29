@@ -1,20 +1,17 @@
 ---
-author: "Guy Marriage"
+author: "Emina Kristina Petrović"
 institution:
 field:
 type:
 aliases:
-  - Marriage
+  - Petrović
 ---
 
-## Guy Marriage
+## Emina Kristina Petrović
 
 ### Content:
-[[@Bell2021-sw|Prefabrication]]
 [[@Petrovic2021-fn|Looking Back]]
 
 #### Bibliography:
-
-![[@Bell2021-sw]]
 
 ![[@Petrovic2021-fn]]

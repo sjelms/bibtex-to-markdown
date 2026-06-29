@@ -110,6 +110,7 @@ category:
 [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
 [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
 [[@Perera2023-mp|Artificial Intelligence For Occupational Health And Safety Management In Construction]]
+[[@Petrovic2021-fn|Looking Back]]
 [[@Poortman2011-zl|Apprenticeship]]
 [[@Quale2017-uw|High-Performance Affordable Modular Homes]]
 [[@Quale2017-wv|Onsite Vs. Offsite]]
