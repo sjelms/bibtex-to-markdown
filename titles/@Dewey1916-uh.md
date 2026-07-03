@@ -13,9 +13,6 @@ tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
   - ePub
-  - _In-Notion
-  - _In-Readwise
-  - _New-Literature
   - Education
   - Columbia-University
   - Philosophy-of-Education

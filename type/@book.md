@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-06-29T08:46:17
+amended: 2026-07-03T15:34:24
 ---
 
 # Directory
@@ -430,6 +430,7 @@ amended: 2026-06-29T08:46:17
 - [[@Marx1939-as|Grundrisse - Foundations Of The Critique Of Political Economy]]
 ### 1938
 - [[@Dewey1938-kx|Experience And Education]]
+- [[@Dewey1938-bl|Logic - The Theory Of Inquiry]]
 ### 1934
 - [[@Vygotsky1934-rh|Thought And Language]]
 ## 1920-1929
@@ -438,6 +439,8 @@ amended: 2026-06-29T08:46:17
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]
 ### 1923
 - [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
+### 1922
+- [[@Dewey1922-al|Human Nature And Conduct - An Introduction To Social Psychology]]
 ## 1910-1919
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
