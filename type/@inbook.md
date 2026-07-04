@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-04T16:10:07
+amended: 2026-07-04T16:12:00
 ---
 
 # Directory
@@ -208,7 +208,6 @@ amended: 2026-07-04T16:10:07
 - [[@Blyton2007-kz|Skill]]
 ### 2006
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
-- [[@Watson2006-wj|John Broadus Watson]]
 ### 2004
 - [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 - [[@Fuller2004-ys|Conclusion]]
@@ -276,6 +275,9 @@ amended: 2026-07-04T16:10:07
 ## 1940-1949
 ### 1949
 - [[@Merton1949-hs|On Sociological Theories Of The Middle Range]]
+## 1930-1939
+### 1936
+- [[@Watson1936-uw|John Broadus Watson]]
 ## 1880-1889
 ### 1887
 - [[@Huxley1887-mi|Technical Education]]

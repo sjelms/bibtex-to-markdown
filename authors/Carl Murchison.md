@@ -10,8 +10,8 @@ aliases:
 ## Carl Murchison
 
 ### Content:
-[[@Watson2006-wj|John Broadus Watson]]
+[[@Watson1936-uw|John Broadus Watson]]
 
 #### Bibliography:
 
-![[@Watson2006-wj]]
+![[@Watson1936-uw]]

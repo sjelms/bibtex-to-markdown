@@ -10,4 +10,4 @@ category:
 ## Clark University Press
 
 ### Content:
-[[@Watson2006-wj|John Broadus Watson]]
+[[@Watson1936-uw|John Broadus Watson]]
