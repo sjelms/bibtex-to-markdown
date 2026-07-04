@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-04T13:04:38
+amended: 2026-07-04T16:10:07
 ---
 
 # Directory
@@ -208,6 +208,7 @@ amended: 2026-07-04T13:04:38
 - [[@Blyton2007-kz|Skill]]
 ### 2006
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
+- [[@Watson2006-wj|John Broadus Watson]]
 ### 2004
 - [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 - [[@Fuller2004-ys|Conclusion]]
