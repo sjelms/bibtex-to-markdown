@@ -1,11 +1,12 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-04T07:32:11
+amended: 2026-07-04T13:04:38
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
+- [[@Johnston2026-bz|On Reality, Experience, And Truth - John Watson's Unpublished Notes On John Dewey]]
 - [[@Carollo2026-is|Revisiting Adam Smith And The Division Of Labor - New Evidence From U.s. Occupational Data]]
 - [[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0 - An Accreditation-Aligned Competency Framework And Review]]
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
