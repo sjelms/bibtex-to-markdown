@@ -21,6 +21,7 @@ tags:
   - 003_Theoretical-Framework
   - llm-wiki-workflow
   - Marx_Labor
+  - 003_NBLM
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise
