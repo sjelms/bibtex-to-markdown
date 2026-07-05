@@ -13,6 +13,8 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - Philosophy-of-Education
+  - Education
 ---
 
 > [!bibliography]
