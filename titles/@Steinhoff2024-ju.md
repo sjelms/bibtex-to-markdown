@@ -16,6 +16,7 @@ tags:
   - 003_Theoretical-Framework
   - Braverman
   - Marx_Labor
+  - 003_NBLM
   - Labor
   - Economics
 ---
