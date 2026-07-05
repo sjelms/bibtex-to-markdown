@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-05T13:11:13
+amended: 2026-07-05T14:08:20
 ---
 
 # Directory
@@ -420,6 +420,8 @@ amended: 2026-07-05T13:11:13
 - [[@Skinner1957-xf|Verbal Behavior]]
 ### 1956
 - [[@Bloom1956-ix|Taxonomy Of Educational Objectives - The Classification Of Educational Goals]]
+### 1954
+- [[@Rotter1954-ua|Social Learning And Clinical Psychology]]
 ### 1952
 - [[@Ashby1952-yz|Design For A Brain - The Origin Of Adaptive Behaviour]]
 ### 1951
