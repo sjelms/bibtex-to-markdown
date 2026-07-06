@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-05T14:08:20
+amended: 2026-07-06T09:22:22
 ---
 
 # Directory
@@ -427,6 +427,7 @@ amended: 2026-07-05T14:08:20
 ## 1980-1989
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
+- [[@Lagemann1989-vu|The Plural Worlds Of Educational Research]]
 - [[@Brown1989-lt|Situated Cognition And The Culture Of Learning]]
 ### 1988
 - [[@Baldwin1988-bg|Transfer Of Training - A Review And Directions For Future Research]]
