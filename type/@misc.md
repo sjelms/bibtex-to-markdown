@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-07-06T09:30:08
+amended: 2026-07-06T14:58:05
 ---
 
 # Directory
@@ -116,3 +116,5 @@ amended: 2026-07-06T09:30:08
 ## 1910-1919
 ### 1918
 - [[@Blodgett1918-km|Doing Farm Work By Motor Tractor - Agriculture Simplified And Food Supply Increased By Labor-Saving Machinery;-Stage School For Operators]]
+### 1914
+- [[@Dewey1914-hd|A Policy Of Industrial Education]]
