@@ -12,6 +12,9 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_NBLM
+  - Philosophy-of-Education
+  - Education
+  - Columbia-University
 ---
 
 > [!bibliography]
