@@ -11,7 +11,10 @@ aliases:
 
 ### Content:
 [[@Skinner1948-at|Verbal Behavior]]
+[[@Skinner1957-xf|Verbal Behavior]]
 
 #### Bibliography:
 
 ![[@Skinner1948-at]]
+
+![[@Skinner1957-xf]]
