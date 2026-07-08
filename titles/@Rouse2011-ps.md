@@ -14,6 +14,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Psychology
   - Training
+  - job-satisfaction
 ---
 
 > [!bibliography]
