@@ -16,6 +16,7 @@ tags:
   - Pocket-Study-Skills
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - PhD-Study-and-Support
   - RNIB
   - PhD-Support-and-Training
 ---
