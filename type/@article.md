@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-18T10:30:52
+amended: 2026-07-18T13:11:23
 ---
 
 # Directory
@@ -138,6 +138,7 @@ amended: 2026-07-18T10:30:52
 - [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
 - [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities]]
 - [[@Daniel2019-pz|Apprenticeship For Craftspeople In The Construction Industry - A State-Of-The-Art Review]]
+- [[@Belleville2019-cr|Sit Down And Write Your Thesis! Practical And Motivational Tips For Scientific Writing]]
 - [[@Hodgson2019-vu|Taxonomic Definitions In Social Science, With Firms, Markets And Institutions As Case Studies]]
 - [[@Randhawa2019-so|The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals]]
 - [[@Nassereddine2019-ox|Augmented Reality-Enabled Production Strategy Process]]
@@ -179,6 +180,7 @@ amended: 2026-07-18T10:30:52
 - [[@Bell2017-oz|100 Years Of Training And Development Research - What We Know And Where We Should Go]]
 - [[@Frey2017-ix|The Future Of Employment - How Susceptible Are Jobs To Computerisation?]]
 - [[@Kivunja2017-zr|Understanding And Applying Research Paradigms In Educational Contexts]]
+- [[@Golding2017-ol|Advice For Writing A Thesis (based On What Examiners Do)]]
 - [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
 - [[@Guile2017-qd|Apprenticeship For ‘liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment]]
 - [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]

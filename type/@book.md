@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-18T10:30:52
+amended: 2026-07-18T13:11:23
 ---
 
 # Directory
@@ -44,6 +44,7 @@ amended: 2026-07-18T10:30:52
 - [[@Williams2023-bn|Planning Your Dissertation]]
 - [[@Potseluyko2023-wx|Platform Based Design And Immersive Technologies For Manufacturing And Assembly In Offsite Construction - Applying Extended Reality And Game Applications To Pdfma]]
 - [[@Kluck2023-vg|Modularization - The Fine Art Of Offsite Preassembly For Capital Projects]]
+- [[@Bottery2023-zi|Writing A Watertight Thesis - Structure, Demystification And Defence]]
 - [[@Denzin2023-mp|The SAGE Handbook Of Qualitative Research]]
 - [[@Hopkins2023-zi|Reading Architecture - A Visual Lexicon]]
 - [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]
@@ -178,6 +179,7 @@ amended: 2026-07-18T10:30:52
 - [[@Robinson2017-sf|Out Of Our Minds - The Power Of Being Creative]]
 - [[@Schwab2017-js|The Fourth Industrial Revolution]]
 - [[@Tegmark2017-rd|Life 3.0 - Being Human In The Age Of Artificial Intelligence]]
+- [[@Gruba2017-ga|How To Write Your First Thesis]]
 - [[@Smith2017-zx|Offsite Architecture - Constructing The Future]]
 ### 2016
 - [[@Christian2016-pv|Algorithms To Live By - The Computer Science Of Human Decisions]]

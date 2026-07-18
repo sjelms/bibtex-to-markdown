@@ -18,6 +18,7 @@ category:
 [[@Fiala2020-ik|Using Virtual Reality Simulations To Encourage Reflective Learning In Construction Workers]]
 [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
 [[@Goller2022-gc|Methods For Researching Professional Learning And Development]]
+[[@Gruba2017-ga|How To Write Your First Thesis]]
 [[@Hall2022-de|New Business Models For Industrialized Construction]]
 [[@Hashemi2016-gh|Prefabrication]]
 [[@Ju2021-le|Evaluating Critical Reinforcement Learning Framework In The Field]]

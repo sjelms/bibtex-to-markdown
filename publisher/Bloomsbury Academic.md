@@ -10,6 +10,7 @@ category:
 ## Bloomsbury Academic
 
 ### Content:
+[[@Bottery2023-zi|Writing A Watertight Thesis]]
 [[@Freire2000-pt|Pedagogy Of The Oppressed]]
 [[@Freire2014-dj|Pedagogy Of Hope]]
 [[@Giroux2020-sp|On Critical Pedagogy]]
