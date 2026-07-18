@@ -16,6 +16,7 @@ tags:
   - Speechify
   - llm-wiki-workflow
   - Marx_Labor
+  - Thesis-Writing
   - PhD-Support-and-Training
   - ePub
 ---

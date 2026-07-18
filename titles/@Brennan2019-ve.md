@@ -13,6 +13,7 @@ tags:
   - PhD-Study-and-Support
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Thesis-Writing
   - PhD-Support-and-Training
   - _New-Literature
 ---
