@@ -1,5 +1,5 @@
 ---
-author: "Omoseni Adepoju"
+author: "Omoseni Oyindamola Adepoju"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Adepoju
 ---
 
-## Omoseni Adepoju
+## Omoseni Oyindamola Adepoju
 
 ### Content:
 [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0]]
