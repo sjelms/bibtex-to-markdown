@@ -10,6 +10,7 @@ category:
 ## Springer International Publishing
 
 ### Content:
+[[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 [[@Bartneck2021-qi|What Is AI?]]
 [[@Biocca2015-km|Immersed In Media]]
 [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]

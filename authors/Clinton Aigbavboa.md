@@ -11,10 +11,13 @@ aliases:
 
 ### Content:
 [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0]]
+[[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
 
 #### Bibliography:
 
 ![[@Adepoju2022-bj]]
+
+![[@Adepoju2022-uz]]
 
 ![[@Aliu2019-hy]]

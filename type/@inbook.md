@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-19T11:39:31
+amended: 2026-07-19T11:49:26
 ---
 
 # Directory
@@ -37,6 +37,7 @@ amended: 2026-07-19T11:39:31
 - [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
 - [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
+- [[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 ### 2021
 - [[@Bartneck2021-qi|What Is AI?]]
 - [[@Petrovic2021-fn|Looking Back]]
