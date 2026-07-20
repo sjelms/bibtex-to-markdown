@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-20T06:41:23
+amended: 2026-07-20T07:01:56
 ---
 
 # Directory
@@ -333,6 +333,7 @@ amended: 2026-07-20T06:41:23
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]
+- [[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
 - [[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
 - [[@Lajoie2005-xt|Extending The Scaffolding Metaphor]]
 - [[@Friesner2005-io|Learning Logs - Assessment Or Research Method?]]

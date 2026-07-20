@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce]]
+[[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
 [[@Hegazy2013-dm|Hands-On Exercise For Enhancing Students’ Construction Management Skills]]
 [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 [[@Jarkas2012-fy|Factors Affecting Construction Labor Productivity In Kuwait]]

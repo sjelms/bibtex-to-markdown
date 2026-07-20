@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
+[[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
 [[@Minooei2020-uz|Young Talent Motivations To Pursue Craft Careers In Construction]]
 [[@Pan2020-aw|Understanding The Determinants Of Construction Robot Adoption]]
 [[@Pan2022-rw|Artificial Intelligence And Robotics For Prefabricated And Modular Construction]]
