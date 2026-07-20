@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-19T15:13:47
+amended: 2026-07-20T06:36:57
 ---
 
 # Directory
@@ -440,6 +440,8 @@ amended: 2026-07-19T15:13:47
 ### 1934
 - [[@Vygotsky1934-rh|Thought And Language]]
 ## 1920-1929
+### 1927
+- [[@Dewey1927-hm|The Public And Its Problems - An Essay In Political Inquiry]]
 ### 1926
 - [[@Lindeman1926-ln|The Meaning Of Adult Education]]
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]

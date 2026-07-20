@@ -13,6 +13,7 @@ aliases:
 [[@Dewey1914-hd|A Policy Of Industrial Education]]
 [[@Dewey1916-uh|Democracy And Education]]
 [[@Dewey1922-al|Human Nature And Conduct]]
+[[@Dewey1927-hm|The Public And Its Problems]]
 [[@Dewey1938-bl|Logic]]
 [[@Dewey1938-kx|Experience And Education]]
 
@@ -23,6 +24,8 @@ aliases:
 ![[@Dewey1916-uh]]
 
 ![[@Dewey1922-al]]
+
+![[@Dewey1927-hm]]
 
 ![[@Dewey1938-bl]]
 

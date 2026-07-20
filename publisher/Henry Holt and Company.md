@@ -11,4 +11,5 @@ category:
 
 ### Content:
 [[@Dewey1922-al|Human Nature And Conduct]]
+[[@Dewey1927-hm|The Public And Its Problems]]
 [[@Dewey1938-bl|Logic]]
