@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-20T07:01:56
+amended: 2026-07-21T14:01:02
 ---
 
 # Directory
@@ -342,6 +342,7 @@ amended: 2026-07-20T07:01:56
 - [[@Canipe2004-pn|Kentucky's Moonlight Schools - An Enduring Legacy Of Adult Learning Principles And Practice]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
 - [[@Gibbons2004-de|Task-Specific Human Capital]]
+- [[@Paavola2004-yu|Models Of Innovative Knowledge Communities And Three Metaphors Of Learning]]
 - [[@Billett2004-lx|Workplace Participatory Practices - Conceptualising Workplaces As Learning Environments]]
 - [[@Millhauser2004-jd|Cat 'n' Mouse]]
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]
