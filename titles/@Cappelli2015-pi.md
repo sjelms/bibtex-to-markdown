@@ -5,7 +5,7 @@ author - 1: "[[Peter H Cappelli]]"
 key: "[[@Cappelli2015-pi]]"
 aliases:
   - Skill Gaps, Skill Shortages, And Skill Mismatches
-journal: "[[Industrial and labor relations review]]"
+journal: "[[Industrial and Labor Relations Review]]"
 publisher: "[[SAGE Publications]]"
 volume: 68
 type: "[[@article]]"
