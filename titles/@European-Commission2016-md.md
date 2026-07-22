@@ -16,6 +16,9 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - European-Union
+  - Report
+  - Knowledge-Skill-Acquisition
+  - Skill-demand
 ---
 
 > [!bibliography]
