@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Ainley2020-vq|Apprenticeship]]
+[[@Ashton2004-dg|The Political Economy Of Workplace Learning]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
@@ -30,6 +31,8 @@ aliases:
 #### Bibliography:
 
 ![[@Ainley2020-vq]]
+
+![[@Ashton2004-dg]]
 
 ![[@Billett2004-vj]]
 

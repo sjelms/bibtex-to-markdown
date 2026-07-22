@@ -15,6 +15,7 @@ aliases:
 ## Alison Fuller
 
 ### Content:
+[[@Ashton2004-dg|The Political Economy Of Workplace Learning]]
 [[@Billett2004-vj|Learning Through Work]]
 [[@Bishop2009-co|Constructing Learning]]
 [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
@@ -57,6 +58,8 @@ aliases:
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 
 #### Bibliography:
+
+![[@Ashton2004-dg]]
 
 ![[@Billett2004-vj]]
 
