@@ -15,6 +15,7 @@ tags:
   - Workplace-Learning
   - Future-of-Work
   - Labor
+  - VET
 ---
 
 > [!bibliography]

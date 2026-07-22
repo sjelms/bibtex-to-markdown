@@ -13,6 +13,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Skill-demand
   - Labor
+  - VET
 ---
 
 > [!bibliography]
