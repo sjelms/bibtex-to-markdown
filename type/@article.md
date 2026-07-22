@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-22T13:32:51
+amended: 2026-07-22T13:34:51
 ---
 
 # Directory
@@ -262,6 +262,7 @@ amended: 2026-07-22T13:32:51
 - [[@Bergold2012-te|Participatory Research Methods - A Methodological Approach In Motion]]
 - [[@Ord2012-tv|John Dewey And Experiential Learning - Developing The Theory Of Youth Work]]
 - [[@Abdel-Wahab2012-so|Rethinking Apprenticeship Training In The British Construction Industry]]
+- [[@Leoni2012-ml|Workplace Design, Complementarities Among Work Practices, And The Formation Of Key Competencies - Evidence From Italian Employees]]
 ### 2011
 - [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
