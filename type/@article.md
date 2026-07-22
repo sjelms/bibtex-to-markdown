@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-22T07:04:51
+amended: 2026-07-22T09:27:08
 ---
 
 # Directory
@@ -74,6 +74,7 @@ amended: 2026-07-22T07:04:51
 - [[@Glass2022-ms|Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction]]
 - [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 - [[@Whyte2022-my|Making Futures That Matter - Future Making, Online Working And Organizing Remotely]]
+- [[@Routh2022-iw|Using Learning Theories To Develop A Veterinary Student Preparedness Toolkit For Workplace Clinical Training]]
 - [[@Nielsen2022-sr|A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction]]
 - [[@Jones2022-kp|Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms]]
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
