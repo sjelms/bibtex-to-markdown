@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-22T13:34:51
+amended: 2026-07-22T13:50:20
 ---
 
 # Directory
@@ -110,6 +110,7 @@ amended: 2026-07-22T13:34:51
 - [[@Pearson2020-je|England’s Co-Operative Movement - An Architectural History]]
 - [[@Wooldridge2020-ip|The Road To Conscious Machines - The Story Of AI]]
 - [[@Brockmann2020-sf|On-The-Job Training In Apprenticeship In England]]
+- [[@OECD2020-dl|OECD Skills Studies Strengthening The Governance Of Skills Systems Lessons From Six OECD Countries - Lessons From Six OECD Countries]]
 - [[@Ainley2020-vq|Apprenticeship - Towards A New Paradigm Of Learning]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
@@ -308,6 +309,7 @@ amended: 2026-07-22T13:34:51
 - [[@Lawson2006-pz|How Designers Think]]
 - [[@Levy2006-si|The New Division Of Labor - How Computers Are Creating The Next Job Market]]
 - [[@Young2006-fl|Knowledge, Curriculum And Qualifications For South African Further Education]]
+- [[@OECD2006-nt|Education Policy Analysis 2006]]
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
 ### 2005
 - [[@Danermark2005-wo|Explaining Society - An Introduction To Critical Realism In The Social Sciences]]
@@ -324,6 +326,7 @@ amended: 2026-07-22T13:34:51
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
 ### 2001
 - [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
+- [[@OECD2001-sp|Education Policy Analysis 2001]]
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
