@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-22T09:27:08
+amended: 2026-07-22T09:27:36
 ---
 
 # Directory
@@ -316,6 +316,7 @@ amended: 2026-07-22T09:27:08
 - [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 - [[@Chan2007-ad|Productivity Improvements - Understand The Workforce Perceptions Of Productivity First]]
 ### 2006
+- [[@Bleakley2006-zo|Broadening Conceptions Of Learning In Medical Education - The Message From Teamworking]]
 - [[@Fuller2006-ki|Continuity, Change And Conflict - The Role Of Learning And Knowing In Different Productive Systems]]
 - [[@Autor2006-eo|The Polarization Of The U.s. Labor Market]]
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]
