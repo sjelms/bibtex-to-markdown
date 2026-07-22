@@ -1,6 +1,6 @@
 ---
 author: "Martin Quinn"
-institution:
+institution: "[[Department for Trade and Industry]]"
 field:
 type:
 aliases:

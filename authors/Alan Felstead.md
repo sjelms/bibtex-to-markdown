@@ -1,6 +1,7 @@
 ---
 author: "Alan Felstead"
 institution:
+  - "[[Department for Trade and Industry]]"
   - "[[ESRC Research Centre on Skills]]"
   - "[[Government Office for Science]]"
   - "[[Knowledge and Organizational Performance]]"

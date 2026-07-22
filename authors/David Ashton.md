@@ -1,6 +1,6 @@
 ---
 author: "David Ashton"
-institution:
+institution: "[[Department for Trade and Industry]]"
 field:
 type:
 aliases:

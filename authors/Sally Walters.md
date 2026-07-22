@@ -1,6 +1,6 @@
 ---
 author: "Sally Walters"
-institution:
+institution: "[[Department for Trade and Industry]]"
 field:
 type:
 aliases:

@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-07-21T14:01:02
+amended: 2026-07-22T07:04:51
 ---
 
 # Directory
@@ -113,6 +113,8 @@ amended: 2026-07-21T14:01:02
 ### 2007
 - [[@Felstead2007-kc|Performing Identities At Work - Evidence From Contrasting Sectors]]
 - [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
+### 2003
+- [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 ### 2002
 - [[@Glaeser2002-vs|The Impact Of Zoning On Housing Affordability]]
 ### 2001

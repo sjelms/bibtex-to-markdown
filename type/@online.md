@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-07-21T14:01:02
+amended: 2026-07-22T07:04:51
 ---
 
 # Directory
@@ -85,7 +85,6 @@ amended: 2026-07-21T14:01:02
 ### 2006
 - [[@Briscoe2006-xc|Metcalfe’s Law Is Wrong]]
 ### 2003
-- [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 - [[@Stone2003-jo|Where Is Appalachia?]]
 ## Unknown Year
 - [[@United_States_Department_of_Labor_undated-oc|Worker Organizing Resource And Knowledge Center]]
