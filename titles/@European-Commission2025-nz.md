@@ -10,9 +10,9 @@ institution: "[[European Commission]]"
 publisher: "[[Publications Office of the European Union]]"
 type: "[[@report]]"
 tags:
-  - Government-Report
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - European-Union
   - Politics-and-Society
   - Economics
   - AEC
