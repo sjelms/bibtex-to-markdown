@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-22T14:33:53
+amended: 2026-07-22T14:55:28
 ---
 
 # Directory
@@ -247,6 +247,7 @@ amended: 2026-07-22T14:33:53
 ### 1998
 - [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?]]
 - [[@Baldry1998-ba|‘bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
+- [[@Dybowski1998-qn|New Technologies And Work Organization Impact On Vocational Education And Training]]
 - [[@Greenbaum1998-ih|The Times They Are A'changing - Dividing And Recombining Labour Through Computer Systems]]
 - [[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities]]
 - [[@Beirne1998-sy|Developments In Computing Work - Control And Contradiction In The Software Labour Process]]

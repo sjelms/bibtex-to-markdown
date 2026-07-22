@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-07-22T14:33:53
+amended: 2026-07-22T14:55:28
 ---
 
 # Directory
@@ -121,4 +121,5 @@ amended: 2026-07-22T14:33:53
 - [[@Winter2001-it|A Community Guide To Factory-Built Housing]]
 ## 1990-1999
 ### 1998
+- [[@CEDEFOP1998-op|Vocational Education And Training - The European Research Field]]
 - [[@Gott1998-ww|Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks]]
