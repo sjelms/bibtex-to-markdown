@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Inkpen1998-os|Learning And Knowledge Acquisition Through International Strategic Alliances]]
+[[@Liker2006-as|The Toyota Way In Services]]

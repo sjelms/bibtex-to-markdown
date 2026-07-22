@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-22T09:27:36
+amended: 2026-07-22T13:32:51
 ---
 
 # Directory
@@ -321,6 +321,7 @@ amended: 2026-07-22T09:27:36
 - [[@Autor2006-eo|The Polarization Of The U.s. Labor Market]]
 - [[@Taylor2006-hm|Making Meaning Of Local Nonformal Education - Practitioner’s Perspective]]
 - [[@Wing2006-tj|Computational Thinking]]
+- [[@Liker2006-as|The Toyota Way In Services - The Case Of Lean Product Development]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
 - [[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
 - [[@Billett2006-hp|Constituting The Workplace Curriculum]]
