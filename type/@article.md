@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-22T15:14:01
+amended: 2026-07-24T07:26:10
 ---
 
 # Directory
@@ -80,6 +80,7 @@ amended: 2026-07-22T15:14:01
 - [[@Jelonek2022-og|Evaluating Virtual Reality Simulations For Construction Safety Training]]
 - [[@Pan2022-rw|Artificial Intelligence And Robotics For Prefabricated And Modular Construction - A Systematic Literature Review]]
 - [[@Assaad2022-zl|The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs]]
+- [[@Shum2022-yx|Framing Professional Learning Analytics As Reframing Oneself]]
 - [[@Green2022-hf|Modern Methods Of Construction - Reflections On The Current Research Agenda]]
 - [[@Guzsvinecz2022-jl|Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR]]
 - [[@Mitchell2022-ds|Where Does All The ‘know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
