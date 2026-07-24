@@ -16,5 +16,6 @@ category:
 [[@Burawoy1979-kf|Manufacturing Consent]]
 [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
 [[@Lagemann2000-fz|An Elusive Science]]
+[[@Pickering1995-bn|The Mangle Of Practice]]
 [[@Polanyi1966-zb|The Tacit Dimension]]
 [[@Van-Maanen2011-bf|Tales Of The Field]]

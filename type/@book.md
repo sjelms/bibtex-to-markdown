@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-24T07:26:10
+amended: 2026-07-24T07:55:08
 ---
 
 # Directory
@@ -344,6 +344,7 @@ amended: 2026-07-24T07:26:10
 - [[@Wood1997-we|How Children Think And Learn]]
 - [[@Burns1997-gn|Introduction To Research Methods]]
 ### 1995
+- [[@Pickering1995-bn|The Mangle Of Practice - Time, Agency, And Science]]
 - [[@Casey1995-nc|Work, Self And Society - After Industrialism]]
 - [[@Hutchins1995-sg|Cognition In The Wild]]
 - [[@Nonaka1995-xj|The Knowledge-Creating Company - How Japanese Companies Create The Dynamics Of Innovation]]
