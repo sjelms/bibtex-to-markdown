@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T09:26:58
+amended: 2026-07-25T09:33:45
 ---
 
 # Directory
@@ -355,6 +355,7 @@ amended: 2026-07-25T09:26:58
 - [[@Vygotsky1994-rw|The Vygotsky Reader]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
 ### 1993
+- [[@Ortony1993-si|Metaphor And Thought]]
 - [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
 ### 1992
 - [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
