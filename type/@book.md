@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T13:45:40
+amended: 2026-07-25T13:46:13
 ---
 
 # Directory
@@ -300,6 +300,7 @@ amended: 2026-07-25T13:45:40
 - [[@Engestrom2008-wp|From Teams To Knots - Activity-Theoretical Studies Of Collaboration And Learning At Work]]
 ### 2007
 - [[@Pursell2007-xe|The Machine In America - A Social History Of Technology]]
+- [[@Womack2007-he|The Machine That Changed The World - The Story Of Lean Production — Toyota's Secret Weapon In The Global Car Wars That Is Now Revolutionizing World Industry]]
 - [[@Koppes2007-et|Historical Perspectives In Industrial And Organizational Psychology]]
 - [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
 - [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
