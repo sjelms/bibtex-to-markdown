@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T14:11:37
+amended: 2026-07-25T14:52:07
 ---
 
 # Directory
@@ -388,6 +388,8 @@ amended: 2026-07-25T14:11:37
 - [[@Goodhart1984-qa|Monetary Theory And Practice - The UK Experience]]
 - [[@Schon1984-nn|The Reflective Practitioner - How Professionals Think In Action]]
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]
+### 1983
+- [[@Rogers1983-rp|The Acquisition Of Symbolic Skills]]
 ### 1982
 - [[@Olson1982-xs|The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities]]
 ### 1981

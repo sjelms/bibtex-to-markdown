@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-25T14:11:37
+amended: 2026-07-25T14:52:07
 ---
 
 # Directory
@@ -275,6 +275,8 @@ amended: 2026-07-25T14:11:37
 - [[@Wertsch1985-kw|Vygotsky - The Man And His Theory]]
 - [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 - [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
+### 1983
+- [[@Neisser1983-cm|Toward A Skillful Psychology]]
 ## 1970-1979
 ### 1978
 - [[@Cole1978-ju|Introduction]]
