@@ -20,7 +20,7 @@ tags:
 ---
 
 > [!bibliography]
-> Lakoff, George, Mark Johnson. 1980. "Conceptual metaphor in everyday language." Vol. 77. [[Philosophy Documentation Center]]. http://dx.doi.org/10.2307/2025464
+> Lakoff, George, Mark Johnson. 1980. "Conceptual metaphor in everyday language." Vol. 77. [[Philosophy Documentation Center]].
 
 > [!abstract]
 > Until recently, philosophers have tended either to berate metaphor as irrational and dangerous or to ignore it, reducing it to the status of a subsidiary problem in the philosophy of language. Literal language, assumed to be mutually exclusive with metaphor, has been taken to be the real stuff of philosophy: the domain where issues of meaning and truth arise and can be addressed. At best, metaphor is treated as if it were always the result of some operation performed upon the literal meaning of an utterance. The phenomenon of “conventional metaphor,” where much of our ordinary conceptual system and the bulk of our everyday conventional language are structured and understood primarily in metaphorical terms, has gone either unnoticed or undiscussed.
