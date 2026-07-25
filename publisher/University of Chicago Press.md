@@ -15,6 +15,7 @@ category:
 [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox]]
 [[@Burawoy1979-kf|Manufacturing Consent]]
 [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
+[[@Hughes1989-it|American Genesis]]
 [[@Lagemann2000-fz|An Elusive Science]]
 [[@Pickering1995-bn|The Mangle Of Practice]]
 [[@Polanyi1966-zb|The Tacit Dimension]]

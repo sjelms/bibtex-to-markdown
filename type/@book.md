@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T11:55:04
+amended: 2026-07-25T13:44:46
 ---
 
 # Directory
@@ -187,6 +187,7 @@ amended: 2026-07-25T11:55:04
 - [[@Newport2016-kk|Deep Work - Rules For Focused Success In A Distracted World]]
 - [[@Newport2016-ye|So Good They Can't Ignore You - Why Skills Trump Passion In The Quest For Work You Love]]
 - [[@Dawson2016-gj|100 Activities For Teaching Research Methods]]
+- [[@Roser2016-pm|Faster, Better, Cheaper In The History Of Manufacturing - From The Stone Age To Lean Manufacturing And Beyond]]
 - [[@Steinicke2016-nh|Being Really Virtual - Immersive Natives And The Future Of Virtual Reality]]
 - [[@Knapp2016-al|Sprint - How To Solve Big Problems And Test New Ideas In Just Five Days]]
 - [[@Aitchison2016-ok|The Architecture Of Industry - Changing Paradigms In Industrial Building And Planning]]
@@ -366,6 +367,8 @@ amended: 2026-07-25T11:55:04
 ### 1990
 - [[@Marsick1990-un|Informal And Incidental Learning In The Workplace]]
 ## 1980-1989
+### 1989
+- [[@Hughes1989-it|American Genesis - A Century Of Invention And Technological Enthusiasm, 1870-1970]]
 ### 1988
 - [[@Moravec1988-jt|Mind Children - The Future Of Robot And Human Intelligence]]
 - [[@Dreyfus1988-pf|Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer]]
@@ -402,6 +405,7 @@ amended: 2026-07-25T11:55:04
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
 ### 1976
 - [[@Schumpeter1976-zs|Capitalism, Socialism, And Democracy]]
+- [[@Neisser1976-qv|Cognition And Reality - Principles And Implications Of Cognitive Psychology]]
 ### 1975
 - [[@Novack1975-sc|Pragmatism Versus Marxism - An Appraisal Of John Dewey's Philosophy]]
 - [[@Bhaskar1975-rq|A Realist Theory Of Science]]
