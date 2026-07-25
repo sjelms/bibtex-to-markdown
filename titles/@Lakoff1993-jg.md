@@ -12,6 +12,7 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - Metaphor-and-Thought
   - Philosophy-of-Education
   - PhD-Support-and-Training
 ---
