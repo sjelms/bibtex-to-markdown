@@ -16,6 +16,7 @@ category:
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]
 [[@Billett2002-bq|Critiquing Workplace Learning Discourses]]
 [[@Billett2002-ry|Workplace Pedagogic Practices]]
+[[@Billett2004-xi|Building Community Through Social Partnerships Around Vocational Education And Training]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]

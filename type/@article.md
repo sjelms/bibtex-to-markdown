@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-25T14:52:07
+amended: 2026-07-25T15:15:48
 ---
 
 # Directory
@@ -348,6 +348,7 @@ amended: 2026-07-25T14:52:07
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
 - [[@Gibbons2004-de|Task-Specific Human Capital]]
 - [[@Paavola2004-yu|Models Of Innovative Knowledge Communities And Three Metaphors Of Learning]]
+- [[@Billett2004-xi|Building Community Through Social Partnerships Around Vocational Education And Training]]
 - [[@Billett2004-lx|Workplace Participatory Practices - Conceptualising Workplaces As Learning Environments]]
 - [[@Millhauser2004-jd|Cat 'n' Mouse]]
 - [[@Dreyfus2004-ip|The Five-Stage Model Of Adult Skill Acquisition]]

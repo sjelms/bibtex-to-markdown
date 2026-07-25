@@ -12,6 +12,7 @@ category:
 ### Content:
 [[@Abdel-Wahab2012-so|Rethinking Apprenticeship Training In The British Construction Industry]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
+[[@Billett2004-xi|Building Community Through Social Partnerships Around Vocational Education And Training]]
 [[@Butler1998-ph|The Learning Context Within Technical And Further Education Colleges As Perceived By Apprentices And Their Workplace Supervisors]]
 [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 [[@Guile1998-yz|Apprenticeship As A Conceptual Basis For A Social Theory Of Learning]]

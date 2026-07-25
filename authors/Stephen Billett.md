@@ -21,6 +21,7 @@ aliases:
 [[@Billett2003-kh|Vocational Curriculum And Pedagogy]]
 [[@Billett2004-lx|Workplace Participatory Practices]]
 [[@Billett2004-vj|Learning Through Work]]
+[[@Billett2004-xi|Building Community Through Social Partnerships Around Vocational Education And Training]]
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Billett2008-kx|Learning Through Work]]
@@ -56,6 +57,8 @@ aliases:
 ![[@Billett2004-lx]]
 
 ![[@Billett2004-vj]]
+
+![[@Billett2004-xi]]
 
 ![[@Billett2006-hp]]
 
