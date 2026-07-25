@@ -10,6 +10,7 @@ publisher: "[[W H Freeman]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Psychology
 ---
 
 > [!bibliography]
