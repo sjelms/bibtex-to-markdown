@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-25T08:02:05
+amended: 2026-07-25T08:33:42
 ---
 
 # Directory
@@ -450,6 +450,8 @@ amended: 2026-07-25T08:02:05
 - [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
 ### 1981
 - [[@Reingold1981-cb|Tidier Drawings Of Trees]]
+### 1980
+- [[@Lakoff1980-br|Conceptual Metaphor In Everyday Language]]
 ## 1970-1979
 ### 1979
 - [[@Kirkpatrick1979-al|Techniques For Evaluating Training Programs]]
