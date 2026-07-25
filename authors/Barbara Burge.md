@@ -1,20 +1,20 @@
 ---
-author: "Edwin Hutchins"
+author: "Barbara Burge"
 institution:
 field:
 type:
 aliases:
-  - Hutchins
+  - Burge
 ---
 
-## Edwin Hutchins
+## Barbara Burge
 
 ### Content:
-[[@Hutchins1995-sg|Cognition In The Wild]]
 [[@Hutchins1997-uw|Constructing Meaning From Space, Gesture, And Speech]]
+[[@Resnick1997-ju|Discourse, Tools, And Reasoning]]
 
 #### Bibliography:
 
-![[@Hutchins1995-sg]]
-
 ![[@Hutchins1997-uw]]
+
+![[@Resnick1997-ju]]

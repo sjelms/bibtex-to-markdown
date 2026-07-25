@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T15:26:06
+amended: 2026-07-25T15:29:20
 ---
 
 # Directory
@@ -344,6 +344,7 @@ amended: 2026-07-25T15:26:06
 - [[@Thompson1998-mr|Workplaces Of The Future]]
 ### 1997
 - [[@Wood1997-we|How Children Think And Learn]]
+- [[@Resnick1997-ju|Discourse, Tools, And Reasoning - Essays On Situated Cognition]]
 - [[@Burns1997-gn|Introduction To Research Methods]]
 ### 1995
 - [[@Pickering1995-bn|The Mangle Of Practice - Time, Agency, And Science]]
@@ -493,5 +494,5 @@ amended: 2026-07-25T15:26:06
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]

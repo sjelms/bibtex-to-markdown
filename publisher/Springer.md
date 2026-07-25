@@ -27,3 +27,4 @@ category:
 [[@Nonaka2022-du|The SECI Model]]
 [[@Nonaka2022-vg|Management By Eidetic Intuition]]
 [[@Pilz2024-cr|Informal Learning In Vocational Education And Training]]
+[[@Resnick1997-ju|Discourse, Tools, And Reasoning]]

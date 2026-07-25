@@ -1,20 +1,17 @@
 ---
-author: "Edwin Hutchins"
+author: "Leysia Palen"
 institution:
 field:
 type:
 aliases:
-  - Hutchins
+  - Palen
 ---
 
-## Edwin Hutchins
+## Leysia Palen
 
 ### Content:
-[[@Hutchins1995-sg|Cognition In The Wild]]
 [[@Hutchins1997-uw|Constructing Meaning From Space, Gesture, And Speech]]
 
 #### Bibliography:
-
-![[@Hutchins1995-sg]]
 
 ![[@Hutchins1997-uw]]
