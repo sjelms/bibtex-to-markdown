@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-24T07:55:08
+amended: 2026-07-25T07:55:07
 ---
 
 # Directory
@@ -433,6 +433,8 @@ amended: 2026-07-24T07:55:08
 ### 1951
 - [[@Kelly1951-kc|The Prefabrication Of Houses - A Study By The Albert Farwell Bemis Foundation Of The Prefabrication Industry In The United States]]
 ## 1940-1949
+### 1944
+- [[@Polanyi1944-bv|The Great Transformation - The Political And Economic Origins Of Our Time]]
 ### 1941
 - [[@Pavlov1941-km|Conditioned Reflexes And Psychiatry]]
 ## 1930-1939
