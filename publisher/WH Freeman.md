@@ -1,5 +1,5 @@
 ---
-name: W H Freeman
+name: WH Freeman
 aliases:
 see also:
 tags:
@@ -7,7 +7,7 @@ category:
   - publisher
 ---
 
-## W H Freeman
+## WH Freeman
 
 ### Content:
 [[@Neisser1976-qv|Cognition And Reality]]
