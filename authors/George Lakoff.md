@@ -10,11 +10,11 @@ aliases:
 ## George Lakoff
 
 ### Content:
+[[@Lakoff1979-gm|The Contemporary Theory Of Metaphor]]
 [[@Lakoff1980-br|Conceptual Metaphor In Everyday Language]]
-[[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
 
 #### Bibliography:
 
-![[@Lakoff1980-br]]
+![[@Lakoff1979-gm]]
 
-![[@Lakoff1993-jg]]
+![[@Lakoff1980-br]]

@@ -29,7 +29,7 @@ category:
 [[@Kalantzis2012-xe|Life In Schools]]
 [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
 [[@Klein2007-yo|The Genesis Of Industrial America, 1870-1920]]
-[[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
+[[@Lakoff1979-gm|The Contemporary Theory Of Metaphor]]
 [[@Lave1991-xv|Situated Learning]]
 [[@Maglione2024-cd|Bernstein As Musical And Cultural Ambassador]]
 [[@Mayer2021-in|The Cambridge Handbook Of Multimedia Learning]]

@@ -10,8 +10,8 @@ aliases:
 ## Andrew Ortony
 
 ### Content:
-[[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
+[[@Lakoff1979-gm|The Contemporary Theory Of Metaphor]]
 
 #### Bibliography:
 
-![[@Lakoff1993-jg]]
+![[@Lakoff1979-gm]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-25T09:16:56
+amended: 2026-07-25T09:18:29
 ---
 
 # Directory
@@ -254,8 +254,6 @@ amended: 2026-07-25T09:16:56
 - [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
-### 1993
-- [[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
 ## 1980-1989
 ### 1988
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]
@@ -273,6 +271,8 @@ amended: 2026-07-25T09:16:56
 - [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 - [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
 ## 1970-1979
+### 1979
+- [[@Lakoff1979-gm|The Contemporary Theory Of Metaphor]]
 ### 1978
 - [[@Cole1978-ju|Introduction]]
 ### 1973
