@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-07-25T08:33:42
+amended: 2026-07-25T08:38:00
 ---
 
 # Directory
@@ -80,8 +80,8 @@ amended: 2026-07-25T08:33:42
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -254,6 +254,8 @@ amended: 2026-07-25T08:33:42
 - [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
+### 1993
+- [[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
 ## 1980-1989
 ### 1988
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]

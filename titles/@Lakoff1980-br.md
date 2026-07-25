@@ -15,6 +15,8 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - Philosophy-of-Education
+  - PhD-Support-and-Training
 ---
 
 > [!bibliography]

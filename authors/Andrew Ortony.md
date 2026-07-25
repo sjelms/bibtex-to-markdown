@@ -1,20 +1,17 @@
 ---
-author: "George Lakoff"
+author: "Andrew Ortony"
 institution:
 field:
 type:
 aliases:
-  - Lakoff
+  - Ortony
 ---
 
-## George Lakoff
+## Andrew Ortony
 
 ### Content:
-[[@Lakoff1980-br|Conceptual Metaphor In Everyday Language]]
 [[@Lakoff1993-jg|The Contemporary Theory Of Metaphor]]
 
 #### Bibliography:
-
-![[@Lakoff1980-br]]
 
 ![[@Lakoff1993-jg]]
