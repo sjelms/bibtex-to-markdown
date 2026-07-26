@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-25T15:29:20
+amended: 2026-07-26T09:08:18
 ---
 
 # Directory
@@ -494,5 +494,5 @@ amended: 2026-07-25T15:29:20
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
