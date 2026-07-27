@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
+  - Offsite_NBLM
   - AEC
 ---
 
