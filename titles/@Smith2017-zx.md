@@ -27,6 +27,7 @@ tags:
   - _Mark-Up
   - _Cataloged
   - _In-ClickUp
+  - Book-parent
 ---
 
 > [!bibliography]
