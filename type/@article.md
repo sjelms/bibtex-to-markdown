@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-27T17:24:45
+amended: 2026-07-27T17:32:54
 ---
 
 # Directory
@@ -202,6 +202,7 @@ amended: 2026-07-27T17:24:45
 - [[@Kaklauskas2016-uk|Intelligent Decision-Support Systems And The Internet Of Things For The Smart Built Environment]]
 - [[@Vogel-Heuser2016-ng|Guest Editorial Industry 4.0–Prerequisites And Visions]]
 - [[@European-Commission2016-md|Upskilling Pathways - New Opportunities For Adults]]
+- [[@Brugger2016-em|The Neoclassical Approach To Induced Technical Change - From Hicks To Acemoglu]]
 - [[@Jansson2016-db|Design Management Using Knowledge Innovation And Visual Planning]]
 - [[@Shanbari2016-ch|Using Augmented Reality Video In Enhancing Masonry And Roof Component Comprehension For Construction Management Students]]
 - [[@Cai2016-tp|The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists]]
