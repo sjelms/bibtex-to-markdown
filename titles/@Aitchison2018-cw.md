@@ -9,7 +9,6 @@ aliases:
 publisher: "[[Lund Humphries]]"
 type: "[[@book]]"
 tags:
-  - Offsite-Architecture-Constructing-the-Future
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC
