@@ -16,7 +16,7 @@ tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - NBLM
+  - Offsite_NBLM
   - AEC
   - Report
   - Essential

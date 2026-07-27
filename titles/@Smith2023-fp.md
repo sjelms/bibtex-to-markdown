@@ -26,7 +26,7 @@ tags:
   - EPubs-Books
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
-  - NBLM
+  - Offsite_NBLM
   - AEC
   - Important
   - _Mark-Up

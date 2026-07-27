@@ -12,7 +12,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - EPubs-Books
-  - NBLM
+  - Offsite_NBLM
   - ePub
   - AEC
   - RNIB

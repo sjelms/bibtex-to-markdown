@@ -11,7 +11,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
-  - NBLM
+  - Offsite_NBLM
   - AEC
   - ePub
   - RNIB
