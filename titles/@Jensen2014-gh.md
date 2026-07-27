@@ -13,6 +13,7 @@ type: "[[@phdthesis]]"
 tags:
   - _BibTex-to-MD-Git
   - DfMA
+  - Offsite_NBLM
   - Thesis
   - AEC
   - Technological-change
