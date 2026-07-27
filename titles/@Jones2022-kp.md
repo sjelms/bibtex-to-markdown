@@ -23,6 +23,7 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - Critical-Realism
   - llm-wiki-workflow
+  - Offsite_NBLM
   - _In-Notion
   - _In-Readwise
   - AEC
