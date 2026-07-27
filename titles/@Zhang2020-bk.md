@@ -19,6 +19,7 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Offsite_NBLM
   - _In-Readwise
   - _New-Literature
   - AEC

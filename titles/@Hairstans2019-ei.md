@@ -16,6 +16,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Offsite_NBLM
   - _New-Literature
   - _In-Notion
   - _In-Readwise
