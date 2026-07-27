@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-26T09:46:09
+amended: 2026-07-27T06:35:56
 ---
 
 # Directory
@@ -264,6 +264,7 @@ amended: 2026-07-26T09:46:09
 - [[@Ord2012-tv|John Dewey And Experiential Learning - Developing The Theory Of Youth Work]]
 - [[@Abdel-Wahab2012-so|Rethinking Apprenticeship Training In The British Construction Industry]]
 - [[@Leoni2012-ml|Workplace Design, Complementarities Among Work Practices, And The Formation Of Key Competencies - Evidence From Italian Employees]]
+- [[@Linner2012-an|Evolution Of Large‐scale Industrialisation And Service Innovation In Japanese Prefabrication Industry]]
 ### 2011
 - [[@Fuller2011-fe|Apprenticeship As An Evolving Model Of Learning]]
 - [[@Johns2011-yt|Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant]]
@@ -337,6 +338,7 @@ amended: 2026-07-26T09:46:09
 - [[@Inkpen2005-zr|Learning Through Alliances - General Motors And NUMMI]]
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
+- [[@Barlow2005-mk|Building Mass Customised Housing Through Innovation In The Production System - Lessons From Japan]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]
 - [[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
 - [[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
