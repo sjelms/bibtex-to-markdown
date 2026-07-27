@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-07-27T09:25:56
+amended: 2026-07-27T12:44:19
 ---
 
 # Directory
@@ -82,6 +82,7 @@ amended: 2026-07-27T09:25:56
 - [[@Department-of-Economic-History2017-nb|Tacit Knowledge - Making It Explicit]]
 - [[@Cameron2017-nq|The Economic Impact Of Artificial Intelligence On The UK Economy]]
 - [[@Barbosa2017-rj|Reinventing Construction Through A Productivity Revolution]]
+- [[@Brennan2017-gj|Faster, Smarter, More Efficient - Building Skills For Offsite Construction]]
 ### 2016
 - [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
 - [[@Renz2016-br|Shaping The Future Of Construction - A Breakthrough In Mindset And Technology]]

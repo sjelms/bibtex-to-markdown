@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-27T09:25:56
+amended: 2026-07-27T12:44:19
 ---
 
 # Directory
@@ -64,6 +64,8 @@ amended: 2026-07-27T09:25:56
 - [[@Mishra2022-pg|Land Use Change And Carbon Emissions Of A Transformation To Timber Cities]]
 - [[@Podder2022-pj|Immersive Industrialized Construction Environments For Energy-Efficient Construction Workforce]]
 - [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
+- [[@Ginigaddara2022-mh|An Evaluation Of Offsite Construction Skill Profiles]]
+- [[@Ginigaddara2022-or|Offsite Construction Skills Evolution - An Australian Case Study]]
 - [[@Chen2022-fx|Disrupting Science]]
 - [[@DeKorne2022-bp|How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs]]
 - [[@Loi2022-qi|Designing The Unfinished - A Home Is Not A House]]
@@ -98,6 +100,7 @@ amended: 2026-07-27T09:25:56
 - [[@Brynjolfsson2021-sf|The Productivity J-Curve - How Intangibles Complement General Purpose Technologies]]
 - [[@Jadallah2021-is|Construction Industry Training Assessment Framework]]
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
+- [[@Cao2021-tp|Cross-Phase Product Configurator For Modular Buildings Using Kit-Of-Parts]]
 - [[@Nielsen2021-xt|The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM]]
 - [[@Kraiger2021-qt|The Science Of Workplace Instruction - Learning And Development Applied To Work]]
 - [[@Goldsmith2021-pd|Using Framework Analysis In Applied Qualitative Research]]

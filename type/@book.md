@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-27T09:25:56
+amended: 2026-07-27T12:44:19
 ---
 
 # Directory
@@ -190,6 +190,7 @@ amended: 2026-07-27T09:25:56
 - [[@Roser2016-pm|Faster, Better, Cheaper In The History Of Manufacturing - From The Stone Age To Lean Manufacturing And Beyond]]
 - [[@Steinicke2016-nh|Being Really Virtual - Immersive Natives And The Future Of Virtual Reality]]
 - [[@Knapp2016-al|Sprint - How To Solve Big Problems And Test New Ideas In Just Five Days]]
+- [[@Noguchi2016-bw|ZEMCH - Toward The Delivery Of Zero Energy Mass Custom Homes]]
 - [[@Aitchison2016-ok|The Architecture Of Industry - Changing Paradigms In Industrial Building And Planning]]
 - [[@Marmot2016-bk|The Health Gap - The Challenge Of An Unequal World]]
 - [[@Jacobs2016-on|Rethinking Capitalism - Economics And Policy For Sustainable And Inclusive Growth]]

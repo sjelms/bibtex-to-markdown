@@ -27,6 +27,7 @@ category:
 [[@Lehtinen2022-ix|How To Deal With The Complexity In Research On Workplace Learning]]
 [[@Littlejohn2022-ll|Professional Learning Analytics]]
 [[@Nilsen2020-cb|Making Sense Of Implementation Theories, Models, And Frameworks]]
+[[@Noguchi2016-bw|ZEMCH]]
 [[@Roll2021-jb|Artificial Intelligence In Education]]
 [[@Steinicke2016-nh|Being Really Virtual]]
 [[@Unwin2017-yf|From Craftsmanship And Novices To 3D Printing And An Ageing Workforce – Is Vocational Education And Training (VET) Research Keeping Pace With Change As Well As Continuity In Work?]]

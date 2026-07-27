@@ -24,6 +24,8 @@ category:
 [[@Detsimas2016-jx|Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry]]
 [[@Ellstrom2010-rw|Practice‐based Innovation]]
 [[@Gill2014-yv|Shadowing In/as Work]]
+[[@Ginigaddara2022-mh|An Evaluation Of Offsite Construction Skill Profiles]]
+[[@Ginigaddara2022-or|Offsite Construction Skills Evolution]]
 [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 [[@King_Chun2012-rk|The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage]]
 [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
