@@ -18,6 +18,7 @@ tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Offsite_NBLM
   - AEC
   - Automation
   - Essential
