@@ -17,6 +17,7 @@ tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
   - ePub
+  - Book-parent
 ---
 
 > [!bibliography]
