@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-07-28T13:51:39
+amended: 2026-07-28T13:53:41
 ---
 
 # Directory
@@ -88,7 +88,7 @@ amended: 2026-07-28T13:51:39
 - [[@Renz2016-br|Shaping The Future Of Construction - A Breakthrough In Mindset And Technology]]
 - [[@Woetzel2016-gs|A Tool Kit To Close California’s Housing Gap - 3.5 Million Homes By 2025]]
 - [[@Schober2016-eo|Digitization In The Construction Industry - Building Europe's Road To "construction 4.0"]]
-- [[@Farmer2016-oy|The Farmer Review Of The UK Construction Labour Model]]
+- [[@Farmer2016-oy|The Farmer Review Of The UK Construction Labour Model - Modernise Or Die]]
 - [[@Berger2016-vc|Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work]]
 ### 2015
 - [[@Fuller2015-wk|Does Apprenticeship Work For Adults?]]
