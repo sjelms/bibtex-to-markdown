@@ -13,6 +13,7 @@ type: "[[@report]]"
 tags:
   - Government-Report
   - _BibTex-to-MD-Git
+  - Offsite_NBLM
   - AEC
   - Report
   - Labor
