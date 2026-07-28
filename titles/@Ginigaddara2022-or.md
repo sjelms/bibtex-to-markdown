@@ -9,7 +9,7 @@ key: "[[@Ginigaddara2022-or]]"
 aliases:
   - Offsite Construction Skills Evolution - An Australian Case Study
   - Offsite Construction Skills Evolution
-journal: "[[Construction innovation]]"
+journal: "[[Construction Innovation]]"
 publisher: "[[Emerald]]"
 volume: 22
 type: "[[@article]]"
