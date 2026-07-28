@@ -2,7 +2,7 @@
 author: "Clare Vokes"
 institution:
   - "[[Communities]]"
-  - "[[Construction Industry Training Board]]"
+  - "[[Construction Industry Training Board (CITB)]]"
   - "[[Ministry of Housing]]"
   - "[[and Local Government]]"
 field:
