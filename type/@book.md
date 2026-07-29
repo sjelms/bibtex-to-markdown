@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-29T14:42:14
+amended: 2026-07-29T16:07:53
 ---
 
 # Directory
@@ -347,6 +347,7 @@ amended: 2026-07-29T14:42:14
 - [[@Wood1997-we|How Children Think And Learn]]
 - [[@Resnick1997-ju|Discourse, Tools, And Reasoning - Essays On Situated Cognition]]
 - [[@Burns1997-gn|Introduction To Research Methods]]
+- [[@O-Banion1997-zn|A Learning College For The 21st Century]]
 ### 1995
 - [[@Pickering1995-bn|The Mangle Of Practice - Time, Agency, And Science]]
 - [[@Casey1995-nc|Work, Self And Society - After Industrialism]]
