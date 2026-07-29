@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-28T14:46:38
+amended: 2026-07-29T09:24:27
 ---
 
 # Directory
@@ -116,7 +116,6 @@ amended: 2026-07-28T14:46:38
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]
 - [[@Dehaene2020-vn|How We Learn - The New Science Of Education And The Brain]]
-- [[@Billett2020-yt|Learning In The Workplace - Strategies For Effective Practice]]
 - [[@Sangaramoorthy2020-hi|Rapid Ethnographic Assessments - A Practical Approach And Toolkit For Collaborative Community Research]]
 - [[@Yu2020-ot|Green, Pervasive, And Cloud Computing - 15th International Conference, GPC 2020, Xi'an, China, November 13–15, 2020, Proceedings]]
 ## 2010-2019
@@ -331,6 +330,7 @@ amended: 2026-07-28T14:46:38
 - [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
 - [[@OECD2001-sp|Education Policy Analysis 2001]]
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
+- [[@Billett2001-nj|Learning In The Workplace - Strategies For Effective Practice]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
 - [[@Lagemann2000-fz|An Elusive Science - The Troubling History Of Education Research]]

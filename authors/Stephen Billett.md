@@ -13,6 +13,7 @@ aliases:
 [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
 [[@Billett1999-em|Work As Social Practice]]
+[[@Billett2001-nj|Learning In The Workplace]]
 [[@Billett2001-xo|Learning Through Work]]
 [[@Billett2001-zq|Confronting The Challenges To Improving Attainment In Learning At Work]]
 [[@Billett2001-zt|Co‐participation]]
@@ -29,7 +30,6 @@ aliases:
 [[@Billett2012-xz|Explaining Innovation At Work]]
 [[@Billett2014-wf|Mimetic Learning At Work]]
 [[@Billett2019-so|Vocational Education And The Individual]]
-[[@Billett2020-yt|Learning In The Workplace]]
 [[@Goller2014-jx|Agentic Behaviour At Work]]
 [[@Halttunen2014-de|Promoting, Assessing, Recognizing And Certifying Lifelong Learning]]
 [[@Harteis2014-go|New Skills For New Jobs]]
@@ -41,6 +41,8 @@ aliases:
 ![[@Billett1996-pa]]
 
 ![[@Billett1999-em]]
+
+![[@Billett2001-nj]]
 
 ![[@Billett2001-xo]]
 
@@ -73,8 +75,6 @@ aliases:
 ![[@Billett2014-wf]]
 
 ![[@Billett2019-so]]
-
-![[@Billett2020-yt]]
 
 ![[@Goller2014-jx]]
 
