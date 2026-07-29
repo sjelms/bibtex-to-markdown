@@ -19,6 +19,8 @@ tags:
   - 003_NBLM
   - Training
   - AEC
+  - Workplace-Learning
+  - Philosophy-of-Education
 ---
 
 > [!bibliography]
