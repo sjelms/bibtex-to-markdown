@@ -19,8 +19,9 @@ tags:
   - Labor
   - VET
   - Workplace-Learning
-  - _New-Literature
   - ePub
+  - Book-parent
+  - Essential
 ---
 
 > [!bibliography]
