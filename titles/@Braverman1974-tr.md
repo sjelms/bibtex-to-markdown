@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Speechify
   - Braverman
+  - Labor-Monopoly-Book
   - _In-Notion
   - _In-Readwise
   - Book-physical
