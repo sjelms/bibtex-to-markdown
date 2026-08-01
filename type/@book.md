@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-01T09:46:36
+amended: 2026-08-01T14:21:21
 ---
 
 # Directory
@@ -496,6 +496,7 @@ amended: 2026-08-01T09:46:36
 ### 1835
 - [[@de-Tocqueville1835-sr|Democracy In America]]
 - [[@Ure1835-cu|\textit The Philosophy Of Manufactures - Or, An Exposition Of The Scientific, Moral, And Commercial Economy Of The Factory System Of Great Britain]]
+- [[@Baines1835-hj|History Of The Cotton Manufacture In Great Britain - With A Notice Of Its Early History In The East, And In All The Quarters Of The Globe]]
 ### 1832
 - [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
