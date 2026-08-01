@@ -14,6 +14,7 @@ category:
 [[@Autor2003-ju|The Skill Content Of Recent Technological Change]]
 [[@Autor2024-jq|New Frontiers]]
 [[@Deming2017-kp|The Growing Importance Of Social Skills In The Labor Market]]
+[[@Edwards2001-pi|Factory And Fantasy In Andrew Ure]]
 [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
 [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
 [[@Stasz2001-io|Assessing Skills For Work]]
