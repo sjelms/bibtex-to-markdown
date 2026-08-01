@@ -10,11 +10,8 @@ aliases:
 ## Harry Braverman
 
 ### Content:
-[[@Braverman1974-fn|The Universal Market]]
 [[@Braverman1974-tr|Labor And Monopoly Capital]]
 
 #### Bibliography:
-
-![[@Braverman1974-fn]]
 
 ![[@Braverman1974-tr]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-01T09:44:02
+amended: 2026-08-01T09:45:14
 ---
 
 # Directory
@@ -283,8 +283,6 @@ amended: 2026-08-01T09:44:02
 ## 1970-1979
 ### 1978
 - [[@Cole1978-ju|Introduction]]
-### 1974
-- [[@Braverman1974-fn|The Universal Market]]
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
 ## 1940-1949
