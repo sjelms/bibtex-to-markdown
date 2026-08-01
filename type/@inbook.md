@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-01T08:36:19
+amended: 2026-08-01T09:05:34
 ---
 
 # Directory
@@ -250,8 +250,10 @@ amended: 2026-08-01T08:36:19
 - [[@Baldry1998-ba|‘bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
 - [[@Dybowski1998-qn|New Technologies And Work Organization Impact On Vocational Education And Training]]
 - [[@Greenbaum1998-ih|The Times They Are A'changing - Dividing And Recombining Labour Through Computer Systems]]
+- [[@Foster1998-rg|Introduction To The New Edition]]
 - [[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities]]
 - [[@Beirne1998-sy|Developments In Computing Work - Control And Contradiction In The Software Labour Process]]
+- [[@Sweezy1998-ki|Foreword To The Original Edition]]
 - [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
@@ -281,6 +283,8 @@ amended: 2026-08-01T08:36:19
 ## 1970-1979
 ### 1978
 - [[@Cole1978-ju|Introduction]]
+### 1974
+- [[@Braverman1974-fn|The Universal Market]]
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
 ## 1940-1949
