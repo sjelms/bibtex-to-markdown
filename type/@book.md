@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-01T09:06:00
+amended: 2026-08-01T09:44:02
 ---
 
 # Directory
@@ -495,6 +495,7 @@ amended: 2026-08-01T09:06:00
 - [[@Gaskell1836-vg|Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour]]
 ### 1835
 - [[@de-Tocqueville1835-sr|Democracy In America]]
+- [[@Ure1835-cu|\textit The Philosophy Of Manufactures - Or, An Exposition Of The Scientific, Moral, And Commercial Economy Of The Factory System Of Great Britain]]
 ### 1832
 - [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
