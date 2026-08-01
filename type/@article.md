@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-07-29T16:07:53
+amended: 2026-08-01T06:30:34
 ---
 
 # Directory
@@ -149,6 +149,7 @@ amended: 2026-07-29T16:07:53
 - [[@Nassereddine2019-ox|Augmented Reality-Enabled Production Strategy Process]]
 - [[@Shanbari2019-ig|Use Of Video Games To Enhance Construction Management Education]]
 - [[@Cale2019-ca|Australian Prison Vocational Education And Training And Returns To Custody Among Male And Female Ex-Prisoners - A Cross-Jurisdictional Study]]
+- [[@Hurtado2019-ie|Adam Smith And Alexis De Tocqueville On The Division Of Labour]]
 - [[@Veile2019-es|Lessons Learned From Industry 4.0 Implementation In The German Manufacturing Industry]]
 - [[@Aliu2019-hy|Examining The Roles Of Human Capital Theory. What Next For Construction Industry?]]
 - [[@Boyd2019-os|Smithian Insights On Automation And The Future Of Work]]

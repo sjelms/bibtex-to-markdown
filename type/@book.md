@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-07-29T16:07:53
+amended: 2026-08-01T06:30:34
 ---
 
 # Directory
@@ -488,9 +488,13 @@ amended: 2026-07-29T16:07:53
 ## 1840-1849
 ### 1848
 - [[@Marx1848-ti|The Communist Manifesto]]
+### 1840
+- [[@de-Tocqueville1840-gr|Democracy In America]]
 ## 1830-1839
 ### 1836
 - [[@Gaskell1836-vg|Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour]]
+### 1835
+- [[@de-Tocqueville1835-sr|Democracy In America]]
 ### 1832
 - [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
