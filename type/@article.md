@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-02T07:30:10
+amended: 2026-08-02T08:39:08
 ---
 
 # Directory
@@ -442,6 +442,8 @@ amended: 2026-08-02T07:30:10
 ### 1991
 - [[@Marmot1991-fq|Health Inequalities Among British Civil Servants - The Whitehall II Study]]
 - [[@Welton1991-jd|What's New In The History Of Adult Education]]
+### 1990
+- [[@Grattan-Guinness1990-ot|Work For The Hairdressers - The Production Of De Prony's Logarithmic And Trigonometric Tables]]
 ## 1980-1989
 ### 1989
 - [[@Towers1989-ll|Running The Gauntlet - British Trade Unions Under Thatcher, 1979–1988]]
