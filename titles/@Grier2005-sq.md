@@ -9,10 +9,12 @@ publisher: "[[Princeton University Press]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - When-Computers-Were-Human
   - Economics
   - Labor
   - Technological-change
   - Artificial-Intelligence-AI
+  - Book-parent
 ---
 
 > [!bibliography]
