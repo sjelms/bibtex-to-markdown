@@ -11,6 +11,8 @@ tags:
   - _BibTex-to-MD-Git
   - Economics
   - Labor
+  - Technological-change
+  - Artificial-Intelligence-AI
 ---
 
 > [!bibliography]
