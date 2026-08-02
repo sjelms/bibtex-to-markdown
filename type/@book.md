@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-02T08:39:08
+amended: 2026-08-02T09:59:19
 ---
 
 # Directory
@@ -500,6 +500,9 @@ amended: 2026-08-02T08:39:08
 ### 1832
 - [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 - [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
+## 1800-1809
+### 1800
+- [[@de-Prony1800-sx|Notice Sur Les Grandes Tables Logarithmiques Et Trigonométriques Calculées, Au Bureau Du Cadastre]]
 ## 1770-1779
 ### 1776
 - [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
