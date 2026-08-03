@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-02T09:59:19
+amended: 2026-08-03T06:53:16
 ---
 
 # Directory
@@ -485,6 +485,9 @@ amended: 2026-08-02T09:59:19
 ## 1880-1889
 ### 1887
 - [[@Marx1887-fh|Capital - A Critique Of Political Economy; The Process Of Production Of Capital]]
+## 1850-1859
+### 1854
+- [[@Dickens1854-fw|\textit Hard Times - For These Times]]
 ## 1840-1849
 ### 1848
 - [[@Marx1848-ti|The Communist Manifesto]]
