@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-04T11:42:38
+amended: 2026-08-04T12:04:24
 ---
 
 # Directory
@@ -136,7 +136,6 @@ amended: 2026-08-04T11:42:38
 ### 2013
 - [[@Costley2013-sd|Workplace Learning And Higher Education]]
 - [[@Cheng2013-jx|Technology And Knowledge Management]]
-- [[@Ness2013-ir|Human Resource Management In The Construction Context - Disappearing Workers In The UK]]
 - [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
 - [[@Yudelson2013-yg|Individualized Bayesian Knowledge Tracing Models]]
 - [[@Hager2013-ey|Theories Of Workplace Learning]]
@@ -161,6 +160,7 @@ amended: 2026-08-04T11:42:38
 - [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
 - [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 - [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
+- [[@Ness2012-re|Human Resource Management In The Construction Context - Disappearing Workers In The UK]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Kalantzis2012-vw|Introduction]]
 - [[@Kalantzis2012-bi|Knowledge And Learning]]

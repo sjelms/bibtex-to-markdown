@@ -12,8 +12,8 @@ aliases:
 ### Content:
 [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
 [[@Harvey2019-fr|Applying HRO And Resilience Engineering To Construction]]
-[[@Loosemore2012-eb|Human Resource Management In Construction Critical Perspectives]]
-[[@Ness2013-ir|Human Resource Management In The Construction Context]]
+[[@Loosemore2012-eb|Human Resource Management In Construction]]
+[[@Ness2012-re|Human Resource Management In The Construction Context]]
 [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]
 
 #### Bibliography:
@@ -24,6 +24,6 @@ aliases:
 
 ![[@Loosemore2012-eb]]
 
-![[@Ness2013-ir]]
+![[@Ness2012-re]]
 
 ![[@Pan2008-yg]]

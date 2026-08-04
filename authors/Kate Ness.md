@@ -10,8 +10,8 @@ aliases:
 ## Kate Ness
 
 ### Content:
-[[@Ness2013-ir|Human Resource Management In The Construction Context]]
+[[@Ness2012-re|Human Resource Management In The Construction Context]]
 
 #### Bibliography:
 
-![[@Ness2013-ir]]
+![[@Ness2012-re]]

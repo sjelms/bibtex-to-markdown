@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-04T11:42:38
+amended: 2026-08-04T12:04:24
 ---
 
 # Directory
@@ -256,7 +256,7 @@ amended: 2026-08-04T11:42:38
 - [[@Daniels2012-jd|Vygotsky And Sociology]]
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
-- [[@Loosemore2012-eb|Human Resource Management In Construction Critical Perspectives]]
+- [[@Loosemore2012-eb|Human Resource Management In Construction - Critical Perspectives]]
 - [[@Kalantzis2012-vd|New Learning - Elements Of A Science Of Education]]
 - [[@Yglesias2012-ep|The Rent Is Too Damn High - What To Do About It, And Why It Matters More Than You Think]]
 - [[@Smith2012-oh|Instructional Design]]
