@@ -22,6 +22,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - 003_NBLM
+  - ERC-ex-re
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise
