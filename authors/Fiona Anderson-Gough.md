@@ -10,11 +10,8 @@ aliases:
 ## Fiona Anderson-Gough
 
 ### Content:
-[[@Hoskin2004-xf|The Context Of Learning In Professional Work Environments]]
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 
 #### Bibliography:
-
-![[@Hoskin2004-xf]]
 
 ![[@Hoskin2004-yg]]
