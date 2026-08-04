@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-04T12:04:24
+amended: 2026-08-04T14:18:44
 ---
 
 # Directory
@@ -469,6 +469,8 @@ amended: 2026-08-04T12:04:24
 - [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
 ### 1922
 - [[@Dewey1922-al|Human Nature And Conduct - An Introduction To Social Psychology]]
+### 1920
+- [[@Marshall1920-ic|Principles Of Economics - An Introductory Volume]]
 ## 1910-1919
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
