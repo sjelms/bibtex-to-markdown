@@ -17,6 +17,8 @@ aliases:
 [[@Milkman1998-oe|The New American Workplace]]
 [[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’]]
 [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
+[[@Thompson1983-rm|The Nature Of Work]]
+[[@Thompson1990-sl|Work Organisations]]
 [[@Thompson1998-mr|Workplaces Of The Future]]
 [[@Thompson2003-ko|Disconnected Capitalism]]
 [[@Warhurst2012-ok|Mapping Knowledge In Work]]
@@ -36,6 +38,10 @@ aliases:
 ![[@Mulholland1998-xn]]
 
 ![[@Smith2024-te]]
+
+![[@Thompson1983-rm]]
+
+![[@Thompson1990-sl]]
 
 ![[@Thompson1998-mr]]
 

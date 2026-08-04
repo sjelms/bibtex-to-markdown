@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-04T10:35:05
+amended: 2026-08-04T10:58:54
 ---
 
 # Directory
@@ -369,6 +369,7 @@ amended: 2026-08-04T10:35:05
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
 ### 1990
+- [[@Thompson1990-sl|Work Organisations - A Critical Introduction]]
 - [[@Marsick1990-un|Informal And Incidental Learning In The Workplace]]
 ## 1980-1989
 ### 1989
@@ -393,6 +394,7 @@ amended: 2026-08-04T10:35:05
 - [[@Benner1984-ut|From Novice To Expert - Excellence And Power In Clinical Nursing Practice]]
 ### 1983
 - [[@Rogers1983-rp|The Acquisition Of Symbolic Skills]]
+- [[@Thompson1983-rm|The Nature Of Work - An Introduction To Debates On The Labour Process]]
 ### 1982
 - [[@Olson1982-xs|The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities]]
 ### 1981
