@@ -12,6 +12,7 @@ tags:
   - VET-TVET
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Econ-Labor
   - Occupational-choice
   - VET
   - Workplace-Learning

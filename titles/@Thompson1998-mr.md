@@ -16,6 +16,7 @@ tags:
   - Braverman
   - 003_Theoretical-Framework
   - Marx_Labor
+  - Econ-Labor
   - Book-parent
   - Future-of-Work
   - Labor
