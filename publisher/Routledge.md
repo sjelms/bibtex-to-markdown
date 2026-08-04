@@ -111,6 +111,7 @@ category:
 [[@Moodie2002-nc|Identifying Vocational Education And Training]]
 [[@Moradi2024-uw|Routledge Handbook Of Collaboration In Construction]]
 [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
+[[@Ness2013-ir|Human Resource Management In The Construction Context]]
 [[@Perera2023-mp|Artificial Intelligence For Occupational Health And Safety Management In Construction]]
 [[@Petrovic2021-fn|Looking Back]]
 [[@Poortman2011-zl|Apprenticeship]]
