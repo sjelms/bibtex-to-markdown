@@ -21,6 +21,7 @@ aliases:
 [[@Thompson1990-sl|Work Organisations]]
 [[@Thompson1998-mr|Workplaces Of The Future]]
 [[@Thompson2003-ko|Disconnected Capitalism]]
+[[@Thompson2009-rk|Work Organisations]]
 [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 
 #### Bibliography:
@@ -46,5 +47,7 @@ aliases:
 ![[@Thompson1998-mr]]
 
 ![[@Thompson2003-ko]]
+
+![[@Thompson2009-rk]]
 
 ![[@Warhurst2012-ok]]

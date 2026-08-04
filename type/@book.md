@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-04T10:58:54
+amended: 2026-08-04T11:02:05
 ---
 
 # Directory
@@ -294,6 +294,7 @@ amended: 2026-08-04T10:58:54
 - [[@Robinson2009-ed|The Element - How Finding Your Passion Changes Everything]]
 - [[@Ford2009-nu|The Lights In The Tunnel - Automation, Accelerating Technology And The Economy Of The Future]]
 - [[@Taleb2009-is|The Black Swan - The Impact Of The Highly Improbable]]
+- [[@Thompson2009-rk|Work Organisations - A Critical Approach]]
 ### 2008
 - [[@Gardner2008-lx|Multiple Intelligences - New Horizons In Theory And Practice]]
 - [[@Nonaka2008-ts|The Knowledge-Creating Company]]

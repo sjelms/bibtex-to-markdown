@@ -11,7 +11,10 @@ aliases:
 
 ### Content:
 [[@Thompson1990-sl|Work Organisations]]
+[[@Thompson2009-rk|Work Organisations]]
 
 #### Bibliography:
 
 ![[@Thompson1990-sl]]
+
+![[@Thompson2009-rk]]
