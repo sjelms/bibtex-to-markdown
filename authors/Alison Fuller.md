@@ -52,6 +52,7 @@ aliases:
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
+[[@Hoskin2004-xf|The Context Of Learning In Professional Work Environments]]
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
 [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach]]
@@ -132,6 +133,8 @@ aliases:
 ![[@Hoddinott2004-on]]
 
 ![[@Hodkinson2004-ht]]
+
+![[@Hoskin2004-xf]]
 
 ![[@Hoskin2004-yg]]
 

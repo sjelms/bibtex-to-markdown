@@ -85,6 +85,7 @@ category:
 [[@Hohns2022-lx|The Social Construction Of Vocational Education]]
 [[@Hon2023-eu|Machine Learning For Safety Hazard Identification In Construction]]
 [[@Hooks2014-xi|Teaching To Transgress]]
+[[@Hoskin2004-xf|The Context Of Learning In Professional Work Environments]]
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Hussien2020-bt|A Review Of Mixed-Reality Applications In Construction 4.0]]
 [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-03T06:53:16
+amended: 2026-08-04T10:32:07
 ---
 
 # Directory
@@ -80,8 +80,8 @@ amended: 2026-08-03T06:53:16
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -219,6 +219,7 @@ amended: 2026-08-03T06:53:16
 - [[@Fuller2004-dw|Introduction And Overview]]
 - [[@Ashton2004-dg|The Political Economy Of Workplace Learning]]
 - [[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
+- [[@Hoskin2004-xf|The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession]]
 - [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession]]
 - [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 - [[@Young2004-fs|Conceptualizing Vocational Knowledge - Some Theoretical Considerations]]
