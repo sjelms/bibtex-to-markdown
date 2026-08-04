@@ -14,9 +14,11 @@ tags:
   - JG_Recommended
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - HRM-Construction
   - RNIB
   - ePub
   - AEC
+  - Book-parent
 ---
 
 > [!bibliography]
