@@ -20,6 +20,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor
+  - Construction-4-0
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - _In-Notion
