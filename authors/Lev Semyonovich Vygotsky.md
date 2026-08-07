@@ -1,5 +1,5 @@
 ---
-author: "Lev S Vygotsky"
+author: "Lev Semyonovich Vygotsky"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Vygotsky
 ---
 
-## Lev S Vygotsky
+## Lev Semyonovich Vygotsky
 
 ### Content:
 [[@Vygotsky1934-rh|Thought And Language]]
