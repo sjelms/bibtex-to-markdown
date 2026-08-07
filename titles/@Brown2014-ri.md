@@ -2,7 +2,7 @@
 title: Make It Stick -  The Science of Successful Learning
 year: 2014
 author - 1: "[[Peter C Brown]]"
-author - 2: "[[Roediger III]]"
+author - 2: "[[Henry L Roediger III]]"
 author - 3: "[[Mark A McDaniel]]"
 key: "[[@Brown2014-ri]]"
 aliases:
@@ -22,7 +22,7 @@ tags:
 ---
 
 > [!bibliography]
-> Brown, Peter C, Roediger III, Mark A McDaniel. 2014. "Make It Stick: The Science of Successful Learning." [[Harvard University Press]].
+> Brown, Peter C, Henry L Roediger III, Mark A McDaniel. 2014. "Make It Stick: The Science of Successful Learning." [[Harvard University Press]].
 
 > [!abstract]
 > Discusses the best methods of learning, describing how rereading and rote repetition are counterproductive and how such techniques as self-testing, spaced retrieval, and finding additional layers of information in new material can enhance learning.
