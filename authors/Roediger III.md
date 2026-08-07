@@ -1,5 +1,5 @@
 ---
-author: "Henry L Roediger III"
+author: "Roediger III"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - III
 ---
 
-## Henry L Roediger III
+## Roediger III
 
 ### Content:
 [[@Brown2014-ri|Make It Stick]]
