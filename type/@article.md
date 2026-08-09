@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T11:06:50
+amended: 2026-08-09T11:19:28
 ---
 
 # Directory
@@ -13,6 +13,7 @@ amended: 2026-08-09T11:06:50
 ### 2025
 - [[@Cheng2025-ml|Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use]]
 - [[@Oroian2025-sp|ADHD And Decision Paralysis - Overwhelm In A World Of Choices]]
+- [[@Ginigaddara2025-kw|A Critical Review Of Quantity Surveying Education In An Offsite Construction Perspective - Strategies For Up-Skilling]]
 - [[@Rodrigues2025-jb|A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring]]
 - [[@Rojas-Herrera2025-qj|Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects]]
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
@@ -20,6 +21,7 @@ amended: 2026-08-09T11:06:50
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Habgood-Coote2025-qu|Collective Action, Work, And Partial Plans]]
+- [[@Liu2025-sc|Shaping Online And Offline Informal Learning Networks In Off-Site Construction Projects - A Proximity Perspective]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 - [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
@@ -57,6 +59,7 @@ amended: 2026-08-09T11:06:50
 - [[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 - [[@Rowland2023-kc|Opening Up The Continuing Professional Development Imagination - Bringing The Clinical Workplace Into View]]
 - [[@Muttarak2023-uz|Peter Gaskell On The Effects Of Mechanization On Labor]]
+- [[@Assaad2023-nn|Key Factors Affecting Labor Productivity In Offsite Construction Projects]]
 - [[@Loo2023-ex|VET In FE – T Levels And BTEC Programmes]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]

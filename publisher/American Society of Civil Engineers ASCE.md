@@ -10,6 +10,7 @@ category:
 ## American Society of Civil Engineers ASCE
 
 ### Content:
+[[@Assaad2023-nn|Key Factors Affecting Labor Productivity In Offsite Construction Projects]]
 [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
 [[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
 [[@Minooei2020-uz|Young Talent Motivations To Pursue Craft Careers In Construction]]
