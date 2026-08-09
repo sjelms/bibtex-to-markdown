@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T14:21:18
+amended: 2026-08-09T14:38:07
 ---
 
 # Directory
@@ -163,6 +163,7 @@ amended: 2026-08-09T14:21:18
 - [[@Barkokebas2019-eh|Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry]]
 - [[@Auti2019-nb|Prefabrication Technology - A Promising Alternative In Construction Industry]]
 ### 2018
+- [[@Halvarsson_Lundkvist2018-tt|Conditions For Employee Learning And Innovation – Interweaving Competence Development Activities Provided By A Workplace Development Programme With Everyday Work Activities In Smes]]
 - [[@Doroftei2018-sz|Perspectives Of Young People Enrolled In Apprenticeship Courses In Portugal About Learning In Work Contexts]]
 - [[@Herbert2018-la|Design Considerations For Combining Augmented Reality With Intelligent Tutors]]
 - [[@Yeung2018-ya|Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge]]
