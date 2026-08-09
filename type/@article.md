@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T12:25:53
+amended: 2026-08-09T14:21:18
 ---
 
 # Directory
@@ -303,6 +303,7 @@ amended: 2026-08-09T12:25:53
 - [[@Dede2009-ro|Immersive Interfaces For Engagement And Learning]]
 - [[@Bishop2009-co|Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry]]
 - [[@Murphy2009-fx|Experience Based Learning (EBL) - Exploring Professional Teaching Through Critical Reflection And Reflexivity]]
+- [[@Nonaka2009-ti|Perspective—Tacit Knowledge And Knowledge Conversion - Controversy And Advancement In Organizational Knowledge Creation Theory]]
 - [[@Hager2009-mt|Moving Beyond The Metaphor Of Transfer Of Learning]]
 - [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 - [[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
