@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T14:38:07
+amended: 2026-08-09T15:12:20
 ---
 
 # Directory
@@ -67,6 +67,7 @@ amended: 2026-08-09T14:38:07
 - [[@Mishra2022-pg|Land Use Change And Carbon Emissions Of A Transformation To Timber Cities]]
 - [[@Podder2022-pj|Immersive Industrialized Construction Environments For Energy-Efficient Construction Workforce]]
 - [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
+- [[@Elkjaer2022-yf|Taking Stock Of “organizational Learning” - Looking Back And Moving Forward]]
 - [[@Ginigaddara2022-mh|An Evaluation Of Offsite Construction Skill Profiles]]
 - [[@Ginigaddara2022-or|Offsite Construction Skills Evolution - An Australian Case Study]]
 - [[@Chen2022-fx|Disrupting Science]]

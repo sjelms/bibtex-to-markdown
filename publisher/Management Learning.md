@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Elkjaer2004-xt|Organizational Learning]]
+[[@Elkjaer2022-yf|Taking Stock Of “organizational Learning”]]

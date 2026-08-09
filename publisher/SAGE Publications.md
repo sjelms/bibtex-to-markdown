@@ -39,6 +39,7 @@ category:
 [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
 [[@Denzin2023-mp|The SAGE Handbook Of Qualitative Research]]
 [[@DuPaul2013-ko|Comorbidity Of LD And ADHD]]
+[[@Elkjaer2022-yf|Taking Stock Of “organizational Learning”]]
 [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 [[@Eraut2013-ty|How Researching Learning At Work Can Lead To Tools For Enhancing Learning]]
 [[@Ferry1998-xo|An Inquiry Into Schön's Epistemology Of Practice]]
