@@ -23,6 +23,7 @@ category:
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 [[@Coovadia2008-lw|A Brief History Of Pin-Making]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
+[[@Elkjaer2003-sk|Organizational Learning With A Pragmatic Slant]]
 [[@Engestrom2001-my|Expansive Learning At Work]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]

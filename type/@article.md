@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T11:19:28
+amended: 2026-08-09T12:25:53
 ---
 
 # Directory
@@ -225,6 +225,7 @@ amended: 2026-08-09T11:19:28
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
+- [[@Hartmann2015-ra|Learning Between Projects - More Than Sending Messages In Bottles]]
 - [[@Reich2015-vb|Dilemmas In Continuing Professional Learning - Learning Inscribed In Frameworks Or Elicited From Practice]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital]]
@@ -354,6 +355,7 @@ amended: 2026-08-09T11:19:28
 - [[@Friesner2005-io|Learning Logs - Assessment Or Research Method?]]
 ### 2004
 - [[@Hevner2004-zn|Design Science In Information Systems Research]]
+- [[@Elkjaer2004-xt|Organizational Learning - The ‘third Way’]]
 - [[@Canipe2004-pn|Kentucky's Moonlight Schools - An Enduring Legacy Of Adult Learning Principles And Practice]]
 - [[@Eraut2004-wa|Informal Learning In The Workplace]]
 - [[@Gibbons2004-de|Task-Specific Human Capital]]
@@ -365,6 +367,7 @@ amended: 2026-08-09T11:19:28
 ### 2003
 - [[@Fuller2003-gh|Fostering Workplace Learning - Looking Through The Lens Of Apprenticeship]]
 - [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace - Creating And Managing Expansive And Restrictive Participation]]
+- [[@Elkjaer2003-sk|Organizational Learning With A Pragmatic Slant]]
 - [[@Autor2003-ju|The Skill Content Of Recent Technological Change - An Empirical Exploration]]
 - [[@Kaufman2003-by|ABC Of Learning And Teaching In Medicine - Applying Educational Theory In Practice]]
 - [[@Gallie2003-tj|Skill, Task Discretion, And New Technology - Trends In Britain, 1986-2001]]
