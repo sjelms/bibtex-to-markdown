@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-09T15:12:20
+amended: 2026-08-10T05:26:54
 ---
 
 # Directory
@@ -380,6 +380,7 @@ amended: 2026-08-09T15:12:20
 - [[@Moodie2002-nc|Identifying Vocational Education And Training]]
 - [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
 - [[@Finch2002-dw|The Role Of Grounded Theory In Developing Economic Theory]]
+- [[@Merrill2002-sc|First Principles Of Instruction]]
 - [[@Knowles2002-ic|Malcolm Knowles, Informal Adult Education, Self-Direction, And Andragogy]]
 - [[@Prensky2002-ml|The Motivation Of Gameplay - The Real 21st Century Learning Revolution]]
 - [[@Billett2002-bq|Critiquing Workplace Learning Discourses - Participation And Continuity At Work]]
