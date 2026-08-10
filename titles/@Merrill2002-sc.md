@@ -11,6 +11,7 @@ volume: 50
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - Training
 ---
 
 > [!bibliography]
