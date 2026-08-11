@@ -20,3 +20,6 @@ tags:
 
 > [!bibliography]
 > Elkjaer, Bente. 2003. "Social Learning Theory: Learning as Participation in Social Processes." [[Blackwell Publishers]].
+
+> [!abstract]
+> This chapter reviews social learning theory as it appears in organizational learning literature and contrasts it with individual learning theory on three dimensions: what organizational learning consists of, how it occurs, and how the individual relates to the organization. Elkjaer argues that individual-learning-based accounts reduce learning to mental acquisition and information processing, thereby separating cognition from practice and the learner from the organizational context. Social learning theory instead treats learning as participation in social processes, making learning inseparable from development, identity, and situated activity. The chapter further proposes Deweyan pragmatism—especially inquiry, reflection, and experience—as a conceptual bridge between the epistemology and ontology of learning.
