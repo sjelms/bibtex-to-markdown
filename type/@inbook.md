@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-10T16:00:37
+amended: 2026-08-11T04:30:35
 ---
 
 # Directory
@@ -80,8 +80,8 @@ amended: 2026-08-10T16:00:37
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -229,6 +229,8 @@ amended: 2026-08-10T16:00:37
 - [[@Billett2004-vj|Learning Through Work - Workplace Participatory Practices]]
 - [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’ - A Critique Based On Evidence From The United States, Canada And England]]
 - [[@Engestrom2004-bz|The New Generation Of Expertise - Seven Theses]]
+### 2003
+- [[@Elkjaer2003-nm|Social Learning Theory - Learning As Participation In Social Processes]]
 ### 2002
 - [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
