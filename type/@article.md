@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-11T06:07:03
+amended: 2026-08-11T06:47:02
 ---
 
 # Directory
@@ -404,6 +404,7 @@ amended: 2026-08-11T06:07:03
 - [[@Burkholder2000-xi|A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture]]
 - [[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
 - [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
+- [[@Gherardi2000-cg|Practice-Based Theorizing On Learning And Knowing In Organizations]]
 ## 1990-1999
 ### 1999
 - [[@Daley1999-dn|Novice To Expert - An Exploration Of How Professionals Learn]]

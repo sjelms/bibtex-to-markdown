@@ -48,6 +48,7 @@ category:
 [[@Friese2026-pb|From Coding To Conversation]]
 [[@Fuller2003-gh|Fostering Workplace Learning]]
 [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work]]
+[[@Gherardi2000-cg|Practice-Based Theorizing On Learning And Knowing In Organizations]]
 [[@Glassman2001-cg|Dewey And Vygotsky]]
 [[@Hager2013-ey|Theories Of Workplace Learning]]
 [[@Hamilton2012-vy|Using Case Study In Education Research]]
