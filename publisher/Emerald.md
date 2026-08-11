@@ -14,6 +14,7 @@ category:
 [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 [[@Billett2001-xo|Learning Through Work]]
 [[@Billett2004-lx|Workplace Participatory Practices]]
+[[@Bishop2008-wj|Ensuring The Effectiveness Of A Knowledge Management Initiative]]
 [[@Bishop2017-zt|Context, Agency And Professional Workplace Learning]]
 [[@Bishop2020-ox|Firm Size And Workplace Learning Processes]]
 [[@Brennan2019-ve|100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation]]

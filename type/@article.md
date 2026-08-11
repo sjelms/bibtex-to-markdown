@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-11T05:22:36
+amended: 2026-08-11T06:07:03
 ---
 
 # Directory
@@ -314,6 +314,7 @@ amended: 2026-08-11T05:22:36
 - [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures - The Case Of NUMMI And General Motors]]
 - [[@Glaeser2008-jr|Housing Supply And Housing Bubbles]]
 - [[@Coovadia2008-lw|A Brief History Of Pin-Making]]
+- [[@Bishop2008-wj|Ensuring The Effectiveness Of A Knowledge Management Initiative]]
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Tynjala2008-ct|Perspectives Into Learning At The Workplace]]
