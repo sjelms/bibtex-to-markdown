@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-11T04:43:23
+amended: 2026-08-11T05:22:36
 ---
 
 # Directory
@@ -350,6 +350,7 @@ amended: 2026-08-11T04:43:23
 - [[@Inkpen2005-zr|Learning Through Alliances - General Motors And NUMMI]]
 - [[@Boote2005-kh|Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation]]
 - [[@Knoblauch2005-ek|Focused Ethnography]]
+- [[@Nonaka2005-ke|The Theory Of The Knowledge-Creating Firm - Subjectivity, Objectivity And Synthesis]]
 - [[@Barlow2005-mk|Building Mass Customised Housing Through Innovation In The Production System - Lessons From Japan]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]
 - [[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]

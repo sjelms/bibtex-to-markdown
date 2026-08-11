@@ -12,6 +12,7 @@ aliases:
 ### Content:
 [[@Nonaka1994-ec|A Dynamic Theory Of Organizational Knowledge Creation]]
 [[@Nonaka1995-xj|The Knowledge-Creating Company]]
+[[@Nonaka2005-ke|The Theory Of The Knowledge-Creating Firm]]
 [[@Nonaka2008-ts|The Knowledge-Creating Company]]
 [[@Nonaka2009-ti|Perspective—Tacit Knowledge And Knowledge Conversion]]
 [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi]]
@@ -23,6 +24,8 @@ aliases:
 ![[@Nonaka1994-ec]]
 
 ![[@Nonaka1995-xj]]
+
+![[@Nonaka2005-ke]]
 
 ![[@Nonaka2008-ts]]
 
