@@ -5,7 +5,7 @@ author - 1: "[[M David Merrill]]"
 key: "[[@Merrill2002-sc]]"
 aliases:
   - First Principles Of Instruction
-journal: "[[Educational Technology Research and Development ETR and D]]"
+journal: "[[Educational Technology Research and Development ETRandD]]"
 publisher: "[[Springer Science and Business Media LLC]]"
 volume: 50
 type: "[[@article]]"
