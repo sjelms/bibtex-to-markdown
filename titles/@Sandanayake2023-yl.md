@@ -36,6 +36,7 @@ tags:
   - _New-Literature
   - _XR-MR-VR-AR
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

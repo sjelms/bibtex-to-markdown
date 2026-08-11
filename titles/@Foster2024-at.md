@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - Neurodiversity
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

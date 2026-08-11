@@ -15,6 +15,7 @@ tags:
   - Braverman
   - Marx_Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

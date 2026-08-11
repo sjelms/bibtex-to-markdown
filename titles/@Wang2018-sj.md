@@ -29,6 +29,7 @@ tags:
   - _In-Readwise
   - AEC
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

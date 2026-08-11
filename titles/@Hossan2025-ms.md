@@ -20,6 +20,7 @@ tags:
   - Marx_Labor
   - Research-Methods
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

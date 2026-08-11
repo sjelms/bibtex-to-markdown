@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - Cited-for-Frontiers
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

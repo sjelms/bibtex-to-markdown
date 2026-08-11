@@ -16,6 +16,7 @@ tags:
   - _Cataloged
   - _XR-MR-VR-AR
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

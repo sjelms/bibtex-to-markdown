@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Website
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

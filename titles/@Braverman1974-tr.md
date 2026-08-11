@@ -23,6 +23,7 @@ tags:
   - ePub
   - Book-parent
   - Essential
+  - git-lit
 ---
 
 > [!bibliography]

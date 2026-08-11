@@ -15,6 +15,7 @@ type: "[[@inbook]]"
 tags:
   - HRM-Construction
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

@@ -21,6 +21,7 @@ tags:
   - llm-wiki-workflow
   - _Cataloged
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

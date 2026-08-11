@@ -13,6 +13,7 @@ tags:
   - ERC-ex-re
   - _BibTex-to-MD-Git
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

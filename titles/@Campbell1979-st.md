@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Politics-and-Society
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

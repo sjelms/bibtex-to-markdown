@@ -18,6 +18,7 @@ tags:
   - Cited-for-Frontiers
   - Labor
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

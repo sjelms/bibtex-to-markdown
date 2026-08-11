@@ -24,6 +24,7 @@ tags:
   - Cited-for-Frontiers
   - AEC
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

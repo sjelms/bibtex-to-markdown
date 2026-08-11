@@ -19,6 +19,7 @@ tags:
   - _XR-MR-VR-AR
   - HCI
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

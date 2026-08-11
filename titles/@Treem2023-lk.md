@@ -17,6 +17,7 @@ tags:
   - Braverman
   - _BibTex-to-MD-Git
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

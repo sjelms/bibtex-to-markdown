@@ -13,6 +13,7 @@ tags:
   - Reader_Obsidian
   - AEC
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

@@ -16,6 +16,7 @@ tags:
   - Thesis-Writing
   - PhD-Support-and-Training
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

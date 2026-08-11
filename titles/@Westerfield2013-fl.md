@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS
   - _XR-MR-VR-AR
+  - git-lit
 ---
 
 > [!bibliography]

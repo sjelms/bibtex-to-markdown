@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - Report
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

@@ -16,6 +16,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - Essential
+  - git-lit
 ---
 
 > [!bibliography]

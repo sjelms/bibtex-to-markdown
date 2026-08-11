@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

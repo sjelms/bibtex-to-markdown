@@ -17,6 +17,7 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
   - Report
+  - git-lit
 ---
 
 > [!bibliography]

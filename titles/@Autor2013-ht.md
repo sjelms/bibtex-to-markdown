@@ -20,6 +20,7 @@ tags:
   - _In-Readwise
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

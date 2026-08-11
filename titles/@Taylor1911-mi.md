@@ -12,6 +12,7 @@ tags:
   - Politics-and-Society
   - Labor
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

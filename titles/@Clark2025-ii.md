@@ -15,6 +15,7 @@ tags:
   - Website
   - Reader_Obsidian
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

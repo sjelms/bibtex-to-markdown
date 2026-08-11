@@ -17,6 +17,7 @@ tags:
   - llm-wiki-workflow
   - ePub
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

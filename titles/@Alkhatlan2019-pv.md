@@ -25,6 +25,7 @@ tags:
   - _Mark-Up
   - Course-Assignment
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

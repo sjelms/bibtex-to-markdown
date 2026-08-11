@@ -22,6 +22,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

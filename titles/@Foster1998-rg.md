@@ -15,6 +15,7 @@ tags:
   - ePub
   - Book-physical
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

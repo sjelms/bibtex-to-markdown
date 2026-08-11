@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

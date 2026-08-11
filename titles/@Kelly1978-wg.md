@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - RCPSP_Takt_Taylorism
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

@@ -12,6 +12,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

@@ -13,6 +13,7 @@ tags:
   - Marx_Labor
   - Knowledge-Skill-Acquisition
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

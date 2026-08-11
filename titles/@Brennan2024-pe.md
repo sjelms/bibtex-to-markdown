@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - _New-Literature
   - Report
+  - git-lit
 ---
 
 > [!bibliography]

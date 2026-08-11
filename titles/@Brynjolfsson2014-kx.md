@@ -22,6 +22,7 @@ tags:
   - Audiobook
   - ePub
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

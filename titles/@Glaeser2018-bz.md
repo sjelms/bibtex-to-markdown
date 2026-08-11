@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

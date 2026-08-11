@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition
   - Artificial-Intelligence-AI
+  - git-lit
 ---
 
 > [!bibliography]

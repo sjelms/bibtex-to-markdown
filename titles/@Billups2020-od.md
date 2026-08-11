@@ -18,6 +18,7 @@ tags:
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise
+  - git-lit
 ---
 
 > [!bibliography]

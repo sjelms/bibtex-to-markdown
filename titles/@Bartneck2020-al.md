@@ -19,6 +19,7 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - Artificial-Intelligence-AI
   - Robots
+  - git-lit
 ---
 
 > [!bibliography]

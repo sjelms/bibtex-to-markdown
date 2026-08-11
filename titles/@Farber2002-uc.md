@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

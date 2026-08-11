@@ -24,6 +24,7 @@ tags:
   - Labor
   - _In-Notion
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

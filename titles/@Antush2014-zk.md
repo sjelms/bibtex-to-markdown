@@ -16,6 +16,7 @@ tags:
   - Website
   - Reader_Obsidian
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

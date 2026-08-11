@@ -14,6 +14,7 @@ tags:
   - RDL-CCME0041
   - _BibTex-to-MD-Git
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

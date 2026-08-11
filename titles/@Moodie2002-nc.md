@@ -26,6 +26,7 @@ tags:
   - Training
   - _Cataloged
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

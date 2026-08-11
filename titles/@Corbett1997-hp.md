@@ -19,6 +19,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS
+  - git-lit
 ---
 
 > [!bibliography]

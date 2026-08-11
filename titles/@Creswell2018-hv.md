@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-physical
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

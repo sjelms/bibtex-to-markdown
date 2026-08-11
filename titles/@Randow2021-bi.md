@@ -18,6 +18,7 @@ tags:
   - Notion-Catalogued
   - _BibTex-to-MD-Git
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

@@ -25,6 +25,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

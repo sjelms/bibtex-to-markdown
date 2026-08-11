@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - ePub
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

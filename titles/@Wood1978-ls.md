@@ -19,6 +19,7 @@ tags:
   - Scaffolding
   - Knowledge-Skill-Acquisition
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

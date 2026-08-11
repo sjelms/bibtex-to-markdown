@@ -27,6 +27,7 @@ tags:
   - AEC
   - _New-Literature
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

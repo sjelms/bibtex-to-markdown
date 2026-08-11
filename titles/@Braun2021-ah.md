@@ -19,6 +19,7 @@ tags:
   - _New-Literature
   - Book-physical
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

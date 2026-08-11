@@ -28,6 +28,7 @@ tags:
   - _In-Readwise
   - ePub
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

@@ -16,6 +16,7 @@ tags:
   - Marx_Labor
   - Fieldwork-Methodology
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

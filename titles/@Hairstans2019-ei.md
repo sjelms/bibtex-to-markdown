@@ -24,6 +24,7 @@ tags:
   - Cross-Ref-Chapter
   - Essential
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

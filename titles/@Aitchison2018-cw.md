@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

@@ -18,6 +18,7 @@ tags:
   - Marx_Labor
   - Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

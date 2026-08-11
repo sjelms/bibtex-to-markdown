@@ -19,6 +19,7 @@ tags:
   - _In-Readwise
   - Book-physical
   - Important
+  - git-lit
 ---
 
 > [!bibliography]

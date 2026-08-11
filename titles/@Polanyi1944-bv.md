@@ -16,6 +16,7 @@ tags:
   - ePub
   - Economics
   - Politics-and-Society
+  - git-lit
 ---
 
 > [!bibliography]

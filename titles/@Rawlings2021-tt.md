@@ -10,6 +10,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - git-lit
 ---
 
 > [!bibliography]

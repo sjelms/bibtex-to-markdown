@@ -23,6 +23,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

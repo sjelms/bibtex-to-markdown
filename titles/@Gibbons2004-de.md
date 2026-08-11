@@ -15,6 +15,7 @@ tags:
   - 003_Theoretical-Framework
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

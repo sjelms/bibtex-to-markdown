@@ -25,6 +25,7 @@ tags:
   - _XR-MR-VR-AR
   - _New-Literature
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

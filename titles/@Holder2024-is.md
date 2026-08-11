@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Audiobook
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

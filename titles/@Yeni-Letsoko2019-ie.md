@@ -19,6 +19,7 @@ tags:
   - AEC
   - Labor
   - Skill-demand
+  - git-lit
 ---
 
 > [!bibliography]

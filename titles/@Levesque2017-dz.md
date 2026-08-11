@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Artificial-Intelligence-AI
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

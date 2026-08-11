@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Philosophy-of-Education
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

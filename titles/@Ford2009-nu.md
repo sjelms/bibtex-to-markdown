@@ -14,6 +14,7 @@ tags:
   - Artificial-Intelligence-AI
   - Robots
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

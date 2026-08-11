@@ -23,6 +23,7 @@ tags:
   - _Mark-Up
   - _In-Readwise
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

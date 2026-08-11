@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - General-Interest-Periodicals-United-States
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

@@ -18,6 +18,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - Report
+  - git-lit
 ---
 
 > [!bibliography]

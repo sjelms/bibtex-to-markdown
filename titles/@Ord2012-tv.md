@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - Education
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

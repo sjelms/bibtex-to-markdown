@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-physical
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

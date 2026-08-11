@@ -16,6 +16,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - _New-Literature
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

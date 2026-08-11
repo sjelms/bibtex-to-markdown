@@ -20,6 +20,7 @@ tags:
   - Skill-demand
   - AEC
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Economics
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

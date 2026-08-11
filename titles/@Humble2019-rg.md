@@ -17,6 +17,7 @@ tags:
   - AIEd
   - _Mark-Up
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

@@ -25,6 +25,7 @@ tags:
   - Important
   - Read
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

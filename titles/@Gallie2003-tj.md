@@ -20,6 +20,7 @@ tags:
   - Labor
   - Skill-demand
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

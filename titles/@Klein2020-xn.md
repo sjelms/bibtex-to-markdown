@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Audiobook
   - Politics-and-Society
+  - git-lit
 ---
 
 > [!bibliography]

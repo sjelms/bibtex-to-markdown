@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - _New-Literature
   - Skill-demand
+  - git-lit
 ---
 
 > [!bibliography]

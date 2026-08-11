@@ -25,6 +25,7 @@ tags:
   - AEC
   - Essential
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

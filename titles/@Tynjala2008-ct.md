@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

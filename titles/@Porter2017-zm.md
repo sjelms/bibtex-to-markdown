@@ -17,6 +17,7 @@ tags:
   - _Mark-Up
   - Reader_Obsidian
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

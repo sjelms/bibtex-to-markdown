@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Reader_Obsidian
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

@@ -12,6 +12,7 @@ publisher: "[[Cambridge University Press]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

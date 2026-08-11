@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - _XR-MR-VR-AR
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

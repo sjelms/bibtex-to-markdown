@@ -18,6 +18,7 @@ tags:
   - _In-Readwise
   - _New-Literature
   - _XR-MR-VR-AR
+  - git-lit
 ---
 
 > [!bibliography]

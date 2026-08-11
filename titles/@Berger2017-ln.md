@@ -20,6 +20,7 @@ tags:
   - Skill-demand
   - _New-Literature
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

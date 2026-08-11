@@ -14,6 +14,7 @@ tags:
   - General-Interest-Periodicals-United-States
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

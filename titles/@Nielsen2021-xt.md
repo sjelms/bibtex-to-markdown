@@ -18,6 +18,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - Training
+  - git-lit
 ---
 
 > [!bibliography]

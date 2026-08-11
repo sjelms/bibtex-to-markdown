@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

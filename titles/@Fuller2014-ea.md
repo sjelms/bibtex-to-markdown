@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - Cross-Ref-Chapter
   - UCL
+  - git-lit
 ---
 
 > [!bibliography]

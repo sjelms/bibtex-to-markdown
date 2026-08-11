@@ -20,6 +20,7 @@ tags:
   - Workplace-Learning
   - Future-of-Work
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

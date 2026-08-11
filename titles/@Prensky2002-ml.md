@@ -18,6 +18,7 @@ tags:
   - Game-Engine
   - _New-Literature
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

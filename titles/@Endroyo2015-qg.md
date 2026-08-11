@@ -23,6 +23,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

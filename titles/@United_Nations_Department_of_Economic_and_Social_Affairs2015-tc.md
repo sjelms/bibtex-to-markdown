@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

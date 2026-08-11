@@ -13,6 +13,7 @@ tags:
   - Frontiers-2022
   - _BibTex-to-MD-Git
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

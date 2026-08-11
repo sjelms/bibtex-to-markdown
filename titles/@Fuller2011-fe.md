@@ -22,6 +22,7 @@ tags:
   - _Cataloged
   - _In-ClickUp
   - UCL
+  - git-lit
 ---
 
 > [!bibliography]

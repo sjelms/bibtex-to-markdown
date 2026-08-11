@@ -16,6 +16,7 @@ tags:
   - _Cataloged
   - _New-Literature
   - Digital-Literacies
+  - git-lit
 ---
 
 > [!bibliography]

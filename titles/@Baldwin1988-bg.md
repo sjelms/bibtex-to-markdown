@@ -20,6 +20,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Skill-demand
   - job-satisfaction
+  - git-lit
 ---
 
 > [!bibliography]

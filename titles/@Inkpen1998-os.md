@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

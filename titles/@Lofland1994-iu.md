@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Fieldwork-Methodology
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

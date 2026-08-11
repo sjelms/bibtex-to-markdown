@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - ePub
   - _XR-MR-VR-AR
+  - git-lit
 ---
 
 > [!bibliography]

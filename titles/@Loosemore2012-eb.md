@@ -20,6 +20,7 @@ tags:
   - ePub
   - AEC
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

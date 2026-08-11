@@ -10,6 +10,7 @@ tags:
   - _BibTex-to-MD-Git
   - _New-Literature
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

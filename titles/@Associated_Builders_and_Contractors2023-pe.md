@@ -15,6 +15,7 @@ tags:
   - Reader_Obsidian
   - _In-Notion
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

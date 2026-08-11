@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - PhD-Support-and-Training
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

@@ -35,6 +35,7 @@ tags:
   - Essential
   - _Cataloged
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

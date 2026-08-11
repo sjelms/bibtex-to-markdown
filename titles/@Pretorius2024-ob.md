@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - PhD-Support-and-Training
   - Fieldwork-Methodology
+  - git-lit
 ---
 
 > [!bibliography]

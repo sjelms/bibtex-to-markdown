@@ -19,6 +19,7 @@ tags:
   - _New-Literature
   - ePub
   - Audiobook
+  - git-lit
 ---
 
 > [!bibliography]

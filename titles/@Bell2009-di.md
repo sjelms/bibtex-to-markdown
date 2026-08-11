@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - Thesis
+  - git-lit
 ---
 
 > [!bibliography]

@@ -23,6 +23,7 @@ tags:
   - VET
   - _In-ClickUp
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

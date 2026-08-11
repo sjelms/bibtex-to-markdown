@@ -19,6 +19,7 @@ tags:
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

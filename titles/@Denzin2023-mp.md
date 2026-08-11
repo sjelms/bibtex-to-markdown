@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

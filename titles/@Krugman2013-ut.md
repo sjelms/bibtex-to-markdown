@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - _Cataloged
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

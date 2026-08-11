@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - Metaphor-and-Thought
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

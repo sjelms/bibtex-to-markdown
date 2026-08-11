@@ -13,6 +13,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Future-of-Work
+  - git-lit
 ---
 
 > [!bibliography]

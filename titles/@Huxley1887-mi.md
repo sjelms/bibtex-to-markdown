@@ -11,6 +11,7 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

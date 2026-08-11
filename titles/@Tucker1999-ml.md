@@ -24,6 +24,7 @@ tags:
   - AEC
   - Labor
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

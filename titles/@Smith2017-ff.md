@@ -24,6 +24,7 @@ tags:
   - _In-Readwise
   - ePub
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

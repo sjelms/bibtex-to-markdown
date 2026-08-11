@@ -12,6 +12,7 @@ tags:
   - Website
   - Reader_Obsidian
   - General-Interest-Periodicals-United-States
+  - git-lit
 ---
 
 > [!bibliography]

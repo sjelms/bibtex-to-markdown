@@ -18,6 +18,7 @@ tags:
   - Labor
   - _New-Literature
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

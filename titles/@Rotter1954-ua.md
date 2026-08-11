@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-parent
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

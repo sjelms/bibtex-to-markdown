@@ -14,6 +14,7 @@ tags:
   - Economics
   - Politics-and-Society
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

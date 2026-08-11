@@ -14,6 +14,7 @@ type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

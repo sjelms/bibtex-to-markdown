@@ -15,6 +15,7 @@ tags:
   - ePub
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

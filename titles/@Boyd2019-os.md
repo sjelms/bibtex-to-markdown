@@ -18,6 +18,7 @@ tags:
   - Economics
   - Future-of-Work
   - DO-NOT-CITE-–-BAD-REFS
+  - git-lit
 ---
 
 > [!bibliography]

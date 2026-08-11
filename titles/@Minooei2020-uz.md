@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - VET
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

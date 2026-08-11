@@ -14,6 +14,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - UCL
+  - git-lit
 ---
 
 > [!bibliography]

@@ -20,6 +20,7 @@ tags:
   - Frontiers-2021
   - Journal-Articles
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

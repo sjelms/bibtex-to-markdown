@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-physical
   - HCI
+  - git-lit
 ---
 
 > [!bibliography]

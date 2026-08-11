@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

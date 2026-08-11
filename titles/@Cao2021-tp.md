@@ -21,6 +21,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

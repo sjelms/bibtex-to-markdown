@@ -20,6 +20,7 @@ tags:
   - Robots
   - Training
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

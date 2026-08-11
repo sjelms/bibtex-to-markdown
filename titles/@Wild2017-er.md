@@ -19,6 +19,7 @@ tags:
   - _Mark-Up
   - _XR-MR-VR-AR
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

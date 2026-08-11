@@ -13,6 +13,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

@@ -13,6 +13,7 @@ tags:
   - llm-wiki-workflow
   - UCL
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

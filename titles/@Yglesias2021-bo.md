@@ -12,6 +12,7 @@ tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

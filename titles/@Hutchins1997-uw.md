@@ -21,6 +21,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

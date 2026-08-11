@@ -26,6 +26,7 @@ tags:
   - Essential
   - _New-Literature
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

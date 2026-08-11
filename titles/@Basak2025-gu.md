@@ -11,6 +11,7 @@ type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
   - YouTube
+  - git-lit
 ---
 
 > [!bibliography]

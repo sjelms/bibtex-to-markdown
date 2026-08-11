@@ -15,6 +15,7 @@ tags:
   - Workplace-Learning
   - Future-of-Work
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

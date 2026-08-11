@@ -14,6 +14,7 @@ tags:
   - AEC
   - ePub
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

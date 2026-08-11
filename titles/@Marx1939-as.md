@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Marx_Labor
   - Politics-and-Society
+  - git-lit
 ---
 
 > [!bibliography]

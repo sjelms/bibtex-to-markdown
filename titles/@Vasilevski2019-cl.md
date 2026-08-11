@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - _XR-MR-VR-AR
   - HCI
+  - git-lit
 ---
 
 > [!bibliography]

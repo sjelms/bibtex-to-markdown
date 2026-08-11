@@ -18,6 +18,7 @@ tags:
   - _In-Readwise
   - Education
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

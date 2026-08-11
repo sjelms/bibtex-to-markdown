@@ -38,6 +38,7 @@ tags:
   - 003_Theoretical-Framework
   - _Cataloged
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

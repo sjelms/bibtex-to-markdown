@@ -21,6 +21,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

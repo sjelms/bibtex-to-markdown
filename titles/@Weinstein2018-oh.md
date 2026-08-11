@@ -21,6 +21,7 @@ tags:
   - _New-Literature
   - Education
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

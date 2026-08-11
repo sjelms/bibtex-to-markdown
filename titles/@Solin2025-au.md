@@ -17,6 +17,7 @@ tags:
   - Training
   - VET
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

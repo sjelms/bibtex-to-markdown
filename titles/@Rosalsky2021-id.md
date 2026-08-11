@@ -16,6 +16,7 @@ tags:
   - Website
   - Automation
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

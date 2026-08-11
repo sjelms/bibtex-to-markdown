@@ -22,6 +22,7 @@ tags:
   - llm-wiki-workflow
   - _In-Readwise
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

@@ -17,6 +17,7 @@ tags:
   - llm-wiki-workflow
   - _Cataloged
   - Interview
+  - git-lit
 ---
 
 > [!bibliography]

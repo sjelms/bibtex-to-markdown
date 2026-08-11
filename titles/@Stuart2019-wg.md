@@ -23,6 +23,7 @@ tags:
   - _New-Literature
   - Labor
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

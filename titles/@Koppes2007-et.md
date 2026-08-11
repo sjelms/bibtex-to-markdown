@@ -17,6 +17,7 @@ tags:
   - Psychology
   - Training
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

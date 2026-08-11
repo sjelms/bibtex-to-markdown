@@ -18,6 +18,7 @@ tags:
   - llm-wiki-workflow
   - Research-Methods
   - Fieldwork-Methodology
+  - git-lit
 ---
 
 > [!bibliography]

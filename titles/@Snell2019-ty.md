@@ -21,6 +21,7 @@ tags:
   - Labor
   - Cited-for-Frontiers
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

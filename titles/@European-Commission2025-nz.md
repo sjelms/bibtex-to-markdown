@@ -17,6 +17,7 @@ tags:
   - Economics
   - AEC
   - Report
+  - git-lit
 ---
 
 > [!bibliography]

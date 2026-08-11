@@ -19,6 +19,7 @@ tags:
   - Artificial-Intelligence-AI
   - AIEd
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

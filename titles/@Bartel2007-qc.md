@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Columbia-University
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

@@ -17,6 +17,7 @@ tags:
   - Audiobook
   - Book-physical
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

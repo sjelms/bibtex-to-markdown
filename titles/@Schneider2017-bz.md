@@ -21,6 +21,7 @@ tags:
   - _XR-MR-VR-AR
   - _Mark-Up
   - Cited-for-Frontiers
+  - git-lit
 ---
 
 > [!bibliography]

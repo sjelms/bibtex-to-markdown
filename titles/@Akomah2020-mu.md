@@ -18,6 +18,7 @@ tags:
   - Labor
   - _Mark-Up
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

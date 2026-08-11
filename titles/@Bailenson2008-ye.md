@@ -23,6 +23,7 @@ tags:
   - _New-Literature
   - _XR-MR-VR-AR
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

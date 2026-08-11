@@ -25,6 +25,7 @@ tags:
   - llm-wiki-workflow
   - ePub
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

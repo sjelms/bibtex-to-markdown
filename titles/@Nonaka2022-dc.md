@@ -17,6 +17,7 @@ tags:
   - _BibTex-to-MD-Git
   - Knowledge-Skill-Acquisition
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

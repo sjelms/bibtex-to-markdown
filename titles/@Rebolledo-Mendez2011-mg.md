@@ -24,6 +24,7 @@ tags:
   - UCL
   - Cited-for-Frontiers
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

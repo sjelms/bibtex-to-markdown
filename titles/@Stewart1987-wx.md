@@ -10,6 +10,7 @@ publisher: "[[Krieger Publishing Company]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

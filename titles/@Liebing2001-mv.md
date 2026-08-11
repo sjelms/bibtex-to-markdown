@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

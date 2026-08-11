@@ -13,6 +13,7 @@ tags:
   - Marx_Labor
   - Economics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

@@ -17,6 +17,7 @@ tags:
   - Training
   - Knowledge-Skill-Acquisition
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

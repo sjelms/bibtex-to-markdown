@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - PhD-Support-and-Training
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

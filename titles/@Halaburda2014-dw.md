@@ -14,6 +14,7 @@ tags:
   - HBR_Harvard
   - Technological-change
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

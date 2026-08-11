@@ -16,6 +16,7 @@ tags:
   - Marx_Labor
   - Thesis
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

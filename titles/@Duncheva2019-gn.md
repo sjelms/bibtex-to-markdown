@@ -13,6 +13,7 @@ tags:
   - Critical-Realism
   - llm-wiki-workflow
   - Thesis
+  - git-lit
 ---
 
 > [!bibliography]

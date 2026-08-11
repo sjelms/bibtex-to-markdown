@@ -17,6 +17,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

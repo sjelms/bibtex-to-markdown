@@ -15,6 +15,7 @@ tags:
   - Labor
   - Economics
   - Politics-and-Society
+  - git-lit
 ---
 
 > [!bibliography]

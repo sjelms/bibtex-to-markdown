@@ -16,6 +16,7 @@ tags:
   - _XR-MR-VR-AR
   - Training
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

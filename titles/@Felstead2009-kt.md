@@ -25,6 +25,7 @@ tags:
   - ePub
   - _Mark-Up
   - Essential
+  - git-lit
 ---
 
 > [!bibliography]

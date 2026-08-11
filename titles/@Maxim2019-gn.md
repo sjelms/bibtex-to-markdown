@@ -15,6 +15,7 @@ tags:
   - Economics
   - Labor
   - Artificial-Intelligence-AI
+  - git-lit
 ---
 
 > [!bibliography]

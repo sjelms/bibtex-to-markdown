@@ -13,6 +13,7 @@ tags:
   - Reader_Obsidian
   - Economics
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

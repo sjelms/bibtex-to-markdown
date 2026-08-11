@@ -10,6 +10,7 @@ type: "[[@online]]"
 tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

@@ -26,6 +26,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Cited-for-Frontiers
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

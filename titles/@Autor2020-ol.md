@@ -26,6 +26,7 @@ tags:
   - Employment
   - Skill-demand
   - Technological-change
+  - git-lit
 ---
 
 > [!bibliography]

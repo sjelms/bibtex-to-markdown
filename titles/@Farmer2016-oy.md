@@ -19,6 +19,7 @@ tags:
   - Report
   - Labor
   - Skill-demand
+  - git-lit
 ---
 
 > [!bibliography]

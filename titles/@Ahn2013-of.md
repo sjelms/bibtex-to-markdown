@@ -18,6 +18,7 @@ tags:
   - llm-wiki-workflow
   - Accessibility
   - _XR-MR-VR-AR
+  - git-lit
 ---
 
 > [!bibliography]

@@ -17,6 +17,7 @@ tags:
   - _In-Readwise
   - Workplace-Learning
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

@@ -13,6 +13,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

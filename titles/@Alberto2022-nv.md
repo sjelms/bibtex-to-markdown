@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

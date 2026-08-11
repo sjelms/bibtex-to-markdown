@@ -13,6 +13,7 @@ volume: 68
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

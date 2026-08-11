@@ -27,6 +27,7 @@ tags:
   - _In-Readwise
   - AEC
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

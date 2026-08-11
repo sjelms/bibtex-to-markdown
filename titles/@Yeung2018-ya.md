@@ -26,6 +26,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Workplace-Learning
   - AIEd
+  - git-lit
 ---
 
 > [!bibliography]

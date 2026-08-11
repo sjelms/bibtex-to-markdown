@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - Labor
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

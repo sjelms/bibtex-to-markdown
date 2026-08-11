@@ -13,6 +13,7 @@ tags:
   - Training
   - _Cataloged
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

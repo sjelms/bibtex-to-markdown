@@ -16,6 +16,7 @@ tags:
   - Labor
   - Skill-demand
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

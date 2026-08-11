@@ -22,6 +22,7 @@ tags:
   - AEC
   - Important
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

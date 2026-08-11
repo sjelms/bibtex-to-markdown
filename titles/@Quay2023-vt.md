@@ -21,6 +21,7 @@ tags:
   - Marx_Labor
   - Psychology
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

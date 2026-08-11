@@ -21,6 +21,7 @@ tags:
   - _New-Literature
   - ACM
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

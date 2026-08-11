@@ -25,6 +25,7 @@ tags:
   - Essential
   - _In-ClickUp
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

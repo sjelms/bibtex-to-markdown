@@ -18,6 +18,7 @@ tags:
   - Rowland
   - _BibTex-to-MD-Git
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

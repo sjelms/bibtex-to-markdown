@@ -19,6 +19,7 @@ tags:
   - ePub
   - Cross-Ref-Chapter
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

@@ -19,6 +19,7 @@ tags:
   - _BibTex-to-MD-Git
   - Workplace-Learning
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

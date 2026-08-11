@@ -32,6 +32,7 @@ tags:
   - _New-Literature
   - Cross-Ref-Chapter
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

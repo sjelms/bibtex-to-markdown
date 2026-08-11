@@ -16,6 +16,7 @@ tags:
   - Labor
   - Future-of-Work
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

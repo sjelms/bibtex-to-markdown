@@ -19,6 +19,7 @@ tags:
   - Future-of-Work
   - Labor
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

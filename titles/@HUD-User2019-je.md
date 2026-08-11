@@ -15,6 +15,7 @@ tags:
   - Website
   - Report
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

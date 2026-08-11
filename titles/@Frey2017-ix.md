@@ -25,6 +25,7 @@ tags:
   - Wage-inequality
   - ePub
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

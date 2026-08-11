@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

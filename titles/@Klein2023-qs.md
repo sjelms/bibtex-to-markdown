@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Reader_Obsidian
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

@@ -24,6 +24,7 @@ tags:
   - _BibTex-to-MD-Git
   - YouTube
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

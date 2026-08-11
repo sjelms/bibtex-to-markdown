@@ -22,6 +22,7 @@ tags:
   - Robots
   - Economics
   - Technological-change
+  - git-lit
 ---
 
 > [!bibliography]

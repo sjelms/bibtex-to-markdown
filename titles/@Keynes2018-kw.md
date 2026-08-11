@@ -13,6 +13,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

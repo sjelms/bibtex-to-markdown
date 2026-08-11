@@ -30,6 +30,7 @@ tags:
   - _In-ClickUp
   - _Mark-Up
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

@@ -17,6 +17,7 @@ tags:
   - Critical-Realism
   - llm-wiki-workflow
   - Marx_Labor
+  - git-lit
 ---
 
 > [!bibliography]

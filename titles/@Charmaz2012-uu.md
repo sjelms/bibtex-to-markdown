@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Research-Methods
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

@@ -11,6 +11,7 @@ type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

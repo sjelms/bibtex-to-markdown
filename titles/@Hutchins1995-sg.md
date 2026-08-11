@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Psychology
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

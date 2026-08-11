@@ -18,6 +18,7 @@ tags:
   - Workplace-Learning
   - Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

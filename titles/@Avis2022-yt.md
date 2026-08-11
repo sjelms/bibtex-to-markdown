@@ -16,6 +16,7 @@ tags:
   - Marx_Labor
   - Workplace-Learning
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

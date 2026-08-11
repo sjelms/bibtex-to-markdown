@@ -51,6 +51,7 @@ tags:
   - _BibTex-to-MD-Git
   - Artificial-Intelligence-AI
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

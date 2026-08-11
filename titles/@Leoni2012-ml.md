@@ -16,6 +16,7 @@ tags:
   - Future-of-Work
   - Labor
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

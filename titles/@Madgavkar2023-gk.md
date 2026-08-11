@@ -23,6 +23,7 @@ tags:
   - llm-wiki-workflow
   - Future-of-Work
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

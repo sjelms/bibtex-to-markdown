@@ -33,6 +33,7 @@ tags:
   - Labor
   - _Cataloged
   - Essential
+  - git-lit
 ---
 
 > [!bibliography]

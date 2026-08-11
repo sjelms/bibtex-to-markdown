@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - UCL
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

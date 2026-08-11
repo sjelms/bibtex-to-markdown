@@ -23,6 +23,7 @@ tags:
   - llm-wiki-workflow
   - Knowledge-Skill-Acquisition
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

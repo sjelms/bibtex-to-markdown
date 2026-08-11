@@ -12,6 +12,7 @@ tags:
   - Politics-and-Society
   - General-Interest-Periodicals-United-States
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

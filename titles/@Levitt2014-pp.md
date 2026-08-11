@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-physical
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

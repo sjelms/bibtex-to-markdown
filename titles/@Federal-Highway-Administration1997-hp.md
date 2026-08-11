@@ -11,6 +11,7 @@ tags:
   - Abundance-Footnotes
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - git-lit
 ---
 
 > [!bibliography]

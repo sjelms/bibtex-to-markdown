@@ -16,6 +16,7 @@ tags:
   - Economics
   - Automation
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

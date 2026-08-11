@@ -15,6 +15,7 @@ tags:
   - Technological-change
   - Artificial-Intelligence-AI
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

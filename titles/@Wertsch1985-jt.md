@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

@@ -20,6 +20,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

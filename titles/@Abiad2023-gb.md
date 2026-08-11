@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - Thesis-Writing
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

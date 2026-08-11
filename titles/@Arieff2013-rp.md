@@ -13,6 +13,7 @@ tags:
   - AEC
   - Reader_Obsidian
   - Read
+  - git-lit
 ---
 
 > [!bibliography]

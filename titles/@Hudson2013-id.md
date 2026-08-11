@@ -21,6 +21,7 @@ tags:
   - llm-wiki-workflow
   - Labor
   - Statistics
+  - git-lit
 ---
 
 > [!bibliography]

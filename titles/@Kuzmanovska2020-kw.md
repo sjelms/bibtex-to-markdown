@@ -27,6 +27,7 @@ tags:
   - llm-wiki-workflow
   - Thesis
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

@@ -33,6 +33,7 @@ tags:
   - Book-parent
   - Book-child
   - Cross-Ref-Chapter
+  - git-lit
 ---
 
 > [!bibliography]

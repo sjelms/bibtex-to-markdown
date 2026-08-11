@@ -18,6 +18,7 @@ tags:
   - Fieldwork-Methodology
   - PhD-Support-and-Training
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

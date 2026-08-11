@@ -13,6 +13,7 @@ tags:
   - Marx_Labor
   - Report
   - Columbia-University
+  - git-lit
 ---
 
 > [!bibliography]

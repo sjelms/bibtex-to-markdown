@@ -20,6 +20,7 @@ tags:
   - llm-wiki-workflow
   - _Cataloged
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

@@ -18,6 +18,7 @@ type: "[[@video]]"
 tags:
   - _BibTex-to-MD-Git
   - Multimedia
+  - git-lit
 ---
 
 > [!bibliography]

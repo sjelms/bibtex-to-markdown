@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor
+  - git-lit
 ---
 
 > [!bibliography]

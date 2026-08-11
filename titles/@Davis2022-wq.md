@@ -17,6 +17,7 @@ tags:
   - 003_Theoretical-Framework
   - _Cataloged
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

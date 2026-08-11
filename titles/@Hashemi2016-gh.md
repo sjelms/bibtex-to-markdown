@@ -20,6 +20,7 @@ tags:
   - ePub
   - Cross-Ref-Chapter
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

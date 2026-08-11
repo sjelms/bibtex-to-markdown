@@ -36,6 +36,7 @@ tags:
   - Report
   - ePub
   - Training
+  - git-lit
 ---
 
 > [!bibliography]

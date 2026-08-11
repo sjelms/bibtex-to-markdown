@@ -20,6 +20,7 @@ tags:
   - Critical-Realism
   - llm-wiki-workflow
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

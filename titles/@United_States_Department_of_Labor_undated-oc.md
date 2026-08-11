@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Labor
   - Website
+  - git-lit
 ---
 
 > [!bibliography]

@@ -15,6 +15,7 @@ tags:
   - YouTube
   - _XR-MR-VR-AR
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

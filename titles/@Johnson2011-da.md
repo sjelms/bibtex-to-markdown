@@ -16,6 +16,7 @@ tags:
   - _In-Readwise
   - ePub
   - Audiobook
+  - git-lit
 ---
 
 > [!bibliography]

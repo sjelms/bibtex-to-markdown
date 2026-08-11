@@ -12,6 +12,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - Marx_Labor
+  - git-lit
 ---
 
 > [!bibliography]

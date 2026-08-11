@@ -15,6 +15,7 @@ tags:
   - Podcast
   - _Cataloged
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

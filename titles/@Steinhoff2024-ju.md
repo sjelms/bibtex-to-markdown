@@ -19,6 +19,7 @@ tags:
   - 003_NBLM
   - Labor
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

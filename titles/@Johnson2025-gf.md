@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - AEC
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

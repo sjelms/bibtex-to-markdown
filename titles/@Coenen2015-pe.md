@@ -19,6 +19,7 @@ tags:
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

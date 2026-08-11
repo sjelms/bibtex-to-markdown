@@ -21,6 +21,7 @@ tags:
   - llm-wiki-workflow
   - Cited-for-Frontiers
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

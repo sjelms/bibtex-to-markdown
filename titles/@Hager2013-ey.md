@@ -33,6 +33,7 @@ tags:
   - Cross-Ref-Chapter
   - Reader_Obsidian
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

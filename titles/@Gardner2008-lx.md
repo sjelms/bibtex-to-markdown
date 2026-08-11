@@ -14,6 +14,7 @@ tags:
   - ePub
   - _In-Notion
   - _In-Readwise
+  - git-lit
 ---
 
 > [!bibliography]

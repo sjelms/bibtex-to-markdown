@@ -18,6 +18,7 @@ tags:
   - llm-wiki-workflow
   - Artificial-Intelligence-AI
   - Future-of-Work
+  - git-lit
 ---
 
 > [!bibliography]

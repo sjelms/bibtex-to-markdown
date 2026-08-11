@@ -25,6 +25,7 @@ tags:
   - Important
   - _Mark-Up
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

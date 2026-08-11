@@ -31,6 +31,7 @@ tags:
   - _New-Literature
   - Fieldwork-Methodology
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

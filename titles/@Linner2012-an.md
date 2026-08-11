@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - Offsite_NBLM
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

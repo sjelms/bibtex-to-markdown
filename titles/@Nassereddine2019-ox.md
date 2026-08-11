@@ -23,6 +23,7 @@ tags:
   - _In-Readwise
   - _In-Notion
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

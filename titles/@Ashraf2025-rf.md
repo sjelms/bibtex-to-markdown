@@ -17,6 +17,7 @@ tags:
   - Future-of-Work
   - Workplace-Learning
   - Essential
+  - git-lit
 ---
 
 > [!bibliography]

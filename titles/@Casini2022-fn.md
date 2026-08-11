@@ -22,6 +22,7 @@ tags:
   - Essential
   - Labor
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

@@ -25,6 +25,7 @@ tags:
   - HCI
   - _Cataloged
   - Interview
+  - git-lit
 ---
 
 > [!bibliography]

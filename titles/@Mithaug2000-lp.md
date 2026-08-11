@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

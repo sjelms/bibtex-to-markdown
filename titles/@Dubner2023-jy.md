@@ -17,6 +17,7 @@ tags:
   - _Cataloged
   - _In-ClickUp
   - _Mark-Up
+  - git-lit
 ---
 
 > [!bibliography]

@@ -23,6 +23,7 @@ tags:
   - Essential
   - Workplace-Learning
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

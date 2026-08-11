@@ -14,6 +14,7 @@ tags:
   - Automation
   - Website
   - Statistics
+  - git-lit
 ---
 
 > [!bibliography]

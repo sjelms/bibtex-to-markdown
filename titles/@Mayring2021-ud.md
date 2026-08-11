@@ -18,6 +18,7 @@ tags:
   - _In-Notion
   - _In-Readwise
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

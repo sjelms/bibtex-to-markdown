@@ -14,6 +14,7 @@ tags:
   - _In-Readwise
   - AEC
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

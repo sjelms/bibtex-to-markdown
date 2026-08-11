@@ -22,6 +22,7 @@ tags:
   - _In-Readwise
   - _Mark-Up
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

@@ -14,6 +14,7 @@ tags:
   - AEC
   - _In-Readwise
   - Reader_Obsidian
+  - git-lit
 ---
 
 > [!bibliography]

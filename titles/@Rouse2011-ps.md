@@ -15,6 +15,7 @@ tags:
   - Psychology
   - Training
   - job-satisfaction
+  - git-lit
 ---
 
 > [!bibliography]

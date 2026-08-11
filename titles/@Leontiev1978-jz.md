@@ -12,6 +12,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Education
   - Philosophy-of-Education
+  - git-lit
 ---
 
 > [!bibliography]

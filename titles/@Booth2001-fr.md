@@ -17,6 +17,7 @@ tags:
   - llm-wiki-workflow
   - Labor
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

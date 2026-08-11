@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Statistics
+  - git-lit
 ---
 
 > [!bibliography]

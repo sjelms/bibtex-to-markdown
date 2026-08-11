@@ -23,6 +23,7 @@ tags:
   - Course-Assignment
   - _New-Literature
   - Research-Methods
+  - git-lit
 ---
 
 > [!bibliography]

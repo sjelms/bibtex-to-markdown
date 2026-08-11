@@ -22,6 +22,7 @@ tags:
   - llm-wiki-workflow
   - Artificial-Intelligence-AI
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

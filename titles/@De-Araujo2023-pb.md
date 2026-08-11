@@ -24,6 +24,7 @@ tags:
   - llm-wiki-workflow
   - AEC
   - Systematic-Review
+  - git-lit
 ---
 
 > [!bibliography]

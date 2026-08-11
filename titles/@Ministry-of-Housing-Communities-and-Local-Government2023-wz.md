@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - Report
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Knowledge-Skill-Acquisition
   - Education
+  - git-lit
 ---
 
 > [!bibliography]

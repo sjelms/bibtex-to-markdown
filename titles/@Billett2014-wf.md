@@ -18,6 +18,7 @@ tags:
   - Workplace-Learning
   - _New-Literature
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

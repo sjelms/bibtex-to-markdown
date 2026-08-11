@@ -17,6 +17,7 @@ tags:
   - Future-of-Work
   - Statistics
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

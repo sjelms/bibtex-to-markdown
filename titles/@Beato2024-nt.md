@@ -39,6 +39,7 @@ tags:
   - ePub
   - Economics
   - Artificial-Intelligence-AI
+  - git-lit
 ---
 
 > [!bibliography]

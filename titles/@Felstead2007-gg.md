@@ -17,6 +17,7 @@ tags:
   - Knowledge-Skill-Acquisition
   - Skill-demand
   - Labor
+  - git-lit
 ---
 
 > [!bibliography]

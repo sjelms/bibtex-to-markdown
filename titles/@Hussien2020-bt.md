@@ -26,6 +26,7 @@ tags:
   - _In-Readwise
   - _Mark-Up
   - _XR-MR-VR-AR
+  - git-lit
 ---
 
 > [!bibliography]

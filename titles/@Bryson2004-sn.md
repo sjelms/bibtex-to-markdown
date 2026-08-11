@@ -10,6 +10,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Book-physical
+  - git-lit
 ---
 
 > [!bibliography]

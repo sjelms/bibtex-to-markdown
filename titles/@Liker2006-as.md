@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - Labor
   - Future-of-Work
+  - git-lit
 ---
 
 > [!bibliography]

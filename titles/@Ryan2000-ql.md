@@ -17,6 +17,7 @@ tags:
   - _BibTex-to-MD-Git
   - Research-Methods
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

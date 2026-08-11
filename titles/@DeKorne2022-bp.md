@@ -19,6 +19,7 @@ tags:
   - _Cataloged
   - Labor
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

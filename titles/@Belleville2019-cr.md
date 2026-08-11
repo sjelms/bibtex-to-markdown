@@ -14,6 +14,7 @@ tags:
   - Thesis-Writing
   - _BibTex-to-MD-Git
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

@@ -15,6 +15,7 @@ tags:
   - llm-wiki-workflow
   - Offsite_NBLM
   - AEC
+  - git-lit
 ---
 
 > [!bibliography]

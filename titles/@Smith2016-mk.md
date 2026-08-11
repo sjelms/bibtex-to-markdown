@@ -18,6 +18,7 @@ tags:
   - AEC
   - Reader_Obsidian
   - Website
+  - git-lit
 ---
 
 > [!bibliography]

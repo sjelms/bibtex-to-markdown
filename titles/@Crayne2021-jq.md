@@ -23,6 +23,7 @@ tags:
   - _In-Readwise
   - _New-Literature
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

@@ -14,6 +14,7 @@ tags:
   - Reader_Obsidian
   - _In-Readwise
   - Important
+  - git-lit
 ---
 
 > [!bibliography]

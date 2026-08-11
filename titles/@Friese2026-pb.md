@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - Artificial-Intelligence-AI
   - QDA
+  - git-lit
 ---
 
 > [!bibliography]

@@ -15,6 +15,7 @@ tags:
   - Training
   - Psychology
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

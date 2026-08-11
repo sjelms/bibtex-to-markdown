@@ -16,6 +16,7 @@ tags:
   - Marx_Labor
   - Psychology
   - Philosophy-of-Education
+  - git-lit
 ---
 
 > [!bibliography]

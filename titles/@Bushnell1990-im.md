@@ -19,6 +19,7 @@ tags:
   - Research-Methods
   - _Mark-Up
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

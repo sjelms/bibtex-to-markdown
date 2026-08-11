@@ -25,6 +25,7 @@ tags:
   - _BibTex-to-MD-Git
   - Book-physical
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

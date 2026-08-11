@@ -22,6 +22,7 @@ tags:
   - Cited-for-Frontiers
   - Labor
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

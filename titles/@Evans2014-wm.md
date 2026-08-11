@@ -19,6 +19,7 @@ tags:
   - Thesis-Writing
   - PhD-Support-and-Training
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

@@ -15,6 +15,7 @@ tags:
   - _In-Readwise
   - _XR-MR-VR-AR
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

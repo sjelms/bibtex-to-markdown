@@ -21,6 +21,7 @@ tags:
   - RCPSP_Takt_Taylorism
   - Training
   - Psychology
+  - git-lit
 ---
 
 > [!bibliography]

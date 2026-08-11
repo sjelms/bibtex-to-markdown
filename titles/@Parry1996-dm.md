@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Training
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

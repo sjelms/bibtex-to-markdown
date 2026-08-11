@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

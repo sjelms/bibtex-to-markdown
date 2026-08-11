@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Automation
   - Website
+  - git-lit
 ---
 
 > [!bibliography]

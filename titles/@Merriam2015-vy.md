@@ -24,6 +24,7 @@ tags:
   - _In-Readwise
   - _In-Notion
   - Fieldwork-Methodology
+  - git-lit
 ---
 
 > [!bibliography]

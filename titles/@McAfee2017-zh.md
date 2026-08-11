@@ -19,6 +19,7 @@ tags:
   - Future-of-Work
   - Economics
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

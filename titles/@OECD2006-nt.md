@@ -14,6 +14,7 @@ tags:
   - Skill-demand
   - Labor
   - VET
+  - git-lit
 ---
 
 > [!bibliography]

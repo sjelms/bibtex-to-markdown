@@ -16,6 +16,7 @@ tags:
   - Technological-change
   - Artificial-Intelligence-AI
   - PhD-Support-and-Training
+  - git-lit
 ---
 
 > [!bibliography]

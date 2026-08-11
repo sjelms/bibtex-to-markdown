@@ -20,6 +20,7 @@ tags:
   - Cited-for-Frontiers
   - _In-Notion
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

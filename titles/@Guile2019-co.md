@@ -30,6 +30,7 @@ tags:
   - Economics
   - _Cataloged
   - Book-parent
+  - git-lit
 ---
 
 > [!bibliography]

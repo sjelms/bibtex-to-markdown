@@ -15,6 +15,7 @@ tags:
   - Healthcare-and-CME
   - _BibTex-to-MD-Git
   - _Cataloged
+  - git-lit
 ---
 
 > [!bibliography]

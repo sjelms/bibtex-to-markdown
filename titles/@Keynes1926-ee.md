@@ -10,6 +10,7 @@ type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

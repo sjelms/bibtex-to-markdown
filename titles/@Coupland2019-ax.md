@@ -13,6 +13,7 @@ tags:
   - BSSC-Seed-Fund-for-AI-Research
   - Workplace-Learning
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

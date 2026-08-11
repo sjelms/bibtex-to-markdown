@@ -34,6 +34,7 @@ tags:
   - Marx_Labor
   - Labor
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]

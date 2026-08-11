@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Cited-for-Frontiers
   - _In-Notion
+  - git-lit
 ---
 
 > [!bibliography]

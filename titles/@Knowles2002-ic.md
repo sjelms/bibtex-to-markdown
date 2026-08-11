@@ -12,6 +12,7 @@ tags:
   - _BibTex-to-MD-Git
   - Andragogy
   - _New-Literature
+  - git-lit
 ---
 
 > [!bibliography]

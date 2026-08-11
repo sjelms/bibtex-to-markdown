@@ -24,6 +24,7 @@ tags:
   - _In-Readwise
   - _Cataloged
   - _In-ClickUp
+  - git-lit
 ---
 
 > [!bibliography]

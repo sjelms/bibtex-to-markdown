@@ -21,6 +21,7 @@ tags:
   - Report
   - Essential
   - ePub
+  - git-lit
 ---
 
 > [!bibliography]

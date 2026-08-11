@@ -13,6 +13,7 @@ type: "[[@book]]"
 tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
+  - git-lit
 ---
 
 > [!bibliography]

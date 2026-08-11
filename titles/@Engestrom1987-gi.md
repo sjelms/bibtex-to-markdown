@@ -16,6 +16,7 @@ tags:
   - Marx_Labor
   - 003_NBLM
   - Knowledge-Skill-Acquisition
+  - git-lit
 ---
 
 > [!bibliography]

@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - Marx_Labor
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

@@ -18,6 +18,7 @@ tags:
   - Marx_Labor
   - Research-Methods
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

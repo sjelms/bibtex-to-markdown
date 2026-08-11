@@ -13,6 +13,7 @@ tags:
   - llm-wiki-workflow
   - LexisNexis
   - Future-of-Work
+  - git-lit
 ---
 
 > [!bibliography]

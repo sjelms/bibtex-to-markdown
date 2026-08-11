@@ -21,6 +21,7 @@ tags:
   - _In-Readwise
   - Cross-Ref-Chapter
   - Book-child
+  - git-lit
 ---
 
 > [!bibliography]

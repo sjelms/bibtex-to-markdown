@@ -22,6 +22,7 @@ tags:
   - _Cataloged
   - _In-ClickUp
   - Cross-Ref-Chapter
+  - git-lit
 ---
 
 > [!bibliography]

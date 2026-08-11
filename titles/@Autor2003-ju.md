@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Future-of-Work
+  - git-lit
 ---
 
 > [!bibliography]

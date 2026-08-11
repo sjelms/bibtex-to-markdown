@@ -18,6 +18,7 @@ tags:
   - Future-of-Work
   - Economics
   - Technological-change
+  - git-lit
 ---
 
 > [!bibliography]
