@@ -21,6 +21,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - Offsite_NBLM
+  - TCOT2026
   - AEC
   - ePub
   - Essential

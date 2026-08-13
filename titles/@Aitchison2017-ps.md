@@ -16,6 +16,7 @@ tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
   - EPubs-Books
+  - TCOT2026
   - _In-ClickUp
   - _In-Notion
   - _In-Readwise

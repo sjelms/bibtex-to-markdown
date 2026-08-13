@@ -11,6 +11,7 @@ type: "[[@book]]"
 tags:
   - AEC-Cited-Lit-for-Jacqui
   - _BibTex-to-MD-Git
+  - TCOT2026
   - AEC
   - Book-physical
   - git-lit
