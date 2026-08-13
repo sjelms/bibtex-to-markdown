@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - DfMA
   - Offsite_NBLM
+  - TCOT2026
   - Thesis
   - AEC
   - Technological-change

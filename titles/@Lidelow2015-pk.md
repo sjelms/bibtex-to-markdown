@@ -13,6 +13,7 @@ type: "[[@book]]"
 tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
+  - TCOT2026
   - AEC
   - git-lit
 ---

@@ -17,6 +17,7 @@ tags:
   - Offsite-Architecture-Constructing-the-Future
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - TCOT2026
   - ePub
   - AEC
   - _In-ClickUp

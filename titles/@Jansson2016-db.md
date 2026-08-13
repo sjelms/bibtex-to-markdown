@@ -16,6 +16,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Offsite_NBLM
+  - TCOT2026
   - AEC
   - git-lit
 ---
