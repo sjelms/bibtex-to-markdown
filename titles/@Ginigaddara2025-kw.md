@@ -14,6 +14,7 @@ volume: 25
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - TCOT2026
   - AEC
   - Knowledge-Skill-Acquisition
   - Skill-demand

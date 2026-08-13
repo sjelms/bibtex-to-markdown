@@ -16,7 +16,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - AEC-Cited-Lit-for-Jacqui
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

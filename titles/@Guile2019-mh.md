@@ -16,7 +16,7 @@ tags:
   - Handbook-of-Vocational-Education-and-Training-Wiley-2019
   - EPubs-Books
   - 3_Upgrade-OCT-2023
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-ClickUp

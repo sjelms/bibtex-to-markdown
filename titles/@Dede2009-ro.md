@@ -15,7 +15,7 @@ tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - Notion-Catalogued
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Intelligent-Tutoring-Systems-ITS

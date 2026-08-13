@@ -11,7 +11,7 @@ aliases:
 publisher: "[[Springer International Publishing]]"
 type: "[[@inproceedings]]"
 tags:
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _In-Readwise

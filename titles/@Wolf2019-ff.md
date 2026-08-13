@@ -14,7 +14,7 @@ tags:
   - International-Association-for-Automation-and-Robotics-in-Construction-IAARC
   - XR-Reviewed
   - Notion-Catalogued
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - AEC

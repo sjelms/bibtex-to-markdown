@@ -15,7 +15,7 @@ tags:
   - XR-Reviewed
   - Journal-Articles
   - Notion-Catalogued
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - _XR-MR-VR-AR

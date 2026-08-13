@@ -16,6 +16,7 @@ tags:
   - Construction-4-0
   - Offsite_NBLM
   - _BibTex-to-MD-Git
+  - TCOT2026
   - Labor
   - Skill-demand
   - AEC

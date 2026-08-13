@@ -18,6 +18,7 @@ tags:
   - logistics
   - Offsite_NBLM
   - _BibTex-to-MD-Git
+  - TCOT2026
   - AEC
   - Workplace-Learning
   - Skill-demand

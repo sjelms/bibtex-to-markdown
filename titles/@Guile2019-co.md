@@ -15,7 +15,7 @@ tags:
   - 00_TO-READ
   - Notion-Catalogued
   - EPubs-Books
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - Speechify
   - llm-wiki-workflow

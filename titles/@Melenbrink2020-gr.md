@@ -17,7 +17,7 @@ tags:
   - 00_TO-READ
   - Journal-Articles
   - Notion-Catalogued
-  - TCOT-2024
+  - TCOT-2024-Poster
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Automation
