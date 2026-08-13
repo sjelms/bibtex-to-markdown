@@ -16,6 +16,7 @@ publisher: "[[Springer International Publishing]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - TCOT2026
   - Book-child
   - ePub
   - Cross-Ref-Chapter

@@ -12,6 +12,7 @@ type: "[[@inbook]]"
 tags:
   - Modern-Apartment-Design-book
   - _BibTex-to-MD-Git
+  - TCOT2026
   - Book-child
   - AEC
   - git-lit
