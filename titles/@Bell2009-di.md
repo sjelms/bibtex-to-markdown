@@ -12,6 +12,7 @@ publisher: "[[Victoria University of Wellington Library]]"
 type: "[[@mastersthesis]]"
 tags:
   - _BibTex-to-MD-Git
+  - TCOT2026
   - AEC
   - Thesis
   - git-lit
