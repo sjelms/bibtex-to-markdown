@@ -12,6 +12,7 @@ aliases:
 ### Content:
 [[@Jacobs2016-on|Rethinking Capitalism]]
 [[@Mazzucato2018-em|The Entrepreneurial State]]
+[[@Mazzucato2019-to|A Mission-Oriented UK Industrial Strategy]]
 [[@Mazzucato2021-ht|Mission Economy]]
 [[@Mazzucato2023-tg|The Right To Housing]]
 
@@ -20,6 +21,8 @@ aliases:
 ![[@Jacobs2016-on]]
 
 ![[@Mazzucato2018-em]]
+
+![[@Mazzucato2019-to]]
 
 ![[@Mazzucato2021-ht]]
 

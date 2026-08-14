@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-08-14T07:16:55
+amended: 2026-08-14T07:42:39
 ---
 
 # Directory
@@ -62,6 +62,7 @@ amended: 2026-08-14T07:16:55
 - [[@Pothier2019-fn|Industrialized Construction In Academia]]
 - [[@European-Commission2019-go|Key Competences For Lifelong Learning]]
 - [[@Wilson2019-ho|Design For Modular Construction - An Introduction For Architects]]
+- [[@Mazzucato2019-to|A Mission-Oriented UK Industrial Strategy]]
 - [[@Ministry-of-Housing-Communities-and-Local-Government2019-qd|Modern Methods Of Construction - Definition Framework]]
 - [[@Maxim2019-gn|Automation And AI Will Disrupt The American Labor Force. Here’s How We Can Protect Workers]]
 - [[@USG_Corporation2019-me|Q4 2019 Commercial Construction Index]]
