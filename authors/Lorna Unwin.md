@@ -44,6 +44,7 @@ aliases:
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
+[[@Fuller2021-ny|Expanding Skills And Workplace Capacity]]
 [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 [[@Guile2019-hk|VET, Expertise, And Work]]
 [[@Guile2019-mh|Introduction To The Handbook]]
@@ -114,6 +115,8 @@ aliases:
 ![[@Fuller2017-dj]]
 
 ![[@Fuller2019-zb]]
+
+![[@Fuller2021-ny]]
 
 ![[@Guile2019-co]]
 

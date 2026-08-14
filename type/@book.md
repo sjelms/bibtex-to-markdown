@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-13T10:18:16
+amended: 2026-08-14T06:57:55
 ---
 
 # Directory
@@ -75,6 +75,7 @@ amended: 2026-08-13T10:18:16
 - [[@Vindrola-Padros2021-eq|Doing Rapid Qualitative Research]]
 - [[@Vindrola-Padros2021-by|Rapid Ethnographies - A Practical Guide]]
 - [[@Hillmann2021-wr|UX For XR - User Experience Design And Strategies For Immersive Technologies]]
+- [[@Berry2021-tt|The Political Economy Of Industrial Strategy In The UK - From Productivity Problems To Development Dilemmas]]
 - [[@Wallance2021-so|The Future Of Modular Architecture]]
 - [[@Aurini2021-vc|The How To Of Qualitative Research]]
 - [[@Williamson2021-sz|Case Studies In Retrofitting Suburbia - Urban Design Strategies For Urgent Challenges]]

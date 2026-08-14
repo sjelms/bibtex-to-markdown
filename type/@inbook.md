@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-13T10:18:16
+amended: 2026-08-14T06:57:55
 ---
 
 # Directory
@@ -39,6 +39,7 @@ amended: 2026-08-13T10:18:16
 - [[@Casini2022-fn|Introduction]]
 - [[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 ### 2021
+- [[@Fuller2021-ny|Expanding Skills And Workplace Capacity - A Relational Approach To Industrial Strategy]]
 - [[@Bartneck2021-qi|What Is AI?]]
 - [[@Petrovic2021-fn|Looking Back]]
 - [[@Brown2021-vh|Research By Design - The Gantry]]
@@ -80,8 +81,8 @@ amended: 2026-08-13T10:18:16
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]

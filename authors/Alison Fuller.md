@@ -48,6 +48,7 @@ aliases:
 [[@Fuller2016-xl|Applying An Apprenticeship Approach To HRD]]
 [[@Fuller2017-dj|Better Apprenticeships]]
 [[@Fuller2019-zb|Does Vocational Education Still Need The Concept Of Occupation?]]
+[[@Fuller2021-ny|Expanding Skills And Workplace Capacity]]
 [[@Fuller2024-wq|Context, Characteristics And Capacity]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
@@ -125,6 +126,8 @@ aliases:
 ![[@Fuller2017-dj]]
 
 ![[@Fuller2019-zb]]
+
+![[@Fuller2021-ny]]
 
 ![[@Fuller2024-wq]]
 
