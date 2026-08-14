@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-08-14T06:57:55
+amended: 2026-08-14T07:16:55
 ---
 
 # Directory
@@ -66,6 +66,7 @@ amended: 2026-08-14T06:57:55
 - [[@Maxim2019-gn|Automation And AI Will Disrupt The American Labor Force. Here’s How We Can Protect Workers]]
 - [[@USG_Corporation2019-me|Q4 2019 Commercial Construction Index]]
 ### 2018
+- [[@Felstead2018-vq|Productivity In Britain - The Workers’ Perspective—First Findings From The Skills And Employment Survey 2017]]
 - [[@Davies2018-ai|Modern Methods Of Construction - A Forward-Thinking Solution To The Housing Crisis?]]
 - [[@Giffi2018-ag|2018 Deloitte Skills Gap And Future Of Work In Manufacturing Study]]
 - [[@House-of-Lords2018-rq|Off-Site Manufacture For Construction - Building For Change]]

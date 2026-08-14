@@ -14,6 +14,7 @@ aliases:
 ### Content:
 [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
+[[@Felstead2018-vq|Productivity In Britain]]
 [[@Gallie2003-tj|Skill, Task Discretion, And New Technology]]
 
 #### Bibliography:
@@ -21,5 +22,7 @@ aliases:
 ![[@Felstead2007-gg]]
 
 ![[@Felstead2017-or]]
+
+![[@Felstead2018-vq]]
 
 ![[@Gallie2003-tj]]
