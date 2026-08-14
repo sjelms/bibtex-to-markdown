@@ -18,6 +18,7 @@ tags:
   - Book-parent
   - Skill-demand
   - Economics
+  - git-lit
 ---
 
 > [!bibliography]

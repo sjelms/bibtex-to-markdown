@@ -17,6 +17,7 @@ tags:
   - Report
   - Economics
   - Politics-and-Society
+  - git-lit
 ---
 
 > [!bibliography]

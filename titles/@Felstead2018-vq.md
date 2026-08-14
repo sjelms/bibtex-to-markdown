@@ -16,6 +16,7 @@ tags:
   - Report
   - Economics
   - Skill-demand
+  - git-lit
 ---
 
 > [!bibliography]

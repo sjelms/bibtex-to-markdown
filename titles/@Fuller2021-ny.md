@@ -20,6 +20,7 @@ tags:
   - Skill-demand
   - Labor
   - Workplace-Learning
+  - git-lit
 ---
 
 > [!bibliography]
