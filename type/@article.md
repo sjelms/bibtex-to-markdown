@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-15T07:56:51
+amended: 2026-08-15T08:03:41
 ---
 
 # Directory
@@ -68,6 +68,7 @@ amended: 2026-08-15T07:56:51
 - [[@Podder2022-pj|Immersive Industrialized Construction Environments For Energy-Efficient Construction Workforce]]
 - [[@Queiroz2022-wa|Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls]]
 - [[@Elkjaer2022-yf|Taking Stock Of “organizational Learning” - Looking Back And Moving Forward]]
+- [[@Carter2022-mh|The Continuing Value Of Harry Braverman’s \textit Labor And Monopoly Capital]]
 - [[@Ginigaddara2022-mh|An Evaluation Of Offsite Construction Skill Profiles]]
 - [[@Ginigaddara2022-or|Offsite Construction Skills Evolution - An Australian Case Study]]
 - [[@Chen2022-fx|Disrupting Science]]
