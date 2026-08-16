@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-16T08:17:09
+amended: 2026-08-16T08:21:38
 ---
 
 # Directory
@@ -115,6 +115,7 @@ amended: 2026-08-16T08:17:09
 - [[@Fuller2016-el|Developing Expertise - Occupational Versus Job-Based Approaches In Contemporary Labour Markets]]
 - [[@Hashemi2016-gh|Prefabrication]]
 - [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
+- [[@Emuze2016-sa|Using Case-Based Methods In Construction Research With Complementarities]]
 - [[@Barbour2016-ki|Technical, Arcane, Interpersonal, And Embodied Expertise]]
 - [[@Menacere2016-fn|When More Does Not Mean Better - Selecting A Research Methodology And Methods]]
 - [[@Sutrisna2016-vt|The Application Of Grounded Theory Methodology In Built Environment Research]]

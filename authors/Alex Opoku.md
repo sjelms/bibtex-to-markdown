@@ -16,6 +16,7 @@ aliases:
 [[@Ahmed2022-tl|Validity And Reliability In Built Environment Research]]
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 [[@Dainty2000-cc|A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies]]
+[[@Emuze2016-sa|Using Case-Based Methods In Construction Research With Complementarities]]
 [[@Greenwood2016-za|Comparing Experience Through Visual Behaviour In Physical And Virtual Environments]]
 [[@Loosemore1999-ne|A Grounded Theory Of Construction Crisis Management]]
 [[@Menacere2016-fn|When More Does Not Mean Better]]
@@ -37,6 +38,8 @@ aliases:
 ![[@Barrett2009-ji]]
 
 ![[@Dainty2000-cc]]
+
+![[@Emuze2016-sa]]
 
 ![[@Greenwood2016-za]]
 
