@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-15T08:03:41
+amended: 2026-08-16T07:10:42
 ---
 
 # Directory
@@ -85,7 +85,7 @@ amended: 2026-08-15T08:03:41
 - [[@Mazzucato2021-ht|Mission Economy - A Moonshot Guide To Changing Capitalism]]
 - [[@Ford2021-hl|Rule Of The Robots - How Artificial Intelligence Will Transform Everything]]
 - [[@Denscombe2021-wl|The Good Research Guide - Research Methods For Small-Scale Social Research Projects]]
-- [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
+- [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment - Methodologies, Technologies, And Skills]]
 - [[@Brockmann2021-ls|On- And Off-The-Job Training In Apprenticeships In England]]
 - [[@Callon2021-sa|Markets In The Making - Rethinking Competition, Goods, And Innovation]]
 - [[@Burkeman2021-fd|Four Thousand Weeks - Time And How To Use It]]
