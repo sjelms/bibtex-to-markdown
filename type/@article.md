@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-16T07:20:15
+amended: 2026-08-16T07:22:19
 ---
 
 # Directory
@@ -103,6 +103,7 @@ amended: 2026-08-16T07:20:15
 - [[@Editorial2021-nd|Concrete Needs To Lose Its Colossal Carbon Footprint]]
 - [[@Mousavinasab2021-eg|Intelligent Tutoring Systems - A Systematic Review Of Characteristics, Applications, And Evaluation Methods]]
 - [[@Brynjolfsson2021-sf|The Productivity J-Curve - How Intangibles Complement General Purpose Technologies]]
+- [[@Munoz-La_Rivera2021-wg|Methodological-Technological Framework For Construction 4.0]]
 - [[@Jadallah2021-is|Construction Industry Training Assessment Framework]]
 - [[@Jadallah2021-yq|Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review]]
 - [[@Cao2021-tp|Cross-Phase Product Configurator For Modular Buildings Using Kit-Of-Parts]]
