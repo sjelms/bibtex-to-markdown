@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-16T07:16:15
+amended: 2026-08-16T07:20:15
 ---
 
 # Directory
@@ -198,7 +198,7 @@ amended: 2026-08-16T07:16:15
 - [[@Luckin2016-lp|Intelligence Unleashed - An Argument For AI In Education]]
 - [[@Clark2016-ix|E-Learning And The Science Of Instruction - Proven Guidelines For Consumers And Designers Of Multimedia Learning]]
 - [[@Rose2016-cw|The End Of Average - How We Succeed In A World That Values Sameness]]
-- [[@Ahmed2016-mt|Research Methodology In The Built Environment]]
+- [[@Ahmed2016-mt|Research Methodology In The Built Environment - A Selection Of Case Studies]]
 ### 2015
 - [[@Biocca2015-km|Immersed In Media - Telepresence Theory, Measurement & Technology]]
 - [[@Thomas2015-uu|The Anatomy Of The Case Study]]

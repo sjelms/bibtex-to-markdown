@@ -1,5 +1,5 @@
 ---
-title: Research Methodology in the Built Environment
+title: Research Methodology in the Built Environment -  A Selection of Case Studies
 year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"
@@ -9,6 +9,7 @@ editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Ahmed2016-mt]]"
 aliases:
+  - Research Methodology In The Built Environment - A Selection Of Case Studies
   - Research Methodology In The Built Environment
 publisher: "[[Routledge]]"
 type: "[[@book]]"
@@ -31,7 +32,7 @@ tags:
 ---
 
 > [!bibliography]
-> Ahmed, Vian, Alex Opoku, Zeeshan Aziz. 2016. "Research Methodology in the Built Environment." [[Routledge]]. http://dx.doi.org/10.4324/9781315725529
+> Ahmed, Vian, Alex Opoku, Zeeshan Aziz. 2016. "Research Methodology in the Built Environment: A Selection of Case Studies." [[Routledge]]. http://dx.doi.org/10.4324/9781315725529
 
 > [!abstract]
 > Built environment students are not always familiar with the range of different research approaches they could be using for their projects. Whether you are undertaking a postgraduate doctoral programme or facing an undergraduate or masters dissertation, this book provides general advice, as well as 13 detailed case studies from 16 universities in 7 countries, to help you get to grips with quantitative and qualitative methods, mixed methods of data collection, action research, and more.
