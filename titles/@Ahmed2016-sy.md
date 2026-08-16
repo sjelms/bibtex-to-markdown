@@ -7,7 +7,7 @@ editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Ahmed2016-sy]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - Getting Ready For Your Research - Setting The Scene
   - Getting Ready For Your Research

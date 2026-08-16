@@ -6,7 +6,7 @@ editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Menacere2016-fn]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - When More Does Not Mean Better - Selecting A Research Methodology And Methods
   - When More Does Not Mean Better

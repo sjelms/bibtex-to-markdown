@@ -3,10 +3,11 @@ title: Data management and analysis methods
 year: 2000
 author - 1: "[[Gery W Ryan]]"
 author - 2: "[[H Russell Bernard]]"
-editor - 1: "[[Norman K Denzin]]"
-editor - 2: "[[Yvonna S Lincoln]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Ryan2000-ql]]"
-booktitle: Handbook of Qualitative Research
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - Data Management And Analysis Methods
 publisher: "[[SAGE Publications]]"

@@ -4,8 +4,11 @@ year: 2016
 author - 1: "[[Wisnu Setiawan]]"
 author - 2: "[[Monty Sutrisna]]"
 author - 3: "[[Peter Barrett]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Setiawan2016-qz]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - Grounded Theory Style Analysis In Action - Utilising Multi-Layer Methods In Developing Built Environment Response To Social Conflicts In Indonesia
   - Grounded Theory Style Analysis In Action

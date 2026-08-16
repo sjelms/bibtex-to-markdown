@@ -7,7 +7,7 @@ editor - 1: "[[Vian Ahmed]]"
 editor - 2: "[[Alex Opoku]]"
 editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Sutrisna2016-vt]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - The Application Of Grounded Theory Methodology In Built Environment Research
 type: "[[@inbook]]"

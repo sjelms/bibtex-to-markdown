@@ -4,6 +4,9 @@ year: 2000
 author - 1: "[[Andrew R J Dainty]]"
 author - 2: "[[Barbara M Bagilhole]]"
 author - 3: "[[Richard H Neale]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Dainty2000-cc]]"
 aliases:
   - A Grounded Theory Of Women's Career Under-Achievement In Large UK Construction Companies

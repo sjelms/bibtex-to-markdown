@@ -2,6 +2,9 @@
 title: A grounded theory of construction crisis management
 year: 1999
 author - 1: "[[Martin Loosemore]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Loosemore1999-ne]]"
 aliases:
   - A Grounded Theory Of Construction Crisis Management

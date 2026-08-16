@@ -3,8 +3,11 @@ title: Comparing Experience Through Visual Behaviour in Physical and Virtual Env
 year: 2016
 author - 1: "[[David Greenwood]]"
 author - 2: "[[Oliver Jones]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Greenwood2016-za]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - Comparing Experience Through Visual Behaviour In Physical And Virtual Environments
 publisher: "[[Routledge]]"

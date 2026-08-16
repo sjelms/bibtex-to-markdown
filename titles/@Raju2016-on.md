@@ -3,8 +3,11 @@ title: Design Science Methodology for Developing a Learning Object Repository fo
 year: 2016
 author - 1: "[[Pathmeswaran Raju]]"
 author - 2: "[[Vian Ahmed]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Raju2016-on]]"
-booktitle: Research Methodology in the Built Environment
+booktitle: Research Methodology in the Built Environment -  A Selection of Case Studies
 aliases:
   - Design Science Methodology For Developing A Learning Object Repository For Construction
 publisher: "[[Routledge]]"

@@ -3,6 +3,9 @@ title: Methodological strategies to gain insights into informality and emergence
 year: 2009
 author - 1: "[[Peter Barrett]]"
 author - 2: "[[Monty Sutrisna]]"
+editor - 1: "[[Vian Ahmed]]"
+editor - 2: "[[Alex Opoku]]"
+editor - 3: "[[Zeeshan Aziz]]"
 key: "[[@Barrett2009-ji]]"
 aliases:
   - Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies
