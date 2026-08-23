@@ -1,10 +1,12 @@
 ---
 type: "[[@online]]"
-amended: 2026-08-16T08:21:38
+amended: 2026-08-23T11:30:45
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Luce2026-xi|To Address The Housing Crisis, New VPA Proposals Point To Past Successes And A Vision For The Future]]
 ### 2025
 - [[@Chase2025-dj|The Dyslexia-ADHD Overlap - Why Evaluators Confuse The Conditions]]
 ### 2023
