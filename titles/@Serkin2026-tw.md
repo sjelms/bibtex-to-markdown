@@ -12,6 +12,7 @@ institution:
 type: "[[@report]]"
 tags:
   - _BibTex-to-MD-Git
+  - VPA-Vanderbilt
   - Report
   - AEC
   - Politics-and-Society
