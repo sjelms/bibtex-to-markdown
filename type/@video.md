@@ -1,10 +1,12 @@
 ---
 type: "[[@video]]"
-amended: 2026-08-23T11:38:38
+amended: 2026-08-23T11:51:21
 ---
 
 # Directory
 ## 2020-2029
+### 2026
+- [[@Scanlon2026-mk|How To Fix The Housing Crisis]]
 ### 2022
 - [[@Scott2022-fi|A Working Flight Simulator, No Computers Necessary]]
 ### 2021
