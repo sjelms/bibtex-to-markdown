@@ -13,6 +13,7 @@ tags:
   - AEC
   - Politics-and-Society
   - git-lit
+  - Reader_Obsidian
 ---
 
 > [!bibliography]

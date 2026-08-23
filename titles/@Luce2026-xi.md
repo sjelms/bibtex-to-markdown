@@ -11,6 +11,7 @@ tags:
   - VPA-Vanderbilt
   - _BibTex-to-MD-Git
   - git-lit
+  - Reader_Obsidian
 ---
 
 > [!bibliography]
