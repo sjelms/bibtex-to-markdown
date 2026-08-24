@@ -21,8 +21,8 @@ tags:
   - Essential
   - _Cataloged
   - _In-ClickUp
-  - Cross-Ref-Chapter
   - git-lit
+  - Book-parent
 ---
 
 > [!bibliography]

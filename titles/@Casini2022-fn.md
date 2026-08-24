@@ -23,6 +23,7 @@ tags:
   - Labor
   - _In-ClickUp
   - git-lit
+  - Book-child
 ---
 
 > [!bibliography]

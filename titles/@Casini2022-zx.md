@@ -26,6 +26,7 @@ tags:
   - _In-ClickUp
   - Economics
   - git-lit
+  - Book-child
 ---
 
 > [!bibliography]
