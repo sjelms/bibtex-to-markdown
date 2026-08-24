@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-24T08:50:05
+amended: 2026-08-24T08:52:42
 ---
 
 # Directory
@@ -35,8 +35,8 @@ amended: 2026-08-24T08:50:05
 - [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science]]
 - [[@Nonaka2022-du|The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]
 - [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
-- [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
+- [[@Casini2022-zx|Toward A New Building Era]]
 - [[@Bolpagni2022-va|Shaping The Future Of Construction Professionals]]
 - [[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 ### 2021
@@ -82,8 +82,8 @@ amended: 2026-08-24T08:50:05
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
