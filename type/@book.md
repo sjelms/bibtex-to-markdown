@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-23T11:51:21
+amended: 2026-08-24T08:41:36
 ---
 
 # Directory
@@ -514,5 +514,5 @@ amended: 2026-08-23T11:51:21
 - [[@de-Prony1800-sx|Notice Sur Les Grandes Tables Logarithmiques Et Trigonométriques Calculées, Au Bureau Du Cadastre]]
 ## 1770-1779
 ### 1776
-- [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
 - [[@Smith1776-zu|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]
+- [[@Smith1776-oj|An Inquiry Into The Nature And Causes Of The Wealth Of Nations]]

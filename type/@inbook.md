@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-23T11:51:21
+amended: 2026-08-24T08:41:36
 ---
 
 # Directory
@@ -37,6 +37,7 @@ amended: 2026-08-23T11:51:21
 - [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
 - [[@Casini2022-zx|Chapter 1 - Toward A New Building Era]]
 - [[@Casini2022-fn|Introduction]]
+- [[@Bolpagni2022-va|Shaping The Future Of Construction Professionals]]
 - [[@Adepoju2022-uz|Reskilling For Construction 4.0]]
 ### 2021
 - [[@Fuller2021-ny|Expanding Skills And Workplace Capacity - A Relational Approach To Industrial Strategy]]
@@ -236,8 +237,8 @@ amended: 2026-08-23T11:51:21
 ### 2002
 - [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
 - [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
+- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
 - [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]

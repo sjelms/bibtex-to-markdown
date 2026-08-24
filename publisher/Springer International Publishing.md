@@ -14,6 +14,7 @@ category:
 [[@Bartneck2021-qi|What Is AI?]]
 [[@Biocca2015-km|Immersed In Media]]
 [[@Bolpagni2021-lb|Industry 4.0 For The Built Environment]]
+[[@Bolpagni2022-va|Shaping The Future Of Construction Professionals]]
 [[@Chen2020-fm|User Behavior Analysis Toward Adaptive Guidance For Machine Operation Tasks]]
 [[@Evans2014-wm|How To Write A Better Thesis]]
 [[@Fiala2020-ik|Using Virtual Reality Simulations To Encourage Reflective Learning In Construction Workers]]
