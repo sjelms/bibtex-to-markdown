@@ -39,6 +39,7 @@ category:
 [[@Isaksen2016-sg|Reclaiming Rational Theory Choice As Central]]
 [[@Jones2022-kp|Addressing Specialization And Fragmentation]]
 [[@Martinez-Pernia2025-mn|The Limitations And Challenges In The Assessment Of Executive Dysfunction Associated With Real-World Functioning]]
+[[@McGuinness2006-wg|Examining The Link Between Skill Shortages, Training Composition And Productivity Levels In The Construction Industry]]
 [[@Mitchell2022-ds|Where Does All The ‘know How’ Go? The Role Of Tacit Knowledge In Research Impact]]
 [[@Nielsen2022-sr|A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction]]
 [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]

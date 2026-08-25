@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-24T09:55:24
+amended: 2026-08-25T05:57:36
 ---
 
 # Directory
@@ -342,6 +342,7 @@ amended: 2026-08-24T09:55:24
 - [[@Liker2006-as|The Toyota Way In Services - The Case Of Lean Product Development]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
 - [[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
+- [[@McGuinness2006-wg|Examining The Link Between Skill Shortages, Training Composition And Productivity Levels In The Construction Industry - Evidence From Northern Ireland]]
 - [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 - [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 - [[@Mortimore2006-dm|Dyslexia And Difficulties With Study Skills In Higher Education]]
@@ -472,6 +473,8 @@ amended: 2026-08-24T09:55:24
 - [[@Wagner1987-jz|Tacit Knowledge In Everyday Intelligent Behavior]]
 ### 1985
 - [[@Ledewitz1985-qi|Models Of Design In Studio Teaching]]
+### 1984
+- [[@Hutcheson1984-gq|Educating Project Managers For The Construction Industry In Australia]]
 ### 1982
 - [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
 ### 1981
