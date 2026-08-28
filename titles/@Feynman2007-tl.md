@@ -13,6 +13,7 @@ tags:
   - RNIB
   - ePub
   - git-lit
+  - biography
 ---
 
 > [!bibliography]

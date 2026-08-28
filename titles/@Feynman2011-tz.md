@@ -18,6 +18,7 @@ tags:
   - ePub
   - Knowledge-Skill-Acquisition
   - git-lit
+  - biography
 ---
 
 > [!bibliography]
