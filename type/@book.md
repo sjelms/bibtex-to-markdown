@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-29T04:26:47
+amended: 2026-08-29T04:34:07
 ---
 
 # Directory
@@ -255,6 +255,7 @@ amended: 2026-08-29T04:26:47
 - [[@Goodman2012-np|Observing The User Experience - A Practitioner's Guide To User Research]]
 - [[@Pisano2012-ya|Producing Prosperity - Why America Needs A Manufacturing Renaissance]]
 - [[@Daniels2012-jd|Vygotsky And Sociology]]
+- [[@Sword2012-te|Stylish Academic Writing]]
 - [[@Hamilton2012-vy|Using Case Study In Education Research]]
 - [[@Carpo2012-lv|The Digital Turn In Architecture 1992 - 2012 - AD Reader]]
 - [[@Loosemore2012-eb|Human Resource Management In Construction - Critical Perspectives]]
