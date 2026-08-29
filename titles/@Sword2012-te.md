@@ -10,10 +10,12 @@ type: "[[@book]]"
 tags:
   - Thesis-Writing
   - _BibTex-to-MD-Git
+  - Stylish-Academic-Writing
   - RNIB
   - ePub
   - PhD-Support-and-Training
   - git-lit
+  - Book-parent
 ---
 
 > [!bibliography]
