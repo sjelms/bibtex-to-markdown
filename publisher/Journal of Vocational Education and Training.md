@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Abdel-Wahab2012-so|Rethinking Apprenticeship Training In The British Construction Industry]]
+[[@Avis2018-dc|Socio-Technical Imaginary Of The Fourth Industrial Revolution And Its Implications For Vocational Education And Training]]
 [[@Billett1996-pa|Constructing Vocational Knowledge]]
 [[@Billett2004-xi|Building Community Through Social Partnerships Around Vocational Education And Training]]
 [[@Butler1998-ph|The Learning Context Within Technical And Further Education Colleges As Perceived By Apprentices And Their Workplace Supervisors]]

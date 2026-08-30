@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Akiba2010-kd|Learning]]
+[[@Avis2018-dc|Socio-Technical Imaginary Of The Fourth Industrial Revolution And Its Implications For Vocational Education And Training]]
 [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences]]
 [[@Berger2017-ln|Industrial Renewal In The 21st Century]]

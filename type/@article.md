@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-30T08:18:01
+amended: 2026-08-30T09:27:14
 ---
 
 # Directory
@@ -175,6 +175,7 @@ amended: 2026-08-30T08:18:01
 - [[@Glaeser2018-bz|The Economic Implications Of Housing Supply]]
 - [[@Brugger2018-cl|Skilling And Deskilling - Technological Change In Classical Economic Theory And Its Empirical Evidence]]
 - [[@Roll2018-op|Learning At Scale]]
+- [[@Avis2018-dc|Socio-Technical Imaginary Of The Fourth Industrial Revolution And Its Implications For Vocational Education And Training - A Literature Review]]
 - [[@Metsamuuronen2018-km|Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking]]
 - [[@Fleming2018-rg|Methodologies, Methods And Ethical Considerations For Conducting Research In Work-Integrated Learning]]
 - [[@Carino2018-pc|Life In This Iconic Mid‑century Suburb Shows How California Dreams Are Shrinking]]
