@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-29T04:44:44
+amended: 2026-08-30T08:18:01
 ---
 
 # Directory
@@ -361,6 +361,7 @@ amended: 2026-08-29T04:44:44
 ### 1994
 - [[@Lofland1994-iu|Analyzing Social Settings - A Guide To Qualitative Observation And Analysis]]
 - [[@Vygotsky1994-rw|The Vygotsky Reader]]
+- [[@Eraut1994-py|Developing Professional Knowledge And Competence]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
 ### 1993
 - [[@Ortony1993-si|Metaphor And Thought]]

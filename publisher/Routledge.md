@@ -58,6 +58,7 @@ category:
 [[@Elwell2009-hz|Harry Braverman And The Working Class]]
 [[@Emuze2016-sa|Using Case-Based Methods In Construction Research With Complementarities]]
 [[@Engestrom2004-bz|The New Generation Of Expertise]]
+[[@Eraut1994-py|Developing Professional Knowledge And Competence]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
 [[@Felstead2009-kt|Improving Working As Learning]]
