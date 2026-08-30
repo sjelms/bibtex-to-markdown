@@ -52,4 +52,5 @@ category:
 [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
 [[@Tummons2024-uq|Learning, Instruction And Assessment In The Workplace]]
 [[@Vygotsky1979-oz|Consciousness As A Problem In The Psychology Of Behavior]]
+[[@Ward2025-ju|Chatgpt For The Intellectual Soul]]
 [[@Young2001-ct|Contextualising A New Approach To Learning]]

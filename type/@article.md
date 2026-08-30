@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-30T09:58:00
+amended: 2026-08-30T10:01:31
 ---
 
 # Directory
@@ -19,6 +19,7 @@ amended: 2026-08-30T09:58:00
 - [[@Hossan2025-ms|Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks]]
 - [[@Martinez-Pernia2025-mn|The Limitations And Challenges In The Assessment Of Executive Dysfunction Associated With Real-World Functioning - The Opportunity Of Serious Games]]
 - [[@Hazelett2025-hc|An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write]]
+- [[@Ward2025-ju|Chatgpt For The Intellectual Soul - A Deweyan Perspective On AI-Based Multicultural Classroom Praxis]]
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Habgood-Coote2025-qu|Collective Action, Work, And Partial Plans]]
 - [[@Liu2025-sc|Shaping Online And Offline Informal Learning Networks In Off-Site Construction Projects - A Proximity Perspective]]
