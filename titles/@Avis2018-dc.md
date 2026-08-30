@@ -19,6 +19,8 @@ tags:
   - Future-of-Work
   - Skill-demand
   - git-lit
+  - Essential
+  - Read
 ---
 
 > [!bibliography]
