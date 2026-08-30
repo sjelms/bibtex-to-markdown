@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-30T09:35:11
+amended: 2026-08-30T09:58:00
 ---
 
 # Directory
@@ -178,6 +178,7 @@ amended: 2026-08-30T09:35:11
 - [[@Avis2018-dc|Socio-Technical Imaginary Of The Fourth Industrial Revolution And Its Implications For Vocational Education And Training - A Literature Review]]
 - [[@Metsamuuronen2018-km|Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking]]
 - [[@Fleming2018-rg|Methodologies, Methods And Ethical Considerations For Conducting Research In Work-Integrated Learning]]
+- [[@Heritage2018-nm|Assessment For Learning As Support For Student Self-Regulation]]
 - [[@Carino2018-pc|Life In This Iconic Mid‑century Suburb Shows How California Dreams Are Shrinking]]
 - [[@Goller2018-oz|Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home]]
 - [[@Franco-Santos2018-cz|Reviewing And Theorizing The Unintended Consequences Of Performance Management Systems]]
