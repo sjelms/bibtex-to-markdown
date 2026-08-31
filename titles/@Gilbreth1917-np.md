@@ -11,6 +11,7 @@ publisher: "[[Sturgis and Walton Company]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - RCPSP_Takt_Taylorism
   - ePub
   - Economics
   - Knowledge-Skill-Acquisition
