@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-31T12:09:51
+amended: 2026-08-31T12:29:51
 ---
 
 # Directory
@@ -476,6 +476,8 @@ amended: 2026-08-31T12:09:51
 ### 1920
 - [[@Marshall1920-ic|Principles Of Economics - An Introductory Volume]]
 ## 1910-1919
+### 1917
+- [[@Gilbreth1917-np|Applied Motion Study - A Collection Of Papers On The Efficient Method To Industrial Preparedness]]
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
 ### 1913

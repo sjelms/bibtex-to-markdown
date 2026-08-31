@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-08-31T12:09:51
+amended: 2026-08-31T12:29:51
 ---
 
 # Directory
@@ -31,6 +31,7 @@ amended: 2026-08-31T12:09:51
 - [[@Raeisinafchi2025-eo|Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers]]
 - [[@Bader2025-xa|Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction]]
 - [[@Clark2025-fk|Revisiting Harry Braverman’s Classic Labor And Monopoly Capital]]
+- [[@Bharani2025-ii|The Gilbreth Contribution To Operating Room Management And Surgical Ergonomics]]
 ### 2024
 - [[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
