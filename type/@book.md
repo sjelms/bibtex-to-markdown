@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-08-31T07:11:06
+amended: 2026-08-31T12:09:51
 ---
 
 # Directory
@@ -48,6 +48,7 @@ amended: 2026-08-31T07:11:06
 - [[@Denzin2023-mp|The SAGE Handbook Of Qualitative Research]]
 - [[@Hopkins2023-zi|Reading Architecture - A Visual Lexicon]]
 - [[@Manu2023-mr|Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era]]
+- [[@Bornfelt2023-ri|Work Organisation In Practice - From Taylorism To Sustainable Work Organisations]]
 - [[@Maddow2023-hv|Prequel - An American Fight Against Fascism]]
 - [[@Pink2023-jv|Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help]]
 - [[@Rubin2023-ij|The Creative Act - A Way Of Being]]
