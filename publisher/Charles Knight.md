@@ -10,4 +10,4 @@ category:
 ## Charles Knight
 
 ### Content:
-[[@Ure1835-cu|\textit The Philosophy Of Manufactures]]
+[[@Ure1835-cu|The Philosophy Of Manufactures]]
