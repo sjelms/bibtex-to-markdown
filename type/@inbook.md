@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-08-31T12:30:14
+amended: 2026-09-01T11:44:00
 ---
 
 # Directory
@@ -289,6 +289,7 @@ amended: 2026-08-31T12:30:14
 - [[@Wertsch1985-pg|Vygotsky’s Genetic Method]]
 - [[@Wertsch1985-jt|Vygotsky’s Semiotic Analysis]]
 ### 1983
+- [[@Dunford1983-pb|The Transition From Manufacture To Machinofacture 1780–1850]]
 - [[@Neisser1983-cm|Toward A Skillful Psychology]]
 ## 1970-1979
 ### 1978
