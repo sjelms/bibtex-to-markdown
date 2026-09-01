@@ -16,6 +16,7 @@ tags:
   - Labor
   - Economics
   - git-lit
+  - Book-child
 ---
 
 > [!bibliography]
