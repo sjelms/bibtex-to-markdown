@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-01T12:20:39
+amended: 2026-09-01T15:16:30
 ---
 
 # Directory
@@ -473,6 +473,8 @@ amended: 2026-09-01T12:20:39
 - [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
 ### 1922
 - [[@Dewey1922-al|Human Nature And Conduct - An Introduction To Social Psychology]]
+### 1921
+- [[@Finney1921-nb|A Brief History Of The American Public School - A Genetic Study Of Principles, Practices, And Present Problems]]
 ### 1920
 - [[@Marshall1920-ic|Principles Of Economics - An Introductory Volume]]
 ## 1910-1919
@@ -480,6 +482,8 @@ amended: 2026-09-01T12:20:39
 - [[@Gilbreth1917-np|Applied Motion Study - A Collection Of Papers On The Efficient Method To Industrial Preparedness]]
 ### 1916
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
+### 1914
+- [[@Ward1914-li|Pure Sociology - A Treatise On The Origin And Spontaneous Development Of Society]]
 ### 1913
 - [[@Thorndike1913-et|Education Psychology, Vol 1 - The Original Nature Of Man]]
 - [[@Thorndike1913-kp|Education Psychology, Vol 2 - The Psychology Of Learning]]
