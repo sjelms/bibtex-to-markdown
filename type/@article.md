@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-01T15:16:30
+amended: 2026-09-02T05:32:11
 ---
 
 # Directory
@@ -453,6 +453,7 @@ amended: 2026-09-01T15:16:30
 - [[@Milgram1994-cg|A Taxonomy Of Mixed Reality Visual Displays]]
 - [[@Billett1994-nl|Situating Learning In The Workplace – Having Another Look At Apprenticeships]]
 ### 1993
+- [[@Wright1993-vp|Taylorism Reconsidered - The Impact Of Scientific Management Within The Australian Workplace]]
 - [[@Schmidt1993-kz|On Acquiring Expertise In Medicine]]
 - [[@Ericsson1993-vq|The Role Of Deliberate Practice In The Acquisition Of Expert Performance]]
 - [[@Kraiger1993-my|Application Of Cognitive, Skill-Based, And Affective Theories Of Learning Outcomes To New Methods Of Training Evaluation]]
