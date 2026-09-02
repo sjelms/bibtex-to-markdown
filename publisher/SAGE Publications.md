@@ -58,6 +58,7 @@ category:
 [[@Killingsworth2013-qe|Synergy]]
 [[@King2013-vv|The Pictor Technique]]
 [[@King2019-nk|Template Analysis For Business And Management Students]]
+[[@Kormanik2013-yf|Locus Of Control]]
 [[@Kuckartz2014-st|Qualitative Text Analysis]]
 [[@Kuckartz2023-rj|Qualitative Content Analysis]]
 [[@Kumar2019-dp|Research Methodology]]
