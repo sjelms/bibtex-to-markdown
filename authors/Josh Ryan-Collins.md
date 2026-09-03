@@ -1,6 +1,6 @@
 ---
 author: "Josh Ryan-Collins"
-institution:
+institution: "[[UCL Institute for Innovation and Public Purpose]]"
 field:
 type:
 aliases:
