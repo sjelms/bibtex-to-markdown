@@ -1,6 +1,6 @@
 ---
 author: "Akrur Barua"
-institution:
+institution: "[[Deloitte Insights]]"
 field:
 type:
 aliases:
