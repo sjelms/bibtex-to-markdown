@@ -8,7 +8,6 @@ key: "[[@Jensen2014-gh]]"
 aliases:
   - Configuration Of Platform Architectures In Construction
 institution: "[[Luleå University of Technology]]"
-publisher: "[[Luleå University of Technology]]"
 type: "[[@phdthesis]]"
 tags:
   - _BibTex-to-MD-Git
