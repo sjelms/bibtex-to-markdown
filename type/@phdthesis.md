@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-09-03T07:50:36
+amended: 2026-09-03T07:53:36
 ---
 
 # Directory
@@ -22,6 +22,7 @@ amended: 2026-09-03T07:50:36
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
 - [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
 - [[@Jones2019-ks|A Framework For Assessing Interventions To Promote The Implementation Of Material Innovations On Construction Projects]]
+- [[@McKenney2019-qi|Identifying And Quantifying Personnel Skills Gaps]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]
 - [[@Duncheva2019-gn|Offsite Timber Systems Multi-Factor Productivity Index]]
 ### 2018
