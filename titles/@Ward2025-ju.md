@@ -19,6 +19,7 @@ tags:
   - Seed-Pending
   - _BibTex-to-MD-Git
   - Screened
+  - Vygotsky-and-the-Social-Formation-of-Mind
   - Intelligent-Tutoring-Systems-ITS
   - Philosophy-of-Education
   - git-lit

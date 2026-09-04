@@ -12,6 +12,7 @@ type: "[[@article]]"
 tags:
   - Seed-Pending
   - _BibTex-to-MD-Git
+  - Vygotsky-and-the-Social-Formation-of-Mind
   - Knowledge-Skill-Acquisition
   - Philosophy-of-Education
   - Scaffolding
