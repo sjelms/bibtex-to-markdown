@@ -1,18 +1,22 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-09-04T07:54:27
+amended: 2026-09-04T08:38:04
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
 - [[@Solin2025-au|A Global Review Of Modern Methods Of Construction (MMC) Workforce Training]]
+- [[@Ilbeigi2025-oo|An AI-Enhanced System To Integrate Unstructured Observations With Formal Engineering Education - An NSF RITEL Project]]
+### 2024
+- [[@Dudhee2024-om|Artificial Intelligence-Enhanced Virtual Reality For Health And Safety Training In Construction]]
 ### 2021
 - [[@Kyriacou2021-iu|Learning To Work In A Materials Recovery Facility - Can Humans And Machines Learn From Each Other?]]
 - [[@Ju2021-le|Evaluating Critical Reinforcement Learning Framework In The Field]]
 ### 2020
 - [[@Alsharef2020-ej|Construction Safety Training - Barriers, Challenges, And Opportunities]]
 - [[@Sawhney2020-zl|A Proposed Framework For Construction 4.0 Based On A Review Of Literature]]
+- [[@Bogosian2020-qj|Work In Progress - Towards An Immersive Robotics Training For The Future Of Architecture, Engineering, And Construction Workforce]]
 - [[@Fiala2020-ik|Using Virtual Reality Simulations To Encourage Reflective Learning In Construction Workers]]
 - [[@Chen2020-fm|User Behavior Analysis Toward Adaptive Guidance For Machine Operation Tasks]]
 - [[@Delson2020-gz|Development Of A Spatial Visualization Assessment Tool For Younger Students Using A Lego™ Assembly Task]]

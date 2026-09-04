@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-04T07:54:27
+amended: 2026-09-04T08:38:04
 ---
 
 # Directory
@@ -9,6 +9,7 @@ amended: 2026-09-04T07:54:27
 - [[@Fuller2024-wq|Context, Characteristics And Capacity - The 3 Cs For Understanding And Improving Workplace Learning]]
 - [[@Maglione2024-cd|Bernstein As Musical And Cultural Ambassador - Omnibus]]
 - [[@Schoenenberger2024-cs|The Bauhaus Approach To Innovation In Learning And Creativity]]
+- [[@Vassigh2024-aa|Performance-Driven VR Learning For Robotics]]
 ### 2023
 - [[@Mahamadu2023-qv|Safety Risk Factors In The Use Of Construction Robots]]
 - [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
@@ -24,6 +25,7 @@ amended: 2026-09-04T07:54:27
 - [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
 - [[@Sunindijo2023-kk|Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector]]
 - [[@Perera2023-mp|Artificial Intelligence For Occupational Health And Safety Management In Construction]]
+- [[@Vassigh2023-vh|Adaptive Immersive Learning Environments For Teaching Industrial Robotics]]
 - [[@Serra2023-dh|Educational Game Evaluation On Smartphones For Occupational Safety Training]]
 - [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
 ### 2022

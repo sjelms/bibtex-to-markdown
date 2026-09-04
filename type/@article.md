@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-04T07:54:27
+amended: 2026-09-04T08:38:04
 ---
 
 # Directory
@@ -64,6 +64,7 @@ amended: 2026-09-04T07:54:27
 - [[@Assaad2023-nn|Key Factors Affecting Labor Productivity In Offsite Construction Projects]]
 - [[@Loo2023-ex|VET In FE – T Levels And BTEC Programmes]]
 - [[@Zhou2023-nw|How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms]]
+- [[@Xu2023-aw|A Bayesian-Based Knowledge Tracing Model For Improving Safety Training Outcomes In Construction - An Adaptive Learning Framework]]
 - [[@De-Araujo2023-pb|Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications]]
 ### 2022
 - [[@Mishra2022-pg|Land Use Change And Carbon Emissions Of A Transformation To Timber Cities]]
@@ -210,6 +211,7 @@ amended: 2026-09-04T07:54:27
 - [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
 - [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
 - [[@Berger2017-ln|Industrial Renewal In The 21st Century - Evidence From US Cities]]
+- [[@Zheng2017-al|Prompted Self-Regulated Learning Assessment And Its Effect For Achieving ASCE Vision 2025]]
 ### 2016
 - [[@Kaklauskas2016-uk|Intelligent Decision-Support Systems And The Internet Of Things For The Smart Built Environment]]
 - [[@Vogel-Heuser2016-ng|Guest Editorial Industry 4.0–Prerequisites And Visions]]

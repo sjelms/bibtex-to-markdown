@@ -1,14 +1,13 @@
 ---
-name: Elsevier BV
+name: Developments in the Built Environment
 aliases:
 see also:
 tags:
 category:
-  - publisher
+  - journal
 ---
 
-## Elsevier BV
+## Developments in the Built Environment
 
 ### Content:
-[[@Hartmann2015-ra|Learning Between Projects]]
 [[@Xu2023-aw|A Bayesian-Based Knowledge Tracing Model For Improving Safety Training Outcomes In Construction]]

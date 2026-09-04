@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Assaad2023-ib|Opportunities And Challenges Of Offsite Construction]]
+[[@Vassigh2024-aa|Performance-Driven VR Learning For Robotics]]
