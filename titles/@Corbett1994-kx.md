@@ -15,6 +15,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Seed-Pending
   - Intelligent-Tutoring-Systems-ITS
   - Cited-for-Frontiers
   - git-lit
