@@ -5,6 +5,7 @@ author - 1: "[[Martin Joseph McKenney]]"
 key: "[[@McKenney2019-qi]]"
 aliases:
   - Identifying And Quantifying Personnel Skills Gaps
+institution: "[[Old Dominion University]]"
 publisher: "[[Old Dominion University]]"
 type: "[[@phdthesis]]"
 tags:

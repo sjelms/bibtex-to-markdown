@@ -1,6 +1,6 @@
 ---
 author: "Martin Joseph McKenney"
-institution:
+institution: "[[Old Dominion University]]"
 field:
 type:
 aliases:
