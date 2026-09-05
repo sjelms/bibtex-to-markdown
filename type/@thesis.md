@@ -1,6 +1,6 @@
 ---
 type: "[[@thesis]]"
-amended: 2026-09-05T06:32:41
+amended: 2026-09-05T06:35:26
 ---
 
 # Directory
@@ -9,6 +9,3 @@ amended: 2026-09-05T06:32:41
 - [[@Elms2023-am|Crafting A 21st-Century Workforce - Vocational Education And Training For The Changing Landscape Of Offsite Construction In The Digital Age]]
 ### 2021
 - [[@Crayne2021-jq|Analyzing The Causes Of Labor Shortage In The Commercial Carpentry Trades In The San Francisco Bay Area]]
-## 2000-2009
-### 2008
-- [[@Wang2008-cx|A Quantitative Analysis Of Training Outcomes And Strategies In The Construction Industry]]

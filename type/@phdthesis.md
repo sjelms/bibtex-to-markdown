@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-09-05T06:32:41
+amended: 2026-09-05T06:35:26
 ---
 
 # Directory
@@ -39,6 +39,8 @@ amended: 2026-09-05T06:32:41
 ### 2013
 - [[@Cuendet2013-tu|Tangible Interfaces For Learning - Training Spatial Skills In Vocational Classrooms]]
 ## 2000-2009
+### 2008
+- [[@Wang2008-cx|A Quantitative Analysis Of Training Outcomes And Strategies In The Construction Industry]]
 ### 2007
 - [[@Miranda2007-fx|Exploring The Relationship Between New Product Development, Concurrent Engineering, And Project Management To Improve Product Development]]
 ### 2002
