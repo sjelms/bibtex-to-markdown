@@ -3,6 +3,7 @@ title: Locus of Control
 year: 2013
 author - 1: "[[Martin B Kormanik]]"
 author - 2: "[[Tonette S Rocco]]"
+editor - 1: "[[Eric H Kessler]]"
 key: "[[@Kormanik2013-yf]]"
 booktitle: Encyclopedia of Management Theory
 aliases:
