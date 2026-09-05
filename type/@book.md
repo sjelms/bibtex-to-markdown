@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-05T08:05:53
+amended: 2026-09-05T08:37:26
 ---
 
 # Directory
@@ -374,6 +374,7 @@ amended: 2026-09-05T08:05:53
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
 ### 1990
+- [[@Knights1990-ry|Labour Process Theory]]
 - [[@Thompson1990-sl|Work Organisations - A Critical Introduction]]
 - [[@Marsick1990-un|Informal And Incidental Learning In The Workplace]]
 ## 1980-1989
