@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - BSSC-Seed-Fund-for-AI-Research
   - llm-wiki-workflow
+  - Seed-Pending
   - Artificial-Intelligence-AI
   - Intelligent-Tutoring-Systems-ITS
   - _Mark-Up
