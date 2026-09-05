@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-05T06:57:47
+amended: 2026-09-05T08:05:53
 ---
 
 # Directory
@@ -391,6 +391,7 @@ amended: 2026-09-05T06:57:47
 - [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
 ### 1986
 - [[@Silver1986-dj|Under Construction - Work And Alienation In The Building Trades]]
+- [[@Edwards1986-zy|Conflict At Work - A Materialist Analysis Of Workplace Relations]]
 ### 1985
 - [[@Wertsch1985-aq|Vygotsky And The Social Formation Of Mind]]
 ### 1984
