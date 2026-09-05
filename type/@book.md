@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-05T06:36:14
+amended: 2026-09-05T06:39:03
 ---
 
 # Directory
@@ -326,7 +326,7 @@ amended: 2026-09-05T06:36:14
 - [[@Warhurst2004-qq|The Skills That Matter]]
 - [[@Goldratt2004-gr|The Goal - A Process Of Ongoing Improvement]]
 ### 2003
-- [[@Pierce2003-wi|Behavior Analysis And Learning]]
+- [[@Unknown2003-qg|Behavior Analysis And Learning]]
 ### 2002
 - [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
