@@ -15,10 +15,12 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Construction-4-0
   - Cited-for-Frontiers
   - _In-Notion
   - Labor
   - git-lit
+  - AEC
 ---
 
 > [!bibliography]
