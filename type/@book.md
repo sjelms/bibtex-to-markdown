@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-06T12:33:27
+amended: 2026-09-06T13:43:16
 ---
 
 # Directory
@@ -425,6 +425,7 @@ amended: 2026-09-06T12:33:27
 - [[@Novack1975-sc|Pragmatism Versus Marxism - An Appraisal Of John Dewey's Philosophy]]
 - [[@Bhaskar1975-rq|A Realist Theory Of Science]]
 ### 1974
+- [[@Fox1974-qf|Beyond Contract - Work, Power And Trust Relations]]
 - [[@Argyris1974-nb|Theory In Practice - Increasing Professional Effectiveness]]
 - [[@Braverman1974-tr|Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century]]
 ### 1973
