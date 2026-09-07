@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-07T07:39:32
+amended: 2026-09-07T07:48:22
 ---
 
 # Directory
@@ -132,6 +132,7 @@ amended: 2026-09-07T07:39:32
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
+- [[@Radianti2020-os|A Systematic Review Of Immersive Virtual Reality Applications For Higher Education - Design Elements, Lessons Learned, And Research Agenda]]
 - [[@Lensjo2020-mv|Stories Of Learning - A Case Study Of Norwegian Plumbers And Apprentices In TVET At The Construction Site And In A Training Agency]]
 - [[@Pan2020-aw|Understanding The Determinants Of Construction Robot Adoption - Perspective Of Building Contractors]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
