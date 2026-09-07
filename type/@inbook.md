@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-07T06:24:00
+amended: 2026-09-07T07:39:32
 ---
 
 # Directory
@@ -271,6 +271,8 @@ amended: 2026-09-07T06:24:00
 ### 1997
 - [[@Corbett1997-hp|Chapter 37 - Intelligent Tutoring Systems]]
 - [[@Hutchins1997-uw|Constructing Meaning From Space, Gesture, And Speech]]
+### 1996
+- [[@Fosnot1996-rw|Constructivism - A Psychological Theory Of Learning]]
 ### 1993
 - [[@Schon1993-uw|Generative Metaphor - A Perspective On Problem-Setting In Social Policy]]
 - [[@Lakoff1993-is|The Contemporary Theory Of Metaphor]]
