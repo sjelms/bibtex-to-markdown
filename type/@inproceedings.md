@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-09-06T13:43:16
+amended: 2026-09-07T05:51:37
 ---
 
 # Directory
@@ -46,6 +46,7 @@ amended: 2026-09-06T13:43:16
 ### 2012
 - [[@Olsen2012-gr|Bad For Business - Skilled Labor Shortages In Alabama's Construction Industry]]
 - [[@Olsen2012-bm|How Industrial Contractors Are Handling Skilled Labor Shortages In The United States]]
+- [[@Marks2012-rl|Proximity Sensing And Warning Technology For Heavy Construction Equipment Operation]]
 - [[@Cuendet2012-vd|Tangible Interfaces - When Physical–Virtual Coupling May Be Detrimental To Learning]]
 - [[@Cuendet2012-rb|Tangible Vs. Virtual Representations]]
 ### 2011
