@@ -1,6 +1,6 @@
 ---
 type: "[[@inproceedings]]"
-amended: 2026-09-07T11:57:40
+amended: 2026-09-07T12:03:07
 ---
 
 # Directory
@@ -39,6 +39,7 @@ amended: 2026-09-07T11:57:40
 - [[@Chen2017-sr|A Review Of Using Augmented Reality In Education From 2011 To 2016]]
 ### 2016
 - [[@Lang2016-it|Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The UK?]]
+- [[@Maxwell2016-gw|Lessons From Sweden - How Australia Can Learn From Swedish Industrialised Building]]
 ### 2015
 - [[@LaViola2015-bg|Using Augmented Reality To Tutor Military Tasks In The Wild]]
 ### 2013
