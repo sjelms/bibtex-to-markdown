@@ -1,5 +1,5 @@
 ---
-author: "Duncan W Maxwell"
+author: "Duncan William Maxwell"
 institution: "[[Monash University]]"
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Maxwell
 ---
 
-## Duncan W Maxwell
+## Duncan William Maxwell
 
 ### Content:
 [[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma)]]
