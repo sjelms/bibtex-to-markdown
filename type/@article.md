@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-07T12:52:29
+amended: 2026-09-07T13:01:23
 ---
 
 # Directory
@@ -439,6 +439,7 @@ amended: 2026-09-07T12:52:29
 - [[@Ferry1998-xo|An Inquiry Into Schön's Epistemology Of Practice - Exploring Links Between Experience And Reflective Practice]]
 ### 1997
 - [[@Agnew1997-vn|Deskilling And Reskilling Within The Labour Process - The Case Of Computer Integrated Manufacturing]]
+- [[@Tessmer1997-jm|The Role Of Context In Learning And Instructional Design]]
 - [[@Tomlinson1997-tn|Edward Lee Thorndike And John Dewey On The Science Of Education]]
 ### 1996
 - [[@Phillips1996-is|How Much Is The Training Worth?]]

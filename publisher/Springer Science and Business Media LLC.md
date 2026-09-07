@@ -22,5 +22,6 @@ category:
 [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis]]
 [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities]]
+[[@Tessmer1997-jm|The Role Of Context In Learning And Instructional Design]]
 [[@Wu2024-ix|Understanding Stakeholders’ Intention To Use Construction Robots]]
 [[@Zhao2018-nq|Market Control]]
