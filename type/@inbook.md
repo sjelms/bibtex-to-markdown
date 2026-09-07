@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-07T12:07:48
+amended: 2026-09-07T12:49:37
 ---
 
 # Directory
@@ -219,6 +219,7 @@ amended: 2026-09-07T12:07:48
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 ### 2005
 - [[@Grier2005-vj|The Children Of Adam Smith]]
+- [[@Barab2005-dj|Design-Based Research - A Methodological Toolkit For The Learning Scientist]]
 ### 2004
 - [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
 - [[@Fuller2004-ys|Conclusion]]
@@ -240,8 +241,8 @@ amended: 2026-09-07T12:07:48
 ### 2002
 - [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
 - [[@Beckett2005-dh|Introduction - Life In The Swamp]]
+- [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
 - [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
