@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-07T05:51:37
+amended: 2026-09-07T05:52:18
 ---
 
 # Directory
@@ -136,6 +136,7 @@ amended: 2026-09-07T05:51:37
 - [[@Fischer2014-dt|Informal Learning In Workplaces - Understanding Learning Culture As A Challenge For Organizational And Individual Development]]
 - [[@Guile2014-lm|Beyond The Institution Of Apprenticeship - Towards A Social Theory Of Learning As The Production Of Knowledge]]
 - [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective]]
+- [[@Dawley2014-mv|Situated Learning In Virtual Worlds And Immersive Simulations]]
 - [[@Goller2014-jx|Agentic Behaviour At Work - Crafting Learning Experiences]]
 - [[@Goller2014-mf|Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences]]
 ### 2013

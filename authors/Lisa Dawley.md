@@ -1,20 +1,17 @@
 ---
-author: "M David Merrill"
+author: "Lisa Dawley"
 institution:
 field:
 type:
 aliases:
-  - Merrill
+  - Dawley
 ---
 
-## M David Merrill
+## Lisa Dawley
 
 ### Content:
 [[@Dawley2014-mv|Situated Learning In Virtual Worlds And Immersive Simulations]]
-[[@Merrill2002-sc|First Principles Of Instruction]]
 
 #### Bibliography:
 
 ![[@Dawley2014-mv]]
-
-![[@Merrill2002-sc]]

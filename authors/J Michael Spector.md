@@ -1,20 +1,17 @@
 ---
-author: "M David Merrill"
+author: "J Michael Spector"
 institution:
 field:
 type:
 aliases:
-  - Merrill
+  - Spector
 ---
 
-## M David Merrill
+## J Michael Spector
 
 ### Content:
 [[@Dawley2014-mv|Situated Learning In Virtual Worlds And Immersive Simulations]]
-[[@Merrill2002-sc|First Principles Of Instruction]]
 
 #### Bibliography:
 
 ![[@Dawley2014-mv]]
-
-![[@Merrill2002-sc]]
