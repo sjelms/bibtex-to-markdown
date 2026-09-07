@@ -15,6 +15,7 @@ type: "[[@inproceedings]]"
 tags:
   - Construction-4-0
   - _BibTex-to-MD-Git
+  - Seed-Pending
   - AEC
   - git-lit
 ---

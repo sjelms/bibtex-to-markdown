@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-07T12:03:07
+amended: 2026-09-07T12:07:24
 ---
 
 # Directory
@@ -23,6 +23,7 @@ amended: 2026-09-07T12:03:07
 - [[@Drake2025-nv|How To Write A Scientific Paper In Fifteen Steps]]
 - [[@Habgood-Coote2025-qu|Collective Action, Work, And Partial Plans]]
 - [[@Liu2025-sc|Shaping Online And Offline Informal Learning Networks In Off-Site Construction Projects - A Proximity Perspective]]
+- [[@Li2025-yj|How Do Workforce Adaptability And Reskilling Initiatives Drive Innovations - The Case Of Western Australian Construction Industry]]
 - [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?]]
 - [[@Tomlinson2025-ou|Working With AI - Measuring The Occupational Implications Of Generative AI]]
 - [[@Fedrigo2025-su|Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning]]
