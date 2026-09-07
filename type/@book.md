@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-07T06:11:23
+amended: 2026-09-07T06:24:00
 ---
 
 # Directory
@@ -371,6 +371,7 @@ amended: 2026-09-07T06:11:23
 - [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
 - [[@Hergenhahn1992-yt|An Introduction To The History Of Psychology]]
 ### 1991
+- [[@Varela1991-er|The Embodied Mind - Cognitive Science And Human Experience]]
 - [[@Lave1991-xv|Situated Learning - Legitimate Peripheral Participation]]
 - [[@Reich1991-ef|The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism]]
 ### 1990
