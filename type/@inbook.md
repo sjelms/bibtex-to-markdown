@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-07T10:21:53
+amended: 2026-09-07T11:54:46
 ---
 
 # Directory
@@ -84,8 +84,8 @@ amended: 2026-09-07T10:21:53
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -240,8 +240,8 @@ amended: 2026-09-07T10:21:53
 ### 2002
 - [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
 - [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
+- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
 - [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
