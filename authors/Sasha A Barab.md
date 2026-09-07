@@ -1,5 +1,5 @@
 ---
-author: "Sasha Barab"
+author: "Sasha A Barab"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Barab
 ---
 
-## Sasha Barab
+## Sasha A Barab
 
 ### Content:
 [[@Barab2005-dj|Design-Based Research]]
