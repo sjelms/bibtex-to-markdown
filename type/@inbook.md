@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-07T13:01:23
+amended: 2026-09-07T13:03:54
 ---
 
 # Directory
@@ -233,6 +233,7 @@ amended: 2026-09-07T13:01:23
 - [[@Young2004-fs|Conceptualizing Vocational Knowledge - Some Theoretical Considerations]]
 - [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 - [[@Hodkinson2004-ht|The Complexities Of Workplace Learning - Problems And Dangers In Trying To Measure Attainment]]
+- [[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
 - [[@Billett2004-vj|Learning Through Work - Workplace Participatory Practices]]
 - [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’ - A Critique Based On Evidence From The United States, Canada And England]]
 - [[@Engestrom2004-bz|The New Generation Of Expertise - Seven Theses]]

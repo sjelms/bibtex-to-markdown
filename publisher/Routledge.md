@@ -22,6 +22,7 @@ category:
 [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
 [[@Ashton2004-dg|The Political Economy Of Workplace Learning]]
 [[@Bandura1971-cl|Psychological Modeling]]
+[[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
 [[@Barrett2009-ji|Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies]]
 [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 [[@Beckett2002-tf|Life, Work And Learning]]

@@ -1,20 +1,17 @@
 ---
-author: "Sasha A Barab"
+author: "Eun-Ok Baek"
 institution:
 field:
 type:
 aliases:
-  - Barab
+  - Baek
 ---
 
-## Sasha A Barab
+## Eun-Ok Baek
 
 ### Content:
 [[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
-[[@Barab2005-dj|Design-Based Research]]
 
 #### Bibliography:
 
 ![[@Barab2004-pm]]
-
-![[@Barab2005-dj]]

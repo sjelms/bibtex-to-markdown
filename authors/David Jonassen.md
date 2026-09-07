@@ -1,20 +1,17 @@
 ---
-author: "Sasha A Barab"
+author: "David Jonassen"
 institution:
 field:
 type:
 aliases:
-  - Barab
+  - Jonassen
 ---
 
-## Sasha A Barab
+## David Jonassen
 
 ### Content:
 [[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
-[[@Barab2005-dj|Design-Based Research]]
 
 #### Bibliography:
 
 ![[@Barab2004-pm]]
-
-![[@Barab2005-dj]]

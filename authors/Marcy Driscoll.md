@@ -1,20 +1,17 @@
 ---
-author: "Sasha A Barab"
+author: "Marcy Driscoll"
 institution:
 field:
 type:
 aliases:
-  - Barab
+  - Driscoll
 ---
 
-## Sasha A Barab
+## Marcy Driscoll
 
 ### Content:
 [[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
-[[@Barab2005-dj|Design-Based Research]]
 
 #### Bibliography:
 
 ![[@Barab2004-pm]]
-
-![[@Barab2005-dj]]
