@@ -138,6 +138,7 @@ category:
 [[@Smith2019-lv|Productivity, Innovation And Disruption]]
 [[@Snell1996-oc|The Apprenticeship System In British History]]
 [[@Snell2019-ty|Vocational Education And The Revitalisation Of Manufacturing In The United States]]
+[[@Snow1987-aa|Aptitude, Learning, And Instruction]]
 [[@Sorby2009-nw|Educational Research In Developing 3D Spatial Skills For Engineering Students]]
 [[@Sunindijo2023-kk|Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector]]
 [[@Thuesen2019-fv|The Impact Of Organisational Learning And Change On Offsite Manufacturing]]

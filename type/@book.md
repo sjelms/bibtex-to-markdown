@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-07T05:52:18
+amended: 2026-09-07T06:11:23
 ---
 
 # Directory
@@ -388,6 +388,7 @@ amended: 2026-09-07T05:52:18
 ### 1987
 - [[@Stewart1987-wx|Adult Learning In America - Edward Lindeman And His Agenda For Lifelong Education]]
 - [[@Schon1987-om|Educating The Reflective Practitioner - Toward A New Design For Teaching And Learning In The Professions]]
+- [[@Snow1987-aa|Aptitude, Learning, And Instruction - Conative And Affective Process Analyses]]
 - [[@Engestrom1987-gi|Learning By Expanding - An Activity-Theoretical Approach To Developmental Research]]
 - [[@Wenger1987-xp|Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge]]
 ### 1986
