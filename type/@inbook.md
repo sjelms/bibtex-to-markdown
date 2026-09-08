@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-08T05:56:18
+amended: 2026-09-08T05:59:03
 ---
 
 # Directory
@@ -279,6 +279,8 @@ amended: 2026-09-08T05:56:18
 - [[@Schon1993-uw|Generative Metaphor - A Perspective On Problem-Setting In Social Policy]]
 - [[@Lakoff1993-is|The Contemporary Theory Of Metaphor]]
 - [[@Reddy1993-po|The Conduit Metaphor - A Case Of Frame Conflict In Our Language About Language]]
+### 1990
+- [[@Friedman1990-gp|Managerial Strategies, Activities, Techniques And Technology - Towards A Complex Theory Of The Labour Process]]
 ## 1980-1989
 ### 1988
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]

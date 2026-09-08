@@ -1,20 +1,17 @@
 ---
-author: "Hugh Willmott"
+author: "Andrew Friedman"
 institution:
 field:
 type:
 aliases:
-  - Willmott
+  - Friedman
 ---
 
-## Hugh Willmott
+## Andrew Friedman
 
 ### Content:
 [[@Friedman1990-gp|Managerial Strategies, Activities, Techniques And Technology]]
-[[@Knights1990-ry|Labour Process Theory]]
 
 #### Bibliography:
 
 ![[@Friedman1990-gp]]
-
-![[@Knights1990-ry]]
