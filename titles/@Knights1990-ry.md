@@ -18,6 +18,7 @@ tags:
   - Future-of-Work
   - Workplace-Learning
   - git-lit
+  - Book-parent
 ---
 
 > [!bibliography]
