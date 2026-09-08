@@ -12,6 +12,7 @@ publisher: "[[Palgrave Macmillan UK]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - LPT_Book
   - RNIB
   - Labor
   - Economics
