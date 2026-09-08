@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-08T05:37:25
+amended: 2026-09-08T05:44:16
 ---
 
 # Directory
@@ -486,6 +486,7 @@ amended: 2026-09-08T05:37:25
 ### 1984
 - [[@Hutcheson1984-gq|Educating Project Managers For The Construction Industry In Australia]]
 ### 1982
+- [[@Littler1982-yt|Bravermania And Beyond - Recent Theories Of The Labour Process]]
 - [[@Finkelstein1982-sv|What Is Not Measurable, Make Measurable]]
 ### 1981
 - [[@Reingold1981-cb|Tidier Drawings Of Trees]]

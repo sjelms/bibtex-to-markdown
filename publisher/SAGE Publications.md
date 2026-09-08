@@ -64,6 +64,7 @@ category:
 [[@Kumar2019-dp|Research Methodology]]
 [[@Lee2017-tr|Conducting Case Study Research For Business And Management Students]]
 [[@Leoni2012-ml|Workplace Design, Complementarities Among Work Practices, And The Formation Of Key Competencies]]
+[[@Littler1982-yt|Bravermania And Beyond]]
 [[@Malloch2011-nf|The SAGE Handbook Of Workplace Learning]]
 [[@Martin_Kilduff2024-nr|Where's The Theory Contribution? An Answer In Four Parts]]
 [[@Mayring2021-ud|Qualitative Content Analysis]]
