@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-08T05:59:03
+amended: 2026-09-08T06:13:32
 ---
 
 # Directory
@@ -281,6 +281,7 @@ amended: 2026-09-08T05:59:03
 - [[@Reddy1993-po|The Conduit Metaphor - A Case Of Frame Conflict In Our Language About Language]]
 ### 1990
 - [[@Friedman1990-gp|Managerial Strategies, Activities, Techniques And Technology - Towards A Complex Theory Of The Labour Process]]
+- [[@Littler1990-oy|The Labour Process Debate - A Theoretical Review 1974–88]]
 ## 1980-1989
 ### 1988
 - [[@Lesgold1988-at|Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job]]
