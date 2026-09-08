@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-08T06:13:32
+amended: 2026-09-08T09:59:32
 ---
 
 # Directory
@@ -396,6 +396,7 @@ amended: 2026-09-08T06:13:32
 - [[@Merrill2002-sc|First Principles Of Instruction]]
 - [[@Knowles2002-ic|Malcolm Knowles, Informal Adult Education, Self-Direction, And Andragogy]]
 - [[@Prensky2002-ml|The Motivation Of Gameplay - The Real 21st Century Learning Revolution]]
+- [[@Boreham2002-at|Work Process Knowledge, Curriculum Control And The Work-Based Route To Vocational Qualifications]]
 - [[@Billett2002-bq|Critiquing Workplace Learning Discourses - Participation And Continuity At Work]]
 - [[@Billett2002-ry|Workplace Pedagogic Practices - Co–Participation And Learning]]
 ### 2001
