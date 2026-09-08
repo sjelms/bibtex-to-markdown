@@ -10,6 +10,7 @@ publisher: "[[Faber and Faber]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - WALF-Improving-Working-as-Learning
   - Politics-and-Society
   - Economics
   - Labor
