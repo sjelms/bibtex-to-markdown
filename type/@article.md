@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-09T06:35:34
+amended: 2026-09-09T06:36:01
 ---
 
 # Directory
@@ -133,7 +133,6 @@ amended: 2026-09-09T06:35:34
 - [[@Vinayan2020-md|Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia]]
 - [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 - [[@Derrick2020-yv|“tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation]]
-- [[@Radianti2020-os|A Systematic Review Of Immersive Virtual Reality Applications For Higher Education - Design Elements, Lessons Learned, And Research Agenda]]
 - [[@Lensjo2020-mv|Stories Of Learning - A Case Study Of Norwegian Plumbers And Apprentices In TVET At The Construction Site And In A Training Agency]]
 - [[@Pan2020-aw|Understanding The Determinants Of Construction Robot Adoption - Perspective Of Building Contractors]]
 - [[@Goller2020-or|Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model]]
@@ -273,7 +272,6 @@ amended: 2026-09-09T06:35:34
 - [[@Pink2013-ju|Short-Term Ethnography - Intense Routes To Knowing]]
 - [[@Ahn2013-of|The Effect Of Embodied Experiences On Self-Other Merging, Attitude, And Helping Behavior]]
 - [[@Verdinelli2013-si|Data Display In Qualitative Research]]
-- [[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
 - [[@Hegazy2013-dm|Hands-On Exercise For Enhancing Students’ Construction Management Skills]]
 ### 2012
 - [[@Jarkas2012-fy|Factors Affecting Construction Labor Productivity In Kuwait]]
@@ -328,7 +326,6 @@ amended: 2026-09-09T06:35:34
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
 - [[@Tynjala2008-ct|Perspectives Into Learning At The Workplace]]
-- [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
 - [[@Billett2008-kx|Learning Through Work - Exploring Instances Of Relational Interdependencies]]
 - [[@Pan2008-yg|Leading UK Housebuilders' Utilization Of Offsite Construction Methods]]

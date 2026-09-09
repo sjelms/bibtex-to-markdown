@@ -14,7 +14,6 @@ aliases:
 
 ### Content:
 [[@Luckin2001-ue|Ecolab]]
-[[@Luckin2008-bd|The Learner Centric Ecology Of Resources]]
 [[@Luckin2016-aq|Reflections On The Ecolab And The Zone Of Proximal Development]]
 [[@Luckin2016-lp|Intelligence Unleashed]]
 [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
@@ -25,8 +24,6 @@ aliases:
 #### Bibliography:
 
 ![[@Luckin2001-ue]]
-
-![[@Luckin2008-bd]]
 
 ![[@Luckin2016-aq]]
 

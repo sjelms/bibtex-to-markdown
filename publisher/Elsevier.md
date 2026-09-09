@@ -19,7 +19,6 @@ category:
 [[@Boyd2019-os|Smithian Insights On Automation And The Future Of Work]]
 [[@Campbell1979-st|Assessing The Impact Of Planned Social Change]]
 [[@Casini2022-yp|Construction 4.0]]
-[[@Cuendet2013-vm|Designing Augmented Reality For The Classroom]]
 [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 [[@Fauville2020-dy|Virtual Reality As A Promising Tool To Promote Climate Change Awareness]]
 [[@Forman2007-cf|Qualitative Content Analysis]]
