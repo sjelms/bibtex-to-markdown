@@ -8,7 +8,7 @@ author - 4: "[[Pierre Dillenbourg]]"
 key: "[[@Cuendet2013-vm]]"
 aliases:
   - Designing Augmented Reality For The Classroom
-journal: "[[Computers and education]]"
+journal: "[[Computers and Education]]"
 publisher: "[[Elsevier]]"
 volume: 68
 type: "[[@article]]"
