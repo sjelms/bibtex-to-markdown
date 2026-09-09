@@ -15,7 +15,6 @@ type: "[[@article]]"
 tags:
   - Journal-Articles
   - llm-wiki-workflow
-  - Git-Clash
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR
   - HCI

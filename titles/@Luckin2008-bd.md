@@ -16,7 +16,6 @@ tags:
   - 2_Upgrade-MAY-2023
   - Journal-Articles
   - llm-wiki-workflow
-  - Git-Clash
   - _BibTex-to-MD-Git
   - Cited-for-Frontiers
   - Intelligent-Tutoring-Systems-ITS

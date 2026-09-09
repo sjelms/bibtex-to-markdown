@@ -15,7 +15,6 @@ volume: 147
 type: "[[@article]]"
 tags:
   - Seed-Pending
-  - Git-Clash
   - _BibTex-to-MD-Git
   - _XR-MR-VR-AR
   - Education
