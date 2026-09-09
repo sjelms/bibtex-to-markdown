@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-09T06:41:00
+amended: 2026-09-09T11:44:50
 ---
 
 # Directory
@@ -35,6 +35,7 @@ amended: 2026-09-09T06:41:00
 - [[@Bharani2025-ii|The Gilbreth Contribution To Operating Room Management And Surgical Ergonomics]]
 ### 2024
 - [[@Foster2024-at|Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice]]
+- [[@Grzybowski2024-qn|A History Of Artificial Intelligence]]
 - [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 - [[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital - A Retrospective]]
 - [[@Autor2024-jq|New Frontiers - The Origins And Content Of New Work, 1940–2018]]
