@@ -11,3 +11,4 @@ category:
 
 ### Content:
 [[@Hodgson2019-vu|Taxonomic Definitions In Social Science, With Firms, Markets And Institutions As Case Studies]]
+[[@Soare1996-ds|Computability And Recursion]]

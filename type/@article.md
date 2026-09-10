@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-09T11:44:50
+amended: 2026-09-10T07:09:54
 ---
 
 # Directory
@@ -447,6 +447,7 @@ amended: 2026-09-09T11:44:50
 - [[@Phillips1996-is|How Much Is The Training Worth?]]
 - [[@Lave1996-oh|Teaching, As Learning, In Practice]]
 - [[@Snell1996-oc|The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution]]
+- [[@Soare1996-ds|Computability And Recursion]]
 - [[@Parry1996-dm|Measuring Training's ROI]]
 - [[@Billett1996-pa|Constructing Vocational Knowledge - History, Communities And Ontogeny]]
 ### 1995
