@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-13T08:13:21
+amended: 2026-09-13T13:07:09
 ---
 
 # Directory
@@ -487,6 +487,7 @@ amended: 2026-09-13T08:13:21
 ### 1985
 - [[@Ledewitz1985-qi|Models Of Design In Studio Teaching]]
 ### 1984
+- [[@Chandler1984-mj|The Emergence Of Managerial Capitalism]]
 - [[@Hutcheson1984-gq|Educating Project Managers For The Construction Industry In Australia]]
 ### 1982
 - [[@Littler1982-yt|Bravermania And Beyond - Recent Theories Of The Labour Process]]

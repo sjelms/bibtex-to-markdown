@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-13T08:13:21
+amended: 2026-09-13T13:07:09
 ---
 
 # Directory
@@ -419,6 +419,7 @@ amended: 2026-09-13T08:13:21
 - [[@Sudnow1978-tk|Ways Of The Hand - The Organization Of Improvised Conduct]]
 - [[@Vygotsky1978-pz|Mind In Society - Development Of Higher Psychological Processes]]
 ### 1977
+- [[@Chandler1977-lw|The Visible Hand - The Managerial Revolution In American Business]]
 - [[@Friedman1977-mf|Industry And Labour - Class Struggle At Work And Monopoly Capitalism]]
 ### 1976
 - [[@Schumpeter1976-zs|Capitalism, Socialism, And Democracy]]
