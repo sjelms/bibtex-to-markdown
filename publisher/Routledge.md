@@ -91,6 +91,7 @@ category:
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Hussien2020-bt|A Review Of Mixed-Reality Applications In Construction 4.0]]
 [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building]]
+[[@Jones1982-su|Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control1]]
 [[@Kamler2014-sz|Helping Doctoral Students Write]]
 [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
