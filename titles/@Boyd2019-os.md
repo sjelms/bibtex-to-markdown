@@ -17,7 +17,6 @@ tags:
   - Marx_Labor
   - Economics
   - Future-of-Work
-  - DO-NOT-CITE-–-BAD-REFS
   - git-lit
 ---
 
