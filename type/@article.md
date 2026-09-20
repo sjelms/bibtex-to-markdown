@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-20T07:17:51
+amended: 2026-09-20T07:23:58
 ---
 
 # Directory
@@ -238,6 +238,7 @@ amended: 2026-09-20T07:17:51
 - [[@Yang2016-of|Expansive-Restrictive Learning - A Framework For Workplace Learning Research]]
 ### 2015
 - [[@Stoller2015-ne|Taylorism And The Logic Of Learning Outcomes]]
+- [[@Manuti2015-ga|Formal And Informal Learning In The Workplace - A Research Review]]
 - [[@Hartmann2015-ra|Learning Between Projects - More Than Sending Messages In Bottles]]
 - [[@Reich2015-vb|Dilemmas In Continuing Professional Learning - Learning Inscribed In Frameworks Or Elicited From Practice]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]

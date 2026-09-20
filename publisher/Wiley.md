@@ -26,6 +26,7 @@ category:
 [[@Hager2009-mt|Moving Beyond The Metaphor Of Transfer Of Learning]]
 [[@Inkpen2008-kn|Knowledge Transfer And International Joint Ventures]]
 [[@Johnson2025-gf|The Bauhaus As Education Model]]
+[[@Manuti2015-ga|Formal And Informal Learning In The Workplace]]
 [[@Margaryan2024-ws|The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development]]
 [[@Muttarak2023-uz|Peter Gaskell On The Effects Of Mechanization On Labor]]
 [[@Ozgur2014-tm|Babbage's Legacy]]
