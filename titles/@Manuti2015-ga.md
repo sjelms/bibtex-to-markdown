@@ -10,7 +10,7 @@ key: "[[@Manuti2015-ga]]"
 aliases:
   - Formal And Informal Learning In The Workplace - A Research Review
   - Formal And Informal Learning In The Workplace
-journal: "[[International journal of training and development]]"
+journal: "[[International Journal of Training and Development]]"
 publisher: "[[Wiley]]"
 volume: 19
 type: "[[@article]]"
