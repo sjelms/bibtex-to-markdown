@@ -7,7 +7,7 @@ editor - 2: "[[Ken Mayhew]]"
 editor - 3: "[[David Finegold]]"
 editor - 4: "[[John Buchanan]]"
 key: "[[@Handel2017-ok]]"
-booktitle: Oxford Handbooks Online
+booktitle: The Oxford Handbook of Skills and Training
 aliases:
   - Measuring Job Content - Skills, Technology, And Management Practices
   - Measuring Job Content

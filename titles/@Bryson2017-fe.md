@@ -7,7 +7,7 @@ editor - 2: "[[Ken Mayhew]]"
 editor - 3: "[[David Finegold]]"
 editor - 4: "[[John Buchanan]]"
 key: "[[@Bryson2017-fe]]"
-booktitle: Oxford Handbooks Online
+booktitle: The Oxford Handbook of Skills and Training
 aliases:
   - Disciplinary Perspectives On Skill
 publisher: "[[Oxford University Press]]"

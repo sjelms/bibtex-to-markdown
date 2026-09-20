@@ -7,7 +7,7 @@ editor - 2: "[[Ken Mayhew]]"
 editor - 3: "[[David Finegold]]"
 editor - 4: "[[John Buchanan]]"
 key: "[[@Payne2017-tu]]"
-booktitle: Oxford Handbooks Online
+booktitle: The Oxford Handbook of Skills and Training
 aliases:
   - The Changing Meaning Of Skill - Still Contested, Still Important
   - The Changing Meaning Of Skill

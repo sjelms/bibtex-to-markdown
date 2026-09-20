@@ -10,7 +10,7 @@ editor - 2: "[[Ken Mayhew]]"
 editor - 3: "[[David Finegold]]"
 editor - 4: "[[John Buchanan]]"
 key: "[[@Buchanan2017-sg]]"
-booktitle: Oxford Handbooks Online
+booktitle: The Oxford Handbook of Skills and Training
 aliases:
   - Introduction - Skills And Training - Multiple Targets, Shifting Terrain
   - Introduction

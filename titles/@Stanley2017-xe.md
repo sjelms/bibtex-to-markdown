@@ -7,7 +7,7 @@ editor - 2: "[[Ken Mayhew]]"
 editor - 3: "[[David Finegold]]"
 editor - 4: "[[John Buchanan]]"
 key: "[[@Stanley2017-xe]]"
-booktitle: Oxford Handbooks Online
+booktitle: The Oxford Handbook of Skills and Training
 aliases:
   - Accreditation And Assessment In Vocational Education And Training
 publisher: "[[Oxford University Press]]"
