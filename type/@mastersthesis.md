@@ -1,6 +1,6 @@
 ---
 type: "[[@mastersthesis]]"
-amended: 2026-09-20T09:22:44
+amended: 2026-09-20T09:25:15
 ---
 
 # Directory
