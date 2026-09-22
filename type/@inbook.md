@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-22T12:31:22
+amended: 2026-09-22T12:58:18
 ---
 
 # Directory
@@ -72,6 +72,7 @@ amended: 2026-09-22T12:31:22
 - [[@Broad2019-rn|Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise]]
 - [[@Lessing2019-jp|Industrialised House Building - Concepts And Its Application In Sweden]]
 - [[@Simu2019-by|A Test Platform Of Viable Methods To Improve Production And Learning On Construction Sites]]
+- [[@Busemeyer2019-jx|The Politics Of Vocational Training]]
 - [[@Saunders2019-ko|Understanding Research Philosophy And Approaches To Theory Development]]
 - [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 - [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training - Pedagogy, Curriculum, And Assessment]]
@@ -85,8 +86,8 @@ amended: 2026-09-22T12:31:22
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]

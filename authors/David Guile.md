@@ -14,6 +14,7 @@ aliases:
 [[@Bakker2019-lj|The Learning Potential Of Boundary Crossing In The Vocational Curriculum]]
 [[@Billett2019-so|Vocational Education And The Individual]]
 [[@Broad2019-rn|Capturing The Elusive]]
+[[@Busemeyer2019-jx|The Politics Of Vocational Training]]
 [[@Duguid2012-ff|‘the Art Of Knowing’]]
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 [[@Fuller2012-pz|Creating And Using Knowledge]]
@@ -55,6 +56,8 @@ aliases:
 ![[@Billett2019-so]]
 
 ![[@Broad2019-rn]]
+
+![[@Busemeyer2019-jx]]
 
 ![[@Duguid2012-ff]]
 

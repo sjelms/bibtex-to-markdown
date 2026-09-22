@@ -21,6 +21,7 @@ aliases:
 [[@Billett2019-so|Vocational Education And The Individual]]
 [[@Bishop2009-co|Constructing Learning]]
 [[@Broad2019-rn|Capturing The Elusive]]
+[[@Busemeyer2019-jx|The Politics Of Vocational Training]]
 [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 [[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-kc|Performing Identities At Work]]
@@ -70,6 +71,8 @@ aliases:
 ![[@Bishop2009-co]]
 
 ![[@Broad2019-rn]]
+
+![[@Busemeyer2019-jx]]
 
 ![[@Durham2019-js]]
 
