@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-22T12:58:18
+amended: 2026-09-22T15:06:51
 ---
 
 # Directory
@@ -86,8 +86,8 @@ amended: 2026-09-22T12:58:18
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -218,7 +218,12 @@ amended: 2026-09-22T12:58:18
 - [[@Blyton2007-lq|Scientific Management]]
 - [[@Blyton2007-kz|Skill]]
 ### 2006
+- [[@McKinlay2006-lc|Knowledge Management]]
+- [[@Crouch2006-di|Skill Formation Systems]]
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
+- [[@Tolbert2006-os|Introduction]]
+- [[@Batt2006-sj|Groups, Teams, And The Division Of Labor - Interdisciplinary Perspectives On The Organization Of Work]]
+- [[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
 ### 2005
 - [[@Grier2005-vj|The Children Of Adam Smith]]
 - [[@Barab2005-dj|Design-Based Research - A Methodological Toolkit For The Learning Scientist]]
