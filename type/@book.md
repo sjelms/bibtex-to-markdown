@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-22T11:42:51
+amended: 2026-09-22T12:24:46
 ---
 
 # Directory
@@ -269,6 +269,7 @@ amended: 2026-09-22T11:42:51
 - [[@Wiles2012-ef|What Are Qualitative Research Ethics?]]
 ### 2011
 - [[@Davies2011-zx|Thinking About Architecture - An Introduction To Architectural Theory]]
+- [[@Kahneman2011-cf|Thinking, Fast And Slow]]
 - [[@Wigdor2011-kl|Brave NUI World - Designing Natural User Interfaces For Touch And Gesture]]
 - [[@Brynjolfsson2011-fg|Race Against The Machine - How The Digital Revolution Is Accelerating Innovation, Driving Productivity, And Irreversibly Transforming Employment And The Economy]]
 - [[@Cline2011-qy|Ready Player One]]
@@ -335,6 +336,7 @@ amended: 2026-09-22T11:42:51
 - [[@OECD2001-sp|Education Policy Analysis 2001]]
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 - [[@Billett2001-nj|Learning In The Workplace - Strategies For Effective Practice]]
+- [[@Schatzki2001-ej|The Practice Turn In Contemporary Theory]]
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
 - [[@Lagemann2000-fz|An Elusive Science - The Troubling History Of Education Research]]

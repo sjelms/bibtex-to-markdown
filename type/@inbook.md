@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-22T11:42:51
+amended: 2026-09-22T12:24:46
 ---
 
 # Directory
@@ -84,8 +84,8 @@ amended: 2026-09-22T11:42:51
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -251,6 +251,7 @@ amended: 2026-09-22T11:42:51
 - [[@Beckett2005-xn|Practice At Work And Informal Learning]]
 ### 2001
 - [[@Booth2001-fr|Trade Unions, Economic Behavior Of]]
+- [[@Knorr-Cetina2001-dh|Objectual Practice]]
 - [[@Charmaz2001-wf|Grounded Theory In Ethnography]]
 - [[@Charmaz2001-np|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Opwis2001-vw|Instructional Technology - Cognitive Science Perspectives]]
