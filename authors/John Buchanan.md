@@ -16,6 +16,7 @@ aliases:
 [[@Handel2017-ok|Measuring Job Content]]
 [[@Lerman2017-ww|Skill Development In Middle Level Occupations]]
 [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
+[[@Oliver2019-uk|Political Economy Of Vocational Education And Training]]
 [[@Payne2017-tu|The Changing Meaning Of Skill]]
 [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
 [[@Stuart2017-vq|Unions, The Skills Agenda, And Workforce Development]]
@@ -38,6 +39,8 @@ aliases:
 ![[@Lerman2017-ww]]
 
 ![[@Martin2017-cv]]
+
+![[@Oliver2019-uk]]
 
 ![[@Payne2017-tu]]
 

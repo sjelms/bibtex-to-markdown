@@ -51,6 +51,7 @@ aliases:
 [[@Hoeve2019-ip|Innovative Work-Based Learning For Responsive Vocational Education And Training (VET)]]
 [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
 [[@Lupton2018-ct|The Construction Challenge In Greater Manchester]]
+[[@Oliver2019-uk|Political Economy Of Vocational Education And Training]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Unwin2007-pk|Looking Inside The Russian Doll]]
@@ -129,6 +130,8 @@ aliases:
 ![[@Lahiff2019-dw]]
 
 ![[@Lupton2018-ct]]
+
+![[@Oliver2019-uk]]
 
 ![[@Pilz2019-py]]
 

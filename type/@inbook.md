@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-22T12:28:33
+amended: 2026-09-22T12:31:22
 ---
 
 # Directory
@@ -65,6 +65,7 @@ amended: 2026-09-22T12:28:33
 - [[@Durham2019-js|The Contested Evolution And Future Of Vocational Education In The United States]]
 - [[@Aprea2019-rf|Designing Technology-Enhanced Learning Environments In Vocational Education And Training]]
 - [[@Thuesen2019-fv|The Impact Of Organisational Learning And Change On Offsite Manufacturing]]
+- [[@Oliver2019-uk|Political Economy Of Vocational Education And Training]]
 - [[@Guile2019-mh|Introduction To The Handbook - Vocational Education And Training (VET) Theory, Practice, And Policy For A Complex Field Of Inquiry]]
 - [[@Guile2019-hk|VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century]]
 - [[@Brynjolfsson2019-od|Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics]]
