@@ -24,7 +24,6 @@ tags:
   - ePub
   - VET
   - Workplace-Learning
-  - _New-Literature
   - UCL
   - _In-ClickUp
   - Economics

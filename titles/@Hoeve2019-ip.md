@@ -22,7 +22,6 @@ tags:
   - ePub
   - VET
   - Workplace-Learning
-  - _New-Literature
   - UCL
   - Book-child
   - git-lit

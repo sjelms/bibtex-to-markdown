@@ -22,9 +22,7 @@ tags:
   - _In-Readwise
   - ePub
   - Workplace-Learning
-  - _New-Literature
   - VET
-  - UCL
   - Book-child
   - git-lit
 ---
