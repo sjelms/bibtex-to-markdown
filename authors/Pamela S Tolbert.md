@@ -10,6 +10,7 @@ aliases:
 ## Pamela S Tolbert
 
 ### Content:
+[[@Ackroyd2006-di|The Oxford Handbook Of Work And Organization]]
 [[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
 [[@Batt2006-sj|Groups, Teams, And The Division Of Labor]]
 [[@Crouch2006-di|Skill Formation Systems]]
@@ -17,6 +18,8 @@ aliases:
 [[@Tolbert2006-os|Introduction]]
 
 #### Bibliography:
+
+![[@Ackroyd2006-di]]
 
 ![[@Barley2006-mr]]
 

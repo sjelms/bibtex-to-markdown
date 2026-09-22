@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-22T15:06:51
+amended: 2026-09-22T15:22:33
 ---
 
 # Directory
@@ -317,6 +317,7 @@ amended: 2026-09-22T15:06:51
 - [[@Levy2006-si|The New Division Of Labor - How Computers Are Creating The Next Job Market]]
 - [[@Young2006-fl|Knowledge, Curriculum And Qualifications For South African Further Education]]
 - [[@OECD2006-nt|Education Policy Analysis 2006]]
+- [[@Ackroyd2006-di|The Oxford Handbook Of Work And Organization]]
 - [[@Levitt2006-xq|Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything]]
 ### 2005
 - [[@Danermark2005-wo|Explaining Society - An Introduction To Critical Realism In The Social Sciences]]

@@ -10,6 +10,7 @@ aliases:
 ## Paul Thompson
 
 ### Content:
+[[@Ackroyd2006-di|The Oxford Handbook Of Work And Organization]]
 [[@Baldry1998-ba|‘bright Satanic Offices’]]
 [[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
 [[@Batt2006-sj|Groups, Teams, And The Division Of Labor]]
@@ -30,6 +31,8 @@ aliases:
 [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 
 #### Bibliography:
+
+![[@Ackroyd2006-di]]
 
 ![[@Baldry1998-ba]]
 
