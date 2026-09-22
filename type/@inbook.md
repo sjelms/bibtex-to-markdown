@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-20T09:28:38
+amended: 2026-09-22T11:42:51
 ---
 
 # Directory
@@ -84,8 +84,8 @@ amended: 2026-09-20T09:28:38
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -303,7 +303,7 @@ amended: 2026-09-20T09:28:38
 - [[@Dunford1983-pb|The Transition From Manufacture To Machinofacture 1780–1850]]
 - [[@Neisser1983-cm|Toward A Skillful Psychology]]
 ### 1982
-- [[@Jones1982-su|Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control1]]
+- [[@Jones1982-su|Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control]]
 ## 1970-1979
 ### 1978
 - [[@Cole1978-ju|Introduction]]

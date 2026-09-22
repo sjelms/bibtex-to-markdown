@@ -10,7 +10,7 @@ aliases:
 ## Stephen Wood
 
 ### Content:
-[[@Jones1982-su|Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control1]]
+[[@Jones1982-su|Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control]]
 
 #### Bibliography:
 
