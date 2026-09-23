@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-09-22T15:22:33
+amended: 2026-09-23T04:25:32
 ---
 
 # Directory
@@ -47,6 +47,7 @@ amended: 2026-09-22T15:22:33
 - [[@Barua2020-br|The Construction Workforce - Growing Again, But Not Changing Much]]
 - [[@Green2020-gb|The Real Face Of Construction 2020 - Socio-Economic Analysis Of The True Value Of The Built Environment]]
 - [[@Buckley2020-ir|Prefabrication And Modular Construction 2020]]
+- [[@Ibsen2020-tb|Growing Apart - Efficiency And Equality In The German And Danish VET Systems]]
 - [[@Autor2020-ol|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
 - [[@Pothier2020-kd|Future Of Work In Construction]]
 - [[@Qin2020-ng|The Learning System At IBM - A Case Study]]
