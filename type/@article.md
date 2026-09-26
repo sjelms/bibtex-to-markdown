@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-26T09:08:45
+amended: 2026-09-26T09:16:15
 ---
 
 # Directory
@@ -252,6 +252,7 @@ amended: 2026-09-26T09:08:45
 - [[@Wang2015-lz|An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior]]
 - [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
 - [[@Olson2015-xp|A Multilateral Approach To Bridging The Global Skills Gap]]
+- [[@Arashpour2015-kd|Optimization Of Process Integration And Multi-Skilled Resource Utilization In Off-Site Construction]]
 - [[@Jensen2015-jp|Product Configuration In Construction]]
 - [[@Cappelli2015-pi|Skill Gaps, Skill Shortages, And Skill Mismatches]]
 - [[@Bock2015-tf|The Future Of Construction Automation - Technological Disruption And The Upcoming Ubiquity Of Robotics]]

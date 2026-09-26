@@ -10,6 +10,7 @@ category:
 ## Automation in Construction
 
 ### Content:
+[[@Arashpour2015-kd|Optimization Of Process Integration And Multi-Skilled Resource Utilization In Off-Site Construction]]
 [[@Bock2015-tf|The Future Of Construction Automation]]
 [[@Cao2021-tp|Cross-Phase Product Configurator For Modular Buildings Using Kit-Of-Parts]]
 [[@Han2024-nc|Smart Multi-Project Scheduling And Multi-Skilled Workforce Assignment For Prefabricated Bathroom Unit Production]]
