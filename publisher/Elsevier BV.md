@@ -11,6 +11,7 @@ category:
 
 ### Content:
 [[@Arashpour2015-kd|Optimization Of Process Integration And Multi-Skilled Resource Utilization In Off-Site Construction]]
+[[@Ariga2013-mn|Organization Adjustments, Job Training And Productivity]]
 [[@Grzybowski2024-qn|A History Of Artificial Intelligence]]
 [[@Hartmann2015-ra|Learning Between Projects]]
 [[@Radianti2020-os|A Systematic Review Of Immersive Virtual Reality Applications For Higher Education]]

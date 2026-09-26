@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-26T09:16:15
+amended: 2026-09-26T09:18:32
 ---
 
 # Directory
@@ -271,6 +271,7 @@ amended: 2026-09-26T09:16:15
 - [[@DuPaul2013-ko|Comorbidity Of LD And ADHD - Implications Of DSM-5 For Assessment And Treatment]]
 - [[@Johnsson2013-kb|Production Strategies For Pre-Engineering In House-Building - Exploring Product Development Platforms]]
 - [[@Killingsworth2013-qe|Synergy - A Case Study In Workforce Curriculum Development]]
+- [[@Ariga2013-mn|Organization Adjustments, Job Training And Productivity - Evidence From Japanese Automobile Makers]]
 - [[@Hudson2013-id|Trends In CTE Coursetaking. Data Point. NCES 2014-901]]
 - [[@King2013-vv|The Pictor Technique - A Method For Exploring The Experience Of Collaborative Working]]
 - [[@Chong2013-nz|The ‘russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education]]
