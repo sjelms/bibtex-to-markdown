@@ -19,6 +19,7 @@ category:
 [[@Heritage2018-nm|Assessment For Learning As Support For Student Self-Regulation]]
 [[@Jonna2014-ql|Braverman And The Structure Of The U.s. Working Class]]
 [[@Merrill2002-sc|First Principles Of Instruction]]
+[[@Mikkonen2017-oy|Guiding Workplace Learning In Vocational Education And Training]]
 [[@Nguyen-Trung2025-au|Chatgpt In Thematic Analysis]]
 [[@Rintala2020-on|Vocational Education And Learners’ Experienced Workplace Curriculum]]
 [[@Schmid2024-tx|Workplace Learning Environment And Participation In Work Communities]]

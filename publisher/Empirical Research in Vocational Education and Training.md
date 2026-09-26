@@ -13,3 +13,4 @@ category:
 [[@Coenen2015-pe|The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes]]
 [[@Cuendet2014-vs|A Study Of Carpenter Apprentices’ Spatial Skills]]
 [[@Gambin2017-tq|Employers And Apprenticeships In England]]
+[[@Mikkonen2017-oy|Guiding Workplace Learning In Vocational Education And Training]]

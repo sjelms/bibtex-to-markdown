@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-23T06:59:16
+amended: 2026-09-26T09:08:45
 ---
 
 # Directory
@@ -213,6 +213,7 @@ amended: 2026-09-23T06:59:16
 - [[@Akcayir2017-sh|Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature]]
 - [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
 - [[@Sottilare2017-ul|Adaptive Instruction For Medical Training In The Psychomotor Domain]]
+- [[@Mikkonen2017-oy|Guiding Workplace Learning In Vocational Education And Training - A Literature Review]]
 - [[@Berger2017-ln|Industrial Renewal In The 21st Century - Evidence From US Cities]]
 - [[@Zheng2017-al|Prompted Self-Regulated Learning Assessment And Its Effect For Achieving ASCE Vision 2025]]
 ### 2016
