@@ -1,6 +1,6 @@
 ---
 type: "[[@legislation]]"
-amended: 2026-09-30T14:29:11
+amended: 2026-09-30T14:50:13
 ---
 
 # Directory

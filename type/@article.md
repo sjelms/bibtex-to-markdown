@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-30T14:29:11
+amended: 2026-09-30T14:50:13
 ---
 
 # Directory
@@ -9,6 +9,7 @@ amended: 2026-09-30T14:29:11
 - [[@Johnston2026-bz|On Reality, Experience, And Truth - John Watson's Unpublished Notes On John Dewey]]
 - [[@Carollo2026-is|Revisiting Adam Smith And The Division Of Labor - New Evidence From U.s. Occupational Data]]
 - [[@Haigh2026-tg|Repositioning Construction Management Education For Construction 5.0 - An Accreditation-Aligned Competency Framework And Review]]
+- [[@Disbeschl2026-gk|'you Can Mix Your Methods, But You Can't Mix Your Paradigms' - A Guide To Ontology And Epistemology For The Confused Researcher]]
 - [[@Friese2026-pb|From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis]]
 ### 2025
 - [[@Cheng2025-ml|Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use]]
