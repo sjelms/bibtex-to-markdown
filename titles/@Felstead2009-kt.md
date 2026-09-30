@@ -17,6 +17,7 @@ tags:
   - 3_Upgrade-OCT-2023
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
+  - WALF_Chapters
   - _In-Notion
   - _In-Readwise
   - UCL
@@ -26,6 +27,7 @@ tags:
   - _Mark-Up
   - Essential
   - git-lit
+  - Book-parent
 ---
 
 > [!bibliography]
