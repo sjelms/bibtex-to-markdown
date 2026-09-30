@@ -16,6 +16,7 @@ aliases:
 
 ### Content:
 [[@Bishop2009-co|Constructing Learning]]
+[[@Felstead1993-ag|The Corporate Paradox]]
 [[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
 [[@Felstead2007-kc|Performing Identities At Work]]
@@ -35,6 +36,8 @@ aliases:
 #### Bibliography:
 
 ![[@Bishop2009-co]]
+
+![[@Felstead1993-ag]]
 
 ![[@Felstead2005-vo]]
 

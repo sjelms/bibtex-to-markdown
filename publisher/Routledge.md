@@ -62,6 +62,7 @@ category:
 [[@Eraut1994-py|Developing Professional Knowledge And Competence]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
+[[@Felstead1993-ag|The Corporate Paradox]]
 [[@Felstead2009-kt|Improving Working As Learning]]
 [[@Forbes2020-sw|Lean Project Delivery And Integrated Practices In Modern Construction]]
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]

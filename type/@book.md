@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-26T09:18:32
+amended: 2026-09-30T13:01:34
 ---
 
 # Directory
@@ -368,6 +368,7 @@ amended: 2026-09-26T09:18:32
 - [[@Eraut1994-py|Developing Professional Knowledge And Competence]]
 - [[@Engestrom1994-tr|Training For Change - New Approach To Instruction And Learning In Working Life]]
 ### 1993
+- [[@Felstead1993-ag|The Corporate Paradox - Power And Control In The Business Franchise]]
 - [[@Ortony1993-si|Metaphor And Thought]]
 - [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
 ### 1992
