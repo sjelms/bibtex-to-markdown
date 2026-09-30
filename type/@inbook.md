@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-09-30T14:50:13
+amended: 2026-09-30T18:10:55
 ---
 
 # Directory
@@ -205,6 +205,15 @@ amended: 2026-09-30T14:50:13
 - [[@Guile2010-mf|Thinking Differently About The Two Worlds View Of Knowledge]]
 ## 2000-2009
 ### 2009
+- [[@Felstead2009-rn|Bringing Working And Learning Together]]
+- [[@Felstead2009-ef|Creating Knowledge]]
+- [[@Felstead2009-yz|Exercising To Music]]
+- [[@Felstead2009-gk|Making Sandwiches]]
+- [[@Felstead2009-mx|Mapping The Working As Learning Framework]]
+- [[@Felstead2009-tc|Processing Calls]]
+- [[@Felstead2009-ve|Promoting Health]]
+- [[@Felstead2009-ub|Setting The Scene]]
+- [[@Felstead2009-pq|Utilizing Artefacts]]
 - [[@Herod2009-pg|Labor Unionism]]
 - [[@Elwell2009-hz|Harry Braverman And The Working Class]]
 - [[@Nadim2009-tv|Virtual Reality Interactive Learning Environment]]

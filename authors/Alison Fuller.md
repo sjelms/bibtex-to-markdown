@@ -23,7 +23,16 @@ aliases:
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Felstead2005-vo|Surveying The Scene]]
 [[@Felstead2007-kc|Performing Identities At Work]]
+[[@Felstead2009-ef|Creating Knowledge]]
+[[@Felstead2009-gk|Making Sandwiches]]
 [[@Felstead2009-kt|Improving Working As Learning]]
+[[@Felstead2009-mx|Mapping The Working As Learning Framework]]
+[[@Felstead2009-pq|Utilizing Artefacts]]
+[[@Felstead2009-rn|Bringing Working And Learning Together]]
+[[@Felstead2009-tc|Processing Calls]]
+[[@Felstead2009-ub|Setting The Scene]]
+[[@Felstead2009-ve|Promoting Health]]
+[[@Felstead2009-yz|Exercising To Music]]
 [[@Felstead2011-az|Praxis]]
 [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 [[@Fuller2003-fy|Learning As Apprentices In The Contemporary UK Workplace]]
@@ -77,7 +86,25 @@ aliases:
 
 ![[@Felstead2007-kc]]
 
+![[@Felstead2009-ef]]
+
+![[@Felstead2009-gk]]
+
 ![[@Felstead2009-kt]]
+
+![[@Felstead2009-mx]]
+
+![[@Felstead2009-pq]]
+
+![[@Felstead2009-rn]]
+
+![[@Felstead2009-tc]]
+
+![[@Felstead2009-ub]]
+
+![[@Felstead2009-ve]]
+
+![[@Felstead2009-yz]]
 
 ![[@Felstead2011-az]]
 
