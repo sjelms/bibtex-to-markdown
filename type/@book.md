@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-09-30T13:01:34
+amended: 2026-09-30T13:25:36
 ---
 
 # Directory
@@ -341,6 +341,7 @@ amended: 2026-09-30T13:01:34
 ### 2000
 - [[@Mithaug2000-lp|Learning To Theorize - A Four-Step Strategy]]
 - [[@Lagemann2000-fz|An Elusive Science - The Troubling History Of Education Research]]
+- [[@Ive2000-tp|The Economics Of The Modern Construction Sector]]
 - [[@Freire2000-pt|Pedagogy Of The Oppressed - 30th Anniversary Edition]]
 ## 1990-1999
 ### 1999
