@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-09-30T18:10:55
+amended: 2026-10-02T07:04:15
 ---
 
 # Directory
@@ -172,6 +172,7 @@ amended: 2026-09-30T18:10:55
 - [[@Bertram2019-rb|Modular Construction - From Projects To Products]]
 - [[@Barkokebas2019-eh|Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry]]
 - [[@Auti2019-nb|Prefabrication Technology - A Promising Alternative In Construction Industry]]
+- [[@Tam2019-oj|Why Scientists Should Take More Coffee Breaks]]
 ### 2018
 - [[@Halvarsson_Lundkvist2018-tt|Conditions For Employee Learning And Innovation – Interweaving Competence Development Activities Provided By A Workplace Development Programme With Everyday Work Activities In Smes]]
 - [[@Doroftei2018-sz|Perspectives Of Young People Enrolled In Apprenticeship Courses In Portugal About Learning In Work Contexts]]
