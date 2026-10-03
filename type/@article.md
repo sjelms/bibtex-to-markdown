@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-02T07:04:15
+amended: 2026-10-03T15:33:41
 ---
 
 # Directory
@@ -246,6 +246,7 @@ amended: 2026-10-02T07:04:15
 - [[@Reich2015-vb|Dilemmas In Continuing Professional Learning - Learning Inscribed In Frameworks Or Elicited From Practice]]
 - [[@Endroyo2015-qg|Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry]]
 - [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital]]
+- [[@Autor2015-me|Why Are There Still So Many Jobs? The History And Future Of Workplace Automation]]
 - [[@Previtali2015-vy|Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman]]
 - [[@Heravi2015-fm|Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity]]
 - [[@Lessing2015-mh|Industrialised House-Building – Development And Conceptual Orientation Of The Field]]

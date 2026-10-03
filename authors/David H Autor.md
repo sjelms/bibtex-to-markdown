@@ -19,6 +19,7 @@ aliases:
 [[@Autor2006-eo|The Polarization Of The U.s. Labor Market]]
 [[@Autor2013-ht|The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market]]
 [[@Autor2014-yj|Polanyi's Paradox And The Shape Of Employment Growth]]
+[[@Autor2015-me|Why Are There Still So Many Jobs? The History And Future Of Workplace Automation]]
 [[@Autor2020-ol|The Work Of The Future]]
 [[@Autor2022-vv|The Work Of The Future]]
 [[@Autor2024-jq|New Frontiers]]
@@ -38,6 +39,8 @@ aliases:
 ![[@Autor2013-ht]]
 
 ![[@Autor2014-yj]]
+
+![[@Autor2015-me]]
 
 ![[@Autor2020-ol]]
 
