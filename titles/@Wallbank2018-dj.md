@@ -16,6 +16,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - Thesis-Writing
+  - EoC-Slide-Ref
   - ePub
   - RNIB
   - PhD-Support-and-Training
