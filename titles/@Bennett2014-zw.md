@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Philosophy-of-Education
   - git-lit
+  - Knowledge-Skill-Acquisition
 ---
 
 > [!bibliography]
