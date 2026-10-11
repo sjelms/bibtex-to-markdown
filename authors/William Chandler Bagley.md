@@ -1,5 +1,5 @@
 ---
-author: "William C Bagley"
+author: "William Chandler Bagley"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Bagley
 ---
 
-## William C Bagley
+## William Chandler Bagley
 
 ### Content:
 [[@Finney1921-nb|A Brief History Of The American Public School]]
