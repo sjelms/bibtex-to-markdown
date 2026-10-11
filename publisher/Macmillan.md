@@ -10,6 +10,7 @@ category:
 ## Macmillan
 
 ### Content:
+[[@Bagley1907-sj|Classroom Management]]
 [[@Baldry1998-ba|‘bright Satanic Offices’]]
 [[@Beirne1998-sy|Developments In Computing Work]]
 [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales]]

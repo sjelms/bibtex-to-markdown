@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-11T06:52:17
+amended: 2026-10-11T06:59:36
 ---
 
 # Directory
@@ -505,6 +505,7 @@ amended: 2026-10-11T06:52:17
 - [[@Marx1909-jx|Capital - A Critique Of Political Economy; The Process Of Capitalist Production As A Whole]]
 ### 1907
 - [[@Marx1907-rf|Capital - A Critique Of Political Economy; The Process Of Circulation Of Capital]]
+- [[@Bagley1907-sj|Classroom Management - Its Principles And Technique]]
 ## 1890-1899
 ### 1892
 - [[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]
