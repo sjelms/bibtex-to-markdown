@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-11T06:59:36
+amended: 2026-10-12T08:32:29
 ---
 
 # Directory
@@ -58,6 +58,7 @@ amended: 2026-10-11T06:59:36
 - [[@Galazka2023-sa|The Socio-Materiality Of Dirty Work - A Critical Realist Perspective]]
 - [[@Frey2023-rj|Generative AI And The Future Of Work - A Reappraisal]]
 - [[@DeKorne2023-mb|Untangling The Skilled Labor Knot]]
+- [[@Takyi_Mensah2023-kn|Analysing Dewey’s Vocational Aspects Of Education And Maslow’s Theory Of Motivation In Support Of Vocational Education And Training]]
 - [[@Taylor-Smith2023-oj|Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study]]
 - [[@Treem2023-lk|Signaling And Meaning In Organizational Analytics - Coping With Goodhart's Law In An Era Of Digitization And Datafication]]
 - [[@Quay2023-vt|Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units]]
