@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-12T08:32:29
+amended: 2026-10-13T06:24:56
 ---
 
 # Directory
@@ -328,6 +328,7 @@ amended: 2026-10-12T08:32:29
 - [[@Warhurst2004-qq|The Skills That Matter]]
 - [[@Goldratt2004-gr|The Goal - A Process Of Ongoing Improvement]]
 ### 2003
+- [[@Woodford2003-fj|Interest And Prices - Foundations Of A Theory Of Monetary Policy]]
 - [[@Pierce2003-rn|Behavior Analysis And Learning]]
 ### 2002
 - [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
