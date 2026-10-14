@@ -10,16 +10,16 @@ aliases:
 ## Paul Hager
 
 ### Content:
+[[@Beckett2002-kr|Introduction]]
 [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
+[[@Beckett2002-oz|Policies And Context]]
+[[@Beckett2002-qo|Practice At Work And Informal Learning]]
 [[@Beckett2002-tf|Life, Work And Learning]]
+[[@Beckett2002-tv|Holism/organicism]]
+[[@Beckett2002-tx|Conceptualising Practice In Postmodernity]]
+[[@Beckett2002-va|Know How]]
+[[@Beckett2002-ya|Introduction]]
 [[@Beckett2002-yn|Practical Judgement]]
-[[@Beckett2005-dh|Introduction]]
-[[@Beckett2005-mc|Holism/organicism]]
-[[@Beckett2005-ms|Know How]]
-[[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
-[[@Beckett2005-we|Introduction]]
-[[@Beckett2005-wv|Policies And Context]]
-[[@Beckett2005-xn|Practice At Work And Informal Learning]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
 [[@Hager2009-mt|Moving Beyond The Metaphor Of Transfer Of Learning]]
 [[@Hager2012-dh|Practice, Learning And Change]]
@@ -29,25 +29,25 @@ aliases:
 
 #### Bibliography:
 
+![[@Beckett2002-kr]]
+
 ![[@Beckett2002-ks]]
+
+![[@Beckett2002-oz]]
+
+![[@Beckett2002-qo]]
 
 ![[@Beckett2002-tf]]
 
+![[@Beckett2002-tv]]
+
+![[@Beckett2002-tx]]
+
+![[@Beckett2002-va]]
+
+![[@Beckett2002-ya]]
+
 ![[@Beckett2002-yn]]
-
-![[@Beckett2005-dh]]
-
-![[@Beckett2005-mc]]
-
-![[@Beckett2005-ms]]
-
-![[@Beckett2005-uy]]
-
-![[@Beckett2005-we]]
-
-![[@Beckett2005-wv]]
-
-![[@Beckett2005-xn]]
 
 ![[@Hager2004-xb]]
 
