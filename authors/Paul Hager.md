@@ -12,10 +12,10 @@ aliases:
 ### Content:
 [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 [[@Beckett2002-tf|Life, Work And Learning]]
+[[@Beckett2002-yn|Practical Judgement]]
 [[@Beckett2005-dh|Introduction]]
 [[@Beckett2005-mc|Holism/organicism]]
 [[@Beckett2005-ms|Know How]]
-[[@Beckett2005-se|Practical Judgement]]
 [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 [[@Beckett2005-we|Introduction]]
 [[@Beckett2005-wv|Policies And Context]]
@@ -33,13 +33,13 @@ aliases:
 
 ![[@Beckett2002-tf]]
 
+![[@Beckett2002-yn]]
+
 ![[@Beckett2005-dh]]
 
 ![[@Beckett2005-mc]]
 
 ![[@Beckett2005-ms]]
-
-![[@Beckett2005-se]]
 
 ![[@Beckett2005-uy]]
 

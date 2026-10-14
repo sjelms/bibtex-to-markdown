@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-14T06:26:36
+amended: 2026-10-14T06:27:51
 ---
 
 # Directory
@@ -255,6 +255,8 @@ amended: 2026-10-14T06:26:36
 - [[@Engestrom2004-bz|The New Generation Of Expertise - Seven Theses]]
 ### 2003
 - [[@Elkjaer2003-nm|Social Learning Theory - Learning As Participation In Social Processes]]
+### 2002
+- [[@Beckett2002-yn|Practical Judgement - The Basis Of Embodied, Situated Practice]]
 ### 2001
 - [[@Booth2001-fr|Trade Unions, Economic Behavior Of]]
 - [[@Knorr-Cetina2001-dh|Objectual Practice]]
@@ -360,5 +362,4 @@ amended: 2026-10-14T06:26:36
 - [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
-- [[@Beckett2005-se|Practical Judgement - The Basis Of Embodied, Situated Practice]]
 - [[@Beckett2005-xn|Practice At Work And Informal Learning]]
