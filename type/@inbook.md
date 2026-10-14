@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-14T06:28:15
+amended: 2026-10-14T06:30:50
 ---
 
 # Directory
@@ -256,15 +256,7 @@ amended: 2026-10-14T06:28:15
 ### 2003
 - [[@Elkjaer2003-nm|Social Learning Theory - Learning As Participation In Social Processes]]
 ### 2002
-- [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
-- [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
-- [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
-- [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
-- [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
-- [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
 - [[@Beckett2002-yn|Practical Judgement - The Basis Of Embodied, Situated Practice]]
-- [[@Beckett2005-xn|Practice At Work And Informal Learning]]
 ### 2001
 - [[@Booth2001-fr|Trade Unions, Economic Behavior Of]]
 - [[@Knorr-Cetina2001-dh|Objectual Practice]]
@@ -362,3 +354,12 @@ amended: 2026-10-14T06:28:15
 - [[@Smith1776-ft|Of The Causes Of Improvement In The Productive Powers Of Labour]]
 - [[@Smith1776-pq|Of The Different Progress Of Opulence In Different Nations]]
 - [[@Smith1776-xg|Of The Nature, Accumulation, And Employment Of Stock]]
+## Unknown Year
+- [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
+- [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
+- [[@Beckett2005-dh|Introduction - Life In The Swamp]]
+- [[@Beckett2005-we|Introduction - Celebrating The Swamp]]
+- [[@Beckett2005-ms|Know How - Practice At Close Quarters]]
+- [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
+- [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
+- [[@Beckett2005-xn|Practice At Work And Informal Learning]]
