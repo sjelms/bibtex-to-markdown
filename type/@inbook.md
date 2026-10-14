@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-13T06:24:56
+amended: 2026-10-14T06:26:05
 ---
 
 # Directory
@@ -86,8 +86,8 @@ amended: 2026-10-13T06:24:56
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dt|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dx|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -255,7 +255,14 @@ amended: 2026-10-13T06:24:56
 - [[@Engestrom2004-bz|The New Generation Of Expertise - Seven Theses]]
 ### 2003
 - [[@Elkjaer2003-nm|Social Learning Theory - Learning As Participation In Social Processes]]
-### 2002
+### 2001
+- [[@Booth2001-fr|Trade Unions, Economic Behavior Of]]
+- [[@Knorr-Cetina2001-dh|Objectual Practice]]
+- [[@Charmaz2001-wf|Grounded Theory In Ethnography]]
+- [[@Charmaz2001-np|Qualitative Interviewing And Grounded Theory Analysis]]
+- [[@Opwis2001-vw|Instructional Technology - Cognitive Science Perspectives]]
+### 2000
+- [[@Prahalad2000-xb|The Core Competence Of The Corporation]]
 - [[@Beckett2005-uy|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2005-mc|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
 - [[@Beckett2005-dh|Introduction - Life In The Swamp]]
@@ -265,14 +272,6 @@ amended: 2026-10-13T06:24:56
 - [[@Beckett2005-wv|Policies And Context - The Socio-Cultural Shaping Of Practice]]
 - [[@Beckett2005-se|Practical Judgement - The Basis Of Embodied, Situated Practice]]
 - [[@Beckett2005-xn|Practice At Work And Informal Learning]]
-### 2001
-- [[@Booth2001-fr|Trade Unions, Economic Behavior Of]]
-- [[@Knorr-Cetina2001-dh|Objectual Practice]]
-- [[@Charmaz2001-wf|Grounded Theory In Ethnography]]
-- [[@Charmaz2001-np|Qualitative Interviewing And Grounded Theory Analysis]]
-- [[@Opwis2001-vw|Instructional Technology - Cognitive Science Perspectives]]
-### 2000
-- [[@Prahalad2000-xb|The Core Competence Of The Corporation]]
 - [[@Ryan2000-ql|Data Management And Analysis Methods]]
 - [[@Eraut2000-sj|Development Of Knowledge And Skills At Work]]
 - [[@Koschmann2000-pl|The Physiological And The Social In The Psychologies Of Dewey And Thorndike - The Matter Of Habit]]
