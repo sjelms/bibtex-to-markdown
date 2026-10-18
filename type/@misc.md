@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-10-18T13:18:40
+amended: 2026-10-18T13:20:09
 ---
 
 # Directory
@@ -73,12 +73,14 @@ amended: 2026-10-18T13:18:40
 ### 2017
 - [[@Singh2017-cu|Building Augmented Reality Experiences With Unity3d]]
 - [[@Pailliez2017-av|You're Hired! France's Macron Targets Apprentices In Labor Market Shake-Up]]
+- [[@Economist2017-hh|The Construction Industry’s Productivity Problem]]
 - [[@Derrick2017-wj|What Features Of Workplaces Support Practitioners And Teams To Learn And Innovate?]]
 - [[@Porter2017-zm|Why Every Organization Needs An Augmented Reality Strategy]]
 ### 2016
 - [[@Park2016-wq|What Is Multimodal Design? An Interview With John Alderman And Christine Park]]
 ### 2015
 - [[@BBC-News2015-lz|Will A Robot Take Your Job?]]
+- [[@Economist2015-mu|Digital Taylorism]]
 - [[@Benson2015-xz|Explaining The RQF]]
 ### 2014
 - [[@Halaburda2014-dw|The Limits Of Scale]]
