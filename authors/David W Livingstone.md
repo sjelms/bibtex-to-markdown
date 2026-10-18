@@ -1,5 +1,5 @@
 ---
-author: "D W Livingstone"
+author: "David W Livingstone"
 institution:
 field:
 type:
@@ -7,7 +7,7 @@ aliases:
   - Livingstone
 ---
 
-## D W Livingstone
+## David W Livingstone
 
 ### Content:
 [[@Duguid2012-ff|‘the Art Of Knowing’]]
