@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-18T07:47:34
+amended: 2026-10-18T07:49:52
 ---
 
 # Directory
@@ -175,6 +175,7 @@ amended: 2026-10-18T07:47:34
 - [[@Liu2017-wo|Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Thompson2017-ps|Hit Makers - How Things Become Popular]]
 - [[@Childers2017-ps|The Riddle Of The Sands]]
+- [[@Daniels2017-hq|Introduction To Vygotsky]]
 - [[@Levesque2017-dz|Common Sense, The Turing Test, And The Quest For Real AI]]
 - [[@Potter2017-fz|Digital Media, Culture And Education - Theorising Third Space Literacies]]
 - [[@Lazar2017-yn|Research Methods In Human-Computer Interaction]]
