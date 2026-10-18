@@ -15,6 +15,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Marx_Labor
+  - Vygotsky
   - _In-Notion
   - _In-Readwise
   - Education

@@ -14,6 +14,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - Marx_Labor
+  - Vygotsky
   - Psychology
   - Philosophy-of-Education
   - git-lit

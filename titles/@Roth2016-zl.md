@@ -15,6 +15,7 @@ tags:
   - 003_Theoretical-Framework
   - Marx_Labor
   - 003_NBLM
+  - Vygotsky
   - Psychology
   - git-lit
 ---

@@ -15,6 +15,7 @@ tags:
   - Adult-Education
   - LCKE-Chapters
   - _BibTex-to-MD-Git
+  - Vygotsky
   - Cross-Ref-Chapter
   - UCL
   - VET

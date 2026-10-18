@@ -15,6 +15,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Vygotsky
   - _In-Notion
   - _In-Readwise
   - ePub

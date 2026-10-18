@@ -13,6 +13,7 @@ tags:
   - _BibTex-to-MD-Git
   - Braverman
   - Marx_Labor
+  - Vygotsky
   - Book-child
   - Labor
   - Workplace-Learning

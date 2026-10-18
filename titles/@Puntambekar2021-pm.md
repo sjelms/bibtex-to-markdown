@@ -16,6 +16,7 @@ tags:
   - Journal-Articles
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
+  - Vygotsky
   - _Mark-Up
   - Knowledge-Skill-Acquisition
   - Cited-for-Frontiers

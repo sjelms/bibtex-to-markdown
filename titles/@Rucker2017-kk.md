@@ -14,6 +14,7 @@ tags:
   - 003_Theoretical-Framework
   - 003_NBLM
   - RCPSP_Takt_Taylorism
+  - Vygotsky
   - Workplace-Learning
   - VET
   - Knowledge-Skill-Acquisition

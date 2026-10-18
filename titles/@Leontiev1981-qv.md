@@ -11,6 +11,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - Marx_Labor
+  - Vygotsky
   - Knowledge-Skill-Acquisition
   - Psychology
   - git-lit

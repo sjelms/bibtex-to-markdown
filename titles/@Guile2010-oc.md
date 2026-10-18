@@ -16,6 +16,7 @@ tags:
   - LCKE-Chapters
   - Marx_Labor
   - _BibTex-to-MD-Git
+  - Vygotsky
   - Cross-Ref-Chapter
   - UCL
   - VET

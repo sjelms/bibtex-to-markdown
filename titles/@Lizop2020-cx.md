@@ -22,6 +22,7 @@ tags:
   - scaffolding
   - Notion-Catalogued
   - _BibTex-to-MD-Git
+  - Vygotsky
   - YouTube
   - _Cataloged
   - git-lit

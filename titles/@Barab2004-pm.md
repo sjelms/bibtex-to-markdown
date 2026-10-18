@@ -15,6 +15,7 @@ type: "[[@inbook]]"
 tags:
   - Seed-Pending
   - _BibTex-to-MD-Git
+  - Vygotsky
   - Philosophy-of-Education
   - Psychology
   - Knowledge-Skill-Acquisition

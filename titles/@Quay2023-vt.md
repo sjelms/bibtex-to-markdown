@@ -19,6 +19,7 @@ tags:
   - _BibTex-to-MD-Git
   - 003_Theoretical-Framework
   - Marx_Labor
+  - Vygotsky
   - Psychology
   - Reader_Obsidian
   - git-lit

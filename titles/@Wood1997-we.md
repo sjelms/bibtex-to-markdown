@@ -9,6 +9,7 @@ publisher: "[[Blackwell]]"
 type: "[[@book]]"
 tags:
   - _BibTex-to-MD-Git
+  - Vygotsky
   - Knowledge-Skill-Acquisition
   - Philosophy-of-Education
   - Education

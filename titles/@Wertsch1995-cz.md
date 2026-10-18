@@ -18,6 +18,7 @@ tags:
   - llm-wiki-workflow
   - 003_Theoretical-Framework
   - 003_NBLM
+  - Vygotsky
   - Knowledge-Skill-Acquisition
   - git-lit
 ---
