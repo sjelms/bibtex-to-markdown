@@ -17,9 +17,9 @@ tags:
   - _In-Readwise
   - VET
   - Workplace-Learning
-  - _New-Literature
   - UCL
   - git-lit
+  - Book-parent
 ---
 
 > [!bibliography]

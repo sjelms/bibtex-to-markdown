@@ -25,10 +25,9 @@ tags:
   - _In-Readwise
   - VET
   - Workplace-Learning
-  - _New-Literature
-  - Cross-Ref-Chapter
   - UCL
   - git-lit
+  - Book-child
 ---
 
 > [!bibliography]
