@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Aprea2019-rf|Designing Technology-Enhanced Learning Environments In Vocational Education And Training]]
+[[@Bakker2012-ke|Improving Work Processes By Making The Invisible Visible]]
 [[@Bakker2019-lj|The Learning Potential Of Boundary Crossing In The Vocational Curriculum]]
 [[@Billett2019-so|Vocational Education And The Individual]]
 [[@Broad2019-rn|Capturing The Elusive]]
@@ -33,6 +34,7 @@ aliases:
 [[@Guile2010-th|Learning As Remediation]]
 [[@Guile2010-uc|Higher Education And The Two Worlds Of Knowledge]]
 [[@Guile2010-yp|Problems Around The Role Of Knowledge In The Economy]]
+[[@Guile2012-is|Working And Learning In The ‘knowledgebased’ Creative And Cultural Sector]]
 [[@Guile2014-jw|Professional Knowledge And Professional Practice As Continuous Recontextualisation]]
 [[@Guile2014-lm|Beyond The Institution Of Apprenticeship]]
 [[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
@@ -43,6 +45,7 @@ aliases:
 [[@Livingstone2012-rc|The Knowledge Economy And Lifelong Learning]]
 [[@Oliver2019-uk|Political Economy Of Vocational Education And Training]]
 [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training]]
+[[@Sawchuk2012-xo|Divergent Working And Learning Trajectories In Social Services]]
 [[@Spinuzzi2019-aa|Fourth-Generation Activity Theory]]
 [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 [[@Warhurst2012-ok|Mapping Knowledge In Work]]
@@ -50,6 +53,8 @@ aliases:
 #### Bibliography:
 
 ![[@Aprea2019-rf]]
+
+![[@Bakker2012-ke]]
 
 ![[@Bakker2019-lj]]
 
@@ -95,6 +100,8 @@ aliases:
 
 ![[@Guile2010-yp]]
 
+![[@Guile2012-is]]
+
 ![[@Guile2014-jw]]
 
 ![[@Guile2014-lm]]
@@ -114,6 +121,8 @@ aliases:
 ![[@Oliver2019-uk]]
 
 ![[@Pilz2019-py]]
+
+![[@Sawchuk2012-xo]]
 
 ![[@Spinuzzi2019-aa]]
 

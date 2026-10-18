@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
+[[@Sawchuk2012-xo|Divergent Working And Learning Trajectories In Social Services]]
 [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process]]
 [[@Sawchuk2013-bi|Historical Mediations In The Making Of Taylorism In Contemporary State Social Services Work]]
 [[@Sawchuk2013-db|Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge]]
@@ -31,6 +32,8 @@ aliases:
 #### Bibliography:
 
 ![[@Sawchuk2006-od]]
+
+![[@Sawchuk2012-xo]]
 
 ![[@Sawchuk2013-ax]]
 

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-18T07:21:21
+amended: 2026-10-18T07:32:32
 ---
 
 # Directory
@@ -86,8 +86,8 @@ amended: 2026-10-18T07:21:21
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -166,8 +166,10 @@ amended: 2026-10-18T07:21:21
 - [[@Engestrom2013-oq|Activity Theory And Learning At Work]]
 ### 2012
 - [[@Fuller2012-pz|Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments]]
+- [[@Bakker2012-ke|Improving Work Processes By Making The Invisible Visible]]
 - [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 - [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
+- [[@Guile2012-is|Working And Learning In The ‘knowledgebased’ Creative And Cultural Sector]]
 - [[@Ness2012-re|Human Resource Management In The Construction Context - Disappearing Workers In The UK]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Kalantzis2012-vw|Introduction]]
@@ -184,6 +186,7 @@ amended: 2026-10-18T07:21:21
 - [[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
 - [[@Duguid2012-ff|‘the Art Of Knowing’]]
 - [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
+- [[@Sawchuk2012-xo|Divergent Working And Learning Trajectories In Social Services]]
 - [[@Billett2012-xz|Explaining Innovation At Work - A Socio-Personal Account]]
 - [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 ### 2011
