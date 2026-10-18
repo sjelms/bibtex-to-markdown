@@ -12,6 +12,7 @@ volume: 16
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - ERC-ex-re
   - VET
   - Labor
   - Knowledge-Skill-Acquisition
