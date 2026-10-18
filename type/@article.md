@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-14T06:32:10
+amended: 2026-10-18T07:05:30
 ---
 
 # Directory
@@ -410,6 +410,7 @@ amended: 2026-10-14T06:32:10
 - [[@Billett2002-bq|Critiquing Workplace Learning Discourses - Participation And Continuity At Work]]
 - [[@Billett2002-ry|Workplace Pedagogic Practices - Co–Participation And Learning]]
 ### 2001
+- [[@Fuller2001-la|Credentialism, Adults And Part-Time Higher Education In The United Kingdom - An Account Of Rising Take Up And Some Implications For Policy]]
 - [[@Stasz2001-io|Assessing Skills For Work - Two Perspectives]]
 - [[@Glassman2001-cg|Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice]]
 - [[@Young2001-ct|Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning]]
