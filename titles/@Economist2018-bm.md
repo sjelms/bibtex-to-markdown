@@ -1,8 +1,8 @@
 ---
 title: A study finds nearly half of jobs are vulnerable to automation
 year: 2018
-author - 1: "[[The Data Team]]"
-key: "[[@The_Data_Team2018-ue]]"
+author - 1: "[[Economist]]"
+key: "[[@Economist2018-bm]]"
 aliases:
   - A Study Finds Nearly Half Of Jobs Are Vulnerable To Automation
 journal: "[[Economist London England 1843]]"
@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!bibliography]
-> Team, The Data. 2018. "A study finds nearly half of jobs are vulnerable to automation." [[The Economist]]. https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation
+> Economist. 2018. "A study finds nearly half of jobs are vulnerable to automation." [[The Economist]]. https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation
 
 > [!abstract]
 > That could free people to pursue more interesting careers

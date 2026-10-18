@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-10-18T07:53:10
+amended: 2026-10-18T13:18:40
 ---
 
 # Directory
@@ -20,6 +20,7 @@ amended: 2026-10-18T07:53:10
 - [[@BBC-News2023-wp|New RAAC Schools List Of Buildings With Unsafe Concrete]]
 - [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context - An Interview With Berth Danermark]]
 - [[@Appelbaum2023-hs|Why Do We Build Houses In The Same Way That We Did 125 Years Ago?]]
+- [[@Economist2023-dv|Was Your Degree Really Worth It?]]
 - [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
 - [[@Klein2023-sa|The Problem With Everything-Bagel Liberalism]]
 - [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
@@ -29,7 +30,6 @@ amended: 2026-10-18T07:53:10
 - [[@Stahl2023-dx|Can 3D-Printed Homes Withstand A Changing Climate?]]
 - [[@Yang2023-qm|Where Did The Workers Go? Construction Jobs Are Plentiful, But Workers Are Scarce]]
 - [[@Rothstein2023-um|Housing Market Predictions For 2023 - When Will Home Prices Become Affordable?]]
-- [[@The_Economist2023-vd|Was Your Degree Really Worth It?]]
 ### 2022
 - [[@Rodriguez2022-vv|Untitled]]
 - [[@Klein2022-xj|Why Housing Is So Expensive — Particularly In Blue States]]
@@ -66,10 +66,10 @@ amended: 2026-10-18T07:53:10
 - [[@Bertollini2019-sn|This Is What Trillions In Global-Infrastructure Investment Look Like]]
 - [[@YouTube_Originals2019-li|How Far Is Too Far? | The Age Of A.i. S1 • E1]]
 ### 2018
+- [[@Economist2018-bm|A Study Finds Nearly Half Of Jobs Are Vulnerable To Automation]]
 - [[@Bailenson2018-hl|What Is Virtual Reality?]]
 - [[@MacDonald2018-kr|Active Learning Methods And The Development Of Expertise]]
 - [[@Florida2018-xv|The Global Housing Crisis]]
-- [[@The_Data_Team2018-ue|A Study Finds Nearly Half Of Jobs Are Vulnerable To Automation]]
 ### 2017
 - [[@Singh2017-cu|Building Augmented Reality Experiences With Unity3d]]
 - [[@Pailliez2017-av|You're Hired! France's Macron Targets Apprentices In Labor Market Shake-Up]]
