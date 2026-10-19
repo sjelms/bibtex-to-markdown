@@ -14,6 +14,7 @@ category:
 [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 [[@Barab2005-dj|Design-Based Research]]
 [[@Bock2015-ds|Robot-Oriented Design]]
+[[@Cianciolo2006-vt|Tacit Knowledge, Practical Intelligence, And Expertise]]
 [[@Engestrom1987-gi|Learning By Expanding]]
 [[@Engestrom2008-wp|From Teams To Knots]]
 [[@Huxley1887-mi|Technical Education]]
