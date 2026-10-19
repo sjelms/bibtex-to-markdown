@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-19T08:29:35
+amended: 2026-10-19T13:55:39
 ---
 
 # Directory
@@ -115,6 +115,7 @@ amended: 2026-10-19T08:29:35
 - [[@OECD2020-dl|OECD Skills Studies Strengthening The Governance Of Skills Systems Lessons From Six OECD Countries - Lessons From Six OECD Countries]]
 - [[@Ainley2020-vq|Apprenticeship - Towards A New Paradigm Of Learning]]
 - [[@Maddow2020-tg|Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth]]
+- [[@Best2020-cj|Measuring Construction - Prices, Output, And Productivity]]
 - [[@Chudley2020-uy|Chudley And Greeno's Building Construction Handbook]]
 - [[@Loo2020-bi|Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective]]
 - [[@Dehaene2020-vn|How We Learn - The New Science Of Education And The Brain]]
@@ -141,6 +142,7 @@ amended: 2026-10-19T08:29:35
 - [[@King2019-nk|Template Analysis For Business And Management Students]]
 - [[@Hager2019-ui|The Emergence Of Complexity - Rethinking Education As A Social Science]]
 - [[@Kumar2019-dp|Research Methodology - A Step-By-Step Guide For Beginners]]
+- [[@Best2019-bw|Accounting For Construction - Frameworks, Productivity, Cost, And Performance]]
 - [[@Sutherland2019-ue|Alchemy - The Surprising Power Of Ideas That Don't Make Sense]]
 - [[@Loo2019-vc|Professional Development Of Teacher Educators In Further Education - Pathways, Knowledge, Identities, And Vocationalism]]
 - [[@Russell2019-or|Human Compatible - Artificial Intelligence And The Problem Of Control]]
@@ -334,6 +336,7 @@ amended: 2026-10-19T08:29:35
 ### 2002
 - [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
+- [[@Meikle2002-ve|Describing Construction - Industries, Projects, And Firms]]
 ### 2001
 - [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
 - [[@OECD2001-sp|Education Policy Analysis 2001]]

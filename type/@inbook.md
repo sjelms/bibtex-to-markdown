@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-19T08:29:35
+amended: 2026-10-19T13:55:39
 ---
 
 # Directory
@@ -262,8 +262,8 @@ amended: 2026-10-19T08:29:35
 ### 2002
 - [[@Beckett2002-tx|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2002-tv|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2002-ya|Introduction - Celebrating The Swamp]]
 - [[@Beckett2002-kr|Introduction - Life In The Swamp]]
+- [[@Beckett2002-ya|Introduction - Celebrating The Swamp]]
 - [[@Beckett2002-va|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2002-oz|Policies And Context - The Socio-Cultural Shaping Of Practice]]
