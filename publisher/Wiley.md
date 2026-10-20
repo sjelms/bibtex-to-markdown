@@ -17,6 +17,7 @@ category:
 [[@Brugger2016-em|The Neoclassical Approach To Induced Technical Change]]
 [[@Chi2001-nu|Learning From Human Tutoring]]
 [[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
+[[@Eraut2006-rl|The Concept Of Method]]
 [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]
 [[@Franco-Santos2018-cz|Reviewing And Theorizing The Unintended Consequences Of Performance Management Systems]]
 [[@Fuller2005-xm|Learning As Peripheral Participation In Communities Of Practice]]

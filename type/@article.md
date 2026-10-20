@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-20T11:52:35
+amended: 2026-10-20T11:53:53
 ---
 
 # Directory
@@ -360,6 +360,7 @@ amended: 2026-10-20T11:52:35
 - [[@Wing2006-tj|Computational Thinking]]
 - [[@Liker2006-as|The Toyota Way In Services - The Case Of Lean Product Development]]
 - [[@VanLehn2006-op|The Behavior Of Tutoring Systems]]
+- [[@Eraut2006-rl|The Concept Of Method - Help Or Hindrance]]
 - [[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
 - [[@McGuinness2006-wg|Examining The Link Between Skill Shortages, Training Composition And Productivity Levels In The Construction Industry - Evidence From Northern Ireland]]
 - [[@Billett2006-hp|Constituting The Workplace Curriculum]]

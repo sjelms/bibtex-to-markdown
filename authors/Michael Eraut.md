@@ -15,6 +15,7 @@ aliases:
 [[@Eraut2000-sj|Development Of Knowledge And Skills At Work]]
 [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 [[@Eraut2004-wa|Informal Learning In The Workplace]]
+[[@Eraut2006-rl|The Concept Of Method]]
 [[@Eraut2007-dq|The Significance Of Workplace Learning For Individuals, Groups And Organisations]]
 [[@Eraut2007-ro|Learning From Other People In The Workplace]]
 [[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
@@ -31,6 +32,8 @@ aliases:
 ![[@Eraut2004-sp]]
 
 ![[@Eraut2004-wa]]
+
+![[@Eraut2006-rl]]
 
 ![[@Eraut2007-dq]]
 
