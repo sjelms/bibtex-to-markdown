@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-10-20T11:53:53
+amended: 2026-10-21T08:57:40
 ---
 
 # Directory
@@ -8,6 +8,7 @@ amended: 2026-10-20T11:53:53
 ### 2026
 - [[@Serkin2026-tw|War Housing]]
 - [[@Uejio2026-cx|Expanding Affordable Housing Supply Without Legislation - A Plan For Scaling Community-Owned Housing]]
+- [[@Department-for-Business-Innovation-Science-and-Trade2026-ul|Construction Jobs Plan - Building The Careers That Build Britain]]
 - [[@Rupnik2026-qd|HUD's Past, Present, And Future Role In Accelerating U.s. Offsite Construction For Housing - A Comparative Study And Action Plan]]
 - [[@Hawke2026-wb|Potential Pathways To Scale Innovative Construction Methods In California]]
 ### 2025
