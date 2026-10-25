@@ -1,5 +1,5 @@
 ---
-title: Expansive-Restrictive Learning -  A Framework for Workplace Learning Research
+title: Expansive-Restrictive Learning - A Framework For Workplace Learning Research
 year: 2016
 author - 1: "[[Zizhou Yang]]"
 author - 2: "[[Guanyu Xun]]"

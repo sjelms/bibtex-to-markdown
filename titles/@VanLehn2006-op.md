@@ -1,5 +1,5 @@
 ---
-title: The behavior of tutoring systems
+title: The Behavior Of Tutoring Systems
 year: 2006
 author - 1: "[[Kurt VanLehn]]"
 key: "[[@VanLehn2006-op]]"

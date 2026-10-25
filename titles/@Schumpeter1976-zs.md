@@ -1,5 +1,5 @@
 ---
-title: Capitalism, Socialism, and Democracy
+title: Capitalism, Socialism, And Democracy
 year: 1976
 author - 1: "[[Joseph A Schumpeter]]"
 key: "[[@Schumpeter1976-zs]]"

@@ -1,5 +1,5 @@
 ---
-title: Life, Work and Learning -  Practice in Postmodernity
+title: Life, Work And Learning - Practice In Postmodernity
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

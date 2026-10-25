@@ -10,4 +10,4 @@ category:
 ## Bradbury and Evans
 
 ### Content:
-[[@Dickens1854-fw|\textit Hard Times]]
+[[@Dickens1854-fw|Textit Hard Times]]

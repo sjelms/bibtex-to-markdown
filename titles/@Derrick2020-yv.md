@@ -1,11 +1,11 @@
 ---
-title: “Tacit pedagogy” and “entanglement” -  practice-based learning and innovation
+title: “Tacit Pedagogy” And “Entanglement” - Practice-Based Learning And Innovation
 year: 2020
 author - 1: "[[Jay Derrick]]"
 key: "[[@Derrick2020-yv]]"
 aliases:
-  - “tacit Pedagogy” And “entanglement” - Practice-Based Learning And Innovation
-  - “tacit Pedagogy” And “entanglement”
+  - “Tacit Pedagogy” And “Entanglement” - Practice-Based Learning And Innovation
+  - “Tacit Pedagogy” And “Entanglement”
 journal: "[[The Journal of Workplace Learning]]"
 publisher: "[[Emerald]]"
 volume: 32

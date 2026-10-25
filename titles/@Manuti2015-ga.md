@@ -1,5 +1,5 @@
 ---
-title: Formal and Informal Learning in the Workplace -  A Research Review
+title: Formal And Informal Learning In The Workplace - A Research Review
 year: 2015
 author - 1: "[[Amelia Manuti]]"
 author - 2: "[[Serafina Pastore]]"

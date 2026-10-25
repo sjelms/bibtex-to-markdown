@@ -1,5 +1,5 @@
 ---
-title: Measuring learning
+title: Measuring Learning
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

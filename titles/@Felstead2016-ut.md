@@ -1,5 +1,5 @@
 ---
-title: Learning Outside the Formal System – What Learning Happens in the Workplace, and How is It Recognised?
+title: Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?
 year: 2016
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Lorna Unwin]]"

@@ -1,5 +1,5 @@
 ---
-title: Construction safety training -  Barriers, challenges, and opportunities
+title: Construction Safety Training - Barriers, Challenges, And Opportunities
 year: 2020
 author - 1: "[[Abdullah Alsharef]]"
 author - 2: "[[Alex Albert]]"

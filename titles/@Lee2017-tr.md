@@ -1,5 +1,5 @@
 ---
-title: Conducting Case Study Research for Business and Management Students
+title: Conducting Case Study Research For Business And Management Students
 year: 2017
 author - 1: "[[Bill Lee]]"
 author - 2: "[[Mark N K Saunders]]"

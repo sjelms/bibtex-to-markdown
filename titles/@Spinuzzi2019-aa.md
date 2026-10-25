@@ -1,5 +1,5 @@
 ---
-title: Fourth-Generation Activity Theory -  An Integrative Literature Review and Implications for Professional Communication
+title: Fourth-Generation Activity Theory - An Integrative Literature Review And Implications For Professional Communication
 year: 2019
 author - 1: "[[Clay Spinuzzi]]"
 author - 2: "[[David Guile]]"

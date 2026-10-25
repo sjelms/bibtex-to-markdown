@@ -1,5 +1,5 @@
 ---
-title: Qualitative interviewing and grounded theory analysis
+title: Qualitative Interviewing And Grounded Theory Analysis
 year: 2012
 author - 1: "[[Kathy Charmaz]]"
 author - 2: "[[Linda Liska Belgrave]]"

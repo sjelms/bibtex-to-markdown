@@ -1,5 +1,5 @@
 ---
-title: Informal and Incidental Learning in the Workplace
+title: Informal And Incidental Learning In The Workplace
 year: 1990
 author - 1: "[[Victoria J Marsick]]"
 author - 2: "[[Karen Watkins]]"

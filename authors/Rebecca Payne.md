@@ -10,7 +10,7 @@ aliases:
 ## Rebecca Payne
 
 ### Content:
-[[@Disbeschl2026-gk|'you Can Mix Your Methods, But You Can't Mix Your Paradigms']]
+[[@Disbeschl2026-gk|'You Can Mix Your Methods, But You Can't Mix Your Paradigms']]
 
 #### Bibliography:
 

@@ -1,5 +1,5 @@
 ---
-title: Techniques for Evaluating Training Programs
+title: Techniques For Evaluating Training Programs
 year: 1979
 author - 1: "[[Donald L Kirkpatrick]]"
 key: "[[@Kirkpatrick1979-al]]"

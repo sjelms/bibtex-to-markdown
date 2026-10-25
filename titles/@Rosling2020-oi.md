@@ -1,5 +1,5 @@
 ---
-title: How I Learned to Understand the World -  A Memoir
+title: How I Learned To Understand The World - A Memoir
 year: 2020
 author - 1: "[[Hans Rosling]]"
 key: "[[@Rosling2020-oi]]"

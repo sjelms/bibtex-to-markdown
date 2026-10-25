@@ -1,5 +1,5 @@
 ---
-title: Reclaiming Rational Theory Choice as Central -  A Critique of Methodological Applications of Critical Realism
+title: Reclaiming Rational Theory Choice As Central - A Critique Of Methodological Applications Of Critical Realism
 year: 2016
 author - 1: "[[K Robert Isaksen]]"
 key: "[[@Isaksen2016-sg]]"

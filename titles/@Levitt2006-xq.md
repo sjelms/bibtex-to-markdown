@@ -1,5 +1,5 @@
 ---
-title: Freakonomics -  A Rogue Economist Explores the Hidden Side of Everything
+title: Freakonomics - A Rogue Economist Explores The Hidden Side Of Everything
 year: 2006
 author - 1: "[[Steven D Levitt]]"
 author - 2: "[[Stephen J Dubner]]"

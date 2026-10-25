@@ -1,5 +1,5 @@
 ---
-title: Why Academics Stink at Writing
+title: Why Academics Stink At Writing
 year: 2014
 author - 1: "[[Steven Pinker]]"
 key: "[[@Pinker2014-vh]]"

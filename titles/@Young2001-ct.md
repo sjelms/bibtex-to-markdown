@@ -1,5 +1,5 @@
 ---
-title: Contextualising a New Approach to Learning -  Some comments on Yrjö Engeström's theory of expansive learning
+title: Contextualising A New Approach To Learning - Some Comments On Yrjö Engeström's Theory Of Expansive Learning
 year: 2001
 author - 1: "[[Michael Young]]"
 key: "[[@Young2001-ct]]"

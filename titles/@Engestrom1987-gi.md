@@ -1,5 +1,5 @@
 ---
-title: Learning by Expanding -  An Activity-Theoretical Approach to Developmental Research
+title: Learning By Expanding - An Activity-Theoretical Approach To Developmental Research
 year: 1987
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom1987-gi]]"

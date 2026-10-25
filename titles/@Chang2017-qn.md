@@ -1,5 +1,5 @@
 ---
-title: Evaluating the effect of tangible virtual reality on spatial perspective taking ability
+title: Evaluating The Effect Of Tangible Virtual Reality On Spatial Perspective Taking Ability
 year: 2017
 author - 1: "[[Jack Shen-Kuen Chang]]"
 author - 2: "[[Georgina Yeboah]]"

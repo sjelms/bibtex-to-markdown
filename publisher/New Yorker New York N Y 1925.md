@@ -10,4 +10,4 @@ category:
 ## New Yorker New York N Y 1925
 
 ### Content:
-[[@Millhauser2004-jd|Cat 'n' Mouse]]
+[[@Millhauser2004-jd|Cat 'N' Mouse]]

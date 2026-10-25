@@ -1,5 +1,5 @@
 ---
-title: Strategies of Qualitative Inquiry
+title: Strategies Of Qualitative Inquiry
 year: 1998
 author - 1: "[[Norman K Denzin]]"
 author - 2: "[[Yvonna S Lincoln]]"

@@ -1,5 +1,5 @@
 ---
-title: The Oxford Handbook of Work and Organization
+title: The Oxford Handbook Of Work And Organization
 year: 2006
 author - 1: "[[Stephen Ackroyd]]"
 author - 2: "[[Rosemary Batt]]"

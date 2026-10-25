@@ -1,5 +1,5 @@
 ---
-title: How the reliability of external competences shapes the modularization strategies of industrialized construction firms
+title: How The Reliability Of External Competences Shapes The Modularization Strategies Of Industrialized Construction Firms
 year: 2023
 author - 1: "[[Shanjing (alexander) Zhou]]"
 author - 2: "[[Luigi Mosca]]"

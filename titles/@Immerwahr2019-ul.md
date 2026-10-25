@@ -1,5 +1,5 @@
 ---
-title: How to Hide an Empire -  A Short History of the Greater United States
+title: How To Hide An Empire - A Short History Of The Greater United States
 year: 2019
 author - 1: "[[Daniel Immerwahr]]"
 key: "[[@Immerwahr2019-ul]]"

@@ -1,5 +1,5 @@
 ---
-title: Television as a career motivator and education tool -  A final-year nursing student cohort study
+title: Television As A Career Motivator And Education Tool - A Final-Year Nursing Student Cohort Study
 year: 2019
 author - 1: "[[Daniel Terry]]"
 author - 2: "[[Blake Peck]]"

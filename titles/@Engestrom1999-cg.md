@@ -1,5 +1,5 @@
 ---
-title: Expansive visibilization of work -  An activity-theoretical perspective
+title: Expansive Visibilization Of Work - An Activity-Theoretical Perspective
 year: 1999
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom1999-cg]]"

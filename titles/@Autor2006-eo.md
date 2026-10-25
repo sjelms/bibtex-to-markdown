@@ -1,5 +1,5 @@
 ---
-title: The Polarization of the U.S. Labor Market
+title: The Polarization Of The U.s. Labor Market
 year: 2006
 author - 1: "[[David H Autor]]"
 author - 2: "[[Lawrence F Katz]]"

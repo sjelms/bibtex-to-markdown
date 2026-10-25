@@ -1,5 +1,5 @@
 ---
-title: Mimetic Learning at Work -  Learning in the Circumstances of Practice
+title: Mimetic Learning At Work - Learning In The Circumstances Of Practice
 year: 2014
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2014-wf]]"

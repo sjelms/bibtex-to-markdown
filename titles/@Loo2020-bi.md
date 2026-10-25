@@ -1,5 +1,5 @@
 ---
-title: Informal Learning, Practitioner Inquiry and Occupational Education -  An Epistemological Perspective
+title: Informal Learning, Practitioner Inquiry And Occupational Education - An Epistemological Perspective
 year: 2020
 author - 1: "[[Sai Loo]]"
 author - 2: "[[Brian Sutton]]"

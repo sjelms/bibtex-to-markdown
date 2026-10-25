@@ -1,5 +1,5 @@
 ---
-title: Beyond the business cycle -  The need for a technology-based growth strategy
+title: Beyond The Business Cycle - The Need For A Technology-Based Growth Strategy
 year: 2013
 author - 1: "[[G Tassey]]"
 key: "[[@Tassey2013-ia]]"

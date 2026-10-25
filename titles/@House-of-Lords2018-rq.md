@@ -1,5 +1,5 @@
 ---
-title: Off-site Manufacture for Construction -  Building for Change
+title: Off-Site Manufacture For Construction - Building For Change
 year: 2018
 author - 1: "[[House of Lords]]"
 key: "[[@House-of-Lords2018-rq]]"

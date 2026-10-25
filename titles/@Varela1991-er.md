@@ -1,5 +1,5 @@
 ---
-title: The Embodied Mind -  Cognitive Science and Human Experience
+title: The Embodied Mind - Cognitive Science And Human Experience
 year: 1991
 author - 1: "[[Francisco J Varela]]"
 author - 2: "[[Eleanor Rosch]]"

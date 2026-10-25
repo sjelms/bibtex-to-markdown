@@ -1,5 +1,5 @@
 ---
-title: Intelligent tutoring systems -  A comprehensive historical survey with recent developments
+title: Intelligent Tutoring Systems - A Comprehensive Historical Survey With Recent Developments
 year: 2019
 author - 1: "[[Ali Alkhatlan]]"
 author - 2: "[[Jugal Kalita]]"

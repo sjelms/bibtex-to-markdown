@@ -1,5 +1,5 @@
 ---
-title: Education Psychology, Vol 2 -  The psychology of learning
+title: Education Psychology, Vol 2 - The Psychology Of Learning
 year: 1913
 author - 1: "[[Edward Lee Thorndike]]"
 key: "[[@Thorndike1913-kp]]"

@@ -1,5 +1,5 @@
 ---
-title: Accounting for Construction -  Frameworks, Productivity, Cost, and Performance
+title: Accounting For Construction - Frameworks, Productivity, Cost, And Performance
 year: 2019
 author - 1: "[[Rick Best]]"
 author - 2: "[[Jim Meikle]]"

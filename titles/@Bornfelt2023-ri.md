@@ -1,5 +1,5 @@
 ---
-title: Work Organisation in Practice -  From Taylorism to Sustainable Work Organisations
+title: Work Organisation In Practice - From Taylorism To Sustainable Work Organisations
 year: 2023
 author - 1: "[[Per-Olof Börnfelt]]"
 key: "[[@Bornfelt2023-ri]]"

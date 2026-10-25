@@ -1,5 +1,5 @@
 ---
-title: Mind in Society -  Development of Higher Psychological Processes
+title: Mind In Society - Development Of Higher Psychological Processes
 year: 1978
 author - 1: "[[Lev Semyonovich Vygotsky]]"
 editor - 1: "[[Ellen Souberman]]"

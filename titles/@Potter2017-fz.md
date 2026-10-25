@@ -1,5 +1,5 @@
 ---
-title: Digital media, culture and education -  Theorising third space literacies
+title: Digital Media, Culture And Education - Theorising Third Space Literacies
 year: 2017
 author - 1: "[[John Potter]]"
 author - 2: "[[Julian McDougall]]"

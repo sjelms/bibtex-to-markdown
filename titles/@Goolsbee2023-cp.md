@@ -1,5 +1,5 @@
 ---
-title: The Strange and Awful Path of Productivity in the U.S. Construction Sector
+title: The Strange And Awful Path Of Productivity In The U.s. Construction Sector
 year: 2023
 author - 1: "[[Austan Goolsbee]]"
 author - 2: "[[Chad Syverson]]"

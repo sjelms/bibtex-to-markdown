@@ -1,5 +1,5 @@
 ---
-title: The role of grounded theory in developing economic theory
+title: The Role Of Grounded Theory In Developing Economic Theory
 year: 2002
 author - 1: "[[John H Finch]]"
 key: "[[@Finch2002-dw]]"

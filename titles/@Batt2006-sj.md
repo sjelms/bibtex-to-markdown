@@ -1,5 +1,5 @@
 ---
-title: Groups, Teams, and the Division of Labor -  Interdisciplinary Perspectives on the Organization of Work
+title: Groups, Teams, And The Division Of Labor - Interdisciplinary Perspectives On The Organization Of Work
 year: 2006
 author - 1: "[[Rosemary Batt]]"
 author - 2: "[[Virginia Doellgast]]"

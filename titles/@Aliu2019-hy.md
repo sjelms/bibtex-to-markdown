@@ -1,5 +1,5 @@
 ---
-title: Examining the Roles of Human Capital Theory. What next for Construction Industry?
+title: Examining The Roles Of Human Capital Theory. What Next For Construction Industry?
 year: 2019
 author - 1: "[[John Aliu]]"
 author - 2: "[[Clinton Aigbavboa]]"

@@ -1,5 +1,5 @@
 ---
-title: Proximity sensing and warning technology for heavy construction equipment operation
+title: Proximity Sensing And Warning Technology For Heavy Construction Equipment Operation
 year: 2012
 author - 1: "[[Eric Marks]]"
 author - 2: "[[Jochen Teizer]]"

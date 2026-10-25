@@ -1,5 +1,5 @@
 ---
-title: Employers and apprenticeships in England -  costs, risks and policy reforms
+title: Employers And Apprenticeships In England - Costs, Risks And Policy Reforms
 year: 2017
 author - 1: "[[Lynn Gambin]]"
 author - 2: "[[Terence Hogarth]]"

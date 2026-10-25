@@ -1,5 +1,5 @@
 ---
-title: Chudley and greeno's building construction handbook
+title: Chudley And Greeno's Building Construction Handbook
 year: 2020
 author - 1: "[[Roy Chudley]]"
 author - 2: "[[Roger Greeno]]"

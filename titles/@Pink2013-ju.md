@@ -1,5 +1,5 @@
 ---
-title: Short-term ethnography -  Intense routes to knowing
+title: Short-Term Ethnography - Intense Routes To Knowing
 year: 2013
 author - 1: "[[Sarah Pink]]"
 author - 2: "[[Jennie Morgan]]"

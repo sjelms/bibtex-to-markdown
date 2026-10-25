@@ -1,5 +1,5 @@
 ---
-title: The Origins of Inequality and Policies to Contain It
+title: The Origins Of Inequality And Policies To Contain It
 year: 2025
 author - 1: "[[Joseph E Stiglitz]]"
 key: "[[@Stiglitz2025-re]]"

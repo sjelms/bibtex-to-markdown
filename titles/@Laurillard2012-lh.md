@@ -1,5 +1,5 @@
 ---
-title: Teaching as a Design Science -  Building Pedagogical Patterns for Learning and Technology
+title: Teaching As A Design Science - Building Pedagogical Patterns For Learning And Technology
 year: 2012
 author - 1: "[[Diana Laurillard]]"
 key: "[[@Laurillard2012-lh]]"

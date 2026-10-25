@@ -1,5 +1,5 @@
 ---
-title: Dynamic modeling for analyzing impacts of skilled labor shortage on construction project management
+title: Dynamic Modeling For Analyzing Impacts Of Skilled Labor Shortage On Construction Project Management
 year: 2020
 author - 1: "[[Sungjin Kim]]"
 author - 2: "[[Soowon Chang]]"

@@ -1,5 +1,5 @@
 ---
-title: Of the different Progress of Opulence in different Nations
+title: Of The Different Progress Of Opulence In Different Nations
 year: 1776
 author - 1: "[[Adam Smith]]"
 key: "[[@Smith1776-pq]]"

@@ -1,5 +1,5 @@
 ---
-title: Cognition in the Wild
+title: Cognition In The Wild
 year: 1995
 author - 1: "[[Edwin Hutchins]]"
 key: "[[@Hutchins1995-sg]]"

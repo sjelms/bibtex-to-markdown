@@ -1,5 +1,5 @@
 ---
-title: Integrated Approaches to Digital-Enabled Design for Manufacture and Assembly -  A Modularity Perspective and Case Study of Huoshenshan Hospital in Wuhan, China
+title: Integrated Approaches To Digital-Enabled Design For Manufacture And Assembly - A Modularity Perspective And Case Study Of Huoshenshan Hospital In Wuhan, China
 year: 2023
 author - 1: "[[Tan Tan]]"
 key: "[[@Tan2023-dm]]"

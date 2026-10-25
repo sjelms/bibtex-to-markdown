@@ -1,5 +1,5 @@
 ---
-title: Constituting the workplace curriculum
+title: Constituting The Workplace Curriculum
 year: 2006
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2006-hp]]"

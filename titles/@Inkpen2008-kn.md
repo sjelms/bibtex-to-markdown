@@ -1,5 +1,5 @@
 ---
-title: Knowledge Transfer and International Joint Ventures -  The Case of NUMMI and General Motors
+title: Knowledge Transfer And International Joint Ventures - The Case Of NUMMI And General Motors
 year: 2008
 author - 1: "[[Andrew C Inkpen]]"
 key: "[[@Inkpen2008-kn]]"

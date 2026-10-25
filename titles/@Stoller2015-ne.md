@@ -1,5 +1,5 @@
 ---
-title: Taylorism and the logic of learning outcomes
+title: Taylorism And The Logic Of Learning Outcomes
 year: 2015
 author - 1: "[[Aaron Stoller]]"
 key: "[[@Stoller2015-ne]]"

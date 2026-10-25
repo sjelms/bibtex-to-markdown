@@ -1,5 +1,5 @@
 ---
-title: The defining characteristics of intelligent tutoring systems research -  ITSs care, precisely
+title: The Defining Characteristics Of Intelligent Tutoring Systems Research - Itss Care, Precisely
 year: 1998
 author - 1: "[[John Self]]"
 key: "[[@Self1998-fu]]"

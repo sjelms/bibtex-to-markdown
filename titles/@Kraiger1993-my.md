@@ -1,5 +1,5 @@
 ---
-title: Application of cognitive, skill-based, and affective theories of learning outcomes to new methods of training evaluation
+title: Application Of Cognitive, Skill-Based, And Affective Theories Of Learning Outcomes To New Methods Of Training Evaluation
 year: 1993
 author - 1: "[[Kurt Kraiger]]"
 author - 2: "[[J Kevin Ford]]"

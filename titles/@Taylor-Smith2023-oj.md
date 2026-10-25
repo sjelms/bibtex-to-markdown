@@ -1,5 +1,5 @@
 ---
-title: Apprentices’ perspectives of the tripartite collaboration at the heart of degree apprenticeships -  a longitudinal study
+title: Apprentices’ Perspectives Of The Tripartite Collaboration At The Heart Of Degree Apprenticeships - A Longitudinal Study
 year: 2023
 author - 1: "[[Ella Taylor-Smith]]"
 author - 2: "[[Sally Smith]]"

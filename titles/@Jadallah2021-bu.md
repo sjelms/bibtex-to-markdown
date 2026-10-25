@@ -1,5 +1,5 @@
 ---
-title: Educational Theory-Embedded Training for Construction Industry Professionals
+title: Educational Theory-Embedded Training For Construction Industry Professionals
 year: 2021
 author - 1: "[[Hazem Jadallah]]"
 key: "[[@Jadallah2021-bu]]"

@@ -1,5 +1,5 @@
 ---
-title: A critical review of the use of virtual reality in construction engineering education and training
+title: A Critical Review Of The Use Of Virtual Reality In Construction Engineering Education And Training
 year: 2018
 author - 1: "[[Peng Wang]]"
 author - 2: "[[Peng Wu]]"

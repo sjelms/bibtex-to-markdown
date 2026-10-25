@@ -1,5 +1,5 @@
 ---
-title: The political economy of workplace learning
+title: The Political Economy Of Workplace Learning
 year: 2004
 author - 1: "[[David N Ashton]]"
 editor - 1: "[[Alison Fuller]]"

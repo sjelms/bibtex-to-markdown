@@ -1,5 +1,5 @@
 ---
-title: The Emergence of Managerial Capitalism
+title: The Emergence Of Managerial Capitalism
 year: 1984
 author - 1: "[[Alfred D Chandler Jr]]"
 key: "[[@Chandler1984-mj]]"

@@ -1,5 +1,5 @@
 ---
-title: System Structures -  A Theory of Industrialised Architecture
+title: System Structures - A Theory Of Industrialised Architecture
 year: 2017
 author - 1: "[[Kasper Sánchez Vibæk]]"
 editor - 1: "[[Ryan E Smith]]"

@@ -1,5 +1,5 @@
 ---
-title: The Geek Way -  The Radical Mindset That Drives Extraordinary Results
+title: The Geek Way - The Radical Mindset That Drives Extraordinary Results
 year: 2024
 author - 1: "[[Andrew McAfee]]"
 key: "[[@McAfee2024-nd]]"

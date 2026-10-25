@@ -1,5 +1,5 @@
 ---
-title: Combining Quantitative and Qualitative Approaches to Social Research in Human Geography—An Impossible Mixture?
+title: Combining Quantitative And Qualitative Approaches To Social Research In Human Geography—An Impossible Mixture?
 year: 1998
 author - 1: "[[Lorna J Philip]]"
 key: "[[@Philip1998-pd]]"

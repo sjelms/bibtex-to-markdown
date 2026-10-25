@@ -1,5 +1,5 @@
 ---
-title: Polanyi's Paradox and the Shape of Employment Growth
+title: Polanyi's Paradox And The Shape Of Employment Growth
 year: 2014
 author - 1: "[[David H Autor]]"
 key: "[[@Autor2014-yj]]"

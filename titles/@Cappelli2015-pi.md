@@ -1,5 +1,5 @@
 ---
-title: Skill gaps, skill shortages, and skill mismatches
+title: Skill Gaps, Skill Shortages, And Skill Mismatches
 year: 2015
 author - 1: "[[Peter H Cappelli]]"
 key: "[[@Cappelli2015-pi]]"

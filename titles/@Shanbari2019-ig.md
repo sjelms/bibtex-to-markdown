@@ -1,5 +1,5 @@
 ---
-title: Use of Video Games to Enhance Construction Management Education
+title: Use Of Video Games To Enhance Construction Management Education
 year: 2019
 author - 1: "[[Hamzah Shanbari]]"
 author - 2: "[[Raja R A Issa]]"

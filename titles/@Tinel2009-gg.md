@@ -1,5 +1,5 @@
 ---
-title: Labour process and the division of labour, a reading
+title: Labour Process And The Division Of Labour, A Reading
 year: 2009
 author - 1: "[[Bruno Tinel]]"
 key: "[[@Tinel2009-gg]]"

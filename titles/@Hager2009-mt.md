@@ -1,5 +1,5 @@
 ---
-title: Moving beyond the metaphor of transfer of learning
+title: Moving Beyond The Metaphor Of Transfer Of Learning
 year: 2009
 author - 1: "[[Paul Hager]]"
 author - 2: "[[Phil Hodkinson]]"

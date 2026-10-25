@@ -1,5 +1,5 @@
 ---
-title: The construction industry’s productivity problem
+title: The Construction Industry’s Productivity Problem
 year: 2017
 author - 1: "[[Economist]]"
 key: "[[@Economist2017-hh]]"

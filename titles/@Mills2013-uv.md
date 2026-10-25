@@ -1,5 +1,5 @@
 ---
-title: Ethnography in Education
+title: Ethnography In Education
 year: 2013
 author - 1: "[[David Mills]]"
 author - 2: "[[Missy Morton]]"

@@ -1,5 +1,5 @@
 ---
-title: Metcalfe’s law is wrong
+title: Metcalfe’s Law Is Wrong
 year: 2006
 author - 1: "[[Bob Briscoe]]"
 key: "[[@Briscoe2006-xc]]"

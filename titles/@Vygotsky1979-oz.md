@@ -1,5 +1,5 @@
 ---
-title: Consciousness as a Problem in the Psychology of Behavior
+title: Consciousness As A Problem In The Psychology Of Behavior
 year: 1979
 author - 1: "[[Lev Semyonovich Vygotsky]]"
 key: "[[@Vygotsky1979-oz]]"

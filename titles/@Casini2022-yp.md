@@ -1,5 +1,5 @@
 ---
-title: Construction 4.0 -  Advanced Technology, Tools and Materials for the Digital Transformation of the Construction Industry
+title: Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry
 year: 2022
 author - 1: "[[Marco Casini]]"
 key: "[[@Casini2022-yp]]"

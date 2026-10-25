@@ -1,5 +1,5 @@
 ---
-title: High-paying jobs that don't need a college degree? Thousands of them sit empty
+title: High-Paying Jobs That Don't Need A College Degree? Thousands Of Them Sit Empty
 year: 2023
 author - 1: "[[Jon Marcus]]"
 key: "[[@Marcus2023-rl]]"

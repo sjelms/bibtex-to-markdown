@@ -1,5 +1,5 @@
 ---
-title: Reaping the benefits of industry 4.0 through skills development in Viet Nam
+title: Reaping The Benefits Of Industry 4.0 Through Skills Development In Viet Nam
 year: 2021
 author - 1: "[[Shanti Jagannathan]]"
 author - 2: "[[Dorothy Geronimo]]"

@@ -1,5 +1,5 @@
 ---
-title: The Complexities of Workplace Learning -  Problems and Dangers in Trying to Measure Attainment
+title: The Complexities Of Workplace Learning - Problems And Dangers In Trying To Measure Attainment
 year: 2004
 author - 1: "[[Phil Hodkinson]]"
 author - 2: "[[Heather Hodkinson]]"

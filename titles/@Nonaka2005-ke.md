@@ -1,5 +1,5 @@
 ---
-title: The theory of the knowledge-creating firm -  subjectivity, objectivity and synthesis
+title: The Theory Of The Knowledge-Creating Firm - Subjectivity, Objectivity And Synthesis
 year: 2005
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Ryoko Toyama]]"

@@ -1,5 +1,5 @@
 ---
-title: Housing supply and housing bubbles
+title: Housing Supply And Housing Bubbles
 year: 2008
 author - 1: "[[Edward L Glaeser]]"
 author - 2: "[[Joseph Gyourko]]"

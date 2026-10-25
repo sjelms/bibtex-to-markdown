@@ -1,5 +1,5 @@
 ---
-title: How to write a scientific paper in fifteen steps
+title: How To Write A Scientific Paper In Fifteen Steps
 year: 2025
 author - 1: "[[John M Drake]]"
 author - 2: "[[Barbara A Han]]"

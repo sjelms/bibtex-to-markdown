@@ -1,5 +1,5 @@
 ---
-title: Capital -  A Critique of Political Economy; The Process of Production of Capital
+title: Capital - A Critique Of Political Economy; The Process Of Production Of Capital
 year: 1887
 author - 1: "[[Karl Marx]]"
 editor - 1: "[[Frederick Engels]]"

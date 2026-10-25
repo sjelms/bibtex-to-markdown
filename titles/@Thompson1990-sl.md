@@ -1,5 +1,5 @@
 ---
-title: Work Organisations -  A Critical Introduction
+title: Work Organisations - A Critical Introduction
 year: 1990
 author - 1: "[[Paul Thompson]]"
 author - 2: "[[David McHugh]]"

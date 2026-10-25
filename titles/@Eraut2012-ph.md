@@ -1,5 +1,5 @@
 ---
-title: Developing a broader approach to professional learning
+title: Developing A Broader Approach To Professional Learning
 year: 2012
 author - 1: "[[Michael Eraut]]"
 editor - 1: "[[Anne McKee]]"

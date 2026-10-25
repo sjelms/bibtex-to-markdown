@@ -1,5 +1,5 @@
 ---
-title: Scientific Management Practice in Britain -  A History
+title: Scientific Management Practice In Britain - A History
 year: 1995
 author - 1: "[[Kevin Whitston]]"
 editor - 1: "[[Richard Hyman]]"

@@ -1,5 +1,5 @@
 ---
-title: A New S.F. Housing Complex for Homeless People Was Faster, Cheaper to Build. So Why Isn't It Being Replicated?
+title: A New S.f. Housing Complex For Homeless People Was Faster, Cheaper To Build. So Why Isn't It Being Replicated?
 year: 2022
 author - 1: "[[Heather Knight]]"
 key: "[[@Knight2022-si]]"

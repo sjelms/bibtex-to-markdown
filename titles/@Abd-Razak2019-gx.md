@@ -1,5 +1,5 @@
 ---
-title: A Strategic Approach to Failure Mitigation -  A Study of Project and Quality Management in Five Projects
+title: A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects
 year: 2019
 author - 1: "[[Diyana Syafiqah Binti Abd Razak]]"
 key: "[[@Abd-Razak2019-gx]]"

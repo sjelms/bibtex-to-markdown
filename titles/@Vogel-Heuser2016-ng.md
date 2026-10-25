@@ -1,5 +1,5 @@
 ---
-title: Guest Editorial Industry 4.0–Prerequisites and Visions
+title: Guest Editorial Industry 4.0–Prerequisites And Visions
 year: 2016
 author - 1: "[[Birgit Vogel-Heuser]]"
 author - 2: "[[Dieter Hess]]"

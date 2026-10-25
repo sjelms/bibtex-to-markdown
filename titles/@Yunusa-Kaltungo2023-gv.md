@@ -1,5 +1,5 @@
 ---
-title: Risk modelling techniques for occupational safety and health management in construction
+title: Risk Modelling Techniques For Occupational Safety And Health Management In Construction
 year: 2023
 author - 1: "[[Akilu Yunusa-Kaltungo]]"
 author - 2: "[[Lar English]]"

@@ -1,5 +1,5 @@
 ---
-title: The Philosophy of Manufactures -  or, An Exposition of the Scientific, Moral, and Commercial Economy of the Factory System of Great Britain
+title: The Philosophy Of Manufactures - Or, An Exposition Of The Scientific, Moral, And Commercial Economy Of The Factory System Of Great Britain
 year: 1835
 author - 1: "[[Andrew Ure]]"
 key: "[[@Ure1835-cu]]"

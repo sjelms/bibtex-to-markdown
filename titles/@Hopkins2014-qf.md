@@ -1,5 +1,5 @@
 ---
-title: Architectural Styles -  A Visual Guide
+title: Architectural Styles - A Visual Guide
 year: 2014
 author - 1: "[[Owen Hopkins]]"
 key: "[[@Hopkins2014-qf]]"

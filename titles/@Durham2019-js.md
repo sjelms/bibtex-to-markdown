@@ -1,5 +1,5 @@
 ---
-title: The Contested Evolution and Future of Vocational Education in the United States
+title: The Contested Evolution And Future Of Vocational Education In The United States
 year: 2019
 author - 1: "[[Brian Durham]]"
 author - 2: "[[Debra D Bragg]]"

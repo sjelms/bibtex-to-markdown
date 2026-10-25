@@ -1,5 +1,5 @@
 ---
-title: The Timing of Patterning or the Patterning of Timing? Organisational Routines in Temporary Organisations
+title: The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations
 year: 2019
 author - 1: "[[Simon Addyman]]"
 key: "[[@Addyman2019-kn]]"

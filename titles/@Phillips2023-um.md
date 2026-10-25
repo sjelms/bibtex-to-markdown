@@ -1,11 +1,11 @@
 ---
-title: Virginia Tech wins $450K grant for modular workforce development
+title: Virginia Tech Wins $450K Grant For Modular Workforce Development
 year: 2023
 author - 1: "[[Zachary Phillips]]"
 key: "[[@Phillips2023-um]]"
 booktitle: Construction Dive
 aliases:
-  - Virginia Tech Wins \$450K Grant For Modular Workforce Development
+  - Virginia Tech Wins $450K Grant For Modular Workforce Development
 type: "[[@online]]"
 tags:
   - _BibTex-to-MD-Git

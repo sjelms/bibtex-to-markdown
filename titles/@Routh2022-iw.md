@@ -1,5 +1,5 @@
 ---
-title: Using learning theories to develop a veterinary student Preparedness Toolkit for workplace clinical training
+title: Using Learning Theories To Develop A Veterinary Student Preparedness Toolkit For Workplace Clinical Training
 year: 2022
 author - 1: "[[Jennifer Routh]]"
 author - 2: "[[Sharmini Julita Paramasivam]]"

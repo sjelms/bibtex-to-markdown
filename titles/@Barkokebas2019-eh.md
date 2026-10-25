@@ -1,5 +1,5 @@
 ---
-title: Application of virtual reality in task training in the construction manufacturing industry
+title: Application Of Virtual Reality In Task Training In The Construction Manufacturing Industry
 year: 2019
 author - 1: "[[Regina Barkokebas]]"
 author - 2: "[[Chelsea Ritter]]"

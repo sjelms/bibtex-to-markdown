@@ -1,5 +1,5 @@
 ---
-title: Artisans and Machinery -  The Moral and Physical Condition of the Manufacturing Population, Considered With Reference to Mechanical Substitutes for Human Labour
+title: Artisans And Machinery - The Moral And Physical Condition Of The Manufacturing Population, Considered With Reference To Mechanical Substitutes For Human Labour
 year: 1836
 author - 1: "[[Peter Gaskell]]"
 key: "[[@Gaskell1836-vg]]"

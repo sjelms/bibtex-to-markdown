@@ -1,5 +1,5 @@
 ---
-title: Vygotsky and the Social Formation of Mind
+title: Vygotsky And The Social Formation Of Mind
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-aq]]"

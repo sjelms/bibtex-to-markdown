@@ -1,5 +1,5 @@
 ---
-title: Artificial intelligence for occupational health and safety management in construction
+title: Artificial Intelligence For Occupational Health And Safety Management In Construction
 year: 2023
 author - 1: "[[Savindi Perera]]"
 author - 2: "[[Vidal Paton-Cole]]"

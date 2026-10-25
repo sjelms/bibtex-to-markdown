@@ -1,5 +1,5 @@
 ---
-title: The SAGE Handbook of Workplace Learning
+title: The SAGE Handbook Of Workplace Learning
 year: 2011
 author - 1: "[[Margaret Malloch]]"
 author - 2: "[[Len Cairns]]"

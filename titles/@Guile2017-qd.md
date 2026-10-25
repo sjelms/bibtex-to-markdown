@@ -1,12 +1,12 @@
 ---
-title: Apprenticeship for ‘liquid life’ -  Learning in contingent work conditions for contingent employment
+title: Apprenticeship For ‘Liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment
 year: 2017
 author - 1: "[[David Guile]]"
 author - 2: "[[Ann Lahiff]]"
 key: "[[@Guile2017-qd]]"
 aliases:
-  - Apprenticeship For ‘liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment
-  - Apprenticeship For ‘liquid Life’
+  - Apprenticeship For ‘Liquid Life’ - Learning In Contingent Work Conditions For Contingent Employment
+  - Apprenticeship For ‘Liquid Life’
 journal: "[[Vocations and Learning]]"
 publisher: "[[Springer Science and Business Media LLC]]"
 volume: 10

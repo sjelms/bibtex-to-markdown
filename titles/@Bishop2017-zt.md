@@ -1,5 +1,5 @@
 ---
-title: Context, agency and professional workplace learning
+title: Context, Agency And Professional Workplace Learning
 year: 2017
 author - 1: "[[Dan Bishop]]"
 key: "[[@Bishop2017-zt]]"

@@ -1,5 +1,5 @@
 ---
-title: Mapping the Modular Industry
+title: Mapping The Modular Industry
 year: 2017
 author - 1: "[[Ivan Rupnik]]"
 editor - 1: "[[Ryan E Smith]]"

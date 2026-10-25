@@ -1,5 +1,5 @@
 ---
-title: Delivered from Distraction -  Getting the most out of life with attention deficit disorder
+title: Delivered From Distraction - Getting The Most Out Of Life With Attention Deficit Disorder
 year: 2023
 author - 1: "[[Edward M Hallowell]]"
 author - 2: "[[John J Ratey]]"

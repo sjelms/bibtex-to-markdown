@@ -1,5 +1,5 @@
 ---
-title: The Anatomy of the Case Study
+title: The Anatomy Of The Case Study
 year: 2015
 author - 1: "[[Gary Thomas]]"
 author - 2: "[[Kevin Myers]]"

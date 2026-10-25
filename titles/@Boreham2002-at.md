@@ -1,5 +1,5 @@
 ---
-title: Work Process Knowledge, Curriculum Control and the Work-based Route to Vocational Qualifications
+title: Work Process Knowledge, Curriculum Control And The Work-Based Route To Vocational Qualifications
 year: 2002
 author - 1: "[[Nick Boreham]]"
 key: "[[@Boreham2002-at]]"

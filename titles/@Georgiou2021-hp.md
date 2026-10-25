@@ -1,5 +1,5 @@
 ---
-title: Learning experience design with immersive virtual reality in physics education
+title: Learning Experience Design With Immersive Virtual Reality In Physics Education
 year: 2021
 author - 1: "[[Yiannis Georgiou]]"
 author - 2: "[[Olia Tsivitanidou]]"

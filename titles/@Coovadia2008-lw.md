@@ -1,5 +1,5 @@
 ---
-title: A Brief History of Pin-Making
+title: A Brief History Of Pin-Making
 year: 2008
 author - 1: "[[Imraan Coovadia]]"
 key: "[[@Coovadia2008-lw]]"

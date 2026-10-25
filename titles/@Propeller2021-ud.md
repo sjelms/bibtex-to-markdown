@@ -1,5 +1,5 @@
 ---
-title: How to Adapt to the Skilled Labor Shortage in Construction
+title: How To Adapt To The Skilled Labor Shortage In Construction
 year: 2021
 author - 1: "[[Propeller]]"
 key: "[[@Propeller2021-ud]]"

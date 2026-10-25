@@ -12,7 +12,7 @@ aliases:
 ## Duncan William Maxwell
 
 ### Content:
-[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma)]]
+[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (Bdfma)]]
 [[@Maxwell2016-gw|Lessons From Sweden]]
 [[@Solin2025-au|A Global Review Of Modern Methods Of Construction (MMC) Workforce Training]]
 

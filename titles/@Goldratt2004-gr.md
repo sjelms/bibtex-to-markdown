@@ -1,5 +1,5 @@
 ---
-title: The Goal -  A Process of Ongoing Improvement
+title: The Goal - A Process Of Ongoing Improvement
 year: 2004
 author - 1: "[[Eliyahu M Goldratt]]"
 author - 2: "[[Jeff Cox]]"

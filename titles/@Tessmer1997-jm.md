@@ -1,5 +1,5 @@
 ---
-title: The role of context in learning and instructional design
+title: The Role Of Context In Learning And Instructional Design
 year: 1997
 author - 1: "[[Martin Tessmer]]"
 author - 2: "[[Rita C Richey]]"

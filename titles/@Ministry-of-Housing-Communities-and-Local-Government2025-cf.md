@@ -1,5 +1,5 @@
 ---
-title: Proposed Reforms to the National Planning Policy Framework and Other Changes to the Planning System
+title: Proposed Reforms To The National Planning Policy Framework And Other Changes To The Planning System
 year: 2025
 author - 1: "[[Ministry of Housing, Communities, and Local Government]]"
 key: "[[@Ministry-of-Housing-Communities-and-Local-Government2025-cf]]"

@@ -1,5 +1,5 @@
 ---
-title: An open letter to graduate students and other procrastinators -  it's time to write
+title: An Open Letter To Graduate Students And Other Procrastinators - It's Time To Write
 year: 2025
 author - 1: "[[Dennis J Hazelett]]"
 key: "[[@Hazelett2025-hc]]"

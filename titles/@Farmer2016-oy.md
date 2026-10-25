@@ -1,5 +1,5 @@
 ---
-title: The Farmer Review of the UK Construction Labour Model -  Modernise or Die
+title: The Farmer Review Of The UK Construction Labour Model - Modernise Or Die
 year: 2016
 author - 1: "[[Mark Farmer]]"
 key: "[[@Farmer2016-oy]]"

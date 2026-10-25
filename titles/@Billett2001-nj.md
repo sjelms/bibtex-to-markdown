@@ -1,5 +1,5 @@
 ---
-title: Learning in the Workplace -  Strategies for Effective Practice
+title: Learning In The Workplace - Strategies For Effective Practice
 year: 2001
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2001-nj]]"

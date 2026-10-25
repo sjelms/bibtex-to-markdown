@@ -1,5 +1,5 @@
 ---
-title: Polanyi's revenge and AI's new romance with tacit knowledge
+title: Polanyi's Revenge And AI's New Romance With Tacit Knowledge
 year: 2021
 author - 1: "[[Subbarao Kambhampati]]"
 key: "[[@Kambhampati2021-lr]]"

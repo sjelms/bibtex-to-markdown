@@ -1,5 +1,5 @@
 ---
-title: Industrialised house building -  Concepts and its application in Sweden
+title: Industrialised House Building - Concepts And Its Application In Sweden
 year: 2019
 author - 1: "[[Jerker Lessing]]"
 author - 2: "[[Lars Stehn]]"

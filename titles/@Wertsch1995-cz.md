@@ -1,5 +1,5 @@
 ---
-title: Vygotsky on Learning and Development
+title: Vygotsky On Learning And Development
 year: 1995
 author - 1: "[[James V Wertsch]]"
 author - 2: "[[Richard Sohmer]]"

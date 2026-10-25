@@ -1,5 +1,5 @@
 ---
-title: Bringing working and learning together
+title: Bringing Working And Learning Together
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

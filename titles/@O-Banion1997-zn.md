@@ -1,5 +1,5 @@
 ---
-title: A Learning College for the 21st Century
+title: A Learning College For The 21st Century
 year: 1997
 author - 1: "[[Terry U O'Banion]]"
 key: "[[@O-Banion1997-zn]]"

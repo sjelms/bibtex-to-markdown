@@ -1,5 +1,5 @@
 ---
-title: How to Fix the Housing Crisis
+title: How To Fix The Housing Crisis
 year: 2026
 author - 1: "[[Kyla Scanlon]]"
 editor - 1: "[[Kyla Scanlon]]"

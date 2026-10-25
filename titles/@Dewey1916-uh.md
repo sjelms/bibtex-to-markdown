@@ -1,5 +1,5 @@
 ---
-title: Democracy and Education -  An Introduction to the Philosophy of Education
+title: Democracy And Education - An Introduction To The Philosophy Of Education
 year: 1916
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1916-uh]]"

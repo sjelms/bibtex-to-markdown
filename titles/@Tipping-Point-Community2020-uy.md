@@ -1,10 +1,10 @@
 ---
-title: Charles and Helen Schwab Invest $65M in Groundbreaking Homelessness Solutions in SF
+title: Charles And Helen Schwab Invest $65M In Groundbreaking Homelessness Solutions In SF
 year: 2020
 author - 1: "[[Tipping Point Community]]"
 key: "[[@Tipping-Point-Community2020-uy]]"
 aliases:
-  - Charles And Helen Schwab Invest \$65M In Groundbreaking Homelessness Solutions In SF
+  - Charles And Helen Schwab Invest $65M In Groundbreaking Homelessness Solutions In SF
 type: "[[@online]]"
 tags:
   - Abundance-Footnotes

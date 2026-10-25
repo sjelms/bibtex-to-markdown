@@ -1,5 +1,5 @@
 ---
-title: The Handbook of Dewey’s Educational Theory and Practice
+title: The Handbook Of Dewey’s Educational Theory And Practice
 year: 2019
 author - 1: "[[Charles L Lowery]]"
 author - 2: "[[Patrick M Jenlink]]"

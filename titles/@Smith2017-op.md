@@ -1,5 +1,5 @@
 ---
-title: Permanent Modular Construction -  Construction Performance
+title: Permanent Modular Construction - Construction Performance
 year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Talbot Rice]]"

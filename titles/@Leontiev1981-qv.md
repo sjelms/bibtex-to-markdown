@@ -1,5 +1,5 @@
 ---
-title: Problems of the Development of the Mind
+title: Problems Of The Development Of The Mind
 year: 1981
 author - 1: "[[Aleksei Nikolayevich Leontiev]]"
 key: "[[@Leontiev1981-qv]]"

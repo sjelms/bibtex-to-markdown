@@ -1,5 +1,5 @@
 ---
-title: The Origins of Management
+title: The Origins Of Management
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-qv]]"

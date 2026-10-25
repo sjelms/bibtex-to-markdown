@@ -1,5 +1,5 @@
 ---
-title: Instructional design
+title: Instructional Design
 year: 2012
 author - 1: "[[Patricia Lucille Smith]]"
 author - 2: "[[Tillman J Ragan]]"

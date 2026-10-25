@@ -1,5 +1,5 @@
 ---
-title: Malcolm Knowles, informal adult education, self-direction, and andragogy
+title: Malcolm Knowles, Informal Adult Education, Self-Direction, And Andragogy
 year: 2002
 author - 1: "[[Malcolm Knowles]]"
 key: "[[@Knowles2002-ic]]"

@@ -1,5 +1,5 @@
 ---
-title: 2023 Engineering and Construction Industry Outlook
+title: 2023 Engineering And Construction Industry Outlook
 year: 2022
 author - 1: "[[Michelle Meisels]]"
 author - 2: "[[Paul Wellener]]"

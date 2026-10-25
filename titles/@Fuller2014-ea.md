@@ -1,5 +1,5 @@
 ---
-title: Contemporary Apprenticeship -  International Perspectives on an Evolving Model of Learning
+title: Contemporary Apprenticeship - International Perspectives On An Evolving Model Of Learning
 year: 2014
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

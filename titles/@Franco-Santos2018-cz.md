@@ -1,5 +1,5 @@
 ---
-title: Reviewing and theorizing the unintended consequences of performance management systems
+title: Reviewing And Theorizing The Unintended Consequences Of Performance Management Systems
 year: 2018
 author - 1: "[[Monica Franco-Santos]]"
 author - 2: "[[David Otley]]"

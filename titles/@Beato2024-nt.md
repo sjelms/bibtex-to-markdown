@@ -1,5 +1,5 @@
 ---
-title: The Digitalist Papers -  Artificial Intelligence and Democracy in America
+title: The Digitalist Papers - Artificial Intelligence And Democracy In America
 year: 2024
 author - 1: "[[Greg Beato]]"
 author - 2: "[[Laura Bisesto]]"

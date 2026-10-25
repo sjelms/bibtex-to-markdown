@@ -1,5 +1,5 @@
 ---
-title: Preparing Students for Future Learning with Mixed Reality Interfaces
+title: Preparing Students For Future Learning With Mixed Reality Interfaces
 year: 2017
 author - 1: "[[Bertrand Schneider]]"
 editor - 1: "[[Dejian Liu]]"

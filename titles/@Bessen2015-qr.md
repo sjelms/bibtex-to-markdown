@@ -1,5 +1,5 @@
 ---
-title: Learning by Doing -  The Real Connection Between Innovation, Wages, and Wealth
+title: Learning By Doing - The Real Connection Between Innovation, Wages, And Wealth
 year: 2015
 author - 1: "[[James Bessen]]"
 key: "[[@Bessen2015-qr]]"

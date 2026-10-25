@@ -1,5 +1,5 @@
 ---
-title: Math for the Trades
+title: Math For The Trades
 year: 2014
 author - 1: "[[United Brotherhood of Carpenters]]"
 key: "[[@United-Brotherhood-of-Carpenters2014-wk]]"

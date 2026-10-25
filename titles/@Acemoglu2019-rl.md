@@ -1,5 +1,5 @@
 ---
-title: Automation and New Tasks -  How Technology Displaces and Reinstates Labor
+title: Automation And New Tasks - How Technology Displaces And Reinstates Labor
 year: 2019
 author - 1: "[[Daron Acemoglu]]"
 author - 2: "[[Pascual Restrepo]]"

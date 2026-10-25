@@ -1,5 +1,5 @@
 ---
-title: Tacit Knowledge and the Labour Process
+title: Tacit Knowledge And The Labour Process
 year: 2012
 author - 1: "[[Theodore Lewis]]"
 editor - 1: "[[Paul Gibbs]]"

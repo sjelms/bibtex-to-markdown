@@ -1,5 +1,5 @@
 ---
-title: Wildfires Are Getting Worse, So Why Is the U.S. Still Building Homes With Wood?
+title: Wildfires Are Getting Worse, So Why Is The U.s. Still Building Homes With Wood?
 year: 2021
 author - 1: "[[Alana Semuels]]"
 key: "[[@Semuels2021-fi]]"

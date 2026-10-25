@@ -1,5 +1,5 @@
 ---
-title: Taylorism Reconsidered -  The Impact of Scientific Management Within the Australian Workplace
+title: Taylorism Reconsidered - The Impact Of Scientific Management Within The Australian Workplace
 year: 1993
 author - 1: "[[Christopher Wright]]"
 key: "[[@Wright1993-vp]]"

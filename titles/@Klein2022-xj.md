@@ -1,5 +1,5 @@
 ---
-title: Why Housing Is So Expensive — Particularly in Blue States
+title: Why Housing Is So Expensive — Particularly In Blue States
 year: 2022
 author - 1: "[[Ezra Klein]]"
 author - 2: "[[Jenny Schuetz]]"

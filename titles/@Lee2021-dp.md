@@ -1,5 +1,5 @@
 ---
-title: AI 2041 -  Ten Visions for Our Future
+title: AI 2041 - Ten Visions For Our Future
 year: 2021
 author - 1: "[[Kai-Fu Lee]]"
 author - 2: "[[Chen Qiufan]]"

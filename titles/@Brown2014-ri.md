@@ -1,5 +1,5 @@
 ---
-title: Make It Stick -  The Science of Successful Learning
+title: Make It Stick - The Science Of Successful Learning
 year: 2014
 author - 1: "[[Peter C Brown]]"
 author - 2: "[[Henry L Roediger III]]"

@@ -1,5 +1,5 @@
 ---
-title: Barry's Introduction to Construction of Buildings
+title: Barry's Introduction To Construction Of Buildings
 year: 2018
 author - 1: "[[Stephen Emmitt]]"
 key: "[[@Emmitt2018-dw]]"

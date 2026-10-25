@@ -1,5 +1,5 @@
 ---
-title: The meaning of meaning  -  a study of the influence of language upon thought and of the science of symbolism
+title: The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism
 year: 1923
 author - 1: "[[Charles Kay Ogden]]"
 author - 2: "[[Ivor Armstrong Richards]]"

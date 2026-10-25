@@ -1,5 +1,5 @@
 ---
-title: On Sociological Theories of the Middle Range
+title: On Sociological Theories Of The Middle Range
 year: 1949
 author - 1: "[[Robert King Merton]]"
 key: "[[@Merton1949-hs]]"

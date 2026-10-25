@@ -1,5 +1,5 @@
 ---
-title: Vocational Education and Training - The European Research Field
+title: Vocational Education And Training - The European Research Field
 year: 1998
 author - 1: "[[CEDEFOP]]"
 editor - 1: "[[Manfred Tessaring]]"

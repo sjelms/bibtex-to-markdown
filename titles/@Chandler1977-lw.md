@@ -1,5 +1,5 @@
 ---
-title: The Visible Hand -  The Managerial Revolution in American Business
+title: The Visible Hand - The Managerial Revolution In American Business
 year: 1977
 author - 1: "[[Alfred D Chandler Jr]]"
 key: "[[@Chandler1977-lw]]"

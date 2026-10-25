@@ -1,5 +1,5 @@
 ---
-title: Development of a Spatial Visualization Assessment Tool for Younger Students Using a Lego™ Assembly Task
+title: Development Of A Spatial Visualization Assessment Tool For Younger Students Using A Lego™ Assembly Task
 year: 2020
 author - 1: "[[Nathan Delson]]"
 author - 2: "[[Lelli Van Den Einde]]"

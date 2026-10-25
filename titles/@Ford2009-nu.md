@@ -1,5 +1,5 @@
 ---
-title: The Lights in the Tunnel -  Automation, Accelerating Technology and the Economy of the Future
+title: The Lights In The Tunnel - Automation, Accelerating Technology And The Economy Of The Future
 year: 2009
 author - 1: "[[Martin Ford]]"
 key: "[[@Ford2009-nu]]"

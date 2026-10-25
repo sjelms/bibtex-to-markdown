@@ -1,5 +1,5 @@
 ---
-title: Industriellt husbyggande
+title: Industriellt Husbyggande
 year: 2015
 author - 1: "[[Helena Lidelöw]]"
 author - 2: "[[Lars Stehn]]"

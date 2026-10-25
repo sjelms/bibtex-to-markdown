@@ -1,12 +1,12 @@
 ---
-title: Where does all the ‘know how’ go? The role of tacit knowledge in research impact
+title: Where Does All The ‘Know How’ Go? The Role Of Tacit Knowledge In Research Impact
 year: 2022
 author - 1: "[[Vincent-Wayne Mitchell]]"
 author - 2: "[[William S Harvey]]"
 author - 3: "[[Geoffrey Wood]]"
 key: "[[@Mitchell2022-ds]]"
 aliases:
-  - Where Does All The ‘know How’ Go? The Role Of Tacit Knowledge In Research Impact
+  - Where Does All The ‘Know How’ Go? The Role Of Tacit Knowledge In Research Impact
 journal: "[[Higher education research and development]]"
 publisher: "[[Informa UK Limited]]"
 volume: 41

@@ -1,5 +1,5 @@
 ---
-title: Research-based Design of Pedagogical Agent Roles -  a Review, Progress, and Recommendations
+title: Research-Based Design Of Pedagogical Agent Roles - A Review, Progress, And Recommendations
 year: 2016
 author - 1: "[[Yanghee Kim]]"
 author - 2: "[[Amy L Baylor]]"

@@ -1,5 +1,5 @@
 ---
-title: John Dewey on Play -  Theory and pedagogy
+title: John Dewey On Play - Theory And Pedagogy
 year: 2024
 author - 1: "[[Leonard J Waks]]"
 key: "[[@Waks2024-sp]]"

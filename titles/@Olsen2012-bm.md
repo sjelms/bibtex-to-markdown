@@ -1,5 +1,5 @@
 ---
-title: How Industrial Contractors Are Handling Skilled Labor Shortages in the United States
+title: How Industrial Contractors Are Handling Skilled Labor Shortages In The United States
 year: 2012
 author - 1: "[[Darren Olsen]]"
 author - 2: "[[Mark C Tatum]]"

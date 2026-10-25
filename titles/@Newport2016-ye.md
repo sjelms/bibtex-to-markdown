@@ -1,5 +1,5 @@
 ---
-title: So Good They Can't Ignore You -  Why Skills Trump Passion In The Quest For Work You Love
+title: So Good They Can't Ignore You - Why Skills Trump Passion In The Quest For Work You Love
 year: 2016
 author - 1: "[[Cal Newport]]"
 key: "[[@Newport2016-ye]]"

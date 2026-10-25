@@ -1,5 +1,5 @@
 ---
-title: Smithian insights on automation and the future of work
+title: Smithian Insights On Automation And The Future Of Work
 year: 2019
 author - 1: "[[Jonathan A Boyd]]"
 author - 2: "[[Maik Huettinger]]"

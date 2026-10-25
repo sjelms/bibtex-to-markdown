@@ -10,7 +10,7 @@ aliases:
 ## Zachary Phillips
 
 ### Content:
-[[@Phillips2023-um|Virginia Tech Wins \$450K Grant For Modular Workforce Development]]
+[[@Phillips2023-um|Virginia Tech Wins $450K Grant For Modular Workforce Development]]
 
 #### Bibliography:
 

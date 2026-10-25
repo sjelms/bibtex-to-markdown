@@ -1,5 +1,5 @@
 ---
-title: The Future of Construction Automation -  Technological Disruption and the Upcoming Ubiquity of Robotics
+title: The Future Of Construction Automation - Technological Disruption And The Upcoming Ubiquity Of Robotics
 year: 2015
 author - 1: "[[Thomas Bock]]"
 key: "[[@Bock2015-tf]]"

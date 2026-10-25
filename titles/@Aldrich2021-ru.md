@@ -1,5 +1,5 @@
 ---
-title: The UCL Institute of Education -  From Training College To Global Institution
+title: The UCL Institute Of Education - From Training College To Global Institution
 year: 2021
 author - 1: "[[Richard Aldrich]]"
 author - 2: "[[Tom Woodin]]"

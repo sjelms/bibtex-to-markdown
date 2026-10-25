@@ -1,5 +1,5 @@
 ---
-title: Constructing Learning -  Adversarial and Collaborative Working in the British Construction Industry
+title: Constructing Learning - Adversarial And Collaborative Working In The British Construction Industry
 year: 2009
 author - 1: "[[Dan Bishop]]"
 author - 2: "[[Alan Felstead]]"

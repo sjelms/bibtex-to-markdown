@@ -1,5 +1,5 @@
 ---
-title: How to Write a Better Thesis
+title: How To Write A Better Thesis
 year: 2014
 author - 1: "[[David Evans]]"
 author - 2: "[[Paul Gruba]]"

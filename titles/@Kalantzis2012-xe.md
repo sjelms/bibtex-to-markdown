@@ -1,5 +1,5 @@
 ---
-title: Life in schools
+title: Life In Schools
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

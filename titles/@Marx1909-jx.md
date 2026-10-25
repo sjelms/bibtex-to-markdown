@@ -1,5 +1,5 @@
 ---
-title: Capital -  A Critique of Political Economy; The Process of Capitalist Production as a Whole
+title: Capital - A Critique Of Political Economy; The Process Of Capitalist Production As A Whole
 year: 1909
 author - 1: "[[Karl Marx]]"
 editor - 1: "[[Frederick Engels]]"

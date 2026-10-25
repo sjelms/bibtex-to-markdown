@@ -1,5 +1,5 @@
 ---
-title: Using digital technology to support employees' mental health in the construction industry
+title: Using Digital Technology To Support Employees' Mental Health In The Construction Industry
 year: 2023
 author - 1: "[[Zoya Anwar]]"
 author - 2: "[[Clara Cheung]]"

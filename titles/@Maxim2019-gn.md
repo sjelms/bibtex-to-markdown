@@ -1,5 +1,5 @@
 ---
-title: Automation and AI will disrupt the American labor force. Here’s how we can protect workers
+title: Automation And AI Will Disrupt The American Labor Force. Here’s How We Can Protect Workers
 year: 2019
 author - 1: "[[Robert Maxim]]"
 author - 2: "[[Mark Muro]]"

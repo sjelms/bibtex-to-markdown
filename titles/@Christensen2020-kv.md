@@ -1,5 +1,5 @@
 ---
-title: Managing Disruption -  An Interview with Clayton Christensen
+title: Managing Disruption - An Interview With Clayton Christensen
 year: 2020
 author - 1: "[[Clayton Christensen]]"
 editor - 1: "[[Jim Euchner]]"

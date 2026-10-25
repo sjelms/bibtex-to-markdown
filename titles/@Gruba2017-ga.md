@@ -1,5 +1,5 @@
 ---
-title: How to write your first thesis
+title: How To Write Your First Thesis
 year: 2017
 author - 1: "[[Paul Gruba]]"
 author - 2: "[[Justin Zobel]]"

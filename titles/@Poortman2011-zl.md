@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship -  From Learning Theory to Practice
+title: Apprenticeship - From Learning Theory To Practice
 year: 2011
 author - 1: "[[Cindy Louise Poortman]]"
 author - 2: "[[Knud Illeris]]"

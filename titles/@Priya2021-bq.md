@@ -1,5 +1,5 @@
 ---
-title: Case Study Methodology of Qualitative Research -  Key Attributes and Navigating the Conundrums in Its Application
+title: Case Study Methodology Of Qualitative Research - Key Attributes And Navigating The Conundrums In Its Application
 year: 2021
 author - 1: "[[Arya Priya]]"
 key: "[[@Priya2021-bq]]"

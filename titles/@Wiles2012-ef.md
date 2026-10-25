@@ -1,5 +1,5 @@
 ---
-title: What are Qualitative Research Ethics?
+title: What Are Qualitative Research Ethics?
 year: 2012
 author - 1: "[[Rose Wiles]]"
 key: "[[@Wiles2012-ef]]"

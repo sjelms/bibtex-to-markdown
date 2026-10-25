@@ -1,5 +1,5 @@
 ---
-title: Process-oriented framework to improve modular and offsite construction manufacturing performance
+title: Process-Oriented Framework To Improve Modular And Offsite Construction Manufacturing Performance
 year: 2020
 author - 1: "[[Youyi Zhang]]"
 author - 2: "[[Zhen Lei]]"

@@ -1,5 +1,5 @@
 ---
-title: Maslow's Hierarchy of Needs
+title: Maslow's Hierarchy Of Needs
 year: 2020
 author - 1: "[[Saul Mcleod]]"
 key: "[[@Mcleod2020-ol]]"

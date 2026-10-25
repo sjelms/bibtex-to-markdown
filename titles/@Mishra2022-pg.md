@@ -1,5 +1,5 @@
 ---
-title: Land Use Change and Carbon Emissions of a Transformation to Timber Cities
+title: Land Use Change And Carbon Emissions Of A Transformation To Timber Cities
 year: 2022
 author - 1: "[[Abhijeet Mishra]]"
 author - 2: "[[Florian Humpenöder]]"

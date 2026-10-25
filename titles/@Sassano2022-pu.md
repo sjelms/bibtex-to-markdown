@@ -1,5 +1,5 @@
 ---
-title: Optimism Bias and Cost Overruns -  Experimenting on the Internal and External Views in Resources and Time Estimation
+title: Optimism Bias And Cost Overruns - Experimenting On The Internal And External Views In Resources And Time Estimation
 year: 2022
 author - 1: "[[Giuseppe Sassano]]"
 key: "[[@Sassano2022-pu]]"

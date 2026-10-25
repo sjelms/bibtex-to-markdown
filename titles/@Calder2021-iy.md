@@ -1,5 +1,5 @@
 ---
-title: Architecture -  From Prehistory to Climate Emergency
+title: Architecture - From Prehistory To Climate Emergency
 year: 2021
 author - 1: "[[Barnabas Calder]]"
 key: "[[@Calder2021-iy]]"

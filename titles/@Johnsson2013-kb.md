@@ -1,5 +1,5 @@
 ---
-title: Production strategies for pre-engineering in house-building -  exploring product development platforms
+title: Production Strategies For Pre-Engineering In House-Building - Exploring Product Development Platforms
 year: 2013
 author - 1: "[[Helena Johnsson]]"
 key: "[[@Johnsson2013-kb]]"

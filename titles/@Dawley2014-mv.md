@@ -1,5 +1,5 @@
 ---
-title: Situated Learning in Virtual Worlds and Immersive Simulations
+title: Situated Learning In Virtual Worlds And Immersive Simulations
 year: 2014
 author - 1: "[[Lisa Dawley]]"
 author - 2: "[[Chris Dede]]"

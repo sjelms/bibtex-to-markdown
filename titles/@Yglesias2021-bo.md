@@ -1,5 +1,5 @@
 ---
-title: Homelessness is About Housing -  The Solution is to Legalize More and More Kinds of It
+title: Homelessness Is About Housing - The Solution Is To Legalize More And More Kinds Of It
 year: 2021
 author - 1: "[[Matthew Yglesias]]"
 key: "[[@Yglesias2021-bo]]"

@@ -1,5 +1,5 @@
 ---
-title: Hands-on Exercise for Enhancing Students’ Construction Management Skills
+title: Hands-On Exercise For Enhancing Students’ Construction Management Skills
 year: 2013
 author - 1: "[[Tarek Hegazy]]"
 author - 2: "[[Mohamed Abdel-Monem]]"

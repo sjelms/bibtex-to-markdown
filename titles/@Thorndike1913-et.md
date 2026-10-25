@@ -1,5 +1,5 @@
 ---
-title: Education Psychology, Vol 1 -  The original nature of man
+title: Education Psychology, Vol 1 - The Original Nature Of Man
 year: 1913
 author - 1: "[[Edward Lee Thorndike]]"
 key: "[[@Thorndike1913-et]]"

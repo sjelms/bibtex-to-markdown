@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Ackroyd2006-di|The Oxford Handbook Of Work And Organization]]
-[[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
+[[@Barley2006-mr|What We Know (And Mostly Don't Know) About Technical Work]]
 [[@Batt2006-sj|Groups, Teams, And The Division Of Labor]]
 [[@Crouch2006-di|Skill Formation Systems]]
 [[@McKinlay2006-lc|Knowledge Management]]

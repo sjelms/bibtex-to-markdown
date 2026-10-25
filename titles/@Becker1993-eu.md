@@ -1,5 +1,5 @@
 ---
-title: Human Capital -  A Theoretical and Empirical Analysis, with Special Reference to Education
+title: Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education
 year: 1993
 author - 1: "[[Gary S Becker]]"
 key: "[[@Becker1993-eu]]"

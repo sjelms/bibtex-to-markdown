@@ -1,5 +1,5 @@
 ---
-title: Signaling and meaning in organizational analytics -  coping with Goodhart's Law in an era of digitization and datafication
+title: Signaling And Meaning In Organizational Analytics - Coping With Goodhart's Law In An Era Of Digitization And Datafication
 year: 2023
 author - 1: "[[Jeffrey W Treem]]"
 author - 2: "[[William C Barley]]"

@@ -1,5 +1,5 @@
 ---
-title: Knowledge tracing -  Modeling the acquisition of procedural knowledge
+title: Knowledge Tracing - Modeling The Acquisition Of Procedural Knowledge
 year: 1994
 author - 1: "[[Albert T Corbett]]"
 author - 2: "[[John R Anderson]]"

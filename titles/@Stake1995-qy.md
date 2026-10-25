@@ -1,5 +1,5 @@
 ---
-title: The art of case study research
+title: The Art Of Case Study Research
 year: 1995
 author - 1: "[[Robert E Stake]]"
 key: "[[@Stake1995-qy]]"

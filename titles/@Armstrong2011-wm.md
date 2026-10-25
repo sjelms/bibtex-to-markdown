@@ -1,10 +1,10 @@
 ---
-title: The Power of Neurodiversity -  Unleashing the Advantages of Your Differently Wired Brain (published in hardcover as Neurodiversity)
+title: The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (Published In Hardcover As Neurodiversity)
 year: 2011
 author - 1: "[[Thomas Armstrong]]"
 key: "[[@Armstrong2011-wm]]"
 aliases:
-  - The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (published In Hardcover As Neurodiversity)
+  - The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (Published In Hardcover As Neurodiversity)
   - The Power Of Neurodiversity
 publisher: "[[Hachette UK]]"
 type: "[[@book]]"

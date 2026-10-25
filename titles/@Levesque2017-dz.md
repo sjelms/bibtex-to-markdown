@@ -1,5 +1,5 @@
 ---
-title: Common Sense, the Turing Test, and the Quest for Real AI
+title: Common Sense, The Turing Test, And The Quest For Real AI
 year: 2017
 author - 1: "[[Hector J Levesque]]"
 key: "[[@Levesque2017-dz]]"

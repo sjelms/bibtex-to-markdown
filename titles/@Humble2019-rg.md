@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence in Education – A Promise, a Threat or a Hype?
+title: Artificial Intelligence In Education – A Promise, A Threat Or A Hype?
 year: 2019
 author - 1: "[[Niklas Humble]]"
 author - 2: "[[Peter Mozelius]]"

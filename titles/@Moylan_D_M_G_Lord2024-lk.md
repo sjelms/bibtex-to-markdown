@@ -1,5 +1,5 @@
 ---
-title: Letter from The Lord Moylan to Rt Hon. Michael Gove MP, Secretary of State, Department for Levelling Up, Housing and Communities
+title: Letter From The Lord Moylan To Rt Hon. Michael Gove MP, Secretary Of State, Department For Levelling Up, Housing And Communities
 year: 2024
 author - 1: "[[Moylan, D. M. G., Lord]]"
 key: "[[@Moylan_D_M_G_Lord2024-lk]]"

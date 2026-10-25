@@ -1,5 +1,5 @@
 ---
-title: Mapping Knowledge in Work
+title: Mapping Knowledge In Work
 year: 2012
 author - 1: "[[Chris Warhurst]]"
 author - 2: "[[Paul Thompson]]"

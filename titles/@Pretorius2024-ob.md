@@ -1,5 +1,5 @@
 ---
-title: Demystifying Research Paradigms -  Navigating Ontology, Epistemology, and Axiology in Research
+title: Demystifying Research Paradigms - Navigating Ontology, Epistemology, And Axiology In Research
 year: 2024
 author - 1: "[[Lynette Pretorius]]"
 key: "[[@Pretorius2024-ob]]"

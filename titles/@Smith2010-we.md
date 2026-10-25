@@ -1,5 +1,5 @@
 ---
-title: Prefab Architecture A Guide to Modular Design and Construction
+title: Prefab Architecture A Guide To Modular Design And Construction
 year: 2010
 author - 1: "[[Ryan E Smith]]"
 key: "[[@Smith2010-we]]"

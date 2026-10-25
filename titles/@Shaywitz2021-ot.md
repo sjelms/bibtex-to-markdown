@@ -1,5 +1,5 @@
 ---
-title: Big Brains -  New Books on Artificial Intelligence
+title: Big Brains - New Books On Artificial Intelligence
 year: 2021
 author - 1: "[[David Shaywitz]]"
 key: "[[@Shaywitz2021-ot]]"

@@ -1,5 +1,5 @@
 ---
-title: Embodied GHG of missing middle -  Residential building form and strategies for more efficient housing
+title: Embodied GHG Of Missing Middle - Residential Building Form And Strategies For More Efficient Housing
 year: 2024
 author - 1: "[[Keagan Hudson Rankin]]"
 author - 2: "[[Aldrick Arceo]]"

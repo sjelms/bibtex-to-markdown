@@ -1,5 +1,5 @@
 ---
-title: Supporting learning in advanced supply systems in the automotive and aerospace industries
+title: Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries
 year: 2004
 author - 1: "[[Alan Brown]]"
 author - 2: "[[Ed Rhodes]]"

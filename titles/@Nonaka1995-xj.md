@@ -1,5 +1,5 @@
 ---
-title: The Knowledge-Creating Company -  How Japanese Companies Create the Dynamics of Innovation
+title: The Knowledge-Creating Company - How Japanese Companies Create The Dynamics Of Innovation
 year: 1995
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Hirotaka Takeuchi]]"

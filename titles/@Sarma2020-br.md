@@ -1,5 +1,5 @@
 ---
-title: Applying new education technologies to meet workforce education needs
+title: Applying New Education Technologies To Meet Workforce Education Needs
 year: 2020
 author - 1: "[[Sanjay E Sarma]]"
 author - 2: "[[William B Bonvillian]]"

@@ -1,5 +1,5 @@
 ---
-title: A conceptual framework for behaviour-based safety in the digital era
+title: A Conceptual Framework For Behaviour-Based Safety In The Digital Era
 year: 2023
 author - 1: "[[Brian H W Guo]]"
 author - 2: "[[Yang Miang Goh]]"

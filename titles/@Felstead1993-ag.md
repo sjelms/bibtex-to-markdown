@@ -1,5 +1,5 @@
 ---
-title: The Corporate Paradox -  Power and Control in the Business Franchise
+title: The Corporate Paradox - Power And Control In The Business Franchise
 year: 1993
 author - 1: "[[Alan Felstead]]"
 key: "[[@Felstead1993-ag]]"

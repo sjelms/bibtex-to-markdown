@@ -1,5 +1,5 @@
 ---
-title: Generative metaphor -  A perspective on problem-setting in social policy
+title: Generative Metaphor - A Perspective On Problem-Setting In Social Policy
 year: 1993
 author - 1: "[[Donald A Schön]]"
 editor - 1: "[[Andrew Ortony]]"

@@ -1,5 +1,5 @@
 ---
-title: The Structure of the Working Class and its Reserve Armies
+title: The Structure Of The Working Class And Its Reserve Armies
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ur]]"

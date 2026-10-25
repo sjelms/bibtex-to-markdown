@@ -1,5 +1,5 @@
 ---
-title: The Measure of Progress -  Counting What Really Matters
+title: The Measure Of Progress - Counting What Really Matters
 year: 2025
 author - 1: "[[Diane Coyle]]"
 key: "[[@Coyle2025-yv]]"

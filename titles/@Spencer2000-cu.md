@@ -1,5 +1,5 @@
 ---
-title: Braverman and the Contribution of Labour Process Analysis to the Critique of Capitalist Production - Twenty-Five Years on
+title: Braverman And The Contribution Of Labour Process Analysis To The Critique Of Capitalist Production - Twenty-Five Years On
 year: 2000
 author - 1: "[[David A Spencer]]"
 key: "[[@Spencer2000-cu]]"

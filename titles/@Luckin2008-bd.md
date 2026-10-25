@@ -1,5 +1,5 @@
 ---
-title: The learner centric ecology of resources -  A framework for using technology to scaffold learning
+title: The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning
 year: 2008
 author - 1: "[[Rosemary Luckin]]"
 key: "[[@Luckin2008-bd]]"

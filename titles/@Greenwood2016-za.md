@@ -1,5 +1,5 @@
 ---
-title: Comparing Experience Through Visual Behaviour in Physical and Virtual Environments
+title: Comparing Experience Through Visual Behaviour In Physical And Virtual Environments
 year: 2016
 author - 1: "[[David Greenwood]]"
 author - 2: "[[Oliver Jones]]"

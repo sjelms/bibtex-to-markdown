@@ -1,5 +1,5 @@
 ---
-title: Japanese Management Techniques and British Workers
+title: Japanese Management Techniques And British Workers
 year: 1999
 author - 1: "[[Andy Danford]]"
 key: "[[@Danford1999-jn]]"

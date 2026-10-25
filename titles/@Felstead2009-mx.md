@@ -1,5 +1,5 @@
 ---
-title: Mapping the working as learning framework
+title: Mapping The Working As Learning Framework
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

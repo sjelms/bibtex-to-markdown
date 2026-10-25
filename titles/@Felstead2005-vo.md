@@ -1,5 +1,5 @@
 ---
-title: Surveying the scene -  learning metaphors, survey design and the workplace context
+title: Surveying The Scene - Learning Metaphors, Survey Design And The Workplace Context
 year: 2005
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

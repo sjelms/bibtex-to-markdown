@@ -1,5 +1,5 @@
 ---
-title: A Taxonomy of Mixed Reality Visual Displays
+title: A Taxonomy Of Mixed Reality Visual Displays
 year: 1994
 author - 1: "[[Paul Milgram]]"
 author - 2: "[[Fumio Kishino]]"

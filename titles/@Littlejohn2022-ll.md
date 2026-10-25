@@ -1,5 +1,5 @@
 ---
-title: Professional learning analytics -  Understanding complex learning processes through measurement, collection, analysis, and reporting of MOOC data
+title: Professional Learning Analytics - Understanding Complex Learning Processes Through Measurement, Collection, Analysis, And Reporting Of MOOC Data
 year: 2022
 author - 1: "[[Allison Littlejohn]]"
 author - 2: "[[Eileen Kennedy]]"

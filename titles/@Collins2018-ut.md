@@ -1,5 +1,5 @@
 ---
-title: Rethinking Education in the Age of Technology -  The Digital Revolution and Schooling in America
+title: Rethinking Education In The Age Of Technology - The Digital Revolution And Schooling In America
 year: 2018
 author - 1: "[[Allan Collins]]"
 author - 2: "[[Richard Halverson]]"

@@ -1,5 +1,5 @@
 ---
-title: Practice-based theorizing on learning and knowing in organizations
+title: Practice-Based Theorizing On Learning And Knowing In Organizations
 year: 2000
 author - 1: "[[Silvia Gherardi]]"
 key: "[[@Gherardi2000-cg]]"

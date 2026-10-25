@@ -1,5 +1,5 @@
 ---
-title: A Proposed Framework for Construction 4.0 Based on a Review of Literature
+title: A Proposed Framework For Construction 4.0 Based On A Review Of Literature
 year: 2020
 author - 1: "[[Anil Sawhney]]"
 author - 2: "[[Mike Riley]]"

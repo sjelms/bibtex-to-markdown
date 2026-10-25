@@ -1,5 +1,5 @@
 ---
-title: The impact of informal learning at work on business productivity
+title: The Impact Of Informal Learning At Work On Business Productivity
 year: 2003
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[David Ashton]]"

@@ -1,5 +1,5 @@
 ---
-title: Tacit Knowledge and the Economy
+title: Tacit Knowledge And The Economy
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-om]]"

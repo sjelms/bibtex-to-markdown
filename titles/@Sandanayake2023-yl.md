@@ -1,5 +1,5 @@
 ---
-title: Key components of a VR-enabled interactive platform to facilitate effective construction risk and safety education
+title: Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education
 year: 2023
 author - 1: "[[Malindu Sandanayake]]"
 author - 2: "[[Melissa Chan]]"

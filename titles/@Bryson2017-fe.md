@@ -1,5 +1,5 @@
 ---
-title: Disciplinary Perspectives on Skill
+title: Disciplinary Perspectives On Skill
 year: 2017
 author - 1: "[[Jane Bryson]]"
 editor - 1: "[[Chris Warhurst]]"

@@ -1,5 +1,5 @@
 ---
-title: Accreditation and Assessment in Vocational Education and Training
+title: Accreditation And Assessment In Vocational Education And Training
 year: 2017
 author - 1: "[[Gordon Stanley]]"
 editor - 1: "[[Chris Warhurst]]"

@@ -1,5 +1,5 @@
 ---
-title: Toward a skillful psychology
+title: Toward A Skillful Psychology
 year: 1983
 author - 1: "[[Ulric Richard Gustav Neisser]]"
 editor - 1: "[[Don Rogers]]"

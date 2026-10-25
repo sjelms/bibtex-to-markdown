@@ -1,5 +1,5 @@
 ---
-title: The Geography of the Transition from Machinofacture to Scientific Management and Fordism, 1890s–1945
+title: The Geography Of The Transition From Machinofacture To Scientific Management And Fordism, 1890s–1945
 year: 1983
 author - 1: "[[Michael Dunford]]"
 author - 2: "[[Diane Perrons]]"

@@ -1,5 +1,5 @@
 ---
-title: Responsible Autonomy Versus Direct Control Over the Labour Process
+title: Responsible Autonomy Versus Direct Control Over The Labour Process
 year: 1977
 author - 1: "[[Andrew L Friedman]]"
 key: "[[@Friedman1977-xo]]"

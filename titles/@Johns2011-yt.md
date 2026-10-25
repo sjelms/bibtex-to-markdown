@@ -1,5 +1,5 @@
 ---
-title: Needs Analysis, Critical Ethnography -  Perspectives From The Client—and The Consultant
+title: Needs Analysis, Critical Ethnography - Perspectives From The Client—And The Consultant
 year: 2011
 author - 1: "[[Ann Johns]]"
 author - 2: "[[Leketi Makalela]]"

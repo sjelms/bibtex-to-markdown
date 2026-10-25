@@ -1,5 +1,5 @@
 ---
-title: Historical Perspectives in Industrial and Organizational Psychology
+title: Historical Perspectives In Industrial And Organizational Psychology
 year: 2007
 author - 1: "[[Laura L Koppes]]"
 editor - 1: "[[Laura L Koppes]]"

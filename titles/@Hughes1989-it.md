@@ -1,5 +1,5 @@
 ---
-title: American Genesis -  A Century of Invention and Technological Enthusiasm, 1870-1970
+title: American Genesis - A Century Of Invention And Technological Enthusiasm, 1870-1970
 year: 1989
 author - 1: "[[Thomas P Hughes]]"
 key: "[[@Hughes1989-it]]"

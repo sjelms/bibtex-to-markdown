@@ -1,5 +1,5 @@
 ---
-title: Industrial standardisation as a driver for cross-national convergence in training processes -  Aviation apprenticeships in England and Germany
+title: Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes - Aviation Apprenticeships In England And Germany
 year: 2019
 author - 1: "[[Ann Lahiff]]"
 author - 2: "[[Junmin Li]]"

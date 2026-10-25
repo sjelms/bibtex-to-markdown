@@ -1,5 +1,5 @@
 ---
-title: Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi -  “Bracketing” Management Science
+title: Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “Bracketing” Management Science
 year: 2022
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Ichiro Yamaguchi]]"
@@ -8,7 +8,7 @@ editor - 2: "[[Ichiro Yamaguchi]]"
 key: "[[@Nonaka2022-dc]]"
 booktitle: Management by Eidetic Intuition -  A Dynamic Management Theory Predicated on the "Philosophy of Empathy"
 aliases:
-  - Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science
+  - Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “Bracketing” Management Science
   - Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi
 publisher: "[[Springer Singapore]]"
 type: "[[@inbook]]"

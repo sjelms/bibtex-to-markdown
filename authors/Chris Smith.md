@@ -12,7 +12,7 @@ aliases:
 ### Content:
 [[@Evans2023-hm|Written]]
 [[@Smith2015-tx|Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital]]
-[[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
+[[@Smith2024-te|Braverman And Textit Labor And Monopoly Capital]]
 
 #### Bibliography:
 

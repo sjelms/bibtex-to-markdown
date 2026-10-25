@@ -1,5 +1,5 @@
 ---
-title: A Quantitative Analysis of Training Outcomes and Strategies in the Construction Industry
+title: A Quantitative Analysis Of Training Outcomes And Strategies In The Construction Industry
 year: 2008
 author - 1: "[[Yinggang Wang]]"
 editor - 1: "[[Paul M Goodrum]]"

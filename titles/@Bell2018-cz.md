@@ -1,5 +1,5 @@
 ---
-title: Doing Your Research Project -  A Guide for First-time Researchers
+title: Doing Your Research Project - A Guide For First-Time Researchers
 year: 2018
 author - 1: "[[Judith Bell]]"
 author - 2: "[[Stephen Waters]]"

@@ -1,5 +1,5 @@
 ---
-title: Learning from local building cultures to improve housing project sustainability
+title: Learning From Local Building Cultures To Improve Housing Project Sustainability
 year: 2016
 author - 1: "[[Thierry Joffroy]]"
 key: "[[@Joffroy2016-cy]]"

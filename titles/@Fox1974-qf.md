@@ -1,5 +1,5 @@
 ---
-title: Beyond Contract -  Work, Power and Trust Relations
+title: Beyond Contract - Work, Power And Trust Relations
 year: 1974
 author - 1: "[[Alan Fox]]"
 key: "[[@Fox1974-qf]]"

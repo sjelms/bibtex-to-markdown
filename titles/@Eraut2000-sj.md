@@ -1,5 +1,5 @@
 ---
-title: Development of knowledge and skills at work
+title: Development Of Knowledge And Skills At Work
 year: 2000
 author - 1: "[[Michael Eraut]]"
 author - 2: "[[Jane Alderton]]"

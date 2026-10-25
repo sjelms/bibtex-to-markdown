@@ -1,5 +1,5 @@
 ---
-title: A Better Future -  Transforming jobs and skills for young people post-pandemic
+title: A Better Future - Transforming Jobs And Skills For Young People Post-Pandemic
 year: 2021
 author - 1: "[[J Williams]]"
 author - 2: "[[K Alexander]]"

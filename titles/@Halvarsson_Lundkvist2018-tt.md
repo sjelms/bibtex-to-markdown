@@ -1,5 +1,5 @@
 ---
-title: Conditions for Employee Learning and Innovation – Interweaving Competence Development Activities Provided by a Workplace Development Programme with Everyday Work Activities in SMEs
+title: Conditions For Employee Learning And Innovation – Interweaving Competence Development Activities Provided By A Workplace Development Programme With Everyday Work Activities In Smes
 year: 2018
 author - 1: "[[Agneta Halvarsson Lundkvist]]"
 author - 2: "[[Maria Gustavsson]]"

@@ -1,5 +1,5 @@
 ---
-title: Continuity and change in Labor process analysis forty years after Labor and Monopoly Capital
+title: Continuity And Change In Labor Process Analysis Forty Years After Labor And Monopoly Capital
 year: 2015
 author - 1: "[[Chris Smith]]"
 key: "[[@Smith2015-tx]]"

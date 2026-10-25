@@ -1,5 +1,5 @@
 ---
-title: On Reality, Experience, and Truth -  John Watson's Unpublished Notes on John Dewey
+title: On Reality, Experience, And Truth - John Watson's Unpublished Notes On John Dewey
 year: 2026
 author - 1: "[[James Scott Johnston]]"
 author - 2: "[[Sarah Messer]]"

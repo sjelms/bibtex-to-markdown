@@ -1,5 +1,5 @@
 ---
-title: Rethinking Skills Development -  Moving Beyond Competency-Based Training
+title: Rethinking Skills Development - Moving Beyond Competency-Based Training
 year: 2017
 author - 1: "[[Leesa Wheelahan]]"
 editor - 1: "[[Chris Warhurst]]"

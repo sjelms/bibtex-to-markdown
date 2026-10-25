@@ -1,5 +1,5 @@
 ---
-title: An Empirical Study of Employees’ Tacit Knowledge Sharing Behavior
+title: An Empirical Study Of Employees’ Tacit Knowledge Sharing Behavior
 year: 2015
 author - 1: "[[Juanru Wang]]"
 author - 2: "[[Jin Yang]]"

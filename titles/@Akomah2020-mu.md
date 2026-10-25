@@ -1,5 +1,5 @@
 ---
-title: Skilled Labour Shortage in the Building Construction Industry Within the Central Region
+title: Skilled Labour Shortage In The Building Construction Industry Within The Central Region
 year: 2020
 author - 1: "[[Benjamin Boahene Akomah]]"
 author - 2: "[[Laud Kwamina Ahinaquah]]"

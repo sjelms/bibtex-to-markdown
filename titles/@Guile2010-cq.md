@@ -1,5 +1,5 @@
 ---
-title: The Learning Challenge of the Knowledge Economy
+title: The Learning Challenge Of The Knowledge Economy
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-cq]]"

@@ -1,5 +1,5 @@
 ---
-title: Modular Construction -  From Projects to Products
+title: Modular Construction - From Projects To Products
 year: 2019
 author - 1: "[[Nick Bertram]]"
 author - 2: "[[Steffen Fuchs]]"

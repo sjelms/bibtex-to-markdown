@@ -1,5 +1,5 @@
 ---
-title: Small Talk -  10 ADHD Lies and How to Stop Believing Them
+title: Small Talk - 10 ADHD Lies And How To Stop Believing Them
 year: 2024
 author - 1: "[[Richard Pink]]"
 author - 2: "[[Roxanne Pink]]"

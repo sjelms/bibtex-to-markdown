@@ -1,5 +1,5 @@
 ---
-title: Adam Smith and Alexis de Tocqueville on the division of labour
+title: Adam Smith And Alexis De Tocqueville On The Division Of Labour
 year: 2019
 author - 1: "[[Jimena Hurtado]]"
 key: "[[@Hurtado2019-ie]]"

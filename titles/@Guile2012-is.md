@@ -1,5 +1,5 @@
 ---
-title: Working and Learning in The ‘Knowledgebased’ Creative and Cultural Sector
+title: Working And Learning In The ‘Knowledgebased’ Creative And Cultural Sector
 year: 2012
 author - 1: "[[David Guile]]"
 editor - 1: "[[David W Livingstone]]"
@@ -7,7 +7,7 @@ editor - 2: "[[David Guile]]"
 key: "[[@Guile2012-is]]"
 booktitle: The Knowledge Economy and Lifelong Learning -  A Critical Reader
 aliases:
-  - Working And Learning In The ‘knowledgebased’ Creative And Cultural Sector
+  - Working And Learning In The ‘Knowledgebased’ Creative And Cultural Sector
 publisher: "[[SensePublishers]]"
 type: "[[@inbook]]"
 tags:

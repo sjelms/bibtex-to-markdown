@@ -1,5 +1,5 @@
 ---
-title: The Allegorithmic Utopia of Videogame Urbanism
+title: The Allegorithmic Utopia Of Videogame Urbanism
 year: 2021
 author - 1: "[[Sandra Youkhana]]"
 author - 2: "[[Luke Caspar Pearson]]"

@@ -1,5 +1,5 @@
 ---
-title: Comparing training delivery methods -  Impact on learning outcomes and engagement among construction workers
+title: Comparing Training Delivery Methods - Impact On Learning Outcomes And Engagement Among Construction Workers
 year: 2025
 author - 1: "[[Roya Raeisinafchi]]"
 author - 2: "[[Siddharth Bhandari]]"

@@ -1,5 +1,5 @@
 ---
-title: Find Out if Your Job Will Be Automated
+title: Find Out If Your Job Will Be Automated
 year: 2017
 author - 1: "[[Mark Whitehouse]]"
 author - 2: "[[Mira Rojanasakul]]"

@@ -1,5 +1,5 @@
 ---
-title: Conceptualising practice in postmodernity
+title: Conceptualising Practice In Postmodernity
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

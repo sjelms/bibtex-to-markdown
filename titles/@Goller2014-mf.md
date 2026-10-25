@@ -1,5 +1,5 @@
 ---
-title: Employing Agency in Academic Settings -  Doctoral Students Shaping Their Own Experiences
+title: Employing Agency In Academic Settings - Doctoral Students Shaping Their Own Experiences
 year: 2014
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Christian Harteis]]"

@@ -1,5 +1,5 @@
 ---
-title: Using Serious Games in Virtual Reality for Automated Close Call and Contact Collision Analysis in Construction Safety
+title: Using Serious Games In Virtual Reality For Automated Close Call And Contact Collision Analysis In Construction Safety
 year: 2019
 author - 1: "[[Olga Golovina]]"
 author - 2: "[[Caner Kazanci]]"

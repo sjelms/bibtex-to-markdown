@@ -1,5 +1,5 @@
 ---
-title: A grounded theory of construction crisis management
+title: A Grounded Theory Of Construction Crisis Management
 year: 1999
 author - 1: "[[Martin Loosemore]]"
 editor - 1: "[[Vian Ahmed]]"

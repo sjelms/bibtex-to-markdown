@@ -1,5 +1,5 @@
 ---
-title: Getting Ready for Your Research -  Setting the Scene
+title: Getting Ready For Your Research - Setting The Scene
 year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"

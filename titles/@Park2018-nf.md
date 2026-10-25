@@ -1,5 +1,5 @@
 ---
-title: Designing Across Senses -  A Multimodal Approach to Product Design
+title: Designing Across Senses - A Multimodal Approach To Product Design
 year: 2018
 author - 1: "[[Christine W Park]]"
 author - 2: "[[John Alderman]]"

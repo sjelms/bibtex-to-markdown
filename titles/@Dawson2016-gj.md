@@ -1,5 +1,5 @@
 ---
-title: 100 Activities for Teaching Research Methods
+title: 100 Activities For Teaching Research Methods
 year: 2016
 author - 1: "[[Catherine Dawson]]"
 key: "[[@Dawson2016-gj]]"

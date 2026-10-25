@@ -1,5 +1,5 @@
 ---
-title: England’s Co-operative Movement -  An Architectural History
+title: England’s Co-Operative Movement - An Architectural History
 year: 2020
 author - 1: "[[Lynn Pearson]]"
 key: "[[@Pearson2020-je]]"

@@ -1,5 +1,5 @@
 ---
-title: Construction industry offsite production -  A virtual reality interactive training environment prototype
+title: Construction Industry Offsite Production - A Virtual Reality Interactive Training Environment Prototype
 year: 2012
 author - 1: "[[Jack Goulding]]"
 author - 2: "[[Wafaa Nadim]]"

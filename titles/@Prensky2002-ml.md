@@ -1,5 +1,5 @@
 ---
-title: The Motivation of Gameplay -  the Real 21st Century Learning Revolution
+title: The Motivation Of Gameplay - The Real 21st Century Learning Revolution
 year: 2002
 author - 1: "[[Marc Prensky]]"
 key: "[[@Prensky2002-ml]]"

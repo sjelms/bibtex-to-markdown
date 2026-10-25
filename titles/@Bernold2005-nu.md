@@ -1,5 +1,5 @@
 ---
-title: Paradigm Shift in Construction Education is Vital for the Future of Our Profession
+title: Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession
 year: 2005
 author - 1: "[[Leonhard E Bernold]]"
 key: "[[@Bernold2005-nu]]"

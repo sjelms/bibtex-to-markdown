@@ -1,5 +1,5 @@
 ---
-title: Basics of qualitative research -  Techniques and procedures for developing grounded theory
+title: Basics Of Qualitative Research - Techniques And Procedures For Developing Grounded Theory
 year: 2015
 author - 1: "[[Juliet M Corbin]]"
 author - 2: "[[Anselm L Strauss]]"

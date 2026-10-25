@@ -1,5 +1,5 @@
 ---
-title: Offsite Construction in the UK Housing Sector -  Barriers and Challenges
+title: Offsite Construction In The UK Housing Sector - Barriers And Challenges
 year: 2016
 author - 1: "[[Peter Killian]]"
 author - 2: "[[Mohammed Arif]]"

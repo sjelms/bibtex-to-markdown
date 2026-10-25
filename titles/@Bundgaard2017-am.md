@@ -1,5 +1,5 @@
 ---
-title: Constructing Dialogues -  On Architectural Potentials of Montage
+title: Constructing Dialogues - On Architectural Potentials Of Montage
 year: 2017
 author - 1: "[[Charlotte Bundgaard]]"
 editor - 1: "[[Ryan E Smith]]"

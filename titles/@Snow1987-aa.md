@@ -1,5 +1,5 @@
 ---
-title: Aptitude, Learning, and Instruction -  Conative and Affective Process Analyses
+title: Aptitude, Learning, And Instruction - Conative And Affective Process Analyses
 year: 1987
 author - 1: "[[Richard E Snow]]"
 author - 2: "[[Marshall J Farr]]"

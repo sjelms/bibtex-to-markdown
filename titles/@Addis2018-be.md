@@ -1,5 +1,5 @@
 ---
-title: Education and Expertise
+title: Education And Expertise
 year: 2018
 author - 1: "[[Mark Addis]]"
 author - 2: "[[Christopher Winch]]"

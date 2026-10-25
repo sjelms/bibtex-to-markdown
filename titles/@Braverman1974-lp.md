@@ -1,5 +1,5 @@
 ---
-title: A Final Note on Skill
+title: A Final Note On Skill
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-lp]]"

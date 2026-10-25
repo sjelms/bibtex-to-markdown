@@ -1,5 +1,5 @@
 ---
-title: Skill, task discretion, and new technology -  Trends in Britain, 1986-2001
+title: Skill, Task Discretion, And New Technology - Trends In Britain, 1986-2001
 year: 2003
 author - 1: "[[Duncan Gallie]]"
 author - 2: "[[Alan Felstead]]"

@@ -1,5 +1,5 @@
 ---
-title: Computability and Recursion
+title: Computability And Recursion
 year: 1996
 author - 1: "[[Robert I Soare]]"
 key: "[[@Soare1996-ds]]"

@@ -1,5 +1,5 @@
 ---
-title: Design Studio Vol. 2 -  Intelligent Control, Disruptive Technologies
+title: Design Studio Vol. 2 - Intelligent Control, Disruptive Technologies
 year: 2021
 author - 1: "[[Rob Hyde]]"
 author - 2: "[[Filippos Filippidis]]"

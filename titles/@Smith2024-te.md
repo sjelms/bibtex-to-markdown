@@ -1,12 +1,12 @@
 ---
-title: Braverman and textit Labor and Monopoly Capital -  A retrospective
+title: Braverman And Textit Labor And Monopoly Capital - A Retrospective
 year: 2024
 author - 1: "[[Chris Smith]]"
 author - 2: "[[Paul Thompson]]"
 key: "[[@Smith2024-te]]"
 aliases:
-  - Braverman And \textit Labor And Monopoly Capital - A Retrospective
-  - Braverman And \textit Labor And Monopoly Capital
+  - Braverman And Textit Labor And Monopoly Capital - A Retrospective
+  - Braverman And Textit Labor And Monopoly Capital
 journal: "[[Contributions to Political Economy]]"
 publisher: "[[Oxford University Press OUP]]"
 volume: 43

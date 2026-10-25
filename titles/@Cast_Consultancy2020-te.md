@@ -1,5 +1,5 @@
 ---
-title: Modern Methods of Construction (MMC) Definition Summary
+title: Modern Methods Of Construction (MMC) Definition Summary
 year: 2020
 author - 1: "[[Cast Consultancy]]"
 key: "[[@Cast_Consultancy2020-te]]"

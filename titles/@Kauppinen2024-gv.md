@@ -1,5 +1,5 @@
 ---
-title: Systematic Literature Review of Themes and Definitions of Industrialized Construction
+title: Systematic Literature Review Of Themes And Definitions Of Industrialized Construction
 year: 2024
 author - 1: "[[Laura Kauppinen]]"
 author - 2: "[[Petteri Annunen]]"

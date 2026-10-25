@@ -1,5 +1,5 @@
 ---
-title: Personnel training and development
+title: Personnel Training And Development
 year: 1971
 author - 1: "[[John P Campbell]]"
 key: "[[@Campbell1971-dd]]"

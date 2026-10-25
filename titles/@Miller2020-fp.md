@@ -1,5 +1,5 @@
 ---
-title: Fine Margins -  Delivering Financial Sustainability in UK Construction
+title: Fine Margins - Delivering Financial Sustainability In UK Construction
 year: 2020
 author - 1: "[[Tim Miller]]"
 key: "[[@Miller2020-fp]]"

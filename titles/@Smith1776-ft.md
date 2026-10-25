@@ -1,5 +1,5 @@
 ---
-title: Of the Causes of Improvement in the productive Powers of Labour
+title: Of The Causes Of Improvement In The Productive Powers Of Labour
 year: 1776
 author - 1: "[[Adam Smith]]"
 key: "[[@Smith1776-ft]]"

@@ -1,5 +1,5 @@
 ---
-title: Up-Skilling, Resisting, and Re-Keying for Craft Knowledge
+title: Up-Skilling, Resisting, And Re-Keying For Craft Knowledge
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-dj]]"

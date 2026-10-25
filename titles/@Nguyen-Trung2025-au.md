@@ -1,5 +1,5 @@
 ---
-title: ChatGPT in thematic analysis -  Can AI become a research assistant in qualitative research?
+title: Chatgpt In Thematic Analysis - Can AI Become A Research Assistant In Qualitative Research?
 year: 2025
 author - 1: "[[Kien Nguyen-Trung]]"
 key: "[[@Nguyen-Trung2025-au]]"

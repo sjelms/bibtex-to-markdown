@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence in Education
+title: Artificial Intelligence In Education
 year: 2021
 author - 1: "[[Ido Roll]]"
 author - 2: "[[Danielle McNamara]]"

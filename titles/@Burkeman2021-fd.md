@@ -1,5 +1,5 @@
 ---
-title: Four Thousand Weeks -  Time and How to Use It
+title: Four Thousand Weeks - Time And How To Use It
 year: 2021
 author - 1: "[[Oliver Burkeman]]"
 key: "[[@Burkeman2021-fd]]"

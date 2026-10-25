@@ -1,5 +1,5 @@
 ---
-title: Cement and concrete as an engineering material -  An historic appraisal and case study analysis
+title: Cement And Concrete As An Engineering Material - An Historic Appraisal And Case Study Analysis
 year: 2014
 author - 1: "[[Colin R Gagg]]"
 key: "[[@Gagg2014-gf]]"

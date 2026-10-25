@@ -1,5 +1,5 @@
 ---
-title: Leading UK housebuilders' utilization of offsite construction methods
+title: Leading UK Housebuilders' Utilization Of Offsite Construction Methods
 year: 2008
 author - 1: "[[Wei Pan]]"
 author - 2: "[[Alistair G F Gibb]]"

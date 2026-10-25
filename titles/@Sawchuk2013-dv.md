@@ -1,5 +1,5 @@
 ---
-title: Understanding Prevalence, Roots, and Factors of Trajectories of Knowledge Production
+title: Understanding Prevalence, Roots, And Factors Of Trajectories Of Knowledge Production
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-dv]]"

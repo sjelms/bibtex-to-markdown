@@ -1,5 +1,5 @@
 ---
-title: A systematic literature review of AI-driven intelligent tutoring systems in engineering education -  Emphasizing personalization, feedback, and student monitoring
+title: A Systematic Literature Review Of AI-Driven Intelligent Tutoring Systems In Engineering Education - Emphasizing Personalization, Feedback, And Student Monitoring
 year: 2025
 author - 1: "[[Bárbara Rodrigues]]"
 author - 2: "[[Rui Pinto]]"

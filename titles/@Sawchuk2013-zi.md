@@ -1,5 +1,5 @@
 ---
-title: The Skills Impasse and an Activity Approach
+title: The Skills Impasse And An Activity Approach
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-zi]]"

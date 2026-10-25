@@ -1,5 +1,5 @@
 ---
-title: Using case-based methods in construction research with complementarities
+title: Using Case-Based Methods In Construction Research With Complementarities
 year: 2016
 author - 1: "[[Fidelis A Emuze]]"
 editor - 1: "[[Vian Ahmed]]"

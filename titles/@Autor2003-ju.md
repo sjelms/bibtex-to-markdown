@@ -1,5 +1,5 @@
 ---
-title: The Skill Content of Recent Technological Change -  An Empirical Exploration
+title: The Skill Content Of Recent Technological Change - An Empirical Exploration
 year: 2003
 author - 1: "[[David H Autor]]"
 author - 2: "[[Frank Levy]]"

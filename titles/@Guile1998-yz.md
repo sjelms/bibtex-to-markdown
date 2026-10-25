@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship as a conceptual basis for a social theory of learning
+title: Apprenticeship As A Conceptual Basis For A Social Theory Of Learning
 year: 1998
 author - 1: "[[David Guile]]"
 author - 2: "[[Michael Young]]"

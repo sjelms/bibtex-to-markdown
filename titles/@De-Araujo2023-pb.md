@@ -1,5 +1,5 @@
 ---
-title: Is Cross-Laminated Timber (CLT) a Wood Panel, a Building, or a Construction System? A Systematic Review on Its Functions, Characteristics, Performances, and Applications
+title: Is Cross-Laminated Timber (CLT) A Wood Panel, A Building, Or A Construction System? A Systematic Review On Its Functions, Characteristics, Performances, And Applications
 year: 2023
 author - 1: "[[Victor De Araujo]]"
 author - 2: "[[Fabricio Aguiar]]"

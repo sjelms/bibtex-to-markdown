@@ -1,5 +1,5 @@
 ---
-title: America desperately needs 1 million more construction workers
+title: America Desperately Needs 1 Million More Construction Workers
 year: 2021
 author - 1: "[[Vanessa Yurkevich]]"
 key: "[[@Yurkevich2021-mu]]"

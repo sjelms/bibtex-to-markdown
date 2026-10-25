@@ -1,5 +1,5 @@
 ---
-title: January 11, 1962 -  State of the Union Address
+title: January 11, 1962 - State Of The Union Address
 year: 1962
 author - 1: "[[John F Kennedy]]"
 key: "[[@Kennedy1962-th]]"

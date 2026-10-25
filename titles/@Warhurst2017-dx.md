@@ -1,5 +1,5 @@
 ---
-title: A New Social Construction of Skill
+title: A New Social Construction Of Skill
 year: 2017
 author - 1: "[[Chris Warhurst]]"
 author - 2: "[[Chris Tilly]]"

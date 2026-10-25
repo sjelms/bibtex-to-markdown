@@ -1,5 +1,5 @@
 ---
-title: Young talent motivations to pursue craft careers in construction -  The theory of planned behavior
+title: Young Talent Motivations To Pursue Craft Careers In Construction - The Theory Of Planned Behavior
 year: 2020
 author - 1: "[[Farzad Minooei]]"
 author - 2: "[[Paul M Goodrum]]"

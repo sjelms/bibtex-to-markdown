@@ -1,5 +1,5 @@
 ---
-title: Cartesian points visualization in game simulation for analyzing geometric representations of AEC objects in IFC
+title: Cartesian Points Visualization In Game Simulation For Analyzing Geometric Representations Of AEC Objects In IFC
 year: 2019
 author - 1: "[[Jiansong Zhang]]"
 author - 2: "[[Yunfeng Chen]]"

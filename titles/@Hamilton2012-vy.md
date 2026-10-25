@@ -1,5 +1,5 @@
 ---
-title: Using Case Study in Education Research
+title: Using Case Study In Education Research
 year: 2012
 author - 1: "[[Lorna Hamilton]]"
 author - 2: "[[Connie Corbett-Whittier]]"

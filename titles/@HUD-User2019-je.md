@@ -1,5 +1,5 @@
 ---
-title: Factory-built housing for affordability, efficiency, and resilience
+title: Factory-Built Housing For Affordability, Efficiency, And Resilience
 year: 2019
 author - 1: "[[HUD User]]"
 key: "[[@HUD-User2019-je]]"

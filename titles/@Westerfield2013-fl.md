@@ -1,5 +1,5 @@
 ---
-title: Intelligent Augmented Reality Training for Assembly Tasks
+title: Intelligent Augmented Reality Training For Assembly Tasks
 year: 2013
 author - 1: "[[Giles Westerfield]]"
 author - 2: "[[Antonija Mitrovic]]"

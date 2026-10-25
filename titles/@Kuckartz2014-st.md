@@ -1,5 +1,5 @@
 ---
-title: Qualitative Text Analysis -  A Guide to Methods, Practice, and Using Software
+title: Qualitative Text Analysis - A Guide To Methods, Practice, And Using Software
 year: 2014
 author - 1: "[[Udo Kuckartz]]"
 key: "[[@Kuckartz2014-st]]"

@@ -1,5 +1,5 @@
 ---
-title: Work, Self and Society -  After Industrialism
+title: Work, Self And Society - After Industrialism
 year: 1995
 author - 1: "[[Catherine Casey]]"
 key: "[[@Casey1995-nc]]"

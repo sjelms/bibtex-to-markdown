@@ -1,5 +1,5 @@
 ---
-title: Vocational education and the revitalisation of manufacturing in the United States
+title: Vocational Education And The Revitalisation Of Manufacturing In The United States
 year: 2019
 author - 1: "[[Darryn Snell]]"
 key: "[[@Snell2019-ty]]"

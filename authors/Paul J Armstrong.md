@@ -10,7 +10,7 @@ aliases:
 ## Paul J Armstrong
 
 ### Content:
-[[@Armstrong2008-wr|From Bauhaus To M-[h]ouse]]
+[[@Armstrong2008-wr|From Bauhaus To M-[H]ouse]]
 
 #### Bibliography:
 

@@ -1,5 +1,5 @@
 ---
-title: Using Virtual Reality Simulations to Encourage Reflective Learning in Construction Workers
+title: Using Virtual Reality Simulations To Encourage Reflective Learning In Construction Workers
 year: 2020
 author - 1: "[[Eileen Fiala]]"
 author - 2: "[[Markus Jelonek]]"

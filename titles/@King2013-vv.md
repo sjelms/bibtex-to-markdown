@@ -1,5 +1,5 @@
 ---
-title: The Pictor technique -  a method for exploring the experience of collaborative working
+title: The Pictor Technique - A Method For Exploring The Experience Of Collaborative Working
 year: 2013
 author - 1: "[[Nigel King]]"
 author - 2: "[[Alison Bravington]]"

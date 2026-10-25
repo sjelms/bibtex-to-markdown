@@ -1,5 +1,5 @@
 ---
-title: Identifying and Quantifying Personnel Skills Gaps
+title: Identifying And Quantifying Personnel Skills Gaps
 year: 2019
 author - 1: "[[Martin Joseph McKenney]]"
 key: "[[@McKenney2019-qi]]"

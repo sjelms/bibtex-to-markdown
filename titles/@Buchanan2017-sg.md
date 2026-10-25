@@ -1,5 +1,5 @@
 ---
-title: Introduction -  Skills and Training -  Multiple Targets, Shifting Terrain
+title: Introduction - Skills And Training - Multiple Targets, Shifting Terrain
 year: 2017
 author - 1: "[[John Buchanan]]"
 author - 2: "[[David Finegold]]"

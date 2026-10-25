@@ -1,5 +1,5 @@
 ---
-title: Learning from Human Tutoring
+title: Learning From Human Tutoring
 year: 2001
 author - 1: "[[Michelene T H Chi]]"
 author - 2: "[[Stephanie A Siler]]"

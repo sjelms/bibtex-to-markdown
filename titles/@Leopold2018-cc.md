@@ -1,5 +1,5 @@
 ---
-title: The Future of Jobs 2018
+title: The Future Of Jobs 2018
 year: 2018
 author - 1: "[[Till Alexander Leopold]]"
 author - 2: "[[Vesselina Stefanova Ratcheva]]"

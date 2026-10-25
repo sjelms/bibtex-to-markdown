@@ -1,5 +1,5 @@
 ---
-title: Offsite construction skills evolution -  An Australian case study
+title: Offsite Construction Skills Evolution - An Australian Case Study
 year: 2022
 author - 1: "[[Buddhini Ginigaddara]]"
 author - 2: "[[Srinath Perera]]"

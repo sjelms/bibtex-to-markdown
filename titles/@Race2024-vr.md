@@ -1,10 +1,10 @@
 ---
-title: UK 'doesn't have enough builders' for Labour's 1.5m homes
+title: UK 'Doesn't Have Enough Builders' For Labour's 1.5m Homes
 year: 2024
 author - 1: "[[Michael Race]]"
 key: "[[@Race2024-vr]]"
 aliases:
-  - UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes
+  - UK 'Doesn't Have Enough Builders' For Labour's 1.5m Homes
 journal: "[[British Broadcasting Corporation]]"
 type: "[[@misc]]"
 tags:

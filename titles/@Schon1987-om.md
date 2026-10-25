@@ -1,5 +1,5 @@
 ---
-title: Educating The Reflective Practitioner -  Toward A New Design For Teaching And Learning In The Professions
+title: Educating The Reflective Practitioner - Toward A New Design For Teaching And Learning In The Professions
 year: 1987
 author - 1: "[[Donald A Schön]]"
 key: "[[@Schon1987-om]]"

@@ -1,5 +1,5 @@
 ---
-title: John Dewey and Experiential Learning -  Developing the Theory of Youth Work
+title: John Dewey And Experiential Learning - Developing The Theory Of Youth Work
 year: 2012
 author - 1: "[[Jon Ord]]"
 key: "[[@Ord2012-tv]]"

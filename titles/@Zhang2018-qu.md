@@ -1,5 +1,5 @@
 ---
-title: Large-scale 3D printing by a team of mobile robots
+title: Large-Scale 3D Printing By A Team Of Mobile Robots
 year: 2018
 author - 1: "[[Xu Zhang]]"
 author - 2: "[[Mingyang Li]]"

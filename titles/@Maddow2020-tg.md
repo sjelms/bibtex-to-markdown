@@ -1,5 +1,5 @@
 ---
-title: Blowout -  Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth
+title: Blowout - Corrupted Democracy, Rogue State Russia, And The Richest, Most Destructive Industry On Earth
 year: 2020
 author - 1: "[[Rachel Maddow]]"
 key: "[[@Maddow2020-tg]]"

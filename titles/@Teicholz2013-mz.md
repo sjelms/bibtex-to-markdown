@@ -1,11 +1,11 @@
 ---
-title: Labor-Productivity Declines in the Construction Industry -  Causes and Remedies (Another Look)
+title: Labor-Productivity Declines In The Construction Industry - Causes And Remedies (Another Look)
 year: 2013
 author - 1: "[[Paul Teicholz]]"
 key: "[[@Teicholz2013-mz]]"
 booktitle: AECbytes
 aliases:
-  - Labor-Productivity Declines In The Construction Industry - Causes And Remedies (another Look)
+  - Labor-Productivity Declines In The Construction Industry - Causes And Remedies (Another Look)
   - Labor-Productivity Declines In The Construction Industry
 type: "[[@online]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Firm size and workplace learning processes -  a study of the restaurant sector
+title: Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector
 year: 2020
 author - 1: "[[Dan Bishop]]"
 key: "[[@Bishop2020-ox]]"

@@ -1,5 +1,5 @@
 ---
-title: Production Line -  How Sweden Is Pioneering Automated, Prefab Timber Construction
+title: Production Line - How Sweden Is Pioneering Automated, Prefab Timber Construction
 year: 2020
 author - 1: "[[Jack Balderrama Morley]]"
 key: "[[@Morley2020-hs]]"

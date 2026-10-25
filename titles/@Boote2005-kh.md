@@ -1,5 +1,5 @@
 ---
-title: Scholars Before Researchers -  On the Centrality of the Dissertation Literature Review in Research Preparation
+title: Scholars Before Researchers - On The Centrality Of The Dissertation Literature Review In Research Preparation
 year: 2005
 author - 1: "[[David N Boote]]"
 author - 2: "[[Penny Beile]]"

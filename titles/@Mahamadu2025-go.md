@@ -1,5 +1,5 @@
 ---
-title: BCPM0088 -  Integration, Modularisation, and Platforms
+title: BCPM0088 - Integration, Modularisation, And Platforms
 year: 2025
 author - 1: "[[Abdul-Majeed Mahamadu]]"
 key: "[[@Mahamadu2025-go]]"

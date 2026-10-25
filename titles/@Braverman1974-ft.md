@@ -1,5 +1,5 @@
 ---
-title: The Scientific-Technical Revolution and the Worker
+title: The Scientific-Technical Revolution And The Worker
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ft]]"

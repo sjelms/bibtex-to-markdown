@@ -1,5 +1,5 @@
 ---
-title: The limitations and challenges in the assessment of executive dysfunction associated with real-world functioning -  The opportunity of serious games
+title: The Limitations And Challenges In The Assessment Of Executive Dysfunction Associated With Real-World Functioning - The Opportunity Of Serious Games
 year: 2025
 author - 1: "[[David Martínez-Pernía]]"
 author - 2: "[[Loreto Olavarría]]"

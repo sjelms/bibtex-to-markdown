@@ -1,5 +1,5 @@
 ---
-title: Chapter Fourteen - Types of Building Contract Agreements
+title: Chapter Fourteen - Types Of Building Contract Agreements
 year: 2017
 author - 1: "[[Sam Kubba]]"
 editor - 1: "[[Sam Kubba]]"

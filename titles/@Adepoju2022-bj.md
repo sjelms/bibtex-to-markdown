@@ -1,5 +1,5 @@
 ---
-title: Re-skilling Human Resources for Construction 4.0 -  Implications for Industry, Academia and Government
+title: Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government
 year: 2022
 author - 1: "[[Omoseni Oyindamola Adepoju]]"
 author - 2: "[[Clinton Aigbavboa]]"

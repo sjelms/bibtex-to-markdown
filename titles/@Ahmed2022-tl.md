@@ -1,5 +1,5 @@
 ---
-title: Validity and Reliability in Built Environment Research -  A Selection of Case Studies
+title: Validity And Reliability In Built Environment Research - A Selection Of Case Studies
 year: 2022
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"

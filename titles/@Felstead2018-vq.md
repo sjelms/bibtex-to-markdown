@@ -1,5 +1,5 @@
 ---
-title: Productivity in Britain -  The Workers’ Perspective—First Findings from the Skills and Employment Survey 2017
+title: Productivity In Britain - The Workers’ Perspective—First Findings From The Skills And Employment Survey 2017
 year: 2018
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Duncan Gallie]]"

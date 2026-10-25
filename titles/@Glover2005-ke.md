@@ -1,5 +1,5 @@
 ---
-title: Registered apprenticeship training in the US construction industry
+title: Registered Apprenticeship Training In The US Construction Industry
 year: 2005
 author - 1: "[[Robert W Glover]]"
 author - 2: "[[Cihan Bilginsoy]]"

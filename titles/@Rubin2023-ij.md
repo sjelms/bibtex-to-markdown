@@ -1,5 +1,5 @@
 ---
-title: The Creative Act -  A Way of Being
+title: The Creative Act - A Way Of Being
 year: 2023
 author - 1: "[[Rick Rubin]]"
 key: "[[@Rubin2023-ij]]"

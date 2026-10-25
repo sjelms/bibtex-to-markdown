@@ -1,10 +1,10 @@
 ---
-title: Advice for writing a thesis (based on what examiners do)
+title: Advice For Writing A Thesis (Based On What Examiners Do)
 year: 2017
 author - 1: "[[Clinton Golding]]"
 key: "[[@Golding2017-ol]]"
 aliases:
-  - Advice For Writing A Thesis (based On What Examiners Do)
+  - Advice For Writing A Thesis (Based On What Examiners Do)
 journal: "[[Open Review of Educational Research]]"
 publisher: "[[Routledge]]"
 volume: 4

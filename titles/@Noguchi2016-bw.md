@@ -1,5 +1,5 @@
 ---
-title: ZEMCH -  Toward the Delivery of Zero Energy Mass Custom Homes
+title: ZEMCH - Toward The Delivery Of Zero Energy Mass Custom Homes
 year: 2016
 author - 1: "[[Masa Noguchi]]"
 editor - 1: "[[Masa Noguchi]]"

@@ -1,5 +1,5 @@
 ---
-title: Critical conversations as a tool for students' tacit knowledge construction -  An interpretive research in interior design studio interactions
+title: Critical Conversations As A Tool For Students' Tacit Knowledge Construction - An Interpretive Research In Interior Design Studio Interactions
 year: 2021
 author - 1: "[[Aruna Venkatesh]]"
 author - 2: "[[Henry Ma]]"

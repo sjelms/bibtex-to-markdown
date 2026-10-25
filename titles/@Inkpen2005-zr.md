@@ -1,5 +1,5 @@
 ---
-title: Learning Through Alliances -  General Motors and NUMMI
+title: Learning Through Alliances - General Motors And NUMMI
 year: 2005
 author - 1: "[[Andrew C Inkpen]]"
 key: "[[@Inkpen2005-zr]]"

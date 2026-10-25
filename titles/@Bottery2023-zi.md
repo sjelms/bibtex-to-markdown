@@ -1,5 +1,5 @@
 ---
-title: Writing a Watertight Thesis -  Structure, Demystification and Defence
+title: Writing A Watertight Thesis - Structure, Demystification And Defence
 year: 2023
 author - 1: "[[Mike Bottery]]"
 author - 2: "[[Nigel Wright]]"

@@ -1,5 +1,5 @@
 ---
-title: The Labour Process Debate -  A Theoretical Review 1974–88
+title: The Labour Process Debate - A Theoretical Review 1974–88
 year: 1990
 author - 1: "[[Craig R Littler]]"
 editor - 1: "[[David Knights]]"

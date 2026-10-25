@@ -1,5 +1,5 @@
 ---
-title: A Brief History of the American Public School -  A Genetic Study of Principles, Practices, and Present Problems
+title: A Brief History Of The American Public School - A Genetic Study Of Principles, Practices, And Present Problems
 year: 1921
 author - 1: "[[Ross Lee Finney]]"
 editor - 1: "[[William Chandler Bagley]]"

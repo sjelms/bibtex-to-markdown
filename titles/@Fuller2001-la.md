@@ -1,5 +1,5 @@
 ---
-title: Credentialism, Adults and Part-time Higher Education in the United Kingdom -  An Account of Rising Take Up and Some Implications for Policy
+title: Credentialism, Adults And Part-Time Higher Education In The United Kingdom - An Account Of Rising Take Up And Some Implications For Policy
 year: 2001
 author - 1: "[[Alison Fuller]]"
 key: "[[@Fuller2001-la]]"

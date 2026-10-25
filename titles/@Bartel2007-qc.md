@@ -1,5 +1,5 @@
 ---
-title: How does information technology affect productivity? Plant-level comparisons of product innovation, process improvement, and worker skills
+title: How Does Information Technology Affect Productivity? Plant-Level Comparisons Of Product Innovation, Process Improvement, And Worker Skills
 year: 2007
 author - 1: "[[Ann P Bartel]]"
 author - 2: "[[Casey Ichniowski]]"

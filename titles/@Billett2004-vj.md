@@ -1,5 +1,5 @@
 ---
-title: Learning Through Work -  Workplace Participatory Practices
+title: Learning Through Work - Workplace Participatory Practices
 year: 2004
 author - 1: "[[Stephen Billett]]"
 editor - 1: "[[Alison Fuller]]"

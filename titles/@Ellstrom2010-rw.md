@@ -1,5 +1,5 @@
 ---
-title: Practice‐based innovation -  a learning perspective
+title: Practice‐based Innovation - A Learning Perspective
 year: 2010
 author - 1: "[[Per-Erik Ellström]]"
 editor - 1: "[[Sara Cervai]]"

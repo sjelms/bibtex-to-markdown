@@ -1,5 +1,5 @@
 ---
-title: An Exploratory Study of Factory-Built Homes and Their Implications for Affordability -  Final Report
+title: An Exploratory Study Of Factory-Built Homes And Their Implications For Affordability - Final Report
 year: 2022
 author - 1: "[[James Murdoch]]"
 author - 2: "[[Hiren Nisar]]"

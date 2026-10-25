@@ -1,5 +1,5 @@
 ---
-title: The City of Tomorrow, Today
+title: The City Of Tomorrow, Today
 year: 2021
 author - 1: "[[Courtney Kaye Rawlings]]"
 key: "[[@Rawlings2021-tt]]"

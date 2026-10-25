@@ -1,5 +1,5 @@
 ---
-title: Construction Forecast to Fall by Nearly 4% Next Year
+title: Construction Forecast To Fall By Nearly 4% Next Year
 year: 2022
 author - 1: "[[Aaron Morby]]"
 key: "[[@Morby2022-bu]]"

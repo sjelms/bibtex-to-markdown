@@ -1,5 +1,5 @@
 ---
-title: Shaping the Future of Construction Professionals
+title: Shaping The Future Of Construction Professionals
 year: 2022
 author - 1: "[[Marzia Bolpagni]]"
 author - 2: "[[Rui Gavina]]"

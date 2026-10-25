@@ -1,5 +1,5 @@
 ---
-title: Research Methods for the Architectural Profession
+title: Research Methods For The Architectural Profession
 year: 2021
 author - 1: "[[Ajla Aksamija]]"
 key: "[[@Aksamija2021-xl]]"

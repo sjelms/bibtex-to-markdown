@@ -1,5 +1,5 @@
 ---
-title: Faster, Smarter, More Efficient -  Building Skills for Offsite Construction
+title: Faster, Smarter, More Efficient - Building Skills For Offsite Construction
 year: 2017
 author - 1: "[[Jennifer Brennan]]"
 author - 2: "[[Clare Vokes]]"

@@ -1,5 +1,5 @@
 ---
-title: The Element -  How finding your passion changes everything
+title: The Element - How Finding Your Passion Changes Everything
 year: 2009
 author - 1: "[[Ken Robinson]]"
 author - 2: "[[Lou Aronica]]"

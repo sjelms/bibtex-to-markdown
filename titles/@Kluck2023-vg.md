@@ -1,5 +1,5 @@
 ---
-title: Modularization -  The Fine Art of Offsite Preassembly for Capital Projects
+title: Modularization - The Fine Art Of Offsite Preassembly For Capital Projects
 year: 2023
 author - 1: "[[Michael Kluck]]"
 author - 2: "[[Jin Ouk Choi]]"

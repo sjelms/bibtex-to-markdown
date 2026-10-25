@@ -1,5 +1,5 @@
 ---
-title: Taxonomic definitions in social science, with firms, markets and institutions as case studies
+title: Taxonomic Definitions In Social Science, With Firms, Markets And Institutions As Case Studies
 year: 2019
 author - 1: "[[Geoffrey M Hodgson]]"
 key: "[[@Hodgson2019-vu]]"

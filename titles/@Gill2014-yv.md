@@ -1,5 +1,5 @@
 ---
-title: Shadowing in/as Work -  Ten Recommendations for Shadowing Fieldwork Practice
+title: Shadowing In/as Work - Ten Recommendations For Shadowing Fieldwork Practice
 year: 2014
 author - 1: "[[Rebecca Gill]]"
 author - 2: "[[Joshua B Barbour]]"

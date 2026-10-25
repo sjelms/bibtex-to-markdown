@@ -1,5 +1,5 @@
 ---
-title: Offsite Construction in Sweden -  From Technology-driven to Integrated Processes
+title: Offsite Construction In Sweden - From Technology-Driven To Integrated Processes
 year: 2017
 author - 1: "[[Helena Lidelöw]]"
 editor - 1: "[[Ryan E Smith]]"

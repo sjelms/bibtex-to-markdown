@@ -1,5 +1,5 @@
 ---
-title: Out of Our Minds -  The Power of Being Creative
+title: Out Of Our Minds - The Power Of Being Creative
 year: 2017
 author - 1: "[[Ken Robinson]]"
 key: "[[@Robinson2017-sf]]"

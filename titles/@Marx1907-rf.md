@@ -1,5 +1,5 @@
 ---
-title: Capital -  A Critique of Political Economy; The Process of Circulation of Capital
+title: Capital - A Critique Of Political Economy; The Process Of Circulation Of Capital
 year: 1907
 author - 1: "[[Karl Marx]]"
 editor - 1: "[[Frederick Engels]]"

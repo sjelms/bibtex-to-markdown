@@ -1,5 +1,5 @@
 ---
-title: Rapid Ethnographies -  A Practical Guide
+title: Rapid Ethnographies - A Practical Guide
 year: 2021
 author - 1: "[[Cecilia Vindrola-Padros]]"
 key: "[[@Vindrola-Padros2021-by]]"

@@ -1,5 +1,5 @@
 ---
-title: An introduction to ethics in robotics and AI
+title: An Introduction To Ethics In Robotics And AI
 year: 2020
 author - 1: "[[Christoph Bartneck]]"
 author - 2: "[[Christoph Lütge]]"

@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -15,12 +15,12 @@ amended: 2026-10-25T07:25:32
 - [[@Udomdech2021-pk|Project-Based Innovation Learning Mechanisms In The Built Environment]]
 ### 2020
 - [[@Almadhoob2020-yc|Self-Organising Networks In Complex Infrastructure Projects - The Case Of London Bank Station Capacity Upgrade Project]]
-- [[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma) - Reframing The Design-Production Relationship In Industrialised Construction]]
+- [[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (Bdfma) - Reframing The Design-Production Relationship In Industrialised Construction]]
 ## 2010-2019
 ### 2019
 - [[@Vermeer2019-xk|Collective Learning In Strategic Public-Private Partnership (PPP) Procurement Systems For Social Infrastructure]]
 - [[@Abd-Razak2019-gx|A Strategic Approach To Failure Mitigation - A Study Of Project And Quality Management In Five Projects]]
-- [[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
+- [[@Derrick2019-fu|Learning, Innovation And ‘Tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors]]
 - [[@Jones2019-ks|A Framework For Assessing Interventions To Promote The Implementation Of Material Innovations On Construction Projects]]
 - [[@McKenney2019-qi|Identifying And Quantifying Personnel Skills Gaps]]
 - [[@Addyman2019-kn|The Timing Of Patterning Or The Patterning Of Timing? Organisational Routines In Temporary Organisations]]

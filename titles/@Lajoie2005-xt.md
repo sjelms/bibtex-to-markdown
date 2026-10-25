@@ -1,5 +1,5 @@
 ---
-title: Extending the Scaffolding Metaphor
+title: Extending The Scaffolding Metaphor
 year: 2005
 author - 1: "[[Susanne P Lajoie]]"
 key: "[[@Lajoie2005-xt]]"

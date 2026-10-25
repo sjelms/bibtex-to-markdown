@@ -1,5 +1,5 @@
 ---
-title: Technology Acceptance of Augmented Reality and Wearable Technologies
+title: Technology Acceptance Of Augmented Reality And Wearable Technologies
 year: 2017
 author - 1: "[[Fridolin Wild]]"
 author - 2: "[[Roland Klemke]]"

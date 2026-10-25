@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence -  A Modern Approach
+title: Artificial Intelligence - A Modern Approach
 year: 2021
 author - 1: "[[Stuart J Russell]]"
 author - 2: "[[Peter Norvig]]"

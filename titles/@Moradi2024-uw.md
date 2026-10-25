@@ -1,5 +1,5 @@
 ---
-title: Routledge Handbook of Collaboration in Construction
+title: Routledge Handbook Of Collaboration In Construction
 year: 2024
 author - 1: "[[Sina Moradi]]"
 author - 2: "[[Kalle Kähkönen]]"

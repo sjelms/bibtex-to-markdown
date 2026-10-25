@@ -1,5 +1,5 @@
 ---
-title: The Anti-Planner -  How to get sh*t done when you don't feel like it
+title: The Anti-Planner - How To Get Sh*t Done When You Don't Feel Like It
 year: 2022
 author - 1: "[[Dani Donovan]]"
 key: "[[@Donovan2022-wg]]"

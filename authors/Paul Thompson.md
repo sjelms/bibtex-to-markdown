@@ -11,8 +11,8 @@ aliases:
 
 ### Content:
 [[@Ackroyd2006-di|The Oxford Handbook Of Work And Organization]]
-[[@Baldry1998-ba|‘bright Satanic Offices’]]
-[[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
+[[@Baldry1998-ba|‘Bright Satanic Offices’]]
+[[@Barley2006-mr|What We Know (And Mostly Don't Know) About Technical Work]]
 [[@Batt2006-sj|Groups, Teams, And The Division Of Labor]]
 [[@Beirne1998-sy|Developments In Computing Work]]
 [[@Crouch2006-di|Skill Formation Systems]]
@@ -20,8 +20,8 @@ aliases:
 [[@Greenbaum1998-ih|The Times They Are A'changing]]
 [[@McKinlay2006-lc|Knowledge Management]]
 [[@Milkman1998-oe|The New American Workplace]]
-[[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’]]
-[[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
+[[@Mulholland1998-xn|‘Survivors’ Versus ‘Movers And Shakers’]]
+[[@Smith2024-te|Braverman And Textit Labor And Monopoly Capital]]
 [[@Thompson1983-rm|The Nature Of Work]]
 [[@Thompson1990-sl|Work Organisations]]
 [[@Thompson1998-mr|Workplaces Of The Future]]

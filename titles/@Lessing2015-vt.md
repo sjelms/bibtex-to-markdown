@@ -1,5 +1,5 @@
 ---
-title: Industrialised house-building -  Conceptual orientation and strategic perspectives
+title: Industrialised House-Building - Conceptual Orientation And Strategic Perspectives
 year: 2015
 author - 1: "[[Jerker Lessing]]"
 key: "[[@Lessing2015-vt]]"

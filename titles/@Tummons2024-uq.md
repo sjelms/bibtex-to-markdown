@@ -1,5 +1,5 @@
 ---
-title: Learning, instruction and assessment in the workplace -  applying and augmenting Communities of Practice theory
+title: Learning, Instruction And Assessment In The Workplace - Applying And Augmenting Communities Of Practice Theory
 year: 2024
 author - 1: "[[Jonathan Tummons]]"
 key: "[[@Tummons2024-uq]]"

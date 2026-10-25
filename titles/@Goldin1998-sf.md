@@ -1,5 +1,5 @@
 ---
-title: The Origins of Technology-Skill Complementarity
+title: The Origins Of Technology-Skill Complementarity
 year: 1998
 author - 1: "[[Claudia Goldin]]"
 author - 2: "[[Lawrence F Katz]]"

@@ -1,5 +1,5 @@
 ---
-title: Working -  People Talk About What They Do All Day and How They Feel About What They Do
+title: Working - People Talk About What They Do All Day And How They Feel About What They Do
 year: 1972
 author - 1: "[[Studs Terkel]]"
 key: "[[@Terkel1972-sg]]"

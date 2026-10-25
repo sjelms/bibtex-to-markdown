@@ -1,5 +1,5 @@
 ---
-title: Rediscovering Learning -  Acquiring Expertise in Real World Problem Solving Tasks
+title: Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks
 year: 1998
 author - 1: "[[Sherrie P Gott]]"
 author - 2: "[[Armstrong Laboratory Air Force Materiel Command]]"

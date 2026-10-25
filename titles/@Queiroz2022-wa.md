@@ -1,5 +1,5 @@
 ---
-title: Do students learn better with immersive virtual reality videos than conventional videos? A comparison of media effects with middle school girls
+title: Do Students Learn Better With Immersive Virtual Reality Videos Than Conventional Videos? A Comparison Of Media Effects With Middle School Girls
 year: 2022
 author - 1: "[[Anna Carolina M Queiroz]]"
 author - 2: "[[Géraldine Fauville]]"

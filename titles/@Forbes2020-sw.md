@@ -1,5 +1,5 @@
 ---
-title: Lean Project Delivery and Integrated Practices in Modern Construction
+title: Lean Project Delivery And Integrated Practices In Modern Construction
 year: 2020
 author - 1: "[[Lincoln H Forbes]]"
 author - 2: "[[Syed M Ahmed]]"

@@ -10,7 +10,7 @@ aliases:
 ## Brian Potter
 
 ### Content:
-[[@Potter2021-os|WW2 Era Mass-Produced Housing (part 1)]]
+[[@Potter2021-os|WW2 Era Mass-Produced Housing (Part 1)]]
 
 #### Bibliography:
 

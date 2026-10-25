@@ -1,5 +1,5 @@
 ---
-title: Praxis -  Working to Learn, Learning to Work
+title: Praxis - Working To Learn, Learning To Work
 year: 2011
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

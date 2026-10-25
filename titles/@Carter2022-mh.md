@@ -1,11 +1,11 @@
 ---
-title: The continuing value of harry Braverman’s textit Labor and Monopoly Capital
+title: The Continuing Value Of Harry Braverman’s Textit Labor And Monopoly Capital
 year: 2022
 author - 1: "[[Bob Carter]]"
 author - 2: "[[Joseph Choonara]]"
 key: "[[@Carter2022-mh]]"
 aliases:
-  - The Continuing Value Of Harry Braverman’s \textit Labor And Monopoly Capital
+  - The Continuing Value Of Harry Braverman’s Textit Labor And Monopoly Capital
 journal: "[[Historical Studies in Industrial Relations]]"
 publisher: "[[Liverpool University Press]]"
 volume: 43

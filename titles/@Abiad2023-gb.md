@@ -1,5 +1,5 @@
 ---
-title: How to Write Your PhD Thesis -  The Easy Handbook
+title: How To Write Your Phd Thesis - The Easy Handbook
 year: 2023
 author - 1: "[[Zouhour Abiad]]"
 author - 2: "[[Hani El-Chaarani]]"

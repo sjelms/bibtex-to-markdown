@@ -1,5 +1,5 @@
 ---
-title: The role of artificial intelligence in learning and professional development for healthcare professionals
+title: The Role Of Artificial Intelligence In Learning And Professional Development For Healthcare Professionals
 year: 2019
 author - 1: "[[Gurprit K Randhawa]]"
 author - 2: "[[Mary Jackson]]"

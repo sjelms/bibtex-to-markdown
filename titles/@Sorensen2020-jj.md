@@ -1,5 +1,5 @@
 ---
-title: What Is the Fourth Industrial Revolution?
+title: What Is The Fourth Industrial Revolution?
 year: 2020
 author - 1: "[[Peter Sorensen]]"
 key: "[[@Sorensen2020-jj]]"

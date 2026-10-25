@@ -1,5 +1,5 @@
 ---
-title: Co‐Participation -  Affordance and engagement at work
+title: Co‐participation - Affordance And Engagement At Work
 year: 2001
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2001-zt]]"

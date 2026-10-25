@@ -1,5 +1,5 @@
 ---
-title: Power and Progress -  Our Thousand-Year Struggle Over Technology and Prosperity
+title: Power And Progress - Our Thousand-Year Struggle Over Technology And Prosperity
 year: 2023
 author - 1: "[[Simon Johnson]]"
 author - 2: "[[Daron Acemoglu]]"

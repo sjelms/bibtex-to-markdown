@@ -1,5 +1,5 @@
 ---
-title: The next decade of disruption in education? Unlocking networks
+title: The Next Decade Of Disruption In Education? Unlocking Networks
 year: 2020
 author - 1: "[[Julia Freeland Fisher]]"
 key: "[[@Fisher2020-nl]]"

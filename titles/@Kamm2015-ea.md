@@ -1,5 +1,5 @@
 ---
-title: The Skills Initiative -  Expanding Apprenticeship in the U.S. - Lessons from the German Dual Education System
+title: The Skills Initiative - Expanding Apprenticeship In The U.s. - Lessons From The German Dual Education System
 year: 2015
 author - 1: "[[Bryan Kamm]]"
 author - 2: "[[Robert I Lerman]]"

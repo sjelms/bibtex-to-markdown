@@ -1,5 +1,5 @@
 ---
-title: A behavioral interpretation of Vygotsky's theory of thought, language, and culture
+title: A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture
 year: 2000
 author - 1: "[[Eric O Burkholder]]"
 author - 2: "[[Martha Peláez]]"

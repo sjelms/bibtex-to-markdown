@@ -1,5 +1,5 @@
 ---
-title: Delivering construction safety training and education using immersive learning technology
+title: Delivering Construction Safety Training And Education Using Immersive Learning Technology
 year: 2023
 author - 1: "[[Minh Tri Trinh]]"
 author - 2: "[[Peng Zhang]]"

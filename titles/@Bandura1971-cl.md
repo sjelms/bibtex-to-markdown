@@ -1,5 +1,5 @@
 ---
-title: Psychological Modeling -  Conflicting Theories
+title: Psychological Modeling - Conflicting Theories
 year: 1971
 author - 1: "[[Albert Bandura]]"
 key: "[[@Bandura1971-cl]]"

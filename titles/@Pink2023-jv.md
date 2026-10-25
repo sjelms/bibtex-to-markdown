@@ -1,5 +1,5 @@
 ---
-title: Dirty Laundry -  Why Adults With ADHD Are So Ashamed and What We Can Do to Help
+title: Dirty Laundry - Why Adults With ADHD Are So Ashamed And What We Can Do To Help
 year: 2023
 author - 1: "[[Richard Pink]]"
 author - 2: "[[Roxanne Emery]]"

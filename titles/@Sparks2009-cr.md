@@ -1,5 +1,5 @@
 ---
-title: Advanced Entry Adult Apprenticeship Training Scheme -  A Case Study
+title: Advanced Entry Adult Apprenticeship Training Scheme - A Case Study
 year: 2009
 author - 1: "[[Alan Sparks]]"
 author - 2: "[[Hadyn Ingram]]"

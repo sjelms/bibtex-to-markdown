@@ -1,5 +1,5 @@
 ---
-title: Australian prison vocational education and training and returns to custody among male and female ex-prisoners -  A cross-jurisdictional study
+title: Australian Prison Vocational Education And Training And Returns To Custody Among Male And Female Ex-Prisoners - A Cross-Jurisdictional Study
 year: 2019
 author - 1: "[[Jesse Cale]]"
 author - 2: "[[Andrew Day]]"

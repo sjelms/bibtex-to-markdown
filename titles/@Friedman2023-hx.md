@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of Innovative Sustainable Homes Design and Construction
+title: Fundamentals Of Innovative Sustainable Homes Design And Construction
 year: 2023
 author - 1: "[[Avi Friedman]]"
 key: "[[@Friedman2023-hx]]"

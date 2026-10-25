@@ -1,5 +1,5 @@
 ---
-title: UX for XR -  User Experience Design and Strategies for Immersive Technologies
+title: UX For XR - User Experience Design And Strategies For Immersive Technologies
 year: 2021
 author - 1: "[[Cornel Hillmann]]"
 key: "[[@Hillmann2021-wr]]"

@@ -1,5 +1,5 @@
 ---
-title: Informal Learning in Vocational Education and Training -  Illuminating an Elusive Concept
+title: Informal Learning In Vocational Education And Training - Illuminating An Elusive Concept
 year: 2024
 author - 1: "[[Matthias Pilz]]"
 editor - 1: "[[Matthias Pilz]]"

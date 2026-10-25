@@ -1,5 +1,5 @@
 ---
-title: Experimenting with the New European Bauhaus Values and Principles in Urban Transformation
+title: Experimenting With The New European Bauhaus Values And Principles In Urban Transformation
 year: 2024
 author - 1: "[[Alessandro Deserti]]"
 author - 2: "[[Emma Puerari]]"

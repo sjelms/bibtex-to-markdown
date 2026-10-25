@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence -  A Guide for Thinking Humans
+title: Artificial Intelligence - A Guide For Thinking Humans
 year: 2019
 author - 1: "[[Melanie Mitchell]]"
 key: "[[@Mitchell2019-zu]]"

@@ -1,5 +1,5 @@
 ---
-title: Ideology at work -  reconsidering ideology, the labour process and workplace resistance
+title: Ideology At Work - Reconsidering Ideology, The Labour Process And Workplace Resistance
 year: 2017
 author - 1: "[[Anthony Lloyd]]"
 key: "[[@Lloyd2017-ls]]"

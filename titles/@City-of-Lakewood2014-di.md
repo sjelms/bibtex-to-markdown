@@ -1,5 +1,5 @@
 ---
-title: The Lakewood Story -  City of Tomorrow
+title: The Lakewood Story - City Of Tomorrow
 year: 2014
 author - 1: "[[City of Lakewood]]"
 key: "[[@City-of-Lakewood2014-di]]"

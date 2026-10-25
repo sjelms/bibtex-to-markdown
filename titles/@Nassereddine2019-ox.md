@@ -1,5 +1,5 @@
 ---
-title: Augmented reality-enabled production strategy process
+title: Augmented Reality-Enabled Production Strategy Process
 year: 2019
 author - 1: "[[Hala Nassereddine]]"
 author - 2: "[[Dharmaraj Veeramani]]"

@@ -1,5 +1,5 @@
 ---
-title: Discourses on Learning in Education -  Making Sense of a Landscape of Difference
+title: Discourses On Learning In Education - Making Sense Of A Landscape Of Difference
 year: 2021
 author - 1: "[[Brent Davis]]"
 author - 2: "[[Krista Francis]]"

@@ -1,5 +1,5 @@
 ---
-title: Revisiting Adam Smith and the Division of Labor -  New Evidence from U.S. Occupational Data
+title: Revisiting Adam Smith And The Division Of Labor - New Evidence From U.s. Occupational Data
 year: 2026
 author - 1: "[[Nicholas A Carollo]]"
 author - 2: "[[Elior D Cohen]]"

@@ -1,5 +1,5 @@
 ---
-title: Understanding Taylorism -  Some Comments
+title: Understanding Taylorism - Some Comments
 year: 1978
 author - 1: "[[John E Kelly]]"
 key: "[[@Kelly1978-wg]]"

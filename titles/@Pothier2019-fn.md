@@ -1,5 +1,5 @@
 ---
-title: Industrialized Construction in Academia
+title: Industrialized Construction In Academia
 year: 2019
 author - 1: "[[Debra Pothier]]"
 author - 2: "[[Anil Sawhney]]"

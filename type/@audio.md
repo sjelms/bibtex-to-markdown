@@ -1,6 +1,6 @@
 ---
 type: "[[@audio]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -12,4 +12,4 @@ amended: 2026-10-25T07:25:32
 ### 2024
 - [[@Watson2024-vl|Wind River Built's Mission To Bring Back The Starter Home In Style With Modular Home Construction]]
 ### 2023
-- [[@Dubner2023-jy|Why Is It So Hard (and Expensive) To Build Anything In America?]]
+- [[@Dubner2023-jy|Why Is It So Hard (And Expensive) To Build Anything In America?]]

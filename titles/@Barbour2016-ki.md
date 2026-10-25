@@ -1,5 +1,5 @@
 ---
-title: Technical, Arcane, Interpersonal, and Embodied Expertise
+title: Technical, Arcane, Interpersonal, And Embodied Expertise
 year: 2016
 author - 1: "[[Joshua B Barbour]]"
 author - 2: "[[Paul A Sommer]]"

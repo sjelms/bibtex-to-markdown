@@ -1,5 +1,5 @@
 ---
-title: Can 3D-Printed Homes Withstand a Changing Climate?
+title: Can 3D-Printed Homes Withstand A Changing Climate?
 year: 2023
 author - 1: "[[Lesley Stahl]]"
 key: "[[@Stahl2023-dx]]"

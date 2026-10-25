@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence and Tutoring Systems -  Computational and Cognitive Approaches to the Communication of Knowledge
+title: Artificial Intelligence And Tutoring Systems - Computational And Cognitive Approaches To The Communication Of Knowledge
 year: 1987
 author - 1: "[[Étienne Wenger]]"
 key: "[[@Wenger1987-xp]]"

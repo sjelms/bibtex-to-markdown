@@ -1,5 +1,5 @@
 ---
-title: The Great Transformation -  The Political and Economic Origins of Our Time
+title: The Great Transformation - The Political And Economic Origins Of Our Time
 year: 1944
 author - 1: "[[Karl Polanyi]]"
 key: "[[@Polanyi1944-bv]]"

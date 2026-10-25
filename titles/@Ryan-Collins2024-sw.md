@@ -1,5 +1,5 @@
 ---
-title: The demand for housing as an investment -  Drivers, outcomes and policy interventions to enhance housing affordability in the UK
+title: The Demand For Housing As An Investment - Drivers, Outcomes And Policy Interventions To Enhance Housing Affordability In The UK
 year: 2024
 author - 1: "[[Josh Ryan-Collins]]"
 key: "[[@Ryan-Collins2024-sw]]"

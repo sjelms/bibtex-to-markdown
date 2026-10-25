@@ -1,5 +1,5 @@
 ---
-title: Industrial Renewal in the 21st Century -  Evidence From US Cities
+title: Industrial Renewal In The 21st Century - Evidence From US Cities
 year: 2017
 author - 1: "[[Thor Berger]]"
 author - 2: "[[Carl Benedikt Frey]]"

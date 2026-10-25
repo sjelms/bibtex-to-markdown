@@ -1,5 +1,5 @@
 ---
-title: January 2023 jobs report -  More strong, steady growth
+title: January 2023 Jobs Report - More Strong, Steady Growth
 year: 2023
 author - 1: "[[Bureau of Labor Statistics]]"
 key: "[[@Bureau-of-Labor-Statistics2023-zb]]"

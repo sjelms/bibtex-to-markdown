@@ -1,5 +1,5 @@
 ---
-title: Superfreakonomics -  Global Cooling, Patriotic Prostitutes and Why Suicide Bombers Should Buy Life Insurance
+title: Superfreakonomics - Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance
 year: 2010
 author - 1: "[[Stephen J Dubner]]"
 author - 2: "[[Steven D Levitt]]"

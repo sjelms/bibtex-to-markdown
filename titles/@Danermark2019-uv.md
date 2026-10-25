@@ -1,5 +1,5 @@
 ---
-title: Explaining Society -  Critical Realism in the Social Sciences
+title: Explaining Society - Critical Realism In The Social Sciences
 year: 2019
 author - 1: "[[Berth Danermark]]"
 author - 2: "[[Mats Ekström]]"

@@ -1,5 +1,5 @@
 ---
-title: Situating Learning in the Workplace – Having Another Look at Apprenticeships
+title: Situating Learning In The Workplace – Having Another Look At Apprenticeships
 year: 1994
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett1994-nl]]"

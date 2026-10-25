@@ -1,5 +1,5 @@
 ---
-title: Broadening conceptions of learning in medical education -  the message from teamworking
+title: Broadening Conceptions Of Learning In Medical Education - The Message From Teamworking
 year: 2006
 author - 1: "[[Alan Bleakley]]"
 key: "[[@Bleakley2006-zo]]"

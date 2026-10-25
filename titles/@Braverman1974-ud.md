@@ -1,5 +1,5 @@
 ---
-title: Further Effects of Management and Technology on the Distribution of Labor
+title: Further Effects Of Management And Technology On The Distribution Of Labor
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ud]]"

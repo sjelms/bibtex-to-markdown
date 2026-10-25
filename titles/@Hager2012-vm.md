@@ -1,5 +1,5 @@
 ---
-title: Practice as a Key Idea in Understanding Work-Based Learning
+title: Practice As A Key Idea In Understanding Work-Based Learning
 year: 2012
 author - 1: "[[Paul Hager]]"
 editor - 1: "[[Paul Gibbs]]"

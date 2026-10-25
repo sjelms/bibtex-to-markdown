@@ -1,5 +1,5 @@
 ---
-title: Building Mass Customised Housing through Innovation in the Production System -  Lessons from Japan
+title: Building Mass Customised Housing Through Innovation In The Production System - Lessons From Japan
 year: 2005
 author - 1: "[[James Barlow]]"
 author - 2: "[[Ritsuko Ozaki]]"

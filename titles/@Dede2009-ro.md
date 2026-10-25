@@ -1,5 +1,5 @@
 ---
-title: Immersive interfaces for engagement and learning
+title: Immersive Interfaces For Engagement And Learning
 year: 2009
 author - 1: "[[Chris Dede]]"
 key: "[[@Dede2009-ro]]"

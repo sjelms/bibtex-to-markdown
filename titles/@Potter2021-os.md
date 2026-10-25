@@ -5,7 +5,7 @@ author - 1: "[[Brian Potter]]"
 key: "[[@Potter2021-os]]"
 booktitle: Construction Physics
 aliases:
-  - WW2 Era Mass-Produced Housing (part 1)
+  - WW2 Era Mass-Produced Housing (Part 1)
 type: "[[@online]]"
 tags:
   - VPA-Vanderbilt

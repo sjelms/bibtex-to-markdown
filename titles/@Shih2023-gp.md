@@ -1,5 +1,5 @@
 ---
-title: Supply Chain -  The Insights You Need from Harvard Business Review
+title: Supply Chain - The Insights You Need From Harvard Business Review
 year: 2023
 author - 1: "[[Willy C Shih]]"
 author - 2: "[[Christian Shuh]]"

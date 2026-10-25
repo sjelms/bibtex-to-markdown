@@ -1,5 +1,5 @@
 ---
-title: Industrialized Construction -  A Systematic Review of Its Benefits and Guidelines for the Development of New Constructive Solutions Applied in Sustainable Projects
+title: Industrialized Construction - A Systematic Review Of Its Benefits And Guidelines For The Development Of New Constructive Solutions Applied In Sustainable Projects
 year: 2025
 author - 1: "[[Carlos Rojas-Herrera]]"
 author - 2: "[[Aner Martínez-Soto]]"

@@ -1,5 +1,5 @@
 ---
-title: Relational interdependence between social and individual agency in work and working life
+title: Relational Interdependence Between Social And Individual Agency In Work And Working Life
 year: 2006
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2006-rh]]"

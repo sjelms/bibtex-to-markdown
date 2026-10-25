@@ -1,5 +1,5 @@
 ---
-title: The Dyslexia-ADHD Overlap -  Why Evaluators Confuse the Conditions
+title: The Dyslexia-ADHD Overlap - Why Evaluators Confuse The Conditions
 year: 2025
 author - 1: "[[Cheryl Chase]]"
 key: "[[@Chase2025-dj]]"

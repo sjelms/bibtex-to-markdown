@@ -1,5 +1,5 @@
 ---
-title: Activity Theory As a Lens for Characterizing the Participatory Unit
+title: Activity Theory As A Lens For Characterizing The Participatory Unit
 year: 2004
 author - 1: "[[Sasha A Barab]]"
 author - 2: "[[Michael A Evans]]"

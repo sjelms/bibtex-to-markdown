@@ -1,5 +1,5 @@
 ---
-title: Who Were the Luddites?
+title: Who Were The Luddites?
 year: 2019
 author - 1: "[[Evan Andrews]]"
 key: "[[@Andrews2019-pu]]"

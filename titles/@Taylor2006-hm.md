@@ -1,5 +1,5 @@
 ---
-title: Making Meaning of Local Nonformal Education -  Practitioner’s Perspective
+title: Making Meaning Of Local Nonformal Education - Practitioner’s Perspective
 year: 2006
 author - 1: "[[Edward W Taylor]]"
 key: "[[@Taylor2006-hm]]"

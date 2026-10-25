@@ -1,5 +1,5 @@
 ---
-title: Closing the Gap in a Generation -  Health Equity Through Action on the Social Determinants of Health, Final Report of the Commission on Social Determinants of Health
+title: Closing The Gap In A Generation - Health Equity Through Action On The Social Determinants Of Health, Final Report Of The Commission On Social Determinants Of Health
 year: 2008
 author - 1: "[[Michael G Marmot]]"
 author - 2: "[[Sharon Friel]]"

@@ -1,5 +1,5 @@
 ---
-title: Offsite Construction in Education -  A Survey of Prefabrication in Design and Construction Academia
+title: Offsite Construction In Education - A Survey Of Prefabrication In Design And Construction Academia
 year: 2017
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Jonathan W Elliott]]"

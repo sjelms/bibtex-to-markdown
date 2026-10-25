@@ -1,5 +1,5 @@
 ---
-title: Upskilling and reskilling the workforce via industry driven technical and vocational education and Training -  Strategies to initiate industry/institution partnership in Malaysia
+title: Upskilling And Reskilling The Workforce Via Industry Driven Technical And Vocational Education And Training - Strategies To Initiate Industry/institution Partnership In Malaysia
 year: 2020
 author - 1: "[[Gowrie Vinayan]]"
 author - 2: "[[Davindran Harikirishanan]]"

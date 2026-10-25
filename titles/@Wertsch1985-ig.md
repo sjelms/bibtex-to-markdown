@@ -1,5 +1,5 @@
 ---
-title: Units of Psychological Functioning -  Consciousness, Word Meaning, and Action
+title: Units Of Psychological Functioning - Consciousness, Word Meaning, And Action
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-ig]]"

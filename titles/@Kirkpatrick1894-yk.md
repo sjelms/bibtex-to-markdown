@@ -1,5 +1,5 @@
 ---
-title: An Experimental Study of Memory
+title: An Experimental Study Of Memory
 year: 1894
 author - 1: "[[Edwin A Kirkpatrick]]"
 key: "[[@Kirkpatrick1894-yk]]"

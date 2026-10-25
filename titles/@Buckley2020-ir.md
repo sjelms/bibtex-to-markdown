@@ -1,5 +1,5 @@
 ---
-title: Prefabrication and Modular Construction 2020
+title: Prefabrication And Modular Construction 2020
 year: 2020
 author - 1: "[[Bruce Buckley]]"
 author - 2: "[[Katharine Logan]]"

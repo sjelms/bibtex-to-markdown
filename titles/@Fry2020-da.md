@@ -1,5 +1,5 @@
 ---
-title: A majority of young adults in the U.S. live with their parents for the first time since the Great Depression
+title: A Majority Of Young Adults In The U.s. Live With Their Parents For The First Time Since The Great Depression
 year: 2020
 author - 1: "[[Richard Fry]]"
 author - 2: "[[Jeffrey S Passel]]"

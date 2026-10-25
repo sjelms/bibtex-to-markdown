@@ -1,5 +1,5 @@
 ---
-title: Brief Note on the Origins, Evolution, and Meaning of the Qualitative Research Concept Thick Description
+title: Brief Note On The Origins, Evolution, And Meaning Of The Qualitative Research Concept Thick Description
 year: 2015
 author - 1: "[[Joseph Ponterotto]]"
 key: "[[@Ponterotto2015-bf]]"

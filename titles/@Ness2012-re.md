@@ -1,5 +1,5 @@
 ---
-title: Human resource management in the construction context -  disappearing workers in the UK
+title: Human Resource Management In The Construction Context - Disappearing Workers In The UK
 year: 2012
 author - 1: "[[Kate Ness]]"
 author - 2: "[[Stuart Green]]"

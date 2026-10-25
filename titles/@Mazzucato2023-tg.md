@@ -1,5 +1,5 @@
 ---
-title: The right to housing -  A mission-oriented and human rights-based approach
+title: The Right To Housing - A Mission-Oriented And Human Rights-Based Approach
 year: 2023
 author - 1: "[[Mariana Mazzucato]]"
 author - 2: "[[Leilani Farha]]"

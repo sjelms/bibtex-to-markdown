@@ -1,5 +1,5 @@
 ---
-title: Robot-Oriented Design -  Design and Management Tools for the Deployment of Automation and Robotics in Construction
+title: Robot-Oriented Design - Design And Management Tools For The Deployment Of Automation And Robotics In Construction
 year: 2015
 author - 1: "[[Thomas Bock]]"
 author - 2: "[[Thomas Linner]]"

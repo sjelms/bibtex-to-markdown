@@ -1,5 +1,5 @@
 ---
-title: High-performance Affordable Modular Homes -  A University and Modular Industry Collaboration
+title: High-Performance Affordable Modular Homes - A University And Modular Industry Collaboration
 year: 2017
 author - 1: "[[John D Quale]]"
 editor - 1: "[[Ryan E Smith]]"

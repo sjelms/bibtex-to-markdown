@@ -1,5 +1,5 @@
 ---
-title: Producing Prosperity -  Why America Needs a Manufacturing Renaissance
+title: Producing Prosperity - Why America Needs A Manufacturing Renaissance
 year: 2012
 author - 1: "[[Gary P Pisano]]"
 author - 2: "[[Willy C Shih]]"

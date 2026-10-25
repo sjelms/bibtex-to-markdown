@@ -1,5 +1,5 @@
 ---
-title: Man and machine in industry 4.0
+title: Man And Machine In Industry 4.0
 year: 2015
 author - 1: "[[Markus Lorenz]]"
 author - 2: "[[Michael Rüßmann]]"

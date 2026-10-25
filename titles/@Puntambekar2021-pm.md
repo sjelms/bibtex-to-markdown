@@ -1,5 +1,5 @@
 ---
-title: Distributed Scaffolding -  Scaffolding Students in Classroom Environments
+title: Distributed Scaffolding - Scaffolding Students In Classroom Environments
 year: 2021
 author - 1: "[[Sadhana Puntambekar]]"
 key: "[[@Puntambekar2021-pm]]"

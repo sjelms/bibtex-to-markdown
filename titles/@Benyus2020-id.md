@@ -1,5 +1,5 @@
 ---
-title: Biomimicry -  Innovation inspired by nature
+title: Biomimicry - Innovation Inspired By Nature
 year: 2020
 author - 1: "[[Janine M Benyus]]"
 key: "[[@Benyus2020-id]]"

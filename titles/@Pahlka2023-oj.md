@@ -1,5 +1,5 @@
 ---
-title: Recoding America -  Why Government Is Failing in the Digital Age and How We Can Do Better
+title: Recoding America - Why Government Is Failing In The Digital Age And How We Can Do Better
 year: 2023
 author - 1: "[[Jennifer Pahlka]]"
 key: "[[@Pahlka2023-oj]]"

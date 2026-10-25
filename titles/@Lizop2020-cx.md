@@ -1,5 +1,5 @@
 ---
-title: Vygotsky's Theory of cognitive development in social relationships
+title: Vygotsky's Theory Of Cognitive Development In Social Relationships
 year: 2020
 author - 1: "[[Morgan Lizop]]"
 author - 2: "[[Matt Abbott]]"

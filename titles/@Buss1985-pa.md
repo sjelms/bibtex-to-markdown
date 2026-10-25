@@ -1,5 +1,5 @@
 ---
-title: Winners And Losers -  On the factory floor, technology brings challenge for some, drudgery for others
+title: Winners And Losers - On The Factory Floor, Technology Brings Challenge For Some, Drudgery For Others
 year: 1985
 author - 1: "[[Dale D Buss]]"
 key: "[[@Buss1985-pa]]"

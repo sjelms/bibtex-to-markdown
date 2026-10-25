@@ -1,5 +1,5 @@
 ---
-title: Models of innovative knowledge communities and three metaphors of learning
+title: Models Of Innovative Knowledge Communities And Three Metaphors Of Learning
 year: 2004
 author - 1: "[[Sami Paavola]]"
 author - 2: "[[Lasse Lipponen]]"

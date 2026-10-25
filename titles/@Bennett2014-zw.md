@@ -1,5 +1,5 @@
 ---
-title: A Radical Critique of the Learning Outcomes Assessment Movement
+title: A Radical Critique Of The Learning Outcomes Assessment Movement
 year: 2014
 author - 1: "[[Michael Bennett]]"
 author - 2: "[[Jacqueline Brady]]"

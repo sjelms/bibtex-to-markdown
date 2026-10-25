@@ -1,5 +1,5 @@
 ---
-title: Why Has Construction Productivity Stagnated? The Role of Land‑Use Regulation
+title: Why Has Construction Productivity Stagnated? The Role Of Land‑use Regulation
 year: 2023
 author - 1: "[[Leonardo D'Amico]]"
 author - 2: "[[Edward L Glaeser]]"

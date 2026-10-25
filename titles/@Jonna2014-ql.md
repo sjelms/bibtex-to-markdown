@@ -1,5 +1,5 @@
 ---
-title: Braverman and the Structure of the U.S. Working Class -  Beyond the Degradation of Labor
+title: Braverman And The Structure Of The U.s. Working Class - Beyond The Degradation Of Labor
 year: 2014
 author - 1: "[[R Jamil Jonna]]"
 author - 2: "[[John Bellamy Foster]]"

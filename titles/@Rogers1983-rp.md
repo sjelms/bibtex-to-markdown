@@ -1,5 +1,5 @@
 ---
-title: The Acquisition of Symbolic Skills
+title: The Acquisition Of Symbolic Skills
 year: 1983
 author - 1: "[[Don Rogers]]"
 author - 2: "[[John A Sloboda]]"

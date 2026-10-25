@@ -1,5 +1,5 @@
 ---
-title: What is multimodal design? An interview with John Alderman and Christine Park
+title: What Is Multimodal Design? An Interview With John Alderman And Christine Park
 year: 2016
 author - 1: "[[Christine W Park]]"
 author - 2: "[[John Alderman]]"

@@ -1,5 +1,5 @@
 ---
-title: The Role of Tutoring in Problem Solving
+title: The Role Of Tutoring In Problem Solving
 year: 1976
 author - 1: "[[David J Wood]]"
 author - 2: "[[Jerome S Bruner]]"

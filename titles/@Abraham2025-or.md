@@ -1,5 +1,5 @@
 ---
-title: The Digitalist Papers -  The Economics of Transformative AI
+title: The Digitalist Papers - The Economics Of Transformative AI
 year: 2025
 author - 1: "[[Lisa Abraham]]"
 author - 2: "[[Ajay Agrawal]]"

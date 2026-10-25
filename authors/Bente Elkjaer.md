@@ -13,7 +13,7 @@ aliases:
 [[@Elkjaer2003-nm|Social Learning Theory]]
 [[@Elkjaer2003-sk|Organizational Learning With A Pragmatic Slant]]
 [[@Elkjaer2004-xt|Organizational Learning]]
-[[@Elkjaer2022-yf|Taking Stock Of “organizational Learning”]]
+[[@Elkjaer2022-yf|Taking Stock Of “Organizational Learning”]]
 
 #### Bibliography:
 

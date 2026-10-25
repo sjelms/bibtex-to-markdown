@@ -1,5 +1,5 @@
 ---
-title: Reinventing construction through a productivity revolution
+title: Reinventing Construction Through A Productivity Revolution
 year: 2017
 author - 1: "[[Filipe Barbosa]]"
 author - 2: "[[Jonathan Woetzel]]"

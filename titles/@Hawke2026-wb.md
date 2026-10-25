@@ -1,5 +1,5 @@
 ---
-title: Potential Pathways to Scale Innovative Construction Methods in California
+title: Potential Pathways To Scale Innovative Construction Methods In California
 year: 2026
 author - 1: "[[Stephanie Hawke]]"
 author - 2: "[[Julie Aguilar]]"

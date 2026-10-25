@@ -1,5 +1,5 @@
 ---
-title: Introduction -  Virtual, Augmented, and Mixed Realities in Education
+title: Introduction - Virtual, Augmented, And Mixed Realities In Education
 year: 2017
 author - 1: "[[Christopher J Dede]]"
 author - 2: "[[Jeffrey Jacobson]]"

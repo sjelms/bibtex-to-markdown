@@ -1,5 +1,5 @@
 ---
-title: Self-Organising Networks in Complex Infrastructure Projects -  The Case of London Bank Station Capacity Upgrade Project
+title: Self-Organising Networks In Complex Infrastructure Projects - The Case Of London Bank Station Capacity Upgrade Project
 year: 2020
 author - 1: "[[Huda Mohamed Ali Hasan Husain Almadhoob]]"
 key: "[[@Almadhoob2020-yc]]"

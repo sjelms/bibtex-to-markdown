@@ -1,5 +1,5 @@
 ---
-title: New Towns Taskforce -  Report to Government
+title: New Towns Taskforce - Report To Government
 year: 2025
 author - 1: "[[Michael Lyons]]"
 author - 2: "[[Kate Barker]]"

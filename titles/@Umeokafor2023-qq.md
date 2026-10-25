@@ -1,5 +1,5 @@
 ---
-title: Barriers to big data techniques application in construction safety, health, and well-being
+title: Barriers To Big Data Techniques Application In Construction Safety, Health, And Well-Being
 year: 2023
 author - 1: "[[Nnedinma Umeokafor]]"
 author - 2: "[[Tariq Umar]]"

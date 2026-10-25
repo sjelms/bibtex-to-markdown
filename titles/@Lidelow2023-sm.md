@@ -1,10 +1,10 @@
 ---
-title: Factory of the Future [Keynote address]
+title: Factory Of The Future [Keynote Address]
 year: 2023
 author - 1: "[[Helena Lidelöw]]"
 key: "[[@Lidelow2023-sm]]"
 aliases:
-  - Factory Of The Future [keynote Address]
+  - Factory Of The Future [Keynote Address]
 type: "[[@misc]]"
 tags:
   - Construction-4-0

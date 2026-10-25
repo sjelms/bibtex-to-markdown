@@ -1,5 +1,5 @@
 ---
-title: The Atlas of AI -  Power, Politics, and the Planetary Costs of Artificial Intelligence
+title: The Atlas Of AI - Power, Politics, And The Planetary Costs Of Artificial Intelligence
 year: 2021
 author - 1: "[[Kate Crawford]]"
 key: "[[@Crawford2021-ae]]"

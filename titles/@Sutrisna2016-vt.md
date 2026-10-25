@@ -1,5 +1,5 @@
 ---
-title: The Application of Grounded Theory Methodology in Built Environment Research
+title: The Application Of Grounded Theory Methodology In Built Environment Research
 year: 2016
 author - 1: "[[Monty Sutrisna]]"
 author - 2: "[[Wisnu Setiawan]]"

@@ -1,5 +1,5 @@
 ---
-title: Using Augmented Reality Video in Enhancing Masonry and Roof Component Comprehension for Construction Management Students
+title: Using Augmented Reality Video In Enhancing Masonry And Roof Component Comprehension For Construction Management Students
 year: 2016
 author - 1: "[[Hamzah Shanbari]]"
 author - 2: "[[Nathan Blinn]]"

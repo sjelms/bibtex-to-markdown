@@ -1,12 +1,12 @@
 ---
-title: Guest Chapter -  The Human in the Centre?! (Christian)—Ethical Reflections on the Anthropological and Ethical Challenges of AI
+title: Guest Chapter - The Human In The Centre?! (Christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI
 year: 2022
 author - 1: "[[Bianca Christina Weber-Lewerenz]]"
 editor - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-zr]]"
 booktitle: Accents of added value in construction 4.0 -  Ethical observations in dealing with digitization and AI
 aliases:
-  - Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI
+  - Guest Chapter - The Human In The Centre?! (Christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI
   - Guest Chapter
 publisher: "[[Springer Fachmedien Wiesbaden]]"
 type: "[[@inbook]]"

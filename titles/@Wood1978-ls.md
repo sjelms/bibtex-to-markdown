@@ -1,5 +1,5 @@
 ---
-title: An Experimental Evaluation of Four Face-to-Face Teaching Strategies
+title: An Experimental Evaluation Of Four Face-To-Face Teaching Strategies
 year: 1978
 author - 1: "[[David J Wood]]"
 author - 2: "[[Heather Wood]]"

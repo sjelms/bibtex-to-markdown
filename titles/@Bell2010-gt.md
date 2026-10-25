@@ -1,5 +1,5 @@
 ---
-title: Performance Gains from Speech-enhanced Simulation in Military Flying Training
+title: Performance Gains From Speech-Enhanced Simulation In Military Flying Training
 year: 2010
 author - 1: "[[Benjamin Bell]]"
 author - 2: "[[Stacie Billington]]"

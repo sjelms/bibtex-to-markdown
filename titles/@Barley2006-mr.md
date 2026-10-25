@@ -1,5 +1,5 @@
 ---
-title: What We Know (And Mostly Don't Know) about Technical Work
+title: What We Know (And Mostly Don't Know) About Technical Work
 year: 2006
 author - 1: "[[Stephen R Barley]]"
 editor - 1: "[[Stephen Ackroyd]]"
@@ -9,7 +9,7 @@ editor - 4: "[[Pamela S Tolbert]]"
 key: "[[@Barley2006-mr]]"
 booktitle: The Oxford Handbook of Work and Organization
 aliases:
-  - What We Know (and Mostly Don't Know) About Technical Work
+  - What We Know (And Mostly Don't Know) About Technical Work
 publisher: "[[Oxford University Press]]"
 type: "[[@inbook]]"
 tags:

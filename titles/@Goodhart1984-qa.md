@@ -1,5 +1,5 @@
 ---
-title: Monetary Theory and Practice -  The UK Experience
+title: Monetary Theory And Practice - The UK Experience
 year: 1984
 author - 1: "[[Charles Albert Eric Goodhart]]"
 key: "[[@Goodhart1984-qa]]"

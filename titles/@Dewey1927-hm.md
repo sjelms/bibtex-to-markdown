@@ -1,5 +1,5 @@
 ---
-title: The Public and Its Problems -  An Essay in Political Inquiry
+title: The Public And Its Problems - An Essay In Political Inquiry
 year: 1927
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1927-hm]]"

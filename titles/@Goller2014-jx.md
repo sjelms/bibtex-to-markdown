@@ -1,5 +1,5 @@
 ---
-title: Agentic Behaviour at Work -  Crafting Learning Experiences
+title: Agentic Behaviour At Work - Crafting Learning Experiences
 year: 2014
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Stephen Billett]]"

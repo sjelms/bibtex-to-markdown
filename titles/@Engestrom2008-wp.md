@@ -1,5 +1,5 @@
 ---
-title: From Teams to Knots -  Activity-Theoretical Studies of Collaboration and Learning at Work
+title: From Teams To Knots - Activity-Theoretical Studies Of Collaboration And Learning At Work
 year: 2008
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom2008-wp]]"

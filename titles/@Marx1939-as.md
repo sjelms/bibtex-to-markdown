@@ -1,5 +1,5 @@
 ---
-title: Grundrisse -  Foundations of the Critique of Political Economy
+title: Grundrisse - Foundations Of The Critique Of Political Economy
 year: 1939
 author - 1: "[[Karl Marx]]"
 key: "[[@Marx1939-as]]"

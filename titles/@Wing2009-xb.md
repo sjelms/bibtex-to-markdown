@@ -1,5 +1,5 @@
 ---
-title: The Visual Handbook of Building and Remodeling -  A Comprehensive Guide to Choosing the Right Materials and Systems for Every Part of Your Home
+title: The Visual Handbook Of Building And Remodeling - A Comprehensive Guide To Choosing The Right Materials And Systems For Every Part Of Your Home
 year: 2009
 author - 1: "[[Charlie Wing]]"
 key: "[[@Wing2009-xb]]"

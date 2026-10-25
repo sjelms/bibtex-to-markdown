@@ -1,5 +1,5 @@
 ---
-title: Service Occupations and Retail Trade
+title: Service Occupations And Retail Trade
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-bv]]"

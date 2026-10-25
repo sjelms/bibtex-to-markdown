@@ -1,5 +1,5 @@
 ---
-title: Alchemy -  The Surprising Power of Ideas That Don't Make Sense
+title: Alchemy - The Surprising Power Of Ideas That Don't Make Sense
 year: 2019
 author - 1: "[[Rory Sutherland]]"
 key: "[[@Sutherland2019-ue]]"

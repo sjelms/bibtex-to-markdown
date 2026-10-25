@@ -1,5 +1,5 @@
 ---
-title: Measuring Job Content -  Skills, Technology, and Management Practices
+title: Measuring Job Content - Skills, Technology, And Management Practices
 year: 2017
 author - 1: "[[Michael J Handel]]"
 editor - 1: "[[Chris Warhurst]]"

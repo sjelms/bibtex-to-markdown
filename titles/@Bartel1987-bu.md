@@ -1,5 +1,5 @@
 ---
-title: The comparative advantage of educated workers in implementing new technology
+title: The Comparative Advantage Of Educated Workers In Implementing New Technology
 year: 1987
 author - 1: "[[Ann P Bartel]]"
 author - 2: "[[Frank R Lichtenberg]]"

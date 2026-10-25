@@ -1,5 +1,5 @@
 ---
-title: Skills, tasks and technologies -  Implications for employment and earnings
+title: Skills, Tasks And Technologies - Implications For Employment And Earnings
 year: 2011
 author - 1: "[[Daron Acemoglu]]"
 author - 2: "[[David H Autor]]"

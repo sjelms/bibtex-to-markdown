@@ -1,5 +1,5 @@
 ---
-title: Work for the hairdressers -  The production of de prony's logarithmic and trigonometric tables
+title: Work For The Hairdressers - The Production Of De Prony's Logarithmic And Trigonometric Tables
 year: 1990
 author - 1: "[[I Grattan-Guinness]]"
 key: "[[@Grattan-Guinness1990-ot]]"

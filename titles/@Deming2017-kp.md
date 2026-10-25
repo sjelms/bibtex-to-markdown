@@ -1,5 +1,5 @@
 ---
-title: The growing importance of social skills in the labor market
+title: The Growing Importance Of Social Skills In The Labor Market
 year: 2017
 author - 1: "[[David J Deming]]"
 key: "[[@Deming2017-kp]]"

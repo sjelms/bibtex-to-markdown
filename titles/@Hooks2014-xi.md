@@ -1,5 +1,5 @@
 ---
-title: Teaching to Transgress -  Education as the Practice of Freedom
+title: Teaching To Transgress - Education As The Practice Of Freedom
 year: 2014
 author - 1: "[[Bell Hooks]]"
 key: "[[@Hooks2014-xi]]"

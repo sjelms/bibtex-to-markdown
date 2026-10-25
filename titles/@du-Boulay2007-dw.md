@@ -1,5 +1,5 @@
 ---
-title: Motivationally Intelligent Systems -  Diagnosis and Feedback
+title: Motivationally Intelligent Systems - Diagnosis And Feedback
 year: 2007
 author - 1: "[[Benedict du Boulay]]"
 author - 2: "[[Genaro Rebolledo-Méndez]]"

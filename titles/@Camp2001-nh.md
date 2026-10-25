@@ -1,5 +1,5 @@
 ---
-title: Formulating and Evaluating Theoretical Frameworks for Career and Technical Education Research
+title: Formulating And Evaluating Theoretical Frameworks For Career And Technical Education Research
 year: 2001
 author - 1: "[[William G Camp]]"
 key: "[[@Camp2001-nh]]"

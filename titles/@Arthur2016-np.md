@@ -1,5 +1,5 @@
 ---
-title: The Impact of Systems Differentiation and Affect Heuristics in Intuitive Construction Risk Management Decision Making Systems
+title: The Impact Of Systems Differentiation And Affect Heuristics In Intuitive Construction Risk Management Decision Making Systems
 year: 2016
 author - 1: "[[Alex Collins Arthur]]"
 key: "[[@Arthur2016-np]]"

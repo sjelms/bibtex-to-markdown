@@ -1,5 +1,5 @@
 ---
-title: Rethinking Capitalism -  Economics and Policy for Sustainable and Inclusive Growth
+title: Rethinking Capitalism - Economics And Policy For Sustainable And Inclusive Growth
 year: 2016
 author - 1: "[[Michael Jacobs]]"
 author - 2: "[[Mariana Mazzucato]]"

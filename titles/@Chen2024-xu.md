@@ -1,5 +1,5 @@
 ---
-title: Transforming online teacher training through expansive learning -  A case study applying Cultural-Historical Activity Theory and the Change Laboratory method
+title: Transforming Online Teacher Training Through Expansive Learning - A Case Study Applying Cultural-Historical Activity Theory And The Change Laboratory Method
 year: 2024
 author - 1: "[[Ken-Zen Chen]]"
 author - 2: "[[Jing-Yu Tseng]]"

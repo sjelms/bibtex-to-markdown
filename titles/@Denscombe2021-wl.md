@@ -1,5 +1,5 @@
 ---
-title: The Good Research Guide -  Research Methods for Small-Scale Social Research Projects
+title: The Good Research Guide - Research Methods For Small-Scale Social Research Projects
 year: 2021
 author - 1: "[[Martyn Denscombe]]"
 key: "[[@Denscombe2021-wl]]"

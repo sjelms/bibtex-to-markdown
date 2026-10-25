@@ -1,5 +1,5 @@
 ---
-title: Design-Based Research -  A Methodological Toolkit for the Learning Scientist
+title: Design-Based Research - A Methodological Toolkit For The Learning Scientist
 year: 2005
 author - 1: "[[Sasha A Barab]]"
 editor - 1: "[[Robert Keith Sawyer]]"

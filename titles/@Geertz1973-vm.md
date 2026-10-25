@@ -1,5 +1,5 @@
 ---
-title: Thick Description -  Towards an Interpretive Theory of Culture
+title: Thick Description - Towards An Interpretive Theory Of Culture
 year: 1973
 author - 1: "[[Clifford J Geertz]]"
 key: "[[@Geertz1973-vm]]"

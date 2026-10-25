@@ -1,5 +1,5 @@
 ---
-title: The Rent Is Too Damn High -  What To Do About It, And Why It Matters More Than You Think
+title: The Rent Is Too Damn High - What To Do About It, And Why It Matters More Than You Think
 year: 2012
 author - 1: "[[Matthew Yglesias]]"
 key: "[[@Yglesias2012-ep]]"

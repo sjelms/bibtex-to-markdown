@@ -1,5 +1,5 @@
 ---
-title: Psychology as the behaviorist views it
+title: Psychology As The Behaviorist Views It
 year: 1913
 author - 1: "[[John B Watson]]"
 key: "[[@Watson1913-pc]]"

@@ -1,5 +1,5 @@
 ---
-title: Of the Nature, Accumulation, and Employment of Stock
+title: Of The Nature, Accumulation, And Employment Of Stock
 year: 1776
 author - 1: "[[Adam Smith]]"
 key: "[[@Smith1776-xg]]"

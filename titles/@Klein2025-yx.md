@@ -1,5 +1,5 @@
 ---
-title: Abundance -  How We Build a Better Future
+title: Abundance - How We Build A Better Future
 year: 2025
 author - 1: "[[Ezra Klein]]"
 author - 2: "[[Derek Thompson]]"

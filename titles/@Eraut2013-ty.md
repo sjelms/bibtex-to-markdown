@@ -1,5 +1,5 @@
 ---
-title: How Researching Learning at Work Can Lead to Tools for Enhancing Learning
+title: How Researching Learning At Work Can Lead To Tools For Enhancing Learning
 year: 2013
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2013-ty]]"

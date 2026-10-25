@@ -10,19 +10,19 @@ aliases:
 ## Chris Warhurst
 
 ### Content:
-[[@Baldry1998-ba|‘bright Satanic Offices’]]
+[[@Baldry1998-ba|‘Bright Satanic Offices’]]
 [[@Beirne1998-sy|Developments In Computing Work]]
 [[@Bryson2017-fe|Disciplinary Perspectives On Skill]]
 [[@Buchanan2017-sg|Introduction]]
 [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales]]
 [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 [[@Greenbaum1998-ih|The Times They Are A'changing]]
-[[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
+[[@Grugulis2004-ym|What’s Happening To ‘Skill’?]]
 [[@Handel2017-ok|Measuring Job Content]]
 [[@Lerman2017-ww|Skill Development In Middle Level Occupations]]
 [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 [[@Milkman1998-oe|The New American Workplace]]
-[[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’]]
+[[@Mulholland1998-xn|‘Survivors’ Versus ‘Movers And Shakers’]]
 [[@Payne2017-tu|The Changing Meaning Of Skill]]
 [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
 [[@Stuart2017-vq|Unions, The Skills Agenda, And Workforce Development]]

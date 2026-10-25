@@ -1,5 +1,5 @@
 ---
-title: ‘The Art of Knowing’
+title: ‘The Art Of Knowing’
 year: 2012
 author - 1: "[[Paul Duguid]]"
 editor - 1: "[[David W Livingstone]]"
@@ -7,7 +7,7 @@ editor - 2: "[[David Guile]]"
 key: "[[@Duguid2012-ff]]"
 booktitle: The Knowledge Economy and Lifelong Learning -  A Critical Reader
 aliases:
-  - ‘the Art Of Knowing’
+  - ‘The Art Of Knowing’
 publisher: "[[SensePublishers]]"
 type: "[[@inbook]]"
 tags:

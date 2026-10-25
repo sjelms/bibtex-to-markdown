@@ -1,5 +1,5 @@
 ---
-title: Pedagogy of the Oppressed -  30th Anniversary Edition
+title: Pedagogy Of The Oppressed - 30th Anniversary Edition
 year: 2000
 author - 1: "[[Paulo Freire]]"
 key: "[[@Freire2000-pt]]"

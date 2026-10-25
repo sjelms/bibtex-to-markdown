@@ -1,5 +1,5 @@
 ---
-title: Critical Issues and Possible Solutions for Motivating Foreign Construction Workers
+title: Critical Issues And Possible Solutions For Motivating Foreign Construction Workers
 year: 2008
 author - 1: "[[Seung H Han]]"
 author - 2: "[[Sang H Park]]"

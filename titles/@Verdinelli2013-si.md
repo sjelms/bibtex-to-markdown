@@ -1,5 +1,5 @@
 ---
-title: Data Display in Qualitative Research
+title: Data Display In Qualitative Research
 year: 2013
 author - 1: "[[Susana Verdinelli]]"
 author - 2: "[[Norma I Scagnoli]]"

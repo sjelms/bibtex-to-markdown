@@ -1,5 +1,5 @@
 ---
-title: Virtual, Augmented, and Mixed Realities in Education
+title: Virtual, Augmented, And Mixed Realities In Education
 year: 2017
 author - 1: "[[Dejian Liu]]"
 author - 2: "[[Chris Dede]]"

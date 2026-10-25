@@ -1,5 +1,5 @@
 ---
-title: Offsite Construction for Housing -  Research Roadmap
+title: Offsite Construction For Housing - Research Roadmap
 year: 2023
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Ivan Rupnik]]"

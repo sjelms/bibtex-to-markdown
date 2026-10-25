@@ -1,5 +1,5 @@
 ---
-title: What’s Next -  Innovation in the Construction Industry
+title: What’s Next - Innovation In The Construction Industry
 year: 2022
 author - 1: "[[Nicole Needles]]"
 key: "[[@Needles2022-bo]]"

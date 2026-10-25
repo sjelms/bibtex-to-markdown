@@ -1,5 +1,5 @@
 ---
-title: To Address the Housing Crisis, New VPA Proposals Point to Past Successes and a Vision for the Future
+title: To Address The Housing Crisis, New VPA Proposals Point To Past Successes And A Vision For The Future
 year: 2026
 author - 1: "[[Nate Luce]]"
 key: "[[@Luce2026-xi]]"

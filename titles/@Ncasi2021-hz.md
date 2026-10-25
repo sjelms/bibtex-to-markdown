@@ -1,5 +1,5 @@
 ---
-title: Forest Carbon from Young vs. Old Forests
+title: Forest Carbon From Young Vs. Old Forests
 year: 2021
 author - 1: "[[NCASI]]"
 key: "[[@Ncasi2021-hz]]"

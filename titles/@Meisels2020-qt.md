@@ -1,5 +1,5 @@
 ---
-title: 2021 Engineering and Construction Industry Outlook
+title: 2021 Engineering And Construction Industry Outlook
 year: 2020
 author - 1: "[[Michelle Meisels]]"
 key: "[[@Meisels2020-qt]]"

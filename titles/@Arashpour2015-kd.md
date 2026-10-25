@@ -1,5 +1,5 @@
 ---
-title: Optimization of process integration and multi-skilled resource utilization in off-site construction
+title: Optimization Of Process Integration And Multi-Skilled Resource Utilization In Off-Site Construction
 year: 2015
 author - 1: "[[Mehrdad Arashpour]]"
 author - 2: "[[Ron Wakefield]]"

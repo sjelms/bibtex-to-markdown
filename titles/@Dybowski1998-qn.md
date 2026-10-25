@@ -1,5 +1,5 @@
 ---
-title: New Technologies and Work Organization Impact on Vocational Education and Training
+title: New Technologies And Work Organization Impact On Vocational Education And Training
 year: 1998
 author - 1: "[[Gisela Dybowski]]"
 editor - 1: "[[CEDEFOP]]"

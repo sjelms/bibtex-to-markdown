@@ -1,5 +1,5 @@
 ---
-title: The manufacturing sector needs workers. Training high schoolers could help fill that void
+title: The Manufacturing Sector Needs Workers. Training High Schoolers Could Help Fill That Void
 year: 2021
 author - 1: "[[Paul Solman]]"
 key: "[[@Solman2021-vc]]"

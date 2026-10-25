@@ -1,5 +1,5 @@
 ---
-title: Learning for work
+title: Learning For Work
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

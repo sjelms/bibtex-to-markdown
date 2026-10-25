@@ -1,5 +1,5 @@
 ---
-title: Helping Doctoral Students Write -  Pedagogies for supervision
+title: Helping Doctoral Students Write - Pedagogies For Supervision
 year: 2014
 author - 1: "[[Barbara Kamler]]"
 author - 2: "[[Pat Thomson]]"

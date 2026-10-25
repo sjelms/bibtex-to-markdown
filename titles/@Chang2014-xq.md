@@ -1,5 +1,5 @@
 ---
-title: Economics -  The User's Guide
+title: Economics - The User's Guide
 year: 2014
 author - 1: "[[Ha-Joon Chang]]"
 key: "[[@Chang2014-xq]]"

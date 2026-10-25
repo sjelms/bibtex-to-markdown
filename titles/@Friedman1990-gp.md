@@ -1,5 +1,5 @@
 ---
-title: Managerial Strategies, Activities, Techniques and Technology -  Towards a Complex Theory of the Labour Process
+title: Managerial Strategies, Activities, Techniques And Technology - Towards A Complex Theory Of The Labour Process
 year: 1990
 author - 1: "[[Andrew Friedman]]"
 editor - 1: "[[David Knights]]"

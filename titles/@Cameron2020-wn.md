@@ -1,5 +1,5 @@
 ---
-title: Data to the rescue -  Embodied carbon in buildings and the urgency of now
+title: Data To The Rescue - Embodied Carbon In Buildings And The Urgency Of Now
 year: 2020
 author - 1: "[[Lynelle Cameron]]"
 key: "[[@Cameron2020-wn]]"

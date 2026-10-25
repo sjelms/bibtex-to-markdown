@@ -1,5 +1,5 @@
 ---
-title: Productivity, Innovation and Disruption -  A Study of Offsite Construction in the United States
+title: Productivity, Innovation And Disruption - A Study Of Offsite Construction In The United States
 year: 2019
 author - 1: "[[Ryan E Smith]]"
 author - 2: "[[Ivan Rupnik]]"

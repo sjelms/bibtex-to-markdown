@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits -  Tiny Changes, Remarkable Results
+title: Atomic Habits - Tiny Changes, Remarkable Results
 year: 2018
 author - 1: "[[James Clear]]"
 key: "[[@Clear2018-uq]]"

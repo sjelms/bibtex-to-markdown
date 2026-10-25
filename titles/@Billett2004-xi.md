@@ -1,5 +1,5 @@
 ---
-title: Building community through social partnerships around vocational education and training
+title: Building Community Through Social Partnerships Around Vocational Education And Training
 year: 2004
 author - 1: "[[Stephen Billett]]"
 author - 2: "[[Terri Seddon]]"

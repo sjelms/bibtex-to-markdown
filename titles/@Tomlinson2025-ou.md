@@ -1,5 +1,5 @@
 ---
-title: Working with AI -  Measuring the occupational implications of generative AI
+title: Working With AI - Measuring The Occupational Implications Of Generative AI
 year: 2025
 author - 1: "[[Kiran Tomlinson]]"
 author - 2: "[[Sonia Jaffe]]"

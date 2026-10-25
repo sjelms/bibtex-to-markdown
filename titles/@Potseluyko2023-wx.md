@@ -1,5 +1,5 @@
 ---
-title: Platform Based Design and Immersive Technologies for Manufacturing and Assembly in Offsite Construction -  Applying Extended Reality and Game Applications to PDfMA
+title: Platform Based Design And Immersive Technologies For Manufacturing And Assembly In Offsite Construction - Applying Extended Reality And Game Applications To Pdfma
 year: 2023
 author - 1: "[[Lilia Potseluyko]]"
 author - 2: "[[Farzad Pour Rahimian]]"

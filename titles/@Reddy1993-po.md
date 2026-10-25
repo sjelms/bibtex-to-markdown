@@ -1,5 +1,5 @@
 ---
-title: The conduit metaphor -  A case of frame conflict in our language about language
+title: The Conduit Metaphor - A Case Of Frame Conflict In Our Language About Language
 year: 1993
 author - 1: "[[Michael J Reddy]]"
 editor - 1: "[[Andrew Ortony]]"

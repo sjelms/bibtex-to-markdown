@@ -1,5 +1,5 @@
 ---
-title: The Riddle of the Sands
+title: The Riddle Of The Sands
 year: 2017
 author - 1: "[[Erskine Childers]]"
 key: "[[@Childers2017-ps]]"

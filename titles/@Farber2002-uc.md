@@ -1,5 +1,5 @@
 ---
-title: Ronald Reagan and the politics of declining union organization
+title: Ronald Reagan And The Politics Of Declining Union Organization
 year: 2002
 author - 1: "[[Henry S Farber]]"
 author - 2: "[[Bruce Western]]"

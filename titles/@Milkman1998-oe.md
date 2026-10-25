@@ -1,5 +1,5 @@
 ---
-title: The New American Workplace -  High Road or Low Road?
+title: The New American Workplace - High Road Or Low Road?
 year: 1998
 author - 1: "[[Ruth Milkman]]"
 editor - 1: "[[Paul Thompson]]"

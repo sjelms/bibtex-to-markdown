@@ -1,5 +1,5 @@
 ---
-title: What is Not Measurable, Make Measurable
+title: What Is Not Measurable, Make Measurable
 year: 1982
 author - 1: "[[Ludwik Finkelstein]]"
 key: "[[@Finkelstein1982-sv]]"

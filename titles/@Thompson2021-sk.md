@@ -1,5 +1,5 @@
 ---
-title: DfMA Overlay to the RIBA Plan of Work
+title: Dfma Overlay To The RIBA Plan Of Work
 year: 2021
 author - 1: "[[Matthew Thompson]]"
 key: "[[@Thompson2021-sk]]"

@@ -1,5 +1,5 @@
 ---
-title: Vocational education and learners’ experienced workplace curriculum
+title: Vocational Education And Learners’ Experienced Workplace Curriculum
 year: 2020
 author - 1: "[[Heta Rintala]]"
 author - 2: "[[Petri Nokelainen]]"

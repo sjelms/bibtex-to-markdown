@@ -1,5 +1,5 @@
 ---
-title: e-Learning and the Science of Instruction -  Proven Guidelines for Consumers and Designers of Multimedia Learning
+title: E-Learning And The Science Of Instruction - Proven Guidelines For Consumers And Designers Of Multimedia Learning
 year: 2016
 author - 1: "[[Ruth C Clark]]"
 author - 2: "[[Richard E Mayer]]"

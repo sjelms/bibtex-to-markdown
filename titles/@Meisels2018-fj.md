@@ -1,5 +1,5 @@
 ---
-title: 2019 Engineering and Construction Industry Outlook
+title: 2019 Engineering And Construction Industry Outlook
 year: 2018
 author - 1: "[[Michelle Meisels]]"
 key: "[[@Meisels2018-fj]]"

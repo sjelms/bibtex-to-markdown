@@ -1,5 +1,5 @@
 ---
-title: Labor and Monopoly Capital -  The Degradation of Work in the Twentieth Century
+title: Labor And Monopoly Capital - The Degradation Of Work In The Twentieth Century
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-tr]]"

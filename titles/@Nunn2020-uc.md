@@ -1,5 +1,5 @@
 ---
-title: A Dozen Facts about the Economics of the U.S. Health-Care System
+title: A Dozen Facts About The Economics Of The U.s. Health-Care System
 year: 2020
 author - 1: "[[Ryan Nunn]]"
 author - 2: "[[Jana Parsons]]"

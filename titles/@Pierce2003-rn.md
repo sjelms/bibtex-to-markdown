@@ -1,5 +1,5 @@
 ---
-title: Behavior Analysis and Learning
+title: Behavior Analysis And Learning
 year: 2003
 author - 1: "[[William David Pierce]]"
 author - 2: "[[Carl D Cheney]]"

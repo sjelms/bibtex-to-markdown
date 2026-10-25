@@ -1,5 +1,5 @@
 ---
-title: Apprentice or student? The structures of construction industry vocational education and training in Denmark and Sweden and their possible consequences for safety learning
+title: Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning
 year: 2017
 author - 1: "[[Regine Grytnes]]"
 author - 2: "[[Martin Grill]]"

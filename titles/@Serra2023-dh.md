@@ -1,5 +1,5 @@
 ---
-title: Educational game evaluation on smartphones for occupational safety training
+title: Educational Game Evaluation On Smartphones For Occupational Safety Training
 year: 2023
 author - 1: "[[Sheyla Mara Baptista Serra]]"
 author - 2: "[[Elder Pita Garcia Padre]]"

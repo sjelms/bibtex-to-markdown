@@ -1,5 +1,5 @@
 ---
-title: Goodbye to the hello girls -  automating the telephone exchange
+title: Goodbye To The Hello Girls - Automating The Telephone Exchange
 year: 2018
 author - 1: "[[Science Museum]]"
 key: "[[@Science_Museum2018-ms]]"

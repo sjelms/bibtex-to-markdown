@@ -1,5 +1,5 @@
 ---
-title: Input, Process, Output -  a Model for Evaluating Training
+title: Input, Process, Output - A Model For Evaluating Training
 year: 1990
 author - 1: "[[David S Bushnell]]"
 key: "[[@Bushnell1990-im]]"

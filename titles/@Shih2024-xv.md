@@ -1,5 +1,5 @@
 ---
-title: Knowledge Transfer -  Toyota, NUMMI, and GM
+title: Knowledge Transfer - Toyota, NUMMI, And GM
 year: 2024
 author - 1: "[[Willy C Shih]]"
 key: "[[@Shih2024-xv]]"

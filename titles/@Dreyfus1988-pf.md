@@ -1,5 +1,5 @@
 ---
-title: Mind Over Machine -  The Power of Human Intuition and Expertise in the Era of the Computer
+title: Mind Over Machine - The Power Of Human Intuition And Expertise In The Era Of The Computer
 year: 1988
 author - 1: "[[Hubert L Dreyfus]]"
 author - 2: "[[Stuart E Dreyfus]]"

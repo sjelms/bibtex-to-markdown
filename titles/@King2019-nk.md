@@ -1,5 +1,5 @@
 ---
-title: Template Analysis for Business and Management Students
+title: Template Analysis For Business And Management Students
 year: 2019
 author - 1: "[[Nigel King]]"
 author - 2: "[[Joanna Brooks]]"

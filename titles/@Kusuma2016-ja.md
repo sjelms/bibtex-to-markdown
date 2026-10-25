@@ -1,5 +1,5 @@
 ---
-title: The Evolution of Culture-Climate Interplay in Temporary Multi-Organisations -  The Case of Construction Alliancing Projects
+title: The Evolution Of Culture-Climate Interplay In Temporary Multi-Organisations - The Case Of Construction Alliancing Projects
 year: 2016
 author - 1: "[[Illona Clarissa Kusuma]]"
 key: "[[@Kusuma2016-ja]]"

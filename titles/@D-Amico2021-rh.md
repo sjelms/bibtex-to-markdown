@@ -1,5 +1,5 @@
 ---
-title: Global potential for material substitution in building construction -  The case of cross laminated timber
+title: Global Potential For Material Substitution In Building Construction - The Case Of Cross Laminated Timber
 year: 2021
 author - 1: "[[Bernardino D'Amico]]"
 author - 2: "[[Francesco Pomponi]]"

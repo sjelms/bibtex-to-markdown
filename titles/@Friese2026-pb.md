@@ -1,5 +1,5 @@
 ---
-title: From coding to conversation -  A new methodological framework for AI-assisted qualitative analysis
+title: From Coding To Conversation - A New Methodological Framework For AI-Assisted Qualitative Analysis
 year: 2026
 author - 1: "[[Susanne Friese]]"
 key: "[[@Friese2026-pb]]"

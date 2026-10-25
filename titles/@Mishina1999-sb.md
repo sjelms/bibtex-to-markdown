@@ -1,5 +1,5 @@
 ---
-title: Learning by new experiences -  Revisiting the flying fortress learning curve
+title: Learning By New Experiences - Revisiting The Flying Fortress Learning Curve
 year: 1999
 author - 1: "[[Kazuhiro Mishina]]"
 key: "[[@Mishina1999-sb]]"

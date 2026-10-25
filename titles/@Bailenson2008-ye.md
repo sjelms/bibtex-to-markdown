@@ -1,5 +1,5 @@
 ---
-title: The use of immersive virtual reality in the learning sciences -  Digital transformations of teachers, students, and social context
+title: The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context
 year: 2008
 author - 1: "[[Jeremy N Bailenson]]"
 author - 2: "[[Nick Yee]]"

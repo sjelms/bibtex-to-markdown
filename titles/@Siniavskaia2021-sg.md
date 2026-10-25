@@ -1,5 +1,5 @@
 ---
-title: Most Homebuilders are Small Businesses
+title: Most Homebuilders Are Small Businesses
 year: 2021
 author - 1: "[[Natalia Siniavskaia]]"
 key: "[[@Siniavskaia2021-sg]]"

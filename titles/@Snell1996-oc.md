@@ -1,5 +1,5 @@
 ---
-title: The apprenticeship system in British history -  the fragmentation of a cultural institution
+title: The Apprenticeship System In British History - The Fragmentation Of A Cultural Institution
 year: 1996
 author - 1: "[[Keith David Malcolm Snell]]"
 key: "[[@Snell1996-oc]]"

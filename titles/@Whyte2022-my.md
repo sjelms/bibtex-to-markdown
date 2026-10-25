@@ -1,5 +1,5 @@
 ---
-title: Making Futures That Matter -  Future Making, Online Working and Organizing Remotely
+title: Making Futures That Matter - Future Making, Online Working And Organizing Remotely
 year: 2022
 author - 1: "[[Jennifer K Whyte]]"
 author - 2: "[[Alice Comi]]"

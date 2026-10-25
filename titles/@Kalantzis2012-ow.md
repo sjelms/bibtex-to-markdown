@@ -1,5 +1,5 @@
 ---
-title: Learning communities at work
+title: Learning Communities At Work
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

@@ -1,5 +1,5 @@
 ---
-title: What is a quality apprenticeship
+title: What Is A Quality Apprenticeship
 year: 2019
 author - 1: "[[Jennifer Coupland]]"
 key: "[[@Coupland2019-ax]]"

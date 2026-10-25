@@ -1,5 +1,5 @@
 ---
-title: Identifying Vocational Education and Training
+title: Identifying Vocational Education And Training
 year: 2002
 author - 1: "[[Gavin Moodie]]"
 key: "[[@Moodie2002-nc]]"

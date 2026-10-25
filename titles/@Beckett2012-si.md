@@ -1,5 +1,5 @@
 ---
-title: Ontological Distinctiveness and the Emergence of Purposes
+title: Ontological Distinctiveness And The Emergence Of Purposes
 year: 2012
 author - 1: "[[David Beckett]]"
 editor - 1: "[[Paul Gibbs]]"

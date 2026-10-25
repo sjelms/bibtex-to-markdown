@@ -1,5 +1,5 @@
 ---
-title: Dimensions of Expertise -  A Conceptual Exploration of Vocational Knowledge
+title: Dimensions Of Expertise - A Conceptual Exploration Of Vocational Knowledge
 year: 2012
 author - 1: "[[Christopher Winch]]"
 key: "[[@Winch2012-wv]]"

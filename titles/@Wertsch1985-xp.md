@@ -1,5 +1,5 @@
 ---
-title: The Social Origins of Higher Mental Functions
+title: The Social Origins Of Higher Mental Functions
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-xp]]"

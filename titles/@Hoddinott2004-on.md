@@ -1,5 +1,5 @@
 ---
-title: The Assessment of Workers’ ‘basic Skills’  -  A Critique Based on Evidence From the United States, Canada and England
+title: The Assessment Of Workers’ ‘Basic Skills’ - A Critique Based On Evidence From The United States, Canada And England
 year: 2004
 author - 1: "[[Susan Hoddinott]]"
 editor - 1: "[[Alison Fuller]]"
@@ -8,8 +8,8 @@ editor - 3: "[[Helen Rainbird]]"
 key: "[[@Hoddinott2004-on]]"
 booktitle: Workplace Learning in Context
 aliases:
-  - The Assessment Of Workers’ ‘basic Skills’ - A Critique Based On Evidence From The United States, Canada And England
-  - The Assessment Of Workers’ ‘basic Skills’
+  - The Assessment Of Workers’ ‘Basic Skills’ - A Critique Based On Evidence From The United States, Canada And England
+  - The Assessment Of Workers’ ‘Basic Skills’
 publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:

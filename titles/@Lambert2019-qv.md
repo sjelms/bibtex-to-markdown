@@ -1,5 +1,5 @@
 ---
-title: Practical Research Methods in Education -  An Early Researcher's Critical Guide
+title: Practical Research Methods In Education - An Early Researcher's Critical Guide
 year: 2019
 author - 1: "[[Mike Lambert]]"
 key: "[[@Lambert2019-qv]]"

@@ -1,5 +1,5 @@
 ---
-title: Evaluating Virtual Reality Simulations for Construction Safety Training
+title: Evaluating Virtual Reality Simulations For Construction Safety Training
 year: 2022
 author - 1: "[[Markus Jelonek]]"
 author - 2: "[[Eileen Fiala]]"

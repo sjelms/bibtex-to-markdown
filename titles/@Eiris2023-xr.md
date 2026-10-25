@@ -1,5 +1,5 @@
 ---
-title: Applying 360-degree virtual reality for construction safety training
+title: Applying 360-Degree Virtual Reality For Construction Safety Training
 year: 2023
 author - 1: "[[Ricardo Eiris]]"
 author - 2: "[[Masoud Gheisari]]"

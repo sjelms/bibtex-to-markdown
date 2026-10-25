@@ -1,5 +1,5 @@
 ---
-title: Walter Gropius -  Visionary Founder of the Bauhaus
+title: Walter Gropius - Visionary Founder Of The Bauhaus
 year: 2019
 author - 1: "[[Fiona MacCarthy]]"
 key: "[[@MacCarthy2019-gn]]"

@@ -1,5 +1,5 @@
 ---
-title: Perspectives into learning at the workplace
+title: Perspectives Into Learning At The Workplace
 year: 2008
 author - 1: "[[Päivi Tynjälä]]"
 key: "[[@Tynjala2008-ct]]"

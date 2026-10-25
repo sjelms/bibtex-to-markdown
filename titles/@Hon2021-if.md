@@ -1,5 +1,5 @@
 ---
-title: Project 12 -  VR/AR technologies in vocational education and training (scoping study)
+title: Project 12 - Vr/ar Technologies In Vocational Education And Training (Scoping Study)
 year: 2021
 author - 1: "[[Carol Hon]]"
 author - 2: "[[Buser Say]]"
@@ -7,7 +7,7 @@ author - 3: "[[Kourosh Khoshelham]]"
 key: "[[@Hon2021-if]]"
 booktitle: Building 4.0 CRC
 aliases:
-  - Project 12 - Vr/ar Technologies In Vocational Education And Training (scoping Study)
+  - Project 12 - Vr/ar Technologies In Vocational Education And Training (Scoping Study)
   - Project 12
 type: "[[@online]]"
 tags:

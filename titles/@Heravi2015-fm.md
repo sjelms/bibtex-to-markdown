@@ -1,5 +1,5 @@
 ---
-title: Applying Artificial Neural Networks for Measuring and Predicting Construction-Labor Productivity
+title: Applying Artificial Neural Networks For Measuring And Predicting Construction-Labor Productivity
 year: 2015
 author - 1: "[[Gholamreza Heravi]]"
 author - 2: "[[Ehsan Eslamdoost]]"

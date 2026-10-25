@@ -1,5 +1,5 @@
 ---
-title: HUD's Past, Present, and Future Role in Accelerating U.S. Offsite Construction for Housing -  A Comparative Study and Action Plan
+title: HUD's Past, Present, And Future Role In Accelerating U.s. Offsite Construction For Housing - A Comparative Study And Action Plan
 year: 2026
 author - 1: "[[Ivan Rupnik]]"
 author - 2: "[[Ryan E Smith]]"

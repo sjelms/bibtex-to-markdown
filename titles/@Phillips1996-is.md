@@ -1,5 +1,5 @@
 ---
-title: How much is the training worth?
+title: How Much Is The Training Worth?
 year: 1996
 author - 1: "[[Jack J Phillips]]"
 key: "[[@Phillips1996-is]]"

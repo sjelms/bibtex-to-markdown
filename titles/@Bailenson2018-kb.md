@@ -1,5 +1,5 @@
 ---
-title: Experience on Demand -  What Virtual Reality Is, How It Works, and What It Can Do
+title: Experience On Demand - What Virtual Reality Is, How It Works, And What It Can Do
 year: 2018
 author - 1: "[[Jeremy N Bailenson]]"
 key: "[[@Bailenson2018-kb]]"

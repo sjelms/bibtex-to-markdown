@@ -1,5 +1,5 @@
 ---
-title: Restrictive and expansive participation in companies’ activities -  A case study of bricklaying and automation technology apprentices in Switzerland
+title: Restrictive And Expansive Participation In Companies’ Activities - A Case Study Of Bricklaying And Automation Technology Apprentices In Switzerland
 year: 2020
 author - 1: "[[Alexandra Felder]]"
 author - 2: "[[Kerstin Duemmler]]"

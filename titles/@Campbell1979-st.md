@@ -1,5 +1,5 @@
 ---
-title: Assessing the impact of planned social change
+title: Assessing The Impact Of Planned Social Change
 year: 1979
 author - 1: "[[Donald T Campbell]]"
 key: "[[@Campbell1979-st]]"

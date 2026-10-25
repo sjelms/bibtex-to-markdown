@@ -1,5 +1,5 @@
 ---
-title: Performance through people - Transforming human capital into competitive advantage
+title: Performance Through People - Transforming Human Capital Into Competitive Advantage
 year: 2023
 author - 1: "[[Anu Madgavkar]]"
 author - 2: "[[Bill Schaninger]]"

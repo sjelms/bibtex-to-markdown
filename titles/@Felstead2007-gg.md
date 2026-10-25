@@ -1,5 +1,5 @@
 ---
-title: Skills at work, 1986 to 2006
+title: Skills At Work, 1986 To 2006
 year: 2007
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Duncan Gallie]]"

@@ -1,10 +1,10 @@
 ---
-title: Organizational Learning -  The ‘Third Way’
+title: Organizational Learning - The ‘Third Way’
 year: 2004
 author - 1: "[[Bente Elkjaer]]"
 key: "[[@Elkjaer2004-xt]]"
 aliases:
-  - Organizational Learning - The ‘third Way’
+  - Organizational Learning - The ‘Third Way’
   - Organizational Learning
 journal: "[[Management Learning]]"
 volume: 35

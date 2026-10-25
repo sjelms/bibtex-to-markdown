@@ -1,5 +1,5 @@
 ---
-title: 2018 Deloitte Skills Gap and Future of Work in Manufacturing Study
+title: 2018 Deloitte Skills Gap And Future Of Work In Manufacturing Study
 year: 2018
 author - 1: "[[Craig Giffi]]"
 author - 2: "[[Paul Wellener]]"

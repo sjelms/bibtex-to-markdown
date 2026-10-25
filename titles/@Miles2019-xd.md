@@ -1,5 +1,5 @@
 ---
-title: Qualitative Data Analysis -  A Methods Sourcebook
+title: Qualitative Data Analysis - A Methods Sourcebook
 year: 2019
 author - 1: "[[Matthew B Miles]]"
 author - 2: "[[A Michael Huberman]]"

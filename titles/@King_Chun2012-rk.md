@@ -1,5 +1,5 @@
 ---
-title: The use of virtual prototyping for hazard identification in the early design stage
+title: The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage
 year: 2012
 author - 1: "[[Chan King Chun]]"
 author - 2: "[[Heng Li]]"

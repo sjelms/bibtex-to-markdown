@@ -1,5 +1,5 @@
 ---
-title: Hello World -  Being Human in the Age of Algorithms
+title: Hello World - Being Human In The Age Of Algorithms
 year: 2018
 author - 1: "[[Hannah Fry]]"
 key: "[[@Fry2018-os]]"

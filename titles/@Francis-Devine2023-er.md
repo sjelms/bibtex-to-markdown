@@ -1,5 +1,5 @@
 ---
-title: Rising cost of living in the UK
+title: Rising Cost Of Living In The UK
 year: 2023
 author - 1: "[[Brigid Francis-Devine]]"
 author - 2: "[[Cassie Barton]]"

@@ -1,5 +1,5 @@
 ---
-title: Onsite vs. Offsite -  Comparing Environmental Impacts
+title: Onsite Vs. Offsite - Comparing Environmental Impacts
 year: 2017
 author - 1: "[[John D Quale]]"
 editor - 1: "[[Ryan E Smith]]"

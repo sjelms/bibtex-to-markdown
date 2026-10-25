@@ -1,5 +1,5 @@
 ---
-title: Tangible interfaces for learning - Training spatial skills in vocational classrooms
+title: Tangible Interfaces For Learning - Training Spatial Skills In Vocational Classrooms
 year: 2013
 author - 1: "[[Sébastien Cuendet]]"
 key: "[[@Cuendet2013-tu]]"

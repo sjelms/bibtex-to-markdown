@@ -1,5 +1,5 @@
 ---
-title: Untangling the Skilled Labor Knot
+title: Untangling The Skilled Labor Knot
 year: 2023
 author - 1: "[[Clayton DeKorne]]"
 key: "[[@DeKorne2023-mb]]"

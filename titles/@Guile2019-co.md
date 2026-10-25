@@ -1,5 +1,5 @@
 ---
-title: The Wiley Handbook of Vocational Education and Training
+title: The Wiley Handbook Of Vocational Education And Training
 year: 2019
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"

@@ -1,5 +1,5 @@
 ---
-title: Key Competences for Lifelong Learning
+title: Key Competences For Lifelong Learning
 year: 2019
 author - 1: "[[European Commission]]"
 key: "[[@European-Commission2019-go]]"

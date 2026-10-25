@@ -1,5 +1,5 @@
 ---
-title: Toward a new building era
+title: Toward A New Building Era
 year: 2022
 author - 1: "[[Marco Casini]]"
 editor - 1: "[[Marco Casini]]"

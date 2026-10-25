@@ -1,5 +1,5 @@
 ---
-title: Reflections on the Ecolab and the Zone of Proximal Development
+title: Reflections On The Ecolab And The Zone Of Proximal Development
 year: 2016
 author - 1: "[[Rosemary Luckin]]"
 author - 2: "[[Benedict du Boulay]]"

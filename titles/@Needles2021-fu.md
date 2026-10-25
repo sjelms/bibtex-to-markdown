@@ -1,5 +1,5 @@
 ---
-title: Looking Ahead -  Preparing Your Workforce for 2022
+title: Looking Ahead - Preparing Your Workforce For 2022
 year: 2021
 author - 1: "[[Nicole Needles]]"
 key: "[[@Needles2021-fu]]"

@@ -1,5 +1,5 @@
 ---
-title: Understanding the determinants of construction robot adoption -  Perspective of building contractors
+title: Understanding The Determinants Of Construction Robot Adoption - Perspective Of Building Contractors
 year: 2020
 author - 1: "[[Mi Pan]]"
 author - 2: "[[Wei Pan]]"

@@ -1,5 +1,5 @@
 ---
-title: Reskilling for Construction 4.0
+title: Reskilling For Construction 4.0
 year: 2022
 author - 1: "[[Omoseni Oyindamola Adepoju]]"
 editor - 1: "[[Omoseni Oyindamola Adepoju]]"

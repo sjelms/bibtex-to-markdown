@@ -1,5 +1,5 @@
 ---
-title: Naked Statistics -  Stripping the Dread from the Data
+title: Naked Statistics - Stripping The Dread From The Data
 year: 2013
 author - 1: "[[Charles Wheelan]]"
 key: "[[@Wheelan2013-vt]]"

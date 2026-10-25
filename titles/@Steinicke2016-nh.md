@@ -1,5 +1,5 @@
 ---
-title: Being really virtual -  Immersive natives and the future of virtual reality
+title: Being Really Virtual - Immersive Natives And The Future Of Virtual Reality
 year: 2016
 author - 1: "[[Frank Steinicke]]"
 key: "[[@Steinicke2016-nh]]"

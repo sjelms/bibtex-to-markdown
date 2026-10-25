@@ -1,5 +1,5 @@
 ---
-title: 100 years of training and development research -  What we know and where we should go
+title: 100 Years Of Training And Development Research - What We Know And Where We Should Go
 year: 2017
 author - 1: "[[Bradford S Bell]]"
 author - 2: "[[Scott I Tannenbaum]]"

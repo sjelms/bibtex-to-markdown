@@ -1,5 +1,5 @@
 ---
-title: Model of Learning/Training of Occupational Safety and Health (OSH) Based on Industry in the Construction Industry
+title: Model Of Learning/training Of Occupational Safety And Health (OSH) Based On Industry In The Construction Industry
 year: 2015
 author - 1: "[[Bambang Endroyo]]"
 author - 2: "[[Bambang E Yuwono]]"
@@ -7,7 +7,7 @@ author - 3: "[[Djemari Mardapi]]"
 author - 4: "[[Soenarto]]"
 key: "[[@Endroyo2015-qg]]"
 aliases:
-  - Model Of Learning/training Of Occupational Safety & Health (OSH) Based On Industry In The Construction Industry
+  - Model Of Learning/training Of Occupational Safety And Health (OSH) Based On Industry In The Construction Industry
 journal: "[[Procedia Engineering]]"
 publisher: "[[Elsevier]]"
 volume: 125

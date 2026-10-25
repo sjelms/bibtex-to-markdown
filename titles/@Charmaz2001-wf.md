@@ -1,5 +1,5 @@
 ---
-title: Grounded theory in ethnography
+title: Grounded Theory In Ethnography
 year: 2001
 author - 1: "[[Kathy Charmaz]]"
 author - 2: "[[Richard G Mitchell]]"

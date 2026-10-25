@@ -1,5 +1,5 @@
 ---
-title: Anti-work, TVET and employer engagement
+title: Anti-Work, TVET And Employer Engagement
 year: 2022
 author - 1: "[[James Avis]]"
 key: "[[@Avis2022-yt]]"

@@ -1,5 +1,5 @@
 ---
-title: Analyzing Social Settings -  A Guide to Qualitative Observation and Analysis
+title: Analyzing Social Settings - A Guide To Qualitative Observation And Analysis
 year: 1994
 author - 1: "[[John Lofland]]"
 author - 2: "[[Lyn H Lofland]]"

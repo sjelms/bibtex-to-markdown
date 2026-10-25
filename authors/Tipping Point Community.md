@@ -10,7 +10,7 @@ aliases:
 ## Tipping Point Community
 
 ### Content:
-[[@Tipping-Point-Community2020-uy|Charles And Helen Schwab Invest \$65M In Groundbreaking Homelessness Solutions In SF]]
+[[@Tipping-Point-Community2020-uy|Charles And Helen Schwab Invest $65M In Groundbreaking Homelessness Solutions In SF]]
 
 #### Bibliography:
 

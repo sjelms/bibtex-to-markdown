@@ -1,5 +1,5 @@
 ---
-title: Population 2030 -  Demographic challenges and opportunities for sustainable development planning
+title: Population 2030 - Demographic Challenges And Opportunities For Sustainable Development Planning
 year: 2015
 author - 1: "[[United Nations, Department of Economic and Social Affairs]]"
 key: "[[@United_Nations_Department_of_Economic_and_Social_Affairs2015-tc]]"

@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship and the Concept of Occupation
+title: Apprenticeship And The Concept Of Occupation
 year: 2013
 author - 1: "[[Alison Fuller]]"
 key: "[[@Fuller2013-sa]]"

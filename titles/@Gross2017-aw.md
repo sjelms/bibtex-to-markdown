@@ -1,5 +1,5 @@
 ---
-title: Scale versus scope in the diffusion of new technology -  Evidence from the farm tractor
+title: Scale Versus Scope In The Diffusion Of New Technology - Evidence From The Farm Tractor
 year: 2017
 author - 1: "[[Daniel Gross]]"
 key: "[[@Gross2017-aw]]"

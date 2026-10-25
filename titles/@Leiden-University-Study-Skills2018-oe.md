@@ -1,5 +1,5 @@
 ---
-title: Thesis Writing for Students with AD(H)D
+title: Thesis Writing For Students With Ad(h)d
 year: 2018
 author - 1: "[[Leiden University Study Skills]]"
 key: "[[@Leiden-University-Study-Skills2018-oe]]"

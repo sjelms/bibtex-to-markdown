@@ -1,5 +1,5 @@
 ---
-title: The Significance of Workplace Learning for Individuals, Groups and Organisations
+title: The Significance Of Workplace Learning For Individuals, Groups And Organisations
 year: 2007
 author - 1: "[[Michael Eraut]]"
 author - 2: "[[Wendy Hirsch]]"

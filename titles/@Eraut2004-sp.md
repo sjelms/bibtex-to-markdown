@@ -1,5 +1,5 @@
 ---
-title: Transfer of Knowledge Between Education and Workplace Settings
+title: Transfer Of Knowledge Between Education And Workplace Settings
 year: 2004
 author - 1: "[[Michael Eraut]]"
 editor - 1: "[[Alison Fuller]]"

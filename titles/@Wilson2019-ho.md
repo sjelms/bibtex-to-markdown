@@ -1,5 +1,5 @@
 ---
-title: Design for Modular Construction -  An Introduction for Architects
+title: Design For Modular Construction - An Introduction For Architects
 year: 2019
 author - 1: "[[James Wilson]]"
 key: "[[@Wilson2019-ho]]"

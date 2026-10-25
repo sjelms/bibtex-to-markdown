@@ -1,5 +1,5 @@
 ---
-title: A systematic review of immersive virtual reality applications for higher education -  Design elements, lessons learned, and research agenda
+title: A Systematic Review Of Immersive Virtual Reality Applications For Higher Education - Design Elements, Lessons Learned, And Research Agenda
 year: 2020
 author - 1: "[[Jaziar Radianti]]"
 author - 2: "[[Tim A Majchrzak]]"

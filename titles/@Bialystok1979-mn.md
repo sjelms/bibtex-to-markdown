@@ -1,5 +1,5 @@
 ---
-title: Explicit and implicit judgements of l2 grammaticality
+title: Explicit And Implicit Judgements Of L2 Grammaticality
 year: 1979
 author - 1: "[[Ellen Bialystok]]"
 key: "[[@Bialystok1979-mn]]"

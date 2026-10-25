@@ -1,5 +1,5 @@
 ---
-title: Handbook of Construction Safety, Health and Well-being in the Industry 4.0 Era
+title: Handbook Of Construction Safety, Health And Well-Being In The Industry 4.0 Era
 year: 2023
 author - 1: "[[Patrick Manu]]"
 author - 2: "[[Shang Gao]]"

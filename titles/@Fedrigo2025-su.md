@@ -1,5 +1,5 @@
 ---
-title: Pre-vocational training for refugees in Switzerland -  Characteristics of workplace learning
+title: Pre-Vocational Training For Refugees In Switzerland - Characteristics Of Workplace Learning
 year: 2025
 author - 1: "[[Laurence Fedrigo]]"
 author - 2: "[[Marlise Kammermann]]"

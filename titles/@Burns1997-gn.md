@@ -1,5 +1,5 @@
 ---
-title: Introduction to Research Methods
+title: Introduction To Research Methods
 year: 1997
 author - 1: "[[Robert B Burns]]"
 key: "[[@Burns1997-gn]]"

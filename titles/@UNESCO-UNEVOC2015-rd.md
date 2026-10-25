@@ -1,5 +1,5 @@
 ---
-title: Recommendation concerning Technical and Vocational Education and Training (TVET)
+title: Recommendation Concerning Technical And Vocational Education And Training (TVET)
 year: 2015
 author - 1: "[[UNESCO-UNEVOC]]"
 key: "[[@UNESCO-UNEVOC2015-rd]]"

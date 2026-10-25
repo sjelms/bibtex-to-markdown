@@ -1,5 +1,5 @@
 ---
-title: The Digital Turn in Architecture 1992 - 2012 -  AD reader
+title: The Digital Turn In Architecture 1992 - 2012 - AD Reader
 year: 2012
 author - 1: "[[Mario Carpo]]"
 editor - 1: "[[Mario Carpo]]"

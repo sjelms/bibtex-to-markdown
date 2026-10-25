@@ -1,5 +1,5 @@
 ---
-title: Tangible interfaces -  when physical–virtual coupling may be detrimental to learning
+title: Tangible Interfaces - When Physical–Virtual Coupling May Be Detrimental To Learning
 year: 2012
 author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Patrick Jermann]]"

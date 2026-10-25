@@ -1,5 +1,5 @@
 ---
-title: The Changing Meaning of Skill -  Still Contested, Still Important
+title: The Changing Meaning Of Skill - Still Contested, Still Important
 year: 2017
 author - 1: "[[Jonathan Payne]]"
 editor - 1: "[[Chris Warhurst]]"

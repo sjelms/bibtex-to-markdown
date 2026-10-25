@@ -1,5 +1,5 @@
 ---
-title: Hit Makers -  How Things Become Popular
+title: Hit Makers - How Things Become Popular
 year: 2017
 author - 1: "[[Derek Thompson]]"
 key: "[[@Thompson2017-ps]]"

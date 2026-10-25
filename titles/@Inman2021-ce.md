@@ -1,5 +1,5 @@
 ---
-title: UK enjoys property sales boom amid Covid-19 pandemic
+title: UK Enjoys Property Sales Boom Amid Covid-19 Pandemic
 year: 2021
 author - 1: "[[Phillip Inman]]"
 key: "[[@Inman2021-ce]]"

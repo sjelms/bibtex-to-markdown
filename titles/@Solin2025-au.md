@@ -1,5 +1,5 @@
 ---
-title: A global review of Modern Methods of Construction (MMC) workforce training
+title: A Global Review Of Modern Methods Of Construction (MMC) Workforce Training
 year: 2025
 author - 1: "[[Isabel Solin]]"
 author - 2: "[[Laura Gutierrez Bucheli]]"

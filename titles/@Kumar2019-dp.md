@@ -1,5 +1,5 @@
 ---
-title: Research Methodology -  A Step-by-step Guide for Beginners
+title: Research Methodology - A Step-By-Step Guide For Beginners
 year: 2019
 author - 1: "[[Ranjit Kumar]]"
 key: "[[@Kumar2019-dp]]"

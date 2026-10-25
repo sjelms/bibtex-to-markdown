@@ -1,5 +1,5 @@
 ---
-title: Multimedia Learning in Virtual and Mixed Reality
+title: Multimedia Learning In Virtual And Mixed Reality
 year: 2021
 author - 1: "[[Jocelyn Parong]]"
 editor - 1: "[[Logan Fiorella]]"

@@ -1,5 +1,5 @@
 ---
-title: Explaining Innovation at Work -  A Socio-Personal Account
+title: Explaining Innovation At Work - A Socio-Personal Account
 year: 2012
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2012-xz]]"

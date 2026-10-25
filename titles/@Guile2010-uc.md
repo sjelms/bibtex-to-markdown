@@ -1,5 +1,5 @@
 ---
-title: Higher Education and the Two Worlds of Knowledge
+title: Higher Education And The Two Worlds Of Knowledge
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-uc]]"

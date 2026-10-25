@@ -1,5 +1,5 @@
 ---
-title: Market control -  understanding the China's construction industry
+title: Market Control - Understanding The China's Construction Industry
 year: 2018
 author - 1: "[[Wei Zhao]]"
 key: "[[@Zhao2018-nq]]"

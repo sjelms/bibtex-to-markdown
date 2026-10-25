@@ -1,5 +1,5 @@
 ---
-title: Trade Union Membership, UK 1995-2020 -  Statistical Bulletin
+title: Trade Union Membership, UK 1995-2020 - Statistical Bulletin
 year: 2021
 author - 1: "[[Ivan Bishop]]"
 key: "[[@Bishop2021-qh]]"

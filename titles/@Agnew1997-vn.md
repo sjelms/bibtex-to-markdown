@@ -1,5 +1,5 @@
 ---
-title: Deskilling and reskilling within the labour process -  The case of computer integrated manufacturing
+title: Deskilling And Reskilling Within The Labour Process - The Case Of Computer Integrated Manufacturing
 year: 1997
 author - 1: "[[Andrew Agnew]]"
 author - 2: "[[Paul Forrester]]"

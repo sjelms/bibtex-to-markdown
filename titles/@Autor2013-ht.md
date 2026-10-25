@@ -1,5 +1,5 @@
 ---
-title: The Growth of Low-skill Service Jobs and the Polarization of the US Labor Market
+title: The Growth Of Low-Skill Service Jobs And The Polarization Of The US Labor Market
 year: 2013
 author - 1: "[[David H Autor]]"
 author - 2: "[[David Dorn]]"

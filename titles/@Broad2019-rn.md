@@ -1,5 +1,5 @@
 ---
-title: Capturing the Elusive -  How Vocational Teachers Develop and Sustain Their Expertise
+title: Capturing The Elusive - How Vocational Teachers Develop And Sustain Their Expertise
 year: 2019
 author - 1: "[[Janet Hamilton Broad]]"
 author - 2: "[[Ann Lahiff]]"

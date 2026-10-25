@@ -1,5 +1,5 @@
 ---
-title: Novice to Expert -  An Exploration of How Professionals Learn
+title: Novice To Expert - An Exploration Of How Professionals Learn
 year: 1999
 author - 1: "[[Barbara J Daley]]"
 key: "[[@Daley1999-dn]]"

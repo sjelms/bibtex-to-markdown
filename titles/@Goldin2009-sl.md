@@ -1,5 +1,5 @@
 ---
-title: The race between education and technology
+title: The Race Between Education And Technology
 year: 2009
 author - 1: "[[Claudia Goldin]]"
 author - 2: "[[Lawrence F Katz]]"

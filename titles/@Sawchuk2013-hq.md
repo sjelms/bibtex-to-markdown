@@ -1,5 +1,5 @@
 ---
-title: Divisions of Knowledge Production, Group Formation, and Occupational Enculturation
+title: Divisions Of Knowledge Production, Group Formation, And Occupational Enculturation
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-hq]]"

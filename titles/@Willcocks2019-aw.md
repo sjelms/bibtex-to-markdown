@@ -1,5 +1,5 @@
 ---
-title: Hidden in plain sight -  the ghost in the automation and future of work debate
+title: Hidden In Plain Sight - The Ghost In The Automation And Future Of Work Debate
 year: 2019
 author - 1: "[[Leslie Willcocks]]"
 key: "[[@Willcocks2019-aw]]"

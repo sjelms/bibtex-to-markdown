@@ -1,5 +1,5 @@
 ---
-title: Experience based learning (EBL) -  Exploring professional teaching through critical reflection and reflexivity
+title: Experience Based Learning (EBL) - Exploring Professional Teaching Through Critical Reflection And Reflexivity
 year: 2009
 author - 1: "[[Fiona Murphy]]"
 author - 2: "[[Fiona Timmins]]"

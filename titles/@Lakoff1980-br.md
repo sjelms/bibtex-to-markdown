@@ -1,5 +1,5 @@
 ---
-title: Conceptual metaphor in everyday language
+title: Conceptual Metaphor In Everyday Language
 year: 1980
 author - 1: "[[George Lakoff]]"
 author - 2: "[[Mark Johnson]]"

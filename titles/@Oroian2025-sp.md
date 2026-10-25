@@ -1,5 +1,5 @@
 ---
-title: ADHD and Decision Paralysis -  Overwhelm in a World of Choices
+title: ADHD And Decision Paralysis - Overwhelm In A World Of Choices
 year: 2025
 author - 1: "[[Bianca Augusta Oroian]]"
 author - 2: "[[Petronela Nechita]]"

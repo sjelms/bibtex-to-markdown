@@ -1,5 +1,5 @@
 ---
-title: Life in This Iconic Mid‑Century Suburb Shows How California Dreams Are Shrinking
+title: Life In This Iconic Mid‑century Suburb Shows How California Dreams Are Shrinking
 year: 2018
 author - 1: "[[Meghan Mccarty Carino]]"
 key: "[[@Carino2018-pc]]"

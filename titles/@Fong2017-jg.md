@@ -1,5 +1,5 @@
 ---
-title: The Big Debate About the Future of Work, Explained
+title: The Big Debate About The Future Of Work, Explained
 year: 2017
 author - 1: "[[Joss Fong]]"
 key: "[[@Fong2017-jg]]"

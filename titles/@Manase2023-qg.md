@@ -1,5 +1,5 @@
 ---
-title: GIS-based health and safety information analysis
+title: GIS-Based Health And Safety Information Analysis
 year: 2023
 author - 1: "[[David Manase]]"
 editor - 1: "[[Patrick Manu]]"

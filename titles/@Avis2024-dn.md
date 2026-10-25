@@ -1,5 +1,5 @@
 ---
-title: Work-based learning -  Expansive learning, désoeuvrement, social justice and VET
+title: Work-Based Learning - Expansive Learning, Désoeuvrement, Social Justice And VET
 year: 2024
 author - 1: "[[James Avis]]"
 key: "[[@Avis2024-dn]]"

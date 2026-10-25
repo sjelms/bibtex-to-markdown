@@ -1,10 +1,10 @@
 ---
-title: Key competencies -  Report of the Committee to advise the Australian Education Council and Ministers of Vocational Education, Employment and Training on employment-related key competencies for postcompulsory education and training [Mayer report]
+title: Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [Mayer Report]
 year: 1992
 author - 1: "[[Australian Education Council, Mayer Committee]]"
 key: "[[@Australian_Education_Council_Mayer_Committee1992-na]]"
 aliases:
-  - Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]
+  - Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [Mayer Report]
   - Key Competencies
 publisher: "[[Australian Education Council and Ministers of Vocational Education Employment and Training]]"
 type: "[[@book]]"

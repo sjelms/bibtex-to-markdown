@@ -1,5 +1,5 @@
 ---
-title: On two metaphors for learning and the dangers of choosing just one
+title: On Two Metaphors For Learning And The Dangers Of Choosing Just One
 year: 1998
 author - 1: "[[Anna Sfard]]"
 key: "[[@Sfard1998-bo]]"

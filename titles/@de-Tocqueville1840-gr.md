@@ -1,5 +1,5 @@
 ---
-title: Democracy in America
+title: Democracy In America
 year: 1840
 author - 1: "[[Alexis Charles Henri Clérel de Tocqueville]]"
 key: "[[@de-Tocqueville1840-gr]]"

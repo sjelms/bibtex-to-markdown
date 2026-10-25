@@ -12,7 +12,7 @@ category:
 ### Content:
 [[@Avis2022-yt|Anti-Work, TVET And Employer Engagement]]
 [[@Bishop2009-co|Constructing Learning]]
-[[@Brockmann2023-od|‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
+[[@Brockmann2023-od|‘Invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Engestrom2001-my|Expansive Learning At Work]]
 [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities]]
 [[@Felstead2005-vo|Surveying The Scene]]

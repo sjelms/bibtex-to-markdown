@@ -1,5 +1,5 @@
 ---
-title: Design Science Methodology for Developing a Learning Object Repository for Construction
+title: Design Science Methodology For Developing A Learning Object Repository For Construction
 year: 2016
 author - 1: "[[Pathmeswaran Raju]]"
 author - 2: "[[Vian Ahmed]]"

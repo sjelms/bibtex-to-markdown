@@ -1,5 +1,5 @@
 ---
-title: History of the Cotton Manufacture in Great Britain -  With a Notice of Its Early History in the East, and in All the Quarters of the Globe
+title: History Of The Cotton Manufacture In Great Britain - With A Notice Of Its Early History In The East, And In All The Quarters Of The Globe
 year: 1835
 author - 1: "[[Edward Baines]]"
 key: "[[@Baines1835-hj]]"

@@ -1,5 +1,5 @@
 ---
-title: A Review of Self-regulated Learning -  Six Models and Four Directions for Research
+title: A Review Of Self-Regulated Learning - Six Models And Four Directions For Research
 year: 2017
 author - 1: "[[Ernesto Panadero]]"
 key: "[[@Panadero2017-tm]]"

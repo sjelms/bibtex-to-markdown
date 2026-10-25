@@ -1,5 +1,5 @@
 ---
-title: Completing Your PhD
+title: Completing Your Phd
 year: 2011
 author - 1: "[[Kate Williams]]"
 author - 2: "[[Emily Bethell]]"

@@ -1,5 +1,5 @@
 ---
-title: Evolution of large‐scale industrialisation and service innovation in Japanese prefabrication industry
+title: Evolution Of Large‐scale Industrialisation And Service Innovation In Japanese Prefabrication Industry
 year: 2012
 author - 1: "[[Thomas Linner]]"
 author - 2: "[[Thomas Bock]]"

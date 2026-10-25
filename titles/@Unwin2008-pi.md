@@ -1,5 +1,5 @@
 ---
-title: Exploring the Dangers and Benefits of the UK’s Permissive Competence-based Approach -  the Use of Vocational Qualifications as Learning Artefacts and Tools for Measurement in the Automotive Sector
+title: Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector
 year: 2008
 author - 1: "[[Lorna Unwin]]"
 author - 2: "[[Alison Fuller]]"

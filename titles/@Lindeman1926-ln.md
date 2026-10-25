@@ -1,5 +1,5 @@
 ---
-title: The Meaning of Adult Education
+title: The Meaning Of Adult Education
 year: 1926
 author - 1: "[[Eduard C Lindeman]]"
 key: "[[@Lindeman1926-ln]]"

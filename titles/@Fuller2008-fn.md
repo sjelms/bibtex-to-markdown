@@ -1,5 +1,5 @@
 ---
-title: Towards expansive apprenticeships -  a commentary by the Teaching and Learning Research Programme
+title: Towards Expansive Apprenticeships - A Commentary By The Teaching And Learning Research Programme
 year: 2008
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

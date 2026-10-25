@@ -1,5 +1,5 @@
 ---
-title: Planning and Infrastructure Bill
+title: Planning And Infrastructure Bill
 year: 2025
 author - 1: "[[Angela Rayner]]"
 author - 2: "[[Baroness Taylor of Stevenage]]"

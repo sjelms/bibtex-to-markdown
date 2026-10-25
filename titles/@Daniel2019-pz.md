@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship for craftspeople in the construction industry -  a state-of-the-art review
+title: Apprenticeship For Craftspeople In The Construction Industry - A State-Of-The-Art Review
 year: 2019
 author - 1: "[[Emmanuel Itodo Daniel]]"
 author - 2: "[[Olalekan Shamsideen Oshodi]]"

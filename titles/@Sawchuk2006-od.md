@@ -1,10 +1,10 @@
 ---
-title: ‘Use-Value’ and the Re-thinking of Skills, Learning and the Labour Process
+title: ‘Use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process
 year: 2006
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2006-od]]"
 aliases:
-  - ‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process
+  - ‘Use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process
 journal: "[[The Journal of Industrial Relations]]"
 publisher: "[[SAGE Publications]]"
 volume: 48

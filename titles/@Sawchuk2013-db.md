@@ -1,5 +1,5 @@
 ---
-title: Re-Skilling, Consenting, and the Engrossments of Administrative Knowledge
+title: Re-Skilling, Consenting, And The Engrossments Of Administrative Knowledge
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-db]]"

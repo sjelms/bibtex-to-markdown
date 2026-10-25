@@ -1,5 +1,5 @@
 ---
-title: Conflict at Work -  A Materialist Analysis of Workplace Relations
+title: Conflict At Work - A Materialist Analysis Of Workplace Relations
 year: 1986
 author - 1: "[[Paul K Edwards]]"
 key: "[[@Edwards1986-zy]]"

@@ -1,5 +1,5 @@
 ---
-title: Learning from other people in the workplace
+title: Learning From Other People In The Workplace
 year: 2007
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2007-ro]]"

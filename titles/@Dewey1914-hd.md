@@ -1,5 +1,5 @@
 ---
-title: A Policy of Industrial Education
+title: A Policy Of Industrial Education
 year: 1914
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1914-hd]]"

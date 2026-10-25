@@ -1,10 +1,10 @@
 ---
-title: Nickel and Dimed -  On (Not) Getting By in America
+title: Nickel And Dimed - On (Not) Getting By In America
 year: 2001
 author - 1: "[[Barbara Ehrenreich]]"
 key: "[[@Ehrenreich2001-wn]]"
 aliases:
-  - Nickel And Dimed - On (not) Getting By In America
+  - Nickel And Dimed - On (Not) Getting By In America
   - Nickel And Dimed
 publisher: "[[Granta Books]]"
 type: "[[@book]]"

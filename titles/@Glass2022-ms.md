@@ -1,5 +1,5 @@
 ---
-title: Transforming Construction -  the Multi-scale Challenges of Changing and Innovating in Construction
+title: Transforming Construction - The Multi-Scale Challenges Of Changing And Innovating In Construction
 year: 2022
 author - 1: "[[Jacqueline Glass]]"
 author - 2: "[[Lena E Bygballe]]"

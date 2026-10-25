@@ -1,5 +1,5 @@
 ---
-title: Models of Design in Studio Teaching
+title: Models Of Design In Studio Teaching
 year: 1985
 author - 1: "[[Stefani Ledewitz]]"
 key: "[[@Ledewitz1985-qi]]"

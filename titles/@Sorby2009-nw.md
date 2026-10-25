@@ -1,5 +1,5 @@
 ---
-title: Educational Research in Developing 3D Spatial Skills for Engineering Students
+title: Educational Research In Developing 3D Spatial Skills For Engineering Students
 year: 2009
 author - 1: "[[Sheryl A Sorby]]"
 key: "[[@Sorby2009-nw]]"

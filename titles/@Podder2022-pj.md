@@ -1,5 +1,5 @@
 ---
-title: Immersive Industrialized Construction Environments for Energy-Efficient Construction Workforce
+title: Immersive Industrialized Construction Environments For Energy-Efficient Construction Workforce
 year: 2022
 author - 1: "[[Ankur Podder]]"
 author - 2: "[[Kenny Gruchalla]]"

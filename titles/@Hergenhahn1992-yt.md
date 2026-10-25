@@ -1,5 +1,5 @@
 ---
-title: An Introduction to the History of Psychology
+title: An Introduction To The History Of Psychology
 year: 1992
 author - 1: "[[Baldwin R Hergenhahn]]"
 key: "[[@Hergenhahn1992-yt]]"

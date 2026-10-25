@@ -1,5 +1,5 @@
 ---
-title: Juno Design -  Throwing Out the Playbook
+title: Juno Design - Throwing Out The Playbook
 year: 2021
 author - 1: "[[B J Siegel]]"
 key: "[[@Siegel2021-ks]]"

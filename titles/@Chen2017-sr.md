@@ -1,5 +1,5 @@
 ---
-title: A review of using Augmented Reality in Education from 2011 to 2016
+title: A Review Of Using Augmented Reality In Education From 2011 To 2016
 year: 2017
 author - 1: "[[Peng Chen]]"
 author - 2: "[[Xiaolin Liu]]"

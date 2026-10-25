@@ -1,5 +1,5 @@
 ---
-title: Workplace Learning in Context
+title: Workplace Learning In Context
 year: 2004
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Anne Munro]]"

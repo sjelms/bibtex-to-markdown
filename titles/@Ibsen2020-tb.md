@@ -1,5 +1,5 @@
 ---
-title: Growing Apart -  Efficiency and Equality in the German and Danish VET Systems
+title: Growing Apart - Efficiency And Equality In The German And Danish VET Systems
 year: 2020
 author - 1: "[[Christian Lyhne Ibsen]]"
 author - 2: "[[Kathleen Thelen]]"

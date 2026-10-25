@@ -1,5 +1,5 @@
 ---
-title: Beyond the Institution of Apprenticeship -  Towards a Social Theory of Learning as the Production of Knowledge
+title: Beyond The Institution Of Apprenticeship - Towards A Social Theory Of Learning As The Production Of Knowledge
 year: 2014
 author - 1: "[[David Guile]]"
 author - 2: "[[Michael Young]]"

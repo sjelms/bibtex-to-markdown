@@ -1,5 +1,5 @@
 ---
-title: Political economy of vocational education and training
+title: Political Economy Of Vocational Education And Training
 year: 2019
 author - 1: "[[Damian Oliver]]"
 author - 2: "[[Serena Yu]]"

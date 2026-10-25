@@ -1,5 +1,5 @@
 ---
-title: Computing inequality -  Have computers changed the labor market?
+title: Computing Inequality - Have Computers Changed The Labor Market?
 year: 1998
 author - 1: "[[David H Autor]]"
 author - 2: "[[Lawrence F Katz]]"

@@ -1,5 +1,5 @@
 ---
-title: Offsite Production and Manufacturing for Innovative Construction -  People, Process, and Technology
+title: Offsite Production And Manufacturing For Innovative Construction - People, Process, And Technology
 year: 2019
 author - 1: "[[Jack S Goulding]]"
 author - 2: "[[Farzad Pour Rahimian]]"

@@ -1,5 +1,5 @@
 ---
-title: The Tyranny of Tacit Knowledge -  What Artificial Intelligence Tells us About Knowledge Representation
+title: The Tyranny Of Tacit Knowledge - What Artificial Intelligence Tells Us About Knowledge Representation
 year: 2005
 author - 1: "[[Kurt D Fenstermacher]]"
 key: "[[@Fenstermacher2005-ai]]"

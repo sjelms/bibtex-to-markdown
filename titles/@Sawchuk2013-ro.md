@@ -1,5 +1,5 @@
 ---
-title: Contested Learning in Welfare Work -  A Study of Mind, Political Economy, and the Labour Process
+title: Contested Learning In Welfare Work - A Study Of Mind, Political Economy, And The Labour Process
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-ro]]"

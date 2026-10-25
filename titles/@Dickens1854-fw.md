@@ -1,11 +1,11 @@
 ---
-title: textit Hard Times -  For These Times
+title: Textit Hard Times - For These Times
 year: 1854
 author - 1: "[[Charles Dickens]]"
 key: "[[@Dickens1854-fw]]"
 aliases:
-  - \textit Hard Times - For These Times
-  - \textit Hard Times
+  - Textit Hard Times - For These Times
+  - Textit Hard Times
 publisher: "[[Bradbury and Evans]]"
 type: "[[@book]]"
 tags:

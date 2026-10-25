@@ -1,5 +1,5 @@
 ---
-title: Why central London has seen the biggest rises in house prices, despite COVID
+title: Why Central London Has Seen The Biggest Rises In House Prices, Despite COVID
 year: 2021
 author - 1: "[[Paul Cheshire]]"
 author - 2: "[[Christian Hilber]]"

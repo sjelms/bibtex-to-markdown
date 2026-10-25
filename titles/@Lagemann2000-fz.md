@@ -1,5 +1,5 @@
 ---
-title: An Elusive Science -  The Troubling History of Education Research
+title: An Elusive Science - The Troubling History Of Education Research
 year: 2000
 author - 1: "[[Ellen Condliffe Lagemann]]"
 key: "[[@Lagemann2000-fz]]"

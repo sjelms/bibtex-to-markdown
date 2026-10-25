@@ -1,5 +1,5 @@
 ---
-title: What the Luddites Really Fought Against
+title: What The Luddites Really Fought Against
 year: 2011
 author - 1: "[[Richard Conniff]]"
 key: "[[@Conniff2011-dm]]"

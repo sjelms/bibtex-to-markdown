@@ -1,5 +1,5 @@
 ---
-title: Historical Mediations in the Making of Taylorism in Contemporary State Social Services Work
+title: Historical Mediations In The Making Of Taylorism In Contemporary State Social Services Work
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-bi]]"

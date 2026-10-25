@@ -1,5 +1,5 @@
 ---
-title: Productivity improvements -  understand the workforce perceptions of productivity first
+title: Productivity Improvements - Understand The Workforce Perceptions Of Productivity First
 year: 2007
 author - 1: "[[Paul W Chan]]"
 author - 2: "[[Ammar Kaka]]"

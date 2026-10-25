@@ -1,5 +1,5 @@
 ---
-title: Machine, Platform, Crowd -  Harnessing the Digital Revolution -  Harnessing Our Digital Future
+title: Machine, Platform, Crowd - Harnessing The Digital Revolution - Harnessing Our Digital Future
 year: 2017
 author - 1: "[[Andrew McAfee]]"
 author - 2: "[[Erik Brynjolfsson]]"

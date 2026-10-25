@@ -1,5 +1,5 @@
 ---
-title: Cognitive Apprenticeship -  Teaching the Crafts of Reading, Writing, and Mathematics
+title: Cognitive Apprenticeship - Teaching The Crafts Of Reading, Writing, And Mathematics
 year: 1987
 author - 1: "[[Allan Collins]]"
 author - 2: "[[John Seely Brown]]"

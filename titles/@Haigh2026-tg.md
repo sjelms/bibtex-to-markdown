@@ -1,5 +1,5 @@
 ---
-title: Repositioning construction management education for Construction 5.0 -  an accreditation-aligned competency framework and review
+title: Repositioning Construction Management Education For Construction 5.0 - An Accreditation-Aligned Competency Framework And Review
 year: 2026
 author - 1: "[[Robert Haigh]]"
 key: "[[@Haigh2026-tg]]"

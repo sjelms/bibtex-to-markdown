@@ -1,5 +1,5 @@
 ---
-title: Industrial Strategy -  Building a Britain Fit for the Future
+title: Industrial Strategy - Building A Britain Fit For The Future
 year: 2017
 author - 1: "[[Greg Clark]]"
 key: "[[@Clark2017-mj]]"

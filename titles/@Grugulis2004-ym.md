@@ -1,5 +1,5 @@
 ---
-title: What’s happening to ‘skill’?
+title: What’s Happening To ‘Skill’?
 year: 2004
 author - 1: "[[Irena Grugulis]]"
 author - 2: "[[Chris Warhurst]]"
@@ -7,7 +7,7 @@ author - 3: "[[Ewart Keep]]"
 key: "[[@Grugulis2004-ym]]"
 booktitle: The Skills That Matter
 aliases:
-  - What’s Happening To ‘skill’?
+  - What’s Happening To ‘Skill’?
 publisher: "[[Bloomsbury Academic]]"
 type: "[[@inbook]]"
 tags:

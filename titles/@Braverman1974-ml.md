@@ -1,5 +1,5 @@
 ---
-title: The Division of Labor
+title: The Division Of Labor
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ml]]"

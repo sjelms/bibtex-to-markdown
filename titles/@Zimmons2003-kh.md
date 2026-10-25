@@ -1,5 +1,5 @@
 ---
-title: The influence of rendering quality on presence and task performance in a virtual environment
+title: The Influence Of Rendering Quality On Presence And Task Performance In A Virtual Environment
 year: 2003
 author - 1: "[[P Zimmons]]"
 author - 2: "[[A Panter]]"

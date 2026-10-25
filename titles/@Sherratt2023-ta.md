@@ -1,5 +1,5 @@
 ---
-title: The digitalization of UK construction labour
+title: The Digitalization Of UK Construction Labour
 year: 2023
 author - 1: "[[Fred Sherratt]]"
 author - 2: "[[Chris Ivory]]"

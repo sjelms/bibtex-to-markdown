@@ -1,5 +1,5 @@
 ---
-title: Intelligence Unleashed -  An Argument for AI in Education
+title: Intelligence Unleashed - An Argument For AI In Education
 year: 2016
 author - 1: "[[Rosemary Luckin]]"
 author - 2: "[[Wayne Holmes]]"

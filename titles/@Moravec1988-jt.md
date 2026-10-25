@@ -1,5 +1,5 @@
 ---
-title: Mind Children -  The Future of Robot and Human Intelligence
+title: Mind Children - The Future Of Robot And Human Intelligence
 year: 1988
 author - 1: "[[Hans P Moravec]]"
 key: "[[@Moravec1988-jt]]"

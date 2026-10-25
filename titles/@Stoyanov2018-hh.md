@@ -1,5 +1,5 @@
 ---
-title: Ikujiro Nonaka's A Dynamic Theory of Organisational Knowledge Creation
+title: Ikujiro Nonaka's A Dynamic Theory Of Organisational Knowledge Creation
 year: 2018
 author - 1: "[[Stoyan Stoyanov]]"
 key: "[[@Stoyanov2018-hh]]"

@@ -1,5 +1,5 @@
 ---
-title: Tidier Drawings of Trees
+title: Tidier Drawings Of Trees
 year: 1981
 author - 1: "[[E M Reingold]]"
 author - 2: "[[J S Tilford]]"

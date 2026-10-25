@@ -1,5 +1,5 @@
 ---
-title: The Tyranny of Metrics
+title: The Tyranny Of Metrics
 year: 2019
 author - 1: "[[Jerry Z Muller]]"
 key: "[[@Muller2019-zm]]"

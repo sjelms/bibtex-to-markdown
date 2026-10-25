@@ -1,5 +1,5 @@
 ---
-title: Construction Workforce Shortage Tops Half a Million in 2023, Says ABC
+title: Construction Workforce Shortage Tops Half A Million In 2023, Says ABC
 year: 2023
 author - 1: "[[Associated Builders and Contractors]]"
 key: "[[@Associated_Builders_and_Contractors2023-pe]]"

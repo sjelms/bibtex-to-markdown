@@ -1,5 +1,5 @@
 ---
-title: ABC of learning and teaching in medicine -  Applying educational theory in practice
+title: ABC Of Learning And Teaching In Medicine - Applying Educational Theory In Practice
 year: 2003
 author - 1: "[[David M Kaufman]]"
 key: "[[@Kaufman2003-by]]"

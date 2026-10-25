@@ -1,5 +1,5 @@
 ---
-title: syNErgy -  A Case Study in Workforce Curriculum Development
+title: Synergy - A Case Study In Workforce Curriculum Development
 year: 2013
 author - 1: "[[John Killingsworth]]"
 author - 2: "[[Kevin R Grosskopf]]"

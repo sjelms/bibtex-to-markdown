@@ -1,5 +1,5 @@
 ---
-title: A Study of Carpenter Apprentices’ Spatial Skills
+title: A Study Of Carpenter Apprentices’ Spatial Skills
 year: 2014
 author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Jessica Dehler-Zufferey]]"

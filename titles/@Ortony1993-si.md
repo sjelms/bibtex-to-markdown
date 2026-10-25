@@ -1,5 +1,5 @@
 ---
-title: Metaphor and Thought
+title: Metaphor And Thought
 year: 1993
 author - 1: "[[Andrew Ortony]]"
 editor - 1: "[[Andrew Ortony]]"

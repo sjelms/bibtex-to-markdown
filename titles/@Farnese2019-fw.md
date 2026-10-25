@@ -1,5 +1,5 @@
 ---
-title: Managing Knowledge in Organizations -  A Nonaka’s SECI Model Operationalization
+title: Managing Knowledge In Organizations - A Nonaka’s SECI Model Operationalization
 year: 2019
 author - 1: "[[Maria Luisa Farnese]]"
 author - 2: "[[Barbara Barbieri]]"

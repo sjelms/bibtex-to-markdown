@@ -1,5 +1,5 @@
 ---
-title: Introduction to Vygotsky
+title: Introduction To Vygotsky
 year: 2017
 author - 1: "[[Harry Daniels]]"
 editor - 1: "[[Harry Daniels]]"

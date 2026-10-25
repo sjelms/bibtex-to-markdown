@@ -1,11 +1,11 @@
 ---
-title: Learning, Innovation and ‘tacit pedagogy’ in workplace practice -  a comparison of two high-performing organisations in different sectors
+title: Learning, Innovation And ‘Tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors
 year: 2019
 author - 1: "[[Jay Derrick]]"
 key: "[[@Derrick2019-fu]]"
 aliases:
-  - Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors
-  - Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice
+  - Learning, Innovation And ‘Tacit Pedagogy’ In Workplace Practice - A Comparison Of Two High-Performing Organisations In Different Sectors
+  - Learning, Innovation And ‘Tacit Pedagogy’ In Workplace Practice
 institution: "[[UCL (University College London)]]"
 type: "[[@phdthesis]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-title: TikTok-inspired self-diagnosis and its implications for educational psychology practice
+title: Tiktok-Inspired Self-Diagnosis And Its Implications For Educational Psychology Practice
 year: 2024
 author - 1: "[[Alma Foster]]"
 author - 2: "[[Natasha Ellis]]"

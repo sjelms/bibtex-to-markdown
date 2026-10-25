@@ -1,5 +1,5 @@
 ---
-title: Theory in Practice -  Increasing Professional Effectiveness
+title: Theory In Practice - Increasing Professional Effectiveness
 year: 1974
 author - 1: "[[Chris Argyris]]"
 author - 2: "[[Donald A Schön]]"

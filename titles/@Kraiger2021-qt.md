@@ -1,5 +1,5 @@
 ---
-title: The science of workplace instruction -  Learning and development applied to work
+title: The Science Of Workplace Instruction - Learning And Development Applied To Work
 year: 2021
 author - 1: "[[Kurt Kraiger]]"
 author - 2: "[[J Kevin Ford]]"

@@ -1,5 +1,5 @@
 ---
-title: Learning and knowledge acquisition through international strategic alliances
+title: Learning And Knowledge Acquisition Through International Strategic Alliances
 year: 1998
 author - 1: "[[Andrew C Inkpen]]"
 key: "[[@Inkpen1998-os]]"

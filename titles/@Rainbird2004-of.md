@@ -1,5 +1,5 @@
 ---
-title: The employment relationship and workplace learning
+title: The Employment Relationship And Workplace Learning
 year: 2004
 author - 1: "[[Helen Rainbird]]"
 author - 2: "[[Anne Munro]]"

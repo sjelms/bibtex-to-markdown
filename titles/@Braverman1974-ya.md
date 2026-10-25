@@ -1,5 +1,5 @@
 ---
-title: Labor and Labor Power
+title: Labor And Labor Power
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ya]]"

@@ -1,5 +1,5 @@
 ---
-title: On acquiring expertise in medicine
+title: On Acquiring Expertise In Medicine
 year: 1993
 author - 1: "[[Henk G Schmidt]]"
 author - 2: "[[Henny P A Boshuizen]]"

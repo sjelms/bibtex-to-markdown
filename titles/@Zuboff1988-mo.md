@@ -1,5 +1,5 @@
 ---
-title: In the Age of the Smart Machine -  The Future of Work and Power
+title: In The Age Of The Smart Machine - The Future Of Work And Power
 year: 1988
 author - 1: "[[Shoshana Zuboff]]"
 key: "[[@Zuboff1988-mo]]"

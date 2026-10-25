@@ -1,5 +1,5 @@
 ---
-title: The Future of Jobs Report 2020
+title: The Future Of Jobs Report 2020
 year: 2020
 author - 1: "[[Saadia Zahidi]]"
 author - 2: "[[Vesselina Ratcheva]]"

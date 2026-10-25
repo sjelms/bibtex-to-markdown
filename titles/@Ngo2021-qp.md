@@ -1,5 +1,5 @@
 ---
-title: Skilled Workers Are Scarce, Posing a Challenge for Biden’s Infrastructure Plan
+title: Skilled Workers Are Scarce, Posing A Challenge For Biden’s Infrastructure Plan
 year: 2021
 author - 1: "[[Madeleine Ngo]]"
 key: "[[@Ngo2021-qp]]"

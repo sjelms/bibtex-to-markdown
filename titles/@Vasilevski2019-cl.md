@@ -1,5 +1,5 @@
 ---
-title: Optimizing augmented reality outcomes in a gamified place experience application through design science research
+title: Optimizing Augmented Reality Outcomes In A Gamified Place Experience Application Through Design Science Research
 year: 2019
 author - 1: "[[Nikolche Vasilevski]]"
 author - 2: "[[James Birt]]"

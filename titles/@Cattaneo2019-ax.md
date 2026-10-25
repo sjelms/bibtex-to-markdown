@@ -1,5 +1,5 @@
 ---
-title: A Model for Designing Hypervideo-based Instructional Scenarios
+title: A Model For Designing Hypervideo-Based Instructional Scenarios
 year: 2019
 author - 1: "[[Alberto A P Cattaneo]]"
 author - 2: "[[Hans van der Meij]]"

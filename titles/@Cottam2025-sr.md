@@ -1,5 +1,5 @@
 ---
-title: The Work We Need -  A 21st Century Imagining
+title: The Work We Need - A 21st Century Imagining
 year: 2025
 author - 1: "[[Hilary Cottam]]"
 key: "[[@Cottam2025-sr]]"

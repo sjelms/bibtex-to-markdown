@@ -1,5 +1,5 @@
 ---
-title: Expanding Skills and Workplace Capacity -  A Relational Approach to Industrial Strategy
+title: Expanding Skills And Workplace Capacity - A Relational Approach To Industrial Strategy
 year: 2021
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

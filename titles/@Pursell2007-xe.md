@@ -1,5 +1,5 @@
 ---
-title: The Machine in America -  A Social History of Technology
+title: The Machine In America - A Social History Of Technology
 year: 2007
 author - 1: "[[Carroll Pursell]]"
 key: "[[@Pursell2007-xe]]"

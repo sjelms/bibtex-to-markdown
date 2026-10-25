@@ -1,12 +1,12 @@
 ---
-title: From Bauhaus to m-[h]ouse -  The Concept of the Ready-Made and the Kit-Built House
+title: From Bauhaus To M-[H]ouse - The Concept Of The Ready-Made And The Kit-Built House
 year: 2008
 author - 1: "[[Paul J Armstrong]]"
 key: "[[@Armstrong2008-wr]]"
 booktitle: Without a Hitch -  New Directions in Prefabricated Architecture
 aliases:
-  - From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House
-  - From Bauhaus To M-[h]ouse
+  - From Bauhaus To M-[H]ouse - The Concept Of The Ready-Made And The Kit-Built House
+  - From Bauhaus To M-[H]ouse
 publisher: "[[University of Illinois Urbana Champaign]]"
 type: "[[@inbook]]"
 tags:

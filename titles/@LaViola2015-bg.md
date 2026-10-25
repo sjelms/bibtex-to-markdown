@@ -1,5 +1,5 @@
 ---
-title: Using augmented reality to tutor military tasks in the wild
+title: Using Augmented Reality To Tutor Military Tasks In The Wild
 year: 2015
 author - 1: "[[Joseph J LaViola]]"
 author - 2: "[[Brian M Williamson]]"

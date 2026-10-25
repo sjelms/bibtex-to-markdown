@@ -1,5 +1,5 @@
 ---
-title: The expanding role of workplace training -  Themes and trends influencing training research and practice
+title: The Expanding Role Of Workplace Training - Themes And Trends Influencing Training Research And Practice
 year: 2007
 author - 1: "[[Kurt Kraiger]]"
 author - 2: "[[J Kevin Ford]]"

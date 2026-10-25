@@ -1,5 +1,5 @@
 ---
-title: Computational Mathetics -  Towards a Science of Learning Systems Design
+title: Computational Mathetics - Towards A Science Of Learning Systems Design
 year: 1995
 author - 1: "[[John Self]]"
 key: "[[@Self1995-ne]]"

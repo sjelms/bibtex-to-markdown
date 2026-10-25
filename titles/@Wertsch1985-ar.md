@@ -1,5 +1,5 @@
 ---
-title: Extending Vygotsky’s Semiotic Analysis -  Propositional and Discourse Referentiality
+title: Extending Vygotsky’s Semiotic Analysis - Propositional And Discourse Referentiality
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-ar]]"

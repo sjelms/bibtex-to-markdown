@@ -1,5 +1,5 @@
 ---
-title: Putting New Tools in Students' Hands
+title: Putting New Tools In Students' Hands
 year: 2010
 author - 1: "[[Alice Rawsthorn]]"
 key: "[[@Rawsthorn2010-ut]]"

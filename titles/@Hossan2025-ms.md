@@ -1,5 +1,5 @@
 ---
-title: Bridging Theory and Practice -  Theoretical, Conceptual, and Research Frameworks
+title: Bridging Theory And Practice - Theoretical, Conceptual, And Research Frameworks
 year: 2025
 author - 1: "[[Dalowar Hossan]]"
 author - 2: "[[Bert Wolfs]]"

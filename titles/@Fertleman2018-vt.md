@@ -1,5 +1,5 @@
 ---
-title: A Discussion of Virtual Reality As a New Tool for Training Healthcare Professionals
+title: A Discussion Of Virtual Reality As A New Tool For Training Healthcare Professionals
 year: 2018
 author - 1: "[[Caroline Fertleman]]"
 author - 2: "[[Phoebe Aubugeau-Williams]]"

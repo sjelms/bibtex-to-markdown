@@ -1,5 +1,5 @@
 ---
-title: Major expansion of post-18 education and training to level up and prepare workers for post-COVID economy
+title: Major Expansion Of Post-18 Education And Training To Level Up And Prepare Workers For Post-COVID Economy
 year: 2020
 author - 1: "[[Prime Minister's Office]]"
 key: "[[@Prime-Minister-s-Office2020-dw]]"

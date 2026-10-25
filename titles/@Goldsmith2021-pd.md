@@ -1,5 +1,5 @@
 ---
-title: Using Framework Analysis in Applied Qualitative Research
+title: Using Framework Analysis In Applied Qualitative Research
 year: 2021
 author - 1: "[[Laurie J Goldsmith]]"
 key: "[[@Goldsmith2021-pd]]"

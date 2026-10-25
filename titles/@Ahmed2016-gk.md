@@ -1,5 +1,5 @@
 ---
-title: Choosing an Appropriate Research Methodology and Method
+title: Choosing An Appropriate Research Methodology And Method
 year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"

@@ -1,5 +1,5 @@
 ---
-title: Towards a New European Bauhaus—Challenges in Design Education -  EAAE Annual Conference—Madrid 2022
+title: Towards A New European Bauhaus—Challenges In Design Education - EAAE Annual Conference—Madrid 2022
 year: 2024
 author - 1: "[[Manuel Blanco Lage]]"
 author - 2: "[[Oya Atalay Franck]]"

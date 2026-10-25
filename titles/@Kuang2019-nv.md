@@ -1,11 +1,11 @@
 ---
-title: User Friendly -  How the Hidden Rules of Design are Changing the Way We Live, Work and Play
+title: User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work And Play
 year: 2019
 author - 1: "[[Cliff Kuang]]"
 author - 2: "[[Robert Fabricant]]"
 key: "[[@Kuang2019-nv]]"
 aliases:
-  - User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work & Play
+  - User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work And Play
   - User Friendly
 publisher: "[[Random House]]"
 type: "[[@book]]"

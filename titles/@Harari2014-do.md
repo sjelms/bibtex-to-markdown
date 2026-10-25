@@ -1,5 +1,5 @@
 ---
-title: Sapiens -  A Brief History of Humankind
+title: Sapiens - A Brief History Of Humankind
 year: 2014
 author - 1: "[[Yuval Noah Harari]]"
 key: "[[@Harari2014-do]]"

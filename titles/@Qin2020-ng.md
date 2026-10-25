@@ -1,5 +1,5 @@
 ---
-title: The Learning System at IBM -  A Case Study
+title: The Learning System At IBM - A Case Study
 year: 2020
 author - 1: "[[Fei Qin]]"
 author - 2: "[[Thomas Kochan]]"

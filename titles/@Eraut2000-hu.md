@@ -1,5 +1,5 @@
 ---
-title: Non‐formal learning and tacit knowledge in professional work
+title: Non‐formal Learning And Tacit Knowledge In Professional Work
 year: 2000
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2000-hu]]"

@@ -1,5 +1,5 @@
 ---
-title: Modern Methods of Construction -  Definition Framework
+title: Modern Methods Of Construction - Definition Framework
 year: 2019
 author - 1: "[[Ministry of Housing, Communities, and Local Government]]"
 key: "[[@Ministry-of-Housing-Communities-and-Local-Government2019-qd]]"

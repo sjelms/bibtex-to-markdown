@@ -1,5 +1,5 @@
 ---
-title: Workplace Learning in China -  Transferring Training Into Practice to Improve Performance
+title: Workplace Learning In China - Transferring Training Into Practice To Improve Performance
 year: 2022
 author - 1: "[[Xingheng Wang]]"
 author - 2: "[[Weihan Lin]]"

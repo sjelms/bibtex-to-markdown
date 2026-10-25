@@ -1,5 +1,5 @@
 ---
-title: Where Good Ideas Come from -  The Seven Patterns of Innovation
+title: Where Good Ideas Come From - The Seven Patterns Of Innovation
 year: 2011
 author - 1: "[[Steven Johnson]]"
 key: "[[@Johnson2011-da]]"

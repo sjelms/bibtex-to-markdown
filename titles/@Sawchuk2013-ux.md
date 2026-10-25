@@ -1,5 +1,5 @@
 ---
-title: Researching workplace learning -  An overview and critique
+title: Researching Workplace Learning - An Overview And Critique
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-ux]]"

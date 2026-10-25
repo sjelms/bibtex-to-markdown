@@ -1,5 +1,5 @@
 ---
-title: The Context of Learning in Professional Work Environments -  Insights From the Accountancy Profession
+title: The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession
 year: 2004
 author - 1: "[[Keith Hoskin]]"
 author - 2: "[[Fiona Anderson-Gough]]"

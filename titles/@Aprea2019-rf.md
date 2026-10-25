@@ -1,5 +1,5 @@
 ---
-title: Designing Technology-Enhanced Learning Environments in Vocational Education and Training
+title: Designing Technology-Enhanced Learning Environments In Vocational Education And Training
 year: 2019
 author - 1: "[[Carmela Aprea]]"
 author - 2: "[[Alberto A P Cattaneo]]"

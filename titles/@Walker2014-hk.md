@@ -1,5 +1,5 @@
 ---
-title: Adaptive Intelligent Support to Improve Peer Tutoring in Algebra
+title: Adaptive Intelligent Support To Improve Peer Tutoring In Algebra
 year: 2014
 author - 1: "[[Erin Walker]]"
 author - 2: "[[Nikol Rummel]]"

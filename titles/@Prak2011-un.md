@@ -1,10 +1,10 @@
 ---
-title: Mega-structures of the Middle Ages -  the construction of religious buildings in Europe and Asia,textit c.1000–1500
+title: Mega-Structures Of The Middle Ages - The Construction Of Religious Buildings In Europe And Asia,textit C.1000–1500
 year: 2011
 author - 1: "[[Maarten Prak]]"
 key: "[[@Prak2011-un]]"
 aliases:
-  - Mega-Structures Of The Middle Ages - The Construction Of Religious Buildings In Europe And Asia,\textit C.1000–1500
+  - Mega-Structures Of The Middle Ages - The Construction Of Religious Buildings In Europe And Asia,textit C.1000–1500
   - Mega-Structures Of The Middle Ages
 journal: "[[Journal of Global History]]"
 publisher: "[[Cambridge University Press CUP]]"

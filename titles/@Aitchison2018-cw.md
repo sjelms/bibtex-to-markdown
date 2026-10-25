@@ -1,5 +1,5 @@
 ---
-title: Prefab Housing and the Future of Building -  Product to Process
+title: Prefab Housing And The Future Of Building - Product To Process
 year: 2018
 author - 1: "[[Mathew Aitchison]]"
 key: "[[@Aitchison2018-cw]]"

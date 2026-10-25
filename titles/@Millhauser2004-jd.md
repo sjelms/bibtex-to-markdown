@@ -1,10 +1,10 @@
 ---
-title: Cat 'n' Mouse
+title: Cat 'N' Mouse
 year: 2004
 author - 1: "[[Steven Millhauser]]"
 key: "[[@Millhauser2004-jd]]"
 aliases:
-  - Cat 'n' Mouse
+  - Cat 'N' Mouse
 journal: "[[New Yorker New York N Y 1925]]"
 type: "[[@article]]"
 tags:

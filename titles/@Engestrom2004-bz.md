@@ -1,5 +1,5 @@
 ---
-title: The new generation of expertise -  Seven theses
+title: The New Generation Of Expertise - Seven Theses
 year: 2004
 author - 1: "[[Yrjö Engeström]]"
 editor - 1: "[[Alison Fuller]]"

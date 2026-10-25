@@ -1,5 +1,5 @@
 ---
-title: The Labor Market Consequences of Regulating Similar Occupations -  The Licensing of Occupational and Physical Therapists
+title: The Labor Market Consequences Of Regulating Similar Occupations - The Licensing Of Occupational And Physical Therapists
 year: 2016
 author - 1: "[[Jing Cai]]"
 author - 2: "[[Morris M Kleiner]]"

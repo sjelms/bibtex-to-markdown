@@ -1,5 +1,5 @@
 ---
-title: The Productivity J-Curve -  How Intangibles Complement General Purpose Technologies
+title: The Productivity J-Curve - How Intangibles Complement General Purpose Technologies
 year: 2021
 author - 1: "[[Erik Brynjolfsson]]"
 author - 2: "[[Daniel Rock]]"

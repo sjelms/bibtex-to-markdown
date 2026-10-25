@@ -1,5 +1,5 @@
 ---
-title: Deep Work -  Rules for Focused Success in a Distracted World
+title: Deep Work - Rules For Focused Success In A Distracted World
 year: 2016
 author - 1: "[[Cal Newport]]"
 key: "[[@Newport2016-kk]]"

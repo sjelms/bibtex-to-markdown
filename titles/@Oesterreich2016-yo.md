@@ -1,5 +1,5 @@
 ---
-title: Understanding the Implications of Digitisation and Automation in the Context of Industry 4.0 -  A Triangulation Approach and Elements of a Research Agenda for the Construction Industry
+title: Understanding The Implications Of Digitisation And Automation In The Context Of Industry 4.0 - A Triangulation Approach And Elements Of A Research Agenda For The Construction Industry
 year: 2016
 author - 1: "[[Thuy Duong Oesterreich]]"
 author - 2: "[[Frank Teuteberg]]"

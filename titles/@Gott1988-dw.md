@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship Instruction for Real-World Tasks -  The Coordination of Procedures, Mental Models, and Strategies
+title: Apprenticeship Instruction For Real-World Tasks - The Coordination Of Procedures, Mental Models, And Strategies
 year: 1988
 author - 1: "[[Sherrie P Gott]]"
 key: "[[@Gott1988-dw]]"

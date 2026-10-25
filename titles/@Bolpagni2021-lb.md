@@ -1,5 +1,5 @@
 ---
-title: Industry 4.0 for the Built Environment -  Methodologies, Technologies, and Skills
+title: Industry 4.0 For The Built Environment - Methodologies, Technologies, And Skills
 year: 2021
 author - 1: "[[Marzia Bolpagni]]"
 author - 2: "[[Rui Gavina]]"

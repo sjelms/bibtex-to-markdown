@@ -1,5 +1,5 @@
 ---
-title: Participatory Research Methods -  A Methodological Approach in Motion
+title: Participatory Research Methods - A Methodological Approach In Motion
 year: 2012
 author - 1: "[[Jarg Bergold]]"
 author - 2: "[[Stefan Thomas]]"

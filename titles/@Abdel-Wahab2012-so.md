@@ -1,5 +1,5 @@
 ---
-title: Rethinking Apprenticeship Training in the British Construction Industry
+title: Rethinking Apprenticeship Training In The British Construction Industry
 year: 2012
 author - 1: "[[Mohamed Abdel-Wahab]]"
 key: "[[@Abdel-Wahab2012-so]]"

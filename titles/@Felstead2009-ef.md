@@ -1,5 +1,5 @@
 ---
-title: Creating knowledge
+title: Creating Knowledge
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

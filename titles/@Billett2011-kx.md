@@ -1,5 +1,5 @@
 ---
-title: Vocational Education -  Purposes, Traditions and Prospects
+title: Vocational Education - Purposes, Traditions And Prospects
 year: 2011
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2011-kx]]"

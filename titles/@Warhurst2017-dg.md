@@ -1,5 +1,5 @@
 ---
-title: The Oxford Handbook of Skills and Training
+title: The Oxford Handbook Of Skills And Training
 year: 2017
 author - 1: "[[Chris Warhurst]]"
 author - 2: "[[Ken Mayhew]]"

@@ -1,5 +1,5 @@
 ---
-title: Cognitive–Linguistic and Constructivist Mnemonic Triggers in Teaching Based on Jerome Bruner’s Thinking
+title: Cognitive–Linguistic And Constructivist Mnemonic Triggers In Teaching Based On Jerome Bruner’s Thinking
 year: 2018
 author - 1: "[[Jari Metsämuuronen]]"
 author - 2: "[[Pekka Räsänen]]"

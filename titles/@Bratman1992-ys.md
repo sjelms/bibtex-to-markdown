@@ -1,5 +1,5 @@
 ---
-title: Shared cooperative activity
+title: Shared Cooperative Activity
 year: 1992
 author - 1: "[[Michael E Bratman]]"
 key: "[[@Bratman1992-ys]]"

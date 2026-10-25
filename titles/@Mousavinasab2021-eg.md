@@ -1,5 +1,5 @@
 ---
-title: Intelligent tutoring systems -  a systematic review of characteristics, applications, and evaluation methods
+title: Intelligent Tutoring Systems - A Systematic Review Of Characteristics, Applications, And Evaluation Methods
 year: 2021
 author - 1: "[[Elham Mousavinasab]]"
 author - 2: "[[Nahid Zarifsanaiey]]"

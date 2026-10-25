@@ -1,5 +1,5 @@
 ---
-title: Industrialised house-building – development and conceptual orientation of the field
+title: Industrialised House-Building – Development And Conceptual Orientation Of The Field
 year: 2015
 author - 1: "[[Jerker Lessing]]"
 author - 2: "[[Lars Stehn]]"

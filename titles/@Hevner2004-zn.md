@@ -1,5 +1,5 @@
 ---
-title: Design Science in Information Systems Research
+title: Design Science In Information Systems Research
 year: 2004
 author - 1: "[[Alan R Hevner]]"
 author - 2: "[[Salvatore T March]]"

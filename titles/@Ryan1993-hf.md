@@ -1,5 +1,5 @@
 ---
-title: The Relationship Between Mandatory vs. Voluntary Participation In A Prison Literacy Program and Academic Achievement
+title: The Relationship Between Mandatory Vs. Voluntary Participation In A Prison Literacy Program And Academic Achievement
 year: 1993
 author - 1: "[[T A Ryan]]"
 author - 2: "[[Kimberly A McCabe]]"

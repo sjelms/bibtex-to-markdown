@@ -1,5 +1,5 @@
 ---
-title: Immigration and the American industrial revolution from 1880 to 1920
+title: Immigration And The American Industrial Revolution From 1880 To 1920
 year: 2009
 author - 1: "[[Charles Hirschman]]"
 author - 2: "[[Elizabeth Mogford]]"

@@ -1,5 +1,5 @@
 ---
-title: Was your degree really worth it?
+title: Was Your Degree Really Worth It?
 year: 2023
 author - 1: "[[Economist]]"
 key: "[[@Economist2023-dv]]"

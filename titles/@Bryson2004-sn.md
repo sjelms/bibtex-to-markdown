@@ -1,5 +1,5 @@
 ---
-title: A Short History of Nearly Everything
+title: A Short History Of Nearly Everything
 year: 2004
 author - 1: "[[Bill Bryson]]"
 key: "[[@Bryson2004-sn]]"

@@ -1,5 +1,5 @@
 ---
-title: Workplace pedagogic practices -  Co–participation and learning
+title: Workplace Pedagogic Practices - Co–Participation And Learning
 year: 2002
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2002-ry]]"

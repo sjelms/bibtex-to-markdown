@@ -1,5 +1,5 @@
 ---
-title: Peter Gaskell on the Effects of Mechanization on Labor
+title: Peter Gaskell On The Effects Of Mechanization On Labor
 year: 2023
 author - 1: "[[Raya Muttarak]]"
 author - 2: "[[Joshua Wilde]]"

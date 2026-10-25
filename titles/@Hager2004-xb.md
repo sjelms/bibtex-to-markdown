@@ -1,5 +1,5 @@
 ---
-title: The Conceptualization and Measurement of Learning at Work
+title: The Conceptualization And Measurement Of Learning At Work
 year: 2004
 author - 1: "[[Paul Hager]]"
 editor - 1: "[[Alison Fuller]]"

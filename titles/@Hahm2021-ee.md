@@ -1,5 +1,5 @@
 ---
-title: Augmenting Human Designers and Builders -  Augmentation Discussed in Architectural Design Research
+title: Augmenting Human Designers And Builders - Augmentation Discussed In Architectural Design Research
 year: 2021
 author - 1: "[[Soomeen Hahm]]"
 editor - 1: "[[Rob Hyde]]"

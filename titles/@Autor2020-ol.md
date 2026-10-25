@@ -1,5 +1,5 @@
 ---
-title: The Work of the Future -  Building Better Jobs in an Age of Intelligent Machines
+title: The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines
 year: 2020
 author - 1: "[[David H Autor]]"
 author - 2: "[[David A Mindell]]"

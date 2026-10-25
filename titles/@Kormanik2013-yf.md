@@ -1,5 +1,5 @@
 ---
-title: Locus of Control
+title: Locus Of Control
 year: 2013
 author - 1: "[[Martin B Kormanik]]"
 author - 2: "[[Tonette S Rocco]]"

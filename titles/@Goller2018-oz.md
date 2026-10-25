@@ -1,5 +1,5 @@
 ---
-title: Becoming a Nurse Aide -  An Investigation of an Existing Workplace Curriculum in a Nursing Home
+title: Becoming A Nurse Aide - An Investigation Of An Existing Workplace Curriculum In A Nursing Home
 year: 2018
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Bianca Steffen]]"

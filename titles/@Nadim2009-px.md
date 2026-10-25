@@ -1,5 +1,5 @@
 ---
-title: Offsite Production in the UK -  The Construction Industry and Academia
+title: Offsite Production In The UK - The Construction Industry And Academia
 year: 2009
 author - 1: "[[Wafaa Nadim]]"
 author - 2: "[[Jack S Goulding]]"

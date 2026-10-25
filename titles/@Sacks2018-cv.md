@@ -1,5 +1,5 @@
 ---
-title: BIM Handbook -  A Guide to Building Information Modeling for Owners, Designers, Engineers, Contractors, and Facility Managers
+title: BIM Handbook - A Guide To Building Information Modeling For Owners, Designers, Engineers, Contractors, And Facility Managers
 year: 2018
 author - 1: "[[Rafael Sacks]]"
 author - 2: "[[Chuck Eastman]]"

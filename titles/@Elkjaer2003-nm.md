@@ -1,5 +1,5 @@
 ---
-title: Social Learning Theory -  Learning as Participation in Social Processes
+title: Social Learning Theory - Learning As Participation In Social Processes
 year: 2003
 author - 1: "[[Bente Elkjaer]]"
 editor - 1: "[[Mark Easterby-Smith]]"

@@ -1,5 +1,5 @@
 ---
-title: Work Organisations -  A Critical Approach
+title: Work Organisations - A Critical Approach
 year: 2009
 author - 1: "[[Paul Thompson]]"
 author - 2: "[[David McHugh]]"

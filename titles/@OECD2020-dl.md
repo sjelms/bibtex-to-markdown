@@ -1,5 +1,5 @@
 ---
-title: OECD skills studies strengthening the governance of skills systems lessons from six OECD countries -  Lessons from six OECD countries
+title: OECD Skills Studies Strengthening The Governance Of Skills Systems Lessons From Six OECD Countries - Lessons From Six OECD Countries
 year: 2020
 author - 1: "[[OECD]]"
 key: "[[@OECD2020-dl]]"

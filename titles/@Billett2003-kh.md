@@ -1,5 +1,5 @@
 ---
-title: Vocational Curriculum and Pedagogy -  an Activity Theory Perspective
+title: Vocational Curriculum And Pedagogy - An Activity Theory Perspective
 year: 2003
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2003-kh]]"

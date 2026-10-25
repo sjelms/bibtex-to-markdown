@@ -1,5 +1,5 @@
 ---
-title: Bridging the Skills Gap of Workers in Industry 4.0 by Human Performance Augmentation Tools
+title: Bridging The Skills Gap Of Workers In Industry 4.0 By Human Performance Augmentation Tools
 year: 2017
 author - 1: "[[Eric Ras]]"
 author - 2: "[[Fridolin Wild]]"

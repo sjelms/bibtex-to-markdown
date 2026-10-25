@@ -1,5 +1,5 @@
 ---
-title: Revisiting Harry Braverman’s Classic Labor and Monopoly Capital
+title: Revisiting Harry Braverman’s Classic Labor And Monopoly Capital
 year: 2025
 author - 1: "[[Sophina Clark]]"
 author - 2: "[[Daniel Judt]]"

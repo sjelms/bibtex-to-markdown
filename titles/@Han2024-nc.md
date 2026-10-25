@@ -1,5 +1,5 @@
 ---
-title: Smart multi-project scheduling and multi-skilled workforce assignment for prefabricated bathroom unit production
+title: Smart Multi-Project Scheduling And Multi-Skilled Workforce Assignment For Prefabricated Bathroom Unit Production
 year: 2024
 author - 1: "[[Jinchi Han]]"
 author - 2: "[[Chen Chen]]"

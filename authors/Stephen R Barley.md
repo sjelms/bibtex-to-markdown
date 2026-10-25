@@ -10,7 +10,7 @@ aliases:
 ## Stephen R Barley
 
 ### Content:
-[[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
+[[@Barley2006-mr|What We Know (And Mostly Don't Know) About Technical Work]]
 
 #### Bibliography:
 

@@ -1,5 +1,5 @@
 ---
-title: Critical Reflection for Nursing and the Helping Professions -  Reflective Framework
+title: Critical Reflection For Nursing And The Helping Professions - Reflective Framework
 year: 2001
 author - 1: "[[Gary Rolfe]]"
 author - 2: "[[Dawn Freshwater]]"

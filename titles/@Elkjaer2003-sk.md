@@ -1,5 +1,5 @@
 ---
-title: Organizational learning with a pragmatic slant
+title: Organizational Learning With A Pragmatic Slant
 year: 2003
 author - 1: "[[Bente Elkjaer]]"
 key: "[[@Elkjaer2003-sk]]"

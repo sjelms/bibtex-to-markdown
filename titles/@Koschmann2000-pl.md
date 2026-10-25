@@ -1,5 +1,5 @@
 ---
-title: The Physiological and the Social in the Psychologies of Dewey and Thorndike -  The Matter of Habit
+title: The Physiological And The Social In The Psychologies Of Dewey And Thorndike - The Matter Of Habit
 year: 2000
 author - 1: "[[Timothy Koschmann]]"
 editor - 1: "[[Barry J Fishman]]"

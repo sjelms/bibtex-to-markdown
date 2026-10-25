@@ -1,5 +1,5 @@
 ---
-title: Think Like a Freak -  Secrets of the Rogue Economist
+title: Think Like A Freak - Secrets Of The Rogue Economist
 year: 2014
 author - 1: "[[Steven D Levitt]]"
 author - 2: "[[Stephen J Dubner]]"

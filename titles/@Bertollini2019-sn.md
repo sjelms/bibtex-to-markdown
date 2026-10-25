@@ -1,5 +1,5 @@
 ---
-title: This Is What Trillions in Global-Infrastructure Investment Look Like
+title: This Is What Trillions In Global-Infrastructure Investment Look Like
 year: 2019
 author - 1: "[[Vanessa Bertollini]]"
 key: "[[@Bertollini2019-sn]]"

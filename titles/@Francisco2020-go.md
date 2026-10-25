@@ -1,5 +1,5 @@
 ---
-title: Developing a trellis of practices that support learning in the workplace
+title: Developing A Trellis Of Practices That Support Learning In The Workplace
 year: 2020
 author - 1: "[[Susanne Francisco]]"
 key: "[[@Francisco2020-go]]"

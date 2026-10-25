@@ -10,7 +10,7 @@ aliases:
 ## Kate Mulholland
 
 ### Content:
-[[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’]]
+[[@Mulholland1998-xn|‘Survivors’ Versus ‘Movers And Shakers’]]
 
 #### Bibliography:
 

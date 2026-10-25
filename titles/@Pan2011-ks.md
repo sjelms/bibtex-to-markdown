@@ -1,5 +1,5 @@
 ---
-title: Demystifying the cost barriers to offsite construction in the UK
+title: Demystifying The Cost Barriers To Offsite Construction In The UK
 year: 2011
 author - 1: "[[Wei Pan]]"
 author - 2: "[[Robert Sidwell]]"

@@ -1,5 +1,5 @@
 ---
-title: Are Housebuilders' Production Strategies a Barrier to Offsite Construction Uptake in The UK?
+title: Are Housebuilders' Production Strategies A Barrier To Offsite Construction Uptake In The UK?
 year: 2016
 author - 1: "[[Aaron Lang]]"
 author - 2: "[[Jacqueline Glass]]"

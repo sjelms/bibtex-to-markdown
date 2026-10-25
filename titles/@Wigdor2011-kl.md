@@ -1,5 +1,5 @@
 ---
-title: Brave NUI World -  Designing Natural User Interfaces for Touch and Gesture
+title: Brave NUI World - Designing Natural User Interfaces For Touch And Gesture
 year: 2011
 author - 1: "[[Daniel Wigdor]]"
 author - 2: "[[Dennis Wixon]]"

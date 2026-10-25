@@ -1,5 +1,5 @@
 ---
-title: Learning as Remediation
+title: Learning As Remediation
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-th]]"

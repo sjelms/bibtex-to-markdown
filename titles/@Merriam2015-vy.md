@@ -1,5 +1,5 @@
 ---
-title: Qualitative Research -  A Guide to Design and Implementation
+title: Qualitative Research - A Guide To Design And Implementation
 year: 2015
 author - 1: "[[Sharan B Merriam]]"
 author - 2: "[[Elizabeth J Tisdell]]"

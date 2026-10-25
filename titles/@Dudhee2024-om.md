@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence-Enhanced Virtual Reality for Health and Safety Training in Construction
+title: Artificial Intelligence-Enhanced Virtual Reality For Health And Safety Training In Construction
 year: 2024
 author - 1: "[[Vishak Dudhee]]"
 author - 2: "[[Prasanna D Bandara]]"

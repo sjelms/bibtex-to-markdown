@@ -1,5 +1,5 @@
 ---
-title: The Longer Long Tail -  How Endless Choice is Creating Unlimited Demand
+title: The Longer Long Tail - How Endless Choice Is Creating Unlimited Demand
 year: 2009
 author - 1: "[[Chris Anderson]]"
 key: "[[@Anderson2009-jd]]"

@@ -1,5 +1,5 @@
 ---
-title: Written -  How to Keep Writing and Build a Habit That Lasts
+title: Written - How To Keep Writing And Build A Habit That Lasts
 year: 2023
 author - 1: "[[Bec Evans]]"
 author - 2: "[[Chris Smith]]"

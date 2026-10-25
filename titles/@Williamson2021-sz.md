@@ -1,5 +1,5 @@
 ---
-title: Case studies in retrofitting suburbia -  Urban design strategies for urgent challenges
+title: Case Studies In Retrofitting Suburbia - Urban Design Strategies For Urgent Challenges
 year: 2021
 author - 1: "[[June Williamson]]"
 author - 2: "[[Ellen Dunham-Jones]]"

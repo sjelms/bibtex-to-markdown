@@ -1,5 +1,5 @@
 ---
-title: Ways of the Hand -  The Organization of Improvised Conduct
+title: Ways Of The Hand - The Organization Of Improvised Conduct
 year: 1978
 author - 1: "[[David Sudnow]]"
 key: "[[@Sudnow1978-tk]]"

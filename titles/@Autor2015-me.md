@@ -1,5 +1,5 @@
 ---
-title: Why are there still so many jobs? The history and future of workplace automation
+title: Why Are There Still So Many Jobs? The History And Future Of Workplace Automation
 year: 2015
 author - 1: "[[David H Autor]]"
 key: "[[@Autor2015-me]]"

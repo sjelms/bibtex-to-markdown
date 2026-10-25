@@ -1,5 +1,5 @@
 ---
-title: Guiding workplace learning in vocational education and training -  a literature review
+title: Guiding Workplace Learning In Vocational Education And Training - A Literature Review
 year: 2017
 author - 1: "[[Susanna Mikkonen]]"
 author - 2: "[[Laura Pylväs]]"

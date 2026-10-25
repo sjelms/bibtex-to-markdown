@@ -1,5 +1,5 @@
 ---
-title: A multilateral approach to bridging the global skills gap
+title: A Multilateral Approach To Bridging The Global Skills Gap
 year: 2015
 author - 1: "[[Matthew P Olson]]"
 key: "[[@Olson2015-xp]]"

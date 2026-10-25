@@ -1,5 +1,5 @@
 ---
-title: The Road to Conscious Machines -  The Story of AI
+title: The Road To Conscious Machines - The Story Of AI
 year: 2020
 author - 1: "[[Michael Wooldridge]]"
 key: "[[@Wooldridge2020-ip]]"

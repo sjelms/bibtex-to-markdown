@@ -1,5 +1,5 @@
 ---
-title: The Impact of Zoning on Housing Affordability
+title: The Impact Of Zoning On Housing Affordability
 year: 2002
 author - 1: "[[Edward L Glaeser]]"
 author - 2: "[[Joseph Gyourko]]"

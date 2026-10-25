@@ -1,5 +1,5 @@
 ---
-title: How Progress Ends -  Technology, Innovation, and the Fate of Nations
+title: How Progress Ends - Technology, Innovation, And The Fate Of Nations
 year: 2025
 author - 1: "[[Carl Benedikt Frey]]"
 key: "[[@Frey2025-re]]"

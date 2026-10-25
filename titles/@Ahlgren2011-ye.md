@@ -1,5 +1,5 @@
 ---
-title: Lifelong learning through SMEs -  exploring workplace learning in the UK
+title: Lifelong Learning Through Smes - Exploring Workplace Learning In The UK
 year: 2011
 author - 1: "[[Linda Ahlgren]]"
 author - 2: "[[Laura C Engel]]"

@@ -1,5 +1,5 @@
 ---
-title: Evidence of emotion dysregulation as a core symptom of adult ADHD -  A systematic review
+title: Evidence Of Emotion Dysregulation As A Core Symptom Of Adult ADHD - A Systematic Review
 year: 2023
 author - 1: "[[Ana-María Soler-Gutiérrez]]"
 author - 2: "[[Juan-Carlos Pérez-González]]"

@@ -1,5 +1,5 @@
 ---
-title: Trainathon Lean Simulation Game -  Determining the Perception of Value of Training among Construction Stakeholders
+title: Trainathon Lean Simulation Game - Determining The Perception Of Value Of Training Among Construction Stakeholders
 year: 2016
 author - 1: "[[Yamini Bhatt]]"
 key: "[[@Bhatt2016-su]]"

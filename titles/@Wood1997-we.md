@@ -1,5 +1,5 @@
 ---
-title: How Children Think and Learn
+title: How Children Think And Learn
 year: 1997
 author - 1: "[[David J Wood]]"
 key: "[[@Wood1997-we]]"

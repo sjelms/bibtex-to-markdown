@@ -1,5 +1,5 @@
 ---
-title: Analysing Dewey’s Vocational Aspects of Education and Maslow’s Theory of Motivation in Support of Vocational Education and Training
+title: Analysing Dewey’s Vocational Aspects Of Education And Maslow’s Theory Of Motivation In Support Of Vocational Education And Training
 year: 2023
 author - 1: "[[Elijah Takyi Mensah]]"
 author - 2: "[[Mingkun Chen]]"

@@ -1,5 +1,5 @@
 ---
-title: Educating project managers for the construction industry in Australia
+title: Educating Project Managers For The Construction Industry In Australia
 year: 1984
 author - 1: "[[John Hutcheson]]"
 key: "[[@Hutcheson1984-gq]]"

@@ -1,5 +1,5 @@
 ---
-title: Automation, Architecture, and Labour
+title: Automation, Architecture, And Labour
 year: 2021
 author - 1: "[[Mollie Claypool]]"
 editor - 1: "[[Rob Hyde]]"

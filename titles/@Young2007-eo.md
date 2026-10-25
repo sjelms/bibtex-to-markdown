@@ -1,5 +1,5 @@
 ---
-title: Bringing Knowledge Back In -  From Social Constructivism to Social Realism in the Sociology of Education
+title: Bringing Knowledge Back In - From Social Constructivism To Social Realism In The Sociology Of Education
 year: 2007
 author - 1: "[[Michael Young]]"
 key: "[[@Young2007-eo]]"

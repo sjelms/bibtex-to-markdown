@@ -1,5 +1,5 @@
 ---
-title: Human Resource Management in Construction -  Critical Perspectives
+title: Human Resource Management In Construction - Critical Perspectives
 year: 2012
 author - 1: "[[Martin Loosemore]]"
 author - 2: "[[Andrew R J Dainty]]"

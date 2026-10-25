@@ -1,5 +1,5 @@
 ---
-title: Evaluation and application of andragogical assumptions to the adult online learning environment
+title: Evaluation And Application Of Andragogical Assumptions To The Adult Online Learning Environment
 year: 2007
 author - 1: "[[Laurie C Blondy]]"
 key: "[[@Blondy2007-lo]]"

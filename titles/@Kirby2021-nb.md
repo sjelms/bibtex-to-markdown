@@ -1,5 +1,5 @@
 ---
-title: Neurodiversity at Work -  Drive Innovation, Performance, and Productivity with a Neurodiverse Workforce
+title: Neurodiversity At Work - Drive Innovation, Performance, And Productivity With A Neurodiverse Workforce
 year: 2021
 author - 1: "[[Amanda Kirby]]"
 author - 2: "[[Theo Smith]]"

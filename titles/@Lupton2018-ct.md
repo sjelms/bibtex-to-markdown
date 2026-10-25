@@ -1,5 +1,5 @@
 ---
-title: The Construction Challenge in Greater Manchester -  Employment, Skills and Training
+title: The Construction Challenge In Greater Manchester - Employment, Skills And Training
 year: 2018
 author - 1: "[[Ruth Lupton]]"
 author - 2: "[[Trudi Martin]]"

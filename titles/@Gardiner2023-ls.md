@@ -1,5 +1,5 @@
 ---
-title: Ilke Homes goes into administration
+title: Ilke Homes Goes Into Administration
 year: 2023
 author - 1: "[[Joey Gardiner]]"
 key: "[[@Gardiner2023-ls]]"

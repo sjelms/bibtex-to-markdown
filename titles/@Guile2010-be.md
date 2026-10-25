@@ -1,5 +1,5 @@
 ---
-title: The Knowledge Economy and the Challenge for Education
+title: The Knowledge Economy And The Challenge For Education
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-be]]"

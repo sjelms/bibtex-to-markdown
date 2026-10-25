@@ -1,5 +1,5 @@
 ---
-title: Discourse, Tools, and Reasoning -  Essays on Situated Cognition
+title: Discourse, Tools, And Reasoning - Essays On Situated Cognition
 year: 1997
 author - 1: "[[Lauren B Resnick]]"
 author - 2: "[[Roger Säljö]]"

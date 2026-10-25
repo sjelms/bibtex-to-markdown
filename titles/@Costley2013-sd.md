@@ -1,5 +1,5 @@
 ---
-title: Workplace learning and higher education
+title: Workplace Learning And Higher Education
 year: 2013
 author - 1: "[[Carol Costley]]"
 key: "[[@Costley2013-sd]]"

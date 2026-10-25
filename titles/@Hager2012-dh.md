@@ -1,5 +1,5 @@
 ---
-title: Practice, Learning and Change -  Practice-Theory Perspectives on Professional Learning
+title: Practice, Learning And Change - Practice-Theory Perspectives On Professional Learning
 year: 2012
 author - 1: "[[Paul Hager]]"
 author - 2: "[[Alison Lee]]"

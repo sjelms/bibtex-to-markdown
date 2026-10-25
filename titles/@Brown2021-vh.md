@@ -1,5 +1,5 @@
 ---
-title: Research by Design -  The Gantry
+title: Research By Design - The Gantry
 year: 2021
 author - 1: "[[Hawkins Brown]]"
 editor - 1: "[[Rob Hyde]]"

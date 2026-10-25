@@ -1,5 +1,5 @@
 ---
-title: Logic -  The Theory of Inquiry
+title: Logic - The Theory Of Inquiry
 year: 1938
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1938-bl]]"

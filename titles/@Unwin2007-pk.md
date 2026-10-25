@@ -1,5 +1,5 @@
 ---
-title: Looking Inside the Russian Doll -  The Interconnections Between Context, Learning and Pedagogy in the Workplace
+title: Looking Inside The Russian Doll - The Interconnections Between Context, Learning And Pedagogy In The Workplace
 year: 2007
 author - 1: "[[Lorna Unwin]]"
 author - 2: "[[Alan Felstead]]"

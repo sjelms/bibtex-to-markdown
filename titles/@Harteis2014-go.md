@@ -1,5 +1,5 @@
 ---
-title: New Skills for New Jobs -  Work Agency as a Necessary Condition for Successful Lifelong Learning
+title: New Skills For New Jobs - Work Agency As A Necessary Condition For Successful Lifelong Learning
 year: 2014
 author - 1: "[[Christian Harteis]]"
 author - 2: "[[Michael Goller]]"

@@ -1,5 +1,5 @@
 ---
-title: Future of Safety Training
+title: Future Of Safety Training
 year: 2019
 author - 1: "[[Travis Highfield]]"
 key: "[[@Highfield2019-cp]]"

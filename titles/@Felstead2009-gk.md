@@ -1,5 +1,5 @@
 ---
-title: Making sandwiches
+title: Making Sandwiches
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

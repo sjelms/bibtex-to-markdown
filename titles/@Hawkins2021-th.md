@@ -1,5 +1,5 @@
 ---
-title: Timber and carbon sequestration
+title: Timber And Carbon Sequestration
 year: 2021
 author - 1: "[[Will Hawkins]]"
 key: "[[@Hawkins2021-th]]"

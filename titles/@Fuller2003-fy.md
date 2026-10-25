@@ -1,5 +1,5 @@
 ---
-title: Learning as Apprentices in the Contemporary UK Workplace -  Creating and Managing Expansive and Restrictive Participation
+title: Learning As Apprentices In The Contemporary UK Workplace - Creating And Managing Expansive And Restrictive Participation
 year: 2003
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

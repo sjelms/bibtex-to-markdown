@@ -1,5 +1,5 @@
 ---
-title: ADHD 2.0 -  New Science and Essential Strategies for Thriving With Distraction - From Childhood Through Adulthood
+title: ADHD 2.0 - New Science And Essential Strategies For Thriving With Distraction - From Childhood Through Adulthood
 year: 2023
 author - 1: "[[Edward M Hallowell]]"
 author - 2: "[[John J Ratey]]"

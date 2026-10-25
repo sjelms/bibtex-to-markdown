@@ -1,5 +1,5 @@
 ---
-title: Experience and Education
+title: Experience And Education
 year: 1938
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1938-kx]]"

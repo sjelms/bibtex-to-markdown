@@ -1,5 +1,5 @@
 ---
-title: Designing Augmented Reality for the Classroom
+title: Designing Augmented Reality For The Classroom
 year: 2013
 author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Quentin Bonnard]]"

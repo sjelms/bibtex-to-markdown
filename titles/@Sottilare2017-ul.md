@@ -1,5 +1,5 @@
 ---
-title: Adaptive instruction for medical training in the psychomotor domain
+title: Adaptive Instruction For Medical Training In The Psychomotor Domain
 year: 2017
 author - 1: "[[Robert A Sottilare]]"
 author - 2: "[[Matthew Hackett]]"

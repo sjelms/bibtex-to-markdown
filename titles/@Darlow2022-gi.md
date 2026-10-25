@@ -1,5 +1,5 @@
 ---
-title: Automation in New Zealand's offsite construction (OSC) -  a status update
+title: Automation In New Zealand's Offsite Construction (OSC) - A Status Update
 year: 2022
 author - 1: "[[Genevieve Darlow]]"
 author - 2: "[[James O B Rotimi]]"

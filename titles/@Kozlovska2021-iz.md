@@ -1,5 +1,5 @@
 ---
-title: Impact of Industry 4.0 Platform on the Formation of Construction 4.0 Concept -  A Literature Review
+title: Impact Of Industry 4.0 Platform On The Formation Of Construction 4.0 Concept - A Literature Review
 year: 2021
 author - 1: "[[Maria Kozlovska]]"
 author - 2: "[[Daria Klosova]]"

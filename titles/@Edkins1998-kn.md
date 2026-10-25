@@ -1,5 +1,5 @@
 ---
-title: Managing the design process in construction -  A cognitive approach
+title: Managing The Design Process In Construction - A Cognitive Approach
 year: 1998
 author - 1: "[[Andrew John David Edkins]]"
 key: "[[@Edkins1998-kn]]"

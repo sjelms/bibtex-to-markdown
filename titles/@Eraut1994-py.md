@@ -1,5 +1,5 @@
 ---
-title: Developing Professional Knowledge and Competence
+title: Developing Professional Knowledge And Competence
 year: 1994
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut1994-py]]"

@@ -1,5 +1,5 @@
 ---
-title: Grounded Theory Style Analysis in Action  -  Utilising Multi-layer Methods in Developing Built Environment Response to Social Conflicts in Indonesia
+title: Grounded Theory Style Analysis In Action - Utilising Multi-Layer Methods In Developing Built Environment Response To Social Conflicts In Indonesia
 year: 2016
 author - 1: "[[Wisnu Setiawan]]"
 author - 2: "[[Monty Sutrisna]]"

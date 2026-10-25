@@ -1,5 +1,5 @@
 ---
-title: Learning through work -  workplace affordances and individual engagement
+title: Learning Through Work - Workplace Affordances And Individual Engagement
 year: 2001
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2001-xo]]"

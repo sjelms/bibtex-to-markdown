@@ -1,5 +1,5 @@
 ---
-title: English Housing Survey Homes 2011 -  Annual report on England’s housing stock, 2011
+title: English Housing Survey Homes 2011 - Annual Report On England’s Housing Stock, 2011
 year: 2013
 author - 1: "[[Department for Communities and Local Government]]"
 key: "[[@Department_for_Communities_and_Local_Government2013-na]]"

@@ -1,5 +1,5 @@
 ---
-title: Immersed in Media -  Telepresence Theory, Measurement and Technology
+title: Immersed In Media - Telepresence Theory, Measurement And Technology
 year: 2015
 author - 1: "[[Frank Biocca]]"
 author - 2: "[[Jonathan Freeman]]"
@@ -13,7 +13,7 @@ editor - 4: "[[Rachel J Schaevitz]]"
 editor - 5: "[[Wijnand IJsselsteijn]]"
 key: "[[@Biocca2015-km]]"
 aliases:
-  - Immersed In Media - Telepresence Theory, Measurement & Technology
+  - Immersed In Media - Telepresence Theory, Measurement And Technology
   - Immersed In Media
 publisher: "[[Springer International Publishing]]"
 type: "[[@book]]"

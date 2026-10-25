@@ -1,5 +1,5 @@
 ---
-title: Preparation for future learning -  a missing competency in health professions education?
+title: Preparation For Future Learning - A Missing Competency In Health Professions Education?
 year: 2016
 author - 1: "[[Maria Mylopoulos]]"
 author - 2: "[[Ryan Brydges]]"

@@ -1,5 +1,5 @@
 ---
-title: The Real Face of Construction 2020 -  Socio-economic Analysis of the True Value of the Built Environment
+title: The Real Face Of Construction 2020 - Socio-Economic Analysis Of The True Value Of The Built Environment
 year: 2020
 author - 1: "[[Brian Green]]"
 key: "[[@Green2020-gb]]"

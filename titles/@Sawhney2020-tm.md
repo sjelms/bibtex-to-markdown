@@ -1,5 +1,5 @@
 ---
-title: Construction 4.0 -  An Innovation Platform for the Built Environment
+title: Construction 4.0 - An Innovation Platform For The Built Environment
 year: 2020
 author - 1: "[[Anil Sawhney]]"
 author - 2: "[[Mike Riley]]"

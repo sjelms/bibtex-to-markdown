@@ -1,5 +1,5 @@
 ---
-title: Why scientists should take more coffee breaks
+title: Why Scientists Should Take More Coffee Breaks
 year: 2019
 author - 1: "[[Vivienne Tam]]"
 key: "[[@Tam2019-oj]]"

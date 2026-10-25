@@ -1,5 +1,5 @@
 ---
-title: The Dreyfus model of clinical problem-solving skills acquisition -  a critical perspective
+title: The Dreyfus Model Of Clinical Problem-Solving Skills Acquisition - A Critical Perspective
 year: 2010
 author - 1: "[[Adolfo Peña]]"
 key: "[[@Pena2010-jm]]"

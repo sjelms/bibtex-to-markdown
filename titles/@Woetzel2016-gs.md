@@ -1,5 +1,5 @@
 ---
-title: A tool kit to close California’s housing gap -  3.5 million homes by 2025
+title: A Tool Kit To Close California’s Housing Gap - 3.5 Million Homes By 2025
 year: 2016
 author - 1: "[[Jonathan Woetzel]]"
 author - 2: "[[Jan Mischke]]"

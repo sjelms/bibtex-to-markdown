@@ -1,6 +1,6 @@
 ---
 type: "[[@misc]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -13,7 +13,7 @@ amended: 2026-10-25T07:25:32
 - [[@Basak2025-gu|How Wall Street Plans To Fix The Housing Crisis]]
 - [[@Clark2025-ii|A Half-Century Of Harry Braverman’s Labor And Monopoly Capital]]
 ### 2024
-- [[@Race2024-vr|UK 'doesn't Have Enough Builders' For Labour's 1.5m Homes]]
+- [[@Race2024-vr|UK 'Doesn't Have Enough Builders' For Labour's 1.5m Homes]]
 - [[@Harper2024-sq|Planning Changed Britain For The Better In The Postwar Years – And It Can Do The Same Now]]
 - [[@Harper2024-ok|Yimbys Hear This – Simply Building More Homes Won’t Solve Our Housing Crisis]]
 ### 2023
@@ -24,7 +24,7 @@ amended: 2026-10-25T07:25:32
 - [[@Klein2023-sw|The Dystopia We Fear Is Keeping Us From The Utopia We Deserve]]
 - [[@Klein2023-sa|The Problem With Everything-Bagel Liberalism]]
 - [[@Klein2023-qs|The Story Construction Tells About America’s Economy Is Disturbing]]
-- [[@Lidelow2023-sm|Factory Of The Future [keynote Address]]]
+- [[@Lidelow2023-sm|Factory Of The Future [Keynote Address]]]
 - [[@Marcus2023-rl|High-Paying Jobs That Don't Need A College Degree? Thousands Of Them Sit Empty]]
 - [[@Hu2023-cx|Chatgpt Sets Record For Fastest-Growing User Base - Analyst Note]]
 - [[@Stahl2023-dx|Can 3D-Printed Homes Withstand A Changing Climate?]]
@@ -44,7 +44,7 @@ amended: 2026-10-25T07:25:32
 - [[@Rosalsky2021-iu|How California Homelessness Became A Crisis]]
 - [[@Randow2021-bi|Berliners Are Angry About Housing. And So Is Much Of Europe]]
 - [[@Ngo2021-qp|Skilled Workers Are Scarce, Posing A Challenge For Biden’s Infrastructure Plan]]
-- [[@Azevedo2021-eb|With An Apple Store Designer As A Co-Founder, Juno Raises \$20M To Build Apartments More Sustainably]]
+- [[@Azevedo2021-eb|With An Apple Store Designer As A Co-Founder, Juno Raises $20M To Build Apartments More Sustainably]]
 - [[@NBCUniversal_News_Group_CNBC2021-kx|Can Factory-Built Homes Help Solve The Housing Crisis?]]
 - [[@Solman2021-vc|The Manufacturing Sector Needs Workers. Training High Schoolers Could Help Fill That Void]]
 - [[@Inman2021-ce|UK Enjoys Property Sales Boom Amid Covid-19 Pandemic]]

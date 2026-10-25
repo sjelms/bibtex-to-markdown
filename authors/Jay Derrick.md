@@ -11,8 +11,8 @@ aliases:
 
 ### Content:
 [[@Derrick2017-wj|What Features Of Workplaces Support Practitioners And Teams To Learn And Innovate?]]
-[[@Derrick2019-fu|Learning, Innovation And ‘tacit Pedagogy’ In Workplace Practice]]
-[[@Derrick2020-yv|“tacit Pedagogy” And “entanglement”]]
+[[@Derrick2019-fu|Learning, Innovation And ‘Tacit Pedagogy’ In Workplace Practice]]
+[[@Derrick2020-yv|“Tacit Pedagogy” And “Entanglement”]]
 
 #### Bibliography:
 

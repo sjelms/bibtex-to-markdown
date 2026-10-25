@@ -1,5 +1,5 @@
 ---
-title: Craft training issues in American industrial and commercial construction
+title: Craft Training Issues In American Industrial And Commercial Construction
 year: 2008
 author - 1: "[[Yinggang Wang]]"
 author - 2: "[[Paul M Goodrum]]"

@@ -1,5 +1,5 @@
 ---
-title: The Limits of Scale
+title: The Limits Of Scale
 year: 2014
 author - 1: "[[Hanna Halaburda]]"
 author - 2: "[[Felix Oberholzer-Gee]]"

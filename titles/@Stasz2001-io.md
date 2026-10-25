@@ -1,5 +1,5 @@
 ---
-title: Assessing skills for work -  two perspectives
+title: Assessing Skills For Work - Two Perspectives
 year: 2001
 author - 1: "[[Cathleen Stasz]]"
 key: "[[@Stasz2001-io]]"

@@ -1,5 +1,5 @@
 ---
-title: Teaching, as Learning, in Practice
+title: Teaching, As Learning, In Practice
 year: 1996
 author - 1: "[[Jean Lave]]"
 key: "[[@Lave1996-oh]]"

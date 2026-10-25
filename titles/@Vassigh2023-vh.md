@@ -1,5 +1,5 @@
 ---
-title: Adaptive immersive learning environments for teaching industrial robotics
+title: Adaptive Immersive Learning Environments For Teaching Industrial Robotics
 year: 2023
 author - 1: "[[Shahin Vassigh]]"
 author - 2: "[[Seth Corrigan]]"

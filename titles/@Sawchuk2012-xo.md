@@ -1,5 +1,5 @@
 ---
-title: Divergent Working and Learning Trajectories in Social Services
+title: Divergent Working And Learning Trajectories In Social Services
 year: 2012
 author - 1: "[[Peter H Sawchuk]]"
 editor - 1: "[[David W Livingstone]]"

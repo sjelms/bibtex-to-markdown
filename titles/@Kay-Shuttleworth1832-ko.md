@@ -1,5 +1,5 @@
 ---
-title: The Moral and Physical Condition of the Working Classes Employed in the Cotton Manufacture of Manchester
+title: The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester
 year: 1832
 author - 1: "[[James Philips Kay-Shuttleworth]]"
 key: "[[@Kay-Shuttleworth1832-ko]]"

@@ -1,5 +1,5 @@
 ---
-title: Cognition and Reality -  Principles and Implications of Cognitive Psychology
+title: Cognition And Reality - Principles And Implications Of Cognitive Psychology
 year: 1976
 author - 1: "[[Ulric Richard Gustav Neisser]]"
 key: "[[@Neisser1976-qv]]"

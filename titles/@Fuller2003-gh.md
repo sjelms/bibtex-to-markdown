@@ -1,5 +1,5 @@
 ---
-title: Fostering Workplace Learning -  Looking through the Lens of Apprenticeship
+title: Fostering Workplace Learning - Looking Through The Lens Of Apprenticeship
 year: 2003
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

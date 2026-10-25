@@ -1,5 +1,5 @@
 ---
-title: Employer-Led In-Work Training and Skill Formation -  The Challenges of Multi-Varied and Contingent Phenomena
+title: Employer-Led In-Work Training And Skill Formation - The Challenges Of Multi-Varied And Contingent Phenomena
 year: 2017
 author - 1: "[[Lorna Unwin]]"
 editor - 1: "[[Chris Warhurst]]"

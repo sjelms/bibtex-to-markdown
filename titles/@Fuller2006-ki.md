@@ -1,5 +1,5 @@
 ---
-title: Continuity, Change and Conflict -  the Role of Learning and Knowing in Different Productive Systems
+title: Continuity, Change And Conflict - The Role Of Learning And Knowing In Different Productive Systems
 year: 2006
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

@@ -1,5 +1,5 @@
 ---
-title: The Bauhaus approach to innovation in learning and creativity
+title: The Bauhaus Approach To Innovation In Learning And Creativity
 year: 2024
 author - 1: "[[Henning Schoenenberger]]"
 editor - 1: "[[Henning Schoenenberger]]"

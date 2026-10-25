@@ -1,5 +1,5 @@
 ---
-title: Measuring Skills Stock, Job Skills, and Skills Mismatch
+title: Measuring Skills Stock, Job Skills, And Skills Mismatch
 year: 2017
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Duncan Gallie]]"

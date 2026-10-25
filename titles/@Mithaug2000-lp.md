@@ -1,5 +1,5 @@
 ---
-title: Learning to theorize -  A four-step strategy
+title: Learning To Theorize - A Four-Step Strategy
 year: 2000
 author - 1: "[[Dennis E Mithaug]]"
 key: "[[@Mithaug2000-lp]]"

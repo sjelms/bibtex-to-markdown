@@ -1,5 +1,5 @@
 ---
-title: What's new in the History of Adult Education
+title: What's New In The History Of Adult Education
 year: 1991
 author - 1: "[[Michael R Welton]]"
 key: "[[@Welton1991-jd]]"

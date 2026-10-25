@@ -1,5 +1,5 @@
 ---
-title: Expansive Learning at Work -  Toward an Activity-Theoretical Reconceptualization
+title: Expansive Learning At Work - Toward An Activity-Theoretical Reconceptualization
 year: 2001
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom2001-my]]"

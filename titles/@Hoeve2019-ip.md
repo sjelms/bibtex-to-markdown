@@ -1,5 +1,5 @@
 ---
-title: Innovative Work-Based Learning for Responsive Vocational Education and Training (VET) -  Lessons From Dutch Higher VET
+title: Innovative Work-Based Learning For Responsive Vocational Education And Training (VET) - Lessons From Dutch Higher VET
 year: 2019
 author - 1: "[[Aimée Hoeve]]"
 author - 2: "[[Wietske Kuijer-Siebelink]]"

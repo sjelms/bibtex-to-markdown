@@ -1,5 +1,5 @@
 ---
-title: Learning as peripheral participation in communities of practice -  a reassessment of key concepts in workplace learning
+title: Learning As Peripheral Participation In Communities Of Practice - A Reassessment Of Key Concepts In Workplace Learning
 year: 2005
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Heather Hodkinson]]"

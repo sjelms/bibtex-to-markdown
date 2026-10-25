@@ -1,5 +1,5 @@
 ---
-title: Work organisation inside Japanese firms in South Wales -  A break from Taylorism?
+title: Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?
 year: 1998
 author - 1: "[[Andy Danford]]"
 editor - 1: "[[Paul Thompson]]"

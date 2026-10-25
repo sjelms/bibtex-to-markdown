@@ -1,5 +1,5 @@
 ---
-title: Sherlock -  A Coached Practice Environment for an Electronics Troubleshooting Job
+title: Sherlock - A Coached Practice Environment For An Electronics Troubleshooting Job
 year: 1988
 author - 1: "[[Alan Lesgold]]"
 author - 2: "[[Susanne Lajoie]]"

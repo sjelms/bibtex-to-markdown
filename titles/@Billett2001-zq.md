@@ -1,5 +1,5 @@
 ---
-title: Confronting the Challenges to Improving Attainment in Learning at Work
+title: Confronting The Challenges To Improving Attainment In Learning At Work
 year: 2001
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2001-zq]]"

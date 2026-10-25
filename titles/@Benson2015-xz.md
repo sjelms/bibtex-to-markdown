@@ -1,5 +1,5 @@
 ---
-title: Explaining the RQF
+title: Explaining The RQF
 year: 2015
 author - 1: "[[Jeremy Benson]]"
 key: "[[@Benson2015-xz]]"

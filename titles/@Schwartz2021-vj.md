@@ -1,5 +1,5 @@
 ---
-title: The Worker-employer Relationship Disrupted -  if We're Not a Family, What Are We?
+title: The Worker-Employer Relationship Disrupted - If We're Not A Family, What Are We?
 year: 2021
 author - 1: "[[Jeff Schwartz]]"
 author - 2: "[[Kraig Eaton]]"

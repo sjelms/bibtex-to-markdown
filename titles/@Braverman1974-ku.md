@@ -1,5 +1,5 @@
 ---
-title: The Role of the State
+title: The Role Of The State
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-ku]]"

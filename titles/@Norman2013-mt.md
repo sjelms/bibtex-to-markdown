@@ -1,5 +1,5 @@
 ---
-title: The Design of Everyday Things -  Revised and Expanded Edition
+title: The Design Of Everyday Things - Revised And Expanded Edition
 year: 2013
 author - 1: "[[Don Norman]]"
 key: "[[@Norman2013-mt]]"

@@ -1,5 +1,5 @@
 ---
-title: Informal Learning in Workplaces -  Understanding Learning Culture as a Challenge for Organizational and Individual Development
+title: Informal Learning In Workplaces - Understanding Learning Culture As A Challenge For Organizational And Individual Development
 year: 2014
 author - 1: "[[Christoph Fischer]]"
 author - 2: "[[Bridget N O'Connor]]"

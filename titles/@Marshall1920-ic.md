@@ -1,5 +1,5 @@
 ---
-title: Principles of Economics -  An Introductory Volume
+title: Principles Of Economics - An Introductory Volume
 year: 1920
 author - 1: "[[Alfred Marshall]]"
 key: "[[@Marshall1920-ic]]"

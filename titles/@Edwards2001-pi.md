@@ -1,5 +1,5 @@
 ---
-title: Factory and Fantasy in Andrew Ure
+title: Factory And Fantasy In Andrew Ure
 year: 2001
 author - 1: "[[S Edwards]]"
 key: "[[@Edwards2001-pi]]"

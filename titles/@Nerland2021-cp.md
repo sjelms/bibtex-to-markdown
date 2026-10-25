@@ -1,5 +1,5 @@
 ---
-title: Challenging the Belief in Simple Solutions -  the Need for Epistemic Practices in Professional Work
+title: Challenging The Belief In Simple Solutions - The Need For Epistemic Practices In Professional Work
 year: 2021
 author - 1: "[[Monika Nerland]]"
 author - 2: "[[Mervi Hasu]]"

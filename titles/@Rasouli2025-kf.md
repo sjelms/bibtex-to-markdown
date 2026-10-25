@@ -1,5 +1,5 @@
 ---
-title: Reconstructing construction safety training -  A systematic review based on learning theories and instructional design principles
+title: Reconstructing Construction Safety Training - A Systematic Review Based On Learning Theories And Instructional Design Principles
 year: 2025
 author - 1: "[[Mahdi Rasouli]]"
 author - 2: "[[Hossein Karimi]]"

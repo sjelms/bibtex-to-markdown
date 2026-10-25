@@ -1,5 +1,5 @@
 ---
-title: Advantages and challenges associated with augmented reality for education -  A systematic review of the literature
+title: Advantages And Challenges Associated With Augmented Reality For Education - A Systematic Review Of The Literature
 year: 2017
 author - 1: "[[Murat Akçayır]]"
 author - 2: "[[Gökçe Akçayır]]"

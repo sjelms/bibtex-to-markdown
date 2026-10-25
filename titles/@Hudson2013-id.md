@@ -1,5 +1,5 @@
 ---
-title: Trends in CTE Coursetaking. Data Point. NCES 2014-901
+title: Trends In CTE Coursetaking. Data Point. NCES 2014-901
 year: 2013
 author - 1: "[[Lisa Hudson]]"
 key: "[[@Hudson2013-id]]"

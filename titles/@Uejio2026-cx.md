@@ -1,5 +1,5 @@
 ---
-title: Expanding Affordable Housing Supply without Legislation -  A Plan for Scaling Community-Owned Housing
+title: Expanding Affordable Housing Supply Without Legislation - A Plan For Scaling Community-Owned Housing
 year: 2026
 author - 1: "[[Dave Uejio]]"
 key: "[[@Uejio2026-cx]]"

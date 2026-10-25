@@ -1,5 +1,5 @@
 ---
-title: A Community Guide to Factory-Built Housing
+title: A Community Guide To Factory-Built Housing
 year: 2001
 author - 1: "[[Steven Winter]]"
 author - 2: "[[Michael J Crosbie]]"

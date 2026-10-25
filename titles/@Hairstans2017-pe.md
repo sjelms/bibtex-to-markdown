@@ -1,5 +1,5 @@
 ---
-title: A Scottish Perspective on Timber Offsite Construction
+title: A Scottish Perspective On Timber Offsite Construction
 year: 2017
 author - 1: "[[Robert Hairstans]]"
 author - 2: "[[Fausto Sanna]]"

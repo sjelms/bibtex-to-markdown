@@ -1,5 +1,5 @@
 ---
-title: Artificial intelligence and knowledge management -  questioning the tacit dimension
+title: Artificial Intelligence And Knowledge Management - Questioning The Tacit Dimension
 year: 2017
 author - 1: "[[Louis Sanzogni]]"
 author - 2: "[[Gustavo Guzman]]"

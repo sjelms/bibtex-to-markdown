@@ -1,5 +1,5 @@
 ---
-title: The Plural Worlds of Educational Research
+title: The Plural Worlds Of Educational Research
 year: 1989
 author - 1: "[[Ellen Condliffe Lagemann]]"
 key: "[[@Lagemann1989-vu]]"

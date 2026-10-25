@@ -1,5 +1,5 @@
 ---
-title: Standard Oil’s Company Housing in Wood River, Illinois
+title: Standard Oil’s Company Housing In Wood River, Illinois
 year: 2019
 author - 1: "[[Nichol Allen]]"
 key: "[[@Allen2019-us]]"

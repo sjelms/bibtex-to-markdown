@@ -1,5 +1,5 @@
 ---
-title: De-Skilling -  Learning Welfare Work and the Mediations of Space, Time, and Distance
+title: De-Skilling - Learning Welfare Work And The Mediations Of Space, Time, And Distance
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-vn]]"

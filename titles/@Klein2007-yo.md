@@ -1,5 +1,5 @@
 ---
-title: The Genesis of Industrial America, 1870-1920
+title: The Genesis Of Industrial America, 1870-1920
 year: 2007
 author - 1: "[[Maury Klein]]"
 key: "[[@Klein2007-yo]]"

@@ -1,5 +1,5 @@
 ---
-title: On- and off-the-job training in apprenticeships in England
+title: On- And Off-The-Job Training In Apprenticeships In England
 year: 2021
 author - 1: "[[Michaela Brockmann]]"
 author - 2: "[[Ian Laurie]]"

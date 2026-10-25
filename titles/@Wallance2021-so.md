@@ -1,5 +1,5 @@
 ---
-title: The Future of Modular Architecture
+title: The Future Of Modular Architecture
 year: 2021
 author - 1: "[[David Wallance]]"
 key: "[[@Wallance2021-so]]"

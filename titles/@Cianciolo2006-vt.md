@@ -1,5 +1,5 @@
 ---
-title: Tacit knowledge, practical intelligence, and expertise
+title: Tacit Knowledge, Practical Intelligence, And Expertise
 year: 2006
 author - 1: "[[Anna T Cianciolo]]"
 author - 2: "[[Cynthia Matthew]]"

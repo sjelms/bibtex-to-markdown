@@ -1,5 +1,5 @@
 ---
-title: Professional Development of Teacher Educators in Further Education -  Pathways, Knowledge, Identities, and Vocationalism
+title: Professional Development Of Teacher Educators In Further Education - Pathways, Knowledge, Identities, And Vocationalism
 year: 2019
 author - 1: "[[Sai Loo]]"
 key: "[[@Loo2019-vc]]"

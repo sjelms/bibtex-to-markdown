@@ -1,5 +1,5 @@
 ---
-title: Exploring the Philosophical Underpinnings of Research -  Relating Ontology and Epistemology to the Methodology and Methods of the Scientific, Interpretive, and Critical Research Paradigms
+title: Exploring The Philosophical Underpinnings Of Research - Relating Ontology And Epistemology To The Methodology And Methods Of The Scientific, Interpretive, And Critical Research Paradigms
 year: 2012
 author - 1: "[[James Scotland]]"
 key: "[[@Scotland2012-lw]]"

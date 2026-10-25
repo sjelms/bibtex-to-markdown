@@ -1,5 +1,5 @@
 ---
-title: Surviving Your Dissertation -  A Comprehensive Guide to Content and Process
+title: Surviving Your Dissertation - A Comprehensive Guide To Content And Process
 year: 2014
 author - 1: "[[Kjell Erik Rudestam]]"
 author - 2: "[[Rae R Newton]]"

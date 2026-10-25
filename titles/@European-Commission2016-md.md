@@ -1,5 +1,5 @@
 ---
-title: Upskilling Pathways -  New Opportunities for Adults
+title: Upskilling Pathways - New Opportunities For Adults
 year: 2016
 author - 1: "[[European Commission]]"
 key: "[[@European-Commission2016-md]]"

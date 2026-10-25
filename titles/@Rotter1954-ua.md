@@ -1,5 +1,5 @@
 ---
-title: Social learning and clinical psychology
+title: Social Learning And Clinical Psychology
 year: 1954
 author - 1: "[[Julian B Rotter]]"
 key: "[[@Rotter1954-ua]]"

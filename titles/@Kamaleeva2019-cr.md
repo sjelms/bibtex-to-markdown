@@ -1,5 +1,5 @@
 ---
-title: Cognitive map of the pedagogical situation as a component of the pedagogical situation cognitive model (as exemplified by analyzing natural science and vocational training in colleges of the republic of tatarstan)
+title: Cognitive Map Of The Pedagogical Situation As A Component Of The Pedagogical Situation Cognitive Model (As Exemplified By Analyzing Natural Science And Vocational Training In Colleges Of The Republic Of Tatarstan)
 year: 2019
 author - 1: "[[A R Kamaleeva]]"
 author - 2: "[[S I Gilmanshina]]"
@@ -7,7 +7,7 @@ author - 3: "[[N A Nozdrina]]"
 key: "[[@Kamaleeva2019-cr]]"
 booktitle: Proceedings of the 2nd International Conference on Education Science and Social Development (ESSD 2019)
 aliases:
-  - Cognitive Map Of The Pedagogical Situation As A Component Of The Pedagogical Situation Cognitive Model (as Exemplified By Analyzing Natural Science And Vocational Training In Colleges Of The Republic Of Tatarstan)
+  - Cognitive Map Of The Pedagogical Situation As A Component Of The Pedagogical Situation Cognitive Model (As Exemplified By Analyzing Natural Science And Vocational Training In Colleges Of The Republic Of Tatarstan)
 publisher: "[[Atlantis Press]]"
 type: "[[@inproceedings]]"
 tags:

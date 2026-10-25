@@ -13,7 +13,7 @@ category:
 [[@Braverman1974-bv|Service Occupations And Retail Trade]]
 [[@Braverman1974-fn|The Universal Market]]
 [[@Braverman1974-ft|The Scientific-Technical Revolution And The Worker]]
-[[@Braverman1974-fu|The “middle Layers” Of Employment]]
+[[@Braverman1974-fu|The “Middle Layers” Of Employment]]
 [[@Braverman1974-ku|The Role Of The State]]
 [[@Braverman1974-lm|The Scientific-Technical Revolution]]
 [[@Braverman1974-lp|A Final Note On Skill]]

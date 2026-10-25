@@ -1,5 +1,5 @@
 ---
-title: Expansive Learning Environments -  Integrating Organizational and Personal Development
+title: Expansive Learning Environments - Integrating Organizational And Personal Development
 year: 2004
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

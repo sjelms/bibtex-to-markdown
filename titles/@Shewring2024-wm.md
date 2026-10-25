@@ -1,5 +1,5 @@
 ---
-title: Theatre Buildings -  A Design Guide
+title: Theatre Buildings - A Design Guide
 year: 2024
 author - 1: "[[Margaret Shewring]]"
 author - 2: "[[Association of British Theatre Technicians]]"

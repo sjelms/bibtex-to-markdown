@@ -1,5 +1,5 @@
 ---
-title: How Big Things Get Done -  The Surprising Factors Behind Every Successful Project, from Home Renovations to Space Exploration
+title: How Big Things Get Done - The Surprising Factors Behind Every Successful Project, From Home Renovations To Space Exploration
 year: 2023
 author - 1: "[[Bent Flyvbjerg]]"
 author - 2: "[[Dan Gardner]]"

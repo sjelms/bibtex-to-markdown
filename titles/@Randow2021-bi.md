@@ -1,5 +1,5 @@
 ---
-title: Berliners Are Angry About Housing. And So Is Much of Europe
+title: Berliners Are Angry About Housing. And So Is Much Of Europe
 year: 2021
 author - 1: "[[Jana Randow]]"
 author - 2: "[[Eleni Chrepa]]"

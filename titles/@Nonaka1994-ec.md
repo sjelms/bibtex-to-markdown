@@ -1,5 +1,5 @@
 ---
-title: A Dynamic Theory of Organizational Knowledge Creation
+title: A Dynamic Theory Of Organizational Knowledge Creation
 year: 1994
 author - 1: "[[Ikujiro Nonaka]]"
 key: "[[@Nonaka1994-ec]]"

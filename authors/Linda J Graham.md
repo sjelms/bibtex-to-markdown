@@ -10,7 +10,7 @@ aliases:
 ## Linda J Graham
 
 ### Content:
-[[@Chong2013-nz|The ‘russian Doll’ Approach]]
+[[@Chong2013-nz|The ‘Russian Doll’ Approach]]
 
 #### Bibliography:
 

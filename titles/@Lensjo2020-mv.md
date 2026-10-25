@@ -1,5 +1,5 @@
 ---
-title: Stories of learning -  A case study of Norwegian plumbers and apprentices in TVET at the construction site and in a training agency
+title: Stories Of Learning - A Case Study Of Norwegian Plumbers And Apprentices In TVET At The Construction Site And In A Training Agency
 year: 2020
 author - 1: "[[Marit Lensjø]]"
 key: "[[@Lensjo2020-mv]]"

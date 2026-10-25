@@ -1,5 +1,5 @@
 ---
-title: The Politics of Vocational Training
+title: The Politics Of Vocational Training
 year: 2019
 author - 1: "[[Marius R Busemeyer]]"
 author - 2: "[[Christine Trampusch]]"

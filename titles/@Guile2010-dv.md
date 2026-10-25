@@ -1,5 +1,5 @@
 ---
-title: Thinking Differently about Mediation by Activity and Semiotic Mediation
+title: Thinking Differently About Mediation By Activity And Semiotic Mediation
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-dv]]"

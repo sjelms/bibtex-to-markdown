@@ -1,5 +1,5 @@
 ---
-title: Critiquing workplace learning discourses -  Participation and continuity at work
+title: Critiquing Workplace Learning Discourses - Participation And Continuity At Work
 year: 2002
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2002-bq]]"

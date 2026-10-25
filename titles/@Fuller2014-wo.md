@@ -1,5 +1,5 @@
 ---
-title: A Sense of Belonging -  The Relationship Between Community and Apprenticeship
+title: A Sense Of Belonging - The Relationship Between Community And Apprenticeship
 year: 2014
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

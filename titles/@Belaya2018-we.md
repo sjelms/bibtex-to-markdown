@@ -1,5 +1,5 @@
 ---
-title: The use of e-learning in vocational education and training (VET) -  Systematization of existing theoretical approaches
+title: The Use Of E-Learning In Vocational Education And Training (VET) - Systematization Of Existing Theoretical Approaches
 year: 2018
 author - 1: "[[Vera Belaya]]"
 key: "[[@Belaya2018-we]]"

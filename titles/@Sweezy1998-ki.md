@@ -1,5 +1,5 @@
 ---
-title: Foreword to the Original Edition
+title: Foreword To The Original Edition
 year: 1998
 author - 1: "[[Paul M Sweezy]]"
 key: "[[@Sweezy1998-ki]]"

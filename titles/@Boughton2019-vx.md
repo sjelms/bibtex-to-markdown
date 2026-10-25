@@ -1,5 +1,5 @@
 ---
-title: Municipal Dreams -  The Rise and Fall of Council Housing
+title: Municipal Dreams - The Rise And Fall Of Council Housing
 year: 2019
 author - 1: "[[John Boughton]]"
 key: "[[@Boughton2019-vx]]"

@@ -1,5 +1,5 @@
 ---
-title: Applying Critical Realism in an Interdisciplinary Context -  An Interview With Berth Danermark
+title: Applying Critical Realism In An Interdisciplinary Context - An Interview With Berth Danermark
 year: 2023
 author - 1: "[[Berth Danermark]]"
 editor - 1: "[[Jamie Morgan]]"

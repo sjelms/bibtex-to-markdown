@@ -1,5 +1,5 @@
 ---
-title: Methods for Researching Professional Learning and Development
+title: Methods For Researching Professional Learning And Development
 year: 2022
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Eva Kyndt]]"

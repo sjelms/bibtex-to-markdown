@@ -1,5 +1,5 @@
 ---
-title: Research Methods for Architecture
+title: Research Methods For Architecture
 year: 2016
 author - 1: "[[Ray Lucas]]"
 author - 2: "[[Raymond Lucas]]"

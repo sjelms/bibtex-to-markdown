@@ -1,5 +1,5 @@
 ---
-title: The Core Competence of the Corporation
+title: The Core Competence Of The Corporation
 year: 2000
 author - 1: "[[C K Prahalad]]"
 author - 2: "[[Gary Hamel]]"

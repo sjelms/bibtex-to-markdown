@@ -1,5 +1,5 @@
 ---
-title: Disconnected Capitalism -  Or Why Employers Can't Keep Their Side of the Bargain
+title: Disconnected Capitalism - Or Why Employers Can't Keep Their Side Of The Bargain
 year: 2003
 author - 1: "[[Paul Thompson]]"
 key: "[[@Thompson2003-ko]]"

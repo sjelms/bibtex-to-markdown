@@ -15,7 +15,7 @@ aliases:
 [[@Jensen2015-jp|Product Configuration In Construction]]
 [[@Lidelow2015-pk|Industriellt Husbyggande]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
-[[@Lidelow2023-sm|Factory Of The Future [keynote Address]]]
+[[@Lidelow2023-sm|Factory Of The Future [Keynote Address]]]
 [[@Lundberg2015-ut|Social Motivations For Knowledge Sharing In Construction Companies]]
 
 #### Bibliography:

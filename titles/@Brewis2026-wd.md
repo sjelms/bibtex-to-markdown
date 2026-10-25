@@ -1,5 +1,5 @@
 ---
-title: Student London -  A New History of Higher Education in the Capital
+title: Student London - A New History Of Higher Education In The Capital
 year: 2026
 author - 1: "[[Georgina Brewis]]"
 author - 2: "[[Sam Blaxland]]"

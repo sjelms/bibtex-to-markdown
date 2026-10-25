@@ -1,5 +1,5 @@
 ---
-title: Thinking about architecture -  An introduction to architectural theory
+title: Thinking About Architecture - An Introduction To Architectural Theory
 year: 2011
 author - 1: "[[Colin Davies]]"
 key: "[[@Davies2011-zx]]"

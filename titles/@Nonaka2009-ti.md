@@ -1,5 +1,5 @@
 ---
-title: Perspective—tacit knowledge and knowledge conversion -  Controversy and advancement in organizational knowledge creation theory
+title: Perspective—Tacit Knowledge And Knowledge Conversion - Controversy And Advancement In Organizational Knowledge Creation Theory
 year: 2009
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Georg von Krogh]]"

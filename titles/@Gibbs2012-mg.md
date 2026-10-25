@@ -1,5 +1,5 @@
 ---
-title: Learning, Work, and Practice -  New Understandings
+title: Learning, Work, And Practice - New Understandings
 year: 2012
 author - 1: "[[Paul Gibbs]]"
 editor - 1: "[[Paul Gibbs]]"

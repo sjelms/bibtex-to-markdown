@@ -1,5 +1,5 @@
 ---
-title: Babbage's legacy -  The origins of microeconomics in On the Economy of machinery and Manufactures
+title: Babbage's Legacy - The Origins Of Microeconomics In On The Economy Of Machinery And Manufactures
 year: 2014
 author - 1: "[[Mustafa Erdem Ozgur]]"
 key: "[[@Ozgur2014-tm]]"

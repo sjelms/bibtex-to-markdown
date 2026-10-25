@@ -1,5 +1,5 @@
 ---
-title: Observing the User Experience -  A Practitioner's Guide to User Research
+title: Observing The User Experience - A Practitioner's Guide To User Research
 year: 2012
 author - 1: "[[Elizabeth Goodman]]"
 author - 2: "[[Mike Kuniavsky]]"

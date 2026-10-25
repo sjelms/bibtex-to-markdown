@@ -16,7 +16,7 @@ aliases:
 [[@Bundgaard2017-am|Constructing Dialogues]]
 [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 [[@Hairstans2017-pe|A Scottish Perspective On Timber Offsite Construction]]
-[[@Hairstans2018-zk|Offsite HUB (scotland)]]
+[[@Hairstans2018-zk|Offsite HUB (Scotland)]]
 [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
 [[@Lidelow2017-zf|Offsite Construction In Sweden]]
 [[@Quale2017-uw|High-Performance Affordable Modular Homes]]

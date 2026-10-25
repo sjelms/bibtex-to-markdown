@@ -1,5 +1,5 @@
 ---
-title: Expert–Novice -  Discourses on Learning in Education
+title: Expert–Novice - Discourses On Learning In Education
 year: 2022
 author - 1: "[[Brent Davis]]"
 author - 2: "[[Krista Francis]]"

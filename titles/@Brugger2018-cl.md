@@ -1,5 +1,5 @@
 ---
-title: Skilling and deskilling -  technological change in classical economic theory and its empirical evidence
+title: Skilling And Deskilling - Technological Change In Classical Economic Theory And Its Empirical Evidence
 year: 2018
 author - 1: "[[Florian Brugger]]"
 author - 2: "[[Christian Gehrke]]"

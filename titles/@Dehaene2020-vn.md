@@ -1,5 +1,5 @@
 ---
-title: How We Learn -  The New Science of Education and the Brain
+title: How We Learn - The New Science Of Education And The Brain
 year: 2020
 author - 1: "[[Stanislas Dehaene]]"
 key: "[[@Dehaene2020-vn]]"

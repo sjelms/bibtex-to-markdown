@@ -1,5 +1,5 @@
 ---
-title: Professional knowledge and professional practice as continuous recontextualisation -  A social practice perspective
+title: Professional Knowledge And Professional Practice As Continuous Recontextualisation - A Social Practice Perspective
 year: 2014
 author - 1: "[[David Guile]]"
 editor - 1: "[[Michael Young]]"

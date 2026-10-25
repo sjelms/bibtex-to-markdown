@@ -1,5 +1,5 @@
 ---
-title: The labour market position of narrow versus broad vocational education programmes
+title: The Labour Market Position Of Narrow Versus Broad Vocational Education Programmes
 year: 2015
 author - 1: "[[Johan Coenen]]"
 author - 2: "[[Hans Heijke]]"

@@ -1,5 +1,5 @@
 ---
-title: Situated Cognition and the Culture of Learning
+title: Situated Cognition And The Culture Of Learning
 year: 1989
 author - 1: "[[John Seely Brown]]"
 author - 2: "[[Allan Collins]]"

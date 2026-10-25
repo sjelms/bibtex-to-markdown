@@ -1,5 +1,5 @@
 ---
-title: State Motor Vehicle Registrations, by Years, 1900–1995
+title: State Motor Vehicle Registrations, By Years, 1900–1995
 year: 1997
 author - 1: "[[Federal Highway Administration]]"
 key: "[[@Federal-Highway-Administration1997-hp]]"

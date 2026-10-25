@@ -10,4 +10,4 @@ category:
 ## University of Illinois Urbana Champaign
 
 ### Content:
-[[@Armstrong2008-wr|From Bauhaus To M-[h]ouse]]
+[[@Armstrong2008-wr|From Bauhaus To M-[H]ouse]]

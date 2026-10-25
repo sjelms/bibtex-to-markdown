@@ -1,5 +1,5 @@
 ---
-title: The integrated migrant worker safety training evaluation model -  IMSTEM
+title: The Integrated Migrant Worker Safety Training Evaluation Model - IMSTEM
 year: 2021
 author - 1: "[[Karina Nielsen]]"
 author - 2: "[[Rose Shepherd]]"

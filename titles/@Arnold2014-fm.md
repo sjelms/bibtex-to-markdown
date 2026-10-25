@@ -1,5 +1,5 @@
 ---
-title: A six step guide to using recursive abstraction applied to the qualitative analysis of interview data
+title: A Six Step Guide To Using Recursive Abstraction Applied To The Qualitative Analysis Of Interview Data
 year: 2014
 author - 1: "[[Amy Arnold]]"
 author - 2: "[[Martyn Polkinghorne]]"

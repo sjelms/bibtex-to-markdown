@@ -1,5 +1,5 @@
 ---
-title: The Times They Are A'Changing -  Dividing and Recombining Labour Through Computer Systems
+title: The Times They Are A'changing - Dividing And Recombining Labour Through Computer Systems
 year: 1998
 author - 1: "[[Joan Greenbaum]]"
 editor - 1: "[[Paul Thompson]]"

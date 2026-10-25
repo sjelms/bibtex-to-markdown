@@ -1,5 +1,5 @@
 ---
-title: Construction Jobs Plan -  Building the Careers That Build Britain
+title: Construction Jobs Plan - Building The Careers That Build Britain
 year: 2026
 author - 1: "[[Department for Business, Innovation, Science and Trade]]"
 key: "[[@Department-for-Business-Innovation-Science-and-Trade2026-ul]]"

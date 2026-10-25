@@ -1,5 +1,5 @@
 ---
-title: Learning construction engineering -  Why, what, and how?
+title: Learning Construction Engineering - Why, What, And How?
 year: 2018
 author - 1: "[[Clyde Bob Tatum]]"
 key: "[[@Tatum2018-no]]"

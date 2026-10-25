@@ -1,5 +1,5 @@
 ---
-title: How Can Building Professionals Improve Training? Success will likely come from robust in-house programs
+title: How Can Building Professionals Improve Training? Success Will Likely Come From Robust In-House Programs
 year: 2022
 author - 1: "[[Clayton DeKorne]]"
 key: "[[@DeKorne2022-bp]]"

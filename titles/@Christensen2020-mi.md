@@ -1,5 +1,5 @@
 ---
-title: Disruption 2020 -  An Interview With Clayton M. Christensen
+title: Disruption 2020 - An Interview With Clayton M. Christensen
 year: 2020
 author - 1: "[[Clayton M Christensen]]"
 editor - 1: "[[Karen Dillon]]"

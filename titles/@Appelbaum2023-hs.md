@@ -1,5 +1,5 @@
 ---
-title: Why Do We Build Houses in the Same Way That We Did 125 Years Ago?
+title: Why Do We Build Houses In The Same Way That We Did 125 Years Ago?
 year: 2023
 author - 1: "[[Binyamin Appelbaum]]"
 key: "[[@Appelbaum2023-hs]]"

@@ -1,5 +1,5 @@
 ---
-title: The Universality of the Machine -  Labour Process Theory and the Absorption of the Skills and Knowledge of Labour Into Capital
+title: The Universality Of The Machine - Labour Process Theory And The Absorption Of The Skills And Knowledge Of Labour Into Capital
 year: 2024
 author - 1: "[[James Steinhoff]]"
 key: "[[@Steinhoff2024-ju]]"

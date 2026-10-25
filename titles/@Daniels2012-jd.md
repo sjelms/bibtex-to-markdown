@@ -1,5 +1,5 @@
 ---
-title: Vygotsky and Sociology
+title: Vygotsky And Sociology
 year: 2012
 author - 1: "[[Harry Daniels]]"
 key: "[[@Daniels2012-jd]]"

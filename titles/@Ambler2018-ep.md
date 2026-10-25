@@ -1,5 +1,5 @@
 ---
-title: The Story of the Bauhaus -  The Art and Design School That Changed Everything
+title: The Story Of The Bauhaus - The Art And Design School That Changed Everything
 year: 2018
 author - 1: "[[Frances Ambler]]"
 key: "[[@Ambler2018-ep]]"

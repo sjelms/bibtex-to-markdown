@@ -1,5 +1,5 @@
 ---
-title: Literacies in the Age of AI -  Teaching and Learning in the Digital Era
+title: Literacies In The Age Of AI - Teaching And Learning In The Digital Era
 year: 2026
 author - 1: "[[Gabriela C Zapata]]"
 author - 2: "[[Bill Cope]]"

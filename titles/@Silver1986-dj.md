@@ -1,5 +1,5 @@
 ---
-title: Under Construction -  Work and Alienation in the Building Trades
+title: Under Construction - Work And Alienation In The Building Trades
 year: 1986
 author - 1: "[[Marc L Silver]]"
 key: "[[@Silver1986-dj]]"

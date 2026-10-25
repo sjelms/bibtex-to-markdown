@@ -1,5 +1,5 @@
 ---
-title: Communities of Practice -  Learning, Meaning, and Identity
+title: Communities Of Practice - Learning, Meaning, And Identity
 year: 1999
 author - 1: "[[Étienne Wenger]]"
 key: "[[@Wenger1999-mt]]"

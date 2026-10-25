@@ -1,5 +1,5 @@
 ---
-title: Classroom Management -  Its Principles and Technique
+title: Classroom Management - Its Principles And Technique
 year: 1907
 author - 1: "[[William Chandler Bagley]]"
 key: "[[@Bagley1907-sj]]"

@@ -1,5 +1,5 @@
 ---
-title: The economic implications of housing supply
+title: The Economic Implications Of Housing Supply
 year: 2018
 author - 1: "[[Edward L Glaeser]]"
 author - 2: "[[Joseph Gyourko]]"

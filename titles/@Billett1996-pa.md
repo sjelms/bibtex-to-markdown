@@ -1,5 +1,5 @@
 ---
-title: Constructing Vocational Knowledge -  History, Communities and Ontogeny
+title: Constructing Vocational Knowledge - History, Communities And Ontogeny
 year: 1996
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett1996-pa]]"

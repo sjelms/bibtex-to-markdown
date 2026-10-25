@@ -1,5 +1,5 @@
 ---
-title: ADHD diagnostic trends -  Increased recognition or overdiagnosis?
+title: ADHD Diagnostic Trends - Increased Recognition Or Overdiagnosis?
 year: 2022
 author - 1: "[[Elie Abdelnour]]"
 author - 2: "[[Madeline O Jansen]]"

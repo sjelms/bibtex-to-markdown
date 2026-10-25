@@ -1,5 +1,5 @@
 ---
-title: The Neoclassical Approach to Induced Technical Change -  From Hicks to Acemoglu
+title: The Neoclassical Approach To Induced Technical Change - From Hicks To Acemoglu
 year: 2016
 author - 1: "[[Florian Brugger]]"
 author - 2: "[[Christian Gehrke]]"

@@ -1,5 +1,5 @@
 ---
-title: Expertise as a Practical Accomplishment Among Objects and Values
+title: Expertise As A Practical Accomplishment Among Objects And Values
 year: 2016
 author - 1: "[[Timothy Kuhn]]"
 author - 2: "[[Jens Rennstam]]"

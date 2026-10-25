@@ -1,12 +1,12 @@
 ---
-title: Offsite HUB (Scotland) -  establishing a collaborative regional framework for knowledge exchange in the UK
+title: Offsite HUB (Scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK
 year: 2018
 author - 1: "[[Robert Hairstans]]"
 author - 2: "[[Ryan E Smith]]"
 key: "[[@Hairstans2018-zk]]"
 aliases:
-  - Offsite HUB (scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK
-  - Offsite HUB (scotland)
+  - Offsite HUB (Scotland) - Establishing A Collaborative Regional Framework For Knowledge Exchange In The UK
+  - Offsite HUB (Scotland)
 journal: "[[Architectural Engineering and Design Management]]"
 publisher: "[[Taylor and Francis]]"
 volume: 14

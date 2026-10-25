@@ -1,5 +1,5 @@
 ---
-title: Prequel -  An American Fight Against Fascism
+title: Prequel - An American Fight Against Fascism
 year: 2023
 author - 1: "[[Rachel Maddow]]"
 key: "[[@Maddow2023-hv]]"

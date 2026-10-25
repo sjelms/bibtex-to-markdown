@@ -1,5 +1,5 @@
 ---
-title: Scientific Knowledge and the Economy
+title: Scientific Knowledge And The Economy
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-kn]]"

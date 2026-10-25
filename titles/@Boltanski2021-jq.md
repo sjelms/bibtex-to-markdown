@@ -1,5 +1,5 @@
 ---
-title: On Justification -  Economies of Worth
+title: On Justification - Economies Of Worth
 year: 2021
 author - 1: "[[Luc Boltanski]]"
 author - 2: "[[Laurent Thévenot]]"

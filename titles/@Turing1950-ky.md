@@ -1,5 +1,5 @@
 ---
-title: Computing Machinery and Intelligence
+title: Computing Machinery And Intelligence
 year: 1950
 author - 1: "[[Alan Mathison Turing]]"
 key: "[[@Turing1950-ky]]"

@@ -1,5 +1,5 @@
 ---
-title: What features of workplaces support practitioners and teams to learn and innovate?
+title: What Features Of Workplaces Support Practitioners And Teams To Learn And Innovate?
 year: 2017
 author - 1: "[[Jay Derrick]]"
 key: "[[@Derrick2017-wj]]"

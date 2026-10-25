@@ -1,5 +1,5 @@
 ---
-title: Tangible vs. virtual representations
+title: Tangible Vs. Virtual Representations
 year: 2012
 author - 1: "[[Sébastien Cuendet]]"
 author - 2: "[[Engin Bumbacher]]"

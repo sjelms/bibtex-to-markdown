@@ -1,5 +1,5 @@
 ---
-title: Skills required for offsite construction
+title: Skills Required For Offsite Construction
 year: 2019
 author - 1: "[[Buddhini Ginigaddara]]"
 author - 2: "[[Srinath Perera]]"

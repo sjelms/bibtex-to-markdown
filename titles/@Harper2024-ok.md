@@ -1,5 +1,5 @@
 ---
-title: YIMBYs hear this – simply building more homes won’t solve our housing crisis
+title: Yimbys Hear This – Simply Building More Homes Won’t Solve Our Housing Crisis
 year: 2024
 author - 1: "[[Phineas Harper]]"
 key: "[[@Harper2024-ok]]"

@@ -1,5 +1,5 @@
 ---
-title: Multiple Intelligences -  New Horizons in Theory and Practice
+title: Multiple Intelligences - New Horizons In Theory And Practice
 year: 2008
 author - 1: "[[Howard E Gardner]]"
 key: "[[@Gardner2008-lx]]"

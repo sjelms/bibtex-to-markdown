@@ -1,5 +1,5 @@
 ---
-title: The Multiple Representations Principle in Multimedia Learning
+title: The Multiple Representations Principle In Multimedia Learning
 year: 2021
 author - 1: "[[Shaaron Ainsworth]]"
 editor - 1: "[[Logan Fiorella]]"

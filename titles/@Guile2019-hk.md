@@ -1,5 +1,5 @@
 ---
-title: VET, Expertise, and Work -  Situating the Challenge for the Twenty-First Century
+title: VET, Expertise, And Work - Situating The Challenge For The Twenty-First Century
 year: 2019
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"

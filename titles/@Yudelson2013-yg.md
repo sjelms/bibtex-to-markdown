@@ -1,5 +1,5 @@
 ---
-title: Individualized Bayesian knowledge tracing models
+title: Individualized Bayesian Knowledge Tracing Models
 year: 2013
 author - 1: "[[Michael V Yudelson]]"
 author - 2: "[[Kenneth R Koedinger]]"

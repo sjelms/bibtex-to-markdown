@@ -1,5 +1,5 @@
 ---
-title: Design of a safety training package for migrant workers in the construction industry
+title: Design Of A Safety Training Package For Migrant Workers In The Construction Industry
 year: 2021
 author - 1: "[[Michela Vignoli]]"
 author - 2: "[[Karina Nielsen]]"

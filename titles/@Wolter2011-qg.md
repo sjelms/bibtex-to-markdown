@@ -1,5 +1,5 @@
 ---
-title: Empirical Research in Vocational Education and Training
+title: Empirical Research In Vocational Education And Training
 year: 2011
 author - 1: "[[Stefan Wolter]]"
 editor - 1: "[[Stefan Wolter]]"

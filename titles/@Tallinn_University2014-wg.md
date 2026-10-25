@@ -1,5 +1,5 @@
 ---
-title: Tacit and Explicit Knowledge | Key Concepts in Information and Knowledge Management
+title: Tacit And Explicit Knowledge | Key Concepts In Information And Knowledge Management
 year: 2014
 author - 1: "[[Tallinn University]]"
 key: "[[@Tallinn_University2014-wg]]"

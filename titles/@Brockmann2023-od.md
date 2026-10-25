@@ -1,11 +1,11 @@
 ---
-title: ‘Invested’ partnerships as key to high quality apprenticeship programmes as evidenced in on and off the job training
+title: ‘Invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training
 year: 2023
 author - 1: "[[Michaela Brockmann]]"
 author - 2: "[[Rob Smith]]"
 key: "[[@Brockmann2023-od]]"
 aliases:
-  - ‘invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training
+  - ‘Invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training
 journal: "[[Journal of Education and Work]]"
 publisher: "[[Informa UK Limited]]"
 type: "[[@article]]"

@@ -1,5 +1,5 @@
 ---
-title: Bernstein as Musical and Cultural Ambassador -  Omnibus
+title: Bernstein As Musical And Cultural Ambassador - Omnibus
 year: 2024
 author - 1: "[[Dorothy Glick Maglione]]"
 editor - 1: "[[Elizabeth A Wells]]"

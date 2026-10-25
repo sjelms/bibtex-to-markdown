@@ -1,5 +1,5 @@
 ---
-title: The Future Of Work -  VICE Special Report
+title: The Future Of Work - VICE Special Report
 year: 2019
 author - 1: "[[David Schankula]]"
 key: "[[@Schankula2019-ju]]"

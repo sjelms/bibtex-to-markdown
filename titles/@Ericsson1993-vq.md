@@ -1,5 +1,5 @@
 ---
-title: The role of deliberate practice in the acquisition of expert performance
+title: The Role Of Deliberate Practice In The Acquisition Of Expert Performance
 year: 1993
 author - 1: "[[K Anders Ericsson]]"
 author - 2: "[[Ralf T Krampe]]"

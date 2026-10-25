@@ -1,5 +1,5 @@
 ---
-title: Pioneers of Psychology -  A History
+title: Pioneers Of Psychology - A History
 year: 1979
 author - 1: "[[Raymond E Fancher]]"
 author - 2: "[[Alexandra Rutherford]]"

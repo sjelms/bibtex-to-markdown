@@ -1,5 +1,5 @@
 ---
-title: Understanding Research Philosophy and Approaches to Theory Development
+title: Understanding Research Philosophy And Approaches To Theory Development
 year: 2019
 author - 1: "[[Mark N K Saunders]]"
 author - 2: "[[Philip Lewis]]"

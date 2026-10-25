@@ -1,5 +1,5 @@
 ---
-title: Sprint -  How to Solve Big Problems and Test New Ideas in Just Five Days
+title: Sprint - How To Solve Big Problems And Test New Ideas In Just Five Days
 year: 2016
 author - 1: "[[Jake Knapp]]"
 author - 2: "[[John Zeratsky]]"

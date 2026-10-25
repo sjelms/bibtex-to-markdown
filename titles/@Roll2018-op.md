@@ -1,5 +1,5 @@
 ---
-title: Learning at Scale
+title: Learning At Scale
 year: 2018
 author - 1: "[[Ido Roll]]"
 author - 2: "[[Daniel M Russell]]"

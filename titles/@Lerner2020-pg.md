@@ -1,5 +1,5 @@
 ---
-title: An immersive multi-user virtual reality for emergency simulation training -  Usability study
+title: An Immersive Multi-User Virtual Reality For Emergency Simulation Training - Usability Study
 year: 2020
 author - 1: "[[Dieter Lerner]]"
 author - 2: "[[Stefan Mohr]]"

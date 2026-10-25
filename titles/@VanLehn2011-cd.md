@@ -1,5 +1,5 @@
 ---
-title: The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems
+title: The Relative Effectiveness Of Human Tutoring, Intelligent Tutoring Systems, And Other Tutoring Systems
 year: 2011
 author - 1: "[[Kurt VanLehn]]"
 key: "[[@VanLehn2011-cd]]"

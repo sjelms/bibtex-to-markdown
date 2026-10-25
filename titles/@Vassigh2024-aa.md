@@ -1,5 +1,5 @@
 ---
-title: Performance-driven VR learning for robotics
+title: Performance-Driven VR Learning For Robotics
 year: 2024
 author - 1: "[[Shahin Vassigh]]"
 author - 2: "[[Biayna Bogosian]]"

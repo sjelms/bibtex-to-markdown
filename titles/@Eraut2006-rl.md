@@ -1,5 +1,5 @@
 ---
-title: The Concept of Method -  Help or Hindrance
+title: The Concept Of Method - Help Or Hindrance
 year: 2006
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2006-rl]]"

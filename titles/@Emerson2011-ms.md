@@ -1,5 +1,5 @@
 ---
-title: Writing ethnographic fieldnotes
+title: Writing Ethnographic Fieldnotes
 year: 2011
 author - 1: "[[Robert M Emerson]]"
 author - 2: "[[Rachel I Fretz]]"

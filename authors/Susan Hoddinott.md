@@ -10,7 +10,7 @@ aliases:
 ## Susan Hoddinott
 
 ### Content:
-[[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
+[[@Hoddinott2004-on|The Assessment Of Workers’ ‘Basic Skills’]]
 
 #### Bibliography:
 

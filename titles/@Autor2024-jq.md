@@ -1,5 +1,5 @@
 ---
-title: New Frontiers -  The Origins and Content of New Work, 1940–2018
+title: New Frontiers - The Origins And Content Of New Work, 1940–2018
 year: 2024
 author - 1: "[[David H Autor]]"
 author - 2: "[[Caroline Chin]]"

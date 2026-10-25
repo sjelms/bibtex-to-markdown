@@ -1,5 +1,5 @@
 ---
-title: The Construction Industry -  Processes, Players, and Practices
+title: The Construction Industry - Processes, Players, And Practices
 year: 2001
 author - 1: "[[Ralph W Liebing]]"
 key: "[[@Liebing2001-mv]]"

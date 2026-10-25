@@ -1,5 +1,5 @@
 ---
-title: Addressing Specialization and Fragmentation -  Product Platform Development in Construction Consultancy Firms
+title: Addressing Specialization And Fragmentation - Product Platform Development In Construction Consultancy Firms
 year: 2022
 author - 1: "[[Kell Jones]]"
 author - 2: "[[Luigi Mosca]]"

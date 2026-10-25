@@ -1,5 +1,5 @@
 ---
-title: Intelligent decision-support systems and the Internet of Things for the smart built environment
+title: Intelligent Decision-Support Systems And The Internet Of Things For The Smart Built Environment
 year: 2016
 author - 1: "[[Artūras Kaklauskas]]"
 author - 2: "[[Renaldas Gudauskas]]"

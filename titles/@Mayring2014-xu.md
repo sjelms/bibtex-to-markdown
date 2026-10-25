@@ -1,5 +1,5 @@
 ---
-title: Qualitative content analysis -  theoretical foundation, basic procedures and software solution
+title: Qualitative Content Analysis - Theoretical Foundation, Basic Procedures And Software Solution
 year: 2014
 author - 1: "[[Philipp Mayring]]"
 key: "[[@Mayring2014-xu]]"

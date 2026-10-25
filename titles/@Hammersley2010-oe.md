@@ -1,5 +1,5 @@
 ---
-title: Methodology -  Who Needs It?
+title: Methodology - Who Needs It?
 year: 2010
 author - 1: "[[Martyn Hammersley]]"
 key: "[[@Hammersley2010-oe]]"

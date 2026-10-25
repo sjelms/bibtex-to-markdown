@@ -1,5 +1,5 @@
 ---
-title: Americans Are Losing Faith in College Education, WSJ-NORC Poll Finds
+title: Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds
 year: 2023
 author - 1: "[[Douglas Belkin]]"
 key: "[[@Belkin2023-ak]]"

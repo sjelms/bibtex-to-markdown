@@ -1,5 +1,5 @@
 ---
-title: Future of Work in Construction
+title: Future Of Work In Construction
 year: 2020
 author - 1: "[[Debra Pothier]]"
 author - 2: "[[Anil Sawhney]]"

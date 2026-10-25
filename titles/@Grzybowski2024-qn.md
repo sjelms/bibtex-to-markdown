@@ -1,5 +1,5 @@
 ---
-title: A History of Artificial Intelligence
+title: A History Of Artificial Intelligence
 year: 2024
 author - 1: "[[Andrzej Grzybowski]]"
 author - 2: "[[Katarzyna Pawlikowska-Łagód]]"

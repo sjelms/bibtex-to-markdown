@@ -1,5 +1,5 @@
 ---
-title: Opening Up the Continuing Professional Development Imagination -  Bringing the Clinical Workplace Into View
+title: Opening Up The Continuing Professional Development Imagination - Bringing The Clinical Workplace Into View
 year: 2023
 author - 1: "[[Paula Rowland]]"
 key: "[[@Rowland2023-kc]]"

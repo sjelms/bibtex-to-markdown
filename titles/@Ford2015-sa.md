@@ -1,5 +1,5 @@
 ---
-title: Rise of the Robots -  Technology and the Threat of a Jobless Future
+title: Rise Of The Robots - Technology And The Threat Of A Jobless Future
 year: 2015
 author - 1: "[[Martin Ford]]"
 key: "[[@Ford2015-sa]]"

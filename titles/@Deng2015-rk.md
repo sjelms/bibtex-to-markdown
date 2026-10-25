@@ -1,5 +1,5 @@
 ---
-title: Performance Measurement System -  Attributes, Effects and Context in UK Construction Firms
+title: Performance Measurement System - Attributes, Effects And Context In UK Construction Firms
 year: 2015
 author - 1: "[[Fei Deng]]"
 key: "[[@Deng2015-rk]]"

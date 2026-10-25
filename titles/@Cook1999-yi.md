@@ -1,5 +1,5 @@
 ---
-title: Bridging Epistemologies -  The Generative Dance Between Organizational Knowledge and Organizational Knowing
+title: Bridging Epistemologies - The Generative Dance Between Organizational Knowledge And Organizational Knowing
 year: 1999
 author - 1: "[[Scott D N Cook]]"
 author - 2: "[[John Seely Brown]]"

@@ -1,5 +1,5 @@
 ---
-title: Building augmented reality experiences with Unity3D
+title: Building Augmented Reality Experiences With Unity3d
 year: 2017
 author - 1: "[[Abhishek Singh]]"
 key: "[[@Singh2017-cu]]"

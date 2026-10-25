@@ -1,5 +1,5 @@
 ---
-title: Design in Modular Construction
+title: Design In Modular Construction
 year: 2019
 author - 1: "[[Mark Lawson]]"
 author - 2: "[[Ray Ogden]]"

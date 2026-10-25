@@ -1,5 +1,5 @@
 ---
-title: Skill Development in Middle Level Occupations -  The Role of Apprenticeship Training
+title: Skill Development In Middle Level Occupations - The Role Of Apprenticeship Training
 year: 2017
 author - 1: "[[Robert I Lerman]]"
 editor - 1: "[[Chris Warhurst]]"

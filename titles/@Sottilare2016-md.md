@@ -1,5 +1,5 @@
 ---
-title: A process for adaptive instruction of tasks in the psychomotor domain
+title: A Process For Adaptive Instruction Of Tasks In The Psychomotor Domain
 year: 2016
 author - 1: "[[Robert A Sottilare]]"
 author - 2: "[[Joseph J LaViola]]"

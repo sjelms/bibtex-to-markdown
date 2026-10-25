@@ -1,5 +1,5 @@
 ---
-title: Six Easy Pieces -  Essentials of Physics Explained by Its Most Brilliant Teacher
+title: Six Easy Pieces - Essentials Of Physics Explained By Its Most Brilliant Teacher
 year: 2011
 author - 1: "[[Richard Phillips Feynman]]"
 author - 2: "[[Robert B Leighton]]"

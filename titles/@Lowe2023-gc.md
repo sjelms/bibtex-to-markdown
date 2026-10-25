@@ -1,5 +1,5 @@
 ---
-title: The RAAC Schools Crisis -  What We Know So Far
+title: The RAAC Schools Crisis - What We Know So Far
 year: 2023
 author - 1: "[[Tom Lowe]]"
 author - 2: "[[Daniel Gayne]]"

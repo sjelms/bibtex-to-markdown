@@ -1,5 +1,5 @@
 ---
-title: Education in Construction Engineering and Management Built on Tradition -  Blueprint for Tomorrow
+title: Education In Construction Engineering And Management Built On Tradition - Blueprint For Tomorrow
 year: 2007
 author - 1: "[[Jeffrey S Russell]]"
 author - 2: "[[Awad Hanna]]"

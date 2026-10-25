@@ -1,5 +1,5 @@
 ---
-title: Apartments Built on an Assembly Line
+title: Apartments Built On An Assembly Line
 year: 2021
 author - 1: "[[Candace Jackson]]"
 key: "[[@Jackson2021-gh]]"

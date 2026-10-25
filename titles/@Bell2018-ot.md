@@ -1,5 +1,5 @@
 ---
-title: Research Methods in Education
+title: Research Methods In Education
 year: 2018
 author - 1: "[[Richard Bell]]"
 author - 2: "[[Barry Cooper]]"

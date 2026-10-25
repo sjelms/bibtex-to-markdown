@@ -1,5 +1,5 @@
 ---
-title: The Friction Project -  How Smart Leaders Make the Right Things Easier and the Wrong Things Harder
+title: The Friction Project - How Smart Leaders Make The Right Things Easier And The Wrong Things Harder
 year: 2024
 author - 1: "[[Robert I Sutton]]"
 author - 2: "[[Huggy Rao]]"

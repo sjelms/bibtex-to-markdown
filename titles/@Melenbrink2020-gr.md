@@ -1,5 +1,5 @@
 ---
-title: On-site autonomous construction robots -  Towards unsupervised building
+title: On-Site Autonomous Construction Robots - Towards Unsupervised Building
 year: 2020
 author - 1: "[[Nathan Melenbrink]]"
 author - 2: "[[Justin Werfel]]"

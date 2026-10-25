@@ -1,5 +1,5 @@
 ---
-title: The Future of the Professions -  How Technology Will Transform the Work of Human Experts, Updated Edition
+title: The Future Of The Professions - How Technology Will Transform The Work Of Human Experts, Updated Edition
 year: 2022
 author - 1: "[[Richard Susskind]]"
 author - 2: "[[Daniel Susskind]]"

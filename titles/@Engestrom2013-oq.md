@@ -1,5 +1,5 @@
 ---
-title: Activity Theory and Learning at Work
+title: Activity Theory And Learning At Work
 year: 2013
 author - 1: "[[Yrjö Engeström]]"
 key: "[[@Engestrom2013-oq]]"

@@ -1,5 +1,5 @@
 ---
-title: Applying an Apprenticeship Approach to HRD -  Why the Concepts of Occupation, Identity and the Organisation of Workplace Learning Still Matter
+title: Applying An Apprenticeship Approach To HRD - Why The Concepts Of Occupation, Identity And The Organisation Of Workplace Learning Still Matter
 year: 2016
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

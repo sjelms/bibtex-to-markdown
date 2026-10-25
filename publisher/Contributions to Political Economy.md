@@ -10,4 +10,4 @@ category:
 ## Contributions to Political Economy
 
 ### Content:
-[[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
+[[@Smith2024-te|Braverman And Textit Labor And Monopoly Capital]]

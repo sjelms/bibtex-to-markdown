@@ -1,5 +1,5 @@
 ---
-title: Faster, Better, Cheaper in the History of Manufacturing -  From the Stone Age to Lean Manufacturing and Beyond
+title: Faster, Better, Cheaper In The History Of Manufacturing - From The Stone Age To Lean Manufacturing And Beyond
 year: 2016
 author - 1: "[[Christoph Roser]]"
 key: "[[@Roser2016-pm]]"

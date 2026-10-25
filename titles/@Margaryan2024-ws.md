@@ -1,5 +1,5 @@
 ---
-title: The duality of global online labour platforms as restrictive‐expansive sites of workplace learning and skill development
+title: The Duality Of Global Online Labour Platforms As Restrictive‐expansive Sites Of Workplace Learning And Skill Development
 year: 2024
 author - 1: "[[Anoush Margaryan]]"
 key: "[[@Margaryan2024-ws]]"

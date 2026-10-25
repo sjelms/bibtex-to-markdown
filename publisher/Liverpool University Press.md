@@ -10,6 +10,6 @@ category:
 ## Liverpool University Press
 
 ### Content:
-[[@Carter2022-mh|The Continuing Value Of Harry Braverman’s \textit Labor And Monopoly Capital]]
+[[@Carter2022-mh|The Continuing Value Of Harry Braverman’s Textit Labor And Monopoly Capital]]
 [[@Pearson2020-je|England’s Co-Operative Movement]]
 [[@Wright1993-vp|Taylorism Reconsidered]]

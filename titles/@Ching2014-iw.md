@@ -1,5 +1,5 @@
 ---
-title: Architecture -  Form, Space, and Order
+title: Architecture - Form, Space, And Order
 year: 2014
 author - 1: "[[Francis D K Ching]]"
 key: "[[@Ching2014-iw]]"

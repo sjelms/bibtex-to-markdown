@@ -1,5 +1,5 @@
 ---
-title: Academic writing and dyslexia -  A visual guide to writing at university
+title: Academic Writing And Dyslexia - A Visual Guide To Writing At University
 year: 2018
 author - 1: "[[Adrian J Wallbank]]"
 key: "[[@Wallbank2018-dj]]"

@@ -1,5 +1,5 @@
 ---
-title: Holism/organicism -  Epistemological implications of practice-based learning at work
+title: Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

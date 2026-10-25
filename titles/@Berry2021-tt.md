@@ -1,5 +1,5 @@
 ---
-title: The Political Economy of Industrial Strategy in the UK -  From Productivity Problems to Development Dilemmas
+title: The Political Economy Of Industrial Strategy In The UK - From Productivity Problems To Development Dilemmas
 year: 2021
 author - 1: "[[Craig Berry]]"
 author - 2: "[[Julie Froud]]"

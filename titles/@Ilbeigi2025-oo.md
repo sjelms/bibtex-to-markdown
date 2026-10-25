@@ -1,5 +1,5 @@
 ---
-title: An AI-Enhanced System to Integrate Unstructured Observations with Formal Engineering Education -  An NSF RITEL Project
+title: An AI-Enhanced System To Integrate Unstructured Observations With Formal Engineering Education - An NSF RITEL Project
 year: 2025
 author - 1: "[[Mohammad Ilbeigi]]"
 author - 2: "[[Dana Alzoubi]]"

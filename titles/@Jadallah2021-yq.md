@@ -1,5 +1,5 @@
 ---
-title: Educational Theory-integrated Construction Industry Training -  State-of-the-Art Review
+title: Educational Theory-Integrated Construction Industry Training - State-Of-The-Art Review
 year: 2021
 author - 1: "[[Hazem Jadallah]]"
 author - 2: "[[Carol J Friedland]]"

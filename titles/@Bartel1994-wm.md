@@ -1,5 +1,5 @@
 ---
-title: Productivity gains from the implementation of employee training programs
+title: Productivity Gains From The Implementation Of Employee Training Programs
 year: 1994
 author - 1: "[[Ann P Bartel]]"
 key: "[[@Bartel1994-wm]]"

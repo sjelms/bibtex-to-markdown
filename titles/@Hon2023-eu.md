@@ -1,5 +1,5 @@
 ---
-title: Machine learning for safety hazard identification in construction
+title: Machine Learning For Safety Hazard Identification In Construction
 year: 2023
 author - 1: "[[Carol K H Hon]]"
 author - 2: "[[Chenjunyan Sun]]"

@@ -1,5 +1,5 @@
 ---
-title: Understanding and applying research paradigms in educational contexts
+title: Understanding And Applying Research Paradigms In Educational Contexts
 year: 2017
 author - 1: "[[Charles Kivunja]]"
 author - 2: "[[Ahmed Bawa Kuyini]]"

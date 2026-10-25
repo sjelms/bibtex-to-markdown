@@ -1,5 +1,5 @@
 ---
-title: The Machine That Changed the World -  The Story of Lean Production — Toyota's Secret Weapon in the Global Car Wars That Is Now Revolutionizing World Industry
+title: The Machine That Changed The World - The Story Of Lean Production — Toyota's Secret Weapon In The Global Car Wars That Is Now Revolutionizing World Industry
 year: 2007
 author - 1: "[[James P Womack]]"
 author - 2: "[[Daniel T Jones]]"

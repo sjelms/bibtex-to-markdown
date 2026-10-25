@@ -1,5 +1,5 @@
 ---
-title: The Habituation of the Worker to the Capitalist Mode of Production
+title: The Habituation Of The Worker To The Capitalist Mode Of Production
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-rb]]"

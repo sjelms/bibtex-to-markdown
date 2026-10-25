@@ -1,5 +1,5 @@
 ---
-title: Rule of the Robots -  How Artificial Intelligence Will Transform Everything
+title: Rule Of The Robots - How Artificial Intelligence Will Transform Everything
 year: 2021
 author - 1: "[[Martin Ford]]"
 key: "[[@Ford2021-hl]]"

@@ -1,5 +1,5 @@
 ---
-title: At Home -  A Short History of private life
+title: At Home - A Short History Of Private Life
 year: 2010
 author - 1: "[[Bill Bryson]]"
 key: "[[@Bryson2010-zi]]"

@@ -1,5 +1,5 @@
 ---
-title: Industry and labour -  Class struggle at work and monopoly capitalism
+title: Industry And Labour - Class Struggle At Work And Monopoly Capitalism
 year: 1977
 author - 1: "[[Andrew L Friedman]]"
 key: "[[@Friedman1977-mf]]"

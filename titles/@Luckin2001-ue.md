@@ -1,5 +1,5 @@
 ---
-title: Ecolab -  Exploring the Construction of a Learning Assistant
+title: Ecolab - Exploring The Construction Of A Learning Assistant
 year: 2001
 author - 1: "[[Rosemary Luckin]]"
 key: "[[@Luckin2001-ue]]"

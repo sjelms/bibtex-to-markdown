@@ -1,5 +1,5 @@
 ---
-title: A study finds nearly half of jobs are vulnerable to automation
+title: A Study Finds Nearly Half Of Jobs Are Vulnerable To Automation
 year: 2018
 author - 1: "[[Economist]]"
 key: "[[@Economist2018-bm]]"

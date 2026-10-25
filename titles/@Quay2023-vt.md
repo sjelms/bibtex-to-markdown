@@ -1,5 +1,5 @@
 ---
-title: Vygotsky’s perezhivanies with Dewey’s Occupations -  Improving Integration of Teaching and Assessing via Creative Learning Units
+title: Vygotsky’s Perezhivanies With Dewey’s Occupations - Improving Integration Of Teaching And Assessing Via Creative Learning Units
 year: 2023
 author - 1: "[[John Quay]]"
 author - 2: "[[Ben Williams]]"

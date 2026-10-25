@@ -1,5 +1,5 @@
 ---
-title: Technology and Knowledge Management
+title: Technology And Knowledge Management
 year: 2013
 author - 1: "[[Jingli Cheng]]"
 author - 2: "[[Su Jin Son]]"

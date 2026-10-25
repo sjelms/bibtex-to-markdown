@@ -1,5 +1,5 @@
 ---
-title: Dilemmas in continuing professional learning -  learning inscribed in frameworks or elicited from practice
+title: Dilemmas In Continuing Professional Learning - Learning Inscribed In Frameworks Or Elicited From Practice
 year: 2015
 author - 1: "[[Ann Reich]]"
 author - 2: "[[Donna Rooney]]"

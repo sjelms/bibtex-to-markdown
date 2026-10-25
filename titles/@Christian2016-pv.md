@@ -1,5 +1,5 @@
 ---
-title: Algorithms to Live By -  The Computer Science of Human Decisions
+title: Algorithms To Live By - The Computer Science Of Human Decisions
 year: 2016
 author - 1: "[[Brian Christian]]"
 author - 2: "[[Tom Griffiths]]"

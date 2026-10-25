@@ -1,5 +1,5 @@
 ---
-title: Introduction to the New Edition
+title: Introduction To The New Edition
 year: 1998
 author - 1: "[[John Bellamy Foster]]"
 key: "[[@Foster1998-rg]]"

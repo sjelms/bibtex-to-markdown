@@ -1,5 +1,5 @@
 ---
-title: Grim Times for Graduates Facing Worst Jobs Market in a Generation
+title: Grim Times For Graduates Facing Worst Jobs Market In A Generation
 year: 2025
 author - 1: "[[Louise Eccles]]"
 author - 2: "[[Jill Treanor]]"

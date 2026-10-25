@@ -1,5 +1,5 @@
 ---
-title: The Construction Workforce -  Growing Again, but Not Changing Much
+title: The Construction Workforce - Growing Again, But Not Changing Much
 year: 2020
 author - 1: "[[Akrur Barua]]"
 key: "[[@Barua2020-br]]"

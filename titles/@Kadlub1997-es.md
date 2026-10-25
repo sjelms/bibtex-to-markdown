@@ -1,5 +1,5 @@
 ---
-title: Shortage of workers slams area contractors
+title: Shortage Of Workers Slams Area Contractors
 year: 1997
 author - 1: "[[Luanne Kadlub]]"
 key: "[[@Kadlub1997-es]]"

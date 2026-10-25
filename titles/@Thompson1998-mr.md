@@ -1,5 +1,5 @@
 ---
-title: Workplaces of the Future
+title: Workplaces Of The Future
 year: 1998
 author - 1: "[[Paul Thompson]]"
 author - 2: "[[Chris Warhurst]]"

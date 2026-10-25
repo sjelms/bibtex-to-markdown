@@ -1,5 +1,5 @@
 ---
-title: Shaping the Future of Construction -  A Breakthrough in Mindset and Technology
+title: Shaping The Future Of Construction - A Breakthrough In Mindset And Technology
 year: 2016
 author - 1: "[[Andreas Renz]]"
 author - 2: "[[Manuel Zafra Solas]]"

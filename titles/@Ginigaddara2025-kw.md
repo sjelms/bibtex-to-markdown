@@ -1,5 +1,5 @@
 ---
-title: A critical review of quantity surveying education in an offsite construction perspective -  strategies for up-skilling
+title: A Critical Review Of Quantity Surveying Education In An Offsite Construction Perspective - Strategies For Up-Skilling
 year: 2025
 author - 1: "[[Buddhini Ginigaddara]]"
 author - 2: "[[Thayaparan Gajendran]]"

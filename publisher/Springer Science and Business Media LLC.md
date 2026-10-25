@@ -15,7 +15,7 @@ category:
 [[@Chen2024-xu|Transforming Online Teacher Training Through Expansive Learning]]
 [[@Engestrom1999-cg|Expansive Visibilization Of Work]]
 [[@Grytnes2017-hw|Apprentice Or Student? The Structures Of Construction Industry Vocational Education And Training In Denmark And Sweden And Their Possible Consequences For Safety Learning]]
-[[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
+[[@Guile2017-qd|Apprenticeship For ‘Liquid Life’]]
 [[@Heritage2018-nm|Assessment For Learning As Support For Student Self-Regulation]]
 [[@Jonna2014-ql|Braverman And The Structure Of The U.s. Working Class]]
 [[@Merrill2002-sc|First Principles Of Instruction]]

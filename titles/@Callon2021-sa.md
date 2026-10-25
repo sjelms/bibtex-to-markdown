@@ -1,5 +1,5 @@
 ---
-title: Markets in the Making -  Rethinking Competition, Goods, and Innovation
+title: Markets In The Making - Rethinking Competition, Goods, And Innovation
 year: 2021
 author - 1: "[[Michel Callon]]"
 key: "[[@Callon2021-sa]]"

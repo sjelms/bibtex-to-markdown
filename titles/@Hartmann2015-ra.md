@@ -1,5 +1,5 @@
 ---
-title: Learning between projects -  More than sending messages in bottles
+title: Learning Between Projects - More Than Sending Messages In Bottles
 year: 2015
 author - 1: "[[Andreas Hartmann]]"
 author - 2: "[[André Dorée]]"

@@ -1,5 +1,5 @@
 ---
-title: Technological change and the skill acquisition of young workers
+title: Technological Change And The Skill Acquisition Of Young Workers
 year: 1998
 author - 1: "[[Ann P Bartel]]"
 author - 2: "[[Nachum Sicherman]]"

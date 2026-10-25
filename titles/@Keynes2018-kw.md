@@ -1,5 +1,5 @@
 ---
-title: The General Theory of Employment, Interest, and Money
+title: The General Theory Of Employment, Interest, And Money
 year: 2018
 author - 1: "[[John Maynard Keynes]]"
 key: "[[@Keynes2018-kw]]"

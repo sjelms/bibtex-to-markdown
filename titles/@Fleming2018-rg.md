@@ -1,5 +1,5 @@
 ---
-title: Methodologies, Methods and Ethical Considerations for Conducting Research in Work-Integrated Learning
+title: Methodologies, Methods And Ethical Considerations For Conducting Research In Work-Integrated Learning
 year: 2018
 author - 1: "[[Jenny Fleming]]"
 author - 2: "[[Karsten E Zegwaard]]"

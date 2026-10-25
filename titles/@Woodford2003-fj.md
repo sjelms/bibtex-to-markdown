@@ -1,5 +1,5 @@
 ---
-title: Interest and Prices -  Foundations of a Theory of Monetary Policy
+title: Interest And Prices - Foundations Of A Theory Of Monetary Policy
 year: 2003
 author - 1: "[[Michael Woodford]]"
 key: "[[@Woodford2003-fj]]"

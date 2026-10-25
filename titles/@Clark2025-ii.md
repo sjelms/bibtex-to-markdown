@@ -1,5 +1,5 @@
 ---
-title: A Half-Century of Harry Braverman’s Labor and Monopoly Capital
+title: A Half-Century Of Harry Braverman’s Labor And Monopoly Capital
 year: 2025
 author - 1: "[[Sophina Clark]]"
 author - 2: "[[Daniel Judt]]"

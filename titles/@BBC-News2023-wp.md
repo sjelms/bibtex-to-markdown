@@ -1,5 +1,5 @@
 ---
-title: New RAAC Schools List of Buildings With Unsafe Concrete
+title: New RAAC Schools List Of Buildings With Unsafe Concrete
 year: 2023
 author - 1: "[[BBC News]]"
 key: "[[@BBC-News2023-wp]]"

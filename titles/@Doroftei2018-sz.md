@@ -1,5 +1,5 @@
 ---
-title: Perspectives of Young People Enrolled in Apprenticeship Courses in Portugal About Learning in Work Contexts
+title: Perspectives Of Young People Enrolled In Apprenticeship Courses In Portugal About Learning In Work Contexts
 year: 2018
 author - 1: "[[Alexandra Doroftei]]"
 author - 2: "[[Sofia Marques da Silva]]"

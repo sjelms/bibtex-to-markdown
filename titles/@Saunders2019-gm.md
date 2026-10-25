@@ -1,5 +1,5 @@
 ---
-title: Research Methods for Business Students
+title: Research Methods For Business Students
 year: 2019
 author - 1: "[[Mark N K Saunders]]"
 author - 2: "[[Philip Lewis]]"

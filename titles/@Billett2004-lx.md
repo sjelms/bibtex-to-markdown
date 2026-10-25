@@ -1,5 +1,5 @@
 ---
-title: Workplace participatory practices -  Conceptualising workplaces as learning environments
+title: Workplace Participatory Practices - Conceptualising Workplaces As Learning Environments
 year: 2004
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2004-lx]]"

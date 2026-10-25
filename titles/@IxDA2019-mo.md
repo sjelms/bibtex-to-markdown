@@ -1,5 +1,5 @@
 ---
-title: Ruby Steel — Interaction Design Day @ IxDA London
+title: Ruby Steel — Interaction Design Day @ Ixda London
 year: 2019
 author - 1: "[[London IxDA]]"
 key: "[[@IxDA2019-mo]]"

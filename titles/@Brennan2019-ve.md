@@ -1,5 +1,5 @@
 ---
-title: 100 PhD rules of the game to successfully complete a doctoral dissertation
+title: 100 Phd Rules Of The Game To Successfully Complete A Doctoral Dissertation
 year: 2019
 author - 1: "[[Niamh M Brennan]]"
 key: "[[@Brennan2019-ve]]"

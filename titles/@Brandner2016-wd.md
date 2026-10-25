@@ -1,5 +1,5 @@
 ---
-title: Cross Laminated Timber (CLT) -  Overview and Development
+title: Cross Laminated Timber (CLT) - Overview And Development
 year: 2016
 author - 1: "[[Reinhard Brandner]]"
 author - 2: "[[Georg Flatscher]]"

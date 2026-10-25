@@ -1,5 +1,5 @@
 ---
-title: Explaining Society -  An Introduction to Critical Realism in the Social Sciences
+title: Explaining Society - An Introduction To Critical Realism In The Social Sciences
 year: 2005
 author - 1: "[[Berth Danermark]]"
 author - 2: "[[Mats Ekström]]"

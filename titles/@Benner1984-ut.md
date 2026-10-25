@@ -1,5 +1,5 @@
 ---
-title: From Novice to Expert -  Excellence and Power in Clinical Nursing Practice
+title: From Novice To Expert - Excellence And Power In Clinical Nursing Practice
 year: 1984
 author - 1: "[[Patricia Benner]]"
 key: "[[@Benner1984-ut]]"

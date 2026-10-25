@@ -1,5 +1,5 @@
 ---
-title: Collective Learning in Strategic Public-Private Partnership (PPP) Procurement Systems for Social Infrastructure
+title: Collective Learning In Strategic Public-Private Partnership (PPP) Procurement Systems For Social Infrastructure
 year: 2019
 author - 1: "[[Daniel Marinus Maria Vermeer]]"
 key: "[[@Vermeer2019-xk]]"

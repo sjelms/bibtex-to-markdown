@@ -1,5 +1,5 @@
 ---
-title: The Socio-Materiality of Dirty Work -  A Critical Realist Perspective
+title: The Socio-Materiality Of Dirty Work - A Critical Realist Perspective
 year: 2023
 author - 1: "[[Anna Galazka]]"
 author - 2: "[[Joe O'Mahoney]]"

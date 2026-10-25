@@ -1,5 +1,5 @@
 ---
-title: Operation Breakthrough -  Striving through struggles for success by teaming
+title: Operation Breakthrough - Striving Through Struggles For Success By Teaming
 year: 2022
 author - 1: "[[HUD User]]"
 key: "[[@HUD-User2022-ip]]"

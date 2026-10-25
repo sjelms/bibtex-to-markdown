@@ -1,5 +1,5 @@
 ---
-title: Applying HRO and resilience engineering to construction -  Barriers and opportunities
+title: Applying HRO And Resilience Engineering To Construction - Barriers And Opportunities
 year: 2019
 author - 1: "[[Eleanor J Harvey]]"
 author - 2: "[[Patrick Waterson]]"

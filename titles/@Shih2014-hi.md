@@ -1,5 +1,5 @@
 ---
-title: What It Takes to Reshore Manufacturing Successfully
+title: What It Takes To Reshore Manufacturing Successfully
 year: 2014
 author - 1: "[[Willy C Shih]]"
 key: "[[@Shih2014-hi]]"

@@ -1,5 +1,5 @@
 ---
-title: Case Study Research -  Design and Methods
+title: Case Study Research - Design And Methods
 year: 2013
 author - 1: "[[Robert K Yin]]"
 key: "[[@Yin2013-yq]]"

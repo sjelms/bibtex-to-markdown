@@ -1,5 +1,5 @@
 ---
-title: How to deal with the complexity in research on workplace learning
+title: How To Deal With The Complexity In Research On Workplace Learning
 year: 2022
 author - 1: "[[Erno Lehtinen]]"
 key: "[[@Lehtinen2022-ix]]"

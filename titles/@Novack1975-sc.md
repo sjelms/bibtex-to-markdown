@@ -1,5 +1,5 @@
 ---
-title: Pragmatism Versus Marxism -  An Appraisal of John Dewey's Philosophy
+title: Pragmatism Versus Marxism - An Appraisal Of John Dewey's Philosophy
 year: 1975
 author - 1: "[[George Novack]]"
 key: "[[@Novack1975-sc]]"

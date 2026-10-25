@@ -1,5 +1,5 @@
 ---
-title: World's oldest dendrochronologically dated archaeological wood construction
+title: World's Oldest Dendrochronologically Dated Archaeological Wood Construction
 year: 2020
 author - 1: "[[Michal Rybníček]]"
 author - 2: "[[Petr Kočár]]"

@@ -1,5 +1,5 @@
 ---
-title: Adult Learning in America -  Edward Lindeman and His Agenda for Lifelong Education
+title: Adult Learning In America - Edward Lindeman And His Agenda For Lifelong Education
 year: 1987
 author - 1: "[[David Wood Stewart]]"
 key: "[[@Stewart1987-wx]]"

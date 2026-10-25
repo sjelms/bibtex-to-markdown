@@ -1,5 +1,5 @@
 ---
-title: The European Strategy for Housing Construction -  A More Competitive and Productive Construction Industry
+title: The European Strategy For Housing Construction - A More Competitive And Productive Construction Industry
 year: 2025
 author - 1: "[[European Commission]]"
 key: "[[@European-Commission2025-nz]]"

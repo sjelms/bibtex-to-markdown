@@ -1,5 +1,5 @@
 ---
-title: Living Sociology -  On Being in the World One Studies
+title: Living Sociology - On Being In The World One Studies
 year: 2021
 author - 1: "[[Michael Burawoy]]"
 key: "[[@Burawoy2021-di]]"

@@ -1,5 +1,5 @@
 ---
-title: Human Nature and Conduct -  An Introduction to Social Psychology
+title: Human Nature And Conduct - An Introduction To Social Psychology
 year: 1922
 author - 1: "[[John Dewey]]"
 key: "[[@Dewey1922-al]]"

@@ -1,5 +1,5 @@
 ---
-title: Future of Jobs and Skills in the UK Construction Sector to 2030
+title: Future Of Jobs And Skills In The UK Construction Sector To 2030
 year: 2015
 author - 1: "[[CITB]]"
 key: "[[@Citb2015-yq]]"

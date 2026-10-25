@@ -1,5 +1,5 @@
 ---
-title: In Touch with the Future -  The sense of touch from cognitive neuroscience to virtual reality
+title: In Touch With The Future - The Sense Of Touch From Cognitive Neuroscience To Virtual Reality
 year: 2014
 author - 1: "[[Alberto Gallace]]"
 author - 2: "[[Charles Spence]]"

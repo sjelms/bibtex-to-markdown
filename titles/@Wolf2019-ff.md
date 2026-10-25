@@ -1,5 +1,5 @@
 ---
-title: Case study on mobile virtual reality construction training
+title: Case Study On Mobile Virtual Reality Construction Training
 year: 2019
 author - 1: "[[Mario Wolf]]"
 author - 2: "[[Jochen Teizer]]"

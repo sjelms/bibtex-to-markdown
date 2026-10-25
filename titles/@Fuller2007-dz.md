@@ -1,5 +1,5 @@
 ---
-title: Creating and using knowledge -  an analysis of the differentiated nature of workplace learning environments
+title: Creating And Using Knowledge - An Analysis Of The Differentiated Nature Of Workplace Learning Environments
 year: 2007
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

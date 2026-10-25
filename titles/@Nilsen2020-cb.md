@@ -1,5 +1,5 @@
 ---
-title: Making Sense of Implementation Theories, Models, and Frameworks
+title: Making Sense Of Implementation Theories, Models, And Frameworks
 year: 2020
 author - 1: "[[Per Nilsen]]"
 editor - 1: "[[Bianca Albers]]"

@@ -1,5 +1,5 @@
 ---
-title: Games People Play -  The Psychology of Human Relationships
+title: Games People Play - The Psychology Of Human Relationships
 year: 1973
 author - 1: "[[Eric Berne]]"
 key: "[[@Berne1973-ik]]"

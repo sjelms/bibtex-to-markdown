@@ -1,5 +1,5 @@
 ---
-title: Modern Methods of Construction -  A Forward-Thinking Solution to the Housing Crisis?
+title: Modern Methods Of Construction - A Forward-Thinking Solution To The Housing Crisis?
 year: 2018
 author - 1: "[[Alex Davies]]"
 key: "[[@Davies2018-ai]]"

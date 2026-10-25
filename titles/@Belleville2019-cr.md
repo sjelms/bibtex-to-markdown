@@ -1,5 +1,5 @@
 ---
-title: Sit down and write your thesis! Practical and motivational tips for scientific writing
+title: Sit Down And Write Your Thesis! Practical And Motivational Tips For Scientific Writing
 year: 2019
 author - 1: "[[Geneviève Belleville]]"
 key: "[[@Belleville2019-cr]]"

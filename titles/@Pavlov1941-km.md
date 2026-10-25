@@ -1,5 +1,5 @@
 ---
-title: Conditioned Reflexes and Psychiatry
+title: Conditioned Reflexes And Psychiatry
 year: 1941
 author - 1: "[[Ivan Petrovich Pavlov]]"
 key: "[[@Pavlov1941-km]]"

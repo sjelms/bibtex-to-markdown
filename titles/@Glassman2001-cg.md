@@ -1,5 +1,5 @@
 ---
-title: Dewey and Vygotsky -  Society, Experience, and Inquiry in Educational Practice
+title: Dewey And Vygotsky - Society, Experience, And Inquiry In Educational Practice
 year: 2001
 author - 1: "[[Michael Glassman]]"
 key: "[[@Glassman2001-cg]]"

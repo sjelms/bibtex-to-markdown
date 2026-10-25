@@ -1,5 +1,5 @@
 ---
-title: Transfer of training -  A review and directions for future research
+title: Transfer Of Training - A Review And Directions For Future Research
 year: 1988
 author - 1: "[[Timothy T Baldwin]]"
 author - 2: "[[J Kevin Ford]]"

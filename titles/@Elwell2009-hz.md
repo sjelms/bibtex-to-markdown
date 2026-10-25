@@ -1,5 +1,5 @@
 ---
-title: Harry Braverman and the Working Class
+title: Harry Braverman And The Working Class
 year: 2009
 author - 1: "[[Frank W Elwell]]"
 editor - 1: "[[Bernard Phillips]]"

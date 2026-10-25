@@ -1,5 +1,5 @@
 ---
-title: 30 Essential Skills for the Qualitative Researcher
+title: 30 Essential Skills For The Qualitative Researcher
 year: 2020
 author - 1: "[[John W Creswell]]"
 author - 2: "[[Johanna Creswell Baez]]"

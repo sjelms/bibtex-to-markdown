@@ -1,5 +1,5 @@
 ---
-title: The Nature of Work -  An Introduction to Debates on the Labour Process
+title: The Nature Of Work - An Introduction To Debates On The Labour Process
 year: 1983
 author - 1: "[[Paul Thompson]]"
 key: "[[@Thompson1983-rm]]"

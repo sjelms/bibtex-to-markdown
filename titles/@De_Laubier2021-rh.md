@@ -1,5 +1,5 @@
 ---
-title: The Offsite Revolution in Construction
+title: The Offsite Revolution In Construction
 year: 2021
 author - 1: "[[Romain de Laubier]]"
 author - 2: "[[Arne Burfeind]]"

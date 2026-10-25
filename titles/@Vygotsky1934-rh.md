@@ -1,5 +1,5 @@
 ---
-title: Thought and Language
+title: Thought And Language
 year: 1934
 author - 1: "[[Lev Semyonovich Vygotsky]]"
 key: "[[@Vygotsky1934-rh]]"

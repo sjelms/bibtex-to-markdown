@@ -1,5 +1,5 @@
 ---
-title: Kiwi prefab -  Prefabricated housing in New Zealand -  An historical and contemporary overview with recommendations for the future
+title: Kiwi Prefab - Prefabricated Housing In New Zealand - An Historical And Contemporary Overview With Recommendations For The Future
 year: 2009
 author - 1: "[[Pamela Bell]]"
 editor - 1: "[[Mark Southcombe]]"

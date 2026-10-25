@@ -1,5 +1,5 @@
 ---
-title: Assessment for learning as support for student self-regulation
+title: Assessment For Learning As Support For Student Self-Regulation
 year: 2018
 author - 1: "[[Margaret Heritage]]"
 key: "[[@Heritage2018-nm]]"

@@ -10,7 +10,7 @@ aliases:
 ## Phil Taylor
 
 ### Content:
-[[@Baldry1998-ba|‘bright Satanic Offices’]]
+[[@Baldry1998-ba|‘Bright Satanic Offices’]]
 
 #### Bibliography:
 

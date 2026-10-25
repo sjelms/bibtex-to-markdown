@@ -1,5 +1,5 @@
 ---
-title: The Cambridge Handbook of Multimedia Learning
+title: The Cambridge Handbook Of Multimedia Learning
 year: 2021
 author - 1: "[[Richard E Mayer]]"
 author - 2: "[[Logan Fiorella]]"

@@ -1,5 +1,5 @@
 ---
-title: Know how and judgement in postmodernity
+title: Know How And Judgement In Postmodernity
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

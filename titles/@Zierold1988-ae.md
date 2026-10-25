@@ -1,5 +1,5 @@
 ---
-title: Environmental Lobbyist in California’s Capital, 1965–1984
+title: Environmental Lobbyist In California’s Capital, 1965–1984
 year: 1988
 author - 1: "[[John Zierold]]"
 key: "[[@Zierold1988-ae]]"

@@ -1,5 +1,5 @@
 ---
-title: Designing Adaptive Motivational Scaffolding for a Tutoring System
+title: Designing Adaptive Motivational Scaffolding For A Tutoring System
 year: 2011
 author - 1: "[[Genaro Rebolledo-Méndez]]"
 author - 2: "[[Rosemary Luckin]]"

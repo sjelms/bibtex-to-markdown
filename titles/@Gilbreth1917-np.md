@@ -1,5 +1,5 @@
 ---
-title: Applied Motion Study -  A Collection of Papers on the Efficient Method to Industrial Preparedness
+title: Applied Motion Study - A Collection Of Papers On The Efficient Method To Industrial Preparedness
 year: 1917
 author - 1: "[[Frank Bunker Gilbreth]]"
 author - 2: "[[Lillian Moller Gilbreth]]"

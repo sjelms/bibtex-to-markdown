@@ -1,5 +1,5 @@
 ---
-title: The Impact of Offsite Construction on the Workforce -  Required Skillset and Prioritization of Training Needs
+title: The Impact Of Offsite Construction On The Workforce - Required Skillset And Prioritization Of Training Needs
 year: 2022
 author - 1: "[[Rayan H Assaad]]"
 author - 2: "[[Islam H El-adaway]]"

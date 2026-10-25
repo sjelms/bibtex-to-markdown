@@ -1,5 +1,5 @@
 ---
-title: When the Center Does Not Hold -  The Importance of Knotworking
+title: When The Center Does Not Hold - The Importance Of Knotworking
 year: 1999
 author - 1: "[[Yrjö Engeström]]"
 author - 2: "[[Ritva Engeström]]"

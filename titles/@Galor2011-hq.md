@@ -1,5 +1,5 @@
 ---
-title: Inequality, human capital formation and the process of development
+title: Inequality, Human Capital Formation And The Process Of Development
 year: 2011
 author - 1: "[[Oded Galor]]"
 key: "[[@Galor2011-hq]]"

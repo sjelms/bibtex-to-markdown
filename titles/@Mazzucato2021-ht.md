@@ -1,5 +1,5 @@
 ---
-title: Mission Economy -  A Moonshot Guide to Changing Capitalism
+title: Mission Economy - A Moonshot Guide To Changing Capitalism
 year: 2021
 author - 1: "[[Mariana Mazzucato]]"
 key: "[[@Mazzucato2021-ht]]"

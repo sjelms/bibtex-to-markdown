@@ -1,5 +1,5 @@
 ---
-title: Pulling the Plug  -  Phone Company to Replace Last Manual Switchboard
+title: Pulling The Plug - Phone Company To Replace Last Manual Switchboard
 year: 1991
 author - 1: "[[Charles Hillinger]]"
 key: "[[@Hillinger1991-nr]]"

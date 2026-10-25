@@ -10,7 +10,7 @@ aliases:
 ## Steven Millhauser
 
 ### Content:
-[[@Millhauser2004-jd|Cat 'n' Mouse]]
+[[@Millhauser2004-jd|Cat 'N' Mouse]]
 
 #### Bibliography:
 

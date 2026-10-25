@@ -1,5 +1,5 @@
 ---
-title: How Long Does It Take to Save for a House?
+title: How Long Does It Take To Save For A House?
 year: 2019
 author - 1: "[[WTF Happened In 1971]]"
 key: "[[@WTF-Happened-In-19712019-ha]]"

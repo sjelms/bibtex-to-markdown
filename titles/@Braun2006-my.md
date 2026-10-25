@@ -1,5 +1,5 @@
 ---
-title: Using Thematic Analysis in Psychology
+title: Using Thematic Analysis In Psychology
 year: 2006
 author - 1: "[[Virginia Braun]]"
 author - 2: "[[Victoria Clarke]]"

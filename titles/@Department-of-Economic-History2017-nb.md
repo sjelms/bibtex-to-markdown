@@ -1,5 +1,5 @@
 ---
-title: Tacit Knowledge -  Making It Explicit
+title: Tacit Knowledge - Making It Explicit
 year: 2017
 author - 1: "[[Department of Economic History]]"
 author - 2: "[[Helena Ivins]]"

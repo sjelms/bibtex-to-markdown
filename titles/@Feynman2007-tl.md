@@ -1,5 +1,5 @@
 ---
-title: What Do You Care What Other People Think? Further Adventures of a Curious Character
+title: What Do You Care What Other People Think? Further Adventures Of A Curious Character
 year: 2007
 author - 1: "[[Richard Phillips Feynman]]"
 key: "[[@Feynman2007-tl]]"

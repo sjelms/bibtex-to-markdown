@@ -1,5 +1,5 @@
 ---
-title: Dyslexia and difficulties with study skills in higher education
+title: Dyslexia And Difficulties With Study Skills In Higher Education
 year: 2006
 author - 1: "[[Tilly Mortimore]]"
 author - 2: "[[W Ray Crozier]]"

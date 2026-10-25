@@ -1,5 +1,5 @@
 ---
-title: New Learning -  Elements of a Science of Education
+title: New Learning - Elements Of A Science Of Education
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

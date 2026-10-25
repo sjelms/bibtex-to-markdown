@@ -1,5 +1,5 @@
 ---
-title: Make Time -  How to Focus on What Matters Every Day
+title: Make Time - How To Focus On What Matters Every Day
 year: 2018
 author - 1: "[[Jake Knapp]]"
 author - 2: "[[John Zeratsky]]"

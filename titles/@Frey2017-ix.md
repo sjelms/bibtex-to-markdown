@@ -1,5 +1,5 @@
 ---
-title: The Future of Employment -  How Susceptible Are Jobs to Computerisation?
+title: The Future Of Employment - How Susceptible Are Jobs To Computerisation?
 year: 2017
 author - 1: "[[Carl Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"

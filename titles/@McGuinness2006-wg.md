@@ -1,5 +1,5 @@
 ---
-title: Examining the Link Between Skill Shortages, Training Composition and Productivity Levels in the Construction Industry -  Evidence From Northern Ireland
+title: Examining The Link Between Skill Shortages, Training Composition And Productivity Levels In The Construction Industry - Evidence From Northern Ireland
 year: 2006
 author - 1: "[[Seamus McGuinness]]"
 author - 2: "[[Jessica Bennett]]"

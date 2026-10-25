@@ -1,5 +1,5 @@
 ---
-title: Social Theory and Social Structure
+title: Social Theory And Social Structure
 year: 1968
 author - 1: "[[Robert King Merton]]"
 key: "[[@Merton1968-ny]]"

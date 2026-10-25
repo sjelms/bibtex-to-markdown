@@ -1,5 +1,5 @@
 ---
-title: Mirror-breaking Strategies to Enable Digital Manufacturing in Silicon Valley Construction Firms -  A Comparative Case Study
+title: Mirror-Breaking Strategies To Enable Digital Manufacturing In Silicon Valley Construction Firms - A Comparative Case Study
 year: 2020
 author - 1: "[[Daniel M Hall]]"
 author - 2: "[[Jennifer K Whyte]]"

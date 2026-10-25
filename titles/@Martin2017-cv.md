@@ -1,5 +1,5 @@
 ---
-title: Skill Builders and the Evolution of National Vocational Training Systems
+title: Skill Builders And The Evolution Of National Vocational Training Systems
 year: 2017
 author - 1: "[[Cathie Jo Martin]]"
 editor - 1: "[[Chris Warhurst]]"

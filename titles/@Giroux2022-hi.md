@@ -1,5 +1,5 @@
 ---
-title: Pedagogy of Resistance -  Against Manufactured Ignorance
+title: Pedagogy Of Resistance - Against Manufactured Ignorance
 year: 2022
 author - 1: "[[Henry A Giroux]]"
 key: "[[@Giroux2022-hi]]"

@@ -1,5 +1,5 @@
 ---
-title: When More Does Not Mean Better -  Selecting a Research Methodology and Methods
+title: When More Does Not Mean Better - Selecting A Research Methodology And Methods
 year: 2016
 author - 1: "[[Karim Ménacère]]"
 editor - 1: "[[Vian Ahmed]]"

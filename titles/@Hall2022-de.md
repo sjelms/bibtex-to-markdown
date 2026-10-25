@@ -1,5 +1,5 @@
 ---
-title: New Business Models for Industrialized Construction
+title: New Business Models For Industrialized Construction
 year: 2022
 author - 1: "[[Daniel M Hall]]"
 author - 2: "[[Jerker Lessing]]"

@@ -1,5 +1,5 @@
 ---
-title: Qualitative Content Analysis -  Methods, Practice, and Software
+title: Qualitative Content Analysis - Methods, Practice, And Software
 year: 2023
 author - 1: "[[Udo Kuckartz]]"
 author - 2: "[[Stefan Rädiker]]"

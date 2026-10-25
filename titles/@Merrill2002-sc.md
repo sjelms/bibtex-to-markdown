@@ -1,5 +1,5 @@
 ---
-title: First principles of instruction
+title: First Principles Of Instruction
 year: 2002
 author - 1: "[[M David Merrill]]"
 key: "[[@Merrill2002-sc]]"

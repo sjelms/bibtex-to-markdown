@@ -1,5 +1,5 @@
 ---
-title: Learning Logs -  Assessment or Research Method?
+title: Learning Logs - Assessment Or Research Method?
 year: 2005
 author - 1: "[[Tim Friesner]]"
 author - 2: "[[Mike Hart]]"

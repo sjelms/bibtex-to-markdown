@@ -1,5 +1,5 @@
 ---
-title: Research Methodology in the Built Environment -  A Selection of Case Studies
+title: Research Methodology In The Built Environment - A Selection Of Case Studies
 year: 2016
 author - 1: "[[Vian Ahmed]]"
 author - 2: "[[Alex Opoku]]"

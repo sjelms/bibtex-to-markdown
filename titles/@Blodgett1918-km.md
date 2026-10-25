@@ -1,5 +1,5 @@
 ---
-title: Doing Farm Work By Motor Tractor -  Agriculture Simplified And Food Supply Increased By Labor-saving Machinery;-stage School For Operators
+title: Doing Farm Work By Motor Tractor - Agriculture Simplified And Food Supply Increased By Labor-Saving Machinery;-Stage School For Operators
 year: 1918
 author - 1: "[[W K Blodgett]]"
 key: "[[@Blodgett1918-km]]"

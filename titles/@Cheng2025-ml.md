@@ -1,5 +1,5 @@
 ---
-title: Artificial intelligence-assisted academic writing -  recommendations for ethical use
+title: Artificial Intelligence-Assisted Academic Writing - Recommendations For Ethical Use
 year: 2025
 author - 1: "[[Adam Cheng]]"
 author - 2: "[[Aaron Calhoun]]"

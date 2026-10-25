@@ -1,5 +1,5 @@
 ---
-title: Theory and Practice in the Vocational Curriculum
+title: Theory And Practice In The Vocational Curriculum
 year: 2006
 author - 1: "[[Jeanne Gamble]]"
 editor - 1: "[[Michael Young]]"

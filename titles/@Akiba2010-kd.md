@@ -1,5 +1,5 @@
 ---
-title: Learning -  The relationship between a seemingly mundane concept and classroom practices
+title: Learning - The Relationship Between A Seemingly Mundane Concept And Classroom Practices
 year: 2010
 author - 1: "[[Daisuke Akiba]]"
 author - 2: "[[Kimberley Alkins]]"

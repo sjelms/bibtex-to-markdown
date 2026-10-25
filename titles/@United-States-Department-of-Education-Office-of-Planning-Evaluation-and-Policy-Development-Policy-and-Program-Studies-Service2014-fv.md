@@ -1,5 +1,5 @@
 ---
-title: National Assessment of Career and Technical Education -  Final Report to Congress
+title: National Assessment Of Career And Technical Education - Final Report To Congress
 year: 2014
 author - 1: "[[United States Department of Education, Office of Planning, Evaluation and Policy Development, Policy and Program Studies Service]]"
 key: "[[@United-States-Department-of-Education-Office-of-Planning-Evaluation-and-Policy-Development-Policy-and-Program-Studies-Service2014-fv]]"

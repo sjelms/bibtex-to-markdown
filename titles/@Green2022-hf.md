@@ -1,5 +1,5 @@
 ---
-title: Modern methods of construction -  reflections on the current research agenda
+title: Modern Methods Of Construction - Reflections On The Current Research Agenda
 year: 2022
 author - 1: "[[Stuart D Green]]"
 key: "[[@Green2022-hf]]"

@@ -1,5 +1,5 @@
 ---
-title: Artificial intelligence and robotics for prefabricated and modular construction -  A systematic literature review
+title: Artificial Intelligence And Robotics For Prefabricated And Modular Construction - A Systematic Literature Review
 year: 2022
 author - 1: "[[Mi Pan]]"
 author - 2: "[[Yi Yang]]"

@@ -1,5 +1,5 @@
 ---
-title: Vocational Education and the Individual
+title: Vocational Education And The Individual
 year: 2019
 author - 1: "[[Stephen Billett]]"
 editor - 1: "[[David Guile]]"

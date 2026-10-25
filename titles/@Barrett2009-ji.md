@@ -1,5 +1,5 @@
 ---
-title: Methodological strategies to gain insights into informality and emergence in construction project case studies
+title: Methodological Strategies To Gain Insights Into Informality And Emergence In Construction Project Case Studies
 year: 2009
 author - 1: "[[Peter Barrett]]"
 author - 2: "[[Monty Sutrisna]]"

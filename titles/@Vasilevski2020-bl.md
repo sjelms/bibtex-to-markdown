@@ -1,5 +1,5 @@
 ---
-title: Analysing construction student experiences of mobile mixed reality enhanced learning in virtual and augmented reality environments
+title: Analysing Construction Student Experiences Of Mobile Mixed Reality Enhanced Learning In Virtual And Augmented Reality Environments
 year: 2020
 author - 1: "[[Nikolche Vasilevski]]"
 author - 2: "[[James Birt]]"

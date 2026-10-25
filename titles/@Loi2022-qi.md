@@ -1,5 +1,5 @@
 ---
-title: Designing the Unfinished -  A Home is Not a House
+title: Designing The Unfinished - A Home Is Not A House
 year: 2022
 author - 1: "[[Daria Loi]]"
 key: "[[@Loi2022-qi]]"

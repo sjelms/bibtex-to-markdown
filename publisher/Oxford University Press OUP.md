@@ -17,7 +17,7 @@ category:
 [[@Edwards2001-pi|Factory And Fantasy In Andrew Ure]]
 [[@Goldin1998-sf|The Origins Of Technology-Skill Complementarity]]
 [[@Nonaka2005-ke|The Theory Of The Knowledge-Creating Firm]]
-[[@Smith2024-te|Braverman And \textit Labor And Monopoly Capital]]
+[[@Smith2024-te|Braverman And Textit Labor And Monopoly Capital]]
 [[@Stasz2001-io|Assessing Skills For Work]]
 [[@Tassey2013-ia|Beyond The Business Cycle]]
 [[@Treem2023-lk|Signaling And Meaning In Organizational Analytics]]

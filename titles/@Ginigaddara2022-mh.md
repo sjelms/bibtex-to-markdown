@@ -1,5 +1,5 @@
 ---
-title: An evaluation of offsite construction skill profiles
+title: An Evaluation Of Offsite Construction Skill Profiles
 year: 2022
 author - 1: "[[Buddhini Ginigaddara]]"
 author - 2: "[[Srinath Perera]]"

@@ -1,5 +1,5 @@
 ---
-title: Measuring Construction -  Prices, Output, and Productivity
+title: Measuring Construction - Prices, Output, And Productivity
 year: 2020
 author - 1: "[[Rick Best]]"
 author - 2: "[[Jim Meikle]]"

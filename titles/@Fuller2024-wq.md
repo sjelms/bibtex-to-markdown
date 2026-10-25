@@ -1,5 +1,5 @@
 ---
-title: Context, Characteristics and Capacity -  The 3 Cs for Understanding and Improving Workplace Learning
+title: Context, Characteristics And Capacity - The 3 Cs For Understanding And Improving Workplace Learning
 year: 2024
 author - 1: "[[Alison Fuller]]"
 editor - 1: "[[Matthias Pilz]]"

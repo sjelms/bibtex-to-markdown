@@ -1,5 +1,5 @@
 ---
-title: The Impact of Organisational Learning and Change on Offsite Manufacturing
+title: The Impact Of Organisational Learning And Change On Offsite Manufacturing
 year: 2019
 author - 1: "[[Christian Thuesen]]"
 author - 2: "[[Barış Bekdik]]"

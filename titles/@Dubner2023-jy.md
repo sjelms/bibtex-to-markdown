@@ -1,10 +1,10 @@
 ---
-title: Why Is It So Hard (and Expensive) to Build Anything in America?
+title: Why Is It So Hard (And Expensive) To Build Anything In America?
 year: 2023
 author - 1: "[[Stephen J Dubner]]"
 key: "[[@Dubner2023-jy]]"
 aliases:
-  - Why Is It So Hard (and Expensive) To Build Anything In America?
+  - Why Is It So Hard (And Expensive) To Build Anything In America?
 publisher: "[[Freakonomics Radio]]"
 type: "[[@audio]]"
 tags:

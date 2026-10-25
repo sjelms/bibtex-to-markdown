@@ -1,5 +1,5 @@
 ---
-title: The SECI Model -  Knowledge Creation in the Cycle of Subjectivity and Objectivity
+title: The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity
 year: 2022
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Ichiro Yamaguchi]]"

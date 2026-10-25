@@ -1,5 +1,5 @@
 ---
-title: Bravermania and Beyond -  Recent Theories of the Labour Process
+title: Bravermania And Beyond - Recent Theories Of The Labour Process
 year: 1982
 author - 1: "[[Craig R Littler]]"
 author - 2: "[[Graeme Salaman]]"

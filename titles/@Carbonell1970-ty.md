@@ -1,5 +1,5 @@
 ---
-title: AI in CAI -  An Artificial-Intelligence Approach to Computer-Assisted Instruction
+title: AI In CAI - An Artificial-Intelligence Approach To Computer-Assisted Instruction
 year: 1970
 author - 1: "[[Jaime R Carbonell]]"
 key: "[[@Carbonell1970-ty]]"

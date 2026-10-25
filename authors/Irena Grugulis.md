@@ -10,7 +10,7 @@ aliases:
 ## Irena Grugulis
 
 ### Content:
-[[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
+[[@Grugulis2004-ym|What’s Happening To ‘Skill’?]]
 [[@Warhurst2004-qq|The Skills That Matter]]
 
 #### Bibliography:

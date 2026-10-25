@@ -1,5 +1,5 @@
 ---
-title: User Behavior Analysis Toward Adaptive Guidance for Machine Operation Tasks
+title: User Behavior Analysis Toward Adaptive Guidance For Machine Operation Tasks
 year: 2020
 author - 1: "[[Long-Fei Chen]]"
 author - 2: "[[Yuichi Nakamura]]"

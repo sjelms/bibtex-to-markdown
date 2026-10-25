@@ -1,5 +1,5 @@
 ---
-title: The Bauhaus as education model -  Enduring design and powerful knowledge
+title: The Bauhaus As Education Model - Enduring Design And Powerful Knowledge
 year: 2025
 author - 1: "[[Martin Johnson]]"
 author - 2: "[[Tim Oates]]"

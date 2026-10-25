@@ -1,5 +1,5 @@
 ---
-title: Conceptualizing Vocational Knowledge -  Some Theoretical Considerations
+title: Conceptualizing Vocational Knowledge - Some Theoretical Considerations
 year: 2004
 author - 1: "[[Michael Young]]"
 editor - 1: "[[Alison Fuller]]"

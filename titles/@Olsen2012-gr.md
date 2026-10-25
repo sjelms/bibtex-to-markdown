@@ -1,5 +1,5 @@
 ---
-title: Bad for Business -  Skilled Labor Shortages in Alabama's Construction Industry
+title: Bad For Business - Skilled Labor Shortages In Alabama's Construction Industry
 year: 2012
 author - 1: "[[Darren Olsen]]"
 author - 2: "[[Mark C Tatum]]"

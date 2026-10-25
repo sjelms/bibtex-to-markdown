@@ -1,5 +1,5 @@
 ---
-title: Why Every Organization Needs an Augmented Reality Strategy
+title: Why Every Organization Needs An Augmented Reality Strategy
 year: 2017
 author - 1: "[[Michael E Porter]]"
 author - 2: "[[James E Heppelmann]]"

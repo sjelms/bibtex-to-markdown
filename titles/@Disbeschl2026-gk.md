@@ -1,5 +1,5 @@
 ---
-title: 'You can mix your methods, but you can't mix your paradigms' -  a guide to ontology and epistemology for the confused researcher
+title: 'You Can Mix Your Methods, But You Can't Mix Your Paradigms' - A Guide To Ontology And Epistemology For The Confused Researcher
 year: 2026
 author - 1: "[[Stefanie Disbeschl]]"
 author - 2: "[[Katherine Checkland]]"
@@ -7,8 +7,8 @@ author - 3: "[[Kris Stutchbury]]"
 author - 4: "[[Rebecca Payne]]"
 key: "[[@Disbeschl2026-gk]]"
 aliases:
-  - 'you Can Mix Your Methods, But You Can't Mix Your Paradigms' - A Guide To Ontology And Epistemology For The Confused Researcher
-  - 'you Can Mix Your Methods, But You Can't Mix Your Paradigms'
+  - 'You Can Mix Your Methods, But You Can't Mix Your Paradigms' - A Guide To Ontology And Epistemology For The Confused Researcher
+  - 'You Can Mix Your Methods, But You Can't Mix Your Paradigms'
 journal: "[[The British Journal of General Practice The Journal of the Royal College of General Practitioners]]"
 publisher: "[[Royal College of General Practitioners]]"
 volume: 76

@@ -1,5 +1,5 @@
 ---
-title: What is a digital twin?
+title: What Is A Digital Twin?
 year: 2022
 author - 1: "[[Unity Technologies]]"
 key: "[[@Unity_Technologies2022-ey]]"

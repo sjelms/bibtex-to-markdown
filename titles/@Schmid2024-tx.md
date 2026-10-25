@@ -1,5 +1,5 @@
 ---
-title: Workplace learning environment and participation in work communities -  A qualitative comparison of stayers’ and leavers’ perceptions and experiences
+title: Workplace Learning Environment And Participation In Work Communities - A Qualitative Comparison Of Stayers’ And Leavers’ Perceptions And Experiences
 year: 2024
 author - 1: "[[Evi Schmid]]"
 author - 2: "[[Gøril Stokke Nordlie]]"

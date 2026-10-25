@@ -1,5 +1,5 @@
 ---
-title: The Toyota Way in Services -  The Case of Lean Product Development
+title: The Toyota Way In Services - The Case Of Lean Product Development
 year: 2006
 author - 1: "[[Jeffrey Liker]]"
 author - 2: "[[James Morgan]]"

@@ -1,5 +1,5 @@
 ---
-title: Future Scenarios and Implications for the Industry
+title: Future Scenarios And Implications For The Industry
 year: 2018
 author - 1: "[[Till Zupanci]]"
 author - 2: "[[Michael Buehler]]"

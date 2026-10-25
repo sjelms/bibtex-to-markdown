@@ -1,11 +1,11 @@
 ---
-title: The “Middle Layers” of Employment
+title: The “Middle Layers” Of Employment
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-fu]]"
 booktitle: Labor and Monopoly Capital -  The Degradation of Work in the Twentieth Century
 aliases:
-  - The “middle Layers” Of Employment
+  - The “Middle Layers” Of Employment
 publisher: "[[Monthly Review Press]]"
 type: "[[@inbook]]"
 tags:

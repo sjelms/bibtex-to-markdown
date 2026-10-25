@@ -1,5 +1,5 @@
 ---
-title: Knowledge, curriculum and qualifications for South African Further Education
+title: Knowledge, Curriculum And Qualifications For South African Further Education
 year: 2006
 author - 1: "[[Michael Young]]"
 author - 2: "[[Jeanne Gamble]]"

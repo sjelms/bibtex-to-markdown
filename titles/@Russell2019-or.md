@@ -1,5 +1,5 @@
 ---
-title: Human Compatible -  Artificial Intelligence and the Problem of Control
+title: Human Compatible - Artificial Intelligence And The Problem Of Control
 year: 2019
 author - 1: "[[Stuart J Russell]]"
 key: "[[@Russell2019-or]]"

@@ -1,5 +1,5 @@
 ---
-title: Key Workforce Challenges Facing the American Construction Industry -  An Interim Assessment
+title: Key Workforce Challenges Facing The American Construction Industry - An Interim Assessment
 year: 1999
 author - 1: "[[Richard L Tucker]]"
 author - 2: "[[Carl T Haas]]"

@@ -1,5 +1,5 @@
 ---
-title: On the Economy of Machinery and Manufactures
+title: On The Economy Of Machinery And Manufactures
 year: 1832
 author - 1: "[[Charles Babbage]]"
 key: "[[@Babbage1832-uj]]"

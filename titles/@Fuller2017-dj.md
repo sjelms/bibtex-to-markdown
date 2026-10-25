@@ -1,5 +1,5 @@
 ---
-title: Better Apprenticeships -  Access, Quality and Labour Market Outcomes in the English Apprenticeship System
+title: Better Apprenticeships - Access, Quality And Labour Market Outcomes In The English Apprenticeship System
 year: 2017
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

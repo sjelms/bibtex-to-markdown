@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -30,11 +30,11 @@ amended: 2026-10-25T07:25:32
 - [[@Anwar2023-mm|Using Digital Technology To Support Employees' Mental Health In The Construction Industry]]
 ### 2022
 - [[@Littlejohn2022-ll|Professional Learning Analytics - Understanding Complex Learning Processes Through Measurement, Collection, Analysis, And Reporting Of MOOC Data]]
-- [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI]]
+- [[@Weber-Lewerenz2022-zr|Guest Chapter - The Human In The Centre?! (Christian)—Ethical Reflections On The Anthropological And Ethical Challenges Of AI]]
 - [[@Hall2022-de|New Business Models For Industrialized Construction]]
 - [[@Lehtinen2022-ix|How To Deal With The Complexity In Research On Workplace Learning]]
 - [[@Gu2022-hu|Carbon Impacts Of Engineered Wood Products In Construction]]
-- [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “bracketing” Management Science]]
+- [[@Nonaka2022-dc|Dialogue Between Ikujiro Nonaka And Ichiro Yamaguchi - “Bracketing” Management Science]]
 - [[@Nonaka2022-du|The SECI Model - Knowledge Creation In The Cycle Of Subjectivity And Objectivity]]
 - [[@Gerholz2022-ue|Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education]]
 - [[@Casini2022-fn|Introduction]]
@@ -169,7 +169,7 @@ amended: 2026-10-25T07:25:32
 - [[@Bakker2012-ke|Improving Work Processes By Making The Invisible Visible]]
 - [[@Warhurst2012-ok|Mapping Knowledge In Work]]
 - [[@Beckett2012-si|Ontological Distinctiveness And The Emergence Of Purposes]]
-- [[@Guile2012-is|Working And Learning In The ‘knowledgebased’ Creative And Cultural Sector]]
+- [[@Guile2012-is|Working And Learning In The ‘Knowledgebased’ Creative And Cultural Sector]]
 - [[@Ness2012-re|Human Resource Management In The Construction Context - Disappearing Workers In The UK]]
 - [[@Charmaz2012-uu|Qualitative Interviewing And Grounded Theory Analysis]]
 - [[@Kalantzis2012-vw|Introduction]]
@@ -184,7 +184,7 @@ amended: 2026-10-25T07:25:32
 - [[@Kalantzis2012-yw|Pedagogy And Curriculum]]
 - [[@Kalantzis2012-wb|The Nature Of Learning]]
 - [[@Eraut2012-ph|Developing A Broader Approach To Professional Learning]]
-- [[@Duguid2012-ff|‘the Art Of Knowing’]]
+- [[@Duguid2012-ff|‘The Art Of Knowing’]]
 - [[@Hager2012-vm|Practice As A Key Idea In Understanding Work-Based Learning]]
 - [[@Sawchuk2012-xo|Divergent Working And Learning Trajectories In Social Services]]
 - [[@Billett2012-xz|Explaining Innovation At Work - A Socio-Personal Account]]
@@ -221,7 +221,7 @@ amended: 2026-10-25T07:25:32
 - [[@Elwell2009-hz|Harry Braverman And The Working Class]]
 - [[@Nadim2009-tv|Virtual Reality Interactive Learning Environment]]
 ### 2008
-- [[@Armstrong2008-wr|From Bauhaus To M-[h]ouse - The Concept Of The Ready-Made And The Kit-Built House]]
+- [[@Armstrong2008-wr|From Bauhaus To M-[H]ouse - The Concept Of The Ready-Made And The Kit-Built House]]
 ### 2007
 - [[@Forman2007-cf|Qualitative Content Analysis]]
 - [[@Kraiger2007-jw|The Expanding Role Of Workplace Training - Themes And Trends Influencing Training Research And Practice]]
@@ -236,7 +236,7 @@ amended: 2026-10-25T07:25:32
 - [[@Gamble2006-hg|Theory And Practice In The Vocational Curriculum]]
 - [[@Tolbert2006-os|Introduction]]
 - [[@Batt2006-sj|Groups, Teams, And The Division Of Labor - Interdisciplinary Perspectives On The Organization Of Work]]
-- [[@Barley2006-mr|What We Know (and Mostly Don't Know) About Technical Work]]
+- [[@Barley2006-mr|What We Know (And Mostly Don't Know) About Technical Work]]
 ### 2005
 - [[@Grier2005-vj|The Children Of Adam Smith]]
 - [[@Barab2005-dj|Design-Based Research - A Methodological Toolkit For The Learning Scientist]]
@@ -247,7 +247,7 @@ amended: 2026-10-25T07:25:32
 - [[@Fuller2004-dw|Introduction And Overview]]
 - [[@Ashton2004-dg|The Political Economy Of Workplace Learning]]
 - [[@Rainbird2004-of|The Employment Relationship And Workplace Learning]]
-- [[@Grugulis2004-ym|What’s Happening To ‘skill’?]]
+- [[@Grugulis2004-ym|What’s Happening To ‘Skill’?]]
 - [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments - Insights From The Accountancy Profession]]
 - [[@Eraut2004-sp|Transfer Of Knowledge Between Education And Workplace Settings]]
 - [[@Young2004-fs|Conceptualizing Vocational Knowledge - Some Theoretical Considerations]]
@@ -255,7 +255,7 @@ amended: 2026-10-25T07:25:32
 - [[@Hodkinson2004-ht|The Complexities Of Workplace Learning - Problems And Dangers In Trying To Measure Attainment]]
 - [[@Barab2004-pm|Activity Theory As A Lens For Characterizing The Participatory Unit]]
 - [[@Billett2004-vj|Learning Through Work - Workplace Participatory Practices]]
-- [[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’ - A Critique Based On Evidence From The United States, Canada And England]]
+- [[@Hoddinott2004-on|The Assessment Of Workers’ ‘Basic Skills’ - A Critique Based On Evidence From The United States, Canada And England]]
 - [[@Engestrom2004-bz|The New Generation Of Expertise - Seven Theses]]
 ### 2003
 - [[@Elkjaer2003-nm|Social Learning Theory - Learning As Participation In Social Processes]]
@@ -283,11 +283,11 @@ amended: 2026-10-25T07:25:32
 ## 1990-1999
 ### 1998
 - [[@Danford1998-co|Work Organisation Inside Japanese Firms In South Wales - A Break From Taylorism?]]
-- [[@Baldry1998-ba|‘bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
+- [[@Baldry1998-ba|‘Bright Satanic Offices’ - Intensification, Control And Team Taylorism]]
 - [[@Dybowski1998-qn|New Technologies And Work Organization Impact On Vocational Education And Training]]
 - [[@Greenbaum1998-ih|The Times They Are A'changing - Dividing And Recombining Labour Through Computer Systems]]
 - [[@Foster1998-rg|Introduction To The New Edition]]
-- [[@Mulholland1998-xn|‘survivors’ Versus ‘movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities]]
+- [[@Mulholland1998-xn|‘Survivors’ Versus ‘Movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities]]
 - [[@Beirne1998-sy|Developments In Computing Work - Control And Contradiction In The Software Labour Process]]
 - [[@Sweezy1998-ki|Foreword To The Original Edition]]
 - [[@Milkman1998-oe|The New American Workplace - High Road Or Low Road?]]
@@ -349,7 +349,7 @@ amended: 2026-10-25T07:25:32
 - [[@Braverman1974-ft|The Scientific-Technical Revolution And The Worker]]
 - [[@Braverman1974-ur|The Structure Of The Working Class And Its Reserve Armies]]
 - [[@Braverman1974-fn|The Universal Market]]
-- [[@Braverman1974-fu|The “middle Layers” Of Employment]]
+- [[@Braverman1974-fu|The “Middle Layers” Of Employment]]
 ### 1973
 - [[@Geertz1973-vm|Thick Description - Towards An Interpretive Theory Of Culture]]
 ## 1940-1949

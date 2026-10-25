@@ -1,5 +1,5 @@
 ---
-title: A mixed methods study of the training transfer and outcomes of safety training for low-skilled workers in construction
+title: A Mixed Methods Study Of The Training Transfer And Outcomes Of Safety Training For Low-Skilled Workers In Construction
 year: 2022
 author - 1: "[[Karina Nielsen]]"
 author - 2: "[[Kara Ng]]"

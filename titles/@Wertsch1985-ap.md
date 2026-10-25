@@ -1,5 +1,5 @@
 ---
-title: Mind and Society
+title: Mind And Society
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-ap]]"

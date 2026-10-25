@@ -1,5 +1,5 @@
 ---
-title: Improving Working as Learning
+title: Improving Working As Learning
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

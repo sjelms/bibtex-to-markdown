@@ -1,5 +1,5 @@
 ---
-title: The End of Laissez-faire -  The Economic Consequences of the Peace
+title: The End Of Laissez-Faire - The Economic Consequences Of The Peace
 year: 1926
 author - 1: "[[John Maynard Keynes]]"
 key: "[[@Keynes1926-ee]]"

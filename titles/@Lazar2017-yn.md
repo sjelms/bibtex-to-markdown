@@ -1,5 +1,5 @@
 ---
-title: Research Methods in human-Computer Interaction
+title: Research Methods In Human-Computer Interaction
 year: 2017
 author - 1: "[[Jonathan Lazar]]"
 author - 2: "[[Jinjuan Heidi Feng]]"

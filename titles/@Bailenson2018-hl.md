@@ -1,5 +1,5 @@
 ---
-title: What is Virtual Reality?
+title: What Is Virtual Reality?
 year: 2018
 author - 1: "[[Jeremy N Bailenson]]"
 key: "[[@Bailenson2018-hl]]"

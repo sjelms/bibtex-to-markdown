@@ -1,5 +1,5 @@
 ---
-title: Prefab Startup Wunderkind Katerra is Shutting Down
+title: Prefab Startup Wunderkind Katerra Is Shutting Down
 year: 2021
 author - 1: "[[Jonathan Hilburg]]"
 key: "[[@Hilburg2021-ix]]"

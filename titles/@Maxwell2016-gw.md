@@ -1,5 +1,5 @@
 ---
-title: Lessons from Sweden -  How Australia Can Learn from Swedish Industrialised Building
+title: Lessons From Sweden - How Australia Can Learn From Swedish Industrialised Building
 year: 2016
 author - 1: "[[Duncan William Maxwell]]"
 author - 2: "[[Mathew Aitchison]]"

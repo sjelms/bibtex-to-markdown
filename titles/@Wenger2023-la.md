@@ -1,5 +1,5 @@
 ---
-title: Communities of Practice Within and Across Organizations -  A Guidebook
+title: Communities Of Practice Within And Across Organizations - A Guidebook
 year: 2023
 author - 1: "[[Étienne Wenger]]"
 author - 2: "[[Beverly Wenger-Trayner]]"

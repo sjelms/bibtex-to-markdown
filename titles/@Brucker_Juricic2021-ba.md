@@ -1,5 +1,5 @@
 ---
-title: Review of the construction labour demand and shortages in the EU
+title: Review Of The Construction Labour Demand And Shortages In The EU
 year: 2021
 author - 1: "[[Belinda Brucker Juricic]]"
 author - 2: "[[Mario Galic]]"

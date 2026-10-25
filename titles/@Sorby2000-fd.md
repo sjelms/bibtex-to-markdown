@@ -1,5 +1,5 @@
 ---
-title: The development and assessment of a course for enhancing the 3-D spatial visualization skills of first year engineering students
+title: The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students
 year: 2000
 author - 1: "[[Sheryl A Sorby]]"
 author - 2: "[[Beverly J Baartmans]]"

@@ -1,5 +1,5 @@
 ---
-title: A test platform of viable methods to improve production and learning on construction sites
+title: A Test Platform Of Viable Methods To Improve Production And Learning On Construction Sites
 year: 2019
 author - 1: "[[Kajsa Simu]]"
 author - 2: "[[Christine Räisänen]]"

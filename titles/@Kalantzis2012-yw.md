@@ -1,5 +1,5 @@
 ---
-title: Pedagogy and curriculum
+title: Pedagogy And Curriculum
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

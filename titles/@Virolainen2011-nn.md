@@ -1,5 +1,5 @@
 ---
-title: The Views of Employers on Internships as a Means of Learning From Work Experience in Higher Education
+title: The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education
 year: 2011
 author - 1: "[[Maarit Hannele Virolainen]]"
 author - 2: "[[Marja-Leena Stenström]]"

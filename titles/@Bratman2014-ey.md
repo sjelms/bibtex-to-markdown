@@ -1,5 +1,5 @@
 ---
-title: Shared Agency -  A Planning Theory of Acting Together
+title: Shared Agency - A Planning Theory Of Acting Together
 year: 2014
 author - 1: "[[Michael E Bratman]]"
 key: "[[@Bratman2014-ey]]"

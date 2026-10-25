@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship -  Towards a New Paradigm of Learning
+title: Apprenticeship - Towards A New Paradigm Of Learning
 year: 2020
 author - 1: "[[Patrick Ainley]]"
 author - 2: "[[Helen Rainbird]]"

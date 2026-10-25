@@ -1,5 +1,5 @@
 ---
-title: A Realist Theory of Science
+title: A Realist Theory Of Science
 year: 1975
 author - 1: "[[Roy Bhaskar]]"
 key: "[[@Bhaskar1975-rq]]"

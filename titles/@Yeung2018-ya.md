@@ -1,5 +1,5 @@
 ---
-title: Computational Narrative Mapping for the Acquisition and Representation of Lessons Learned Knowledge
+title: Computational Narrative Mapping For The Acquisition And Representation Of Lessons Learned Knowledge
 year: 2018
 author - 1: "[[C L Yeung]]"
 author - 2: "[[W M Wang]]"

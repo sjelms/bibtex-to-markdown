@@ -1,5 +1,5 @@
 ---
-title: Causes of the construction skilled labor shortage and proposed solutions
+title: Causes Of The Construction Skilled Labor Shortage And Proposed Solutions
 year: 1999
 author - 1: "[[Abdol R Chini]]"
 author - 2: "[[Brisbane H Brown]]"

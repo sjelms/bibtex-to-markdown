@@ -1,5 +1,5 @@
 ---
-title: Seeing like a Rover -  Visualization, embodiment, and interaction on the Mars Exploration Rover Mission
+title: Seeing Like A Rover - Visualization, Embodiment, And Interaction On The Mars Exploration Rover Mission
 year: 2012
 author - 1: "[[Janet Vertesi]]"
 key: "[[@Vertesi2012-qa]]"

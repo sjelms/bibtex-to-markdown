@@ -1,5 +1,5 @@
 ---
-title: Thematic Analysis -  A Practical Guide
+title: Thematic Analysis - A Practical Guide
 year: 2021
 author - 1: "[[Virginia Braun]]"
 author - 2: "[[Victoria Clarke]]"

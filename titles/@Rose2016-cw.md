@@ -1,5 +1,5 @@
 ---
-title: The End of Average -  How We Succeed in a World That Values Sameness
+title: The End Of Average - How We Succeed In A World That Values Sameness
 year: 2016
 author - 1: "[[Todd Rose]]"
 key: "[[@Rose2016-cw]]"

@@ -1,5 +1,5 @@
 ---
-title: Prompted self-regulated learning assessment and its effect for achieving ASCE vision 2025
+title: Prompted Self-Regulated Learning Assessment And Its Effect For Achieving ASCE Vision 2025
 year: 2017
 author - 1: "[[Wei Zheng]]"
 author - 2: "[[Jianjun Yin]]"

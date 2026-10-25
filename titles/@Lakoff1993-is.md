@@ -1,5 +1,5 @@
 ---
-title: The contemporary theory of metaphor
+title: The Contemporary Theory Of Metaphor
 year: 1993
 author - 1: "[[George Lakoff]]"
 editor - 1: "[[Andrew Ortony]]"

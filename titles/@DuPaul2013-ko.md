@@ -1,5 +1,5 @@
 ---
-title: Comorbidity of LD and ADHD -  implications of DSM-5 for assessment and treatment
+title: Comorbidity Of LD And ADHD - Implications Of DSM-5 For Assessment And Treatment
 year: 2013
 author - 1: "[[George J DuPaul]]"
 author - 2: "[[Matthew J Gormley]]"

@@ -1,5 +1,5 @@
 ---
-title: Employing Kirkpatrick's evaluation framework to determine the effectiveness of health information management courses and programs
+title: Employing Kirkpatrick's Evaluation Framework To Determine The Effectiveness Of Health Information Management Courses And Programs
 year: 2011
 author - 1: "[[Donald Nick Rouse]]"
 key: "[[@Rouse2011-ps]]"

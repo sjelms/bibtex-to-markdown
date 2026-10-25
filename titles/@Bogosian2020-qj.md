@@ -1,5 +1,5 @@
 ---
-title: Work in progress -  Towards an immersive robotics training for the future of architecture, engineering, and construction workforce
+title: Work In Progress - Towards An Immersive Robotics Training For The Future Of Architecture, Engineering, And Construction Workforce
 year: 2020
 author - 1: "[[Biayna Bogosian]]"
 author - 2: "[[Leonardo Bobadilla]]"

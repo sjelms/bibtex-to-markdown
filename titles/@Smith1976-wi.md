@@ -1,5 +1,5 @@
 ---
-title: Educational Uses of the PLATO Computer System
+title: Educational Uses Of The PLATO Computer System
 year: 1976
 author - 1: "[[Stanley G Smith]]"
 author - 2: "[[Bruce Arne Sherwood]]"

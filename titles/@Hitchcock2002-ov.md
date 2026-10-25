@@ -1,5 +1,5 @@
 ---
-title: Research and the Teacher -  A Qualitative Introduction to School-based Research
+title: Research And The Teacher - A Qualitative Introduction To School-Based Research
 year: 2002
 author - 1: "[[Graham Hitchcock]]"
 author - 2: "[[David Hughes]]"

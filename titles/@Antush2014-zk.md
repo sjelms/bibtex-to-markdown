@@ -1,5 +1,5 @@
 ---
-title: Taylorism 2.0 -  Transforming Teachers Into Mere Test Proctors
+title: Taylorism 2.0 - Transforming Teachers Into Mere Test Proctors
 year: 2014
 author - 1: "[[John C Antush]]"
 key: "[[@Antush2014-zk]]"

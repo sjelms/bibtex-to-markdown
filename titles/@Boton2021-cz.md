@@ -1,5 +1,5 @@
 ---
-title: What is at the root of construction 4.0 -  A systematic review of the recent research effort
+title: What Is At The Root Of Construction 4.0 - A Systematic Review Of The Recent Research Effort
 year: 2021
 author - 1: "[[Conrad Boton]]"
 author - 2: "[[Louis Rivest]]"

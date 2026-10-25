@@ -61,7 +61,7 @@ aliases:
 [[@Fuller2021-ny|Expanding Skills And Workplace Capacity]]
 [[@Fuller2024-wq|Context, Characteristics And Capacity]]
 [[@Hager2004-xb|The Conceptualization And Measurement Of Learning At Work]]
-[[@Hoddinott2004-on|The Assessment Of Workers’ ‘basic Skills’]]
+[[@Hoddinott2004-on|The Assessment Of Workers’ ‘Basic Skills’]]
 [[@Hodkinson2004-ht|The Complexities Of Workplace Learning]]
 [[@Hoskin2004-yg|The Context Of Learning In Professional Work Environments]]
 [[@Rainbird2004-of|The Employment Relationship And Workplace Learning]]

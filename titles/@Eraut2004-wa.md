@@ -1,5 +1,5 @@
 ---
-title: Informal learning in the workplace
+title: Informal Learning In The Workplace
 year: 2004
 author - 1: "[[Michael Eraut]]"
 key: "[[@Eraut2004-wa]]"

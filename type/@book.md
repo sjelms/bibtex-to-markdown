@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -23,7 +23,7 @@ amended: 2026-10-25T07:25:32
 - [[@McAfee2024-nd|The Geek Way - The Radical Mindset That Drives Extraordinary Results]]
 - [[@Holder2024-is|Our Unfinished March - The Violent Past And Imperiled Future Of The Vote]]
 - [[@Beato2024-nt|The Digitalist Papers - Artificial Intelligence And Democracy In America]]
-- [[@McCabe2024-zg|How To ADHD - An Insider's Guide To Working With Your Brain (not Against It)]]
+- [[@McCabe2024-zg|How To ADHD - An Insider's Guide To Working With Your Brain (Not Against It)]]
 - [[@Lage2024-kt|Towards A New European Bauhaus—Challenges In Design Education - EAAE Annual Conference—Madrid 2022]]
 - [[@Shewring2024-wm|Theatre Buildings - A Design Guide]]
 - [[@Pilz2024-cr|Informal Learning In Vocational Education And Training - Illuminating An Elusive Concept]]
@@ -62,7 +62,7 @@ amended: 2026-10-25T07:25:32
 - [[@Donovan2022-wg|The Anti-Planner - How To Get Sh*t Done When You Don't Feel Like It]]
 - [[@Autor2022-vv|The Work Of The Future - Building Better Jobs In An Age Of Intelligent Machines]]
 - [[@Giroux2022-hi|Pedagogy Of Resistance - Against Manufactured Ignorance]]
-- [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"]]
+- [[@Nonaka2022-vg|Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "Philosophy Of Empathy"]]
 - [[@Casini2022-yp|Construction 4.0 - Advanced Technology, Tools And Materials For The Digital Transformation Of The Construction Industry]]
 - [[@Goller2022-gc|Methods For Researching Professional Learning And Development]]
 - [[@Adepoju2022-bj|Re-Skilling Human Resources For Construction 4.0 - Implications For Industry, Academia And Government]]
@@ -126,7 +126,7 @@ amended: 2026-10-25T07:25:32
 - [[@Danermark2019-uv|Explaining Society - Critical Realism In The Social Sciences]]
 - [[@Frey2019-yf|The Technology Trap - Capital, Labor, And Power In The Age Of Automation]]
 - [[@Lowery2019-jp|The Handbook Of Dewey’s Educational Theory And Practice]]
-- [[@Kuang2019-nv|User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work & Play]]
+- [[@Kuang2019-nv|User Friendly - How The Hidden Rules Of Design Are Changing The Way We Live, Work And Play]]
 - [[@Immerwahr2019-ul|How To Hide An Empire - A Short History Of The Greater United States]]
 - [[@Guile2019-co|The Wiley Handbook Of Vocational Education And Training]]
 - [[@Epstein2019-yy|Range - Why Generalists Triumph In A Specialized World]]
@@ -204,7 +204,7 @@ amended: 2026-10-25T07:25:32
 - [[@Rose2016-cw|The End Of Average - How We Succeed In A World That Values Sameness]]
 - [[@Ahmed2016-mt|Research Methodology In The Built Environment - A Selection Of Case Studies]]
 ### 2015
-- [[@Biocca2015-km|Immersed In Media - Telepresence Theory, Measurement & Technology]]
+- [[@Biocca2015-km|Immersed In Media - Telepresence Theory, Measurement And Technology]]
 - [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 - [[@Lidelow2015-pk|Industriellt Husbyggande]]
 - [[@Bessen2015-qr|Learning By Doing - The Real Connection Between Innovation, Wages, And Wealth]]
@@ -285,7 +285,7 @@ amended: 2026-10-25T07:25:32
 - [[@Wolter2011-qg|Empirical Research In Vocational Education And Training]]
 - [[@Billett2011-kx|Vocational Education - Purposes, Traditions And Prospects]]
 - [[@Johnson2011-da|Where Good Ideas Come From - The Seven Patterns Of Innovation]]
-- [[@Armstrong2011-wm|The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (published In Hardcover As Neurodiversity)]]
+- [[@Armstrong2011-wm|The Power Of Neurodiversity - Unleashing The Advantages Of Your Differently Wired Brain (Published In Hardcover As Neurodiversity)]]
 ### 2010
 - [[@Bryson2010-zi|At Home - A Short History Of Private Life]]
 - [[@Guile2010-cq|The Learning Challenge Of The Knowledge Economy]]
@@ -338,7 +338,7 @@ amended: 2026-10-25T07:25:32
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
 - [[@Meikle2002-ve|Describing Construction - Industries, Projects, And Firms]]
 ### 2001
-- [[@Ehrenreich2001-wn|Nickel And Dimed - On (not) Getting By In America]]
+- [[@Ehrenreich2001-wn|Nickel And Dimed - On (Not) Getting By In America]]
 - [[@OECD2001-sp|Education Policy Analysis 2001]]
 - [[@Liebing2001-mv|The Construction Industry - Processes, Players, And Practices]]
 - [[@Billett2001-nj|Learning In The Workplace - Strategies For Effective Practice]]
@@ -378,7 +378,7 @@ amended: 2026-10-25T07:25:32
 - [[@Ortony1993-si|Metaphor And Thought]]
 - [[@Becker1993-eu|Human Capital - A Theoretical And Empirical Analysis, With Special Reference To Education]]
 ### 1992
-- [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [mayer Report]]]
+- [[@Australian_Education_Council_Mayer_Committee1992-na|Key Competencies - Report Of The Committee To Advise The Australian Education Council And Ministers Of Vocational Education, Employment And Training On Employment-Related Key Competencies For Postcompulsory Education And Training [Mayer Report]]]
 - [[@Hergenhahn1992-yt|An Introduction To The History Of Psychology]]
 ### 1991
 - [[@Varela1991-er|The Embodied Mind - Cognitive Science And Human Experience]]
@@ -519,7 +519,7 @@ amended: 2026-10-25T07:25:32
 - [[@Marx1887-fh|Capital - A Critique Of Political Economy; The Process Of Production Of Capital]]
 ## 1850-1859
 ### 1854
-- [[@Dickens1854-fw|\textit Hard Times - For These Times]]
+- [[@Dickens1854-fw|Textit Hard Times - For These Times]]
 ## 1840-1849
 ### 1848
 - [[@Marx1848-ti|The Communist Manifesto]]

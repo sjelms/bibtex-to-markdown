@@ -1,5 +1,5 @@
 ---
-title: The Five-Stage Model of Adult Skill Acquisition
+title: The Five-Stage Model Of Adult Skill Acquisition
 year: 2004
 author - 1: "[[Stuart E Dreyfus]]"
 key: "[[@Dreyfus2004-ip]]"

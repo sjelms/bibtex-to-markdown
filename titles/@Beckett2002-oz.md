@@ -1,5 +1,5 @@
 ---
-title: Policies and context -  The socio-cultural shaping of practice
+title: Policies And Context - The Socio-Cultural Shaping Of Practice
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

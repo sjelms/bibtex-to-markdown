@@ -1,5 +1,5 @@
 ---
-title: Guidance to the General Conditions of Recognition
+title: Guidance To The General Conditions Of Recognition
 year: 2018
 author - 1: "[[Office of Qualifications and Examinations Regulation]]"
 key: "[[@Office-of-Qualifications-and-Examinations-Regulation2018-hn]]"

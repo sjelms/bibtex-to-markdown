@@ -1,5 +1,5 @@
 ---
-title: Theories of workplace learning
+title: Theories Of Workplace Learning
 year: 2013
 author - 1: "[[Paul Hager]]"
 editor - 1: "[[Margaret Malloch]]"

@@ -1,5 +1,5 @@
 ---
-title: CITB Construction Skills Network 5-year Outlook 2021-2025
+title: CITB Construction Skills Network 5-Year Outlook 2021-2025
 year: 2021
 author - 1: "[[Lee Bryer]]"
 author - 2: "[[Ian Hill]]"

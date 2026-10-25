@@ -1,5 +1,5 @@
 ---
-title: Introduction -  Celebrating the swamp
+title: Introduction - Celebrating The Swamp
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

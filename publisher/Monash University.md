@@ -10,4 +10,4 @@ category:
 ## Monash University
 
 ### Content:
-[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma)]]
+[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (Bdfma)]]

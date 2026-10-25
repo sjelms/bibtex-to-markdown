@@ -1,5 +1,5 @@
 ---
-title: Vygotsky -  The Man and His Theory
+title: Vygotsky - The Man And His Theory
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-kw]]"

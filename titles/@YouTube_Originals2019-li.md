@@ -1,5 +1,5 @@
 ---
-title: How Far is Too Far? | The Age of A.I. S1 • E1
+title: How Far Is Too Far? | The Age Of A.i. S1 • E1
 year: 2019
 author - 1: "[[YouTube Originals]]"
 key: "[[@YouTube_Originals2019-li]]"

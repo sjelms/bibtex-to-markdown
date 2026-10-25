@@ -1,5 +1,5 @@
 ---
-title: Rapid Ethnography -  Time Deepening Strategies for HCI Field Research
+title: Rapid Ethnography - Time Deepening Strategies For HCI Field Research
 year: 2000
 author - 1: "[[David R Millen]]"
 key: "[[@Millen2000-tf]]"

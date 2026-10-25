@@ -1,5 +1,5 @@
 ---
-title: Where's the theory contribution? An answer in four parts
+title: Where's The Theory Contribution? An Answer In Four Parts
 year: 2024
 author - 1: "[[Martin Martin Kilduff]]"
 author - 2: "[[Daniel Daniel O'Sullivan]]"

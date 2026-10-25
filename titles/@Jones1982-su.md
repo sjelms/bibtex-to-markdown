@@ -1,5 +1,5 @@
 ---
-title: Destruction or redistribution of engineering skills? The case of numerical control
+title: Destruction Or Redistribution Of Engineering Skills? The Case Of Numerical Control
 year: 1982
 author - 1: "[[Bryn Jones]]"
 editor - 1: "[[Stephen Wood]]"

@@ -1,5 +1,5 @@
 ---
-title: The Rise and Decline of Nations -  Economic Growth, Stagflation, and Social Rigidities
+title: The Rise And Decline Of Nations - Economic Growth, Stagflation, And Social Rigidities
 year: 1982
 author - 1: "[[Mancur Lloyd Olson]]"
 key: "[[@Olson1982-xs]]"

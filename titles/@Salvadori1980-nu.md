@@ -1,5 +1,5 @@
 ---
-title: Why Buildings Stand Up -  The Strength Of Architecture
+title: Why Buildings Stand Up - The Strength Of Architecture
 year: 1980
 author - 1: "[[Mario Salvadori]]"
 key: "[[@Salvadori1980-nu]]"

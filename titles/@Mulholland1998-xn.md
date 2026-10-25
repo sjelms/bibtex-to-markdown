@@ -1,5 +1,5 @@
 ---
-title: ‘Survivors’ Versus ‘Movers and Shakers’ -  The Reconstitution of Management and Careers in the Privatised Utilities
+title: ‘Survivors’ Versus ‘Movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities
 year: 1998
 author - 1: "[[Kate Mulholland]]"
 editor - 1: "[[Paul Thompson]]"
@@ -7,8 +7,8 @@ editor - 2: "[[Chris Warhurst]]"
 key: "[[@Mulholland1998-xn]]"
 booktitle: Workplaces of the Future
 aliases:
-  - ‘survivors’ Versus ‘movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities
-  - ‘survivors’ Versus ‘movers And Shakers’
+  - ‘Survivors’ Versus ‘Movers And Shakers’ - The Reconstitution Of Management And Careers In The Privatised Utilities
+  - ‘Survivors’ Versus ‘Movers And Shakers’
 publisher: "[[Macmillan]]"
 type: "[[@inbook]]"
 tags:

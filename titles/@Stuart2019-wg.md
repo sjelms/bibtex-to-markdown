@@ -1,5 +1,5 @@
 ---
-title: The Industrial Relations of Training and Development
+title: The Industrial Relations Of Training And Development
 year: 2019
 author - 1: "[[Mark Stuart]]"
 editor - 1: "[[David Guile]]"

@@ -1,5 +1,5 @@
 ---
-title: The Economics of John Maynard Keynes
+title: The Economics Of John Maynard Keynes
 year: 2023
 author - 1: "[[Fabio Terra]]"
 key: "[[@Terra2023-js]]"

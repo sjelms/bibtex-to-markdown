@@ -1,5 +1,5 @@
 ---
-title: The Knowledge Economy and Lifelong Learning -  A Critical Reader
+title: The Knowledge Economy And Lifelong Learning - A Critical Reader
 year: 2012
 author - 1: "[[David W Livingstone]]"
 author - 2: "[[David Guile]]"

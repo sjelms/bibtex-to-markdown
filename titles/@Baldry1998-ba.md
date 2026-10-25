@@ -1,5 +1,5 @@
 ---
-title: ‘Bright Satanic Offices’ -  Intensification, Control and Team Taylorism
+title: ‘Bright Satanic Offices’ - Intensification, Control And Team Taylorism
 year: 1998
 author - 1: "[[Chris Baldry]]"
 author - 2: "[[Peter Bain]]"
@@ -9,8 +9,8 @@ editor - 2: "[[Chris Warhurst]]"
 key: "[[@Baldry1998-ba]]"
 booktitle: Workplaces of the Future
 aliases:
-  - ‘bright Satanic Offices’ - Intensification, Control And Team Taylorism
-  - ‘bright Satanic Offices’
+  - ‘Bright Satanic Offices’ - Intensification, Control And Team Taylorism
+  - ‘Bright Satanic Offices’
 publisher: "[[Macmillan]]"
 type: "[[@inbook]]"
 tags:

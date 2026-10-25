@@ -1,5 +1,5 @@
 ---
-title: University College London -  The Bloomsbury Campus
+title: University College London - The Bloomsbury Campus
 year: 2026
 author - 1: "[[Amy Spencer]]"
 editor - 1: "[[Amy Spencer]]"

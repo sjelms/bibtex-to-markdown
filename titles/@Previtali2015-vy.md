@@ -1,5 +1,5 @@
 ---
-title: Deskilling and Degradation of Labour in Contemporary Capitalism -  The Continuing Relevance of Braverman
+title: Deskilling And Degradation Of Labour In Contemporary Capitalism - The Continuing Relevance Of Braverman
 year: 2015
 author - 1: "[[Fabiane Santana Previtali]]"
 author - 2: "[[Cílson César Fagiani]]"

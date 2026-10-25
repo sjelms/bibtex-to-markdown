@@ -1,5 +1,5 @@
 ---
-title: Developments in Computing Work -  Control and Contradiction in the Software Labour Process
+title: Developments In Computing Work - Control And Contradiction In The Software Labour Process
 year: 1998
 author - 1: "[[Martin Beirne]]"
 author - 2: "[[Harvie Ramsay]]"

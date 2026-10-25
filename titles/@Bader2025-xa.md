@@ -1,5 +1,5 @@
 ---
-title: Utilization of adult learning theories for effective virtual reality safety training in construction
+title: Utilization Of Adult Learning Theories For Effective Virtual Reality Safety Training In Construction
 year: 2025
 author - 1: "[[Sahar Bader]]"
 author - 2: "[[Ibrahim Abotaleb]]"

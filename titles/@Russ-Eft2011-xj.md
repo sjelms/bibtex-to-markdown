@@ -1,5 +1,5 @@
 ---
-title: Towards a Meta-Theory of Learning and Performance
+title: Towards A Meta-Theory Of Learning And Performance
 year: 2011
 author - 1: "[[Darlene Russ-Eft]]"
 key: "[[@Russ-Eft2011-xj]]"

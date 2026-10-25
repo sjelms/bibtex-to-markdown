@@ -1,5 +1,5 @@
 ---
-title: Prefabricated housing in Japan
+title: Prefabricated Housing In Japan
 year: 2017
 author - 1: "[[Dana Buntrock]]"
 editor - 1: "[[Ryan E Smith]]"

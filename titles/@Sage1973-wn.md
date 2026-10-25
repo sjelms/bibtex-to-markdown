@@ -1,5 +1,5 @@
 ---
-title: In Memoriam -  Jaime R. Carbonell
+title: In Memoriam - Jaime R. Carbonell
 year: 1973
 author - 1: "[[Andrew P Sage]]"
 editor - 1: "[[Andrew P Sage]]"

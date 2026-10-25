@@ -10,7 +10,7 @@ aliases:
 ## Charles Dickens
 
 ### Content:
-[[@Dickens1854-fw|\textit Hard Times]]
+[[@Dickens1854-fw|Textit Hard Times]]
 
 #### Bibliography:
 

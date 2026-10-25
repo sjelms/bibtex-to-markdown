@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence in Education -  Promises and Implications for Teaching and Learning
+title: Artificial Intelligence In Education - Promises And Implications For Teaching And Learning
 year: 2019
 author - 1: "[[Wayne Holmes]]"
 author - 2: "[[Maya Bialik]]"

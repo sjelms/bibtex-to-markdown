@@ -1,5 +1,5 @@
 ---
-title: Situated Learning -  Legitimate Peripheral Participation
+title: Situated Learning - Legitimate Peripheral Participation
 year: 1991
 author - 1: "[[Jean Lave]]"
 author - 2: "[[Étienne Wenger]]"

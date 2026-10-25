@@ -1,5 +1,5 @@
 ---
-title: The Mangle of Practice -  Time, Agency, and Science
+title: The Mangle Of Practice - Time, Agency, And Science
 year: 1995
 author - 1: "[[Andrew Pickering]]"
 key: "[[@Pickering1995-bn]]"

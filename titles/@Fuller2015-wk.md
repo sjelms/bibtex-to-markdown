@@ -1,5 +1,5 @@
 ---
-title: Does Apprenticeship Work for Adults?
+title: Does Apprenticeship Work For Adults?
 year: 2015
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Pauline Leonard]]"

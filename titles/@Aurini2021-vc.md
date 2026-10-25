@@ -1,5 +1,5 @@
 ---
-title: The How To of Qualitative Research
+title: The How To Of Qualitative Research
 year: 2021
 author - 1: "[[Janice D Aurini]]"
 author - 2: "[[Melanie Heath]]"

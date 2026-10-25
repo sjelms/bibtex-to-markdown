@@ -1,5 +1,5 @@
 ---
-title: Lessons Learned From Industry 4.0 Implementation in the German Manufacturing Industry
+title: Lessons Learned From Industry 4.0 Implementation In The German Manufacturing Industry
 year: 2019
 author - 1: "[[Johannes W Veile]]"
 author - 2: "[[Daniel Kiel]]"

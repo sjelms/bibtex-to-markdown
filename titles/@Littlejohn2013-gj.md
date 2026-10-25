@@ -1,5 +1,5 @@
 ---
-title: Technology-enhanced Professional Learning -  Processes, Practices, and Tools
+title: Technology-Enhanced Professional Learning - Processes, Practices, And Tools
 year: 2013
 author - 1: "[[Allison Littlejohn]]"
 author - 2: "[[Anoush Margaryan]]"

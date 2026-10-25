@@ -1,5 +1,5 @@
 ---
-title: You're hired! France's Macron targets apprentices in labor market shake-up
+title: You're Hired! France's Macron Targets Apprentices In Labor Market Shake-Up
 year: 2017
 author - 1: "[[Caroline Pailliez]]"
 key: "[[@Pailliez2017-av]]"

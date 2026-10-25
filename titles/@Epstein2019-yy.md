@@ -1,5 +1,5 @@
 ---
-title: Range -  Why Generalists Triumph in a Specialized World
+title: Range - Why Generalists Triumph In A Specialized World
 year: 2019
 author - 1: "[[David J Epstein]]"
 key: "[[@Epstein2019-yy]]"

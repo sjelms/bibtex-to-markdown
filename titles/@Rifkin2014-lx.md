@@ -1,5 +1,5 @@
 ---
-title: The Zero Marginal Cost Society -  The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism
+title: The Zero Marginal Cost Society - The Internet Of Things, The Collaborative Commons, And The Eclipse Of Capitalism
 year: 2014
 author - 1: "[[Jeremy Rifkin]]"
 key: "[[@Rifkin2014-lx]]"

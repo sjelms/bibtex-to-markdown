@@ -1,5 +1,5 @@
 ---
-title: Automation and Manufacturing for the Built Environment
+title: Automation And Manufacturing For The Built Environment
 year: 2025
 author - 1: "[[Steve Thompson]]"
 key: "[[@Thompson2025-tf]]"

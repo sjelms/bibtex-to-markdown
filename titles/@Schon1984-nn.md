@@ -1,5 +1,5 @@
 ---
-title: The Reflective Practitioner -  How Professionals Think in Action
+title: The Reflective Practitioner - How Professionals Think In Action
 year: 1984
 author - 1: "[[Donald A Schön]]"
 key: "[[@Schon1984-nn]]"

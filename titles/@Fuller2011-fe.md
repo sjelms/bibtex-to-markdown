@@ -1,5 +1,5 @@
 ---
-title: Apprenticeship as an Evolving Model of Learning
+title: Apprenticeship As An Evolving Model Of Learning
 year: 2011
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

@@ -1,5 +1,5 @@
 ---
-title: Histories of Disney's Contemporary and Polynesian Resorts
+title: Histories Of Disney's Contemporary And Polynesian Resorts
 year: 2011
 author - 1: "[[Cappy Surette]]"
 author - 2: "[[Nicole Cantore]]"

@@ -1,5 +1,5 @@
 ---
-title: Making Space -  How the Brain Knows Where Things Are
+title: Making Space - How The Brain Knows Where Things Are
 year: 2014
 author - 1: "[[Jennifer M Groh]]"
 key: "[[@Groh2014-rk]]"

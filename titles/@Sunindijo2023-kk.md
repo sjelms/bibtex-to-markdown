@@ -1,5 +1,5 @@
 ---
-title: Benefits of prefabrication on health and safety in the Australian housing sector
+title: Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector
 year: 2023
 author - 1: "[[Riza Yosia Sunindijo]]"
 author - 2: "[[Cynthia Changxin Wang]]"

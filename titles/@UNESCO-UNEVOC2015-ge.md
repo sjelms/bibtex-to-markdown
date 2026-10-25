@@ -1,5 +1,5 @@
 ---
-title: What is TVET?
+title: What Is TVET?
 year: 2015
 author - 1: "[[UNESCO-UNEVOC]]"
 key: "[[@UNESCO-UNEVOC2015-ge]]"

@@ -1,5 +1,5 @@
 ---
-title: Motivationally Intelligent Systems -  Three Questions
+title: Motivationally Intelligent Systems - Three Questions
 year: 2008
 author - 1: "[[Benedict du Boulay]]"
 author - 2: "[[Genaro Rebolledo-Méndez]]"

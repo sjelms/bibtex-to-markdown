@@ -1,5 +1,5 @@
 ---
-title: Opportunities and Challenges of Offsite Construction
+title: Opportunities And Challenges Of Offsite Construction
 year: 2023
 author - 1: "[[Rayan H Assaad]]"
 author - 2: "[[Islam H El-adaway]]"

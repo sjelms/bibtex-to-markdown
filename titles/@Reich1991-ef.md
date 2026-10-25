@@ -1,5 +1,5 @@
 ---
-title: The Work of Nations -  Preparing Ourselves for 21st-Century Capitalism
+title: The Work Of Nations - Preparing Ourselves For 21st-Century Capitalism
 year: 1991
 author - 1: "[[Robert B Reich]]"
 key: "[[@Reich1991-ef]]"

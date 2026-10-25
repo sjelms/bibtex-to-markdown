@@ -1,5 +1,5 @@
 ---
-title: Experiencing the De-Skilling Premises of Welfare Work
+title: Experiencing The De-Skilling Premises Of Welfare Work
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-fj]]"

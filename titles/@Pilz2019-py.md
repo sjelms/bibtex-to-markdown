@@ -1,5 +1,5 @@
 ---
-title: Duality and Learning Fields in Vocational Education and Training -  Pedagogy, Curriculum, and Assessment
+title: Duality And Learning Fields In Vocational Education And Training - Pedagogy, Curriculum, And Assessment
 year: 2019
 author - 1: "[[Matthias Pilz]]"
 author - 2: "[[Bärbel Fürstenau]]"

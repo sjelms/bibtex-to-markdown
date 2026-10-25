@@ -10,4 +10,4 @@ category:
 ## Open Review of Educational Research
 
 ### Content:
-[[@Golding2017-ol|Advice For Writing A Thesis (based On What Examiners Do)]]
+[[@Golding2017-ol|Advice For Writing A Thesis (Based On What Examiners Do)]]

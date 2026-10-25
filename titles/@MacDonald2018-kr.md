@@ -1,5 +1,5 @@
 ---
-title: Active Learning Methods and the Development of Expertise
+title: Active Learning Methods And The Development Of Expertise
 year: 2018
 author - 1: "[[Joel MacDonald]]"
 key: "[[@MacDonald2018-kr]]"

@@ -1,5 +1,5 @@
 ---
-title: Qualitative Content Analysis -  A Step-by-Step Guide
+title: Qualitative Content Analysis - A Step-By-Step Guide
 year: 2021
 author - 1: "[[Philipp Mayring]]"
 key: "[[@Mayring2021-ud]]"

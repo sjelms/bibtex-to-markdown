@@ -1,5 +1,5 @@
 ---
-title: Structural Transformation in the OECD -  Digitalisation, Deindustrialisation and the Future of Work
+title: Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work
 year: 2016
 author - 1: "[[Thor Berger]]"
 author - 2: "[[Carl Benedikt Frey]]"

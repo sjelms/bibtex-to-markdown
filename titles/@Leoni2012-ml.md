@@ -1,5 +1,5 @@
 ---
-title: Workplace design, complementarities among work practices, and the formation of key competencies -  Evidence from Italian employees
+title: Workplace Design, Complementarities Among Work Practices, And The Formation Of Key Competencies - Evidence From Italian Employees
 year: 2012
 author - 1: "[[Riccardo Leoni]]"
 key: "[[@Leoni2012-ml]]"

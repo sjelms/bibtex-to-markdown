@@ -1,5 +1,5 @@
 ---
-title: Will a robot take your job?
+title: Will A Robot Take Your Job?
 year: 2015
 author - 1: "[[BBC News]]"
 key: "[[@BBC-News2015-lz]]"

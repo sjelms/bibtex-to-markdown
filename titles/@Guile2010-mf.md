@@ -1,5 +1,5 @@
 ---
-title: Thinking Differently about the Two Worlds View of Knowledge
+title: Thinking Differently About The Two Worlds View Of Knowledge
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-mf]]"

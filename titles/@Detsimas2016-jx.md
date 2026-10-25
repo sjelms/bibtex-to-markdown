@@ -1,5 +1,5 @@
 ---
-title: Workplace training and generic and technical skill development in the Australian construction industry
+title: Workplace Training And Generic And Technical Skill Development In The Australian Construction Industry
 year: 2016
 author - 1: "[[Nicole Detsimas]]"
 author - 2: "[[Vaughan Coffey]]"

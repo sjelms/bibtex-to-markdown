@@ -1,5 +1,5 @@
 ---
-title: Unions, the Skills Agenda, and Workforce Development
+title: Unions, The Skills Agenda, And Workforce Development
 year: 2017
 author - 1: "[[Mark Stuart]]"
 author - 2: "[[Tony Huzzard]]"

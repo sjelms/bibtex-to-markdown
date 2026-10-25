@@ -1,5 +1,5 @@
 ---
-title: Cross-phase product configurator for modular buildings using kit-of-parts
+title: Cross-Phase Product Configurator For Modular Buildings Using Kit-Of-Parts
 year: 2021
 author - 1: "[[Jianpeng Cao]]"
 author - 2: "[[David F Bucher]]"

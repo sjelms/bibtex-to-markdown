@@ -1,5 +1,5 @@
 ---
-title: Grounded Theory in the 21st Century -  Applications for Advancing Social Justice Studies
+title: Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies
 year: 2005
 author - 1: "[[Kathy Charmaz]]"
 key: "[[@Charmaz2005-yn]]"

@@ -1,5 +1,5 @@
 ---
-title: Our Unfinished March -  The Violent Past and Imperiled Future of the Vote
+title: Our Unfinished March - The Violent Past And Imperiled Future Of The Vote
 year: 2024
 author - 1: "[[Eric H Holder Jr]]"
 author - 2: "[[Sam Koppelman]]"

@@ -1,12 +1,12 @@
 ---
-title: The ‘Russian Doll’ Approach -  Developing Nested Case-studies to Support International Comparative Research in Education
+title: The ‘Russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education
 year: 2013
 author - 1: "[[Pei Wen Chong]]"
 author - 2: "[[Linda J Graham]]"
 key: "[[@Chong2013-nz]]"
 aliases:
-  - The ‘russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education
-  - The ‘russian Doll’ Approach
+  - The ‘Russian Doll’ Approach - Developing Nested Case-Studies To Support International Comparative Research In Education
+  - The ‘Russian Doll’ Approach
 journal: "[[International Journal of Research and Method in Education]]"
 publisher: "[[Routledge]]"
 volume: 36

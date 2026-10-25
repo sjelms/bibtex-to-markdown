@@ -1,5 +1,5 @@
 ---
-title: Offsite Construction Industry Meta-analysis -  Industry Survey Results
+title: Offsite Construction Industry Meta-Analysis - Industry Survey Results
 year: 2017
 author - 1: "[[Talbot Rice]]"
 author - 2: "[[Ryan E Smith]]"

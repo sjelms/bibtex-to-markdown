@@ -1,5 +1,5 @@
 ---
-title: Artificial intelligence and the modern productivity paradox -  A clash of expectations and statistics
+title: Artificial Intelligence And The Modern Productivity Paradox - A Clash Of Expectations And Statistics
 year: 2019
 author - 1: "[[Erik Brynjolfsson]]"
 author - 2: "[[Daniel Rock]]"

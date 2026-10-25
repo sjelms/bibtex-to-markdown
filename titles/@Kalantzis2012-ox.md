@@ -1,5 +1,5 @@
 ---
-title: Learning civics
+title: Learning Civics
 year: 2012
 author - 1: "[[Mary Kalantzis]]"
 author - 2: "[[Bill Cope]]"

@@ -1,5 +1,5 @@
 ---
-title: Qualitative Interviewing and Grounded Theory Analysis
+title: Qualitative Interviewing And Grounded Theory Analysis
 year: 2001
 author - 1: "[[Kathy Charmaz]]"
 editor - 1: "[[Jaber F Gubrium]]"

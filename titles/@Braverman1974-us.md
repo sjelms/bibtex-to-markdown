@@ -1,5 +1,5 @@
 ---
-title: Productive and Unproductive Labor
+title: Productive And Unproductive Labor
 year: 1974
 author - 1: "[[Harry Braverman]]"
 key: "[[@Braverman1974-us]]"

@@ -1,5 +1,5 @@
 ---
-title: A working flight simulator, no computers necessary
+title: A Working Flight Simulator, No Computers Necessary
 year: 2022
 author - 1: "[[Tom Scott]]"
 key: "[[@Scott2022-fi]]"

@@ -1,5 +1,5 @@
 ---
-title: The New Division of Labor -  How Computers Are Creating the Next Job Market
+title: The New Division Of Labor - How Computers Are Creating The Next Job Market
 year: 2006
 author - 1: "[[Frank Levy]]"
 author - 2: "[[Richard J Murnane]]"

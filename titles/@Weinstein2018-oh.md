@@ -1,5 +1,5 @@
 ---
-title: Teaching the Science of Learning
+title: Teaching The Science Of Learning
 year: 2018
 author - 1: "[[Yana Weinstein]]"
 author - 2: "[[Christopher R Madan]]"

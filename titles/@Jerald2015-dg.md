@@ -1,5 +1,5 @@
 ---
-title: The VR Book -  Human-Centered Design for Virtual Reality
+title: The VR Book - Human-Centered Design For Virtual Reality
 year: 2015
 author - 1: "[[Jason Jerald]]"
 key: "[[@Jerald2015-dg]]"

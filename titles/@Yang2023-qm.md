@@ -1,5 +1,5 @@
 ---
-title: Where did the workers go? Construction jobs are plentiful, but workers are scarce
+title: Where Did The Workers Go? Construction Jobs Are Plentiful, But Workers Are Scarce
 year: 2023
 author - 1: "[[Mary Yang]]"
 key: "[[@Yang2023-qm]]"

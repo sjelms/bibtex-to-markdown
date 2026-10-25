@@ -1,5 +1,5 @@
 ---
-title: Virtual Reality as a Promising Tool to Promote Climate Change Awareness
+title: Virtual Reality As A Promising Tool To Promote Climate Change Awareness
 year: 2020
 author - 1: "[[Géraldine Fauville]]"
 author - 2: "[[Anna Carolina Muller Queiroz]]"

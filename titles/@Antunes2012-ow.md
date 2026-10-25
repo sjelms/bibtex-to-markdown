@@ -1,5 +1,5 @@
 ---
-title: The Meanings of Work -  Essay on the Affirmation and Negation of Work
+title: The Meanings Of Work - Essay On The Affirmation And Negation Of Work
 year: 2012
 author - 1: "[[Ricardo Antunes]]"
 key: "[[@Antunes2012-ow]]"

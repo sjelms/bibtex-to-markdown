@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Handbook -  Vocational Education and Training (VET) Theory, Practice, and Policy for a Complex Field of Inquiry
+title: Introduction To The Handbook - Vocational Education And Training (VET) Theory, Practice, And Policy For A Complex Field Of Inquiry
 year: 2019
 author - 1: "[[David Guile]]"
 author - 2: "[[Lorna Unwin]]"

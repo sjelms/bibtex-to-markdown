@@ -1,5 +1,5 @@
 ---
-title: The Children of Adam Smith
+title: The Children Of Adam Smith
 year: 2005
 author - 1: "[[David Alan Grier]]"
 key: "[[@Grier2005-vj]]"

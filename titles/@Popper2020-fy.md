@@ -1,5 +1,5 @@
 ---
-title: The Open Society and Its Enemies
+title: The Open Society And Its Enemies
 year: 2020
 author - 1: "[[Karl R Popper]]"
 key: "[[@Popper2020-fy]]"

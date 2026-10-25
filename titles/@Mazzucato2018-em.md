@@ -1,5 +1,5 @@
 ---
-title: The Entrepreneurial State -  Debunking Public vs. Private Sector Myths
+title: The Entrepreneurial State - Debunking Public Vs. Private Sector Myths
 year: 2018
 author - 1: "[[Mariana Mazzucato]]"
 key: "[[@Mazzucato2018-em]]"

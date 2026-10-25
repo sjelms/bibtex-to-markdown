@@ -1,5 +1,5 @@
 ---
-title: The Gilbreth Contribution to Operating Room Management and Surgical Ergonomics
+title: The Gilbreth Contribution To Operating Room Management And Surgical Ergonomics
 year: 2025
 author - 1: "[[Tina Bharani]]"
 author - 2: "[[Divyansh Agarwal]]"

@@ -1,5 +1,5 @@
 ---
-title: Training for Change -  New Approach to Instruction and Learning in Working Life
+title: Training For Change - New Approach To Instruction And Learning In Working Life
 year: 1994
 author - 1: "[[Yrjö Engeström]]"
 author - 2: "[[International Labour Office]]"

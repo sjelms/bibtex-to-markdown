@@ -1,5 +1,5 @@
 ---
-title: How can an understanding of learning theories be used in the design of training? A critical evaluation
+title: How Can An Understanding Of Learning Theories Be Used In The Design Of Training? A Critical Evaluation
 year: 2017
 author - 1: "[[Marius Sebastian Rücker]]"
 key: "[[@Rucker2017-kk]]"

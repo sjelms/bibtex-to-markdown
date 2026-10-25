@@ -1,5 +1,5 @@
 ---
-title: Socio-technical imaginary of the fourth industrial revolution and its implications for vocational education and training -  a literature review
+title: Socio-Technical Imaginary Of The Fourth Industrial Revolution And Its Implications For Vocational Education And Training - A Literature Review
 year: 2018
 author - 1: "[[James Avis]]"
 key: "[[@Avis2018-dc]]"

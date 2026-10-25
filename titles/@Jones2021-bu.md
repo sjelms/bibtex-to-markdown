@@ -1,5 +1,5 @@
 ---
-title: The Role of Industry – University Collaboration in Construction
+title: The Role Of Industry – University Collaboration In Construction
 year: 2021
 author - 1: "[[Kell Jones]]"
 author - 2: "[[Luigi Mosca]]"

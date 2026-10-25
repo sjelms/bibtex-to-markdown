@@ -1,5 +1,5 @@
 ---
-title: Learning through work -  Exploring instances of relational interdependencies
+title: Learning Through Work - Exploring Instances Of Relational Interdependencies
 year: 2008
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett2008-kx]]"

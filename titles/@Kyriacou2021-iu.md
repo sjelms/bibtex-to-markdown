@@ -1,5 +1,5 @@
 ---
-title: Learning to Work in a Materials Recovery Facility -  Can Humans and Machines Learn from Each Other?
+title: Learning To Work In A Materials Recovery Facility - Can Humans And Machines Learn From Each Other?
 year: 2021
 author - 1: "[[Harrison Kyriacou]]"
 author - 2: "[[Anand Ramakrishnan]]"

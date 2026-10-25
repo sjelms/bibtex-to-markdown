@@ -1,11 +1,11 @@
 ---
-title: Taking stock of “Organizational Learning” -  Looking back and moving forward
+title: Taking Stock Of “Organizational Learning” - Looking Back And Moving Forward
 year: 2022
 author - 1: "[[Bente Elkjaer]]"
 key: "[[@Elkjaer2022-yf]]"
 aliases:
-  - Taking Stock Of “organizational Learning” - Looking Back And Moving Forward
-  - Taking Stock Of “organizational Learning”
+  - Taking Stock Of “Organizational Learning” - Looking Back And Moving Forward
+  - Taking Stock Of “Organizational Learning”
 journal: "[[Management Learning]]"
 publisher: "[[SAGE Publications]]"
 volume: 53

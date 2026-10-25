@@ -1,5 +1,5 @@
 ---
-title: Problems Around the Role of Knowledge in the Economy
+title: Problems Around The Role Of Knowledge In The Economy
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-yp]]"

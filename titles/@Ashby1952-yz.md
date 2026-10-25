@@ -1,5 +1,5 @@
 ---
-title: Design for a Brain -  The Origin of Adaptive Behaviour
+title: Design For A Brain - The Origin Of Adaptive Behaviour
 year: 1952
 author - 1: "[[William Ross Ashby]]"
 key: "[[@Ashby1952-yz]]"

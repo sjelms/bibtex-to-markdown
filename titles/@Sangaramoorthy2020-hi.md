@@ -1,5 +1,5 @@
 ---
-title: Rapid ethnographic assessments -  A practical approach and toolkit for collaborative community research
+title: Rapid Ethnographic Assessments - A Practical Approach And Toolkit For Collaborative Community Research
 year: 2020
 author - 1: "[[Thurka Sangaramoorthy]]"
 author - 2: "[[Karen A Kroeger]]"

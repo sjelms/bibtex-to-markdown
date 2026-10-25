@@ -1,5 +1,5 @@
 ---
-title: Tacit Knowledge, Lessons Learnt, and New Product Development
+title: Tacit Knowledge, Lessons Learnt, And New Product Development
 year: 2011
 author - 1: "[[Keith Goffin]]"
 author - 2: "[[Ursula Koners]]"

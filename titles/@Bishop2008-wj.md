@@ -1,5 +1,5 @@
 ---
-title: Ensuring the effectiveness of a knowledge management initiative
+title: Ensuring The Effectiveness Of A Knowledge Management Initiative
 year: 2008
 author - 1: "[[James Bishop]]"
 author - 2: "[[Dino Bouchlaghem]]"

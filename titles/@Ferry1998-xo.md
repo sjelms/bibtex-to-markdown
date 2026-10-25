@@ -1,5 +1,5 @@
 ---
-title: An Inquiry into Schön's Epistemology of Practice -  Exploring Links between Experience and Reflective Practice
+title: An Inquiry Into Schön's Epistemology Of Practice - Exploring Links Between Experience And Reflective Practice
 year: 1998
 author - 1: "[[Natalie M Ferry]]"
 author - 2: "[[Jovita M Ross-Gordon]]"

@@ -1,5 +1,5 @@
 ---
-title: Planning changed Britain for the better in the postwar years – and it can do the same now
+title: Planning Changed Britain For The Better In The Postwar Years – And It Can Do The Same Now
 year: 2024
 author - 1: "[[Phineas Harper]]"
 key: "[[@Harper2024-sq]]"

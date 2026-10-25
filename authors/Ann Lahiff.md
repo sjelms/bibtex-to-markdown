@@ -11,7 +11,7 @@ aliases:
 
 ### Content:
 [[@Broad2019-rn|Capturing The Elusive]]
-[[@Guile2017-qd|Apprenticeship For ‘liquid Life’]]
+[[@Guile2017-qd|Apprenticeship For ‘Liquid Life’]]
 [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
 
 #### Bibliography:

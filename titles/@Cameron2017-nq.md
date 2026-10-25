@@ -1,5 +1,5 @@
 ---
-title: The Economic Impact of Artificial Intelligence on the UK Economy
+title: The Economic Impact Of Artificial Intelligence On The UK Economy
 year: 2017
 author - 1: "[[Euan Cameron]]"
 author - 2: "[[Jon Andrews]]"

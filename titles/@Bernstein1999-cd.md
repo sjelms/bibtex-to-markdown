@@ -1,5 +1,5 @@
 ---
-title: Vertical and Horizontal Discourse -  An essay
+title: Vertical And Horizontal Discourse - An Essay
 year: 1999
 author - 1: "[[Basil Bernstein]]"
 key: "[[@Bernstein1999-cd]]"

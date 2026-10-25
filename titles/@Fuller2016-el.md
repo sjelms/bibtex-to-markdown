@@ -1,5 +1,5 @@
 ---
-title: Developing Expertise -  Occupational Versus Job-based Approaches in Contemporary Labour Markets
+title: Developing Expertise - Occupational Versus Job-Based Approaches In Contemporary Labour Markets
 year: 2016
 author - 1: "[[Alison Fuller]]"
 key: "[[@Fuller2016-el]]"

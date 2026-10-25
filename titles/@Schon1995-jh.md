@@ -1,5 +1,5 @@
 ---
-title: Knowing-in-action -  The new scholarship requires a new epistemology
+title: Knowing-In-Action - The New Scholarship Requires A New Epistemology
 year: 1995
 author - 1: "[[Donald A Schön]]"
 key: "[[@Schon1995-jh]]"

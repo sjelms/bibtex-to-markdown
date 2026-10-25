@@ -1,5 +1,5 @@
 ---
-title: Design management using knowledge innovation and visual planning
+title: Design Management Using Knowledge Innovation And Visual Planning
 year: 2016
 author - 1: "[[Gustav Jansson]]"
 author - 2: "[[Emma Viklund]]"

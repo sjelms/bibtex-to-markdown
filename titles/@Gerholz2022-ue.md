@@ -1,5 +1,5 @@
 ---
-title: Design-Based Research – Grounding, Understanding and Empirical Illustration in the Context of Vocational Education
+title: Design-Based Research – Grounding, Understanding And Empirical Illustration In The Context Of Vocational Education
 year: 2022
 author - 1: "[[Karl-Heinz Gerholz]]"
 author - 2: "[[Anne Wagner]]"

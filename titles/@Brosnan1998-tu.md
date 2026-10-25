@@ -1,5 +1,5 @@
 ---
-title: Spatial ability in children's play with Lego blocks
+title: Spatial Ability In Children's Play With Lego Blocks
 year: 1998
 author - 1: "[[Mark J Brosnan]]"
 key: "[[@Brosnan1998-tu]]"

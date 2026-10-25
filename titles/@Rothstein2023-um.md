@@ -1,5 +1,5 @@
 ---
-title: Housing Market Predictions For 2023 -  When Will Home Prices Become Affordable?
+title: Housing Market Predictions For 2023 - When Will Home Prices Become Affordable?
 year: 2023
 author - 1: "[[Robin Rothstein]]"
 key: "[[@Rothstein2023-um]]"

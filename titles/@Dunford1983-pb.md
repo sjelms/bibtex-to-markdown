@@ -1,5 +1,5 @@
 ---
-title: The Transition from Manufacture to Machinofacture 1780–1850
+title: The Transition From Manufacture To Machinofacture 1780–1850
 year: 1983
 author - 1: "[[Michael Dunford]]"
 author - 2: "[[Diane Perrons]]"

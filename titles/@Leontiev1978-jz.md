@@ -1,5 +1,5 @@
 ---
-title: Activity, Consciousness, and Personality
+title: Activity, Consciousness, And Personality
 year: 1978
 author - 1: "[[Aleksei Nikolayevich Leontiev]]"
 key: "[[@Leontiev1978-jz]]"

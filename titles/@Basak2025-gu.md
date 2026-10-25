@@ -1,5 +1,5 @@
 ---
-title: How Wall Street Plans to Fix the Housing Crisis
+title: How Wall Street Plans To Fix The Housing Crisis
 year: 2025
 author - 1: "[[Sonali Basak]]"
 key: "[[@Basak2025-gu]]"

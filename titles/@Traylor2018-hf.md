@@ -1,5 +1,5 @@
 ---
-title: Spatial Learning and STEM -  What are we missing?
+title: Spatial Learning And STEM - What Are We Missing?
 year: 2018
 author - 1: "[[Scott Traylor]]"
 key: "[[@Traylor2018-hf]]"

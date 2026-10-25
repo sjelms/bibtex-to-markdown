@@ -1,5 +1,5 @@
 ---
-title: Mind in Political Economy and the Labour Process -  A Use-Value Thesis
+title: Mind In Political Economy And The Labour Process - A Use-Value Thesis
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-ax]]"

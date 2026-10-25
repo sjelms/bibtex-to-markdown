@@ -1,5 +1,5 @@
 ---
-title: Health inequalities among British civil servants -  the Whitehall II study
+title: Health Inequalities Among British Civil Servants - The Whitehall II Study
 year: 1991
 author - 1: "[[Michael G Marmot]]"
 author - 2: "[[George Davey Smith]]"

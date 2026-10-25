@@ -1,5 +1,5 @@
 ---
-title: Life 3.0 -  Being Human in the Age of Artificial Intelligence
+title: Life 3.0 - Being Human In The Age Of Artificial Intelligence
 year: 2017
 author - 1: "[[Max Tegmark]]"
 key: "[[@Tegmark2017-rd]]"

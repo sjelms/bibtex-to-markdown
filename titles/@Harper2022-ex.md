@@ -1,5 +1,5 @@
 ---
-title: Edwardian morals, Thatcher and bad design – why Britain’s homes are so hot
+title: Edwardian Morals, Thatcher And Bad Design – Why Britain’s Homes Are So Hot
 year: 2022
 author - 1: "[[Phineas Harper]]"
 key: "[[@Harper2022-ex]]"

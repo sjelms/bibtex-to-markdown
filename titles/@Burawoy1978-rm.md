@@ -1,5 +1,5 @@
 ---
-title: Toward a Marxist Theory of the Labor Process -  Braverman and Beyond
+title: Toward A Marxist Theory Of The Labor Process - Braverman And Beyond
 year: 1978
 author - 1: "[[Michael Burawoy]]"
 key: "[[@Burawoy1978-rm]]"

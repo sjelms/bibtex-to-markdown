@@ -1,5 +1,5 @@
 ---
-title: Work as Social Practice -  Activities and Interdependencies
+title: Work As Social Practice - Activities And Interdependencies
 year: 1999
 author - 1: "[[Stephen Billett]]"
 key: "[[@Billett1999-em]]"

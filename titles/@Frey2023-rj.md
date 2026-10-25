@@ -1,5 +1,5 @@
 ---
-title: Generative AI and the Future of Work -  A Reappraisal
+title: Generative AI And The Future Of Work - A Reappraisal
 year: 2023
 author - 1: "[[Carl Benedikt Frey]]"
 author - 2: "[[Michael A Osborne]]"

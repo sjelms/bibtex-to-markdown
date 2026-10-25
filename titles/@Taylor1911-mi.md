@@ -1,5 +1,5 @@
 ---
-title: The Principles of Scientific Management
+title: The Principles Of Scientific Management
 year: 1911
 author - 1: "[[Frederick Winslow Taylor]]"
 key: "[[@Taylor1911-mi]]"

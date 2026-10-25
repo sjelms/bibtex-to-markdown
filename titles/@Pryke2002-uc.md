@@ -1,5 +1,5 @@
 ---
-title: UK Construction in Transition -  Developing a Social Network Approach to the Evaluation of New Procurement and Management Strategies
+title: UK Construction In Transition - Developing A Social Network Approach To The Evaluation Of New Procurement And Management Strategies
 year: 2002
 author - 1: "[[Stephen David Pryke]]"
 key: "[[@Pryke2002-uc]]"

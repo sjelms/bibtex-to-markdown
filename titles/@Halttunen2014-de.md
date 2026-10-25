@@ -1,5 +1,5 @@
 ---
-title: Promoting, Assessing, Recognizing and Certifying Lifelong Learning -  International Perspectives and Practices
+title: Promoting, Assessing, Recognizing And Certifying Lifelong Learning - International Perspectives And Practices
 year: 2014
 author - 1: "[[Timo Halttunen]]"
 author - 2: "[[Mari Koivisto]]"

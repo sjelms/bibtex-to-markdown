@@ -1,5 +1,5 @@
 ---
-title: The Economics of the Modern Construction Sector
+title: The Economics Of The Modern Construction Sector
 year: 2000
 author - 1: "[[Graham J Ive]]"
 author - 2: "[[Stephen L Gruneberg]]"

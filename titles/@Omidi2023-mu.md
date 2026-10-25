@@ -1,5 +1,5 @@
 ---
-title: Labor process theory and critical HRM -  A systematic review and agenda for future research
+title: Labor Process Theory And Critical HRM - A Systematic Review And Agenda For Future Research
 year: 2023
 author - 1: "[[Afshin Omidi]]"
 author - 2: "[[Cinzia Dal Zotto]]"

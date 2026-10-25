@@ -1,5 +1,5 @@
 ---
-title: Britain’s building standards are now so bad, even the super-rich are facing housing misery
+title: Britain’s Building Standards Are Now So Bad, Even The Super-Rich Are Facing Housing Misery
 year: 2026
 author - 1: "[[Phineas Harper]]"
 key: "[[@Harper2026-ko]]"

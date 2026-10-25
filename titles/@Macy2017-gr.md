@@ -1,5 +1,5 @@
 ---
-title: Factory Man -  How One Furniture Maker Battled Offshoring, Stayed Local – and Helped Save an American Town
+title: Factory Man - How One Furniture Maker Battled Offshoring, Stayed Local – And Helped Save An American Town
 year: 2017
 author - 1: "[[Beth Macy]]"
 key: "[[@Macy2017-gr]]"

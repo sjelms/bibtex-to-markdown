@@ -1,5 +1,5 @@
 ---
-title: Industry 4.0 and its impact on skills development on built environment professionals -  A South African perspective
+title: Industry 4.0 And Its Impact On Skills Development On Built Environment Professionals - A South African Perspective
 year: 2019
 author - 1: "[[Vuyiswa Yeni-Letsoko]]"
 author - 2: "[[Nischolan Pillay]]"

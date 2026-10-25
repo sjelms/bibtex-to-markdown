@@ -10,4 +10,4 @@ category:
 ## The Journal of Industrial Relations
 
 ### Content:
-[[@Sawchuk2006-od|‘use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
+[[@Sawchuk2006-od|‘Use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]

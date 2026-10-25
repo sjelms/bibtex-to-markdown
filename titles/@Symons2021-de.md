@@ -1,5 +1,5 @@
 ---
-title: Integrated Design, Design Management and the Delivery of Major Hospitals
+title: Integrated Design, Design Management And The Delivery Of Major Hospitals
 year: 2021
 author - 1: "[[Anne Wood Symons]]"
 key: "[[@Symons2021-de]]"

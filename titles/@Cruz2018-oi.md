@@ -1,5 +1,5 @@
 ---
-title: Thorndike Report -  A Case for Change
+title: Thorndike Report - A Case For Change
 year: 2018
 author - 1: "[[Krystal M Cruz]]"
 key: "[[@Cruz2018-oi]]"

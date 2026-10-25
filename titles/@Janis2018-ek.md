@@ -1,5 +1,5 @@
 ---
-title: A Systematic Literature Review -  Human Roles, Competencies And Skills In Industry 4.0
+title: A Systematic Literature Review - Human Roles, Competencies And Skills In Industry 4.0
 year: 2018
 author - 1: "[[Ilyana Janis]]"
 author - 2: "[[Maizam Alias]]"

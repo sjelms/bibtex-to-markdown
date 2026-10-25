@@ -1,5 +1,5 @@
 ---
-title: Analyzing the Causes of Labor Shortage in the Commercial Carpentry Trades in the San Francisco Bay Area
+title: Analyzing The Causes Of Labor Shortage In The Commercial Carpentry Trades In The San Francisco Bay Area
 year: 2021
 author - 1: "[[Jack Crayne]]"
 key: "[[@Crayne2021-jq]]"

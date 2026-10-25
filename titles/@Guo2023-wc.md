@@ -1,5 +1,5 @@
 ---
-title: Computer vision–based management of construction workers' unsafe behaviour
+title: Computer Vision–Based Management Of Construction Workers' Unsafe Behaviour
 year: 2023
 author - 1: "[[Hongling Guo]]"
 author - 2: "[[Yantao Yu]]"

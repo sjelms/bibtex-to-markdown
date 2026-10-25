@@ -1,5 +1,5 @@
 ---
-title: An intelligent tutoring system for training and learning in a virtual environment for high-risk sites
+title: An Intelligent Tutoring System For Training And Learning In A Virtual Environment For High-Risk Sites
 year: 2008
 author - 1: "[[Kahina Amokrane]]"
 author - 2: "[[Domitile Lourdeaux]]"

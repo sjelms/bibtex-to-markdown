@@ -1,6 +1,6 @@
 ---
 type: "[[@online]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -17,7 +17,7 @@ amended: 2026-10-25T07:25:32
 - [[@Belkin2023-ak|Americans Are Losing Faith In College Education, WSJ-NORC Poll Finds]]
 - [[@Gardiner2023-ls|Ilke Homes Goes Into Administration]]
 - [[@Lowe2023-gc|The RAAC Schools Crisis - What We Know So Far]]
-- [[@Phillips2023-um|Virginia Tech Wins \$450K Grant For Modular Workforce Development]]
+- [[@Phillips2023-um|Virginia Tech Wins $450K Grant For Modular Workforce Development]]
 ### 2022
 - [[@Morby2022-bu|Construction Forecast To Fall By Nearly 4% Next Year]]
 - [[@Davis2022-wq|Expert–Novice - Discourses On Learning In Education]]
@@ -30,10 +30,10 @@ amended: 2026-10-25T07:25:32
 - [[@Wikipedia_contributors2022-fx|SECI Model Of Knowledge Dimensions]]
 ### 2021
 - [[@Associated-General-Contractors2021-wz|Construction Adds 31,000 Jobs In November, With Gains In All Segments, But Industry Will Need Even More Workers As Demand Accelerates]]
-- [[@Associated-General-Contractors2021-jr|Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects & Disrupt Supply Chains]]
+- [[@Associated-General-Contractors2021-jr|Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects And Disrupt Supply Chains]]
 - [[@Siegel2021-ks|Juno Design - Throwing Out The Playbook]]
-- [[@Potter2021-os|WW2 Era Mass-Produced Housing (part 1)]]
-- [[@Hon2021-if|Project 12 - Vr/ar Technologies In Vocational Education And Training (scoping Study)]]
+- [[@Potter2021-os|WW2 Era Mass-Produced Housing (Part 1)]]
+- [[@Hon2021-if|Project 12 - Vr/ar Technologies In Vocational Education And Training (Scoping Study)]]
 - [[@Authers2021-dw|If Your CEO Talks Like Kant, Think Twice Before Investing]]
 - [[@Hilburg2021-ix|Prefab Startup Wunderkind Katerra Is Shutting Down]]
 - [[@Yglesias2021-bo|Homelessness Is About Housing - The Solution Is To Legalize More And More Kinds Of It]]
@@ -52,7 +52,7 @@ amended: 2026-10-25T07:25:32
 - [[@Sorensen2020-jj|What Is The Fourth Industrial Revolution?]]
 - [[@Prime-Minister-s-Office2020-dw|Major Expansion Of Post-18 Education And Training To Level Up And Prepare Workers For Post-COVID Economy]]
 - [[@Fry2020-da|A Majority Of Young Adults In The U.s. Live With Their Parents For The First Time Since The Great Depression]]
-- [[@Tipping-Point-Community2020-uy|Charles And Helen Schwab Invest \$65M In Groundbreaking Homelessness Solutions In SF]]
+- [[@Tipping-Point-Community2020-uy|Charles And Helen Schwab Invest $65M In Groundbreaking Homelessness Solutions In SF]]
 ## 2010-2019
 ### 2019
 - [[@Andrews2019-pu|Who Were The Luddites?]]
@@ -82,7 +82,7 @@ amended: 2026-10-25T07:25:32
 - [[@Office-of-Qualifications-and-Examinations-Regulation2014-ze|What Qualification Levels Mean]]
 - [[@United-Brotherhood-of-Carpenters2014-wk|Math For The Trades]]
 ### 2013
-- [[@Teicholz2013-mz|Labor-Productivity Declines In The Construction Industry - Causes And Remedies (another Look)]]
+- [[@Teicholz2013-mz|Labor-Productivity Declines In The Construction Industry - Causes And Remedies (Another Look)]]
 ### 2011
 - [[@Surette2011-pc|Histories Of Disney's Contemporary And Polynesian Resorts]]
 - [[@Conniff2011-dm|What The Luddites Really Fought Against]]

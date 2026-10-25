@@ -1,11 +1,11 @@
 ---
-title: Construction Workforce Shortages Reach Pre-pandemic Levels Even as Coronavirus Continues to Impact Projects and Disrupt Supply Chains
+title: Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects And Disrupt Supply Chains
 year: 2021
 author - 1: "[[Associated General Contractors]]"
 key: "[[@Associated-General-Contractors2021-jr]]"
 booktitle: Associated General Contractors of America
 aliases:
-  - Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects & Disrupt Supply Chains
+  - Construction Workforce Shortages Reach Pre-Pandemic Levels Even As Coronavirus Continues To Impact Projects And Disrupt Supply Chains
 type: "[[@online]]"
 tags:
   - 3_Upgrade-OCT-2023

@@ -1,5 +1,5 @@
 ---
-title: Semiotic Mechanisms in Vygotsky’s Genetic Law of Cultural Development
+title: Semiotic Mechanisms In Vygotsky’s Genetic Law Of Cultural Development
 year: 1985
 author - 1: "[[James V Wertsch]]"
 key: "[[@Wertsch1985-vw]]"

@@ -1,5 +1,5 @@
 ---
-title: A Framework for Assessing Interventions to Promote the Implementation of Material Innovations on Construction Projects
+title: A Framework For Assessing Interventions To Promote The Implementation Of Material Innovations On Construction Projects
 year: 2019
 author - 1: "[[Kell Jones]]"
 key: "[[@Jones2019-ks]]"

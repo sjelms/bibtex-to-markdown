@@ -1,5 +1,5 @@
 ---
-title: The future of automated ports
+title: The Future Of Automated Ports
 year: 2018
 author - 1: "[[Fox Chu]]"
 author - 2: "[[Sven Gailus]]"

@@ -1,5 +1,5 @@
 ---
-title: The Learning Potential of Boundary Crossing in the Vocational Curriculum
+title: The Learning Potential Of Boundary Crossing In The Vocational Curriculum
 year: 2019
 author - 1: "[[Arthur Bakker]]"
 author - 2: "[[Sanne Akkerman]]"

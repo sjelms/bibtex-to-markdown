@@ -1,5 +1,5 @@
 ---
-title: Makers -  The New Industrial Revolution
+title: Makers - The New Industrial Revolution
 year: 2012
 author - 1: "[[Chris Anderson]]"
 key: "[[@Anderson2012-mr]]"

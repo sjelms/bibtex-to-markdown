@@ -1,5 +1,5 @@
 ---
-title: The Adventures of Sherlock Holmes
+title: The Adventures Of Sherlock Holmes
 year: 1892
 author - 1: "[[Arthur Conan Doyle]]"
 key: "[[@Doyle1892-fj]]"

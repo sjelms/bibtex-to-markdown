@@ -1,5 +1,5 @@
 ---
-title: Will the Rise of The Robots Implode the World Economy?
+title: Will The Rise Of The Robots Implode The World Economy?
 year: 2015
 author - 1: "[[Simon Worrall]]"
 key: "[[@Worrall2015-qh]]"

@@ -1,5 +1,5 @@
 ---
-title: Multiple agent designs in conversational intelligent tutoring systems
+title: Multiple Agent Designs In Conversational Intelligent Tutoring Systems
 year: 2020
 author - 1: "[[Anne Lippert]]"
 author - 2: "[[Keith Shubeck]]"

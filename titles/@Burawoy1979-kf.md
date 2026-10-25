@@ -1,5 +1,5 @@
 ---
-title: Manufacturing Consent -  Changes in the Labor Process Under Monopoly Capitalism
+title: Manufacturing Consent - Changes In The Labor Process Under Monopoly Capitalism
 year: 1979
 author - 1: "[[Michael Burawoy]]"
 key: "[[@Burawoy1979-kf]]"

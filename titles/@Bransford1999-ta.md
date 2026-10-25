@@ -1,5 +1,5 @@
 ---
-title: Rethinking Transfer -  a Simple Proposal With Multiple Implications
+title: Rethinking Transfer - A Simple Proposal With Multiple Implications
 year: 1999
 author - 1: "[[John D Bransford]]"
 author - 2: "[[Daniel L Schwartz]]"

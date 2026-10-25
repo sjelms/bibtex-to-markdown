@@ -1,5 +1,5 @@
 ---
-title: Creative Confidence -  Unleashing the Creative Potential Within Us All
+title: Creative Confidence - Unleashing The Creative Potential Within Us All
 year: 2013
 author - 1: "[[David Kelley]]"
 author - 2: "[[Tom Kelley]]"

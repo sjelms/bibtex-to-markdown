@@ -1,5 +1,5 @@
 ---
-title: Apprentice to Graduate -  A narrative study into the progression experience of Advanced Apprentice
+title: Apprentice To Graduate - A Narrative Study Into The Progression Experience Of Advanced Apprentice
 year: 2018
 author - 1: "[[Alison Rouncefield-Swales]]"
 key: "[[@Rouncefield-Swales2018-ms]]"

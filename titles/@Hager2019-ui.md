@@ -1,5 +1,5 @@
 ---
-title: The Emergence of Complexity -  Rethinking Education as a Social Science
+title: The Emergence Of Complexity - Rethinking Education As A Social Science
 year: 2019
 author - 1: "[[Paul Hager]]"
 author - 2: "[[David Beckett]]"

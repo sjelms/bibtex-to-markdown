@@ -1,5 +1,5 @@
 ---
-title: Notice sur les Grandes Tables Logarithmiques et Trigonométriques Calculées, au Bureau du Cadastre
+title: Notice Sur Les Grandes Tables Logarithmiques Et Trigonométriques Calculées, Au Bureau Du Cadastre
 year: 1800
 author - 1: "[[Gaspard Clair François Marie Riche de Prony]]"
 key: "[[@de-Prony1800-sx]]"

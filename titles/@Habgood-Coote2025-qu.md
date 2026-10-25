@@ -1,5 +1,5 @@
 ---
-title: Collective action, work, and partial plans
+title: Collective Action, Work, And Partial Plans
 year: 2025
 author - 1: "[[Joshua Habgood-Coote]]"
 key: "[[@Habgood-Coote2025-qu]]"

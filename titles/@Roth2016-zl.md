@@ -1,5 +1,5 @@
 ---
-title: Perezhivaniein the light of the later Vygotsky’s spinozist turn
+title: Perezhivaniein The Light Of The Later Vygotsky’s Spinozist Turn
 year: 2016
 author - 1: "[[Wolff-Michael Roth]]"
 author - 2: "[[Alfredo Jornet]]"

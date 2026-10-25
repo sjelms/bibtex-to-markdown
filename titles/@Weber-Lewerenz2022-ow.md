@@ -1,5 +1,5 @@
 ---
-title: Accents of Added Value in Construction 4.0 -  Ethical Observations in Dealing With Digitization and AI
+title: Accents Of Added Value In Construction 4.0 - Ethical Observations In Dealing With Digitization And AI
 year: 2022
 author - 1: "[[Bianca Christina Weber-Lewerenz]]"
 key: "[[@Weber-Lewerenz2022-ow]]"

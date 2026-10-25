@@ -1,5 +1,5 @@
 ---
-title: Developing the Mediated Basis of Learning
+title: Developing The Mediated Basis Of Learning
 year: 2010
 author - 1: "[[David Guile]]"
 key: "[[@Guile2010-oc]]"

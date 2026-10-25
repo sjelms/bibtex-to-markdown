@@ -1,5 +1,5 @@
 ---
-title: The SAGE Handbook of Qualitative Research
+title: The SAGE Handbook Of Qualitative Research
 year: 2011
 author - 1: "[[Norman K Denzin]]"
 author - 2: "[[Yvonna S Lincoln]]"

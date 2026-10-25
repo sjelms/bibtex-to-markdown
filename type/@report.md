@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-10-25T07:25:32
+amended: 2026-10-25T08:20:44
 ---
 
 # Directory
@@ -94,7 +94,7 @@ amended: 2026-10-25T07:25:32
 - [[@Felstead2016-ut|Learning Outside The Formal System – What Learning Happens In The Workplace, And How Is It Recognised?]]
 - [[@Renz2016-br|Shaping The Future Of Construction - A Breakthrough In Mindset And Technology]]
 - [[@Woetzel2016-gs|A Tool Kit To Close California’s Housing Gap - 3.5 Million Homes By 2025]]
-- [[@Schober2016-eo|Digitization In The Construction Industry - Building Europe's Road To "construction 4.0"]]
+- [[@Schober2016-eo|Digitization In The Construction Industry - Building Europe's Road To "Construction 4.0"]]
 - [[@Farmer2016-oy|The Farmer Review Of The UK Construction Labour Model - Modernise Or Die]]
 - [[@Berger2016-vc|Structural Transformation In The OECD - Digitalisation, Deindustrialisation And The Future Of Work]]
 ### 2015

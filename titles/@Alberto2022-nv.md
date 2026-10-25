@@ -1,5 +1,5 @@
 ---
-title: Applying the Cognitive Theory of Multimedia Learning to Educational Animations and Explainer Videos in CME-CPD
+title: Applying The Cognitive Theory Of Multimedia Learning To Educational Animations And Explainer Videos In CME-CPD
 year: 2022
 author - 1: "[[Jayzona Alberto]]"
 key: "[[@Alberto2022-nv]]"

@@ -1,5 +1,5 @@
 ---
-title: The Second Machine Age -  Work, Progress, and Prosperity in a Time of Brilliant Technologies
+title: The Second Machine Age - Work, Progress, And Prosperity In A Time Of Brilliant Technologies
 year: 2014
 author - 1: "[[Erik Brynjolfsson]]"
 author - 2: "[[Andrew McAfee]]"

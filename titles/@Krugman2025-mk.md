@@ -1,5 +1,5 @@
 ---
-title: How Should We Think About the Economics of AI? A conversation with Erik Brynjolfsson
+title: How Should We Think About The Economics Of AI? A Conversation With Erik Brynjolfsson
 year: 2025
 author - 1: "[[Paul Krugman]]"
 author - 2: "[[Erik Brynjolfsson]]"

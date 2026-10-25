@@ -1,5 +1,5 @@
 ---
-title: COP26 -  What is next for the built environment?
+title: COP26 - What Is Next For The Built Environment?
 year: 2021
 author - 1: "[[Steph Hazlegreaves]]"
 key: "[[@Hazlegreaves2021-mk]]"

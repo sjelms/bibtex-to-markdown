@@ -1,5 +1,5 @@
 ---
-title: Key factors affecting labor productivity in offsite construction projects
+title: Key Factors Affecting Labor Productivity In Offsite Construction Projects
 year: 2023
 author - 1: "[[Rayan H Assaad]]"
 author - 2: "[[Islam H El-adaway]]"

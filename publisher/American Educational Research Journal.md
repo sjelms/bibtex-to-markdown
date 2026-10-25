@@ -10,4 +10,4 @@ category:
 ## American Educational Research Journal
 
 ### Content:
-[[@Prawat2000-ou|Dewey Meets The "mozart Of Psychology" In Moscow]]
+[[@Prawat2000-ou|Dewey Meets The "Mozart Of Psychology" In Moscow]]

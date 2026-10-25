@@ -1,5 +1,5 @@
 ---
-title: How to Change a Culture -  Lessons From NUMMI
+title: How To Change A Culture - Lessons From NUMMI
 year: 2010
 author - 1: "[[John Shook]]"
 key: "[[@Shook2010-ni]]"

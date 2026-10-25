@@ -1,5 +1,5 @@
 ---
-title: Tacit knowledge in everyday intelligent behavior
+title: Tacit Knowledge In Everyday Intelligent Behavior
 year: 1987
 author - 1: "[[Richard K Wagner]]"
 key: "[[@Wagner1987-jz]]"

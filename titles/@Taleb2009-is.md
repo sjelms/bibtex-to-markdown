@@ -1,5 +1,5 @@
 ---
-title: The Black Swan -  The Impact of the Highly Improbable
+title: The Black Swan - The Impact Of The Highly Improbable
 year: 2009
 author - 1: "[[Nassim Nicholas Taleb]]"
 key: "[[@Taleb2009-is]]"

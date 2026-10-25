@@ -1,11 +1,11 @@
 ---
-title: Management by eidetic intuition -  A dynamic management theory predicated on the "philosophy of empathy"
+title: Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "Philosophy Of Empathy"
 year: 2022
 author - 1: "[[Ikujiro Nonaka]]"
 author - 2: "[[Ichiro Yamaguchi]]"
 key: "[[@Nonaka2022-vg]]"
 aliases:
-  - Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "philosophy Of Empathy"
+  - Management By Eidetic Intuition - A Dynamic Management Theory Predicated On The "Philosophy Of Empathy"
   - Management By Eidetic Intuition
 publisher: "[[Springer]]"
 type: "[[@book]]"

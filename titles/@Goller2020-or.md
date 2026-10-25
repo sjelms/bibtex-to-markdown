@@ -1,5 +1,5 @@
 ---
-title: Engineering Students' Learning During Internships -  Exploring the Explanatory Power of the Job Demands‐control‐support Model
+title: Engineering Students' Learning During Internships - Exploring The Explanatory Power Of The Job Demands‐control‐support Model
 year: 2020
 author - 1: "[[Michael Goller]]"
 author - 2: "[[Christian Harteis]]"

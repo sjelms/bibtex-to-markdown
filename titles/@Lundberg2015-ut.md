@@ -1,5 +1,5 @@
 ---
-title: Social Motivations for Knowledge Sharing in Construction Companies
+title: Social Motivations For Knowledge Sharing In Construction Companies
 year: 2015
 author - 1: "[[Mary Lundberg]]"
 author - 2: "[[Helena Lidelöw]]"

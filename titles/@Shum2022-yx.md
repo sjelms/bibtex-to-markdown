@@ -1,5 +1,5 @@
 ---
-title: Framing professional learning analytics as reframing oneself
+title: Framing Professional Learning Analytics As Reframing Oneself
 year: 2022
 author - 1: "[[Simon Buckingham Shum]]"
 author - 2: "[[Allison Littlejohn]]"

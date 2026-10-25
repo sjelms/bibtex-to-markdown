@@ -1,5 +1,5 @@
 ---
-title: Preparing Spatial Ability Tests in a Virtual Reality Application
+title: Preparing Spatial Ability Tests In A Virtual Reality Application
 year: 2019
 author - 1: "[[Tibor Guzsvinecz]]"
 author - 2: "[[Monika Szeles]]"

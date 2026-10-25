@@ -1,5 +1,5 @@
 ---
-title: SECI model of knowledge dimensions
+title: SECI Model Of Knowledge Dimensions
 year: 2022
 author - 1: "[[Wikipedia contributors]]"
 key: "[[@Wikipedia_contributors2022-fx]]"

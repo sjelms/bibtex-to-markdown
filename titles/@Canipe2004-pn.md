@@ -1,5 +1,5 @@
 ---
-title: Kentucky's moonlight schools -  An enduring legacy of adult learning principles and practice
+title: Kentucky's Moonlight Schools - An Enduring Legacy Of Adult Learning Principles And Practice
 year: 2004
 author - 1: "[[James B Canipe]]"
 author - 2: "[[Martha M Decker]]"

@@ -1,5 +1,5 @@
 ---
-title: Qualitative Data Collection Tools -  Design, Development, and Applications
+title: Qualitative Data Collection Tools - Design, Development, And Applications
 year: 2020
 author - 1: "[[Felice D Billups]]"
 key: "[[@Billups2020-od]]"

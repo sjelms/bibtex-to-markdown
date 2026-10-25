@@ -1,5 +1,5 @@
 ---
-title: Qualitative Analysis of Video Data -  Standards and Heuristics
+title: Qualitative Analysis Of Video Data - Standards And Heuristics
 year: Unknown Year
 author - 1: "[[K E R Ramey]]"
 author - 2: "[[J Hilppö]]"

@@ -1,5 +1,5 @@
 ---
-title: Taxonomy of Educational Objectives -  The Classification of Educational Goals
+title: Taxonomy Of Educational Objectives - The Classification Of Educational Goals
 year: 1956
 author - 1: "[[Benjamin S Bloom]]"
 author - 2: "[[Max D Engelhart]]"

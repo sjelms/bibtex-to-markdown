@@ -1,5 +1,5 @@
 ---
-title: Data management and analysis methods
+title: Data Management And Analysis Methods
 year: 2000
 author - 1: "[[Gery W Ryan]]"
 author - 2: "[[H Russell Bernard]]"

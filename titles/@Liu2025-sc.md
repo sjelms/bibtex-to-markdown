@@ -1,5 +1,5 @@
 ---
-title: Shaping online and offline informal learning networks in off-site construction projects -  a proximity perspective
+title: Shaping Online And Offline Informal Learning Networks In Off-Site Construction Projects - A Proximity Perspective
 year: 2025
 author - 1: "[[Kangning Liu]]"
 author - 2: "[[Bon-Gang Hwang]]"

@@ -1,5 +1,5 @@
 ---
-title: Consumer Price Index for All Urban Consumers, 12-month percent change, by expenditure category, June 2022
+title: Consumer Price Index For All Urban Consumers, 12-Month Percent Change, By Expenditure Category, June 2022
 year: 2022
 author - 1: "[[Bureau of Labor Statistics]]"
 key: "[[@Bureau-of-Labor-Statistics2022-np]]"

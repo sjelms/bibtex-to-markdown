@@ -1,5 +1,5 @@
 ---
-title: Describing Construction -  Industries, Projects, and Firms
+title: Describing Construction - Industries, Projects, And Firms
 year: 2002
 author - 1: "[[Jim Meikle]]"
 author - 2: "[[Rick Best]]"

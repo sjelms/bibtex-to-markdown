@@ -1,5 +1,5 @@
 ---
-title: Constructivism -  A Psychological Theory of Learning
+title: Constructivism - A Psychological Theory Of Learning
 year: 1996
 author - 1: "[[Catherine Twomey Fosnot]]"
 author - 2: "[[Randall Stewart Perry]]"

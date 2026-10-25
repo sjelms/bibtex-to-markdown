@@ -1,5 +1,5 @@
 ---
-title: Taylorism -  An Enduring Influence
+title: Taylorism - An Enduring Influence
 year: 2013
 author - 1: "[[Peter H Sawchuk]]"
 key: "[[@Sawchuk2013-eu]]"

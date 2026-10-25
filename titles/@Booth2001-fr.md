@@ -1,5 +1,5 @@
 ---
-title: Trade Unions, Economic Behavior of
+title: Trade Unions, Economic Behavior Of
 year: 2001
 author - 1: "[[Alison L Booth]]"
 editor - 1: "[[Neil J Smelser]]"

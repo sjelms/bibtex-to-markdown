@@ -1,5 +1,5 @@
 ---
-title: Moving Beyond Tacit and Explicit -  Four Dimensions of Knowledge
+title: Moving Beyond Tacit And Explicit - Four Dimensions Of Knowledge
 year: 2005
 author - 1: "[[R Mitch Casselman]]"
 author - 2: "[[Daniel Samson]]"

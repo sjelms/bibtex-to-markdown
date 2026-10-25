@@ -1,5 +1,5 @@
 ---
-title: Factfulness -  The Ten Reason We're Wrong About the World - and Why Things Are Better Than You Think
+title: Factfulness - The Ten Reason We're Wrong About The World - And Why Things Are Better Than You Think
 year: 2018
 author - 1: "[[Hans Rosling]]"
 author - 2: "[[Ola Rosling]]"

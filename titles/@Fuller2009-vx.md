@@ -1,5 +1,5 @@
 ---
-title: Change and Continuity in Apprenticeship -  The Resilience of a Model of Learning
+title: Change And Continuity In Apprenticeship - The Resilience Of A Model Of Learning
 year: 2009
 author - 1: "[[Alison Fuller]]"
 author - 2: "[[Lorna Unwin]]"

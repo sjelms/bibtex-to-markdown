@@ -1,5 +1,5 @@
 ---
-title: Exploring the Relationship Between New Product Development, Concurrent Engineering, and Project Management to Improve Product Development
+title: Exploring The Relationship Between New Product Development, Concurrent Engineering, And Project Management To Improve Product Development
 year: 2007
 author - 1: "[[Adán López Miranda]]"
 key: "[[@Miranda2007-fx]]"

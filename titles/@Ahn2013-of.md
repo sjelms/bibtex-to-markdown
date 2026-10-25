@@ -1,5 +1,5 @@
 ---
-title: The Effect of Embodied Experiences on Self-Other Merging, Attitude, and Helping Behavior
+title: The Effect Of Embodied Experiences On Self-Other Merging, Attitude, And Helping Behavior
 year: 2013
 author - 1: "[[Sun Joo (grace) Ahn]]"
 author - 2: "[[Amanda Minh Tran Le]]"

@@ -1,5 +1,5 @@
 ---
-title: Measuring the employer's return on investments in training -  Evidence from the literature
+title: Measuring The Employer's Return On Investments In Training - Evidence From The Literature
 year: 2000
 author - 1: "[[Ann P Bartel]]"
 key: "[[@Bartel2000-kq]]"

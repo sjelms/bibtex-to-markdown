@@ -1,5 +1,5 @@
 ---
-title: Discourses on Professional Learning -  On the Boundary Between Learning and Working
+title: Discourses On Professional Learning - On The Boundary Between Learning And Working
 year: 2014
 author - 1: "[[Christian Harteis]]"
 author - 2: "[[Andreas Rausch]]"

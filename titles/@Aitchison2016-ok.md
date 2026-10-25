@@ -1,5 +1,5 @@
 ---
-title: The Architecture of Industry -  Changing Paradigms in Industrial Building and Planning
+title: The Architecture Of Industry - Changing Paradigms In Industrial Building And Planning
 year: 2016
 author - 1: "[[Mathew Aitchison]]"
 key: "[[@Aitchison2016-ok]]"

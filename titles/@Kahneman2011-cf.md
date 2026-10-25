@@ -1,5 +1,5 @@
 ---
-title: Thinking, Fast and Slow
+title: Thinking, Fast And Slow
 year: 2011
 author - 1: "[[Daniel Kahneman]]"
 key: "[[@Kahneman2011-cf]]"

@@ -1,5 +1,5 @@
 ---
-title: Will a robot take my job? | The Age of A.I. S1 • E6
+title: Will A Robot Take My Job? | The Age Of A.i. S1 • E6
 year: 2020
 author - 1: "[[YouTube Originals]]"
 key: "[[@YouTube_Originals2020-kd]]"

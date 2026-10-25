@@ -1,5 +1,5 @@
 ---
-title: Exercising to music
+title: Exercising To Music
 year: 2009
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Alison Fuller]]"

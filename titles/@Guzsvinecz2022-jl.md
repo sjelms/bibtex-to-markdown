@@ -1,5 +1,5 @@
 ---
-title: Investigation of Spatial Ability Test Completion Times in Virtual Reality Using a Desktop Display and the Gear VR
+title: Investigation Of Spatial Ability Test Completion Times In Virtual Reality Using A Desktop Display And The Gear VR
 year: 2022
 author - 1: "[[Tibor Guzsvinecz]]"
 author - 2: "[[Éva Orbán-Mihálykó]]"

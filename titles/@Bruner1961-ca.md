@@ -1,5 +1,5 @@
 ---
-title: The Act of Discovery
+title: The Act Of Discovery
 year: 1961
 author - 1: "[[Jerome S Bruner]]"
 key: "[[@Bruner1961-ca]]"

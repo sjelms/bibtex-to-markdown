@@ -1,5 +1,5 @@
 ---
-title: How to Know Whether and When to Use Case Studies as a Research Method
+title: How To Know Whether And When To Use Case Studies As A Research Method
 year: 2013
 author - 1: "[[Robert K Yin]]"
 key: "[[@Yin2013-ej]]"

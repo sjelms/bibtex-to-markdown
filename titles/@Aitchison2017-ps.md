@@ -1,5 +1,5 @@
 ---
-title: Prefabricated Housing in Architectural Culture
+title: Prefabricated Housing In Architectural Culture
 year: 2017
 author - 1: "[[Mathew Aitchison]]"
 author - 2: "[[John Macarthur]]"

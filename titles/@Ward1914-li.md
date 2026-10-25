@@ -1,5 +1,5 @@
 ---
-title: Pure Sociology -  A Treatise on the Origin and Spontaneous Development of Society
+title: Pure Sociology - A Treatise On The Origin And Spontaneous Development Of Society
 year: 1914
 author - 1: "[[Lester Frank Ward]]"
 key: "[[@Ward1914-li]]"

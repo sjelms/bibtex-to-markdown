@@ -1,5 +1,5 @@
 ---
-title: When Affordable Housing Starts in a Factory
+title: When Affordable Housing Starts In A Factory
 year: 2018
 author - 1: "[[Eric Jaffe]]"
 key: "[[@Jaffe2018-ou]]"

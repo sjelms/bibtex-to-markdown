@@ -1,5 +1,5 @@
 ---
-title: Engineering Applications of Artificial Intelligence
+title: Engineering Applications Of Artificial Intelligence
 year: 2018
 author - 1: "[[Ajith Abraham]]"
 editor - 1: "[[Ajith Abraham]]"

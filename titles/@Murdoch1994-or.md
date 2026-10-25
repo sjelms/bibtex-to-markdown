@@ -1,5 +1,5 @@
 ---
-title: Rural studies of power and the power of rural studies -  a reply to Philo
+title: Rural Studies Of Power And The Power Of Rural Studies - A Reply To Philo
 year: 1994
 author - 1: "[[Jonathan Murdoch]]"
 author - 2: "[[Andy C Pratt]]"

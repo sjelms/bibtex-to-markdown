@@ -1,5 +1,5 @@
 ---
-title: Organization adjustments, job training and productivity -  Evidence from Japanese automobile makers
+title: Organization Adjustments, Job Training And Productivity - Evidence From Japanese Automobile Makers
 year: 2013
 author - 1: "[[Kenn Ariga]]"
 author - 2: "[[Masako Kurosawa]]"

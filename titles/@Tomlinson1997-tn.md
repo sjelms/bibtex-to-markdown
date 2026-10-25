@@ -1,5 +1,5 @@
 ---
-title: Edward Lee Thorndike and John Dewey on the Science of Education
+title: Edward Lee Thorndike And John Dewey On The Science Of Education
 year: 1997
 author - 1: "[[Stephen Tomlinson]]"
 key: "[[@Tomlinson1997-tn]]"

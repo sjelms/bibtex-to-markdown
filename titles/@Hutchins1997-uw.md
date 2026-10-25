@@ -1,5 +1,5 @@
 ---
-title: Constructing meaning from space, gesture, and speech
+title: Constructing Meaning From Space, Gesture, And Speech
 year: 1997
 author - 1: "[[Edwin Hutchins]]"
 author - 2: "[[Leysia Palen]]"

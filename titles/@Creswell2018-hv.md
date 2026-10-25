@@ -1,5 +1,5 @@
 ---
-title: Research Design -  Qualitative, Quantitative, and Mixed Methods Approaches
+title: Research Design - Qualitative, Quantitative, And Mixed Methods Approaches
 year: 2018
 author - 1: "[[John W Creswell]]"
 author - 2: "[[J David Creswell]]"

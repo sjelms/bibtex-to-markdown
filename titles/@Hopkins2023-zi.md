@@ -1,5 +1,5 @@
 ---
-title: Reading Architecture -  A Visual Lexicon
+title: Reading Architecture - A Visual Lexicon
 year: 2023
 author - 1: "[[Owen Hopkins]]"
 key: "[[@Hopkins2023-zi]]"

@@ -1,5 +1,5 @@
 ---
-title: Configuration of platform architectures in construction
+title: Configuration Of Platform Architectures In Construction
 year: 2014
 author - 1: "[[Patrik Jensen]]"
 editor - 1: "[[Thomas Olofsson]]"

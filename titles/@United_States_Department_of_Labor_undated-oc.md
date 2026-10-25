@@ -1,5 +1,5 @@
 ---
-title: Worker Organizing Resource and Knowledge Center
+title: Worker Organizing Resource And Knowledge Center
 year: Unknown Year
 author - 1: "[[United States Department of Labor]]"
 key: "[[@United_States_Department_of_Labor_undated-oc]]"

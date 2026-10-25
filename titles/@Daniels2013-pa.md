@@ -1,5 +1,5 @@
 ---
-title: Activity Theory in Practice -  Promoting Learning Across Boundaries and Agencies
+title: Activity Theory In Practice - Promoting Learning Across Boundaries And Agencies
 year: 2013
 author - 1: "[[Harry Daniels]]"
 author - 2: "[[Anne Edwards]]"

@@ -1,5 +1,5 @@
 ---
-title: Youths’ perception of the construction industry -  An analysis at the elementary, middle, and high school levels
+title: Youths’ Perception Of The Construction Industry - An Analysis At The Elementary, Middle, And High School Levels
 year: 2011
 author - 1: "[[Shima N Clarke]]"
 author - 2: "[[Blake J Boyd]]"

@@ -1,5 +1,5 @@
 ---
-title: Comorbidity of ADHD and dyslexia
+title: Comorbidity Of ADHD And Dyslexia
 year: 2010
 author - 1: "[[Eva Germanò]]"
 author - 2: "[[Antonella Gagliano]]"

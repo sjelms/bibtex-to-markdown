@@ -1,5 +1,5 @@
 ---
-title: Boundary crossing and boundary objects
+title: Boundary Crossing And Boundary Objects
 year: 2011
 author - 1: "[[Sanne Akkerman]]"
 author - 2: "[[Arthur Bakker]]"

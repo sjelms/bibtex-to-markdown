@@ -1,5 +1,5 @@
 ---
-title: Pedagogy of Hope -  Reliving Pedagogy of the Oppressed
+title: Pedagogy Of Hope - Reliving Pedagogy Of The Oppressed
 year: 2014
 author - 1: "[[Paulo Freire]]"
 key: "[[@Freire2014-dj]]"

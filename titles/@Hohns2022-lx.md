@@ -1,5 +1,5 @@
 ---
-title: The social construction of vocational education - possibilities for change towards status improvement
+title: The Social Construction Of Vocational Education - Possibilities For Change Towards Status Improvement
 year: 2022
 author - 1: "[[Gabriela M Höhns]]"
 key: "[[@Hohns2022-lx]]"

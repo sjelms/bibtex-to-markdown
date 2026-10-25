@@ -1,5 +1,5 @@
 ---
-title: The Discovery of Grounded Theory -  Strategies for Qualitative Research
+title: The Discovery Of Grounded Theory - Strategies For Qualitative Research
 year: 1967
 author - 1: "[[Barney G Glaser]]"
 author - 2: "[[Anselm L Strauss]]"

@@ -1,5 +1,5 @@
 ---
-title: Product configuration in construction
+title: Product Configuration In Construction
 year: 2015
 author - 1: "[[Patrik Jensen]]"
 author - 2: "[[Helena Lidelöw]]"

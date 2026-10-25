@@ -1,5 +1,5 @@
 ---
-title: Performing identities at work -  evidence from contrasting sectors
+title: Performing Identities At Work - Evidence From Contrasting Sectors
 year: 2007
 author - 1: "[[Alan Felstead]]"
 author - 2: "[[Dan Bishop]]"

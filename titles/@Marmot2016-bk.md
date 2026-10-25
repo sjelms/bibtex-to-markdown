@@ -1,5 +1,5 @@
 ---
-title: The Health Gap -  The Challenge of an Unequal World
+title: The Health Gap - The Challenge Of An Unequal World
 year: 2016
 author - 1: "[[Michael G Marmot]]"
 key: "[[@Marmot2016-bk]]"

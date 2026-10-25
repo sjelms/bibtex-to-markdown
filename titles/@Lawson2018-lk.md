@@ -1,5 +1,5 @@
 ---
-title: The design student's journey -  Understanding how designers think
+title: The Design Student's Journey - Understanding How Designers Think
 year: 2018
 author - 1: "[[Bryan Lawson]]"
 key: "[[@Lawson2018-lk]]"

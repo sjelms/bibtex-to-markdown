@@ -1,5 +1,5 @@
 ---
-title: ChatGPT for the intellectual soul -  a Deweyan perspective on AI-based multicultural classroom praxis
+title: Chatgpt For The Intellectual Soul - A Deweyan Perspective On AI-Based Multicultural Classroom Praxis
 year: 2025
 author - 1: "[[Francis Ward]]"
 author - 2: "[[Jeasik Cho]]"

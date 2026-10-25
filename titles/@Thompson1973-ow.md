@@ -1,5 +1,5 @@
 ---
-title: Foundations of Vocational Education -  Social and Philosophical Concepts
+title: Foundations Of Vocational Education - Social And Philosophical Concepts
 year: 1973
 author - 1: "[[John F Thompson]]"
 key: "[[@Thompson1973-ow]]"

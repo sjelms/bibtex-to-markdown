@@ -1,5 +1,5 @@
 ---
-title: Off-Site and Modular Construction Explained
+title: Off-Site And Modular Construction Explained
 year: 2016
 author - 1: "[[Ryan E Smith]]"
 key: "[[@Smith2016-mk]]"

@@ -1,5 +1,5 @@
 ---
-title: Industrialized Construction -  The Blueprint to Disrupt and Transform the Construction Industry
+title: Industrialized Construction - The Blueprint To Disrupt And Transform The Construction Industry
 year: 2025
 author - 1: "[[Roland Sitzberger]]"
 author - 2: "[[Christian Bücker]]"

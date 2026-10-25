@@ -1,5 +1,5 @@
 ---
-title: The Practice Turn in Contemporary Theory
+title: The Practice Turn In Contemporary Theory
 year: 2001
 author - 1: "[[Theodore R Schatzki]]"
 author - 2: "[[Karin Knorr Cetina]]"

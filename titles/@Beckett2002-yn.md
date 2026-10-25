@@ -1,5 +1,5 @@
 ---
-title: Practical judgement -  The basis of embodied, situated practice
+title: Practical Judgement - The Basis Of Embodied, Situated Practice
 year: 2002
 author - 1: "[[David Beckett]]"
 author - 2: "[[Paul Hager]]"

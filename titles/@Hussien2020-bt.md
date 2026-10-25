@@ -1,5 +1,5 @@
 ---
-title: A Review of Mixed-reality Applications in Construction 4.0
+title: A Review Of Mixed-Reality Applications In Construction 4.0
 year: 2020
 author - 1: "[[Aseel Hussien]]"
 author - 2: "[[Atif Waraich]]"

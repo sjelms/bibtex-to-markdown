@@ -15,7 +15,7 @@ aliases:
 [[@Aitchison2016-ok|The Architecture Of Industry]]
 [[@Aitchison2017-ps|Prefabricated Housing In Architectural Culture]]
 [[@Aitchison2018-cw|Prefab Housing And The Future Of Building]]
-[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (bdfma)]]
+[[@Kuzmanovska2020-kw|Building Design For Manufacture And Assembly (Bdfma)]]
 [[@Maxwell2016-gw|Lessons From Sweden]]
 
 #### Bibliography:

@@ -1,5 +1,5 @@
 ---
-title: Design considerations for combining augmented reality with intelligent tutors
+title: Design Considerations For Combining Augmented Reality With Intelligent Tutors
 year: 2018
 author - 1: "[[Bradley Herbert]]"
 author - 2: "[[Barrett Ens]]"

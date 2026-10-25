@@ -1,5 +1,5 @@
 ---
-title: Towards digitizing the construction industry -  State of the art of construction 4.0
+title: Towards Digitizing The Construction Industry - State Of The Art Of Construction 4.0
 year: 2019
 author - 1: "[[Md Aslam Hossain]]"
 author - 2: "[[Abid Nadeem]]"

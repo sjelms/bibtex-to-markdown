@@ -1,5 +1,5 @@
 ---
-title: The Next Normal in Construction -  How Disruption is Reshaping the World’s Largest Ecosystem
+title: The Next Normal In Construction - How Disruption Is Reshaping The World’s Largest Ecosystem
 year: 2020
 author - 1: "[[Maria João Ribeirinho]]"
 author - 2: "[[Jan Mischke]]"

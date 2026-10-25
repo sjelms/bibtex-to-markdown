@@ -1,5 +1,5 @@
 ---
-title: Tales of the Field -  On Writing Ethnography
+title: Tales Of The Field - On Writing Ethnography
 year: 2011
 author - 1: "[[John Van Maanen]]"
 key: "[[@Van-Maanen2011-bf]]"

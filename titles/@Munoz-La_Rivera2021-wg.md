@@ -1,5 +1,5 @@
 ---
-title: Methodological-Technological Framework for Construction 4.0
+title: Methodological-Technological Framework For Construction 4.0
 year: 2021
 author - 1: "[[F Muñoz-La Rivera]]"
 author - 2: "[[J Mora-Serrano]]"
