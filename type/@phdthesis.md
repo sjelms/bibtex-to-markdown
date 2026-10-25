@@ -1,6 +1,6 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-10-25T08:20:44
+amended: 2026-10-25T08:55:57
 ---
 
 # Directory

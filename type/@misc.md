@@ -1,11 +1,12 @@
 ---
 type: "[[@misc]]"
-amended: 2026-10-25T08:20:44
+amended: 2026-10-25T08:55:57
 ---
 
 # Directory
 ## 2020-2029
 ### 2026
+- [[@McWhinnie2026-cy|Need Help! Writing A Paper Title? All You Need Is The Beatles]]
 - [[@Harper2026-ko|Britain’s Building Standards Are Now So Bad, Even The Super-Rich Are Facing Housing Misery]]
 ### 2025
 - [[@Mahamadu2025-go|BCPM0088 - Integration, Modularisation, And Platforms]]
