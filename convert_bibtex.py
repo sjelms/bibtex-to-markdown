@@ -166,10 +166,13 @@ def to_title_case(text: str) -> str:
         # Example matches: "UK", "AI", "CAI", "3D", "UK's", "UK's", and with surrounding punctuation like "(AI)" or "AI,".
         if re.match(r"^[^A-Za-z0-9]*[A-Z0-9]{2,}(?:['']s)?[^A-Za-z0-9]*$", word):
             return word  # keep as-is
-        # Otherwise, title case from first alphabetic character
+        # Otherwise, title case from first non-punctuation character
         for i, char in enumerate(word):
-            if char.isalpha():
-                return word[:i] + char.upper() + word[i + 1:].lower()
+            if char.isalnum():
+                if char.isalpha():
+                    return word[:i] + char.upper() + word[i + 1:].lower()
+                # Preserve words that begin with digits, such as ordinal forms (e.g., 21st)
+                return word
         return word
 
     words = re.split(r"\s+", text.strip())
