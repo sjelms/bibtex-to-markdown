@@ -166,8 +166,11 @@ def to_title_case(text: str) -> str:
         # Example matches: "UK", "AI", "CAI", "3D", "UK's", "UK's", and with surrounding punctuation like "(AI)" or "AI,".
         if re.match(r"^[^A-Za-z0-9]*[A-Z0-9]{2,}(?:['']s)?[^A-Za-z0-9]*$", word):
             return word  # keep as-is
-        # Otherwise, simple title case for the token
-        return word[0].upper() + word[1:].lower()
+        # Otherwise, title case from the first alphabetic character
+        for i, char in enumerate(word):
+            if char.isalpha():
+                return word[:i] + char.upper() + word[i + 1:].lower()
+        return word
 
     words = re.split(r"\s+", text.strip())
     result = []
@@ -190,16 +193,8 @@ def extract_title_aliases(raw_title: str) -> list:
     """Return list of aliases: [Full Title Case, Optional Short Title Case]"""
     if not raw_title:
         return []
-    # Clean braces but keep punctuation; we don't want YAML-specific replacements
-    t = raw_title.strip()
-    t = re.sub(r"\{(.*?)\}", r"\1", t)
-    t = t.replace("\n", " ")
-    # Normalize multi-spaces
-    t = re.sub(r"\s+", " ", t)
-
-    # Build full alias (convert ":" to " - " for nicer display consistency)
-    full_disp = t.replace(":", " - ")
-    full_tc = to_title_case(full_disp)
+    t = clean_text(raw_title, is_yaml=True)
+    full_tc = to_title_case(t)
 
     short_tc = None
     # Prefer split on spaced dash, then colon
@@ -370,7 +365,8 @@ for key, entry in bib_data.entries.items():
         continue
 
     raw_title_value = latex_to_unicode(get_field(fields, "title", "maintitle") or "Untitled")
-    title = clean_text(raw_title_value, is_yaml=True)
+    title_aliases = extract_title_aliases(raw_title_value)
+    title = title_aliases[0] if title_aliases else ""
     raw_booktitle_value = latex_to_unicode(get_field(fields, "booktitle"))
     booktitle = clean_text(raw_booktitle_value, is_yaml=True) if raw_booktitle_value else ""
     iso_date = get_iso_date(fields)
@@ -444,8 +440,6 @@ for key, entry in bib_data.entries.items():
         url or "",
     )
 
-    # Build title aliases for citation YAML
-    title_aliases = extract_title_aliases(raw_title_value)
     # Choose display alias for author MOC: prefer short if present
     display_alias = title_aliases[1] if len(title_aliases) > 1 else (title_aliases[0] if title_aliases else title)
 
