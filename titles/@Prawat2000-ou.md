@@ -1,11 +1,11 @@
 ---
-title: Dewey Meets the "Mozart of Psychology" in Moscow -  The Untold Story
+title: Dewey Meets The "Mozart Of Psychology" In Moscow - The Untold Story
 year: 2000
 author - 1: "[[Richard S Prawat]]"
 key: "[[@Prawat2000-ou]]"
 aliases:
-  - Dewey Meets The "mozart Of Psychology" In Moscow - The Untold Story
-  - Dewey Meets The "mozart Of Psychology" In Moscow
+  - Dewey Meets The "Mozart Of Psychology" In Moscow - The Untold Story
+  - Dewey Meets The "Mozart Of Psychology" In Moscow
 journal: "[[American Educational Research Journal]]"
 publisher: "[[SAGE Publications]]"
 volume: 37
