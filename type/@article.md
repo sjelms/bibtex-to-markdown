@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-21T08:57:40
+amended: 2026-10-25T07:25:32
 ---
 
 # Directory
@@ -428,6 +428,7 @@ amended: 2026-10-21T08:57:40
 - [[@Spencer2000-cu|Braverman And The Contribution Of Labour Process Analysis To The Critique Of Capitalist Production - Twenty-Five Years On]]
 - [[@Burkholder2000-xi|A Behavioral Interpretation Of Vygotsky's Theory Of Thought, Language, And Culture]]
 - [[@Eraut2000-hu|Non‐formal Learning And Tacit Knowledge In Professional Work]]
+- [[@Prawat2000-ou|Dewey Meets The "mozart Of Psychology" In Moscow - The Untold Story]]
 - [[@Sorby2000-fd|The Development And Assessment Of A Course For Enhancing The 3-D Spatial Visualization Skills Of First Year Engineering Students]]
 - [[@Gherardi2000-cg|Practice-Based Theorizing On Learning And Knowing In Organizations]]
 ## 1990-1999
