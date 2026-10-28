@@ -10,6 +10,7 @@ aliases:
 ## Peter H Sawchuk
 
 ### Content:
+[[@Hennessy2003-ol|Worker Responses To Technological Change In The Canadian Public Sector]]
 [[@Sawchuk2006-od|‘Use-Value’ And The Re-Thinking Of Skills, Learning And The Labour Process]]
 [[@Sawchuk2012-xo|Divergent Working And Learning Trajectories In Social Services]]
 [[@Sawchuk2013-ax|Mind In Political Economy And The Labour Process]]
@@ -30,6 +31,8 @@ aliases:
 [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]
 
 #### Bibliography:
+
+![[@Hennessy2003-ol]]
 
 ![[@Sawchuk2006-od]]
 

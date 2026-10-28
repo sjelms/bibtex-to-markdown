@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-10-25T10:44:59
+amended: 2026-10-28T06:15:43
 ---
 
 # Directory
@@ -401,6 +401,7 @@ amended: 2026-10-25T10:44:59
 - [[@Gallie2003-tj|Skill, Task Discretion, And New Technology - Trends In Britain, 1986-2001]]
 - [[@Thompson2003-ko|Disconnected Capitalism - Or Why Employers Can't Keep Their Side Of The Bargain]]
 - [[@Billett2003-kh|Vocational Curriculum And Pedagogy - An Activity Theory Perspective]]
+- [[@Hennessy2003-ol|Worker Responses To Technological Change In The Canadian Public Sector - Issues Of Learning And Labour Process]]
 ### 2002
 - [[@Moodie2002-nc|Identifying Vocational Education And Training]]
 - [[@Farber2002-uc|Ronald Reagan And The Politics Of Declining Union Organization]]

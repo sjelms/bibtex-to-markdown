@@ -28,6 +28,7 @@ category:
 [[@Ginigaddara2022-mh|An Evaluation Of Offsite Construction Skill Profiles]]
 [[@Ginigaddara2022-or|Offsite Construction Skills Evolution]]
 [[@Ginigaddara2025-kw|A Critical Review Of Quantity Surveying Education In An Offsite Construction Perspective]]
+[[@Hennessy2003-ol|Worker Responses To Technological Change In The Canadian Public Sector]]
 [[@Kauppinen2024-gv|Systematic Literature Review Of Themes And Definitions Of Industrialized Construction]]
 [[@King_Chun2012-rk|The Use Of Virtual Prototyping For Hazard Identification In The Early Design Stage]]
 [[@Lahiff2019-dw|Industrial Standardisation As A Driver For Cross-National Convergence In Training Processes]]
