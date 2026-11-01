@@ -1,10 +1,12 @@
 ---
 type: "[[@phdthesis]]"
-amended: 2026-11-01T10:11:01
+amended: 2026-11-01T15:45:17
 ---
 
 # Directory
 ## 2020-2029
+### 2024
+- [[@Kulakov2024-zr|An Empirical Study Of The UK Construction Industry Fragmentation, Productivity, And Performance]]
 ### 2023
 - [[@Tan2023-dm|Integrated Approaches To Digital-Enabled Design For Manufacture And Assembly - A Modularity Perspective And Case Study Of Huoshenshan Hospital In Wuhan, China]]
 ### 2022
