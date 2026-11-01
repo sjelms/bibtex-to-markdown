@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-11-01T10:09:17
+amended: 2026-11-01T10:11:01
 ---
 
 # Directory
@@ -190,6 +190,7 @@ amended: 2026-11-01T10:09:17
 - [[@Billett2012-xz|Explaining Innovation At Work - A Socio-Personal Account]]
 - [[@Lewis2012-iu|Tacit Knowledge And The Labour Process]]
 ### 2011
+- [[@Winch2011-uh|Skill – A Concept Manufactured In England?]]
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
 - [[@Acemoglu2011-xz|Skills, Tasks And Technologies - Implications For Employment And Earnings]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]

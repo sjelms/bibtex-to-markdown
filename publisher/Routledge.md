@@ -169,6 +169,7 @@ category:
 [[@Virolainen2011-nn|The Views Of Employers On Internships As A Means Of Learning From Work Experience In Higher Education]]
 [[@Wallance2021-so|The Future Of Modular Architecture]]
 [[@Wallbank2018-dj|Academic Writing And Dyslexia]]
+[[@Winch2011-uh|Skill – A Concept Manufactured In England?]]
 [[@Young2004-fs|Conceptualizing Vocational Knowledge]]
 [[@Young2007-eo|Bringing Knowledge Back In]]
 [[@Yunusa-Kaltungo2023-gv|Risk Modelling Techniques For Occupational Safety And Health Management In Construction]]
