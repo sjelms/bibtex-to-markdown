@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-10-28T06:15:43
+amended: 2026-11-01T08:20:18
 ---
 
 # Directory
@@ -86,8 +86,8 @@ amended: 2026-10-28T06:15:43
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]
 - [[@Martin2017-cv|Skill Builders And The Evolution Of National Vocational Training Systems]]
 - [[@Bundgaard2017-am|Constructing Dialogues - On Architectural Potentials Of Montage]]
-- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Warhurst2017-dx|A New Social Construction Of Skill]]
+- [[@Warhurst2017-dt|A New Social Construction Of Skill]]
 - [[@Dede2017-ny|Introduction - Virtual, Augmented, And Mixed Realities In Education]]
 - [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 - [[@Stanley2017-xe|Accreditation And Assessment In Vocational Education And Training]]
@@ -193,6 +193,7 @@ amended: 2026-10-28T06:15:43
 - [[@Russ-Eft2011-xj|Towards A Meta-Theory Of Learning And Performance]]
 - [[@Acemoglu2011-xz|Skills, Tasks And Technologies - Implications For Employment And Earnings]]
 - [[@Rebolledo-Mendez2011-mg|Designing Adaptive Motivational Scaffolding For A Tutoring System]]
+- [[@Clarke2011-aq|Trade? Job? Or Occupation? The Development Of Occupational Labour Markets For Bricklaying And Lorry Driving]]
 ### 2010
 - [[@Guile2010-oq|Afterword]]
 - [[@Guile2010-oc|Developing The Mediated Basis Of Learning]]
@@ -262,8 +263,8 @@ amended: 2026-10-28T06:15:43
 ### 2002
 - [[@Beckett2002-tx|Conceptualising Practice In Postmodernity]]
 - [[@Beckett2002-tv|Holism/organicism - Epistemological Implications Of Practice-Based Learning At Work]]
-- [[@Beckett2002-ya|Introduction - Celebrating The Swamp]]
 - [[@Beckett2002-kr|Introduction - Life In The Swamp]]
+- [[@Beckett2002-ya|Introduction - Celebrating The Swamp]]
 - [[@Beckett2002-va|Know How - Practice At Close Quarters]]
 - [[@Beckett2002-ks|Know How And Judgement In Postmodernity]]
 - [[@Beckett2002-oz|Policies And Context - The Socio-Cultural Shaping Of Practice]]

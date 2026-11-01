@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-10-28T06:15:43
+amended: 2026-11-01T08:20:18
 ---
 
 # Directory
@@ -279,6 +279,7 @@ amended: 2026-10-28T06:15:43
 - [[@Van-Maanen2011-bf|Tales Of The Field - On Writing Ethnography]]
 - [[@Williams2011-ov|Completing Your Phd]]
 - [[@Malloch2011-nf|The SAGE Handbook Of Workplace Learning]]
+- [[@Brockmann2011-xs|Knowledge, Skills, And Competence In The European Labour Market - What’s In A Vocational Qualification?]]
 - [[@Denzin2011-xr|The SAGE Handbook Of Qualitative Research]]
 - [[@Feynman2011-tz|Six Easy Pieces - Essentials Of Physics Explained By Its Most Brilliant Teacher]]
 - [[@Emerson2011-ms|Writing Ethnographic Fieldnotes]]
