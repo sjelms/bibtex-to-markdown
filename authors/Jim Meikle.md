@@ -10,14 +10,14 @@ aliases:
 ## Jim Meikle
 
 ### Content:
+[[@Best2002-kk|Describing Construction]]
 [[@Best2019-bw|Accounting For Construction]]
 [[@Best2020-cj|Measuring Construction]]
-[[@Meikle2002-ve|Describing Construction]]
 
 #### Bibliography:
+
+![[@Best2002-kk]]
 
 ![[@Best2019-bw]]
 
 ![[@Best2020-cj]]
-
-![[@Meikle2002-ve]]

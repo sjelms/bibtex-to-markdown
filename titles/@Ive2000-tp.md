@@ -19,6 +19,7 @@ tags:
   - Economics
   - git-lit
   - Labor
+  - EoC
 ---
 
 > [!bibliography]

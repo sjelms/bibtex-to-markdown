@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-01T15:45:17
+amended: 2026-11-02T16:51:52
 ---
 
 # Directory
@@ -337,7 +337,7 @@ amended: 2026-11-01T15:45:17
 ### 2002
 - [[@Beckett2002-tf|Life, Work And Learning - Practice In Postmodernity]]
 - [[@Hitchcock2002-ov|Research And The Teacher - A Qualitative Introduction To School-Based Research]]
-- [[@Meikle2002-ve|Describing Construction - Industries, Projects, And Firms]]
+- [[@Best2002-kk|Describing Construction - Industries, Projects, And Firms]]
 ### 2001
 - [[@Ehrenreich2001-wn|Nickel And Dimed - On (Not) Getting By In America]]
 - [[@OECD2001-sp|Education Policy Analysis 2001]]

@@ -22,6 +22,7 @@ tags:
   - ePub
   - Book-parent
   - git-lit
+  - EoC
 ---
 
 > [!bibliography]
