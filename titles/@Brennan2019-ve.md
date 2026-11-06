@@ -14,6 +14,7 @@ tags:
   - _BibTex-to-MD-Git
   - llm-wiki-workflow
   - Thesis-Writing
+  - EoC-Writing
   - PhD-Support-and-Training
   - _New-Literature
   - git-lit

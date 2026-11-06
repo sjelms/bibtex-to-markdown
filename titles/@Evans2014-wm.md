@@ -17,6 +17,7 @@ tags:
   - llm-wiki-workflow
   - Marx_Labor
   - Thesis-Writing
+  - EoC-Writing
   - PhD-Support-and-Training
   - ePub
   - git-lit

@@ -13,6 +13,7 @@ tags:
   - PhD-Study-and-Support
   - Thesis-Writing
   - _BibTex-to-MD-Git
+  - EoC-Writing
   - PhD-Support-and-Training
   - git-lit
 ---

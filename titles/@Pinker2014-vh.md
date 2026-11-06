@@ -9,6 +9,7 @@ type: "[[@misc]]"
 tags:
   - _BibTex-to-MD-Git
   - Thesis-Writing
+  - EoC-Writing
   - _New-Literature
   - PhD-Support-and-Training
   - git-lit
