@@ -24,4 +24,4 @@ tags:
 ---
 
 > [!bibliography]
-> Wallbank, Adrian J. 2018. "Academic writing and dyslexia: A visual guide to writing at university." [[Routledge]]. https://openlibrary.org/books/OL37308376M.opds
+> Wallbank, Adrian J. 2018. "Academic writing and dyslexia: A visual guide to writing at university." [[Routledge]]. https://doi.org/10.4324/9781003190189
