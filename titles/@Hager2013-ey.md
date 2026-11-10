@@ -23,7 +23,6 @@ tags:
   - 003_Theoretical-Framework
   - Marx_Labor
   - Rowland
-  - _New-Literature
   - Workplace-Learning
   - ePub
   - Important
