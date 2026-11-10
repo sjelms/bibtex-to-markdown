@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-11-10T07:14:52
+amended: 2026-11-10T07:51:07
 ---
 
 # Directory
@@ -127,6 +127,7 @@ amended: 2026-11-10T07:14:52
 - [[@Georgiou2021-hp|Learning Experience Design With Immersive Virtual Reality In Physics Education]]
 ### 2020
 - [[@Felder2020-sy|Restrictive And Expansive Participation In Companies’ Activities - A Case Study Of Bricklaying And Automation Technology Apprentices In Switzerland]]
+- [[@Sylte2020-oo|Predicting The Future Competence Needs In Working Life - Didactical Implications For VET]]
 - [[@Lippert2020-ei|Multiple Agent Designs In Conversational Intelligent Tutoring Systems]]
 - [[@Akomah2020-mu|Skilled Labour Shortage In The Building Construction Industry Within The Central Region]]
 - [[@Bishop2020-ox|Firm Size And Workplace Learning Processes - A Study Of The Restaurant Sector]]

@@ -11,4 +11,5 @@ category:
 
 ### Content:
 [[@Lensjo2020-mv|Stories Of Learning]]
+[[@Sylte2020-oo|Predicting The Future Competence Needs In Working Life]]
 [[@Wang2022-gx|Workplace Learning In China]]
