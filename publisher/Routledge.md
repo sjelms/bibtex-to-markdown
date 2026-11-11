@@ -47,6 +47,7 @@ category:
 [[@Bishop2009-co|Constructing Learning]]
 [[@Brockmann2011-xs|Knowledge, Skills, And Competence In The European Labour Market]]
 [[@Brown2004-oo|Supporting Learning In Advanced Supply Systems In The Automotive And Aerospace Industries]]
+[[@Bryan2025-bs|Key Thinkers In Industrial And Organizational Psychology]]
 [[@Bundgaard2017-am|Constructing Dialogues]]
 [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
 [[@Casey1995-nc|Work, Self And Society]]

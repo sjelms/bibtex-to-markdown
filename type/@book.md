@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-11T10:39:07
+amended: 2026-11-11T15:25:37
 ---
 
 # Directory
@@ -16,6 +16,7 @@ amended: 2026-11-11T10:39:07
 - [[@Ching2025-iy|Building Construction Illustrated]]
 - [[@Cottam2025-sr|The Work We Need - A 21st Century Imagining]]
 - [[@Stiglitz2025-re|The Origins Of Inequality And Policies To Contain It]]
+- [[@Bryan2025-bs|Key Thinkers In Industrial And Organizational Psychology]]
 - [[@Abraham2025-or|The Digitalist Papers - The Economics Of Transformative AI]]
 - [[@Thompson2025-tf|Automation And Manufacturing For The Built Environment]]
 ### 2024
