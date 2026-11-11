@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-11T15:53:53
+amended: 2026-11-11T16:11:17
 ---
 
 # Directory
@@ -503,6 +503,7 @@ amended: 2026-11-11T15:53:53
 - [[@Dewey1916-uh|Democracy And Education - An Introduction To The Philosophy Of Education]]
 ### 1914
 - [[@Ward1914-li|Pure Sociology - A Treatise On The Origin And Spontaneous Development Of Society]]
+- [[@Gilbreth1914-qc|The Psychology Of Management - The Function Of The Mind In Determining, Teaching And Installing Methods Of Least Waste]]
 ### 1913
 - [[@Thorndike1913-et|Education Psychology, Vol 1 - The Original Nature Of Man]]
 - [[@Thorndike1913-kp|Education Psychology, Vol 2 - The Psychology Of Learning]]
