@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-11T07:49:20
+amended: 2026-11-11T10:39:07
 ---
 
 # Directory
@@ -456,6 +456,7 @@ amended: 2026-11-11T07:49:20
 - [[@Glaser1967-cp|The Discovery Of Grounded Theory - Strategies For Qualitative Research]]
 ### 1966
 - [[@Polanyi1966-zb|The Tacit Dimension]]
+- [[@Baran1966-xx|Monopoly Capital - An Essay On The American Economic And Social Order]]
 ## 1950-1959
 ### 1957
 - [[@Skinner1957-xf|Verbal Behavior]]
