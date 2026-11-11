@@ -114,6 +114,7 @@ category:
 [[@Kamler2014-sz|Helping Doctoral Students Write]]
 [[@Kay-Shuttleworth1832-ko|The Moral And Physical Condition Of The Working Classes Employed In The Cotton Manufacture Of Manchester]]
 [[@Knorr-Cetina2001-dh|Objectual Practice]]
+[[@Koppes-Bryan2025-st|Lillian Evelyn Moller Gilbreth (1878–1972)]]
 [[@Ku2017-ez|A Case Study Of Multi-Trade Near-Site Factory Assembly]]
 [[@Lambert2019-qv|Practical Research Methods In Education]]
 [[@Lave1996-oh|Teaching, As Learning, In Practice]]
