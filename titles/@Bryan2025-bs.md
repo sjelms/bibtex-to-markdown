@@ -11,7 +11,6 @@ aliases:
 publisher: "[[Routledge]]"
 type: "[[@book]]"
 tags:
-  - RCPSP_Takt_Taylorism
   - EPubs-Books
   - _BibTex-to-MD-Git
   - Key-Thinkers_I-O
