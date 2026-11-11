@@ -16,6 +16,7 @@ type: "[[@book]]"
 tags:
   - EPubs-Books
   - _BibTex-to-MD-Git
+  - Knowledge-Skills-Competence
   - Book-parent
   - Knowledge-Skill-Acquisition
   - Skill-demand

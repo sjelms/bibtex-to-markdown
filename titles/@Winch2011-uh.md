@@ -13,6 +13,7 @@ publisher: "[[Routledge]]"
 type: "[[@inbook]]"
 tags:
   - _BibTex-to-MD-Git
+  - Knowledge-Skills-Competence
   - Book-child
   - ePub
   - Knowledge-Skill-Acquisition
