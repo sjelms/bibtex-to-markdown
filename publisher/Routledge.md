@@ -50,6 +50,7 @@ category:
 [[@Bryan2025-bs|Key Thinkers In Industrial And Organizational Psychology]]
 [[@Bundgaard2017-am|Constructing Dialogues]]
 [[@Buntrock2017-pm|Prefabricated Housing In Japan]]
+[[@Burch2025-dg|Walter Van Dyke Bingham (1880–1952)]]
 [[@Carter2025-hm|Hugo Münsterberg (1863–1916)]]
 [[@Casey1995-nc|Work, Self And Society]]
 [[@Chong2013-nz|The ‘Russian Doll’ Approach]]

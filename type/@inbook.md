@@ -1,12 +1,13 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-11-11T15:44:34
+amended: 2026-11-11T15:46:32
 ---
 
 # Directory
 ## 2020-2029
 ### 2025
 - [[@Shoenfelt2025-op|Frederick Winslow Taylor (1856–1915)]]
+- [[@Burch2025-dg|Walter Van Dyke Bingham (1880–1952)]]
 - [[@Carter2025-hm|Hugo Münsterberg (1863–1916)]]
 ### 2024
 - [[@Fuller2024-wq|Context, Characteristics And Capacity - The 3 Cs For Understanding And Improving Workplace Learning]]
