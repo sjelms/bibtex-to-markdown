@@ -14,7 +14,7 @@ tags:
   - Psychology
   - Economics
   - git-lit
-  - Reader_Obsidian
+  - ePub
 ---
 
 > [!bibliography]
