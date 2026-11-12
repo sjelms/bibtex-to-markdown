@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-11T16:59:54
+amended: 2026-11-12T07:37:59
 ---
 
 # Directory
@@ -507,6 +507,8 @@ amended: 2026-11-11T16:59:54
 ### 1913
 - [[@Thorndike1913-et|Education Psychology, Vol 1 - The Original Nature Of Man]]
 - [[@Thorndike1913-kp|Education Psychology, Vol 2 - The Psychology Of Learning]]
+### 1912
+- [[@Munsterberg1912-yz|Psychology And Economic Life - A Contribution To Applied Experimental Psychology]]
 ### 1911
 - [[@Taylor1911-mi|The Principles Of Scientific Management]]
 ## 1900-1909
