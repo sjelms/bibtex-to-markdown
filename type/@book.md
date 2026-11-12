@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-12T07:41:56
+amended: 2026-11-12T08:08:04
 ---
 
 # Directory
@@ -487,6 +487,7 @@ amended: 2026-11-12T07:41:56
 - [[@Dewey1927-hm|The Public And Its Problems - An Essay In Political Inquiry]]
 ### 1926
 - [[@Lindeman1926-ln|The Meaning Of Adult Education]]
+- [[@Burtt1926-ns|Principles Of Employment Psychology]]
 - [[@Keynes1926-ee|The End Of Laissez-Faire - The Economic Consequences Of The Peace]]
 ### 1923
 - [[@Ogden1923-iw|The Meaning Of Meaning - A Study Of The Influence Of Language Upon Thought And Of The Science Of Symbolism]]
