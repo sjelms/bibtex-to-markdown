@@ -21,6 +21,7 @@ category:
 [[@Billett2006-hp|Constituting The Workplace Curriculum]]
 [[@Billett2006-rh|Relational Interdependence Between Social And Individual Agency In Work And Working Life]]
 [[@Boreham2002-at|Work Process Knowledge, Curriculum Control And The Work-Based Route To Vocational Qualifications]]
+[[@Brockmann2008-fs|Knowledge, Skills, Competence]]
 [[@Brockmann2023-od|‘Invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
 [[@Clarke2005-fc|From Craft To Qualified Building Labour In Britain]]

@@ -10,6 +10,7 @@ aliases:
 ## Michaela Brockmann
 
 ### Content:
+[[@Brockmann2008-fs|Knowledge, Skills, Competence]]
 [[@Brockmann2011-xs|Knowledge, Skills, And Competence In The European Labour Market]]
 [[@Brockmann2020-sf|On-The-Job Training In Apprenticeship In England]]
 [[@Brockmann2021-ls|On- And Off-The-Job Training In Apprenticeships In England]]
@@ -18,6 +19,8 @@ aliases:
 [[@Winch2011-uh|Skill – A Concept Manufactured In England?]]
 
 #### Bibliography:
+
+![[@Brockmann2008-fs]]
 
 ![[@Brockmann2011-xs]]
 

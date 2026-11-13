@@ -11,6 +11,7 @@ aliases:
 
 ### Content:
 [[@Addis2018-be|Education And Expertise]]
+[[@Brockmann2008-fs|Knowledge, Skills, Competence]]
 [[@Brockmann2011-xs|Knowledge, Skills, And Competence In The European Labour Market]]
 [[@Clarke2011-aq|Trade? Job? Or Occupation? The Development Of Occupational Labour Markets For Bricklaying And Lorry Driving]]
 [[@Winch2011-uh|Skill – A Concept Manufactured In England?]]
@@ -19,6 +20,8 @@ aliases:
 #### Bibliography:
 
 ![[@Addis2018-be]]
+
+![[@Brockmann2008-fs]]
 
 ![[@Brockmann2011-xs]]
 

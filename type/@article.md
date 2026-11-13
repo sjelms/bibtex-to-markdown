@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-11-13T12:29:39
+amended: 2026-11-13T12:55:05
 ---
 
 # Directory
@@ -339,6 +339,7 @@ amended: 2026-11-13T12:29:39
 - [[@Bishop2008-wj|Ensuring The Effectiveness Of A Knowledge Management Initiative]]
 - [[@Bailenson2008-ye|The Use Of Immersive Virtual Reality In The Learning Sciences - Digital Transformations Of Teachers, Students, And Social Context]]
 - [[@Unwin2008-pi|Exploring The Dangers And Benefits Of The Uk’s Permissive Competence-Based Approach - The Use Of Vocational Qualifications As Learning Artefacts And Tools For Measurement In The Automotive Sector]]
+- [[@Brockmann2008-fs|Knowledge, Skills, Competence - European Divergences In Vocational Education And Training (VET)—The English, German And Dutch Cases]]
 - [[@Tynjala2008-ct|Perspectives Into Learning At The Workplace]]
 - [[@Luckin2008-bd|The Learner Centric Ecology Of Resources - A Framework For Using Technology To Scaffold Learning]]
 - [[@Han2008-cd|Critical Issues And Possible Solutions For Motivating Foreign Construction Workers]]
