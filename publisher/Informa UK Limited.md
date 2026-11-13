@@ -23,6 +23,7 @@ category:
 [[@Boreham2002-at|Work Process Knowledge, Curriculum Control And The Work-Based Route To Vocational Qualifications]]
 [[@Brockmann2023-od|‘Invested’ Partnerships As Key To High Quality Apprenticeship Programmes As Evidenced In On And Off The Job Training]]
 [[@Cattaneo2019-ax|A Model For Designing Hypervideo-Based Instructional Scenarios]]
+[[@Clarke2005-fc|From Craft To Qualified Building Labour In Britain]]
 [[@Coovadia2008-lw|A Brief History Of Pin-Making]]
 [[@Danermark2023-ve|Applying Critical Realism In An Interdisciplinary Context]]
 [[@Elkjaer2003-sk|Organizational Learning With A Pragmatic Slant]]

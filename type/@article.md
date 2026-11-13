@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-11-12T08:08:04
+amended: 2026-11-13T12:29:39
 ---
 
 # Directory
@@ -379,6 +379,7 @@ amended: 2026-11-12T08:08:04
 - [[@Barlow2005-mk|Building Mass Customised Housing Through Innovation In The Production System - Lessons From Japan]]
 - [[@Charmaz2005-yn|Grounded Theory In The 21st Century - Applications For Advancing Social Justice Studies]]
 - [[@Bernold2005-nu|Paradigm Shift In Construction Education Is Vital For The Future Of Our Profession]]
+- [[@Clarke2005-fc|From Craft To Qualified Building Labour In Britain - A Comparative Approach]]
 - [[@Glover2005-ke|Registered Apprenticeship Training In The US Construction Industry]]
 - [[@Lajoie2005-xt|Extending The Scaffolding Metaphor]]
 - [[@Friesner2005-io|Learning Logs - Assessment Or Research Method?]]
