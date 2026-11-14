@@ -1,6 +1,6 @@
 ---
 author: "Linda Clarke"
-institution:
+institution: "[[Joseph Rowntree Foundation]]"
 field:
 type:
 aliases:
@@ -12,6 +12,7 @@ aliases:
 ### Content:
 [[@Brockmann2008-fs|Knowledge, Skills, Competence]]
 [[@Brockmann2011-xs|Knowledge, Skills, And Competence In The European Labour Market]]
+[[@Clarke1996-vq|Skills And The Construction Process]]
 [[@Clarke2005-fc|From Craft To Qualified Building Labour In Britain]]
 [[@Clarke2011-aq|Trade? Job? Or Occupation? The Development Of Occupational Labour Markets For Bricklaying And Lorry Driving]]
 [[@Winch2011-uh|Skill – A Concept Manufactured In England?]]
@@ -21,6 +22,8 @@ aliases:
 ![[@Brockmann2008-fs]]
 
 ![[@Brockmann2011-xs]]
+
+![[@Clarke1996-vq]]
 
 ![[@Clarke2005-fc]]
 

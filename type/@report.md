@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-11-13T12:55:05
+amended: 2026-11-14T12:39:13
 ---
 
 # Directory
@@ -132,3 +132,5 @@ amended: 2026-11-13T12:55:05
 ### 1998
 - [[@CEDEFOP1998-op|Vocational Education And Training - The European Research Field]]
 - [[@Gott1998-ww|Rediscovering Learning - Acquiring Expertise In Real World Problem Solving Tasks]]
+### 1996
+- [[@Clarke1996-vq|Skills And The Construction Process - A Comparative Study Of Vocational Education And Quality In Social Housebuilding]]
