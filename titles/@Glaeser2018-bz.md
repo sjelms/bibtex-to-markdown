@@ -12,8 +12,10 @@ volume: 32
 type: "[[@article]]"
 tags:
   - _BibTex-to-MD-Git
+  - RLW-6
   - Economics
   - git-lit
+  - EoC-Essential
 ---
 
 > [!bibliography]
