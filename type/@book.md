@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-14T12:39:13
+amended: 2026-11-15T07:35:16
 ---
 
 # Directory
@@ -514,6 +514,7 @@ amended: 2026-11-14T12:39:13
 - [[@Taylor1911-mi|The Principles Of Scientific Management]]
 ## 1900-1909
 ### 1909
+- [[@Gilbreth1909-ix|Bricklaying System]]
 - [[@Marx1909-jx|Capital - A Critique Of Political Economy; The Process Of Capitalist Production As A Whole]]
 ### 1907
 - [[@Marx1907-rf|Capital - A Critique Of Political Economy; The Process Of Circulation Of Capital]]
