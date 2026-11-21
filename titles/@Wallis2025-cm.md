@@ -17,6 +17,7 @@ tags:
   - Labor
   - Knowledge-Skill-Acquisition
   - Skill-demand
+  - Book-parent
 ---
 
 > [!bibliography]
