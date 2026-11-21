@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-21T11:58:17
+amended: 2026-11-21T14:00:08
 ---
 
 # Directory
@@ -18,6 +18,7 @@ amended: 2026-11-21T11:58:17
 - [[@Stiglitz2025-re|The Origins Of Inequality And Policies To Contain It]]
 - [[@Bryan2025-bs|Key Thinkers In Industrial And Organizational Psychology]]
 - [[@Abraham2025-or|The Digitalist Papers - The Economics Of Transformative AI]]
+- [[@Wallis2025-cm|The Market For Skill - Apprenticeship And Economic Growth In Early Modern England]]
 - [[@Thompson2025-tf|Automation And Manufacturing For The Built Environment]]
 ### 2024
 - [[@Deserti2024-xq|Experimenting With The New European Bauhaus Values And Principles In Urban Transformation]]
