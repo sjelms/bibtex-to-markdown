@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-11-21T14:09:12
+amended: 2026-11-21T14:54:03
 ---
 
 # Directory
@@ -81,11 +81,13 @@ amended: 2026-11-21T14:09:12
 - [[@Saunders2019-ko|Understanding Research Philosophy And Approaches To Theory Development]]
 - [[@Stuart2019-wg|The Industrial Relations Of Training And Development]]
 - [[@Pilz2019-py|Duality And Learning Fields In Vocational Education And Training - Pedagogy, Curriculum, And Assessment]]
+- [[@Wallis2019-hy|Apprenticeship In England]]
 - [[@Hairstans2019-ei|Core Offsite Manufacture Industry Drivers]]
 - [[@Smith2019-lv|Productivity, Innovation And Disruption - A Study Of Offsite Construction In The United States]]
 - [[@Billett2019-so|Vocational Education And The Individual]]
 ### 2018
 - [[@Janis2018-ek|A Systematic Literature Review - Human Roles, Competencies And Skills In Industry 4.0]]
+- [[@Stephenson2018-vj|In Search Of The Average Craftsman - Understanding Skilled Work And Wages In The Early Modern Building Trades And Wider Economy]]
 ### 2017
 - [[@Felstead2017-or|Measuring Skills Stock, Job Skills, And Skills Mismatch]]
 - [[@Schneider2017-bz|Preparing Students For Future Learning With Mixed Reality Interfaces]]

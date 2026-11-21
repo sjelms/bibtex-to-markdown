@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-21T14:09:12
+amended: 2026-11-21T14:54:03
 ---
 
 # Directory
@@ -9,6 +9,7 @@ amended: 2026-11-21T14:09:12
 - [[@Spencer2026-tc|University College London - The Bloomsbury Campus]]
 - [[@Zapata2026-tw|Literacies In The Age Of AI - Teaching And Learning In The Digital Era]]
 - [[@Brewis2026-wd|Student London - A New History Of Higher Education In The Capital]]
+- [[@Ongaro2026-lt|A Historical Casebook Of Wage Formation]]
 ### 2025
 - [[@Frey2025-re|How Progress Ends - Technology, Innovation, And The Fate Of Nations]]
 - [[@Coyle2025-yv|The Measure Of Progress - Counting What Really Matters]]
@@ -136,6 +137,7 @@ amended: 2026-11-21T14:09:12
 - [[@Goulding2019-hp|Offsite Production And Manufacturing For Innovative Construction - People, Process, And Technology]]
 - [[@Muller2019-zm|The Tyranny Of Metrics]]
 - [[@Boughton2019-vx|Municipal Dreams - The Rise And Fall Of Council Housing]]
+- [[@Hatcher2019-nd|Seven Centuries Of Unreal Wages - The Unreliable Data, Sources And Methods That Have Been Used For Measuring Standards Of Living In The Past]]
 - [[@Lawson2019-tt|Design In Modular Construction]]
 - [[@Saunders2019-gm|Research Methods For Business Students]]
 - [[@Miles2019-xd|Qualitative Data Analysis - A Methods Sourcebook]]
@@ -520,6 +522,8 @@ amended: 2026-11-21T14:09:12
 ### 1907
 - [[@Marx1907-rf|Capital - A Critique Of Political Economy; The Process Of Circulation Of Capital]]
 - [[@Bagley1907-sj|Classroom Management - Its Principles And Technique]]
+### 1900
+- [[@Bowley1900-yw|Wages In The United Kingdom In The Nineteenth Century - Notes For The Use Of Students Of Social And Economic Questions]]
 ## 1890-1899
 ### 1892
 - [[@Doyle1892-fj|The Adventures Of Sherlock Holmes]]

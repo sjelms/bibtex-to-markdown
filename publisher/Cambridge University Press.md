@@ -14,6 +14,7 @@ category:
 [[@Babbage1832-uj|On The Economy Of Machinery And Manufactures]]
 [[@Barab2005-dj|Design-Based Research]]
 [[@Bock2015-ds|Robot-Oriented Design]]
+[[@Bowley1900-yw|Wages In The United Kingdom In The Nineteenth Century]]
 [[@Cianciolo2006-vt|Tacit Knowledge, Practical Intelligence, And Expertise]]
 [[@Engestrom1987-gi|Learning By Expanding]]
 [[@Engestrom2008-wp|From Teams To Knots]]
@@ -55,4 +56,5 @@ category:
 [[@Sawchuk2013-zi|The Skills Impasse And An Activity Approach]]
 [[@Schon1993-uw|Generative Metaphor]]
 [[@Vindrola-Padros2021-by|Rapid Ethnographies]]
+[[@Wallis2019-hy|Apprenticeship In England]]
 [[@Wenger1999-mt|Communities Of Practice]]
