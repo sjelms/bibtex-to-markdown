@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-11-21T11:39:08
+amended: 2026-11-21T11:58:17
 ---
 
 # Directory
@@ -540,6 +540,8 @@ amended: 2026-11-21T11:39:08
 ### 1961
 - [[@Bruner1961-ca|The Act Of Discovery]]
 ## 1950-1959
+### 1954
+- [[@Lewis1954-fz|Economic Development With Unlimited Supplies Of Labour]]
 ### 1950
 - [[@Turing1950-ky|Computing Machinery And Intelligence]]
 ## 1910-1919

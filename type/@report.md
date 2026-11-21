@@ -1,6 +1,6 @@
 ---
 type: "[[@report]]"
-amended: 2026-11-21T11:39:08
+amended: 2026-11-21T11:58:17
 ---
 
 # Directory
@@ -122,6 +122,7 @@ amended: 2026-11-21T11:39:08
 ### 2007
 - [[@Felstead2007-kc|Performing Identities At Work - Evidence From Contrasting Sectors]]
 - [[@Felstead2007-gg|Skills At Work, 1986 To 2006]]
+- [[@Allen2007-bb|Engels' Pause - A Pessimist's Guide To The British Industrial Revolution]]
 ### 2003
 - [[@Fuller2003-fs|The Impact Of Informal Learning At Work On Business Productivity]]
 ### 2002
