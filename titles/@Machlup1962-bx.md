@@ -11,6 +11,7 @@ tags:
   - _BibTex-to-MD-Git
   - Knowledge-Skill-Acquisition
   - git-lit
+  - Economics
 ---
 
 > [!bibliography]
