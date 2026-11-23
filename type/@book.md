@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-22T13:39:44
+amended: 2026-11-23T12:45:11
 ---
 
 # Directory
@@ -461,6 +461,8 @@ amended: 2026-11-22T13:39:44
 ### 1966
 - [[@Polanyi1966-zb|The Tacit Dimension]]
 - [[@Baran1966-xx|Monopoly Capital - An Essay On The American Economic And Social Order]]
+### 1962
+- [[@Machlup1962-bx|The Production And Distribution Of Knowledge In The United States]]
 ## 1950-1959
 ### 1957
 - [[@Skinner1957-xf|Verbal Behavior]]

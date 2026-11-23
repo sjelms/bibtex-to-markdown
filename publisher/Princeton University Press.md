@@ -19,6 +19,7 @@ category:
 [[@Grier2005-sq|When Computers Were Human]]
 [[@Grier2005-vj|The Children Of Adam Smith]]
 [[@Levy2006-si|The New Division Of Labor]]
+[[@Machlup1962-bx|The Production And Distribution Of Knowledge In The United States]]
 [[@Muller2019-zm|The Tyranny Of Metrics]]
 [[@Popper2020-fy|The Open Society And Its Enemies]]
 [[@Wallis2025-cm|The Market For Skill]]
