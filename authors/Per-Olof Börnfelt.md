@@ -10,8 +10,11 @@ aliases:
 ## Per-Olof Börnfelt
 
 ### Content:
+[[@Bornfelt2023-au|Taylorism And Fordism]]
 [[@Bornfelt2023-ri|Work Organisation In Practice]]
 
 #### Bibliography:
+
+![[@Bornfelt2023-au]]
 
 ![[@Bornfelt2023-ri]]

@@ -1,6 +1,6 @@
 ---
 type: "[[@inbook]]"
-amended: 2026-11-24T16:18:36
+amended: 2026-11-24T16:23:04
 ---
 
 # Directory
@@ -26,6 +26,7 @@ amended: 2026-11-24T16:18:36
 - [[@Sandanayake2023-yl|Key Components Of A VR-Enabled Interactive Platform To Facilitate Effective Construction Risk And Safety Education]]
 - [[@Trinh2023-ib|Delivering Construction Safety Training And Education Using Immersive Learning Technology]]
 - [[@Umeokafor2023-qq|Barriers To Big Data Techniques Application In Construction Safety, Health, And Well-Being]]
+- [[@Bornfelt2023-au|Taylorism And Fordism]]
 - [[@Assaad2023-ib|Opportunities And Challenges Of Offsite Construction]]
 - [[@Eiris2023-xr|Applying 360-Degree Virtual Reality For Construction Safety Training]]
 - [[@Sunindijo2023-kk|Benefits Of Prefabrication On Health And Safety In The Australian Housing Sector]]
