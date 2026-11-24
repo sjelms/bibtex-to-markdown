@@ -18,6 +18,7 @@ tags:
   - Skill-demand
   - git-lit
   - Knowledge-Skill-Acquisition
+  - Book-parent
 ---
 
 > [!bibliography]
