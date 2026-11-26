@@ -10,6 +10,7 @@ category:
 ## Princeton University Press
 
 ### Content:
+[[@Akerlof2009-zw|Animal Spirits]]
 [[@Boltanski2021-jq|On Justification]]
 [[@Callon2021-sa|Markets In The Making]]
 [[@Coyle2025-yv|The Measure Of Progress]]

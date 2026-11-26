@@ -1,6 +1,6 @@
 ---
 type: "[[@book]]"
-amended: 2026-11-24T16:23:04
+amended: 2026-11-26T08:55:36
 ---
 
 # Directory
@@ -208,6 +208,7 @@ amended: 2026-11-24T16:23:04
 - [[@Rose2016-cw|The End Of Average - How We Succeed In A World That Values Sameness]]
 - [[@Ahmed2016-mt|Research Methodology In The Built Environment - A Selection Of Case Studies]]
 ### 2015
+- [[@Hirschman2015-sv|Development Projects Observed]]
 - [[@Biocca2015-km|Immersed In Media - Telepresence Theory, Measurement And Technology]]
 - [[@Thomas2015-uu|The Anatomy Of The Case Study]]
 - [[@Lidelow2015-pk|Industriellt Husbyggande]]
@@ -303,6 +304,7 @@ amended: 2026-11-24T16:23:04
 - [[@Wing2009-xb|The Visual Handbook Of Building And Remodeling - A Comprehensive Guide To Choosing The Right Materials And Systems For Every Part Of Your Home]]
 - [[@Anderson2009-jd|The Longer Long Tail - How Endless Choice Is Creating Unlimited Demand]]
 - [[@Goldin2009-sl|The Race Between Education And Technology]]
+- [[@Akerlof2009-zw|Animal Spirits - How Human Psychology Drives The Economy, And Why It Matters For Global Capitalism]]
 - [[@Robinson2009-ed|The Element - How Finding Your Passion Changes Everything]]
 - [[@Ford2009-nu|The Lights In The Tunnel - Automation, Accelerating Technology And The Economy Of The Future]]
 - [[@Taleb2009-is|The Black Swan - The Impact Of The Highly Improbable]]
