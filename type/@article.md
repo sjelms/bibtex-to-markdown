@@ -1,6 +1,6 @@
 ---
 type: "[[@article]]"
-amended: 2026-11-26T08:55:36
+amended: 2026-11-27T10:28:02
 ---
 
 # Directory
@@ -487,6 +487,7 @@ amended: 2026-11-26T08:55:36
 ### 1992
 - [[@Bratman1992-ys|Shared Cooperative Activity]]
 ### 1991
+- [[@Stiglitz1991-is|The Invisible Hand And Modern Welfare Economics]]
 - [[@Marmot1991-fq|Health Inequalities Among British Civil Servants - The Whitehall II Study]]
 - [[@Welton1991-jd|What's New In The History Of Adult Education]]
 ### 1990
